@@ -1,0 +1,770 @@
+[
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-autor",
+  "rota": "/minha-conta/autor",
+  "print": "mapa/cliente/prints/minha-conta-autor.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-classificados-id-editar",
+  "rota": "/minha-conta/classificados/[id]/editar",
+  "print": "mapa/cliente/prints/minha-conta-classificados-id-editar.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-classificados-novo",
+  "rota": "/minha-conta/classificados/novo",
+  "print": "mapa/cliente/prints/minha-conta-classificados-novo.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-classificados",
+  "rota": "/minha-conta/classificados",
+  "print": "mapa/cliente/prints/minha-conta-classificados.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-colunista-blog-id",
+  "rota": "/minha-conta/colunista-blog/[id]",
+  "print": "mapa/cliente/prints/minha-conta-colunista-blog-id.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-colunista-blog-novo",
+  "rota": "/minha-conta/colunista-blog/novo",
+  "print": "mapa/cliente/prints/minha-conta-colunista-blog-novo.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-colunista-blog",
+  "rota": "/minha-conta/colunista-blog",
+  "print": "mapa/cliente/prints/minha-conta-colunista-blog.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-cupons",
+  "rota": "/minha-conta/cupons",
+  "print": "mapa/cliente/prints/minha-conta-cupons.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-delivery-pedidos",
+  "rota": "/minha-conta/delivery/pedidos",
+  "print": "mapa/cliente/prints/minha-conta-delivery-pedidos.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-empresa",
+  "rota": "/minha-conta/empresa",
+  "print": "mapa/cliente/prints/minha-conta-empresa.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-eventos-novo",
+  "rota": "/minha-conta/eventos/novo",
+  "print": "mapa/cliente/prints/minha-conta-eventos-novo.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-eventos",
+  "rota": "/minha-conta/eventos",
+  "print": "mapa/cliente/prints/minha-conta-eventos.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-guia-plano",
+  "rota": "/minha-conta/guia/plano",
+  "print": "mapa/cliente/prints/minha-conta-guia-plano.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-guia",
+  "rota": "/minha-conta/guia",
+  "print": "mapa/cliente/prints/minha-conta-guia.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-login",
+  "rota": "/minha-conta/login",
+  "print": "mapa/cliente/prints/minha-conta-login.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-materia-patrocinada",
+  "rota": "/minha-conta/materia-patrocinada",
+  "print": "mapa/cliente/prints/minha-conta-materia-patrocinada.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-meus-dados",
+  "rota": "/minha-conta/meus-dados",
+  "print": "mapa/cliente/prints/minha-conta-meus-dados.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-minha-empresa",
+  "rota": "/minha-conta/minha-empresa",
+  "print": "mapa/cliente/prints/minha-conta-minha-empresa.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-noticias-id-editar",
+  "rota": "/minha-conta/noticias/[id]/editar",
+  "print": "mapa/cliente/prints/minha-conta-noticias-id-editar.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-noticias-nova",
+  "rota": "/minha-conta/noticias/nova",
+  "print": "mapa/cliente/prints/minha-conta-noticias-nova.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-noticias",
+  "rota": "/minha-conta/noticias",
+  "print": "mapa/cliente/prints/minha-conta-noticias.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-orcamentos",
+  "rota": "/minha-conta/orcamentos",
+  "print": "mapa/cliente/prints/minha-conta-orcamentos.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-planos-secao",
+  "rota": "/minha-conta/planos/[secao]",
+  "print": "mapa/cliente/prints/minha-conta-planos-secao.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-planos",
+  "rota": "/minha-conta/planos",
+  "print": "mapa/cliente/prints/minha-conta-planos.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-publicidade-nova",
+  "rota": "/minha-conta/publicidade/nova",
+  "print": "mapa/cliente/prints/minha-conta-publicidade-nova.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-publicidade",
+  "rota": "/minha-conta/publicidade",
+  "print": "mapa/cliente/prints/minha-conta-publicidade.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-seguranca",
+  "rota": "/minha-conta/seguranca",
+  "print": "mapa/cliente/prints/minha-conta-seguranca.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-vagas-id-editar",
+  "rota": "/minha-conta/vagas/[id]/editar",
+  "print": "mapa/cliente/prints/minha-conta-vagas-id-editar.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-vagas-nova",
+  "rota": "/minha-conta/vagas/nova",
+  "print": "mapa/cliente/prints/minha-conta-vagas-nova.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-vagas",
+  "rota": "/minha-conta/vagas",
+  "print": "mapa/cliente/prints/minha-conta-vagas.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta",
+  "rota": "/minha-conta",
+  "print": "mapa/cliente/prints/minha-conta.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-alterar-senha",
+  "rota": "/painel/alterar-senha",
+  "print": "mapa/admin/prints/painel-alterar-senha.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-aprovacoes",
+  "rota": "/painel/aprovacoes",
+  "print": "mapa/admin/prints/painel-aprovacoes.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-assistente",
+  "rota": "/painel/assistente",
+  "print": "mapa/admin/prints/painel-assistente.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-blog-categorias",
+  "rota": "/painel/blog/categorias",
+  "print": "mapa/admin/prints/painel-blog-categorias.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-blog-colunistas",
+  "rota": "/painel/blog/colunistas",
+  "print": "mapa/admin/prints/painel-blog-colunistas.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-blog-id",
+  "rota": "/painel/blog/[id]",
+  "print": "mapa/admin/prints/painel-blog-id.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-blog-novo",
+  "rota": "/painel/blog/novo",
+  "print": "mapa/admin/prints/painel-blog-novo.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-blog",
+  "rota": "/painel/blog",
+  "print": "mapa/admin/prints/painel-blog.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-classificados-anunciantes-cadastrar",
+  "rota": "/painel/classificados/anunciantes/cadastrar",
+  "print": "mapa/admin/prints/painel-classificados-anunciantes-cadastrar.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-classificados-anunciantes-id-editar",
+  "rota": "/painel/classificados/anunciantes/[id]/editar",
+  "print": "mapa/admin/prints/painel-classificados-anunciantes-id-editar.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-classificados-anunciantes",
+  "rota": "/painel/classificados/anunciantes",
+  "print": "mapa/admin/prints/painel-classificados-anunciantes.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-classificados-cadastrar",
+  "rota": "/painel/classificados/cadastrar",
+  "print": "mapa/admin/prints/painel-classificados-cadastrar.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-classificados-categorias",
+  "rota": "/painel/classificados/categorias",
+  "print": "mapa/admin/prints/painel-classificados-categorias.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-classificados-denuncias",
+  "rota": "/painel/classificados/denuncias",
+  "print": "mapa/admin/prints/painel-classificados-denuncias.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-classificados-id-editar",
+  "rota": "/painel/classificados/[id]/editar",
+  "print": "mapa/admin/prints/painel-classificados-id-editar.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-classificados",
+  "rota": "/painel/classificados",
+  "print": "mapa/admin/prints/painel-classificados.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-clientes-id",
+  "rota": "/painel/clientes/[id]",
+  "print": "mapa/admin/prints/painel-clientes-id.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-clientes",
+  "rota": "/painel/clientes",
+  "print": "mapa/admin/prints/painel-clientes.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-configuracoes-cobranca",
+  "rota": "/painel/configuracoes/cobranca",
+  "print": "mapa/admin/prints/painel-configuracoes-cobranca.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-configuracoes-layout-cores",
+  "rota": "/painel/configuracoes/layout/cores",
+  "print": "mapa/admin/prints/painel-configuracoes-layout-cores.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-configuracoes-layout-inicio",
+  "rota": "/painel/configuracoes/layout/inicio",
+  "print": "mapa/admin/prints/painel-configuracoes-layout-inicio.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-configuracoes-layout-rodape",
+  "rota": "/painel/configuracoes/layout/rodape",
+  "print": "mapa/admin/prints/painel-configuracoes-layout-rodape.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-configuracoes-layout-topo",
+  "rota": "/painel/configuracoes/layout/topo",
+  "print": "mapa/admin/prints/painel-configuracoes-layout-topo.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-configuracoes-layout",
+  "rota": "/painel/configuracoes/layout",
+  "print": "mapa/admin/prints/painel-configuracoes-layout.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-configuracoes-modulos",
+  "rota": "/painel/configuracoes/modulos",
+  "print": "mapa/admin/prints/painel-configuracoes-modulos.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-configuracoes",
+  "rota": "/painel/configuracoes",
+  "print": "mapa/admin/prints/painel-configuracoes.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-cupons-empresaid-editar",
+  "rota": "/painel/cupons/[empresaId]/editar",
+  "print": "mapa/admin/prints/painel-cupons-empresaid-editar.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-cupons-novo",
+  "rota": "/painel/cupons/novo",
+  "print": "mapa/admin/prints/painel-cupons-novo.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-cupons",
+  "rota": "/painel/cupons",
+  "print": "mapa/admin/prints/painel-cupons.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-delivery-cardapio",
+  "rota": "/painel/delivery/cardapio",
+  "print": "mapa/admin/prints/painel-delivery-cardapio.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-delivery-configuracoes",
+  "rota": "/painel/delivery/configuracoes",
+  "print": "mapa/admin/prints/painel-delivery-configuracoes.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-delivery-pedidos",
+  "rota": "/painel/delivery/pedidos",
+  "print": "mapa/admin/prints/painel-delivery-pedidos.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-denuncias-id",
+  "rota": "/painel/denuncias/[id]",
+  "print": "mapa/admin/prints/painel-denuncias-id.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-denuncias",
+  "rota": "/painel/denuncias",
+  "print": "mapa/admin/prints/painel-denuncias.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-financeiro",
+  "rota": "/painel/financeiro",
+  "print": "mapa/admin/prints/painel-financeiro.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-guia-banners-cadastrar",
+  "rota": "/painel/guia/banners/cadastrar",
+  "print": "mapa/admin/prints/painel-guia-banners-cadastrar.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-guia-banners",
+  "rota": "/painel/guia/banners",
+  "print": "mapa/admin/prints/painel-guia-banners.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-guia-categorias",
+  "rota": "/painel/guia/categorias",
+  "print": "mapa/admin/prints/painel-guia-categorias.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-guia-empresas-cadastrar",
+  "rota": "/painel/guia/empresas/cadastrar",
+  "print": "mapa/admin/prints/painel-guia-empresas-cadastrar.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-guia-empresas-id-cardapio",
+  "rota": "/painel/guia/empresas/[id]/cardapio",
+  "print": "mapa/admin/prints/painel-guia-empresas-id-cardapio.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-guia-empresas-id-catalogo",
+  "rota": "/painel/guia/empresas/[id]/catalogo",
+  "print": "mapa/admin/prints/painel-guia-empresas-id-catalogo.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-guia-empresas-id-editar",
+  "rota": "/painel/guia/empresas/[id]/editar",
+  "print": "mapa/admin/prints/painel-guia-empresas-id-editar.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-guia-empresas-id-equipe",
+  "rota": "/painel/guia/empresas/[id]/equipe",
+  "print": "mapa/admin/prints/painel-guia-empresas-id-equipe.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-guia-empresas-id-quartos",
+  "rota": "/painel/guia/empresas/[id]/quartos",
+  "print": "mapa/admin/prints/painel-guia-empresas-id-quartos.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-guia-empresas-id-servicos",
+  "rota": "/painel/guia/empresas/[id]/servicos",
+  "print": "mapa/admin/prints/painel-guia-empresas-id-servicos.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-guia-empresas-importar",
+  "rota": "/painel/guia/empresas/importar",
+  "print": "mapa/admin/prints/painel-guia-empresas-importar.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-guia-empresas",
+  "rota": "/painel/guia/empresas",
+  "print": "mapa/admin/prints/painel-guia-empresas.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-guia-subcategorias",
+  "rota": "/painel/guia/subcategorias",
+  "print": "mapa/admin/prints/painel-guia-subcategorias.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-login",
+  "rota": "/painel/login",
+  "print": "mapa/admin/prints/painel-login.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-noticias-autor",
+  "rota": "/painel/noticias/autor",
+  "print": "mapa/admin/prints/painel-noticias-autor.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-noticias-cadastrar",
+  "rota": "/painel/noticias/cadastrar",
+  "print": "mapa/admin/prints/painel-noticias-cadastrar.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-noticias-categorias",
+  "rota": "/painel/noticias/categorias",
+  "print": "mapa/admin/prints/painel-noticias-categorias.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-noticias-fontes-rss-cadastrar",
+  "rota": "/painel/noticias/fontes-rss/cadastrar",
+  "print": "mapa/admin/prints/painel-noticias-fontes-rss-cadastrar.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-noticias-fontes-rss-id-editar",
+  "rota": "/painel/noticias/fontes-rss/[id]/editar",
+  "print": "mapa/admin/prints/painel-noticias-fontes-rss-id-editar.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-noticias-fontes-rss",
+  "rota": "/painel/noticias/fontes-rss",
+  "print": "mapa/admin/prints/painel-noticias-fontes-rss.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-noticias-id-editar",
+  "rota": "/painel/noticias/[id]/editar",
+  "print": "mapa/admin/prints/painel-noticias-id-editar.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-noticias-jornalistas",
+  "rota": "/painel/noticias/jornalistas",
+  "print": "mapa/admin/prints/painel-noticias-jornalistas.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-noticias-subcategorias",
+  "rota": "/painel/noticias/subcategorias",
+  "print": "mapa/admin/prints/painel-noticias-subcategorias.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-noticias",
+  "rota": "/painel/noticias",
+  "print": "mapa/admin/prints/painel-noticias.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-notificacoes",
+  "rota": "/painel/notificacoes",
+  "print": "mapa/admin/prints/painel-notificacoes.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-orcamentos-categorias",
+  "rota": "/painel/orcamentos/categorias",
+  "print": "mapa/admin/prints/painel-orcamentos-categorias.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-orcamentos",
+  "rota": "/painel/orcamentos",
+  "print": "mapa/admin/prints/painel-orcamentos.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-parceiros",
+  "rota": "/painel/parceiros",
+  "print": "mapa/admin/prints/painel-parceiros.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-planos-secao",
+  "rota": "/painel/planos/[secao]",
+  "print": "mapa/admin/prints/painel-planos-secao.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-planos",
+  "rota": "/painel/planos",
+  "print": "mapa/admin/prints/painel-planos.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-sem-acesso",
+  "rota": "/painel/sem-acesso",
+  "print": "mapa/admin/prints/painel-sem-acesso.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-sso",
+  "rota": "/painel/sso",
+  "print": "mapa/admin/prints/painel-sso.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-sugestoes",
+  "rota": "/painel/sugestoes",
+  "print": "mapa/admin/prints/painel-sugestoes.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-turismo-categorias",
+  "rota": "/painel/turismo/categorias",
+  "print": "mapa/admin/prints/painel-turismo-categorias.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-turismo-dicas",
+  "rota": "/painel/turismo/dicas",
+  "print": "mapa/admin/prints/painel-turismo-dicas.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-turismo-eventos-categorias",
+  "rota": "/painel/turismo/eventos/categorias",
+  "print": "mapa/admin/prints/painel-turismo-eventos-categorias.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-turismo-eventos-id-fotos",
+  "rota": "/painel/turismo/eventos/[id]/fotos",
+  "print": "mapa/admin/prints/painel-turismo-eventos-id-fotos.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-turismo-eventos-organizadores-cadastrar",
+  "rota": "/painel/turismo/eventos/organizadores/cadastrar",
+  "print": "mapa/admin/prints/painel-turismo-eventos-organizadores-cadastrar.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-turismo-eventos-organizadores-id-editar",
+  "rota": "/painel/turismo/eventos/organizadores/[id]/editar",
+  "print": "mapa/admin/prints/painel-turismo-eventos-organizadores-id-editar.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-turismo-eventos-organizadores",
+  "rota": "/painel/turismo/eventos/organizadores",
+  "print": "mapa/admin/prints/painel-turismo-eventos-organizadores.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-turismo-eventos",
+  "rota": "/painel/turismo/eventos",
+  "print": "mapa/admin/prints/painel-turismo-eventos.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-turismo-pontos-id",
+  "rota": "/painel/turismo/pontos/[id]",
+  "print": "mapa/admin/prints/painel-turismo-pontos-id.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-turismo-pontos-novo",
+  "rota": "/painel/turismo/pontos/novo",
+  "print": "mapa/admin/prints/painel-turismo-pontos-novo.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-turismo-pontos",
+  "rota": "/painel/turismo/pontos",
+  "print": "mapa/admin/prints/painel-turismo-pontos.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-turismo-roteiros-id-fotos",
+  "rota": "/painel/turismo/roteiros/[id]/fotos",
+  "print": "mapa/admin/prints/painel-turismo-roteiros-id-fotos.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-turismo-roteiros",
+  "rota": "/painel/turismo/roteiros",
+  "print": "mapa/admin/prints/painel-turismo-roteiros.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-utilidade-denuncias-id",
+  "rota": "/painel/utilidade/denuncias/[id]",
+  "print": "mapa/admin/prints/painel-utilidade-denuncias-id.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-utilidade-denuncias",
+  "rota": "/painel/utilidade/denuncias",
+  "print": "mapa/admin/prints/painel-utilidade-denuncias.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-utilidade-onibus",
+  "rota": "/painel/utilidade/onibus",
+  "print": "mapa/admin/prints/painel-utilidade-onibus.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-utilidade-telefones",
+  "rota": "/painel/utilidade/telefones",
+  "print": "mapa/admin/prints/painel-utilidade-telefones.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-vagas-areas",
+  "rota": "/painel/vagas/areas",
+  "print": "mapa/admin/prints/painel-vagas-areas.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-vagas-cadastrar",
+  "rota": "/painel/vagas/cadastrar",
+  "print": "mapa/admin/prints/painel-vagas-cadastrar.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-vagas-contratantes-cadastrar",
+  "rota": "/painel/vagas/contratantes/cadastrar",
+  "print": "mapa/admin/prints/painel-vagas-contratantes-cadastrar.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-vagas-contratantes-id-editar",
+  "rota": "/painel/vagas/contratantes/[id]/editar",
+  "print": "mapa/admin/prints/painel-vagas-contratantes-id-editar.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-vagas-contratantes",
+  "rota": "/painel/vagas/contratantes",
+  "print": "mapa/admin/prints/painel-vagas-contratantes.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-vagas-id-editar",
+  "rota": "/painel/vagas/[id]/editar",
+  "print": "mapa/admin/prints/painel-vagas-id-editar.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-vagas-id-insights",
+  "rota": "/painel/vagas/[id]/insights",
+  "print": "mapa/admin/prints/painel-vagas-id-insights.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-vagas",
+  "rota": "/painel/vagas",
+  "print": "mapa/admin/prints/painel-vagas.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel",
+  "rota": "/painel",
+  "print": "mapa/admin/prints/painel.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-eventos-id-editar",
+  "rota": "/minha-conta/eventos/[id]/editar",
+  "print": "mapa/cliente/prints/minha-conta-eventos-id-editar.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta-publicidade-id-editar",
+  "rota": "/minha-conta/publicidade/[id]/editar",
+  "print": "mapa/cliente/prints/minha-conta-publicidade-id-editar.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-guia-banners-id-editar",
+  "rota": "/painel/guia/banners/[id]/editar",
+  "print": "mapa/admin/prints/painel-guia-banners-id-editar.png"
+ }
+]

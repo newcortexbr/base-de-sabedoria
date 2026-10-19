@@ -1,0 +1,31 @@
+# /painel/blog/novo — cadastrar artigo (`src/app/painel/blog/novo/page.tsx`)
+- gate: módulo `blog`. - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`); lojista/cliente/jornalista são recusados no login do painel.
+- faz: cria artigo em nome de um colunista. Obrigatório escolher o colunista (:93, "escolha quem assina o artigo").
+- campos (`ArtigoCamposForm.tsx`): Colunista, Categoria, Título, Subtítulo, Chamada, corpo (editor), foto + legenda + créditos, Título SEO, Descrição SEO, status.
+- APIs: `blog.colunistas.listar`, `blog.categorias.listar` (:68-69), `blog.artigos.criar` (:114). Depois do salvar vai para `/painel/blog/{id}` (:126) e revalida o site (:123).
+- estados: erro de carga/salvar em `error` (:77,128); falha só de categorias vira aviso `avisoCategorias` (:65 e :69), não bloqueia.
+- problemas: nenhum confirmado. hipótese — colunista sem artigos permitidos no plano não é checado aqui; o servidor decide.
+- admin vs cliente: cliente cria em `/minha-conta/colunista-blog/novo` (limite semanal, plano). Admin publica em nome do colunista, sem esses limites (a confirmar no backend).
+
+## posições na tela (print de 2026-10-16, 1280x900)
+- print: [painel-blog-novo.png](../prints/painel-blog-novo.png) · dados brutos: [json](../prints/json/painel-blog-novo.json)
+- aberta em `/painel/blog/novo`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)
+- [título] "grandevix (local)" — menu lateral, no topo da página, à esquerda (14,16,207,19)
+- [link] "Ver portal" — topo, no topo da página, à direita (1147,16,109,34)
+- [menu] "27 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Notícias Automáticas · Guia Comercial · Vagas de Emprego · Classificados · Guia Turístico / Eventos · Artigos · Lista de Artigos · Novo Artigo · Colunistas · Categorias …" — menu lateral, no topo da página, à esquerda (lista de 27 itens em coluna) (10,18,255,953)
+- [título] "Artigos" — topo, no topo da página, à esquerda (300,19,63,28)
+- [link] "Voltar para a lista" — conteúdo, na parte de cima, à esquerda (354,99,128,20)
+- [título] "Cadastrar Artigo" — conteúdo, faixa larga na parte de cima (354,135,848,32)
+- [lista de opções] "Colunista" — conteúdo, na parte de cima, ao centro (387,268,383,36)
+- [campo] "Categoria" — conteúdo, na parte de cima, à direita (786,268,383,38)
+- [campo] "" — conteúdo, faixa larga na parte de cima (387,346,782,38)
+- [campo] "" — conteúdo, faixa larga no meio da tela (387,424,782,38)
+- [botão] "Negrito (e outros 18 parecidos)" — conteúdo, no meio da tela, à esquerda (repetido ×19, um sob o outro) (396,614,32,32)
+- [link] "Falar com o suporte no WhatsApp" — conteúdo, no meio da tela, à direita (1200,820,56,56)
+- [selo] "··" — menu lateral, no meio da tela, à esquerda (16,858,32,32)
+- [envio de arquivo] "" — conteúdo, mais abaixo (rolando a página), ao centro (387,1066,265,20)
+- [campo] "" — conteúdo, mais abaixo (rolando a página), ao centro (387,1128,383,38)
+- [campo] "" — conteúdo, mais abaixo (rolando a página), à direita (786,1128,383,38)
+- [campo] "" — conteúdo, mais abaixo (rolando a página), ao centro (387,1206,383,38)
+- [campo] "" — conteúdo, mais abaixo (rolando a página), à direita (786,1206,383,38)
+- [botão] "Salvar" — conteúdo, no fim da página, ao centro (387,1260,82,40)

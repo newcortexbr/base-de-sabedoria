@@ -1,0 +1,34 @@
+# /painel/noticias/fontes-rss — fontes RSS (`.../fontes-rss/page.tsx`)
+- gate: módulo `noticias` (prefixo `/painel/noticias`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
+- permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
+- faz: lista de fontes RSS com última atualização ("Nunca atualizado", :36) e status.
+- ações: ativar/desativar (:130), excluir (:149), ir para cadastrar/editar; revalida o site (:137).
+- APIs: `noticias.fontesRss.listar|atualizar|excluir`.
+- estados: "Erro ao carregar fontes de RSS: …" (:99); vazio "Nenhuma fonte de RSS cadastrada" (:209).
+- admin vs cliente: o cliente não tem RSS. Sem equivalente.
+
+## posições na tela (print de 2026-10-16, 1280x900)
+- print: [painel-noticias-fontes-rss.png](../prints/painel-noticias-fontes-rss.png) · dados brutos: [json](../prints/json/painel-noticias-fontes-rss.json)
+- aberta em `/painel/noticias/fontes-rss`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)
+- [título] "grandevix (local)" — menu lateral, no topo da página, à esquerda (14,16,207,19)
+- [link] "Ver portal" — topo, no topo da página, à direita (1147,16,109,34)
+- [menu] "30 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Cadastrar Notícia · Listar Notícias · Gerenciar Categorias · Gerenciar Subcategorias · Autor · Jornalistas · Notícias Automáticas · Fontes de RSS · Guia Comercial · Vagas de Emprego …" — menu lateral, no topo da página, à esquerda (lista de 30 itens em coluna) (10,18,255,1053)
+- [título] "Notícias Automáticas — Fontes de RSS" — topo, no topo da página, ao centro (300,19,337,28)
+- [campo] "Buscar por título ou URL..." — conteúdo, na parte de cima, ao centro (454,91,725,38)
+- [link] "+ Cadastrar RSS" — conteúdo, na parte de cima, à esquerda (300,92,142,36)
+- [coluna] "ID" — conteúdo, na parte de cima, à esquerda (300,145,51,41)
+- [coluna] "Título" — conteúdo, na parte de cima, ao centro (351,145,396,41)
+- [coluna] "Origem" — conteúdo, na parte de cima, ao centro (747,145,120,41)
+- [coluna] "Última Atualização" — conteúdo, na parte de cima, à direita (867,145,198,41)
+- [coluna] "Status" — conteúdo, na parte de cima, à direita (1065,145,92,41)
+- [coluna] "Ações" — conteúdo, na parte de cima, à direita (1157,145,99,41)
+- [botão] "Clique para ativar" — conteúdo, na parte de cima, à direita, logo abaixo de “Status” (1081,205,40,20)
+- [link] "Configurar (título e URL são da plataforma)" — conteúdo, na parte de cima, à direita (1173,206,24,24)
+- [selo] "Plataforma" — conteúdo, na parte de cima, ao centro (763,208,74,20)
+- [link] "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml" — conteúdo, na parte de cima, ao centro (367,222,319,14)
+- [botão] "Clique para ativar" — conteúdo, na parte de cima, à direita, logo abaixo de “Clique para ativar” (1081,270,40,20)
+- [link] "Configurar (título e URL são da plataforma)" — conteúdo, na parte de cima, à direita (1173,271,24,24)
+- [selo] "Plataforma" — conteúdo, na parte de cima, ao centro (763,273,74,20)
+- [link] "https://g1.globo.com/rss/g1/" — conteúdo, na parte de cima, ao centro (367,287,147,14)
+- [link] "Falar com o suporte no WhatsApp" — conteúdo, no meio da tela, à direita (1200,820,56,56)
+- [selo] "··" — menu lateral, no meio da tela, à esquerda (16,858,32,32)

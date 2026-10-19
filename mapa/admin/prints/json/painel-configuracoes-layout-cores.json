@@ -1,0 +1,1499 @@
+{
+ "rota": "/painel/configuracoes/layout/cores",
+ "url": "/painel/configuracoes/layout/cores",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    16,
+    207,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    18,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Configurações",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    36,
+    91,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Layout",
+   "regiao": "conteúdo",
+   "caixa": [
+    411,
+    36,
+    43,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    63,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Cores do portal",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    84,
+    956,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    97,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    163,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    197,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    231,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Computador",
+   "regiao": "conteúdo",
+   "caixa": [
+    739,
+    232,
+    95,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Celular",
+   "regiao": "conteúdo",
+   "caixa": [
+    838,
+    232,
+    65,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    265,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Verde-azulado",
+   "regiao": "conteúdo",
+   "caixa": [
+    319,
+    273,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Esmeralda",
+   "regiao": "conteúdo",
+   "caixa": [
+    357,
+    273,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Ciano",
+   "regiao": "conteúdo",
+   "caixa": [
+    395,
+    273,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Azul",
+   "regiao": "conteúdo",
+   "caixa": [
+    433,
+    273,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Roxo",
+   "regiao": "conteúdo",
+   "caixa": [
+    471,
+    273,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vermelho",
+   "regiao": "conteúdo",
+   "caixa": [
+    509,
+    273,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Laranja",
+   "regiao": "conteúdo",
+   "caixa": [
+    547,
+    273,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Âmbar",
+   "regiao": "conteúdo",
+   "caixa": [
+    585,
+    273,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Verde",
+   "regiao": "conteúdo",
+   "caixa": [
+    623,
+    273,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Início",
+   "regiao": "conteúdo",
+   "caixa": [
+    799,
+    283,
+    55,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia",
+   "regiao": "conteúdo",
+   "caixa": [
+    860,
+    283,
+    51,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Empresa",
+   "regiao": "conteúdo",
+   "caixa": [
+    917,
+    283,
+    75,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas",
+   "regiao": "conteúdo",
+   "caixa": [
+    998,
+    283,
+    59,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "conteúdo",
+   "caixa": [
+    1062,
+    283,
+    101,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    299,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Grafite",
+   "regiao": "conteúdo",
+   "caixa": [
+    319,
+    311,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marinho",
+   "regiao": "conteúdo",
+   "caixa": [
+    357,
+    311,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Preto",
+   "regiao": "conteúdo",
+   "caixa": [
+    395,
+    311,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Pedir orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    799,
+    319,
+    119,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Login",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    319,
+    57,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Área do cliente (exemplo)",
+   "regiao": "conteúdo",
+   "caixa": [
+    986,
+    319,
+    170,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Anuncie",
+   "regiao": "conteúdo",
+   "caixa": [
+    1162,
+    319,
+    71,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    333,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Cor Primária: escolher na paleta",
+   "regiao": "conteúdo",
+   "caixa": [
+    319,
+    355,
+    40,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Cor Primária: código da cor",
+   "regiao": "conteúdo",
+   "caixa": [
+    369,
+    355,
+    110,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    367,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Tudo",
+   "regiao": "conteúdo",
+   "caixa": [
+    804,
+    368,
+    52,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Só a Primária",
+   "regiao": "conteúdo",
+   "caixa": [
+    862,
+    368,
+    119,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Só a de Destaque",
+   "regiao": "conteúdo",
+   "caixa": [
+    987,
+    368,
+    142,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    401,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    435,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    469,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    503,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    569,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    603,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "aviso",
+   "texto": "Boa leitura: o texto aparece bem com esta cor.",
+   "regiao": "conteúdo",
+   "caixa": [
+    319,
+    618,
+    362,
+    39
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    637,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    671,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    737,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    771,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Rosa",
+   "regiao": "conteúdo",
+   "caixa": [
+    319,
+    792,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Pink",
+   "regiao": "conteúdo",
+   "caixa": [
+    357,
+    792,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vermelho",
+   "regiao": "conteúdo",
+   "caixa": [
+    395,
+    792,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Laranja",
+   "regiao": "conteúdo",
+   "caixa": [
+    433,
+    792,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Âmbar",
+   "regiao": "conteúdo",
+   "caixa": [
+    471,
+    792,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Dourado",
+   "regiao": "conteúdo",
+   "caixa": [
+    509,
+    792,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Roxo",
+   "regiao": "conteúdo",
+   "caixa": [
+    547,
+    792,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Azul",
+   "regiao": "conteúdo",
+   "caixa": [
+    585,
+    792,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Ciano",
+   "regiao": "conteúdo",
+   "caixa": [
+    623,
+    792,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de FunçõesDiga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    800,
+    255,
+    50
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    805,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Falar com o suporte no WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    1200,
+    820,
+    56,
+    56
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Verde-azulado",
+   "regiao": "conteúdo",
+   "caixa": [
+    319,
+    830,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Verde",
+   "regiao": "conteúdo",
+   "caixa": [
+    357,
+    830,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Grafite",
+   "regiao": "conteúdo",
+   "caixa": [
+    395,
+    830,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Configurações Gerais",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    839,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "··",
+   "regiao": "menu lateral",
+   "caixa": [
+    16,
+    858,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    859,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Layout",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    871,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Cor de Destaque: escolher na paleta",
+   "regiao": "conteúdo",
+   "caixa": [
+    319,
+    874,
+    40,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Cor de Destaque: código da cor",
+   "regiao": "conteúdo",
+   "caixa": [
+    369,
+    874,
+    110,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Cobrança",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    903,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Módulos do Portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    935,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "aviso",
+   "texto": "Boa leitura: o texto aparece bem com esta cor.",
+   "regiao": "conteúdo",
+   "caixa": [
+    319,
+    1071,
+    362,
+    39
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Layout › Topo",
+   "regiao": "conteúdo",
+   "caixa": [
+    420,
+    1179,
+    82,
+    14
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Layout › Rodapé",
+   "regiao": "conteúdo",
+   "caixa": [
+    516,
+    1179,
+    98,
+    14
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Salvar cores",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    1225,
+    400,
+    46
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  1307
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "grandevix (local)",
+    "regiao": "menu lateral",
+    "caixa": [
+     14,
+     16,
+     207,
+     19
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "menu",
+    "texto": "27 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Notícias Automáticas · Guia Comercial · Vagas de Emprego · Classificados · Guia Turístico / Eventos · Artigos · Orçamentos Online · A Voz do Povo · Melhores da Cidade · Banners Publicitários …",
+    "regiao": "menu lateral",
+    "caixa": [
+     10,
+     18,
+     255,
+     949
+    ],
+    "nota": "lista de 27 itens em coluna",
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "link",
+    "texto": "Configurações",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     36,
+     91,
+     20
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "link",
+    "texto": "Layout",
+    "regiao": "conteúdo",
+    "caixa": [
+     411,
+     36,
+     43,
+     20
+    ],
+    "linha": 0,
+    "desc": "no topo da página, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Cores do portal",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     84,
+     956,
+     36
+    ],
+    "linha": 0,
+    "desc": "faixa larga no topo da página"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Computador",
+    "regiao": "conteúdo",
+    "caixa": [
+     739,
+     232,
+     95,
+     30
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Celular",
+    "regiao": "conteúdo",
+    "caixa": [
+     838,
+     232,
+     65,
+     30
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Verde-azulado (e outros 8 parecidos)",
+    "regiao": "conteúdo",
+    "caixa": [
+     319,
+     273,
+     30,
+     30
+    ],
+    "nota": "repetido ×9, um sob o outro",
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Início",
+    "regiao": "conteúdo",
+    "caixa": [
+     799,
+     283,
+     55,
+     28
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “Computador”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Guia",
+    "regiao": "conteúdo",
+    "caixa": [
+     860,
+     283,
+     51,
+     28
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Celular”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Empresa",
+    "regiao": "conteúdo",
+    "caixa": [
+     917,
+     283,
+     75,
+     28
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Vagas",
+    "regiao": "conteúdo",
+    "caixa": [
+     998,
+     283,
+     59,
+     28
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Classificados",
+    "regiao": "conteúdo",
+    "caixa": [
+     1062,
+     283,
+     101,
+     28
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Grafite",
+    "regiao": "conteúdo",
+    "caixa": [
+     319,
+     311,
+     30,
+     30
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda, logo abaixo de “Verde-azulado (e outros 8 parecidos”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Marinho",
+    "regiao": "conteúdo",
+    "caixa": [
+     357,
+     311,
+     30,
+     30
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Preto",
+    "regiao": "conteúdo",
+    "caixa": [
+     395,
+     311,
+     30,
+     30
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Pedir orçamento",
+    "regiao": "conteúdo",
+    "caixa": [
+     799,
+     319,
+     119,
+     28
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Início”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Login",
+    "regiao": "conteúdo",
+    "caixa": [
+     924,
+     319,
+     57,
+     28
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Empresa”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Área do cliente (exemplo)",
+    "regiao": "conteúdo",
+    "caixa": [
+     986,
+     319,
+     170,
+     28
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Empresa”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Anuncie",
+    "regiao": "conteúdo",
+    "caixa": [
+     1162,
+     319,
+     71,
+     28
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Classificados”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Cor Primária: escolher na paleta",
+    "regiao": "conteúdo",
+    "caixa": [
+     319,
+     355,
+     40,
+     40
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda, logo abaixo de “Grafite”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Cor Primária: código da cor",
+    "regiao": "conteúdo",
+    "caixa": [
+     369,
+     355,
+     110,
+     40
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda, logo abaixo de “Marinho”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Tudo",
+    "regiao": "conteúdo",
+    "caixa": [
+     804,
+     368,
+     52,
+     28
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “Pedir orçamento”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Só a Primária",
+    "regiao": "conteúdo",
+    "caixa": [
+     862,
+     368,
+     119,
+     28
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Pedir orçamento”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Só a de Destaque",
+    "regiao": "conteúdo",
+    "caixa": [
+     987,
+     368,
+     142,
+     28
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Área do cliente (exemplo)”"
+   },
+   {
+    "tipo": "aviso",
+    "texto": "Boa leitura: o texto aparece bem com esta cor.",
+    "regiao": "conteúdo",
+    "caixa": [
+     319,
+     618,
+     362,
+     39
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Rosa (e outros 8 parecidos)",
+    "regiao": "conteúdo",
+    "caixa": [
+     319,
+     792,
+     30,
+     30
+    ],
+    "nota": "repetido ×9, um sob o outro",
+    "desc": "no meio da tela, à esquerda"
+   },
+   {
+    "tipo": "link",
+    "texto": "Falar com o suporte no WhatsApp",
+    "regiao": "conteúdo",
+    "caixa": [
+     1200,
+     820,
+     56,
+     56
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Verde-azulado",
+    "regiao": "conteúdo",
+    "caixa": [
+     319,
+     830,
+     30,
+     30
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda, logo abaixo de “Rosa (e outros 8 parecidos)”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Verde",
+    "regiao": "conteúdo",
+    "caixa": [
+     357,
+     830,
+     30,
+     30
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Grafite",
+    "regiao": "conteúdo",
+    "caixa": [
+     395,
+     830,
+     30,
+     30
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda"
+   },
+   {
+    "tipo": "selo",
+    "texto": "··",
+    "regiao": "menu lateral",
+    "caixa": [
+     16,
+     858,
+     32,
+     32
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Cor de Destaque: escolher na paleta",
+    "regiao": "conteúdo",
+    "caixa": [
+     319,
+     874,
+     40,
+     40
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda, logo abaixo de “Verde-azulado”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Cor de Destaque: código da cor",
+    "regiao": "conteúdo",
+    "caixa": [
+     369,
+     874,
+     110,
+     40
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda, logo abaixo de “Verde”"
+   },
+   {
+    "tipo": "aviso",
+    "texto": "Boa leitura: o texto aparece bem com esta cor.",
+    "regiao": "conteúdo",
+    "caixa": [
+     319,
+     1071,
+     362,
+     39
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Layout › Topo",
+    "regiao": "conteúdo",
+    "caixa": [
+     420,
+     1179,
+     82,
+     14
+    ],
+    "linha": 0,
+    "desc": "no fim da página, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Layout › Rodapé",
+    "regiao": "conteúdo",
+    "caixa": [
+     516,
+     1179,
+     98,
+     14
+    ],
+    "linha": 0,
+    "desc": "no fim da página, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Salvar cores",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     1225,
+     400,
+     46
+    ],
+    "linha": 0,
+    "desc": "no fim da página, ao centro"
+   }
+  ],
+  "total": 38,
+  "W": 1280,
+  "H": 1307
+ }
+}

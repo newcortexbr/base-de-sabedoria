@@ -1,0 +1,793 @@
+{
+ "rota": "/painel/guia/empresas/[id]/cardapio",
+ "url": "/painel/guia/empresas/1/cardapio",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    16,
+    207,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Gerenciar Cardápio",
+   "regiao": "conteúdo",
+   "caixa": [
+    462,
+    16,
+    167,
+    27
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    18,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "← Voltar para empresa",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    20,
+    134,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    63,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    97,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Botões do cardápio",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    109,
+    306,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Aparência do cardápio",
+   "regiao": "conteúdo",
+   "caixa": [
+    807,
+    109,
+    306,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    163,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "CategoriaNome do pratoDescrição do pratoR$ 29,90ClaroEm uso",
+   "regiao": "conteúdo",
+   "caixa": [
+    807,
+    185,
+    147,
+    201
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "CategoriaNome do pratoDescrição do pratoR$ 29,90Escuro",
+   "regiao": "conteúdo",
+   "caixa": [
+    966,
+    185,
+    147,
+    201
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    197,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    231,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Listar Empresas",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    265,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Gerenciar Categorias",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    297,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Gerenciar Subcategorias",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    329,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Cupons de Desconto",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    361,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    397,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    431,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    465,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "QR Code do cardápio",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    469,
+    306,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    499,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    533,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    567,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    601,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    635,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "A4parede",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    690,
+    150,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "A5balcão",
+   "regiao": "conteúdo",
+   "caixa": [
+    599,
+    690,
+    150,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    701,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    735,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "A6mesa",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    740,
+    150,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Adesivo10 × 10 cm",
+   "regiao": "conteúdo",
+   "caixa": [
+    599,
+    740,
+    150,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    769,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Gerar QR Code para imprimir",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    796,
+    306,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de FunçõesDiga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    800,
+    255,
+    50
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    803,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Falar com o suporte no WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    1200,
+    820,
+    56,
+    56
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Baixar imagem",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    848,
+    149,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar link",
+   "regiao": "conteúdo",
+   "caixa": [
+    600,
+    848,
+    149,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "··",
+   "regiao": "menu lateral",
+   "caixa": [
+    16,
+    858,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    859,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    869,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    903,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    937,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "+ Nova seção",
+   "regiao": "conteúdo",
+   "caixa": [
+    1015,
+    941,
+    119,
+    38
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  1271
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "grandevix (local)",
+    "regiao": "menu lateral",
+    "caixa": [
+     14,
+     16,
+     207,
+     19
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Gerenciar Cardápio",
+    "regiao": "conteúdo",
+    "caixa": [
+     462,
+     16,
+     167,
+     27
+    ],
+    "linha": 0,
+    "desc": "no topo da página, ao centro"
+   },
+   {
+    "tipo": "menu",
+    "texto": "27 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Notícias Automáticas · Guia Comercial · Listar Empresas · Gerenciar Categorias · Gerenciar Subcategorias · Cupons de Desconto · Vagas de Emprego · Classificados · Guia Turístico / Eventos · Artigos …",
+    "regiao": "menu lateral",
+    "caixa": [
+     10,
+     18,
+     255,
+     953
+    ],
+    "nota": "lista de 27 itens em coluna",
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "link",
+    "texto": "← Voltar para empresa",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     20,
+     134,
+     20
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Botões do cardápio",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     109,
+     306,
+     23
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Aparência do cardápio",
+    "regiao": "conteúdo",
+    "caixa": [
+     807,
+     109,
+     306,
+     23
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "CategoriaNome do pratoDescrição do pratoR$ 29,90ClaroEm uso",
+    "regiao": "conteúdo",
+    "caixa": [
+     807,
+     185,
+     147,
+     201
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Aparência do cardápio”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "CategoriaNome do pratoDescrição do pratoR$ 29,90Escuro",
+    "regiao": "conteúdo",
+    "caixa": [
+     966,
+     185,
+     147,
+     201
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Aparência do cardápio”"
+   },
+   {
+    "tipo": "título",
+    "texto": "QR Code do cardápio",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     469,
+     306,
+     23
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "A4parede (e outros 3 parecidos)",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     690,
+     150,
+     44
+    ],
+    "nota": "repetido ×4, um sob o outro",
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Gerar QR Code para imprimir",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     796,
+     306,
+     44
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “A4parede (e outros 3 parecidos)”"
+   },
+   {
+    "tipo": "link",
+    "texto": "Falar com o suporte no WhatsApp",
+    "regiao": "conteúdo",
+    "caixa": [
+     1200,
+     820,
+     56,
+     56
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Baixar imagem",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     848,
+     149,
+     44
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Gerar QR Code para imprimir”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Copiar link",
+    "regiao": "conteúdo",
+    "caixa": [
+     600,
+     848,
+     149,
+     44
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Gerar QR Code para imprimir”"
+   },
+   {
+    "tipo": "selo",
+    "texto": "··",
+    "regiao": "menu lateral",
+    "caixa": [
+     16,
+     858,
+     32,
+     32
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda"
+   },
+   {
+    "tipo": "botão",
+    "texto": "+ Nova seção",
+    "regiao": "conteúdo",
+    "caixa": [
+     1015,
+     941,
+     119,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   }
+  ],
+  "total": 16,
+  "W": 1280,
+  "H": 1271
+ }
+}

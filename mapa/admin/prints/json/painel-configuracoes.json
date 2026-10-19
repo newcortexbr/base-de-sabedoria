@@ -1,0 +1,1257 @@
+{
+ "rota": "/painel/configuracoes",
+ "url": "/painel/configuracoes",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    16,
+    207,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    18,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Configurações Gerais",
+   "regiao": "conteúdo",
+   "caixa": [
+    462,
+    36,
+    632,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    63,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    97,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Identidade",
+   "regiao": "conteúdo",
+   "caixa": [
+    545,
+    160,
+    137,
+    26
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    163,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    197,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    231,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    265,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Ex: Portal Grande Vix",
+   "regiao": "conteúdo",
+   "caixa": [
+    491,
+    295,
+    478,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Salvar",
+   "regiao": "conteúdo",
+   "caixa": [
+    979,
+    295,
+    86,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    299,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    333,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    367,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    401,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    435,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Enviar logo",
+   "regiao": "conteúdo",
+   "caixa": [
+    684,
+    464,
+    116,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    469,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    503,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    569,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    603,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Enviar favicon",
+   "regiao": "conteúdo",
+   "caixa": [
+    555,
+    625,
+    125,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    637,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    671,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    737,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Cidades do Portal",
+   "regiao": "conteúdo",
+   "caixa": [
+    545,
+    746,
+    254,
+    26
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    771,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de FunçõesDiga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    800,
+    255,
+    50
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    805,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Falar com o suporte no WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    1200,
+    820,
+    56,
+    56
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Configurações Gerais",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    839,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "··",
+   "regiao": "menu lateral",
+   "caixa": [
+    16,
+    858,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    859,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Layout",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    871,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Cobrança",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    903,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Nome da cidade",
+   "regiao": "conteúdo",
+   "caixa": [
+    491,
+    934,
+    455,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Adicionar",
+   "regiao": "conteúdo",
+   "caixa": [
+    956,
+    934,
+    109,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Módulos do Portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    935,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Chamar no WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    848,
+    1005,
+    202,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Pixels de rastreamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    491,
+    1136,
+    574,
+    26
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Código do pixel",
+   "regiao": "conteúdo",
+   "caixa": [
+    491,
+    1354,
+    574,
+    143
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Identificar pixel",
+   "regiao": "conteúdo",
+   "caixa": [
+    491,
+    1516,
+    147,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Redes Sociais",
+   "regiao": "conteúdo",
+   "caixa": [
+    545,
+    1638,
+    520,
+    26
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "(27) 99999-9999",
+   "regiao": "conteúdo",
+   "caixa": [
+    576,
+    1789,
+    489,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Instagram",
+   "regiao": "conteúdo",
+   "caixa": [
+    491,
+    1878,
+    574,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Facebook",
+   "regiao": "conteúdo",
+   "caixa": [
+    491,
+    1968,
+    574,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "YouTube",
+   "regiao": "conteúdo",
+   "caixa": [
+    491,
+    2057,
+    574,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "TikTok",
+   "regiao": "conteúdo",
+   "caixa": [
+    491,
+    2147,
+    574,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Salvar Redes Sociais",
+   "regiao": "conteúdo",
+   "caixa": [
+    491,
+    2215,
+    197,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Página Fale Conosco",
+   "regiao": "conteúdo",
+   "caixa": [
+    491,
+    2341,
+    574,
+    26
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "E-mail de contato",
+   "regiao": "conteúdo",
+   "caixa": [
+    491,
+    2503,
+    574,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Telefone",
+   "regiao": "conteúdo",
+   "caixa": [
+    491,
+    2620,
+    574,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Título da página",
+   "regiao": "conteúdo",
+   "caixa": [
+    491,
+    2710,
+    574,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Texto da página",
+   "regiao": "conteúdo",
+   "caixa": [
+    491,
+    2823,
+    574,
+    85
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Salvar Fale Conosco",
+   "regiao": "conteúdo",
+   "caixa": [
+    491,
+    2963,
+    194,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Aplicativo do portal",
+   "regiao": "conteúdo",
+   "caixa": [
+    491,
+    3089,
+    574,
+    26
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Mostrar o aviso \"Baixar app\"Aparece no celular, no primeiro acesso de ",
+   "regiao": "conteúdo",
+   "caixa": [
+    506,
+    3182,
+    20,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Grupo de WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    491,
+    3334,
+    574,
+    26
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Exibir o convite no siteSó aparece se o link abaixo estiver preenchido",
+   "regiao": "conteúdo",
+   "caixa": [
+    506,
+    3426,
+    20,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Link do grupo ou canal",
+   "regiao": "conteúdo",
+   "caixa": [
+    491,
+    3542,
+    574,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Salvar grupo de WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    491,
+    3637,
+    235,
+    44
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  3746
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "grandevix (local)",
+    "regiao": "menu lateral",
+    "caixa": [
+     14,
+     16,
+     207,
+     19
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "menu",
+    "texto": "27 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Notícias Automáticas · Guia Comercial · Vagas de Emprego · Classificados · Guia Turístico / Eventos · Artigos · Orçamentos Online · A Voz do Povo · Melhores da Cidade · Banners Publicitários …",
+    "regiao": "menu lateral",
+    "caixa": [
+     10,
+     18,
+     255,
+     949
+    ],
+    "nota": "lista de 27 itens em coluna",
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Configurações Gerais",
+    "regiao": "conteúdo",
+    "caixa": [
+     462,
+     36,
+     632,
+     36
+    ],
+    "linha": 0,
+    "desc": "no topo da página, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Identidade",
+    "regiao": "conteúdo",
+    "caixa": [
+     545,
+     160,
+     137,
+     26
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Ex: Portal Grande Vix",
+    "regiao": "conteúdo",
+    "caixa": [
+     491,
+     295,
+     478,
+     44
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Salvar",
+    "regiao": "conteúdo",
+    "caixa": [
+     979,
+     295,
+     86,
+     44
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Enviar logo",
+    "regiao": "conteúdo",
+    "caixa": [
+     684,
+     464,
+     116,
+     40
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Enviar favicon",
+    "regiao": "conteúdo",
+    "caixa": [
+     555,
+     625,
+     125,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Cidades do Portal",
+    "regiao": "conteúdo",
+    "caixa": [
+     545,
+     746,
+     254,
+     26
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Falar com o suporte no WhatsApp",
+    "regiao": "conteúdo",
+    "caixa": [
+     1200,
+     820,
+     56,
+     56
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "selo",
+    "texto": "··",
+    "regiao": "menu lateral",
+    "caixa": [
+     16,
+     858,
+     32,
+     32
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Nome da cidade",
+    "regiao": "conteúdo",
+    "caixa": [
+     491,
+     934,
+     455,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Adicionar",
+    "regiao": "conteúdo",
+    "caixa": [
+     956,
+     934,
+     109,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "link",
+    "texto": "Chamar no WhatsApp",
+    "regiao": "conteúdo",
+    "caixa": [
+     848,
+     1005,
+     202,
+     40
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "título",
+    "texto": "Pixels de rastreamento",
+    "regiao": "conteúdo",
+    "caixa": [
+     491,
+     1136,
+     574,
+     26
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo de texto longo",
+    "texto": "Código do pixel",
+    "regiao": "conteúdo",
+    "caixa": [
+     491,
+     1354,
+     574,
+     143
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Identificar pixel",
+    "regiao": "conteúdo",
+    "caixa": [
+     491,
+     1516,
+     147,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Código do pixel”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Redes Sociais",
+    "regiao": "conteúdo",
+    "caixa": [
+     545,
+     1638,
+     520,
+     26
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "(27) 99999-9999",
+    "regiao": "conteúdo",
+    "caixa": [
+     576,
+     1789,
+     489,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Instagram",
+    "regiao": "conteúdo",
+    "caixa": [
+     491,
+     1878,
+     574,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “(27) 99999-9999”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Facebook",
+    "regiao": "conteúdo",
+    "caixa": [
+     491,
+     1968,
+     574,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Instagram”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "YouTube",
+    "regiao": "conteúdo",
+    "caixa": [
+     491,
+     2057,
+     574,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Facebook”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "TikTok",
+    "regiao": "conteúdo",
+    "caixa": [
+     491,
+     2147,
+     574,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “YouTube”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Salvar Redes Sociais",
+    "regiao": "conteúdo",
+    "caixa": [
+     491,
+     2215,
+     197,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “TikTok”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Página Fale Conosco",
+    "regiao": "conteúdo",
+    "caixa": [
+     491,
+     2341,
+     574,
+     26
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "E-mail de contato",
+    "regiao": "conteúdo",
+    "caixa": [
+     491,
+     2503,
+     574,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Telefone",
+    "regiao": "conteúdo",
+    "caixa": [
+     491,
+     2620,
+     574,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “E-mail de contato”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Título da página",
+    "regiao": "conteúdo",
+    "caixa": [
+     491,
+     2710,
+     574,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Telefone”"
+   },
+   {
+    "tipo": "campo de texto longo",
+    "texto": "Texto da página",
+    "regiao": "conteúdo",
+    "caixa": [
+     491,
+     2823,
+     574,
+     85
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Título da página”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Salvar Fale Conosco",
+    "regiao": "conteúdo",
+    "caixa": [
+     491,
+     2963,
+     194,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Texto da página”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Aplicativo do portal",
+    "regiao": "conteúdo",
+    "caixa": [
+     491,
+     3089,
+     574,
+     26
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "checkbox",
+    "texto": "Mostrar o aviso \"Baixar app\"Aparece no celular, no primeiro acesso de ",
+    "regiao": "conteúdo",
+    "caixa": [
+     506,
+     3182,
+     20,
+     20
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Aplicativo do portal”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Grupo de WhatsApp",
+    "regiao": "conteúdo",
+    "caixa": [
+     491,
+     3334,
+     574,
+     26
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "checkbox",
+    "texto": "Exibir o convite no siteSó aparece se o link abaixo estiver preenchido",
+    "regiao": "conteúdo",
+    "caixa": [
+     506,
+     3426,
+     20,
+     20
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Grupo de WhatsApp”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Link do grupo ou canal",
+    "regiao": "conteúdo",
+    "caixa": [
+     491,
+     3542,
+     574,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Salvar grupo de WhatsApp",
+    "regiao": "conteúdo",
+    "caixa": [
+     491,
+     3637,
+     235,
+     44
+    ],
+    "linha": 0,
+    "desc": "no fim da página, ao centro, logo abaixo de “Link do grupo ou canal”"
+   }
+  ],
+  "total": 36,
+  "W": 1280,
+  "H": 3746
+ }
+}

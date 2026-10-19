@@ -1,0 +1,858 @@
+{
+ "rota": "/painel/noticias/autor",
+ "url": "/painel/noticias/autor",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    16,
+    207,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver portal",
+   "regiao": "topo",
+   "caixa": [
+    1147,
+    16,
+    109,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    18,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Notícias — Autor",
+   "regiao": "topo",
+   "caixa": [
+    300,
+    19,
+    145,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    63,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    97,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Autor das notícias",
+   "regiao": "conteúdo",
+   "caixa": [
+    466,
+    99,
+    624,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    163,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Cadastrar Notícia",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    197,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Listar Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    229,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Sem foto",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    243,
+    64,
+    64
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Gerenciar Categorias",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    261,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "envio de arquivo",
+   "texto": "Foto do autor",
+   "regiao": "conteúdo",
+   "caixa": [
+    566,
+    265,
+    265,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Gerenciar Subcategorias",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    293,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Autor",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    325,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Nome * (0/150)",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    347,
+    282,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Cargo",
+   "regiao": "conteúdo",
+   "caixa": [
+    784,
+    347,
+    282,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Jornalistas",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    357,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    393,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Bio (0/500)",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    425,
+    576,
+    78
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    427,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    461,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    495,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    529,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Site",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    550,
+    282,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Instagram",
+   "regiao": "conteúdo",
+   "caixa": [
+    784,
+    550,
+    282,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    563,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    597,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Facebook",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    624,
+    282,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "LinkedIn",
+   "regiao": "conteúdo",
+   "caixa": [
+    784,
+    624,
+    282,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    631,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    665,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    698,
+    282,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "E-mail público",
+   "regiao": "conteúdo",
+   "caixa": [
+    784,
+    698,
+    282,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    699,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    765,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Salvar",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    792,
+    90,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    799,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de FunçõesDiga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    800,
+    255,
+    50
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Falar com o suporte no WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    1200,
+    820,
+    56,
+    56
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    833,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "··",
+   "regiao": "menu lateral",
+   "caixa": [
+    16,
+    858,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    859,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    867,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    933,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    967,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    1001,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  }
+ ],
+ "full": [
+  1280,
+  900
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "grandevix (local)",
+    "regiao": "menu lateral",
+    "caixa": [
+     14,
+     16,
+     207,
+     19
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "link",
+    "texto": "Ver portal",
+    "regiao": "topo",
+    "caixa": [
+     1147,
+     16,
+     109,
+     34
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à direita"
+   },
+   {
+    "tipo": "menu",
+    "texto": "29 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Cadastrar Notícia · Listar Notícias · Gerenciar Categorias · Gerenciar Subcategorias · Autor · Jornalistas · Notícias Automáticas · Guia Comercial · Vagas de Emprego · Classificados …",
+    "regiao": "menu lateral",
+    "caixa": [
+     10,
+     18,
+     255,
+     1017
+    ],
+    "nota": "lista de 29 itens em coluna",
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Notícias — Autor",
+    "regiao": "topo",
+    "caixa": [
+     300,
+     19,
+     145,
+     28
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Autor das notícias",
+    "regiao": "conteúdo",
+    "caixa": [
+     466,
+     99,
+     624,
+     32
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "selo",
+    "texto": "Sem foto",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     243,
+     64,
+     64
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "envio de arquivo",
+    "texto": "Foto do autor",
+    "regiao": "conteúdo",
+    "caixa": [
+     566,
+     265,
+     265,
+     20
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Nome * (0/150)",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     347,
+     282,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “Sem foto”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Cargo",
+    "regiao": "conteúdo",
+    "caixa": [
+     784,
+     347,
+     282,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Foto do autor”"
+   },
+   {
+    "tipo": "campo de texto longo",
+    "texto": "Bio (0/500)",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     425,
+     576,
+     78
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Nome * (0/150)”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Site",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     550,
+     282,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Bio (0/500)”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Instagram",
+    "regiao": "conteúdo",
+    "caixa": [
+     784,
+     550,
+     282,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Bio (0/500)”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Facebook",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     624,
+     282,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Site”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "LinkedIn",
+    "regiao": "conteúdo",
+    "caixa": [
+     784,
+     624,
+     282,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Instagram”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "WhatsApp",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     698,
+     282,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Facebook”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "E-mail público",
+    "regiao": "conteúdo",
+    "caixa": [
+     784,
+     698,
+     282,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “LinkedIn”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Salvar",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     792,
+     90,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “WhatsApp”"
+   },
+   {
+    "tipo": "link",
+    "texto": "Falar com o suporte no WhatsApp",
+    "regiao": "conteúdo",
+    "caixa": [
+     1200,
+     820,
+     56,
+     56
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "selo",
+    "texto": "··",
+    "regiao": "menu lateral",
+    "caixa": [
+     16,
+     858,
+     32,
+     32
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda"
+   }
+  ],
+  "total": 19,
+  "W": 1280,
+  "H": 900
+ }
+}

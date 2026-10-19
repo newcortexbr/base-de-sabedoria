@@ -1,0 +1,666 @@
+{
+ "rota": "/painel/orcamentos",
+ "url": "/painel/orcamentos/categorias",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    16,
+    207,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver portal",
+   "regiao": "topo",
+   "caixa": [
+    1147,
+    16,
+    109,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    18,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Orçamentos",
+   "regiao": "topo",
+   "caixa": [
+    300,
+    19,
+    105,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    63,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    97,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Orçamentos — Todas as Solicitações",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    99,
+    956,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    163,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "0Total",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    179,
+    182,
+    140
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Tudo em diaNada aguardando aprovação",
+   "regiao": "conteúdo",
+   "caixa": [
+    494,
+    179,
+    182,
+    140
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "0Aprovados",
+   "regiao": "conteúdo",
+   "caixa": [
+    687,
+    179,
+    182,
+    140
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "0Encerrados",
+   "regiao": "conteúdo",
+   "caixa": [
+    881,
+    179,
+    182,
+    140
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "0Reprovados",
+   "regiao": "conteúdo",
+   "caixa": [
+    1074,
+    179,
+    182,
+    140
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    197,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    231,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    265,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    299,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    333,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    367,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Todos",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    372,
+    200,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Categoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    529,
+    372,
+    256,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "De",
+   "regiao": "conteúdo",
+   "caixa": [
+    797,
+    372,
+    144,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Até",
+   "regiao": "conteúdo",
+   "caixa": [
+    953,
+    372,
+    144,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    401,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Todas as Solicitações",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    435,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    471,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    505,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    539,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    605,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    639,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    673,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    707,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    773,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de FunçõesDiga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    800,
+    255,
+    50
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    807,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Falar com o suporte no WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    1200,
+    820,
+    56,
+    56
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    841,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "··",
+   "regiao": "menu lateral",
+   "caixa": [
+    16,
+    858,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    859,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  }
+ ],
+ "full": [
+  1280,
+  900
+ ],
+ "titulo": "Orçamentos — Todas as Solicitações — Painel Admin — grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "grandevix (local)",
+    "regiao": "menu lateral",
+    "caixa": [
+     14,
+     16,
+     207,
+     19
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "link",
+    "texto": "Ver portal",
+    "regiao": "topo",
+    "caixa": [
+     1147,
+     16,
+     109,
+     34
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à direita"
+   },
+   {
+    "tipo": "menu",
+    "texto": "24 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Notícias Automáticas · Guia Comercial · Vagas de Emprego · Classificados · Guia Turístico / Eventos · Artigos · Orçamentos Online · Todas as Solicitações · A Voz do Povo · Melhores da Cidade …",
+    "regiao": "menu lateral",
+    "caixa": [
+     10,
+     18,
+     255,
+     871
+    ],
+    "nota": "lista de 24 itens em coluna",
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Orçamentos",
+    "regiao": "topo",
+    "caixa": [
+     300,
+     19,
+     105,
+     28
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Orçamentos — Todas as Solicitações",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     99,
+     956,
+     32
+    ],
+    "linha": 0,
+    "desc": "faixa larga na parte de cima"
+   },
+   {
+    "tipo": "botão",
+    "texto": "0Total (e outros 4 parecidos)",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     179,
+     182,
+     140
+    ],
+    "nota": "repetido ×5, um sob o outro",
+    "desc": "na parte de cima, à esquerda, logo abaixo de “Orçamentos — Todas as Solicitações”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Todos",
+    "regiao": "conteúdo",
+    "caixa": [
+     317,
+     372,
+     200,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda, logo abaixo de “0Total (e outros 4 parecidos)”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Categoria",
+    "regiao": "conteúdo",
+    "caixa": [
+     529,
+     372,
+     256,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "De",
+    "regiao": "conteúdo",
+    "caixa": [
+     797,
+     372,
+     144,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Até",
+    "regiao": "conteúdo",
+    "caixa": [
+     953,
+     372,
+     144,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "link",
+    "texto": "Falar com o suporte no WhatsApp",
+    "regiao": "conteúdo",
+    "caixa": [
+     1200,
+     820,
+     56,
+     56
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "selo",
+    "texto": "··",
+    "regiao": "menu lateral",
+    "caixa": [
+     16,
+     858,
+     32,
+     32
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda"
+   }
+  ],
+  "total": 12,
+  "W": 1280,
+  "H": 900
+ }
+}

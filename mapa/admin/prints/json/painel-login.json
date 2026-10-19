@@ -1,0 +1,168 @@
+{
+ "rota": "/painel/login",
+ "url": "/painel/login",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "Bem-vindo ao Painel Administrativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    64,
+    301,
+    540,
+    86
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "seu@email.com.br",
+   "regiao": "conteúdo",
+   "caixa": [
+    810,
+    342,
+    365,
+    53
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Digite sua senha",
+   "regiao": "conteúdo",
+   "caixa": [
+    810,
+    445,
+    316,
+    53
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Esqueceu a senha?",
+   "regiao": "conteúdo",
+   "caixa": [
+    1045,
+    513,
+    131,
+    21
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Efetuar Login",
+   "regiao": "conteúdo",
+   "caixa": [
+    776,
+    556,
+    400,
+    56
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Entre em contato com o administrador.",
+   "regiao": "conteúdo",
+   "caixa": [
+    927,
+    641,
+    212,
+    41
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  900
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "Bem-vindo ao Painel Administrativo",
+    "regiao": "conteúdo",
+    "caixa": [
+     64,
+     301,
+     540,
+     86
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "campo",
+    "texto": "seu@email.com.br",
+    "regiao": "conteúdo",
+    "caixa": [
+     810,
+     342,
+     365,
+     53
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Digite sua senha",
+    "regiao": "conteúdo",
+    "caixa": [
+     810,
+     445,
+     316,
+     53
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “seu@email.com.br”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Esqueceu a senha?",
+    "regiao": "conteúdo",
+    "caixa": [
+     1045,
+     513,
+     131,
+     21
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Digite sua senha”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Efetuar Login",
+    "regiao": "conteúdo",
+    "caixa": [
+     776,
+     556,
+     400,
+     56
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Esqueceu a senha?”"
+   },
+   {
+    "tipo": "link",
+    "texto": "Entre em contato com o administrador.",
+    "regiao": "conteúdo",
+    "caixa": [
+     927,
+     641,
+     212,
+     41
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   }
+  ],
+  "total": 6,
+  "W": 1280,
+  "H": 900
+ }
+}

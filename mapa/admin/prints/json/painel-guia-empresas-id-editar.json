@@ -1,0 +1,1453 @@
+{
+ "rota": "/painel/guia/empresas/[id]/editar",
+ "url": "/painel/guia/empresas/1/editar",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    16,
+    207,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver portal",
+   "regiao": "topo",
+   "caixa": [
+    1147,
+    16,
+    109,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    18,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Editar: Padaria Sintética QA",
+   "regiao": "topo",
+   "caixa": [
+    300,
+    19,
+    239,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    63,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    97,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Dados da Empresa",
+   "regiao": "conteúdo",
+   "caixa": [
+    324,
+    115,
+    720,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    163,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Nome da empresa",
+   "regiao": "conteúdo",
+   "caixa": [
+    324,
+    175,
+    720,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    197,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    231,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Listar Empresas",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    265,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Gerenciar Categorias",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    297,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Gerenciar Subcategorias",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    329,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Cupons de Desconto",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    361,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    397,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Classificação",
+   "regiao": "conteúdo",
+   "caixa": [
+    324,
+    430,
+    720,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    431,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    465,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Categoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    324,
+    490,
+    229,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    569,
+    490,
+    229,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    499,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    533,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Cadastre uma",
+   "regiao": "conteúdo",
+   "caixa": [
+    664,
+    562,
+    79,
+    14
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    567,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    601,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    635,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Empresa em destaque",
+   "regiao": "conteúdo",
+   "caixa": [
+    569,
+    658,
+    16,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    701,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    735,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Localização",
+   "regiao": "conteúdo",
+   "caixa": [
+    324,
+    750,
+    720,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    769,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de FunçõesDiga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    800,
+    255,
+    50
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    803,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "00000-000",
+   "regiao": "conteúdo",
+   "caixa": [
+    324,
+    810,
+    352,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Falar com o suporte no WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    1200,
+    820,
+    56,
+    56
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "··",
+   "regiao": "menu lateral",
+   "caixa": [
+    16,
+    858,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    859,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    869,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    903,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Cidade",
+   "regiao": "conteúdo",
+   "caixa": [
+    324,
+    908,
+    352,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Bairro",
+   "regiao": "conteúdo",
+   "caixa": [
+    692,
+    908,
+    352,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    937,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Rua Teste, 10",
+   "regiao": "conteúdo",
+   "caixa": [
+    324,
+    986,
+    720,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Contato",
+   "regiao": "conteúdo",
+   "caixa": [
+    324,
+    1116,
+    720,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "(27) 3232-1234",
+   "regiao": "conteúdo",
+   "caixa": [
+    324,
+    1176,
+    352,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "(27) 99999-9999",
+   "regiao": "conteúdo",
+   "caixa": [
+    771,
+    1177,
+    273,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "@usuario ou usuario",
+   "regiao": "conteúdo",
+   "caixa": [
+    324,
+    1276,
+    352,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "https://facebook.com/suapagina",
+   "regiao": "conteúdo",
+   "caixa": [
+    692,
+    1276,
+    352,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "contato@empresa.com.br",
+   "regiao": "conteúdo",
+   "caixa": [
+    324,
+    1354,
+    352,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "https://...",
+   "regiao": "conteúdo",
+   "caixa": [
+    692,
+    1354,
+    352,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Logo e capavazio",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    1460,
+    768,
+    68
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Logo e capavazio",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    1460,
+    768,
+    68
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Cupom de Descontovazio",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    1552,
+    768,
+    68
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Cupom de Descontovazio",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    1552,
+    768,
+    68
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Botões de açãovazio",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    1644,
+    768,
+    68
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Botões de açãovazio",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    1644,
+    768,
+    68
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Comodidades & Pagamentovazio",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    1736,
+    768,
+    68
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Comodidades & Pagamentovazio",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    1736,
+    768,
+    68
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Horários de Funcionamentovazio",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    1828,
+    768,
+    68
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Horários de Funcionamentovazio",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    1828,
+    768,
+    68
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Galeria de Fotosvazio",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    1920,
+    768,
+    68
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Galeria de Fotosvazio",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    1920,
+    768,
+    68
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Acesso à Área do clientepreenchido",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    2012,
+    768,
+    68
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Acesso à Área do clientepreenchido",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    2012,
+    768,
+    68
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "SEO",
+   "regiao": "conteúdo",
+   "caixa": [
+    325,
+    2129,
+    718,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Deixe em branco para usar o nome da empresa",
+   "regiao": "conteúdo",
+   "caixa": [
+    325,
+    2261,
+    718,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Deixe em branco para usar a descrição da empresa",
+   "regiao": "conteúdo",
+   "caixa": [
+    325,
+    2339,
+    718,
+    78
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Conteúdo da ficha",
+   "regiao": "conteúdo",
+   "caixa": [
+    324,
+    2497,
+    720,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Gerenciar",
+   "regiao": "conteúdo",
+   "caixa": [
+    341,
+    2630,
+    195,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Gerenciar",
+   "regiao": "conteúdo",
+   "caixa": [
+    586,
+    2630,
+    195,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Gerenciar",
+   "regiao": "conteúdo",
+   "caixa": [
+    832,
+    2630,
+    195,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Salvar Alterações",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    2739,
+    182,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Cancelar",
+   "regiao": "conteúdo",
+   "caixa": [
+    494,
+    2739,
+    114,
+    46
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  2841
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "grandevix (local)",
+    "regiao": "menu lateral",
+    "caixa": [
+     14,
+     16,
+     207,
+     19
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "menu",
+    "texto": "27 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Notícias Automáticas · Guia Comercial · Listar Empresas · Gerenciar Categorias · Gerenciar Subcategorias · Cupons de Desconto · Vagas de Emprego · Classificados · Guia Turístico / Eventos · Artigos …",
+    "regiao": "menu lateral",
+    "caixa": [
+     10,
+     18,
+     255,
+     953
+    ],
+    "nota": "lista de 27 itens em coluna",
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Editar: Padaria Sintética QA",
+    "regiao": "topo",
+    "caixa": [
+     300,
+     19,
+     239,
+     28
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Dados da Empresa",
+    "regiao": "conteúdo",
+    "caixa": [
+     324,
+     115,
+     720,
+     20
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Nome da empresa",
+    "regiao": "conteúdo",
+    "caixa": [
+     324,
+     175,
+     720,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “Dados da Empresa”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Classificação",
+    "regiao": "conteúdo",
+    "caixa": [
+     324,
+     430,
+     720,
+     20
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Categoria",
+    "regiao": "conteúdo",
+    "caixa": [
+     324,
+     490,
+     229,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Classificação”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Subcategoria",
+    "regiao": "conteúdo",
+    "caixa": [
+     569,
+     490,
+     229,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Classificação”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Localização",
+    "regiao": "conteúdo",
+    "caixa": [
+     324,
+     750,
+     720,
+     20
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "00000-000",
+    "regiao": "conteúdo",
+    "caixa": [
+     324,
+     810,
+     352,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Localização”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Cidade",
+    "regiao": "conteúdo",
+    "caixa": [
+     324,
+     908,
+     352,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “00000-000”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Bairro",
+    "regiao": "conteúdo",
+    "caixa": [
+     692,
+     908,
+     352,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Rua Teste, 10",
+    "regiao": "conteúdo",
+    "caixa": [
+     324,
+     986,
+     720,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Cidade”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Contato",
+    "regiao": "conteúdo",
+    "caixa": [
+     324,
+     1116,
+     720,
+     20
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "(27) 3232-1234",
+    "regiao": "conteúdo",
+    "caixa": [
+     324,
+     1176,
+     352,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Contato”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "(27) 99999-9999",
+    "regiao": "conteúdo",
+    "caixa": [
+     771,
+     1177,
+     273,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Contato”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "@usuario ou usuario",
+    "regiao": "conteúdo",
+    "caixa": [
+     324,
+     1276,
+     352,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “(27) 3232-1234”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "https://facebook.com/suapagina",
+    "regiao": "conteúdo",
+    "caixa": [
+     692,
+     1276,
+     352,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “(27) 99999-9999”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "contato@empresa.com.br",
+    "regiao": "conteúdo",
+    "caixa": [
+     324,
+     1354,
+     352,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “@usuario ou usuario”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "https://...",
+    "regiao": "conteúdo",
+    "caixa": [
+     692,
+     1354,
+     352,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “https://facebook.com/suapagina”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Logo e capavazio",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     1460,
+     768,
+     68
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Logo e capavazio",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     1460,
+     768,
+     68
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “contato@empresa.com.br”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Cupom de Descontovazio",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     1552,
+     768,
+     68
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Cupom de Descontovazio",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     1552,
+     768,
+     68
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Logo e capavazio”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Botões de açãovazio",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     1644,
+     768,
+     68
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Botões de açãovazio",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     1644,
+     768,
+     68
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Cupom de Descontovazio”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Comodidades & Pagamentovazio",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     1736,
+     768,
+     68
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Comodidades & Pagamentovazio",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     1736,
+     768,
+     68
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Botões de açãovazio”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Horários de Funcionamentovazio",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     1828,
+     768,
+     68
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Horários de Funcionamentovazio",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     1828,
+     768,
+     68
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Comodidades & Pagamentovazio”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Galeria de Fotosvazio",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     1920,
+     768,
+     68
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Galeria de Fotosvazio",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     1920,
+     768,
+     68
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Horários de Funcionamentovazio”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Acesso à Área do clientepreenchido",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     2012,
+     768,
+     68
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Acesso à Área do clientepreenchido",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     2012,
+     768,
+     68
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Galeria de Fotosvazio”"
+   },
+   {
+    "tipo": "título",
+    "texto": "SEO",
+    "regiao": "conteúdo",
+    "caixa": [
+     325,
+     2129,
+     718,
+     20
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Deixe em branco para usar o nome da empresa",
+    "regiao": "conteúdo",
+    "caixa": [
+     325,
+     2261,
+     718,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo de texto longo",
+    "texto": "Deixe em branco para usar a descrição da empresa",
+    "regiao": "conteúdo",
+    "caixa": [
+     325,
+     2339,
+     718,
+     78
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Deixe em branco para usar o nome da”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Conteúdo da ficha",
+    "regiao": "conteúdo",
+    "caixa": [
+     324,
+     2497,
+     720,
+     20
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Gerenciar",
+    "regiao": "conteúdo",
+    "caixa": [
+     341,
+     2630,
+     195,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Gerenciar",
+    "regiao": "conteúdo",
+    "caixa": [
+     586,
+     2630,
+     195,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   }
+  ],
+  "total": 48,
+  "W": 1280,
+  "H": 2841
+ }
+}

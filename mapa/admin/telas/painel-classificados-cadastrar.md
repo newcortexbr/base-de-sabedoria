@@ -1,0 +1,48 @@
+# /painel/classificados/cadastrar — novo anúncio (`.../cadastrar/page.tsx`, 5 linhas)
+- gate: módulo `classificados` (prefixo `/painel/classificados`, `src/lib/painel-menu.ts`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`). ATENÇÃO: "classificados" no frontend = anúncios de venda.
+- permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
+- faz: só renderiza `<AnuncioForm />` (`classificados/AnuncioForm.tsx`), modo criar.
+- campos: Anunciante (obrigatório), Categoria, Subcategoria, Título, Descrição, Condição, Preço/Negociável/Aceita troca, Cidade e Bairro (`SeletorDeLocal`), Fotos (obrigatório ao criar, :209), nome/WhatsApp/e-mail de contato, mostrar telefone, destaque, status, expira em.
+- APIs: `guia.config.get` (cidades, :110), `classificados.categorias.listar`, `classificados.anunciantes.listar` (:122-123), `classificados.anuncios.criar` (:247), `classificados.fotos.upload|excluir`.
+- estados: se cidades/categorias/anunciantes falham, mostra "Não foi possível carregar... Recarregue a página antes de salvar" (:112,125); validação: data de expiração passada (:199), sem foto (:209), telefone inválido (:186). Depois do salvar volta à lista (:249).
+- problemas: fato — o anunciante precisa existir antes (cadastrar em `/painel/classificados/anunciantes`). hipótese — a cidade vem de `guia.config` (módulo Guia), e a leitura é independente do gate do módulo.
+- admin vs cliente: equivale ao `/minha-conta/classificados/novo`, mas o admin escolhe o anunciante, o status e o destaque, e não passa pelo limite do plano nem por cobrança.
+
+## posições na tela (print de 2026-10-16, 1280x900)
+- print: [painel-classificados-cadastrar.png](../prints/painel-classificados-cadastrar.png) · dados brutos: [json](../prints/json/painel-classificados-cadastrar.json)
+- aberta em `/painel/classificados/cadastrar`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)
+- [título] "grandevix (local)" — menu lateral, no topo da página, à esquerda (14,16,207,19)
+- [link] "Ver portal" — topo, no topo da página, à direita (1147,16,109,34)
+- [menu] "27 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Notícias Automáticas · Guia Comercial · Vagas de Emprego · Classificados · Listar Anúncios · Novo Anúncio · Categorias · Anunciantes · Guia Turístico / Eventos · Artigos …" — menu lateral, no topo da página, à esquerda (lista de 27 itens em coluna) (10,18,255,953)
+- [título] "Novo Anúncio" — topo, no topo da página, à esquerda (300,19,121,28)
+- [título] "Novo Anúncio" — conteúdo, na parte de cima, ao centro (450,99,162,32)
+- [botão] "←" — conteúdo, na parte de cima, à esquerda (418,103,16,24)
+- [título] "Fotos *" — conteúdo, na parte de cima, ao centro (439,176,678,20)
+- [título] "Anunciante" — conteúdo, no meio da tela, ao centro (439,512,678,20)
+- [título] "Dados do Anúncio" — conteúdo, no meio da tela, ao centro (439,670,678,20)
+- [campo] "Ex: iPhone 13 128GB Azul" — conteúdo, no meio da tela, ao centro, logo abaixo de “Dados do Anúncio” (439,730,447,38)
+- [campo] "Categoria" — conteúdo, no meio da tela, à direita, logo abaixo de “Dados do Anúncio” (902,730,215,38)
+- [radio] "Novo" — conteúdo, no meio da tela, ao centro, logo abaixo de “Ex: iPhone 13 128GB Azul” (439,811,13,13)
+- [radio] "Usado - Excelente" — conteúdo, no meio da tela, ao centro, logo abaixo de “Ex: iPhone 13 128GB Azul” (509,811,13,13)
+- [radio] "Usado - Bom" — conteúdo, no meio da tela, ao centro, logo abaixo de “Ex: iPhone 13 128GB Azul” (660,811,13,13)
+- [radio] "Com defeito ou avarias" — conteúdo, no meio da tela, ao centro, logo abaixo de “Ex: iPhone 13 128GB Azul” (779,811,13,13)
+- [link] "Falar com o suporte no WhatsApp" — conteúdo, no meio da tela, à direita (1200,820,56,56)
+- [selo] "··" — menu lateral, no meio da tela, à esquerda (16,858,32,32)
+- [campo de texto longo] "Descreva o produto ou serviço em detalhes…" — conteúdo, no meio da tela, ao centro, logo abaixo de “Novo” (439,868,678,118)
+- [título] "Preço" — conteúdo, mais abaixo (rolando a página), ao centro (439,1059,678,20)
+- [campo] "0,00 — deixe vazio para 'A combinar'" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “Preço” (491,1120,279,38)
+- [checkbox] "Negociável" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “Preço” (786,1134,13,13)
+- [checkbox] "Aceita troca" — conteúdo, mais abaixo (rolando a página), ao centro (439,1178,13,13)
+- [título] "Localização" — conteúdo, mais abaixo (rolando a página), ao centro (439,1269,678,20)
+- [campo] "Cidade" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “Localização” (439,1329,331,38)
+- [campo] "Bairro" — conteúdo, mais abaixo (rolando a página), à direita, logo abaixo de “Localização” (786,1329,331,38)
+- [título] "Contato" — conteúdo, mais abaixo (rolando a página), ao centro (439,1453,678,20)
+- [campo] "Nome de quem responde" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “Contato” (439,1513,678,38)
+- [campo] "(27) 99999-9999" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “Nome de quem responde” (518,1592,599,38)
+- [campo] "contato@exemplo.com" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “(27) 99999-9999” (439,1671,678,38)
+- [checkbox] "Mostrar telefone publicamente" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “contato@exemplo.com” (439,1728,13,13)
+- [título] "Configurações" — conteúdo, mais abaixo (rolando a página), ao centro (439,1811,678,20)
+- [campo] "" — conteúdo, mais abaixo (rolando a página), à direita, logo abaixo de “Configurações” (786,1871,331,38)
+- [checkbox] "Destacar anúncio (aparece no topo com borda amarela)" — conteúdo, no fim da página, ao centro (439,1928,13,13)
+- [botão] "Cancelar" — conteúdo, no fim da página, à direita (867,1990,98,42)
+- [botão] "Publicar anúncio" — conteúdo, no fim da página, à direita (977,1990,161,42)

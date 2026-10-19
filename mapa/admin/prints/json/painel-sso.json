@@ -1,0 +1,68 @@
+{
+ "rota": "/painel/sso",
+ "url": "/painel/sso",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "Não foi possível entrar",
+   "regiao": "conteúdo",
+   "caixa": [
+    448,
+    380,
+    384,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Entrar com e-mail e senha",
+   "regiao": "conteúdo",
+   "caixa": [
+    533,
+    480,
+    214,
+    40
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  900
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "Não foi possível entrar",
+    "regiao": "conteúdo",
+    "caixa": [
+     448,
+     380,
+     384,
+     28
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Entrar com e-mail e senha",
+    "regiao": "conteúdo",
+    "caixa": [
+     533,
+     480,
+     214,
+     40
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   }
+  ],
+  "total": 2,
+  "W": 1280,
+  "H": 900
+ }
+}

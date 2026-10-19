@@ -1,0 +1,39 @@
+# /painel/guia/empresas — lista de empresas (`src/app/painel/guia/empresas/page.tsx`)
+- gate: módulo `guia` (prefixo `/painel/guia`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
+- permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
+- faz: lista de empresas do Guia, com filtros por status (pendente, ativo, inativo, banido, reprovado; lido de `?status=` na URL, :38), categoria e busca; 20 por página.
+- ações: alterar status (:85), excluir com `confirm` e trava de duplo clique (:93-96), ir para editar, cardápio, catálogo etc., importar planilha; revalida o Guia do cliente (:86,97).
+- APIs: `guia.empresas.listar` (:67), `guia.categorias.listar` (:68), `guia.empresas.alterarStatus` (:85), `guia.empresas.excluir` (:96).
+- estados: vazio "Nenhuma empresa encontrada" (:162); erros de ação por `alert()` (:88,104).
+- problemas: fato — `carregar` tem só `try/finally`, sem `catch` (:60-76): se a API falha, a lista fica vazia mostrando "Nenhuma empresa encontrada" e a promessa rejeitada não é tratada (mesmo defeito já corrigido em banners, comentário `banners/page.tsx:353`). fato — erros usam `alert()` nativo.
+- admin vs cliente: o dono da empresa edita a ficha em `/minha-conta/guia` (2495 linhas, por seções), com plano em `/minha-conta/guia/plano`. O admin edita tudo, muda status (aprovar/banir) e exclui; o cliente não muda o próprio status.
+
+## posições na tela (print de 2026-10-16, 1280x900)
+- print: [painel-guia-empresas.png](../prints/painel-guia-empresas.png) · dados brutos: [json](../prints/json/painel-guia-empresas.json)
+- aberta em `/painel/guia/empresas`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)
+- [título] "grandevix (local)" — menu lateral, no topo da página, à esquerda (14,16,207,19)
+- [link] "Ver portal" — topo, no topo da página, à direita (1147,16,109,34)
+- [menu] "27 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Notícias Automáticas · Guia Comercial · Listar Empresas · Gerenciar Categorias · Gerenciar Subcategorias · Cupons de Desconto · Vagas de Emprego · Classificados · Guia Turístico / Eventos · Artigos …" — menu lateral, no topo da página, à esquerda (lista de 27 itens em coluna) (10,18,255,953)
+- [título] "Guia Comercial — Empresas" — topo, no topo da página, à esquerda (300,19,246,28)
+- [link] "Importar do Google Maps" — conteúdo, na parte de cima, ao centro (484,91,204,38)
+- [campo] "Categoria" — conteúdo, na parte de cima, à direita (856,91,208,38)
+- [link] "+ Cadastrar Empresa" — conteúdo, na parte de cima, à esquerda (300,92,172,36)
+- [campo] "Buscar empresa..." — conteúdo, na parte de cima, à direita, logo abaixo de “Categoria” (903,141,192,38)
+- [botão] "Buscar" — conteúdo, na parte de cima, à direita (1103,141,68,38)
+- [coluna] "Empresa" — conteúdo, na parte de cima, à esquerda (300,195,194,41)
+- [coluna] "Categoria" — conteúdo, na parte de cima, ao centro (494,195,132,41)
+- [coluna] "Cidade" — conteúdo, na parte de cima, ao centro (626,195,126,41)
+- [coluna] "Plano" — conteúdo, na parte de cima, ao centro (752,195,93,41)
+- [coluna] "Status" — conteúdo, na parte de cima, à direita (845,195,135,41)
+- [coluna] "Contato" — conteúdo, na parte de cima, à direita (980,195,136,41)
+- [coluna] "Ações" — conteúdo, na parte de cima, à direita (1116,195,140,41)
+- [link] "📱 (27) 99999-0000" — conteúdo, na parte de cima, à direita (1000,252,96,32)
+- [link] "Editar" — conteúdo, na parte de cima, à direita (1136,254,28,28)
+- [link] "Ver no portal" — conteúdo, na parte de cima, à direita (1172,254,28,28)
+- [botão] "Excluir" — conteúdo, na parte de cima, à direita, logo abaixo de “Ações” (1208,254,28,28)
+- [link] "Editar" — conteúdo, na parte de cima, à direita (1136,327,28,28)
+- [link] "Ver no portal" — conteúdo, na parte de cima, à direita (1172,327,28,28)
+- [botão] "Excluir" — conteúdo, na parte de cima, à direita, logo abaixo de “Excluir” (1208,327,28,28)
+- [link] "📱 62999990001" — conteúdo, na parte de cima, à direita (1000,333,96,16)
+- [link] "Falar com o suporte no WhatsApp" — conteúdo, no meio da tela, à direita (1200,820,56,56)
+- [selo] "··" — menu lateral, no meio da tela, à esquerda (16,858,32,32)

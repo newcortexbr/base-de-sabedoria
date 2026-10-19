@@ -1,0 +1,218 @@
+{
+ "rota": "/minha-conta/login",
+ "url": "/minha-conta/login",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "Entrar na sua conta",
+   "regiao": "conteúdo",
+   "caixa": [
+    799,
+    246,
+    354,
+    39
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Bem-vindo de volta. Sua cidade está esperando.",
+   "regiao": "conteúdo",
+   "caixa": [
+    56,
+    269,
+    560,
+    88
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "E-mail",
+   "regiao": "conteúdo",
+   "caixa": [
+    799,
+    352,
+    354,
+    53
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Senha",
+   "regiao": "conteúdo",
+   "caixa": [
+    799,
+    444,
+    354,
+    53
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Mostrar senha",
+   "regiao": "conteúdo",
+   "caixa": [
+    1115,
+    455,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Esqueci minha senha",
+   "regiao": "conteúdo",
+   "caixa": [
+    1015,
+    508,
+    138,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Entrar",
+   "regiao": "conteúdo",
+   "caixa": [
+    799,
+    549,
+    354,
+    54
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Voltar para o portal",
+   "regiao": "conteúdo",
+   "caixa": [
+    799,
+    649,
+    354,
+    50
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  900
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "Entrar na sua conta",
+    "regiao": "conteúdo",
+    "caixa": [
+     799,
+     246,
+     354,
+     39
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "título",
+    "texto": "Bem-vindo de volta. Sua cidade está esperando.",
+    "regiao": "conteúdo",
+    "caixa": [
+     56,
+     269,
+     560,
+     88
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "campo",
+    "texto": "E-mail",
+    "regiao": "conteúdo",
+    "caixa": [
+     799,
+     352,
+     354,
+     53
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Entrar na sua conta”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Senha",
+    "regiao": "conteúdo",
+    "caixa": [
+     799,
+     444,
+     354,
+     53
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “E-mail”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Mostrar senha",
+    "regiao": "conteúdo",
+    "caixa": [
+     1115,
+     455,
+     30,
+     30
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “E-mail”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Esqueci minha senha",
+    "regiao": "conteúdo",
+    "caixa": [
+     1015,
+     508,
+     138,
+     20
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Senha”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Entrar",
+    "regiao": "conteúdo",
+    "caixa": [
+     799,
+     549,
+     354,
+     54
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Esqueci minha senha”"
+   },
+   {
+    "tipo": "link",
+    "texto": "Voltar para o portal",
+    "regiao": "conteúdo",
+    "caixa": [
+     799,
+     649,
+     354,
+     50
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   }
+  ],
+  "total": 8,
+  "W": 1280,
+  "H": 900
+ }
+}

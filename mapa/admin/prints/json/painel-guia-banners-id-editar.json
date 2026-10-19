@@ -1,0 +1,881 @@
+{
+ "rota": "/painel/guia/banners/[id]/editar",
+ "url": "/painel/guia/banners/1/editar",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    16,
+    207,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver portal",
+   "regiao": "topo",
+   "caixa": [
+    1147,
+    16,
+    109,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    18,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Editar Banner",
+   "regiao": "topo",
+   "caixa": [
+    300,
+    19,
+    118,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    63,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    97,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Editar Banner",
+   "regiao": "conteúdo",
+   "caixa": [
+    320,
+    99,
+    131,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "←",
+   "regiao": "conteúdo",
+   "caixa": [
+    292,
+    101,
+    16,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    163,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    197,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "QA banner do cliente",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    200,
+    622,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    231,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Computador",
+   "regiao": "menu lateral",
+   "caixa": [
+    1003,
+    254,
+    95,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Celular",
+   "regiao": "menu lateral",
+   "caixa": [
+    1102,
+    254,
+    65,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    265,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    299,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    333,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    367,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    401,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "envio de arquivo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    402,
+    622,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    435,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    469,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    503,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "https://...",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    504,
+    622,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    569,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Home — Topo da página (2000×400)",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    586,
+    622,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    603,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    637,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    671,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    737,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Nome da Empresa *",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    745,
+    303,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Telefone *",
+   "regiao": "conteúdo",
+   "caixa": [
+    636,
+    745,
+    303,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    771,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de FunçõesDiga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    800,
+    255,
+    50
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    805,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Falar com o suporte no WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    1200,
+    820,
+    56,
+    56
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Valor do Plano *",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    823,
+    622,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "··",
+   "regiao": "menu lateral",
+   "caixa": [
+    16,
+    858,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    859,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Atrelar a um cliente",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    901,
+    622,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "2026-10-16",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    1003,
+    303,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "2026-11-15",
+   "regiao": "conteúdo",
+   "caixa": [
+    636,
+    1003,
+    303,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "0",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    1085,
+    303,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    636,
+    1097,
+    16,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Salvar Alterações",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    1151,
+    512,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Cancelar",
+   "regiao": "conteúdo",
+   "caixa": [
+    841,
+    1151,
+    98,
+    42
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  1250
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "grandevix (local)",
+    "regiao": "menu lateral",
+    "caixa": [
+     14,
+     16,
+     207,
+     19
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "link",
+    "texto": "Ver portal",
+    "regiao": "topo",
+    "caixa": [
+     1147,
+     16,
+     109,
+     34
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à direita"
+   },
+   {
+    "tipo": "menu",
+    "texto": "25 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Notícias Automáticas · Guia Comercial · Computador · Celular · Vagas de Emprego · Classificados · Guia Turístico / Eventos · Artigos · Orçamentos Online · A Voz do Povo …",
+    "regiao": "menu lateral",
+    "caixa": [
+     10,
+     18,
+     1157,
+     871
+    ],
+    "nota": "lista de 25 itens em coluna",
+    "desc": "faixa larga no topo da página"
+   },
+   {
+    "tipo": "título",
+    "texto": "Editar Banner",
+    "regiao": "topo",
+    "caixa": [
+     300,
+     19,
+     118,
+     28
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Editar Banner",
+    "regiao": "conteúdo",
+    "caixa": [
+     320,
+     99,
+     131,
+     28
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "link",
+    "texto": "←",
+    "regiao": "conteúdo",
+    "caixa": [
+     292,
+     101,
+     16,
+     24
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "campo",
+    "texto": "QA banner do cliente",
+    "regiao": "conteúdo",
+    "caixa": [
+     317,
+     200,
+     622,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “Editar Banner”"
+   },
+   {
+    "tipo": "envio de arquivo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     317,
+     402,
+     622,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "https://...",
+    "regiao": "conteúdo",
+    "caixa": [
+     317,
+     504,
+     622,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Home — Topo da página (2000×400)",
+    "regiao": "conteúdo",
+    "caixa": [
+     317,
+     586,
+     622,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “https://...”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Nome da Empresa *",
+    "regiao": "conteúdo",
+    "caixa": [
+     317,
+     745,
+     303,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Telefone *",
+    "regiao": "conteúdo",
+    "caixa": [
+     636,
+     745,
+     303,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Falar com o suporte no WhatsApp",
+    "regiao": "conteúdo",
+    "caixa": [
+     1200,
+     820,
+     56,
+     56
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Valor do Plano *",
+    "regiao": "conteúdo",
+    "caixa": [
+     317,
+     823,
+     622,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Nome da Empresa *”"
+   },
+   {
+    "tipo": "selo",
+    "texto": "··",
+    "regiao": "menu lateral",
+    "caixa": [
+     16,
+     858,
+     32,
+     32
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Atrelar a um cliente",
+    "regiao": "conteúdo",
+    "caixa": [
+     317,
+     901,
+     622,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Valor do Plano *”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "2026-10-16",
+    "regiao": "conteúdo",
+    "caixa": [
+     317,
+     1003,
+     303,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Atrelar a um cliente”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "2026-11-15",
+    "regiao": "conteúdo",
+    "caixa": [
+     636,
+     1003,
+     303,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Atrelar a um cliente”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "0",
+    "regiao": "conteúdo",
+    "caixa": [
+     317,
+     1085,
+     303,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “2026-10-16”"
+   },
+   {
+    "tipo": "checkbox",
+    "texto": "Ativo",
+    "regiao": "conteúdo",
+    "caixa": [
+     636,
+     1097,
+     16,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “2026-11-15”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Salvar Alterações",
+    "regiao": "conteúdo",
+    "caixa": [
+     317,
+     1151,
+     512,
+     42
+    ],
+    "linha": 0,
+    "desc": "no fim da página, ao centro, logo abaixo de “0”"
+   },
+   {
+    "tipo": "link",
+    "texto": "Cancelar",
+    "regiao": "conteúdo",
+    "caixa": [
+     841,
+     1151,
+     98,
+     42
+    ],
+    "linha": 0,
+    "desc": "no fim da página, à direita"
+   }
+  ],
+  "total": 22,
+  "W": 1280,
+  "H": 1250
+ }
+}

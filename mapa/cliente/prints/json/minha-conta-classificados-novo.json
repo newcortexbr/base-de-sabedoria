@@ -1,0 +1,573 @@
+{
+ "rota": "/minha-conta/classificados/novo",
+ "url": "/minha-conta/classificados/novo",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "Novo anúncio",
+   "regiao": "topo",
+   "caixa": [
+    480,
+    16,
+    119,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    96,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Ex: Sofá de 3 lugares",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    144,
+    590,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Guia Comercial",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    175,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    219,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Categoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    227,
+    287,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    776,
+    227,
+    287,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    263,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Classificados",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    307,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Cidade",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    309,
+    287,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Bairro",
+   "regiao": "conteúdo",
+   "caixa": [
+    776,
+    309,
+    287,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha empresa",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    386,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Descreva o item: estado de conservação, motivo da venda…",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    393,
+    590,
+    122
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Planos e assinaturas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    430,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Segurança",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    474,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Preço a combinar",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    640,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "150,00",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    694,
+    590,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Aceito negociar",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    751,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Aceito troca",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    779,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu",
+   "caixa": [
+    197,
+    838,
+    44,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Seu nome",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    1095,
+    590,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "(27) 99999-9999",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    1179,
+    590,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "voce@email.com",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    1262,
+    590,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Mostrar telefone no anúncio (além do botão de WhatsApp)",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    1324,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Cancelar",
+   "regiao": "conteúdo",
+   "caixa": [
+    792,
+    1364,
+    98,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Publicar anúncio",
+   "regiao": "conteúdo",
+   "caixa": [
+    902,
+    1364,
+    161,
+    42
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  1463
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "Novo anúncio",
+    "regiao": "topo",
+    "caixa": [
+     480,
+     16,
+     119,
+     28
+    ],
+    "linha": 0,
+    "desc": "no topo da página, ao centro"
+   },
+   {
+    "tipo": "menu/links",
+    "texto": "9 itens: Início · Guia Comercial · Vagas de Emprego · Banners Publicitários · Classificados · Minha empresa · Planos e assinaturas · Segurança · Sair",
+    "regiao": "menu",
+    "caixa": [
+     14,
+     96,
+     227,
+     786
+    ],
+    "nota": "lista de 9 itens em coluna",
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Ex: Sofá de 3 lugares",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     144,
+     590,
+     42
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Categoria",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     227,
+     287,
+     42
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “Ex: Sofá de 3 lugares”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Subcategoria",
+    "regiao": "conteúdo",
+    "caixa": [
+     776,
+     227,
+     287,
+     42
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Ex: Sofá de 3 lugares”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Cidade",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     309,
+     287,
+     42
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “Categoria”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Bairro",
+    "regiao": "conteúdo",
+    "caixa": [
+     776,
+     309,
+     287,
+     42
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Subcategoria”"
+   },
+   {
+    "tipo": "campo de texto longo",
+    "texto": "Descreva o item: estado de conservação, motivo da venda…",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     393,
+     590,
+     122
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Cidade”"
+   },
+   {
+    "tipo": "checkbox",
+    "texto": "Preço a combinar",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     640,
+     13,
+     13
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "150,00",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     694,
+     590,
+     42
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Preço a combinar”"
+   },
+   {
+    "tipo": "checkbox",
+    "texto": "Aceito negociar",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     751,
+     13,
+     13
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “150,00”"
+   },
+   {
+    "tipo": "checkbox",
+    "texto": "Aceito troca",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     779,
+     13,
+     13
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Aceito negociar”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Seu nome",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     1095,
+     590,
+     42
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "(27) 99999-9999",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     1179,
+     590,
+     42
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Seu nome”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "voce@email.com",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     1262,
+     590,
+     42
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “(27) 99999-9999”"
+   },
+   {
+    "tipo": "checkbox",
+    "texto": "Mostrar telefone no anúncio (além do botão de WhatsApp)",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     1324,
+     13,
+     13
+    ],
+    "linha": 0,
+    "desc": "no fim da página, ao centro, logo abaixo de “voce@email.com”"
+   },
+   {
+    "tipo": "link",
+    "texto": "Cancelar",
+    "regiao": "conteúdo",
+    "caixa": [
+     792,
+     1364,
+     98,
+     42
+    ],
+    "linha": 0,
+    "desc": "no fim da página, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Publicar anúncio",
+    "regiao": "conteúdo",
+    "caixa": [
+     902,
+     1364,
+     161,
+     42
+    ],
+    "linha": 0,
+    "desc": "no fim da página, à direita, logo abaixo de “voce@email.com”"
+   }
+  ],
+  "total": 18,
+  "W": 1280,
+  "H": 1463
+ }
+}

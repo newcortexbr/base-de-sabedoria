@@ -1,0 +1,498 @@
+{
+ "rota": "/minha-conta/vagas",
+ "url": "/minha-conta/vagas",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "Vagas de Emprego",
+   "regiao": "conteúdo",
+   "caixa": [
+    382,
+    46,
+    236,
+    39
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Nova vaga",
+   "regiao": "conteúdo",
+   "caixa": [
+    1096,
+    55,
+    126,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    96,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Sair do grátis",
+   "regiao": "conteúdo",
+   "caixa": [
+    1095,
+    170,
+    134,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Guia Comercial",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    175,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    219,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    263,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Classificados",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    307,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Todas1",
+   "regiao": "conteúdo",
+   "caixa": [
+    613,
+    383,
+    73,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Ativa1",
+   "regiao": "conteúdo",
+   "caixa": [
+    692,
+    383,
+    68,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Pausada0",
+   "regiao": "conteúdo",
+   "caixa": [
+    765,
+    383,
+    88,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Aguardando aprovação0",
+   "regiao": "conteúdo",
+   "caixa": [
+    860,
+    383,
+    177,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Reprovada0",
+   "regiao": "conteúdo",
+   "caixa": [
+    1042,
+    383,
+    102,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Encerrada0",
+   "regiao": "conteúdo",
+   "caixa": [
+    1150,
+    383,
+    98,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha empresa",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    386,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Minhas vagas",
+   "regiao": "conteúdo",
+   "caixa": [
+    288,
+    388,
+    118,
+    27
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Planos e assinaturas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    430,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Auxiliar QA EditadoAtiva",
+   "regiao": "conteúdo",
+   "caixa": [
+    403,
+    446,
+    684,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Editar Auxiliar QA Editado",
+   "regiao": "conteúdo",
+   "caixa": [
+    1101,
+    467,
+    40,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Pausar Auxiliar QA Editado",
+   "regiao": "conteúdo",
+   "caixa": [
+    1147,
+    467,
+    40,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Auxiliar QA Editado",
+   "regiao": "conteúdo",
+   "caixa": [
+    1193,
+    467,
+    40,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Segurança",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    474,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu",
+   "caixa": [
+    197,
+    838,
+    44,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  }
+ ],
+ "full": [
+  1280,
+  900
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "Vagas de Emprego",
+    "regiao": "conteúdo",
+    "caixa": [
+     382,
+     46,
+     236,
+     39
+    ],
+    "linha": 0,
+    "desc": "no topo da página, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Nova vaga",
+    "regiao": "conteúdo",
+    "caixa": [
+     1096,
+     55,
+     126,
+     44
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à direita"
+   },
+   {
+    "tipo": "menu/links",
+    "texto": "9 itens: Início · Guia Comercial · Vagas de Emprego · Banners Publicitários · Classificados · Minha empresa · Planos e assinaturas · Segurança · Sair",
+    "regiao": "menu",
+    "caixa": [
+     14,
+     96,
+     227,
+     786
+    ],
+    "nota": "lista de 9 itens em coluna",
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "link",
+    "texto": "Sair do grátis",
+    "regiao": "conteúdo",
+    "caixa": [
+     1095,
+     170,
+     134,
+     44
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Todas1",
+    "regiao": "conteúdo",
+    "caixa": [
+     613,
+     383,
+     73,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Ativa1",
+    "regiao": "conteúdo",
+    "caixa": [
+     692,
+     383,
+     68,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Pausada0",
+    "regiao": "conteúdo",
+    "caixa": [
+     765,
+     383,
+     88,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Aguardando aprovação0",
+    "regiao": "conteúdo",
+    "caixa": [
+     860,
+     383,
+     177,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Reprovada0",
+    "regiao": "conteúdo",
+    "caixa": [
+     1042,
+     383,
+     102,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Encerrada0",
+    "regiao": "conteúdo",
+    "caixa": [
+     1150,
+     383,
+     98,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "título",
+    "texto": "Minhas vagas",
+    "regiao": "conteúdo",
+    "caixa": [
+     288,
+     388,
+     118,
+     27
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Auxiliar QA EditadoAtiva",
+    "regiao": "conteúdo",
+    "caixa": [
+     403,
+     446,
+     684,
+     23
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Editar Auxiliar QA Editado",
+    "regiao": "conteúdo",
+    "caixa": [
+     1101,
+     467,
+     40,
+     40
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Pausar Auxiliar QA Editado",
+    "regiao": "conteúdo",
+    "caixa": [
+     1147,
+     467,
+     40,
+     40
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Encerrada0”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir Auxiliar QA Editado",
+    "regiao": "conteúdo",
+    "caixa": [
+     1193,
+     467,
+     40,
+     40
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Encerrada0”"
+   }
+  ],
+  "total": 15,
+  "W": 1280,
+  "H": 900
+ }
+}

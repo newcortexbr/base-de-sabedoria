@@ -1,0 +1,361 @@
+{
+ "rota": "/minha-conta/publicidade/[id]/editar",
+ "url": "/minha-conta/publicidade/1/editar",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "Editar banner",
+   "regiao": "topo",
+   "caixa": [
+    480,
+    16,
+    116,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Voltar",
+   "regiao": "topo",
+   "caixa": [
+    448,
+    20,
+    20,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Publicado",
+   "regiao": "conteúdo",
+   "caixa": [
+    619,
+    93,
+    77,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Home — Topo da página",
+   "regiao": "conteúdo",
+   "caixa": [
+    448,
+    95,
+    163,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    96,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Guia Comercial",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    175,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Agenda de Eventos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    219,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    263,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    307,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Classificados",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    351,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha empresa",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    430,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "https://",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    452,
+    590,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Planos e assinaturas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    474,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Segurança",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    518,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "QA banner do cliente",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    539,
+    590,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Voltar",
+   "regiao": "conteúdo",
+   "caixa": [
+    810,
+    609,
+    78,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Salvar alterações",
+   "regiao": "conteúdo",
+   "caixa": [
+    900,
+    609,
+    163,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu",
+   "caixa": [
+    197,
+    838,
+    44,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  }
+ ],
+ "full": [
+  1280,
+  900
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "Editar banner",
+    "regiao": "topo",
+    "caixa": [
+     480,
+     16,
+     116,
+     28
+    ],
+    "linha": 0,
+    "desc": "no topo da página, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Voltar",
+    "regiao": "topo",
+    "caixa": [
+     448,
+     20,
+     20,
+     20
+    ],
+    "linha": 0,
+    "desc": "no topo da página, ao centro"
+   },
+   {
+    "tipo": "selo",
+    "texto": "Publicado",
+    "regiao": "conteúdo",
+    "caixa": [
+     619,
+     93,
+     77,
+     24
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Home — Topo da página",
+    "regiao": "conteúdo",
+    "caixa": [
+     448,
+     95,
+     163,
+     20
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "menu/links",
+    "texto": "10 itens: Início · Guia Comercial · Agenda de Eventos · Vagas de Emprego · Banners Publicitários · Classificados · Minha empresa · Planos e assinaturas · Segurança · Sair",
+    "regiao": "menu",
+    "caixa": [
+     14,
+     96,
+     227,
+     786
+    ],
+    "nota": "lista de 10 itens em coluna",
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "campo",
+    "texto": "https://",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     452,
+     590,
+     42
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "QA banner do cliente",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     539,
+     590,
+     42
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “https://”"
+   },
+   {
+    "tipo": "link",
+    "texto": "Voltar",
+    "regiao": "conteúdo",
+    "caixa": [
+     810,
+     609,
+     78,
+     42
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Salvar alterações",
+    "regiao": "conteúdo",
+    "caixa": [
+     900,
+     609,
+     163,
+     42
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “QA banner do cliente”"
+   }
+  ],
+  "total": 9,
+  "W": 1280,
+  "H": 900
+ }
+}

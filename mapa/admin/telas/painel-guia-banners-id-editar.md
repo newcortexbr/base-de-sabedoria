@@ -1,0 +1,34 @@
+# /painel/guia/banners/[id]/editar (`.../[id]/editar/page.tsx`)
+- gate: NÃO depende do módulo `guia`: `/painel/guia/banners` está em `ROTAS_FORA_DO_MODULO` (`src/lib/painel-menu.ts`); é publicidade do portal. Posições de banner dependem do módulo de cada posição (`MODULO_POR_POSICAO`, `banners/page.tsx:91`, `posicoesOferecidas` :113).
+- permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
+- faz: edita o banner com os mesmos campos do cadastro; troca de imagem opcional.
+- APIs: `guia.banners.listar` (:80) e procura o id no resultado; `guia.banners.atualizar` (:182); `guia.categorias.listar` (:52, `.catch` vazio).
+- estados: erro de carga `erroCarregamento` (:110); "Banner não encontrado." se id não existe (:207); "A data fim não pode ser antes da data início" (:131).
+- problemas: fato — não existe endpoint de detalhe: baixa todos os banners para editar um (:80). Em portal com muitos banners, custa carga a cada abertura. fato — categorias engolidas (:52).
+- admin vs cliente: cliente edita seu banner em `/minha-conta/publicidade/[id]/editar` (só título/URL/imagem em geral, `atualizarBannerDoCliente` em `cliente-api.ts`).
+
+## posições na tela (print de 2026-10-16, 1280x900)
+- print: [painel-guia-banners-id-editar.png](../prints/painel-guia-banners-id-editar.png) · dados brutos: [json](../prints/json/painel-guia-banners-id-editar.json)
+- aberta em `/painel/guia/banners/1/editar` com dados do banco de teste; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)
+- [título] "grandevix (local)" — menu lateral, no topo da página, à esquerda (14,16,207,19)
+- [link] "Ver portal" — topo, no topo da página, à direita (1147,16,109,34)
+- [menu] "25 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Notícias Automáticas · Guia Comercial · Computador · Celular · Vagas de Emprego · Classificados · Guia Turístico / Eventos · Artigos · Orçamentos Online · A Voz do Povo …" — menu lateral, faixa larga no topo da página (lista de 25 itens em coluna) (10,18,1157,871)
+- [título] "Editar Banner" — topo, no topo da página, à esquerda (300,19,118,28)
+- [título] "Editar Banner" — conteúdo, na parte de cima, à esquerda (320,99,131,28)
+- [link] "←" — conteúdo, na parte de cima, à esquerda (292,101,16,24)
+- [campo] "QA banner do cliente" — conteúdo, na parte de cima, ao centro, logo abaixo de “Editar Banner” (317,200,622,38)
+- [envio de arquivo] "" — conteúdo, no meio da tela, ao centro (317,402,622,38)
+- [campo] "https://..." — conteúdo, no meio da tela, ao centro (317,504,622,38)
+- [botão] "Home — Topo da página (2000×400)" — conteúdo, no meio da tela, ao centro, logo abaixo de “https://...” (317,586,622,38)
+- [campo] "Nome da Empresa *" — conteúdo, no meio da tela, ao centro (317,745,303,38)
+- [campo] "Telefone *" — conteúdo, no meio da tela, ao centro (636,745,303,38)
+- [link] "Falar com o suporte no WhatsApp" — conteúdo, no meio da tela, à direita (1200,820,56,56)
+- [campo] "Valor do Plano *" — conteúdo, no meio da tela, ao centro, logo abaixo de “Nome da Empresa *” (317,823,622,38)
+- [selo] "··" — menu lateral, no meio da tela, à esquerda (16,858,32,32)
+- [campo] "Atrelar a um cliente" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “Valor do Plano *” (317,901,622,38)
+- [campo] "2026-10-16" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “Atrelar a um cliente” (317,1003,303,38)
+- [campo] "2026-11-15" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “Atrelar a um cliente” (636,1003,303,38)
+- [campo] "0" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “2026-10-16” (317,1085,303,38)
+- [checkbox] "Ativo" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “2026-11-15” (636,1097,16,16)
+- [botão] "Salvar Alterações" — conteúdo, no fim da página, ao centro, logo abaixo de “0” (317,1151,512,42)
+- [link] "Cancelar" — conteúdo, no fim da página, à direita (841,1151,98,42)

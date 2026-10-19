@@ -1,0 +1,38 @@
+# /painel/login
+
+Arquivos: `app/painel/login/page.tsx`, `login/mensagem-de-falha.ts`, `contexts/AuthContext.tsx:70-94`
+
+## rota e gate
+- `/painel/login`. pública: está em `ROTAS_SEM_LOGIN` (`app/painel/rotas-sem-login.ts`), então o guard não redireciona e não mostra a Sidebar.
+- o painel é só do administrador: papéis fora de admin/master/sem_portal recebem erro "Esta conta não tem acesso ao painel administrativo." e o token nem é guardado (`AuthContext.tsx:72`, `lib/painel-permissoes.ts:31-36`).
+
+## o que faz
+- login por e-mail e senha, ou "Entrar com a Área do Cliente" (SSO, popup).
+
+## campos e ações
+- E-mail, Senha (com botão mostrar/ocultar), checkbox "Manter conectado" (marcado por padrão), botão Entrar, botão "Esqueceu a senha?", botão SSO (só se `NEXT_PUBLIC_SSO_HABILITADO === 'true'`, `page.tsx:48`), link de ajuda `mailto:contato@newcortex.ia.br`.
+- depois do login: `master` vai a `/master`; `sem_portal` ou sem `portal_slug` vai a `/painel/sem-acesso`; os demais a `/painel` (`AuthContext.tsx:78-93`).
+
+## apis
+- `adminApi.auth.login(email, password)` (via `AuthContext.login`); SSO: GET `${API_URL}/auth/sso/iniciar/` por `iniciarLoginSsoPopup` (`lib/sso-popup`).
+
+## estados de erro
+- 429: "Muitas tentativas seguidas…"; 5xx: "O servidor não respondeu como esperado…"; outros status: "E-mail ou senha inválidos…"; sem status (rede): "Não foi possível falar com o servidor…" (`mensagem-de-falha.ts:34-48`).
+- erro do SSO aparece abaixo do botão (`ssoErro`).
+
+## possíveis problemas
+- fato: o botão "Esqueceu a senha?" não tem `onClick` nem link (`page.tsx:315-318`); clicar não faz nada. nenhuma rota de recuperação neste arquivo.
+- fato: o checkbox "Manter conectado" guarda `lembrar` mas o valor nunca é usado: `login(email, password)` não o recebe (`page.tsx:165`); o token sempre vai para `localStorage`.
+- fato: a flag `NEXT_PUBLIC_SSO_HABILITADO` é de build e global, e é uma segunda fonte de verdade do interruptor do backend (comentário `page.tsx:35-47`); SSO ligado só no backend fica invisível.
+- fato: a tela importa fonte do Google Fonts por `@import` (`page.tsx:191`), requisição externa a cada carga do login.
+- fato: `API_URL` com `!` (`page.tsx:9`); variável ausente quebra o build/clique.
+
+## posições na tela (print de 2026-10-16, 1280x900)
+- print: [painel-login.png](../prints/painel-login.png) · dados brutos: [json](../prints/json/painel-login.json)
+- aberta em `/painel/login`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)
+- [título] "Bem-vindo ao Painel Administrativo" — conteúdo, na parte de cima, à esquerda (64,301,540,86)
+- [campo] "seu@email.com.br" — conteúdo, na parte de cima, à direita (810,342,365,53)
+- [campo] "Digite sua senha" — conteúdo, no meio da tela, à direita, logo abaixo de “seu@email.com.br” (810,445,316,53)
+- [botão] "Esqueceu a senha?" — conteúdo, no meio da tela, à direita, logo abaixo de “Digite sua senha” (1045,513,131,21)
+- [botão] "Efetuar Login" — conteúdo, no meio da tela, à direita, logo abaixo de “Esqueceu a senha?” (776,556,400,56)
+- [link] "Entre em contato com o administrador." — conteúdo, no meio da tela, à direita (927,641,212,41)

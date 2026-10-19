@@ -1,0 +1,11885 @@
+{
+ "rota": "/painel/guia/subcategorias",
+ "url": "/painel/guia/subcategorias",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    16,
+    207,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver portal",
+   "regiao": "topo",
+   "caixa": [
+    1147,
+    16,
+    109,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    18,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Guia Comercial — Subcategorias",
+   "regiao": "topo",
+   "caixa": [
+    300,
+    19,
+    284,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    63,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    97,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "+ Nova Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    1085,
+    123,
+    171,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Buscar subcategoria pelo nome",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    132,
+    222,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    163,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Todas as categorias322",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    178,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    197,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    200,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    200,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Padaria QA0",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    216,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    231,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    240,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    240,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    240,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    240,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Restaurante QA1",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    254,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Listar Empresas",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    265,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Pizzaria QA",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    284,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Pizzaria QA",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    284,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Delivery30",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    292,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Gerenciar Categorias",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    297,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Gerenciar Subcategorias",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    329,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Serviços & Profissionais16",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    330,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Cupons de Desconto",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    361,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    364,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    364,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Restaurantes19",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    368,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    397,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    404,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    404,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    404,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    404,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Diversos13",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    406,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    431,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Hospedagem8",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    444,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Pizza",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    448,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Pizza",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    448,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    465,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Shopping12",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    482,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Bebidas em Geral",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    497,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Bebidas em Geral",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    497,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    499,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Assistência Técnica7",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    520,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    533,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Hambúrguer e Lanches",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    546,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Hambúrguer e Lanches",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    546,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Lazer e Diversão8",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    558,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    567,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Delivery",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    595,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Delivery",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    595,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Construção26",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    596,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    601,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Tecnologia e Marketing6",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    634,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    635,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Marmitas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    644,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Marmitas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    644,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Beleza e Estética10",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    672,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Barzinhos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    693,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Barzinhos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    693,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    701,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Saúde13",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    710,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    735,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Comida Japonesa",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    742,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Comida Japonesa",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    742,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Veículos19",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    748,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    769,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Limpeza e Conservação7",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    786,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Açaí e Sorvetes",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    791,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Açaí e Sorvetes",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    791,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de FunçõesDiga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    800,
+    255,
+    50
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    803,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Falar com o suporte no WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    1200,
+    820,
+    56,
+    56
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias0",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    824,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Churrascarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    840,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Churrascarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    840,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "··",
+   "regiao": "menu lateral",
+   "caixa": [
+    16,
+    858,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    859,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Destaques0",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    862,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    869,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Hort Fruit",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    889,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Hort Fruit",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    889,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Eventos e Festas14",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    900,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    903,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    937,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Pets5",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    938,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Salgados e Doces",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    938,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Salgados e Doces",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    938,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Transporte e Mudanças6",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    976,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Açougues",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    987,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Açougues",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    987,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Jurídico e Financeiro9",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    1014,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Churrasco e Espetinhos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    1036,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Churrasco e Espetinhos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    1036,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Educação e Aulas8",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    1052,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Bebidas e Gelo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    1085,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Bebidas e Gelo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    1085,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Casa e Decoração7",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    1090,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Imóveis4",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    1128,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Farmácias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    1134,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Farmácias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    1134,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Supermercados e Alimentação8",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    1166,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Gelo e Bebidas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    1183,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Gelo e Bebidas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    1183,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Moda e Acessórios10",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    1204,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Água e Gás",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    1232,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Água e Gás",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    1232,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Farmácias e Drogarias3",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    1242,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Móveis e Eletro6",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    1280,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Mercado e Hortifruti",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    1281,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Mercado e Hortifruti",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    1281,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Esportes e Academias8",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    1318,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Salgados",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    1330,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Salgados",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    1330,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Bares e Vida Noturna3",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    1356,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Farmácia",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    1379,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Farmácia",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    1379,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Segurança6",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    1394,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Sorveteiras",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    1428,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Sorveteiras",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    1428,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Jardinagem e Floriculturas5",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    1432,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Agro e Rural4",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    1470,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Bolos e Doces",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    1477,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Bolos e Doces",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    1477,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Indústrias e Fábricas4",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    1508,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Ração e Pet",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    1526,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Ração e Pet",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    1526,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Internet e Telefonia3",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    1546,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Produtos Naturais",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    1575,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Produtos Naturais",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    1575,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Comunicação e Gráficas6",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    1584,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Turismo e Viagens4",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    1622,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Vinhos e Adegas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    1624,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Vinhos e Adegas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    1624,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Igrejas e Entidades4",
+   "regiao": "menu lateral",
+   "caixa": [
+    309,
+    1660,
+    222,
+    36
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Espetinhos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    1673,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Espetinhos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    1673,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Peixarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    1722,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Peixarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    1722,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Supermercados",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    1771,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Supermercados",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    1771,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Pet Shop",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    1820,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Pet Shop",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    1820,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Padarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    1869,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Padarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    1869,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    1949,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    1949,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    1989,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    1989,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    1989,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    1989,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Marido de Aluguel",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    2033,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Marido de Aluguel",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    2033,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Costureira e Conserto de Roupas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    2082,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Costureira e Conserto de Roupas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    2082,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Esteticista",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    2131,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Esteticista",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    2131,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Guia Turístico",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    2180,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Guia Turístico",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    2180,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Sapateiro",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    2229,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Sapateiro",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    2229,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Babá",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    2278,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Babá",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    2278,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Pedreiros e Pintores",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    2327,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Pedreiros e Pintores",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    2327,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Manicuri",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    2376,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Manicuri",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    2376,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Tradução e Digitação",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    2425,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Tradução e Digitação",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    2425,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Barbearias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    2474,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Barbearias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    2474,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Detetive",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    2523,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Detetive",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    2523,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Coworking",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    2572,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Coworking",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    2572,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Salão de Beleza",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    2621,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Salão de Beleza",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    2621,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Cabeleireiros",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    2670,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Cabeleireiros",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    2670,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Chaveiros",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    2719,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Chaveiros",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    2719,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Costureiras",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    2768,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Costureiras",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    2768,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    2848,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    2848,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    2888,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    2888,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    2888,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    2888,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Comida Brasileira e Self-Service",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    2932,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Comida Brasileira e Self-Service",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    2932,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Pizzaria QA",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    2981,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Pizzaria QA",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    2981,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Churrascarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    3030,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Churrascarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    3030,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Japonês",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    3079,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Japonês",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    3079,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Pizzarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    3128,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Pizzarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    3128,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Comida Brasileira",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    3177,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Comida Brasileira",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    3177,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Hamburguerias e Lanchonetes",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    3226,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Hamburguerias e Lanchonetes",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    3226,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Vegetariano",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    3275,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Vegetariano",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    3275,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Italiano e Massas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    3324,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Italiano e Massas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    3324,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Saudável",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    3373,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Saudável",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    3373,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Comida Mineira",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    3422,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Comida Mineira",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    3422,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Frutos do Mar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    3471,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Frutos do Mar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    3471,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Comida Gaúcha",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    3520,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Comida Gaúcha",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    3520,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Pastelarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    3569,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Pastelarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    3569,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Fast Food",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    3618,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Fast Food",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    3618,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Saudável e Vegetariano",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    3667,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Saudável e Vegetariano",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    3667,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Cafeterias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    3716,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Cafeterias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    3716,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Docerias e Confeitarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    3765,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Docerias e Confeitarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    3765,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Sorveterias e Açaí",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    3814,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Sorveterias e Açaí",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    3814,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    3894,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    3894,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    3934,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    3934,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    3934,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    3934,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Academias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    3978,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Academias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    3978,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Imobiliária",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    4027,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Imobiliária",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    4027,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Óticas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    4076,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Óticas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    4076,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Lotéricas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    4125,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Lotéricas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    4125,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Funerárias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    4174,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Funerárias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    4174,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Papelarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    4223,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Papelarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    4223,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Gráficas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    4272,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Gráficas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    4272,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Lavanderias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    4321,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Lavanderias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    4321,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Dedetizadoras",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    4370,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Dedetizadoras",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    4370,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Eletrônicas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    4419,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Eletrônicas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    4419,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Contabilidade",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    4468,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Contabilidade",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    4468,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Advocacias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    4517,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Advocacias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    4517,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Sites e Aplicativos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    4566,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Sites e Aplicativos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    4566,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    4646,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    4646,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    4686,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    4686,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    4686,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    4686,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Hotéis",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    4730,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Hotéis",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    4730,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Pousadas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    4779,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Pousadas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    4779,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Resorts",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    4828,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Resorts",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    4828,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Motel",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    4877,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Motel",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    4877,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Motéis",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    4926,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Motéis",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    4926,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Hostels",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    4975,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Hostels",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    4975,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Casas de Temporada",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    5024,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Casas de Temporada",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    5024,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Chácaras e Sítios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    5073,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Chácaras e Sítios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    5073,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    5153,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    5153,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    5193,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    5193,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    5193,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    5193,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Shopping Center",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    5237,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Shopping Center",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    5237,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Presentes",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    5286,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Presentes",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    5286,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Papelarias e Livrarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    5335,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Papelarias e Livrarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    5335,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Brinquedos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    5384,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Brinquedos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    5384,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Cama, Mesa e Banho",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    5433,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Cama, Mesa e Banho",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    5433,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Armarinhos e Tecidos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    5482,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Armarinhos e Tecidos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    5482,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Utilidades e Variedades",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    5531,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Utilidades e Variedades",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    5531,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Caça e Pesca",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    5580,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Caça e Pesca",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    5580,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Feiras e Artesanato",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    5629,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Feiras e Artesanato",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    5629,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Sex Shop",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    5678,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Sex Shop",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    5678,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Lotéricas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    5727,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Lotéricas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    5727,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Bicicletarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    5776,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Bicicletarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    5776,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    5856,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    5856,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    5896,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    5896,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    5896,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    5896,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Computadores e Impressoras",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    5940,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Computadores e Impressoras",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    5940,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Celulares",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    5989,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Celulares",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    5989,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar TV, Som e Eletrônicos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    6038,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir TV, Som e Eletrônicos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    6038,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Eletrodomésticos e Refrigeração",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    6087,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Eletrodomésticos e Refrigeração",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    6087,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Videogames",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    6136,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Videogames",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    6136,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Relógios e Joias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    6185,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Relógios e Joias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    6185,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Máquinas de Costura",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    6234,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Máquinas de Costura",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    6234,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    6314,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    6314,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    6354,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    6354,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    6354,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    6354,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Cinemas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    6398,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Cinemas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    6398,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Teatros",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    6447,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Teatros",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    6447,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Boliche e Jogos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    6496,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Boliche e Jogos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    6496,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Parques e Clubes",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    6545,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Parques e Clubes",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    6545,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Recreação Infantil",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    6594,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Recreação Infantil",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    6594,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Quadras e Campos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    6643,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Quadras e Campos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    6643,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Pesqueiros",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    6692,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Pesqueiros",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    6692,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Museus e Centros Culturais",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    6741,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Museus e Centros Culturais",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    6741,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    6821,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    6821,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    6861,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    6861,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    6861,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    6861,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Pedreiro e Reformas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    6905,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Pedreiro e Reformas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    6905,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Pintor",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    6954,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Pintor",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    6954,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Eletricista",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    7003,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Eletricista",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    7003,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Encanador",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    7052,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Encanador",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    7052,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Gesso, Drywall e Forro",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    7101,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Gesso, Drywall e Forro",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    7101,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Telhados e Calhas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    7150,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Telhados e Calhas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    7150,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Impermeabilização",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    7199,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Impermeabilização",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    7199,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Serralheiro",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    7248,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Serralheiro",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    7248,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Vidraceiro",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    7297,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Vidraceiro",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    7297,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Marceneiro e Móveis Planejados",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    7346,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Marceneiro e Móveis Planejados",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    7346,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Carpinteiro",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    7395,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Carpinteiro",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    7395,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Montador de Móveis",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    7444,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Montador de Móveis",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    7444,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Marmoraria",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    7493,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Marmoraria",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    7493,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Ar Condicionado",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    7542,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Ar Condicionado",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    7542,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Energia Solar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    7591,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Energia Solar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    7591,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Piscinas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    7640,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Piscinas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    7640,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Desentupidora",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    7689,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Desentupidora",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    7689,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Caçambas e Entulho",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    7738,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Caçambas e Entulho",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    7738,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Terraplanagem e Demolição",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    7787,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Terraplanagem e Demolição",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    7787,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Engenharia e Arquitetura",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    7836,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Engenharia e Arquitetura",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    7836,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Papel de Parede e Redes de Proteção",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    7885,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Papel de Parede e Redes de Proteção",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    7885,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Material de Construção",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    7934,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Material de Construção",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    7934,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Ferragens e Ferramentas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    7983,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Ferragens e Ferramentas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    7983,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Tintas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    8032,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Tintas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    8032,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Madeireiras",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    8081,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Madeireiras",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    8081,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Locação de Equipamentos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    8130,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Locação de Equipamentos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    8130,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    8210,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    8210,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    8250,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    8250,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    8250,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    8250,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Sites e Aplicativos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    8294,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Sites e Aplicativos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    8294,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Marketing Digital e Redes Sociais",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    8343,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Marketing Digital e Redes Sociais",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    8343,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Design Gráfico",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    8392,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Design Gráfico",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    8392,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Suporte em TI e Redes",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    8441,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Suporte em TI e Redes",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    8441,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Sistemas e Automação Comercial",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    8490,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Sistemas e Automação Comercial",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    8490,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Fotografia e Vídeo Publicitário",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    8539,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Fotografia e Vídeo Publicitário",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    8539,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    8619,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    8619,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    8659,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    8659,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    8659,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    8659,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Maquiagem e Penteados",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    8703,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Maquiagem e Penteados",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    8703,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Salão de Beleza e Cabeleireiro",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    8752,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Salão de Beleza e Cabeleireiro",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    8752,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Barbearia",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    8801,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Barbearia",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    8801,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Manicure e Pedicure",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    8850,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Manicure e Pedicure",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    8850,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Estética e Depilação",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    8899,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Estética e Depilação",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    8899,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Sobrancelhas e Cílios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    8948,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Sobrancelhas e Cílios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    8948,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Micropigmentação",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    8997,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Micropigmentação",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    8997,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Massagem e Spa",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    9046,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Massagem e Spa",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    9046,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Podologia",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    9095,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Podologia",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    9095,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Tatuagem e Piercing",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    9144,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Tatuagem e Piercing",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    9144,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    9224,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    9224,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    9264,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    9264,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    9264,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    9264,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Cuidador de Idosos e Home Care",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    9308,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Cuidador de Idosos e Home Care",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    9308,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Casas de Repouso",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    9357,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Casas de Repouso",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    9357,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Médicos e Clínicas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    9406,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Médicos e Clínicas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    9406,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Dentistas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    9455,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Dentistas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    9455,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Hospitais",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    9504,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Hospitais",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    9504,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Laboratórios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    9553,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Laboratórios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    9553,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Oftalmologista",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    9602,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Oftalmologista",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    9602,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Pediatria",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    9651,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Pediatria",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    9651,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Psicologia e Terapias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    9700,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Psicologia e Terapias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    9700,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Fisioterapia",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    9749,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Fisioterapia",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    9749,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Nutricionista",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    9798,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Nutricionista",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    9798,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Fonoaudiologia",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    9847,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Fonoaudiologia",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    9847,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Planos de Saúde",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    9896,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Planos de Saúde",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    9896,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    9976,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    9976,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    10016,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    10016,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    10016,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    10016,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Mecânico",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    10060,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Mecânico",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    10060,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Auto Elétrica",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    10109,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Auto Elétrica",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    10109,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Funilaria e Pintura",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    10158,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Funilaria e Pintura",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    10158,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Ar Condicionado Automotivo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    10207,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Ar Condicionado Automotivo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    10207,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Pneus e Borracharia",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    10256,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Pneus e Borracharia",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    10256,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Som, Insulfilm e Acessórios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    10305,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Som, Insulfilm e Acessórios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    10305,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Lava-Jato e Estética Automotiva",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    10354,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Lava-Jato e Estética Automotiva",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    10354,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Oficina de Motos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    10403,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Oficina de Motos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    10403,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Vidros Automotivos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    10452,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Vidros Automotivos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    10452,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Guincho",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    10501,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Guincho",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    10501,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Auto Peças",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    10550,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Auto Peças",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    10550,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Concessionárias e Revendas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    10599,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Concessionárias e Revendas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    10599,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Lojas de Motos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    10648,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Lojas de Motos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    10648,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Locadoras",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    10697,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Locadoras",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    10697,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Troca de Óleo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    10746,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Troca de Óleo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    10746,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Estacionamentos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    10795,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Estacionamentos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    10795,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Autoescolas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    10844,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Autoescolas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    10844,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Vistoria e Placas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    10893,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Vistoria e Placas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    10893,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Postos de Combustível",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    10942,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Postos de Combustível",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    10942,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    11022,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    11022,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    11062,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    11062,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    11062,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    11062,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Diarista e Limpeza",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    11106,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Diarista e Limpeza",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    11106,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Limpeza Pós-Obra",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    11155,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Limpeza Pós-Obra",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    11155,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Limpeza de Estofados e Tapetes",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    11204,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Limpeza de Estofados e Tapetes",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    11204,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Caixa d'Água e Fossa",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    11253,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Caixa d'Água e Fossa",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    11253,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Dedetização",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    11302,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Dedetização",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    11302,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Limpeza de Vidros e Fachadas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    11351,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Limpeza de Vidros e Fachadas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    11351,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Lavanderia",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    11400,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Lavanderia",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    11400,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    11480,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    11480,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    11520,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    11520,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    11520,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    11520,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Buffet",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    11564,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Buffet",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    11564,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Bolos, Doces e Salgados para Festa",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    11613,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Bolos, Doces e Salgados para Festa",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    11613,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Decoração de Festas e Casamentos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    11662,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Decoração de Festas e Casamentos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    11662,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Cerimonial",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    11711,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Cerimonial",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    11711,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Fotografia e Filmagem",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    11760,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Fotografia e Filmagem",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    11760,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Músicos e DJ",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    11809,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Músicos e DJ",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    11809,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Som e Iluminação",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    11858,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Som e Iluminação",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    11858,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Animação e Brinquedos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    11907,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Animação e Brinquedos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    11907,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Aluguel de Mesas, Cadeiras e Tendas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    11956,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Aluguel de Mesas, Cadeiras e Tendas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    11956,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Churrasqueiro, Garçom e Barman",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    12005,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Churrasqueiro, Garçom e Barman",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    12005,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Salões e Espaços para Festas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    12054,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Salões e Espaços para Festas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    12054,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Aluguel de Trajes",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    12103,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Aluguel de Trajes",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    12103,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Convites e Lembrancinhas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    12152,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Convites e Lembrancinhas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    12152,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Artigos para Festa",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    12201,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Artigos para Festa",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    12201,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    12281,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    12281,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    12321,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    12321,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    12321,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    12321,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Banho e Tosa",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    12365,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Banho e Tosa",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    12365,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Adestramento",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    12414,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Adestramento",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    12414,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Hotel e Creche para Pets",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    12463,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Hotel e Creche para Pets",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    12463,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Pet Shop",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    12512,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Pet Shop",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    12512,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Clínica Veterinária",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    12561,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Clínica Veterinária",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    12561,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    12641,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    12641,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    12681,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    12681,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    12681,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    12681,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Fretes e Mudanças",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    12725,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Fretes e Mudanças",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    12725,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Motoboy e Entregas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    12774,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Motoboy e Entregas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    12774,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Transporte Escolar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    12823,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Transporte Escolar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    12823,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Vans e Ônibus",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    12872,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Vans e Ônibus",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    12872,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Transportadoras",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    12921,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Transportadoras",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    12921,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Táxi e Mototáxi",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    12970,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Táxi e Mototáxi",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    12970,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    13050,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    13050,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    13090,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    13090,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    13090,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    13090,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Advogado",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    13134,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Advogado",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    13134,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Contador",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    13183,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Contador",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    13183,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Consultoria Financeira e Investimentos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    13232,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Consultoria Financeira e Investimentos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    13232,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Seguros e Consórcios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    13281,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Seguros e Consórcios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    13281,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Despachante",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    13330,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Despachante",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    13330,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Segurança do Trabalho",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    13379,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Segurança do Trabalho",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    13379,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Empréstimos e Financeiras",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    13428,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Empréstimos e Financeiras",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    13428,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Cartórios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    13477,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Cartórios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    13477,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Certificado Digital",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    13526,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Certificado Digital",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    13526,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    13606,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    13606,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    13646,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    13646,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    13646,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    13646,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Aulas Particulares e Reforço",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    13690,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Aulas Particulares e Reforço",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    13690,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Aulas de Música",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    13739,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Aulas de Música",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    13739,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Escolas e Colégios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    13788,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Escolas e Colégios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    13788,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Creches e Berçários",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    13837,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Creches e Berçários",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    13837,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Faculdades",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    13886,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Faculdades",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    13886,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Cursos Técnicos e Profissionalizantes",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    13935,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Cursos Técnicos e Profissionalizantes",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    13935,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Idiomas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    13984,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Idiomas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    13984,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Preparatório para Concursos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    14033,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Preparatório para Concursos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    14033,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    14113,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    14113,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    14153,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    14153,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    14153,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    14153,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Decorador de Interiores",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    14197,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Decorador de Interiores",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    14197,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Cortinas, Persianas e Toldos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    14246,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Cortinas, Persianas e Toldos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    14246,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Estofaria",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    14295,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Estofaria",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    14295,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Quadros, Espelhos e Molduras",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    14344,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Quadros, Espelhos e Molduras",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    14344,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Tapetes e Carpetes",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    14393,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Tapetes e Carpetes",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    14393,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Iluminação",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    14442,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Iluminação",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    14442,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Utilidades Domésticas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    14491,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Utilidades Domésticas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    14491,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    14571,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    14571,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    14611,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    14611,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    14611,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    14611,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Administração de Condomínios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    14655,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Administração de Condomínios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    14655,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Avaliação e Vistoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    14704,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Avaliação e Vistoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    14704,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Imobiliárias e Corretores",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    14753,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Imobiliárias e Corretores",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    14753,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Construtoras e Loteamentos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    14802,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Construtoras e Loteamentos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    14802,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    14882,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    14882,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Incluir no orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    1107,
+    14931,
+    119,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    14968,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    14968,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    14968,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    14968,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Supermercados e Mercearias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    15012,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Supermercados e Mercearias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    15012,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Padarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    15061,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Padarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    15061,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Açougues",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    15110,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Açougues",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    15110,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Peixarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    15159,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Peixarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    15159,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Hortifruti",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    15208,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Hortifruti",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    15208,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Distribuidoras de Bebidas e Adegas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    15257,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Distribuidoras de Bebidas e Adegas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    15257,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Produtos Naturais",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    15306,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Produtos Naturais",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    15306,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Empórios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    15355,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Empórios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    15355,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    15435,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    15435,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Incluir no orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    1107,
+    15484,
+    119,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    15521,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    15521,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    15521,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    15521,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Moda Feminina",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    15565,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Moda Feminina",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    15565,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Moda Masculina",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    15614,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Moda Masculina",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    15614,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Moda Infantil",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    15663,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Moda Infantil",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    15663,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Moda Íntima e Praia",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    15712,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Moda Íntima e Praia",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    15712,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Calçados",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    15761,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Calçados",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    15761,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Joias e Relojoarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    15810,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Joias e Relojoarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    15810,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Óticas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    15859,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Óticas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    15859,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Perfumaria e Cosméticos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    15908,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Perfumaria e Cosméticos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    15908,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Brechós",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    15957,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Brechós",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    15957,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Uniformes",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    16006,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Uniformes",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    16006,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    16086,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    16086,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Incluir no orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    1107,
+    16135,
+    119,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    16172,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    16172,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    16172,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    16172,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Farmácias e Drogarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    16216,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Farmácias e Drogarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    16216,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Farmácias de Manipulação",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    16265,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Farmácias de Manipulação",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    16265,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Produtos Hospitalares e Ortopédicos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    16314,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Produtos Hospitalares e Ortopédicos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    16314,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    16394,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    16394,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Incluir no orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    1107,
+    16443,
+    119,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    16480,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    16480,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    16480,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    16480,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Móveis",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    16524,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Móveis",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    16524,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Colchões",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    16573,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Colchões",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    16573,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Eletrodomésticos e Eletrônicos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    16622,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Eletrodomésticos e Eletrônicos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    16622,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Celulares e Acessórios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    16671,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Celulares e Acessórios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    16671,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Informática",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    16720,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Informática",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    16720,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Móveis Usados",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    16769,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Móveis Usados",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    16769,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    16849,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    16849,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    16889,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    16889,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    16889,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    16889,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Personal Trainer",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    16933,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Personal Trainer",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    16933,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Academias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    16982,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Academias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    16982,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Yoga e Pilates",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    17031,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Yoga e Pilates",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    17031,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Artes Marciais e Lutas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    17080,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Artes Marciais e Lutas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    17080,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Crossfit e Funcional",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    17129,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Crossfit e Funcional",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    17129,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Natação e Dança",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    17178,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Natação e Dança",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    17178,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Escolinhas de Esporte",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    17227,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Escolinhas de Esporte",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    17227,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Artigos Esportivos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    17276,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Artigos Esportivos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    17276,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    17356,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    17356,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Incluir no orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    1107,
+    17405,
+    119,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    17442,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    17442,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    17442,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    17442,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Bares e Petiscarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    17486,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Bares e Petiscarias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    17486,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Pubs e Choperias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    17535,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Pubs e Choperias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    17535,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Casas Noturnas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    17584,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Casas Noturnas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    17584,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    17664,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    17664,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    17704,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    17704,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    17704,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    17704,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Alarmes e Câmeras",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    17748,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Alarmes e Câmeras",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    17748,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Cerca Elétrica",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    17797,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Cerca Elétrica",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    17797,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Chaveiro",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    17846,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Chaveiro",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    17846,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Portaria e Vigilância",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    17895,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Portaria e Vigilância",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    17895,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Portões Eletrônicos e Interfones",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    17944,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Portões Eletrônicos e Interfones",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    17944,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Rastreadores",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    17993,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Rastreadores",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    17993,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    18073,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    18073,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    18113,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    18113,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    18113,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    18113,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Jardinagem e Paisagismo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    18157,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Jardinagem e Paisagismo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    18157,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Poda e Remoção de Árvores",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    18206,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Poda e Remoção de Árvores",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    18206,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Limpeza de Piscinas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    18255,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Limpeza de Piscinas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    18255,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Floriculturas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    18304,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Floriculturas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    18304,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Plantas e Vasos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    18353,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Plantas e Vasos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    18353,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    18433,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    18433,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    18473,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    18473,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    18473,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    18473,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Veterinário Rural",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    18517,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Veterinário Rural",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    18517,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Poço Artesiano e Irrigação",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    18566,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Poço Artesiano e Irrigação",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    18566,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Agropecuárias e Casas de Ração",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    18615,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Agropecuárias e Casas de Ração",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    18615,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Máquinas e Implementos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    18664,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Máquinas e Implementos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    18664,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    18744,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    18744,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    18784,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    18784,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    18784,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    18784,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Metalúrgicas e Usinagem",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    18828,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Metalúrgicas e Usinagem",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    18828,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Confecções",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    18877,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Confecções",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    18877,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Embalagens",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    18926,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Embalagens",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    18926,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Alimentos e Bebidas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    18975,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Alimentos e Bebidas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    18975,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    19055,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    19055,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    19095,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    19095,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    19095,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    19095,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Provedores de Internet",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    19139,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Provedores de Internet",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    19139,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Antenas e TV por Assinatura",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    19188,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Antenas e TV por Assinatura",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    19188,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Operadoras e Planos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    19237,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Operadoras e Planos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    19237,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    19317,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    19317,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    19357,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    19357,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    19357,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    19357,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Gráficas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    19401,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Gráficas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    19401,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Comunicação Visual",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    19450,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Comunicação Visual",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    19450,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Camisetas e Brindes",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    19499,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Camisetas e Brindes",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    19499,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Carro de Som e Panfletagem",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    19548,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Carro de Som e Panfletagem",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    19548,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Outdoor e Painéis",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    19597,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Outdoor e Painéis",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    19597,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Rádios e Jornais",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    19646,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Rádios e Jornais",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    19646,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    19726,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    19726,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    19766,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    19766,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    19766,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    19766,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Agências de Viagem",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    19810,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Agências de Viagem",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    19810,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Passeios e Guias Turísticos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    19859,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Passeios e Guias Turísticos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    19859,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Transfer e Receptivo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    19908,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Transfer e Receptivo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    19908,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Casas de Câmbio",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    19957,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Casas de Câmbio",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    19957,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1047,
+    20037,
+    75,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desmarcar todas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1142,
+    20037,
+    97,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Incluir no orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    1107,
+    20086,
+    119,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    557,
+    20123,
+    346,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    20123,
+    80,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    983,
+    20123,
+    176,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1159,
+    20123,
+    96,
+    33
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Igrejas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    20167,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Igrejas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    20167,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar ONGs e Associações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    20216,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir ONGs e Associações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    20216,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Sindicatos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    20265,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Sindicatos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    20265,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Funerárias e Cemitérios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    20314,
+    28,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Funerárias e Cemitérios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1211,
+    20314,
+    28,
+    28
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  20377
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "grandevix (local)",
+    "regiao": "menu lateral",
+    "caixa": [
+     14,
+     16,
+     207,
+     19
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "menu",
+    "texto": "67 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Todas as categorias322 · Notícias Automáticas · Padaria QA0 · Guia Comercial · Restaurante QA1 · Listar Empresas · Delivery30 · Gerenciar Categorias · Gerenciar Subcategorias · Serviços & Profissionais16 …",
+    "regiao": "menu lateral",
+    "caixa": [
+     10,
+     18,
+     521,
+     1678
+    ],
+    "nota": "lista de 67 itens em coluna",
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Guia Comercial — Subcategorias",
+    "regiao": "topo",
+    "caixa": [
+     300,
+     19,
+     284,
+     28
+    ],
+    "linha": 0,
+    "desc": "no topo da página, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "+ Nova Subcategoria",
+    "regiao": "conteúdo",
+    "caixa": [
+     1085,
+     123,
+     171,
+     36
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Buscar subcategoria pelo nome",
+    "regiao": "menu lateral",
+    "caixa": [
+     309,
+     132,
+     222,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Marcar todas",
+    "regiao": "conteúdo",
+    "caixa": [
+     1047,
+     200,
+     75,
+     16
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “+ Nova Subcategoria”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Desmarcar todas",
+    "regiao": "conteúdo",
+    "caixa": [
+     1142,
+     200,
+     97,
+     16
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “+ Nova Subcategoria”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar Pizzaria QA",
+    "regiao": "conteúdo",
+    "caixa": [
+     1179,
+     284,
+     28,
+     28
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Ações”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir Pizzaria QA",
+    "regiao": "conteúdo",
+    "caixa": [
+     1211,
+     284,
+     28,
+     28
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Ações”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Marcar todas",
+    "regiao": "conteúdo",
+    "caixa": [
+     1047,
+     364,
+     75,
+     16
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Desmarcar todas",
+    "regiao": "conteúdo",
+    "caixa": [
+     1142,
+     364,
+     97,
+     16
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Editar Pizzaria QA”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar Pizza (e outros 15 parecidos)",
+    "regiao": "conteúdo",
+    "caixa": [
+     1179,
+     448,
+     28,
+     28
+    ],
+    "nota": "repetido ×16, um sob o outro",
+    "desc": "no meio da tela, à direita, logo abaixo de “Ações”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar Churrascarias",
+    "regiao": "conteúdo",
+    "caixa": [
+     1179,
+     840,
+     28,
+     28
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir Churrascarias",
+    "regiao": "conteúdo",
+    "caixa": [
+     1211,
+     840,
+     28,
+     28
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar Hort Fruit (e outros 41 parecidos)",
+    "regiao": "conteúdo",
+    "caixa": [
+     1179,
+     889,
+     28,
+     28
+    ],
+    "nota": "repetido ×42, um sob o outro",
+    "desc": "no meio da tela, à direita, logo abaixo de “Editar Churrascarias”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Marcar todas",
+    "regiao": "conteúdo",
+    "caixa": [
+     1047,
+     1949,
+     75,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Desmarcar todas",
+    "regiao": "conteúdo",
+    "caixa": [
+     1142,
+     1949,
+     97,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar Marido de Aluguel (e outros 31 parecidos)",
+    "regiao": "conteúdo",
+    "caixa": [
+     1179,
+     2033,
+     28,
+     28
+    ],
+    "nota": "repetido ×32, um sob o outro",
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Ações”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Marcar todas",
+    "regiao": "conteúdo",
+    "caixa": [
+     1047,
+     2848,
+     75,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Desmarcar todas",
+    "regiao": "conteúdo",
+    "caixa": [
+     1142,
+     2848,
+     97,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar Comida Brasileira e Self-Service (e outros 37 parecidos)",
+    "regiao": "conteúdo",
+    "caixa": [
+     1179,
+     2932,
+     28,
+     28
+    ],
+    "nota": "repetido ×38, um sob o outro",
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Ações”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Marcar todas",
+    "regiao": "conteúdo",
+    "caixa": [
+     1047,
+     3894,
+     75,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Desmarcar todas",
+    "regiao": "conteúdo",
+    "caixa": [
+     1142,
+     3894,
+     97,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar Academias (e outros 25 parecidos)",
+    "regiao": "conteúdo",
+    "caixa": [
+     1179,
+     3978,
+     28,
+     28
+    ],
+    "nota": "repetido ×26, um sob o outro",
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Ações”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Marcar todas",
+    "regiao": "conteúdo",
+    "caixa": [
+     1047,
+     4646,
+     75,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Desmarcar todas",
+    "regiao": "conteúdo",
+    "caixa": [
+     1142,
+     4646,
+     97,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar Hotéis (e outros 15 parecidos)",
+    "regiao": "conteúdo",
+    "caixa": [
+     1179,
+     4730,
+     28,
+     28
+    ],
+    "nota": "repetido ×16, um sob o outro",
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Ações”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Marcar todas",
+    "regiao": "conteúdo",
+    "caixa": [
+     1047,
+     5153,
+     75,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Desmarcar todas",
+    "regiao": "conteúdo",
+    "caixa": [
+     1142,
+     5153,
+     97,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar Shopping Center (e outros 23 parecidos)",
+    "regiao": "conteúdo",
+    "caixa": [
+     1179,
+     5237,
+     28,
+     28
+    ],
+    "nota": "repetido ×24, um sob o outro",
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Ações”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Marcar todas",
+    "regiao": "conteúdo",
+    "caixa": [
+     1047,
+     5856,
+     75,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Desmarcar todas",
+    "regiao": "conteúdo",
+    "caixa": [
+     1142,
+     5856,
+     97,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar Computadores e Impressoras (e outros 13 parecidos)",
+    "regiao": "conteúdo",
+    "caixa": [
+     1179,
+     5940,
+     28,
+     28
+    ],
+    "nota": "repetido ×14, um sob o outro",
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Ações”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Marcar todas",
+    "regiao": "conteúdo",
+    "caixa": [
+     1047,
+     6314,
+     75,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Desmarcar todas",
+    "regiao": "conteúdo",
+    "caixa": [
+     1142,
+     6314,
+     97,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar Cinemas (e outros 15 parecidos)",
+    "regiao": "conteúdo",
+    "caixa": [
+     1179,
+     6398,
+     28,
+     28
+    ],
+    "nota": "repetido ×16, um sob o outro",
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Ações”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Marcar todas",
+    "regiao": "conteúdo",
+    "caixa": [
+     1047,
+     6821,
+     75,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Desmarcar todas",
+    "regiao": "conteúdo",
+    "caixa": [
+     1142,
+     6821,
+     97,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar Pedreiro e Reformas (e outros 51 parecidos)",
+    "regiao": "conteúdo",
+    "caixa": [
+     1179,
+     6905,
+     28,
+     28
+    ],
+    "nota": "repetido ×52, um sob o outro",
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Ações”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Marcar todas",
+    "regiao": "conteúdo",
+    "caixa": [
+     1047,
+     8210,
+     75,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   }
+  ],
+  "total": 270,
+  "W": 1280,
+  "H": 20377
+ }
+}

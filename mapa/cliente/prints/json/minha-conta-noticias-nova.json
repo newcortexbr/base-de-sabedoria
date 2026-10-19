@@ -1,0 +1,914 @@
+{
+ "rota": "/minha-conta/noticias/nova",
+ "url": "/minha-conta/noticias/nova",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "Nova notícia",
+   "regiao": "conteúdo",
+   "caixa": [
+    382,
+    46,
+    338,
+    39
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Voltar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1127,
+    55,
+    95,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    96,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Conteúdo",
+   "regiao": "conteúdo",
+   "caixa": [
+    308,
+    166,
+    608,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Publicação",
+   "regiao": "conteúdo",
+   "caixa": [
+    980,
+    166,
+    248,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Guia Comercial",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    175,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    219,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    308,
+    226,
+    608,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    263,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Destaque na janela principal",
+   "regiao": "conteúdo",
+   "caixa": [
+    980,
+    282,
+    229,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    308,
+    304,
+    296,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    620,
+    304,
+    296,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Classificados",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    307,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Adicionar",
+   "regiao": "conteúdo",
+   "caixa": [
+    980,
+    322,
+    158,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Cancelar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1146,
+    322,
+    82,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha empresa",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    386,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Foto de Capa",
+   "regiao": "conteúdo",
+   "caixa": [
+    980,
+    416,
+    248,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Planos e assinaturas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    430,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Segurança",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    474,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Negrito",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    546,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Itálico",
+   "regiao": "conteúdo",
+   "caixa": [
+    351,
+    546,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sublinhado",
+   "regiao": "conteúdo",
+   "caixa": [
+    385,
+    546,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Riscado",
+   "regiao": "conteúdo",
+   "caixa": [
+    419,
+    546,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Subtítulo",
+   "regiao": "conteúdo",
+   "caixa": [
+    460,
+    546,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Subtítulo menor",
+   "regiao": "conteúdo",
+   "caixa": [
+    494,
+    546,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Citação",
+   "regiao": "conteúdo",
+   "caixa": [
+    528,
+    546,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Lista",
+   "regiao": "conteúdo",
+   "caixa": [
+    569,
+    546,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Lista numerada",
+   "regiao": "conteúdo",
+   "caixa": [
+    603,
+    546,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Alinhar à esquerda",
+   "regiao": "conteúdo",
+   "caixa": [
+    644,
+    546,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Centralizar",
+   "regiao": "conteúdo",
+   "caixa": [
+    678,
+    546,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Alinhar à direita",
+   "regiao": "conteúdo",
+   "caixa": [
+    712,
+    546,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Cor do texto",
+   "regiao": "conteúdo",
+   "caixa": [
+    753,
+    546,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marca-texto",
+   "regiao": "conteúdo",
+   "caixa": [
+    787,
+    546,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Inserir link",
+   "regiao": "conteúdo",
+   "caixa": [
+    828,
+    546,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vídeo do YouTube",
+   "regiao": "conteúdo",
+   "caixa": [
+    862,
+    546,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Limpar formatação",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    580,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desfazer",
+   "regiao": "conteúdo",
+   "caixa": [
+    358,
+    580,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Refazer",
+   "regiao": "conteúdo",
+   "caixa": [
+    392,
+    580,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    980,
+    824,
+    248,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu",
+   "caixa": [
+    197,
+    838,
+    44,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    980,
+    898,
+    248,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "SEO",
+   "regiao": "conteúdo",
+   "caixa": [
+    980,
+    992,
+    248,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Digite e pressione Enter ou vírgula...",
+   "regiao": "conteúdo",
+   "caixa": [
+    321,
+    1012,
+    582,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Deixe em branco para usar o título da notícia",
+   "regiao": "conteúdo",
+   "caixa": [
+    980,
+    1048,
+    248,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    308,
+    1083,
+    608,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Deixe em branco para usar a chamada",
+   "regiao": "conteúdo",
+   "caixa": [
+    980,
+    1122,
+    248,
+    78
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Categorização",
+   "regiao": "conteúdo",
+   "caixa": [
+    308,
+    1177,
+    608,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Categoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    308,
+    1237,
+    296,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    620,
+    1237,
+    296,
+    38
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  1351
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "Nova notícia",
+    "regiao": "conteúdo",
+    "caixa": [
+     382,
+     46,
+     338,
+     39
+    ],
+    "linha": 0,
+    "desc": "no topo da página, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Voltar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1127,
+     55,
+     95,
+     44
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à direita"
+   },
+   {
+    "tipo": "menu/links",
+    "texto": "9 itens: Início · Guia Comercial · Vagas de Emprego · Banners Publicitários · Classificados · Minha empresa · Planos e assinaturas · Segurança · Sair",
+    "regiao": "menu",
+    "caixa": [
+     14,
+     96,
+     227,
+     786
+    ],
+    "nota": "lista de 9 itens em coluna",
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Conteúdo",
+    "regiao": "conteúdo",
+    "caixa": [
+     308,
+     166,
+     608,
+     20
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Publicação",
+    "regiao": "conteúdo",
+    "caixa": [
+     980,
+     166,
+     248,
+     20
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     308,
+     226,
+     608,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “Conteúdo”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Destaque na janela principal",
+    "regiao": "conteúdo",
+    "caixa": [
+     980,
+     282,
+     229,
+     20
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     308,
+     304,
+     296,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     620,
+     304,
+     296,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Adicionar",
+    "regiao": "conteúdo",
+    "caixa": [
+     980,
+     322,
+     158,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Destaque na janela principal”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Cancelar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1146,
+     322,
+     82,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Destaque na janela principal”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Foto de Capa",
+    "regiao": "conteúdo",
+    "caixa": [
+     980,
+     416,
+     248,
+     20
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Negrito (e outros 18 parecidos)",
+    "regiao": "conteúdo",
+    "caixa": [
+     317,
+     546,
+     32,
+     32
+    ],
+    "nota": "repetido ×19, um sob o outro",
+    "desc": "no meio da tela, à esquerda"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     980,
+     824,
+     248,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     980,
+     898,
+     248,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "título",
+    "texto": "SEO",
+    "regiao": "conteúdo",
+    "caixa": [
+     980,
+     992,
+     248,
+     20
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Digite e pressione Enter ou vírgula...",
+    "regiao": "conteúdo",
+    "caixa": [
+     321,
+     1012,
+     582,
+     22
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Deixe em branco para usar o título da notícia",
+    "regiao": "conteúdo",
+    "caixa": [
+     980,
+     1048,
+     248,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “SEO”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     308,
+     1083,
+     608,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Digite e pressione Enter ou vírgula”"
+   },
+   {
+    "tipo": "campo de texto longo",
+    "texto": "Deixe em branco para usar a chamada",
+    "regiao": "conteúdo",
+    "caixa": [
+     980,
+     1122,
+     248,
+     78
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Deixe em branco para usar o título ”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Categorização",
+    "regiao": "conteúdo",
+    "caixa": [
+     308,
+     1177,
+     608,
+     20
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Categoria",
+    "regiao": "conteúdo",
+    "caixa": [
+     308,
+     1237,
+     296,
+     38
+    ],
+    "linha": 0,
+    "desc": "no fim da página, ao centro, logo abaixo de “Categorização”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Subcategoria",
+    "regiao": "conteúdo",
+    "caixa": [
+     620,
+     1237,
+     296,
+     38
+    ],
+    "linha": 0,
+    "desc": "no fim da página, ao centro, logo abaixo de “Categorização”"
+   }
+  ],
+  "total": 23,
+  "W": 1280,
+  "H": 1351
+ }
+}

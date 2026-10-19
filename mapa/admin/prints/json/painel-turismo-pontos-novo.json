@@ -1,0 +1,1658 @@
+{
+ "rota": "/painel/turismo/pontos/novo",
+ "url": "/painel/turismo/pontos/novo",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    16,
+    207,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver portal",
+   "regiao": "topo",
+   "caixa": [
+    1147,
+    16,
+    109,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    18,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Novo Ponto Turístico",
+   "regiao": "topo",
+   "caixa": [
+    300,
+    19,
+    181,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    63,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    97,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Novo Ponto Turístico",
+   "regiao": "conteúdo",
+   "caixa": [
+    484,
+    99,
+    241,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "← Voltar",
+   "regiao": "conteúdo",
+   "caixa": [
+    418,
+    105,
+    54,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    163,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Foto principal",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    180,
+    670,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    197,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    231,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    265,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    299,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    333,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Pontos Turísticos",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    367,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Novo Ponto",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    399,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Dados básicos",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    422,
+    670,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Categorias",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    431,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Roteiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    463,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Ex: Convento da Penha",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    486,
+    670,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    495,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    531,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    565,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Categoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    568,
+    670,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    599,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Nova categoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    616,
+    128,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    633,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    667,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Descreva o ponto turístico...",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    686,
+    670,
+    102
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    733,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    767,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de FunçõesDiga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    800,
+    255,
+    50
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    801,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Falar com o suporte no WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    1200,
+    820,
+    56,
+    56
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    835,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Ex: cachoeira, trilha, mirante...",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    847,
+    597,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "+ Add",
+   "regiao": "conteúdo",
+   "caixa": [
+    1048,
+    847,
+    65,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "··",
+   "regiao": "menu lateral",
+   "caixa": [
+    16,
+    858,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    859,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    901,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    935,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Destaque",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    943,
+    16,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    554,
+    943,
+    16,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Entrada gratuita",
+   "regiao": "conteúdo",
+   "caixa": [
+    637,
+    943,
+    16,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    969,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Ex: Terça a domingo, 9h às 17h",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    1001,
+    670,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Informações",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    1137,
+    670,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "00000-000",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    1219,
+    327,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Cidade",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    1317,
+    327,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Bairro",
+   "regiao": "conteúdo",
+   "caixa": [
+    786,
+    1317,
+    327,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Rua, número, bairro, cidade",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    1399,
+    670,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Horários de funcionamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    1535,
+    670,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    754,
+    1603,
+    112,
+    35
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    897,
+    1603,
+    112,
+    35
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Fechado",
+   "regiao": "conteúdo",
+   "caixa": [
+    583,
+    1613,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "24 horas",
+   "regiao": "conteúdo",
+   "caixa": [
+    668,
+    1613,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    754,
+    1658,
+    112,
+    35
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    897,
+    1658,
+    112,
+    35
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Fechado",
+   "regiao": "conteúdo",
+   "caixa": [
+    583,
+    1669,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "24 horas",
+   "regiao": "conteúdo",
+   "caixa": [
+    668,
+    1669,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    754,
+    1714,
+    112,
+    35
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    897,
+    1714,
+    112,
+    35
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Fechado",
+   "regiao": "conteúdo",
+   "caixa": [
+    583,
+    1725,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "24 horas",
+   "regiao": "conteúdo",
+   "caixa": [
+    668,
+    1725,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    754,
+    1770,
+    112,
+    35
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    897,
+    1770,
+    112,
+    35
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Fechado",
+   "regiao": "conteúdo",
+   "caixa": [
+    583,
+    1780,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "24 horas",
+   "regiao": "conteúdo",
+   "caixa": [
+    668,
+    1780,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    754,
+    1825,
+    112,
+    35
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    897,
+    1825,
+    112,
+    35
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Fechado",
+   "regiao": "conteúdo",
+   "caixa": [
+    583,
+    1836,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "24 horas",
+   "regiao": "conteúdo",
+   "caixa": [
+    668,
+    1836,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    754,
+    1881,
+    112,
+    35
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    897,
+    1881,
+    112,
+    35
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Fechado",
+   "regiao": "conteúdo",
+   "caixa": [
+    583,
+    1892,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "24 horas",
+   "regiao": "conteúdo",
+   "caixa": [
+    668,
+    1892,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    754,
+    1937,
+    112,
+    35
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    897,
+    1937,
+    112,
+    35
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Fechado",
+   "regiao": "conteúdo",
+   "caixa": [
+    583,
+    1947,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "24 horas",
+   "regiao": "conteúdo",
+   "caixa": [
+    668,
+    1947,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Dicas para visitantes",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    2055,
+    262,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "+ Nova dica",
+   "regiao": "conteúdo",
+   "caixa": [
+    1001,
+    2057,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Galeria de fotos e vídeos",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    2311,
+    319,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Foto",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    2369,
+    80,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vídeo do YouTube",
+   "regiao": "conteúdo",
+   "caixa": [
+    531,
+    2369,
+    171,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "SEO",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    2719,
+    670,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Deixe em branco para usar o nome do ponto",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    2819,
+    670,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Deixe em branco para usar a descrição",
+   "regiao": "conteúdo",
+   "caixa": [
+    443,
+    2901,
+    670,
+    82
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Cancelar",
+   "regiao": "conteúdo",
+   "caixa": [
+    869,
+    3039,
+    101,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Cadastrar ponto",
+   "regiao": "conteúdo",
+   "caixa": [
+    982,
+    3039,
+    156,
+    42
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  3113
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "grandevix (local)",
+    "regiao": "menu lateral",
+    "caixa": [
+     14,
+     16,
+     207,
+     19
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "menu",
+    "texto": "28 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Notícias Automáticas · Guia Comercial · Vagas de Emprego · Classificados · Guia Turístico / Eventos · Pontos Turísticos · Novo Ponto · Categorias · Roteiros · Eventos …",
+    "regiao": "menu lateral",
+    "caixa": [
+     10,
+     18,
+     255,
+     985
+    ],
+    "nota": "lista de 28 itens em coluna",
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Novo Ponto Turístico",
+    "regiao": "topo",
+    "caixa": [
+     300,
+     19,
+     181,
+     28
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Novo Ponto Turístico",
+    "regiao": "conteúdo",
+    "caixa": [
+     484,
+     99,
+     241,
+     32
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "← Voltar",
+    "regiao": "conteúdo",
+    "caixa": [
+     418,
+     105,
+     54,
+     20
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Foto principal",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     180,
+     670,
+     24
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Dados básicos",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     422,
+     670,
+     24
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Ex: Convento da Penha",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     486,
+     670,
+     42
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Dados básicos”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Categoria",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     568,
+     670,
+     42
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Ex: Convento da Penha”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Nova categoria",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     616,
+     128,
+     30
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Categoria”"
+   },
+   {
+    "tipo": "campo de texto longo",
+    "texto": "Descreva o ponto turístico...",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     686,
+     670,
+     102
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Nova categoria”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Ex: cachoeira, trilha, mirante...",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     847,
+     597,
+     42
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Descreva o ponto turístico...”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "+ Add",
+    "regiao": "conteúdo",
+    "caixa": [
+     1048,
+     847,
+     65,
+     42
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Descreva o ponto turístico...”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Ex: Terça a domingo, 9h às 17h",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     1001,
+     670,
+     42
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Destaque”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Informações",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     1137,
+     670,
+     24
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "00000-000",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     1219,
+     327,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Informações”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Cidade",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     1317,
+     327,
+     42
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “00000-000”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Bairro",
+    "regiao": "conteúdo",
+    "caixa": [
+     786,
+     1317,
+     327,
+     42
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Rua, número, bairro, cidade",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     1399,
+     670,
+     42
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Cidade”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Horários de funcionamento",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     1535,
+     670,
+     24
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     754,
+     1603,
+     112,
+     35
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Horários de funcionamento”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     897,
+     1603,
+     112,
+     35
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Horários de funcionamento”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     754,
+     1658,
+     112,
+     35
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     897,
+     1658,
+     112,
+     35
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     754,
+     1714,
+     112,
+     35
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     897,
+     1714,
+     112,
+     35
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     754,
+     1770,
+     112,
+     35
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     897,
+     1770,
+     112,
+     35
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     754,
+     1825,
+     112,
+     35
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     897,
+     1825,
+     112,
+     35
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     754,
+     1881,
+     112,
+     35
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     897,
+     1881,
+     112,
+     35
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     754,
+     1937,
+     112,
+     35
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     897,
+     1937,
+     112,
+     35
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "título",
+    "texto": "Dicas para visitantes",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     2055,
+     262,
+     24
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "+ Nova dica",
+    "regiao": "conteúdo",
+    "caixa": [
+     1001,
+     2057,
+     112,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "título",
+    "texto": "Galeria de fotos e vídeos",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     2311,
+     319,
+     24
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "SEO",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     2719,
+     670,
+     20
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Deixe em branco para usar o nome do ponto",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     2819,
+     670,
+     42
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “SEO”"
+   },
+   {
+    "tipo": "campo de texto longo",
+    "texto": "Deixe em branco para usar a descrição",
+    "regiao": "conteúdo",
+    "caixa": [
+     443,
+     2901,
+     670,
+     82
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Deixe em branco para usar o nome do”"
+   }
+  ],
+  "total": 64,
+  "W": 1280,
+  "H": 3113
+ }
+}

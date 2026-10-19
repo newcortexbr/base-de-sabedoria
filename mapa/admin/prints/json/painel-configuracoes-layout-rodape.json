@@ -1,0 +1,983 @@
+{
+ "rota": "/painel/configuracoes/layout/rodape",
+ "url": "/painel/configuracoes/layout/rodape",
+ "itens": [
+  {
+   "tipo": "link",
+   "texto": "Configurações",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    36,
+    91,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Layout",
+   "regiao": "conteúdo",
+   "caixa": [
+    411,
+    36,
+    43,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Rodapé",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    84,
+    956,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    109,
+    207,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    111,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    156,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    190,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "✓Linha única",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    211,
+    238,
+    118
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    256,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Computador",
+   "regiao": "menu lateral",
+   "caixa": [
+    809,
+    268,
+    95,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Celular",
+   "regiao": "menu lateral",
+   "caixa": [
+    908,
+    268,
+    65,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    290,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    324,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Centralizado",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    345,
+    238,
+    118
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    358,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    392,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    426,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    460,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Faixa de chamada",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    479,
+    238,
+    118
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    494,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    528,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    562,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    596,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    662,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Ex: O guia local e portal de notícias da Grande Vitória.",
+   "regiao": "conteúdo",
+   "caixa": [
+    319,
+    678,
+    424,
+    81
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    696,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    730,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    764,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Herdar cor do topo",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    817,
+    160,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    830,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    864,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de FunçõesDiga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    893,
+    255,
+    50
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    898,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Falar com o suporte no WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    1200,
+    913,
+    56,
+    56
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Configurações Gerais",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    932,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "··",
+   "regiao": "menu lateral",
+   "caixa": [
+    16,
+    951,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    952,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Cor sólida",
+   "regiao": "conteúdo",
+   "caixa": [
+    319,
+    954,
+    210,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Gradiente",
+   "regiao": "conteúdo",
+   "caixa": [
+    533,
+    954,
+    210,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Layout",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    964,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Cobrança",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    996,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "#084a43",
+   "regiao": "conteúdo",
+   "caixa": [
+    319,
+    998,
+    40,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "#084A43",
+   "regiao": "conteúdo",
+   "caixa": [
+    367,
+    998,
+    376,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Módulos do Portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    1028,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "#ffffff",
+   "regiao": "conteúdo",
+   "caixa": [
+    319,
+    1118,
+    40,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "#FFFFFF",
+   "regiao": "conteúdo",
+   "caixa": [
+    367,
+    1118,
+    300,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Branco",
+   "regiao": "conteúdo",
+   "caixa": [
+    675,
+    1123,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Preto",
+   "regiao": "conteúdo",
+   "caixa": [
+    713,
+    1123,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Pequena32px",
+   "regiao": "conteúdo",
+   "caixa": [
+    319,
+    1240,
+    126,
+    136
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Média44px",
+   "regiao": "conteúdo",
+   "caixa": [
+    455,
+    1240,
+    126,
+    136
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Grande60px",
+   "regiao": "conteúdo",
+   "caixa": [
+    591,
+    1240,
+    152,
+    136
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Salvar",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    1418,
+    106,
+    44
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  1498
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "link",
+    "texto": "Configurações",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     36,
+     91,
+     20
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "link",
+    "texto": "Layout",
+    "regiao": "conteúdo",
+    "caixa": [
+     411,
+     36,
+     43,
+     20
+    ],
+    "linha": 0,
+    "desc": "no topo da página, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Rodapé",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     84,
+     956,
+     36
+    ],
+    "linha": 0,
+    "desc": "faixa larga no topo da página"
+   },
+   {
+    "tipo": "título",
+    "texto": "grandevix (local)",
+    "regiao": "menu lateral",
+    "caixa": [
+     14,
+     109,
+     207,
+     19
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "menu",
+    "texto": "29 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Computador · Celular · Notícias Automáticas · Guia Comercial · Vagas de Emprego · Classificados · Guia Turístico / Eventos · Artigos · Orçamentos Online · A Voz do Povo …",
+    "regiao": "menu lateral",
+    "caixa": [
+     10,
+     111,
+     963,
+     949
+    ],
+    "nota": "lista de 29 itens em coluna",
+    "desc": "faixa larga na parte de cima"
+   },
+   {
+    "tipo": "botão",
+    "texto": "✓Linha única",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     211,
+     238,
+     118
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Centralizado",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     345,
+     238,
+     118
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda, logo abaixo de “✓Linha única”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Faixa de chamada",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     479,
+     238,
+     118
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda, logo abaixo de “Centralizado”"
+   },
+   {
+    "tipo": "campo de texto longo",
+    "texto": "Ex: O guia local e portal de notícias da Grande Vitória.",
+    "regiao": "conteúdo",
+    "caixa": [
+     319,
+     678,
+     424,
+     81
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Faixa de chamada”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Herdar cor do topo",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     817,
+     160,
+     32
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda, logo abaixo de “Ex: O guia local e portal de notíci”"
+   },
+   {
+    "tipo": "link",
+    "texto": "Falar com o suporte no WhatsApp",
+    "regiao": "conteúdo",
+    "caixa": [
+     1200,
+     913,
+     56,
+     56
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "selo",
+    "texto": "··",
+    "regiao": "menu lateral",
+    "caixa": [
+     16,
+     951,
+     32,
+     32
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à esquerda"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Cor sólida",
+    "regiao": "conteúdo",
+    "caixa": [
+     319,
+     954,
+     210,
+     30
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à esquerda"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Gradiente",
+    "regiao": "conteúdo",
+    "caixa": [
+     533,
+     954,
+     210,
+     30
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "#084a43",
+    "regiao": "conteúdo",
+    "caixa": [
+     319,
+     998,
+     40,
+     40
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à esquerda, logo abaixo de “Cor sólida”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "#084A43",
+    "regiao": "conteúdo",
+    "caixa": [
+     367,
+     998,
+     376,
+     40
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Cor sólida”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "#ffffff",
+    "regiao": "conteúdo",
+    "caixa": [
+     319,
+     1118,
+     40,
+     40
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à esquerda, logo abaixo de “#084a43”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "#FFFFFF",
+    "regiao": "conteúdo",
+    "caixa": [
+     367,
+     1118,
+     300,
+     40
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “#084A43”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Branco",
+    "regiao": "conteúdo",
+    "caixa": [
+     675,
+     1123,
+     30,
+     30
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “#084A43”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Preto",
+    "regiao": "conteúdo",
+    "caixa": [
+     713,
+     1123,
+     30,
+     30
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “#084A43”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Pequena32px",
+    "regiao": "conteúdo",
+    "caixa": [
+     319,
+     1240,
+     126,
+     136
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à esquerda, logo abaixo de “#ffffff”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Média44px",
+    "regiao": "conteúdo",
+    "caixa": [
+     455,
+     1240,
+     126,
+     136
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “#FFFFFF”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Grande60px",
+    "regiao": "conteúdo",
+    "caixa": [
+     591,
+     1240,
+     152,
+     136
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “#FFFFFF”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Salvar",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     1418,
+     106,
+     44
+    ],
+    "linha": 0,
+    "desc": "no fim da página, à esquerda, logo abaixo de “Pequena32px”"
+   }
+  ],
+  "total": 24,
+  "W": 1280,
+  "H": 1498
+ }
+}

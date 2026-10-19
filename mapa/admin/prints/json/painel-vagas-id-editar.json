@@ -1,0 +1,1307 @@
+{
+ "rota": "/painel/vagas/[id]/editar",
+ "url": "/painel/vagas/1/editar",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    16,
+    207,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver portal",
+   "regiao": "topo",
+   "caixa": [
+    1147,
+    16,
+    109,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    18,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Editar Vaga",
+   "regiao": "topo",
+   "caixa": [
+    300,
+    19,
+    98,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    63,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    97,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Editar Vaga",
+   "regiao": "conteúdo",
+   "caixa": [
+    450,
+    99,
+    131,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "←",
+   "regiao": "conteúdo",
+   "caixa": [
+    418,
+    103,
+    16,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    163,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Empresa Contratante",
+   "regiao": "conteúdo",
+   "caixa": [
+    439,
+    176,
+    678,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    197,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    231,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    265,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Listar Vagas",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    299,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Nova Vaga",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    331,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Áreas de Vagas",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    363,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Contratantes",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    395,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Dados da Vaga",
+   "regiao": "conteúdo",
+   "caixa": [
+    439,
+    414,
+    678,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    431,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    465,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Ex: Desenvolvedor Full Stack Pleno",
+   "regiao": "conteúdo",
+   "caixa": [
+    439,
+    474,
+    447,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Área",
+   "regiao": "conteúdo",
+   "caixa": [
+    902,
+    474,
+    215,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    499,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    533,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Ex: 44h, 12x36, 30h",
+   "regiao": "conteúdo",
+   "caixa": [
+    786,
+    552,
+    331,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    567,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    601,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Cidade",
+   "regiao": "conteúdo",
+   "caixa": [
+    439,
+    630,
+    331,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Bairro",
+   "regiao": "conteúdo",
+   "caixa": [
+    786,
+    630,
+    331,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    635,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    701,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "radio",
+   "texto": "Presencial",
+   "regiao": "conteúdo",
+   "caixa": [
+    439,
+    711,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "radio",
+   "texto": "Home Office",
+   "regiao": "conteúdo",
+   "caixa": [
+    541,
+    711,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "radio",
+   "texto": "Híbrido",
+   "regiao": "conteúdo",
+   "caixa": [
+    656,
+    711,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    735,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Vaga PCD",
+   "regiao": "conteúdo",
+   "caixa": [
+    439,
+    747,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "1º Emprego",
+   "regiao": "conteúdo",
+   "caixa": [
+    541,
+    747,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Urgente",
+   "regiao": "conteúdo",
+   "caixa": [
+    652,
+    747,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Destaque",
+   "regiao": "conteúdo",
+   "caixa": [
+    739,
+    747,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    769,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de FunçõesDiga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    800,
+    255,
+    50
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    803,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Falar com o suporte no WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    1200,
+    820,
+    56,
+    56
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Salário",
+   "regiao": "conteúdo",
+   "caixa": [
+    439,
+    830,
+    678,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "··",
+   "regiao": "menu lateral",
+   "caixa": [
+    16,
+    858,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    859,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    869,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "A combinar",
+   "regiao": "conteúdo",
+   "caixa": [
+    439,
+    869,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    903,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "3.000,00",
+   "regiao": "conteúdo",
+   "caixa": [
+    439,
+    926,
+    678,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    937,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Contato / Candidatura",
+   "regiao": "conteúdo",
+   "caixa": [
+    439,
+    1030,
+    678,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "https://seusite.com/candidatura",
+   "regiao": "conteúdo",
+   "caixa": [
+    439,
+    1090,
+    678,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "(27) 99999-9999",
+   "regiao": "conteúdo",
+   "caixa": [
+    518,
+    1189,
+    599,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "rh@empresa.com.br",
+   "regiao": "conteúdo",
+   "caixa": [
+    439,
+    1288,
+    678,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Estatísticas",
+   "regiao": "conteúdo",
+   "caixa": [
+    439,
+    1412,
+    678,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Descrição",
+   "regiao": "conteúdo",
+   "caixa": [
+    439,
+    1598,
+    678,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Descreva a vaga, responsabilidades, rotina…",
+   "regiao": "conteúdo",
+   "caixa": [
+    439,
+    1658,
+    678,
+    138
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Formação, experiência, habilidades…",
+   "regiao": "conteúdo",
+   "caixa": [
+    439,
+    1843,
+    678,
+    98
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Vale-refeição Plano de saúde Vale-transporte",
+   "regiao": "conteúdo",
+   "caixa": [
+    439,
+    1988,
+    678,
+    98
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Configurações",
+   "regiao": "conteúdo",
+   "caixa": [
+    439,
+    2159,
+    678,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "2026-11-14",
+   "regiao": "conteúdo",
+   "caixa": [
+    786,
+    2219,
+    331,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Cancelar",
+   "regiao": "conteúdo",
+   "caixa": [
+    865,
+    2302,
+    98,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Salvar alterações",
+   "regiao": "conteúdo",
+   "caixa": [
+    975,
+    2302,
+    163,
+    42
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  2408
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "grandevix (local)",
+    "regiao": "menu lateral",
+    "caixa": [
+     14,
+     16,
+     207,
+     19
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "link",
+    "texto": "Ver portal",
+    "regiao": "topo",
+    "caixa": [
+     1147,
+     16,
+     109,
+     34
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à direita"
+   },
+   {
+    "tipo": "menu",
+    "texto": "27 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Notícias Automáticas · Guia Comercial · Vagas de Emprego · Listar Vagas · Nova Vaga · Áreas de Vagas · Contratantes · Classificados · Guia Turístico / Eventos · Artigos …",
+    "regiao": "menu lateral",
+    "caixa": [
+     10,
+     18,
+     255,
+     953
+    ],
+    "nota": "lista de 27 itens em coluna",
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Editar Vaga",
+    "regiao": "topo",
+    "caixa": [
+     300,
+     19,
+     98,
+     28
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Editar Vaga",
+    "regiao": "conteúdo",
+    "caixa": [
+     450,
+     99,
+     131,
+     32
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "←",
+    "regiao": "conteúdo",
+    "caixa": [
+     418,
+     103,
+     16,
+     24
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Empresa Contratante",
+    "regiao": "conteúdo",
+    "caixa": [
+     439,
+     176,
+     678,
+     20
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Dados da Vaga",
+    "regiao": "conteúdo",
+    "caixa": [
+     439,
+     414,
+     678,
+     20
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Ex: Desenvolvedor Full Stack Pleno",
+    "regiao": "conteúdo",
+    "caixa": [
+     439,
+     474,
+     447,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Dados da Vaga”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Área",
+    "regiao": "conteúdo",
+    "caixa": [
+     902,
+     474,
+     215,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Dados da Vaga”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Ex: 44h, 12x36, 30h",
+    "regiao": "conteúdo",
+    "caixa": [
+     786,
+     552,
+     331,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Ex: Desenvolvedor Full Stack Pleno”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Cidade",
+    "regiao": "conteúdo",
+    "caixa": [
+     439,
+     630,
+     331,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Bairro",
+    "regiao": "conteúdo",
+    "caixa": [
+     786,
+     630,
+     331,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Ex: 44h, 12x36, 30h”"
+   },
+   {
+    "tipo": "radio",
+    "texto": "Presencial",
+    "regiao": "conteúdo",
+    "caixa": [
+     439,
+     711,
+     13,
+     13
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Cidade”"
+   },
+   {
+    "tipo": "radio",
+    "texto": "Home Office",
+    "regiao": "conteúdo",
+    "caixa": [
+     541,
+     711,
+     13,
+     13
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Cidade”"
+   },
+   {
+    "tipo": "radio",
+    "texto": "Híbrido",
+    "regiao": "conteúdo",
+    "caixa": [
+     656,
+     711,
+     13,
+     13
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Cidade”"
+   },
+   {
+    "tipo": "checkbox",
+    "texto": "Vaga PCD",
+    "regiao": "conteúdo",
+    "caixa": [
+     439,
+     747,
+     13,
+     13
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Presencial”"
+   },
+   {
+    "tipo": "checkbox",
+    "texto": "1º Emprego",
+    "regiao": "conteúdo",
+    "caixa": [
+     541,
+     747,
+     13,
+     13
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Home Office”"
+   },
+   {
+    "tipo": "checkbox",
+    "texto": "Urgente",
+    "regiao": "conteúdo",
+    "caixa": [
+     652,
+     747,
+     13,
+     13
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Híbrido”"
+   },
+   {
+    "tipo": "checkbox",
+    "texto": "Destaque",
+    "regiao": "conteúdo",
+    "caixa": [
+     739,
+     747,
+     13,
+     13
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Cidade”"
+   },
+   {
+    "tipo": "link",
+    "texto": "Falar com o suporte no WhatsApp",
+    "regiao": "conteúdo",
+    "caixa": [
+     1200,
+     820,
+     56,
+     56
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "título",
+    "texto": "Salário",
+    "regiao": "conteúdo",
+    "caixa": [
+     439,
+     830,
+     678,
+     20
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "selo",
+    "texto": "··",
+    "regiao": "menu lateral",
+    "caixa": [
+     16,
+     858,
+     32,
+     32
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda"
+   },
+   {
+    "tipo": "checkbox",
+    "texto": "A combinar",
+    "regiao": "conteúdo",
+    "caixa": [
+     439,
+     869,
+     13,
+     13
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Salário”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "3.000,00",
+    "regiao": "conteúdo",
+    "caixa": [
+     439,
+     926,
+     678,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “A combinar”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Contato / Candidatura",
+    "regiao": "conteúdo",
+    "caixa": [
+     439,
+     1030,
+     678,
+     20
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "https://seusite.com/candidatura",
+    "regiao": "conteúdo",
+    "caixa": [
+     439,
+     1090,
+     678,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Contato / Candidatura”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "(27) 99999-9999",
+    "regiao": "conteúdo",
+    "caixa": [
+     518,
+     1189,
+     599,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “https://seusite.com/candidatura”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "rh@empresa.com.br",
+    "regiao": "conteúdo",
+    "caixa": [
+     439,
+     1288,
+     678,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “(27) 99999-9999”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Estatísticas",
+    "regiao": "conteúdo",
+    "caixa": [
+     439,
+     1412,
+     678,
+     20
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Descrição",
+    "regiao": "conteúdo",
+    "caixa": [
+     439,
+     1598,
+     678,
+     20
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo de texto longo",
+    "texto": "Descreva a vaga, responsabilidades, rotina…",
+    "regiao": "conteúdo",
+    "caixa": [
+     439,
+     1658,
+     678,
+     138
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Descrição”"
+   },
+   {
+    "tipo": "campo de texto longo",
+    "texto": "Formação, experiência, habilidades…",
+    "regiao": "conteúdo",
+    "caixa": [
+     439,
+     1843,
+     678,
+     98
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Descreva a vaga, responsabilidades,”"
+   },
+   {
+    "tipo": "campo de texto longo",
+    "texto": "Vale-refeição Plano de saúde Vale-transporte",
+    "regiao": "conteúdo",
+    "caixa": [
+     439,
+     1988,
+     678,
+     98
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Formação, experiência, habilidades…”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Configurações",
+    "regiao": "conteúdo",
+    "caixa": [
+     439,
+     2159,
+     678,
+     20
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "2026-11-14",
+    "regiao": "conteúdo",
+    "caixa": [
+     786,
+     2219,
+     331,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Configurações”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Cancelar",
+    "regiao": "conteúdo",
+    "caixa": [
+     865,
+     2302,
+     98,
+     42
+    ],
+    "linha": 0,
+    "desc": "no fim da página, à direita, logo abaixo de “2026-11-14”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Salvar alterações",
+    "regiao": "conteúdo",
+    "caixa": [
+     975,
+     2302,
+     163,
+     42
+    ],
+    "linha": 0,
+    "desc": "no fim da página, à direita, logo abaixo de “2026-11-14”"
+   }
+  ],
+  "total": 38,
+  "W": 1280,
+  "H": 2408
+ }
+}

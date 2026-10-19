@@ -1,0 +1,523 @@
+{
+ "rota": "/minha-conta/autor",
+ "url": "/minha-conta/autor",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "Autor",
+   "regiao": "conteúdo",
+   "caixa": [
+    382,
+    46,
+    333,
+    39
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    96,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "aviso",
+   "texto": "Não foi possível salvar: Acesso restrito a administradores do portal o",
+   "regiao": "conteúdo",
+   "caixa": [
+    307,
+    165,
+    604,
+    61
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Guia Comercial",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    175,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Como aparece na notícia",
+   "regiao": "menu lateral",
+   "caixa": [
+    1022,
+    175,
+    207,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    219,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Sem foto",
+   "regiao": "conteúdo",
+   "caixa": [
+    307,
+    240,
+    64,
+    64
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "envio de arquivo",
+   "texto": "Foto do autor",
+   "regiao": "conteúdo",
+   "caixa": [
+    383,
+    262,
+    265,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    263,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Classificados",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    307,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Nome * (0/150)",
+   "regiao": "conteúdo",
+   "caixa": [
+    307,
+    343,
+    295,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Cargo",
+   "regiao": "conteúdo",
+   "caixa": [
+    616,
+    343,
+    295,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha empresa",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    386,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Bio (0/500)",
+   "regiao": "conteúdo",
+   "caixa": [
+    307,
+    427,
+    604,
+    94
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Planos e assinaturas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    430,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Segurança",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    474,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Site",
+   "regiao": "conteúdo",
+   "caixa": [
+    307,
+    560,
+    295,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Instagram",
+   "regiao": "conteúdo",
+   "caixa": [
+    616,
+    560,
+    295,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Facebook",
+   "regiao": "conteúdo",
+   "caixa": [
+    307,
+    644,
+    295,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "LinkedIn",
+   "regiao": "conteúdo",
+   "caixa": [
+    616,
+    644,
+    295,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    307,
+    729,
+    295,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "E-mail público",
+   "regiao": "conteúdo",
+   "caixa": [
+    616,
+    729,
+    295,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Salvar perfil",
+   "regiao": "conteúdo",
+   "caixa": [
+    307,
+    834,
+    131,
+    48
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu",
+   "caixa": [
+    197,
+    838,
+    44,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  }
+ ],
+ "full": [
+  1280,
+  957
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "Autor",
+    "regiao": "conteúdo",
+    "caixa": [
+     382,
+     46,
+     333,
+     39
+    ],
+    "linha": 0,
+    "desc": "no topo da página, ao centro"
+   },
+   {
+    "tipo": "menu/links",
+    "texto": "9 itens: Início · Guia Comercial · Vagas de Emprego · Banners Publicitários · Classificados · Minha empresa · Planos e assinaturas · Segurança · Sair",
+    "regiao": "menu",
+    "caixa": [
+     14,
+     96,
+     227,
+     786
+    ],
+    "nota": "lista de 9 itens em coluna",
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "aviso",
+    "texto": "Não foi possível salvar: Acesso restrito a administradores do portal o",
+    "regiao": "conteúdo",
+    "caixa": [
+     307,
+     165,
+     604,
+     61
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Como aparece na notícia",
+    "regiao": "menu lateral",
+    "caixa": [
+     1022,
+     175,
+     207,
+     23
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "selo",
+    "texto": "Sem foto",
+    "regiao": "conteúdo",
+    "caixa": [
+     307,
+     240,
+     64,
+     64
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "envio de arquivo",
+    "texto": "Foto do autor",
+    "regiao": "conteúdo",
+    "caixa": [
+     383,
+     262,
+     265,
+     20
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “Não foi possível salvar: Acesso res”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Nome * (0/150)",
+    "regiao": "conteúdo",
+    "caixa": [
+     307,
+     343,
+     295,
+     46
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “Sem foto”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Cargo",
+    "regiao": "conteúdo",
+    "caixa": [
+     616,
+     343,
+     295,
+     46
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “Foto do autor”"
+   },
+   {
+    "tipo": "campo de texto longo",
+    "texto": "Bio (0/500)",
+    "regiao": "conteúdo",
+    "caixa": [
+     307,
+     427,
+     604,
+     94
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Nome * (0/150)”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Site",
+    "regiao": "conteúdo",
+    "caixa": [
+     307,
+     560,
+     295,
+     46
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Bio (0/500)”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Instagram",
+    "regiao": "conteúdo",
+    "caixa": [
+     616,
+     560,
+     295,
+     46
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Bio (0/500)”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Facebook",
+    "regiao": "conteúdo",
+    "caixa": [
+     307,
+     644,
+     295,
+     46
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Site”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "LinkedIn",
+    "regiao": "conteúdo",
+    "caixa": [
+     616,
+     644,
+     295,
+     46
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Instagram”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "WhatsApp",
+    "regiao": "conteúdo",
+    "caixa": [
+     307,
+     729,
+     295,
+     46
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Facebook”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "E-mail público",
+    "regiao": "conteúdo",
+    "caixa": [
+     616,
+     729,
+     295,
+     46
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “LinkedIn”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Salvar perfil",
+    "regiao": "conteúdo",
+    "caixa": [
+     307,
+     834,
+     131,
+     48
+    ],
+    "linha": 0,
+    "desc": "no fim da página, à esquerda, logo abaixo de “WhatsApp”"
+   }
+  ],
+  "total": 16,
+  "W": 1280,
+  "H": 957
+ }
+}

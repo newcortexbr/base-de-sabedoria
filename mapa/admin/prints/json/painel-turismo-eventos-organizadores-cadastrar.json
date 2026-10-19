@@ -1,0 +1,945 @@
+{
+ "rota": "/painel/turismo/eventos/organizadores/cadastrar",
+ "url": "/painel/turismo/eventos/organizadores/cadastrar",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    16,
+    207,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver portal",
+   "regiao": "topo",
+   "caixa": [
+    1147,
+    16,
+    109,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    18,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Eventos — Novo Organizador",
+   "regiao": "topo",
+   "caixa": [
+    300,
+    19,
+    254,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    63,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    97,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Eventos0",
+   "regiao": "menu",
+   "caixa": [
+    471,
+    104,
+    115,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Categorias8",
+   "regiao": "menu",
+   "caixa": [
+    588,
+    104,
+    132,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Organizadores2",
+   "regiao": "menu",
+   "caixa": [
+    722,
+    104,
+    158,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "0",
+   "regiao": "menu",
+   "caixa": [
+    547,
+    116,
+    22,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "8",
+   "regiao": "menu",
+   "caixa": [
+    682,
+    116,
+    22,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "2",
+   "regiao": "menu",
+   "caixa": [
+    842,
+    116,
+    22,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    163,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Novo Organizador",
+   "regiao": "conteúdo",
+   "caixa": [
+    466,
+    173,
+    624,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    197,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    231,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    265,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    277,
+    576,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    299,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    333,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Pontos Turísticos",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    367,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Novo Ponto",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    399,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Categorias",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    431,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Roteiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    463,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "envio de arquivo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    480,
+    576,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    495,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    531,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    565,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    599,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    633,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Acesso do proprietário (opcional)",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    660,
+    576,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    667,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    733,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Nome do responsável *",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    764,
+    282,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "E-mail de login *",
+   "regiao": "conteúdo",
+   "caixa": [
+    784,
+    764,
+    282,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    767,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de FunçõesDiga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    800,
+    255,
+    50
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    801,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Falar com o suporte no WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    1200,
+    820,
+    56,
+    56
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Senha inicial *",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    834,
+    394,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Mostrar",
+   "regiao": "conteúdo",
+   "caixa": [
+    892,
+    834,
+    70,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Gerar senha",
+   "regiao": "conteúdo",
+   "caixa": [
+    970,
+    834,
+    96,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    835,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "··",
+   "regiao": "menu lateral",
+   "caixa": [
+    16,
+    858,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    859,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    901,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    935,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Cancelar",
+   "regiao": "conteúdo",
+   "caixa": [
+    466,
+    946,
+    307,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Criar Organizador",
+   "regiao": "conteúdo",
+   "caixa": [
+    785,
+    946,
+    305,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    969,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  }
+ ],
+ "full": [
+  1280,
+  1052
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "grandevix (local)",
+    "regiao": "menu lateral",
+    "caixa": [
+     14,
+     16,
+     207,
+     19
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "link",
+    "texto": "Ver portal",
+    "regiao": "topo",
+    "caixa": [
+     1147,
+     16,
+     109,
+     34
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à direita"
+   },
+   {
+    "tipo": "menu",
+    "texto": "28 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Notícias Automáticas · Guia Comercial · Vagas de Emprego · Classificados · Guia Turístico / Eventos · Pontos Turísticos · Novo Ponto · Categorias · Roteiros · Eventos …",
+    "regiao": "menu lateral",
+    "caixa": [
+     10,
+     18,
+     255,
+     985
+    ],
+    "nota": "lista de 28 itens em coluna",
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Eventos — Novo Organizador",
+    "regiao": "topo",
+    "caixa": [
+     300,
+     19,
+     254,
+     28
+    ],
+    "linha": 0,
+    "desc": "no topo da página, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Eventos0",
+    "regiao": "menu",
+    "caixa": [
+     471,
+     104,
+     115,
+     44
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Categorias8",
+    "regiao": "menu",
+    "caixa": [
+     588,
+     104,
+     132,
+     44
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Organizadores2",
+    "regiao": "menu",
+    "caixa": [
+     722,
+     104,
+     158,
+     44
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "selo",
+    "texto": "0",
+    "regiao": "menu",
+    "caixa": [
+     547,
+     116,
+     22,
+     20
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "selo",
+    "texto": "8",
+    "regiao": "menu",
+    "caixa": [
+     682,
+     116,
+     22,
+     20
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "selo",
+    "texto": "2",
+    "regiao": "menu",
+    "caixa": [
+     842,
+     116,
+     22,
+     20
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Novo Organizador",
+    "regiao": "conteúdo",
+    "caixa": [
+     466,
+     173,
+     624,
+     32
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     277,
+     576,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “Novo Organizador”"
+   },
+   {
+    "tipo": "envio de arquivo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     480,
+     576,
+     32
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Acesso do proprietário (opcional)",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     660,
+     576,
+     20
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Nome do responsável *",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     764,
+     282,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Acesso do proprietário (opcional)”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "E-mail de login *",
+    "regiao": "conteúdo",
+    "caixa": [
+     784,
+     764,
+     282,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Acesso do proprietário (opcional)”"
+   },
+   {
+    "tipo": "link",
+    "texto": "Falar com o suporte no WhatsApp",
+    "regiao": "conteúdo",
+    "caixa": [
+     1200,
+     820,
+     56,
+     56
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Senha inicial *",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     834,
+     394,
+     44
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Nome do responsável *”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Mostrar",
+    "regiao": "conteúdo",
+    "caixa": [
+     892,
+     834,
+     70,
+     44
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “E-mail de login *”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Gerar senha",
+    "regiao": "conteúdo",
+    "caixa": [
+     970,
+     834,
+     96,
+     44
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “E-mail de login *”"
+   },
+   {
+    "tipo": "selo",
+    "texto": "··",
+    "regiao": "menu lateral",
+    "caixa": [
+     16,
+     858,
+     32,
+     32
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Cancelar",
+    "regiao": "conteúdo",
+    "caixa": [
+     466,
+     946,
+     307,
+     42
+    ],
+    "linha": 0,
+    "desc": "no fim da página, ao centro, logo abaixo de “Senha inicial *”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Criar Organizador",
+    "regiao": "conteúdo",
+    "caixa": [
+     785,
+     946,
+     305,
+     42
+    ],
+    "linha": 0,
+    "desc": "no fim da página, à direita, logo abaixo de “Senha inicial *”"
+   }
+  ],
+  "total": 23,
+  "W": 1280,
+  "H": 1052
+ }
+}

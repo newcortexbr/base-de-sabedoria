@@ -1,0 +1,373 @@
+{
+ "rota": "/minha-conta/eventos",
+ "url": "/minha-conta/eventos",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "Agenda de Eventos",
+   "regiao": "conteúdo",
+   "caixa": [
+    382,
+    46,
+    236,
+    39
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Novo evento",
+   "regiao": "conteúdo",
+   "caixa": [
+    1083,
+    55,
+    139,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    96,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Guia Comercial",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    175,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    219,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    263,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Classificados",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    307,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha empresa",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    386,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Todos",
+   "regiao": "conteúdo",
+   "caixa": [
+    623,
+    424,
+    63,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Aguardando pagamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    691,
+    424,
+    170,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Em análise",
+   "regiao": "conteúdo",
+   "caixa": [
+    867,
+    424,
+    91,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Publicado",
+   "regiao": "conteúdo",
+   "caixa": [
+    964,
+    424,
+    86,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Encerrados",
+   "regiao": "conteúdo",
+   "caixa": [
+    1056,
+    424,
+    95,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Reprovado",
+   "regiao": "conteúdo",
+   "caixa": [
+    1157,
+    424,
+    91,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Meus eventos",
+   "regiao": "conteúdo",
+   "caixa": [
+    288,
+    429,
+    119,
+    27
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Planos e assinaturas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    430,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Segurança",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    474,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu",
+   "caixa": [
+    197,
+    838,
+    44,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  }
+ ],
+ "full": [
+  1280,
+  900
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "Agenda de Eventos",
+    "regiao": "conteúdo",
+    "caixa": [
+     382,
+     46,
+     236,
+     39
+    ],
+    "linha": 0,
+    "desc": "no topo da página, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Novo evento",
+    "regiao": "conteúdo",
+    "caixa": [
+     1083,
+     55,
+     139,
+     44
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à direita"
+   },
+   {
+    "tipo": "menu/links",
+    "texto": "9 itens: Início · Guia Comercial · Vagas de Emprego · Banners Publicitários · Classificados · Minha empresa · Planos e assinaturas · Segurança · Sair",
+    "regiao": "menu",
+    "caixa": [
+     14,
+     96,
+     227,
+     786
+    ],
+    "nota": "lista de 9 itens em coluna",
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Todos",
+    "regiao": "conteúdo",
+    "caixa": [
+     623,
+     424,
+     63,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Aguardando pagamento",
+    "regiao": "conteúdo",
+    "caixa": [
+     691,
+     424,
+     170,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Em análise",
+    "regiao": "conteúdo",
+    "caixa": [
+     867,
+     424,
+     91,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Publicado",
+    "regiao": "conteúdo",
+    "caixa": [
+     964,
+     424,
+     86,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Encerrados",
+    "regiao": "conteúdo",
+    "caixa": [
+     1056,
+     424,
+     95,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Reprovado",
+    "regiao": "conteúdo",
+    "caixa": [
+     1157,
+     424,
+     91,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "título",
+    "texto": "Meus eventos",
+    "regiao": "conteúdo",
+    "caixa": [
+     288,
+     429,
+     119,
+     27
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda"
+   }
+  ],
+  "total": 10,
+  "W": 1280,
+  "H": 900
+ }
+}

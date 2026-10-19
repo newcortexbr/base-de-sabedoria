@@ -1,0 +1,1080 @@
+{
+ "rota": "/painel/parceiros",
+ "url": "/painel/parceiros",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    16,
+    207,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver portal",
+   "regiao": "topo",
+   "caixa": [
+    1147,
+    16,
+    109,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    18,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Parceiros",
+   "regiao": "topo",
+   "caixa": [
+    300,
+    19,
+    82,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    63,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    97,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Parceiros",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    99,
+    109,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Novo parceiro",
+   "regiao": "conteúdo",
+   "caixa": [
+    1108,
+    99,
+    148,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "ligar",
+   "regiao": "conteúdo",
+   "caixa": [
+    577,
+    107,
+    23,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    163,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Pagar por foraR$ 0,00nada a pagar agora",
+   "regiao": "conteúdo",
+   "caixa": [
+    784,
+    179,
+    230,
+    103
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Pelo Asaas, sozinhoR$ 0,00repasse automático desligado",
+   "regiao": "conteúdo",
+   "caixa": [
+    1026,
+    179,
+    230,
+    103
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    197,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    231,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    265,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    299,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Comissões para pagar por fora",
+   "regiao": "conteúdo",
+   "caixa": [
+    353,
+    322,
+    406,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Extrato de pagas",
+   "regiao": "conteúdo",
+   "caixa": [
+    903,
+    324,
+    139,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Ver todas as comissões",
+   "regiao": "conteúdo",
+   "caixa": [
+    1050,
+    324,
+    185,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    333,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    367,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    401,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    435,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    469,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    503,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    569,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Seus parceiros",
+   "regiao": "conteúdo",
+   "caixa": [
+    353,
+    571,
+    115,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    603,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    637,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Buscar",
+   "regiao": "conteúdo",
+   "caixa": [
+    321,
+    644,
+    300,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Limpar filtros",
+   "regiao": "conteúdo",
+   "caixa": [
+    1120,
+    644,
+    115,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "lista de opções",
+   "texto": "Plano",
+   "regiao": "conteúdo",
+   "caixa": [
+    633,
+    646,
+    150,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "lista de opções",
+   "texto": "Como recebe",
+   "regiao": "conteúdo",
+   "caixa": [
+    795,
+    646,
+    150,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "lista de opções",
+   "texto": "Situação",
+   "regiao": "conteúdo",
+   "caixa": [
+    957,
+    646,
+    150,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    671,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    737,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    771,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de FunçõesDiga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    800,
+    255,
+    50
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    805,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Falar com o suporte no WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    1200,
+    820,
+    56,
+    56
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "··",
+   "regiao": "menu lateral",
+   "caixa": [
+    16,
+    858,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    859,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Planos de parceiro",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    908,
+    956,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    640,
+    1088,
+    277,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    962,
+    1088,
+    277,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Oferecer o plano gratuito",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    1090,
+    16,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    1120,
+    277,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Grupo de WhatsApp dos parceiros",
+   "regiao": "conteúdo",
+   "caixa": [
+    369,
+    1226,
+    264,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Link do grupo",
+   "regiao": "conteúdo",
+   "caixa": [
+    321,
+    1292,
+    808,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Salvar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1137,
+    1292,
+    98,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Mostrar o botão para os parceiros",
+   "regiao": "conteúdo",
+   "caixa": [
+    321,
+    1351,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Como você paga os parceiros",
+   "regiao": "conteúdo",
+   "caixa": [
+    353,
+    1434,
+    228,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Mandar a comissão direto pelo AsaasDesligado: você paga todos os parce",
+   "regiao": "conteúdo",
+   "caixa": [
+    321,
+    1476,
+    20,
+    20
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  1647
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "grandevix (local)",
+    "regiao": "menu lateral",
+    "caixa": [
+     14,
+     16,
+     207,
+     19
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "link",
+    "texto": "Ver portal",
+    "regiao": "topo",
+    "caixa": [
+     1147,
+     16,
+     109,
+     34
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à direita"
+   },
+   {
+    "tipo": "menu",
+    "texto": "23 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Notícias Automáticas · Guia Comercial · Vagas de Emprego · Classificados · Guia Turístico / Eventos · Artigos · Orçamentos Online · A Voz do Povo · Melhores da Cidade · Banners Publicitários …",
+    "regiao": "menu lateral",
+    "caixa": [
+     10,
+     18,
+     255,
+     871
+    ],
+    "nota": "lista de 23 itens em coluna",
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Parceiros",
+    "regiao": "topo",
+    "caixa": [
+     300,
+     19,
+     82,
+     28
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Parceiros",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     99,
+     109,
+     32
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Novo parceiro",
+    "regiao": "conteúdo",
+    "caixa": [
+     1108,
+     99,
+     148,
+     36
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "link",
+    "texto": "ligar",
+    "regiao": "conteúdo",
+    "caixa": [
+     577,
+     107,
+     23,
+     16
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Pagar por foraR$ 0,00nada a pagar agora",
+    "regiao": "conteúdo",
+    "caixa": [
+     784,
+     179,
+     230,
+     103
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Pelo Asaas, sozinhoR$ 0,00repasse automático desligado",
+    "regiao": "conteúdo",
+    "caixa": [
+     1026,
+     179,
+     230,
+     103
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Novo parceiro”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Comissões para pagar por fora",
+    "regiao": "conteúdo",
+    "caixa": [
+     353,
+     322,
+     406,
+     24
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Extrato de pagas",
+    "regiao": "conteúdo",
+    "caixa": [
+     903,
+     324,
+     139,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Pagar por foraR$ 0,00nada a pagar a”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Ver todas as comissões",
+    "regiao": "conteúdo",
+    "caixa": [
+     1050,
+     324,
+     185,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Pelo Asaas, sozinhoR$ 0,00repasse a”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Seus parceiros",
+    "regiao": "conteúdo",
+    "caixa": [
+     353,
+     571,
+     115,
+     24
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Buscar",
+    "regiao": "conteúdo",
+    "caixa": [
+     321,
+     644,
+     300,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Seus parceiros”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Limpar filtros",
+    "regiao": "conteúdo",
+    "caixa": [
+     1120,
+     644,
+     115,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "lista de opções",
+    "texto": "Plano",
+    "regiao": "conteúdo",
+    "caixa": [
+     633,
+     646,
+     150,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "lista de opções",
+    "texto": "Como recebe",
+    "regiao": "conteúdo",
+    "caixa": [
+     795,
+     646,
+     150,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "lista de opções",
+    "texto": "Situação",
+    "regiao": "conteúdo",
+    "caixa": [
+     957,
+     646,
+     150,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "link",
+    "texto": "Falar com o suporte no WhatsApp",
+    "regiao": "conteúdo",
+    "caixa": [
+     1200,
+     820,
+     56,
+     56
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "selo",
+    "texto": "··",
+    "regiao": "menu lateral",
+    "caixa": [
+     16,
+     858,
+     32,
+     32
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Planos de parceiro",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     908,
+     956,
+     24
+    ],
+    "linha": 0,
+    "desc": "faixa larga mais abaixo (rolando a página)"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     640,
+     1088,
+     277,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     962,
+     1088,
+     277,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "checkbox",
+    "texto": "Oferecer o plano gratuito",
+    "regiao": "conteúdo",
+    "caixa": [
+     317,
+     1090,
+     16,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à esquerda"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     317,
+     1120,
+     277,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Oferecer o plano gratuito”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Grupo de WhatsApp dos parceiros",
+    "regiao": "conteúdo",
+    "caixa": [
+     369,
+     1226,
+     264,
+     24
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Link do grupo",
+    "regiao": "conteúdo",
+    "caixa": [
+     321,
+     1292,
+     808,
+     44
+    ],
+    "linha": 0,
+    "desc": "faixa larga mais abaixo (rolando a página)"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Salvar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1137,
+     1292,
+     98,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "checkbox",
+    "texto": "Mostrar o botão para os parceiros",
+    "regiao": "conteúdo",
+    "caixa": [
+     321,
+     1351,
+     13,
+     13
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à esquerda, logo abaixo de “Link do grupo”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Como você paga os parceiros",
+    "regiao": "conteúdo",
+    "caixa": [
+     353,
+     1434,
+     228,
+     24
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "checkbox",
+    "texto": "Mandar a comissão direto pelo AsaasDesligado: você paga todos os parce",
+    "regiao": "conteúdo",
+    "caixa": [
+     321,
+     1476,
+     20,
+     20
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à esquerda"
+   }
+  ],
+  "total": 31,
+  "W": 1280,
+  "H": 1647
+ }
+}

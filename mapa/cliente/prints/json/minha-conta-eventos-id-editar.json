@@ -1,0 +1,811 @@
+{
+ "rota": "/minha-conta/eventos/[id]/editar",
+ "url": "/minha-conta/eventos/1/editar",
+ "itens": [
+  {
+   "tipo": "link",
+   "texto": "Voltar para Eventos",
+   "regiao": "conteúdo",
+   "caixa": [
+    288,
+    32,
+    148,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    96,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Editar evento",
+   "regiao": "conteúdo",
+   "caixa": [
+    382,
+    98,
+    161,
+    39
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Guia Comercial",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    175,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Agenda de Eventos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    219,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    263,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "1Sobre o evento",
+   "regiao": "conteúdo",
+   "caixa": [
+    307,
+    280,
+    598,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Como vai aparecer",
+   "regiao": "menu lateral",
+   "caixa": [
+    961,
+    280,
+    268,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    307,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Classificados",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    351,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Título do evento *",
+   "regiao": "conteúdo",
+   "caixa": [
+    345,
+    368,
+    560,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha empresa",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    430,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Planos e assinaturas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    474,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Salvar alterações",
+   "regiao": "menu lateral",
+   "caixa": [
+    961,
+    481,
+    268,
+    48
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Organizador",
+   "regiao": "conteúdo",
+   "caixa": [
+    631,
+    488,
+    274,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Categoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    345,
+    511,
+    274,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Segurança",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    518,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Voltar",
+   "regiao": "menu lateral",
+   "caixa": [
+    961,
+    539,
+    268,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Descrição (opcional)",
+   "regiao": "conteúdo",
+   "caixa": [
+    345,
+    617,
+    560,
+    106
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Data *Pode remarcar até 25/11/2026.",
+   "regiao": "conteúdo",
+   "caixa": [
+    345,
+    761,
+    274,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Data de término (opcional)",
+   "regiao": "conteúdo",
+   "caixa": [
+    631,
+    784,
+    274,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu",
+   "caixa": [
+    197,
+    838,
+    44,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Horário (texto livre)",
+   "regiao": "conteúdo",
+   "caixa": [
+    345,
+    888,
+    274,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "00000-000",
+   "regiao": "conteúdo",
+   "caixa": [
+    345,
+    970,
+    274,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Cidade",
+   "regiao": "conteúdo",
+   "caixa": [
+    631,
+    970,
+    274,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Local (opcional)",
+   "regiao": "conteúdo",
+   "caixa": [
+    345,
+    1095,
+    274,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Endereço (opcional)",
+   "regiao": "conteúdo",
+   "caixa": [
+    631,
+    1095,
+    274,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "2Fotos, vídeo e ingressos",
+   "regiao": "conteúdo",
+   "caixa": [
+    307,
+    1191,
+    598,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Enviar foto de capa",
+   "regiao": "conteúdo",
+   "caixa": [
+    345,
+    1572,
+    182,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Foto",
+   "regiao": "conteúdo",
+   "caixa": [
+    345,
+    1655,
+    80,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vídeo do YouTube",
+   "regiao": "conteúdo",
+   "caixa": [
+    433,
+    1655,
+    171,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Link de vídeo do YouTube (opcional)",
+   "regiao": "conteúdo",
+   "caixa": [
+    345,
+    1993,
+    560,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Preço (texto — ex.: \"Entrada gratuita\")",
+   "regiao": "conteúdo",
+   "caixa": [
+    345,
+    2096,
+    274,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Link de ingresso (opcional)",
+   "regiao": "conteúdo",
+   "caixa": [
+    631,
+    2096,
+    274,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Mostrar telefone na página",
+   "regiao": "conteúdo",
+   "caixa": [
+    631,
+    2189,
+    18,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "WhatsApp para contato (opcional)",
+   "regiao": "conteúdo",
+   "caixa": [
+    345,
+    2200,
+    274,
+    44
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  2319
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "link",
+    "texto": "Voltar para Eventos",
+    "regiao": "conteúdo",
+    "caixa": [
+     288,
+     32,
+     148,
+     44
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "menu/links",
+    "texto": "10 itens: Início · Guia Comercial · Agenda de Eventos · Vagas de Emprego · Banners Publicitários · Classificados · Minha empresa · Planos e assinaturas · Segurança · Sair",
+    "regiao": "menu",
+    "caixa": [
+     14,
+     96,
+     227,
+     786
+    ],
+    "nota": "lista de 10 itens em coluna",
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Editar evento",
+    "regiao": "conteúdo",
+    "caixa": [
+     382,
+     98,
+     161,
+     39
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "1Sobre o evento",
+    "regiao": "conteúdo",
+    "caixa": [
+     307,
+     280,
+     598,
+     28
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Como vai aparecer",
+    "regiao": "menu lateral",
+    "caixa": [
+     961,
+     280,
+     268,
+     23
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Título do evento *",
+    "regiao": "conteúdo",
+    "caixa": [
+     345,
+     368,
+     560,
+     44
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “1Sobre o evento”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Salvar alterações",
+    "regiao": "menu lateral",
+    "caixa": [
+     961,
+     481,
+     268,
+     48
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Organizador",
+    "regiao": "conteúdo",
+    "caixa": [
+     631,
+     488,
+     274,
+     44
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Título do evento *”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Categoria",
+    "regiao": "conteúdo",
+    "caixa": [
+     345,
+     511,
+     274,
+     44
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Voltar",
+    "regiao": "menu lateral",
+    "caixa": [
+     961,
+     539,
+     268,
+     44
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "campo de texto longo",
+    "texto": "Descrição (opcional)",
+    "regiao": "conteúdo",
+    "caixa": [
+     345,
+     617,
+     560,
+     106
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Categoria”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Data *Pode remarcar até 25/11/2026.",
+    "regiao": "conteúdo",
+    "caixa": [
+     345,
+     761,
+     274,
+     44
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Descrição (opcional)”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Data de término (opcional)",
+    "regiao": "conteúdo",
+    "caixa": [
+     631,
+     784,
+     274,
+     44
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Descrição (opcional)”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Horário (texto livre)",
+    "regiao": "conteúdo",
+    "caixa": [
+     345,
+     888,
+     274,
+     44
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Data *Pode remarcar até 25/11/2026.”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "00000-000",
+    "regiao": "conteúdo",
+    "caixa": [
+     345,
+     970,
+     274,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Horário (texto livre)”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Cidade",
+    "regiao": "conteúdo",
+    "caixa": [
+     631,
+     970,
+     274,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Local (opcional)",
+    "regiao": "conteúdo",
+    "caixa": [
+     345,
+     1095,
+     274,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “00000-000”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Endereço (opcional)",
+    "regiao": "conteúdo",
+    "caixa": [
+     631,
+     1095,
+     274,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Cidade”"
+   },
+   {
+    "tipo": "título",
+    "texto": "2Fotos, vídeo e ingressos",
+    "regiao": "conteúdo",
+    "caixa": [
+     307,
+     1191,
+     598,
+     28
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Enviar foto de capa",
+    "regiao": "conteúdo",
+    "caixa": [
+     345,
+     1572,
+     182,
+     42
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Foto",
+    "regiao": "conteúdo",
+    "caixa": [
+     345,
+     1655,
+     80,
+     34
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à esquerda, logo abaixo de “Enviar foto de capa”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Vídeo do YouTube",
+    "regiao": "conteúdo",
+    "caixa": [
+     433,
+     1655,
+     171,
+     34
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Enviar foto de capa”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Link de vídeo do YouTube (opcional)",
+    "regiao": "conteúdo",
+    "caixa": [
+     345,
+     1993,
+     560,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Preço (texto — ex.: \"Entrada gratuita\")",
+    "regiao": "conteúdo",
+    "caixa": [
+     345,
+     2096,
+     274,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Link de vídeo do YouTube (opcional)”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Link de ingresso (opcional)",
+    "regiao": "conteúdo",
+    "caixa": [
+     631,
+     2096,
+     274,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Link de vídeo do YouTube (opcional)”"
+   },
+   {
+    "tipo": "checkbox",
+    "texto": "Mostrar telefone na página",
+    "regiao": "conteúdo",
+    "caixa": [
+     631,
+     2189,
+     18,
+     18
+    ],
+    "linha": 0,
+    "desc": "no fim da página, ao centro, logo abaixo de “Link de ingresso (opcional)”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "WhatsApp para contato (opcional)",
+    "regiao": "conteúdo",
+    "caixa": [
+     345,
+     2200,
+     274,
+     44
+    ],
+    "linha": 0,
+    "desc": "no fim da página, ao centro, logo abaixo de “Preço (texto — ex.: \"Entrada gratui”"
+   }
+  ],
+  "total": 27,
+  "W": 1280,
+  "H": 2319
+ }
+}

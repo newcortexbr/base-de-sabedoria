@@ -1,0 +1,53 @@
+# /painel/turismo/categorias — categorias turísticas (`.../categorias/page.tsx`)
+- gate: módulo `turismo` (prefixo `/painel/turismo`, `src/lib/painel-menu.ts`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
+- permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
+- faz: CRUD inline de categorias de pontos (Nome, ícone, cor, ordem, ativa).
+- ações: criar/editar (:71-72), excluir com `confirm` "os pontos NÃO serão excluídos, ficam sem categoria" (:82), revalida (:73).
+- APIs: `turismo.categorias.listar|criar|atualizar|excluir`.
+- estados: erro `erro` (:43,77); vazio "Nenhuma categoria cadastrada" (:174).
+- problemas: nenhum confirmado.
+- admin vs cliente: Turismo não tem área do cliente em `src/app/minha-conta` (sem pasta de turismo). Só o admin gerencia; não há lacuna de paridade.
+
+## posições na tela (print de 2026-10-16, 1280x900)
+- print: [painel-turismo-categorias.png](../prints/painel-turismo-categorias.png) · dados brutos: [json](../prints/json/painel-turismo-categorias.json)
+- aberta em `/painel/turismo/categorias`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)
+- [título] "grandevix (local)" — menu lateral, no topo da página, à esquerda (14,16,207,19)
+- [link] "Ver portal" — topo, no topo da página, à direita (1147,16,109,34)
+- [menu] "28 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Notícias Automáticas · Guia Comercial · Vagas de Emprego · Classificados · Guia Turístico / Eventos · Pontos Turísticos · Novo Ponto · Categorias · Roteiros · Eventos …" — menu lateral, no topo da página, à esquerda (lista de 28 itens em coluna) (10,18,255,985)
+- [título] "Guia Turístico — Categorias" — topo, no topo da página, à esquerda (300,19,241,28)
+- [botão] "+ Nova Categoria" — conteúdo, na parte de cima, à direita (991,99,147,36)
+- [título] "Categorias Turísticas" — conteúdo, na parte de cima, ao centro (491,101,242,32)
+- [link] "← Pontos" — conteúdo, na parte de cima, ao centro (418,107,61,20)
+- [coluna] "Categoria" — conteúdo, na parte de cima, ao centro (419,160,276,41)
+- [coluna] "Pontos" — conteúdo, na parte de cima, ao centro (695,160,131,41)
+- [coluna] "Status" — conteúdo, na parte de cima, à direita (826,160,124,41)
+- [coluna] "Ações" — conteúdo, na parte de cima, à direita (950,160,187,41)
+- [selo] "Ativa" — conteúdo, na parte de cima, à direita (842,221,45,22)
+- [botão] "Editar" — conteúdo, na parte de cima, à direita, logo abaixo de “Ações” (966,223,34,16)
+- [botão] "Excluir" — conteúdo, na parte de cima, à direita, logo abaixo de “Ações” (1012,223,40,16)
+- [selo] "Ativa" — conteúdo, na parte de cima, à direita (842,282,45,22)
+- [botão] "Editar" — conteúdo, na parte de cima, à direita, logo abaixo de “Editar” (966,284,34,16)
+- [botão] "Excluir" — conteúdo, na parte de cima, à direita, logo abaixo de “Excluir” (1012,284,40,16)
+- [selo] "Ativa" — conteúdo, na parte de cima, à direita (842,343,45,22)
+- [botão] "Editar" — conteúdo, na parte de cima, à direita, logo abaixo de “Editar” (966,345,34,16)
+- [botão] "Excluir" — conteúdo, na parte de cima, à direita, logo abaixo de “Excluir” (1012,345,40,16)
+- [selo] "Ativa" — conteúdo, no meio da tela, à direita (842,404,45,22)
+- [botão] "Editar" — conteúdo, no meio da tela, à direita, logo abaixo de “Editar” (966,406,34,16)
+- [botão] "Excluir" — conteúdo, no meio da tela, à direita, logo abaixo de “Excluir” (1012,406,40,16)
+- [selo] "Ativa" — conteúdo, no meio da tela, à direita (842,465,45,22)
+- [botão] "Editar" — conteúdo, no meio da tela, à direita, logo abaixo de “Editar” (966,467,34,16)
+- [botão] "Excluir" — conteúdo, no meio da tela, à direita, logo abaixo de “Excluir” (1012,467,40,16)
+- [selo] "Ativa" — conteúdo, no meio da tela, à direita (842,526,45,22)
+- [botão] "Editar" — conteúdo, no meio da tela, à direita, logo abaixo de “Editar” (966,528,34,16)
+- [botão] "Excluir" — conteúdo, no meio da tela, à direita, logo abaixo de “Excluir” (1012,528,40,16)
+- [selo] "Ativa" — conteúdo, no meio da tela, à direita (842,587,45,22)
+- [botão] "Editar" — conteúdo, no meio da tela, à direita, logo abaixo de “Editar” (966,589,34,16)
+- [botão] "Excluir" — conteúdo, no meio da tela, à direita, logo abaixo de “Excluir” (1012,589,40,16)
+- [selo] "Ativa" — conteúdo, no meio da tela, à direita (842,648,45,22)
+- [botão] "Editar" — conteúdo, no meio da tela, à direita, logo abaixo de “Editar” (966,650,34,16)
+- [botão] "Excluir" — conteúdo, no meio da tela, à direita, logo abaixo de “Excluir” (1012,650,40,16)
+- [selo] "Ativa" — conteúdo, no meio da tela, à direita (842,709,45,22)
+- [botão] "Editar" — conteúdo, no meio da tela, à direita, logo abaixo de “Editar” (966,711,34,16)
+- [botão] "Excluir" — conteúdo, no meio da tela, à direita, logo abaixo de “Excluir” (1012,711,40,16)
+- [link] "Falar com o suporte no WhatsApp" — conteúdo, no meio da tela, à direita (1200,820,56,56)
+- [selo] "··" — menu lateral, no meio da tela, à esquerda (16,858,32,32)

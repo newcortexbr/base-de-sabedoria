@@ -1,0 +1,38 @@
+# /painel/classificados/anunciantes/[id]/editar (`.../[id]/editar/page.tsx`)
+- gate: módulo `classificados` (prefixo `/painel/classificados`, `src/lib/painel-menu.ts`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`). ATENÇÃO: "classificados" no frontend = anúncios de venda.
+- permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
+- faz: edita o anunciante com os mesmos campos do cadastro, mais o bloco `AcessoDoProprietario` (criar/redefinir senha/remover acesso, :319-321).
+- APIs: `classificados.anunciantes.detalhe` (:75), `atualizar` (:128), `criarAcesso|redefinirSenhaAcesso|removerAcesso`, `guia.config.get` (:66).
+- estados: erro de carga (:93 `formatApiError(err,'carregar')`), telefone inválido (:105), cidades (:68).
+- problemas: nenhum confirmado.
+- admin vs cliente: admin redefine senha do anunciante; cliente usa `/minha-conta/seguranca`.
+
+## posições na tela (print de 2026-10-16, 1280x900)
+- print: [painel-classificados-anunciantes-id-editar.png](../prints/painel-classificados-anunciantes-id-editar.png) · dados brutos: [json](../prints/json/painel-classificados-anunciantes-id-editar.json)
+- aberta em `/painel/classificados/anunciantes/1/editar` com dados do banco de teste; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)
+- [título] "grandevix (local)" — menu lateral, no topo da página, à esquerda (14,16,207,19)
+- [link] "Ver portal" — topo, no topo da página, à direita (1147,16,109,34)
+- [menu] "27 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Notícias Automáticas · Guia Comercial · Vagas de Emprego · Classificados · Listar Anúncios · Novo Anúncio · Categorias · Anunciantes · Guia Turístico / Eventos · Artigos …" — menu lateral, no topo da página, à esquerda (lista de 27 itens em coluna) (10,18,255,953)
+- [título] "Classificados — Editar Anunciante" — topo, no topo da página, ao centro (300,19,297,28)
+- [título] "Editar Anunciante" — conteúdo, na parte de cima, ao centro (466,99,624,32)
+- [campo] "QA Loja Sintetica" — conteúdo, na parte de cima, ao centro, logo abaixo de “Editar Anunciante” (490,203,576,38)
+- [envio de arquivo] "" — conteúdo, no meio da tela, ao centro (490,406,576,32)
+- [checkbox] "Verificado" — conteúdo, no meio da tela, ao centro (490,479,13,13)
+- [título] "Localização" — conteúdo, no meio da tela, ao centro (490,644,576,20)
+- [campo] "Cidade" — conteúdo, no meio da tela, ao centro, logo abaixo de “Localização” (490,704,280,38)
+- [título] "Redes sociais e contato" — conteúdo, no meio da tela, ao centro (490,814,576,20)
+- [link] "Falar com o suporte no WhatsApp" — conteúdo, no meio da tela, à direita (1200,820,56,56)
+- [selo] "··" — menu lateral, no meio da tela, à esquerda (16,858,32,32)
+- [campo] "https://linkedin.com/company/…" — conteúdo, no meio da tela, ao centro, logo abaixo de “Redes sociais e contato” (490,874,280,38)
+- [campo] "https://instagram.com/…" — conteúdo, no meio da tela, à direita, logo abaixo de “Redes sociais e contato” (786,874,280,38)
+- [campo] "https://…" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “https://linkedin.com/company/…” (490,952,280,38)
+- [campo] "https://youtube.com/…" — conteúdo, mais abaixo (rolando a página), à direita, logo abaixo de “https://instagram.com/…” (786,952,280,38)
+- [campo] "(27) 99999-9999" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “https://…” (490,1030,280,38)
+- [campo] "contato@exemplo.com" — conteúdo, mais abaixo (rolando a página), à direita, logo abaixo de “https://youtube.com/…” (786,1030,280,38)
+- [título] "Acesso do proprietário" — conteúdo, mais abaixo (rolando a página), ao centro (490,1140,576,20)
+- [título] "Painel do proprietário" — conteúdo, mais abaixo (rolando a página), ao centro (507,1189,542,20)
+- [botão] "Copiar" — conteúdo, mais abaixo (rolando a página), à direita (969,1335,80,44)
+- [botão] "Redefinir senha" — conteúdo, mais abaixo (rolando a página), ao centro (507,1480,139,44)
+- [botão] "Remover acesso" — conteúdo, mais abaixo (rolando a página), ao centro (654,1480,145,44)
+- [botão] "Cancelar" — conteúdo, no fim da página, ao centro, logo abaixo de “Redefinir senha” (466,1589,307,42)
+- [botão] "Salvar Alterações" — conteúdo, no fim da página, à direita, logo abaixo de “Remover acesso” (785,1589,305,42)

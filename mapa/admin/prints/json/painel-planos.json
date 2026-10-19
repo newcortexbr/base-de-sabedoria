@@ -1,0 +1,930 @@
+{
+ "rota": "/painel/planos",
+ "url": "/painel/planos",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    16,
+    207,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver portal",
+   "regiao": "topo",
+   "caixa": [
+    1147,
+    16,
+    109,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    18,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Meus Planos",
+   "regiao": "topo",
+   "caixa": [
+    300,
+    19,
+    110,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    63,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    97,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Meus Planos",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    99,
+    956,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    163,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    197,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    231,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    265,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    299,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    333,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Planos por seção do portal",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    348,
+    232,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    367,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "NotíciasNada à venda aindaO plano de Notícias está sem preço. Enquanto",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    379,
+    308,
+    209
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Vagas de EmpregoNada à venda aindaO plano de Vagas de Emprego está sem",
+   "regiao": "conteúdo",
+   "caixa": [
+    624,
+    379,
+    308,
+    209
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "ClassificadosNada à venda aindaO plano de Classificados está sem preço",
+   "regiao": "conteúdo",
+   "caixa": [
+    948,
+    379,
+    308,
+    209
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Notícias",
+   "regiao": "conteúdo",
+   "caixa": [
+    373,
+    396,
+    125,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Vagas de Emprego",
+   "regiao": "conteúdo",
+   "caixa": [
+    697,
+    396,
+    143,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Classificados",
+   "regiao": "conteúdo",
+   "caixa": [
+    1021,
+    396,
+    125,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    401,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    435,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    469,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    503,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    569,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    603,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Guia Comercial1 plano à vendaGrátis/mêsR$ 0,00Plano A/mêsfora de venda",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    605,
+    308,
+    238
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Agenda de EventosNada à venda aindaO plano de Agenda de Eventos está s",
+   "regiao": "conteúdo",
+   "caixa": [
+    624,
+    605,
+    308,
+    238
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "ArtigosNada à venda aindaO plano de Artigos está sem preço. Enquanto e",
+   "regiao": "conteúdo",
+   "caixa": [
+    948,
+    605,
+    308,
+    238
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Guia Comercial",
+   "regiao": "conteúdo",
+   "caixa": [
+    373,
+    622,
+    117,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Agenda de Eventos",
+   "regiao": "conteúdo",
+   "caixa": [
+    697,
+    622,
+    148,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Artigos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1021,
+    622,
+    125,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    637,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    671,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "fora de venda",
+   "regiao": "conteúdo",
+   "caixa": [
+    406,
+    722,
+    80,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    737,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "fora de venda",
+   "regiao": "conteúdo",
+   "caixa": [
+    406,
+    759,
+    80,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    771,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de FunçõesDiga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    800,
+    255,
+    50
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    805,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Falar com o suporte no WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    1200,
+    820,
+    56,
+    56
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "··",
+   "regiao": "menu lateral",
+   "caixa": [
+    16,
+    858,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    859,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Espaço de publicidade (banners)",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    874,
+    265,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "PublicidadeCada posição de banner do portal tem preço próprio, por sem",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    906,
+    956,
+    121
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Publicidade",
+   "regiao": "conteúdo",
+   "caixa": [
+    324,
+    930,
+    373,
+    29
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  1059
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "grandevix (local)",
+    "regiao": "menu lateral",
+    "caixa": [
+     14,
+     16,
+     207,
+     19
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "link",
+    "texto": "Ver portal",
+    "regiao": "topo",
+    "caixa": [
+     1147,
+     16,
+     109,
+     34
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à direita"
+   },
+   {
+    "tipo": "menu",
+    "texto": "23 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Notícias Automáticas · Guia Comercial · Vagas de Emprego · Classificados · Guia Turístico / Eventos · Artigos · Orçamentos Online · A Voz do Povo · Melhores da Cidade · Banners Publicitários …",
+    "regiao": "menu lateral",
+    "caixa": [
+     10,
+     18,
+     255,
+     871
+    ],
+    "nota": "lista de 23 itens em coluna",
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Meus Planos",
+    "regiao": "topo",
+    "caixa": [
+     300,
+     19,
+     110,
+     28
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Meus Planos",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     99,
+     956,
+     32
+    ],
+    "linha": 0,
+    "desc": "faixa larga na parte de cima"
+   },
+   {
+    "tipo": "título",
+    "texto": "Planos por seção do portal",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     348,
+     232,
+     20
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "link",
+    "texto": "NotíciasNada à venda aindaO plano de Notícias está sem preço. Enquanto",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     379,
+     308,
+     209
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Vagas de EmpregoNada à venda aindaO plano de Vagas de Emprego está sem",
+    "regiao": "conteúdo",
+    "caixa": [
+     624,
+     379,
+     308,
+     209
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "ClassificadosNada à venda aindaO plano de Classificados está sem preço",
+    "regiao": "conteúdo",
+    "caixa": [
+     948,
+     379,
+     308,
+     209
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "título",
+    "texto": "Notícias",
+    "regiao": "conteúdo",
+    "caixa": [
+     373,
+     396,
+     125,
+     24
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Vagas de Emprego",
+    "regiao": "conteúdo",
+    "caixa": [
+     697,
+     396,
+     143,
+     24
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Classificados",
+    "regiao": "conteúdo",
+    "caixa": [
+     1021,
+     396,
+     125,
+     24
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "link",
+    "texto": "Guia Comercial1 plano à vendaGrátis/mêsR$ 0,00Plano A/mêsfora de venda",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     605,
+     308,
+     238
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Agenda de EventosNada à venda aindaO plano de Agenda de Eventos está s",
+    "regiao": "conteúdo",
+    "caixa": [
+     624,
+     605,
+     308,
+     238
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "ArtigosNada à venda aindaO plano de Artigos está sem preço. Enquanto e",
+    "regiao": "conteúdo",
+    "caixa": [
+     948,
+     605,
+     308,
+     238
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "título",
+    "texto": "Guia Comercial",
+    "regiao": "conteúdo",
+    "caixa": [
+     373,
+     622,
+     117,
+     24
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Agenda de Eventos",
+    "regiao": "conteúdo",
+    "caixa": [
+     697,
+     622,
+     148,
+     24
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Artigos",
+    "regiao": "conteúdo",
+    "caixa": [
+     1021,
+     622,
+     125,
+     24
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "selo",
+    "texto": "fora de venda",
+    "regiao": "conteúdo",
+    "caixa": [
+     406,
+     722,
+     80,
+     20
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "selo",
+    "texto": "fora de venda",
+    "regiao": "conteúdo",
+    "caixa": [
+     406,
+     759,
+     80,
+     20
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Falar com o suporte no WhatsApp",
+    "regiao": "conteúdo",
+    "caixa": [
+     1200,
+     820,
+     56,
+     56
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "selo",
+    "texto": "··",
+    "regiao": "menu lateral",
+    "caixa": [
+     16,
+     858,
+     32,
+     32
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Espaço de publicidade (banners)",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     874,
+     265,
+     20
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "PublicidadeCada posição de banner do portal tem preço próprio, por sem",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     906,
+     956,
+     121
+    ],
+    "linha": 0,
+    "desc": "faixa larga mais abaixo (rolando a página)"
+   },
+   {
+    "tipo": "título",
+    "texto": "Publicidade",
+    "regiao": "conteúdo",
+    "caixa": [
+     324,
+     930,
+     373,
+     29
+    ],
+    "linha": 0,
+    "desc": "no fim da página, ao centro"
+   }
+  ],
+  "total": 25,
+  "W": 1280,
+  "H": 1059
+ }
+}

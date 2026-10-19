@@ -1,0 +1,698 @@
+{
+ "rota": "/minha-conta/vagas/[id]/editar",
+ "url": "/minha-conta/vagas/1/editar",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "Editar vaga",
+   "regiao": "topo",
+   "caixa": [
+    480,
+    16,
+    97,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    96,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Ex: Auxiliar de Cozinha",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    144,
+    590,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Guia Comercial",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    175,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    219,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Área",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    227,
+    287,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    263,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Classificados",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    307,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Cidade",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    309,
+    287,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Bairro",
+   "regiao": "conteúdo",
+   "caixa": [
+    776,
+    309,
+    287,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha empresa",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    386,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Ex: 44h, 12x36, 30h",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    393,
+    590,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Planos e assinaturas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    430,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Segurança",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    474,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "radio",
+   "texto": "Presencial",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    480,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "radio",
+   "texto": "Home Office",
+   "regiao": "conteúdo",
+   "caixa": [
+    575,
+    480,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "radio",
+   "texto": "Híbrido",
+   "regiao": "conteúdo",
+   "caixa": [
+    690,
+    480,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Vaga PCD",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    516,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "1º Emprego",
+   "regiao": "conteúdo",
+   "caixa": [
+    575,
+    516,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Urgente",
+   "regiao": "conteúdo",
+   "caixa": [
+    686,
+    516,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Descreva a vaga, responsabilidades, rotina…",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    574,
+    590,
+    122
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Formação, experiência, habilidades…",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    744,
+    590,
+    82
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu",
+   "caixa": [
+    197,
+    838,
+    44,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Vale-refeição Plano de saúde Vale-transporte",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    875,
+    590,
+    82
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Salário a combinar",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    1000,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "1.600,00",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    1054,
+    590,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "(27) 99999-9999",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    1187,
+    590,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "rh@empresa.com.br",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    1270,
+    590,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "https://seusite.com/candidatura",
+   "regiao": "conteúdo",
+   "caixa": [
+    473,
+    1354,
+    590,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Cancelar",
+   "regiao": "conteúdo",
+   "caixa": [
+    790,
+    1420,
+    98,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Salvar alterações",
+   "regiao": "conteúdo",
+   "caixa": [
+    900,
+    1420,
+    163,
+    42
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  1519
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "Editar vaga",
+    "regiao": "topo",
+    "caixa": [
+     480,
+     16,
+     97,
+     28
+    ],
+    "linha": 0,
+    "desc": "no topo da página, ao centro"
+   },
+   {
+    "tipo": "menu/links",
+    "texto": "9 itens: Início · Guia Comercial · Vagas de Emprego · Banners Publicitários · Classificados · Minha empresa · Planos e assinaturas · Segurança · Sair",
+    "regiao": "menu",
+    "caixa": [
+     14,
+     96,
+     227,
+     786
+    ],
+    "nota": "lista de 9 itens em coluna",
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Ex: Auxiliar de Cozinha",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     144,
+     590,
+     42
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Área",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     227,
+     287,
+     42
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “Ex: Auxiliar de Cozinha”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Cidade",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     309,
+     287,
+     42
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “Área”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Bairro",
+    "regiao": "conteúdo",
+    "caixa": [
+     776,
+     309,
+     287,
+     42
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Ex: 44h, 12x36, 30h",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     393,
+     590,
+     42
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Cidade”"
+   },
+   {
+    "tipo": "radio",
+    "texto": "Presencial",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     480,
+     13,
+     13
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Ex: 44h, 12x36, 30h”"
+   },
+   {
+    "tipo": "radio",
+    "texto": "Home Office",
+    "regiao": "conteúdo",
+    "caixa": [
+     575,
+     480,
+     13,
+     13
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Ex: 44h, 12x36, 30h”"
+   },
+   {
+    "tipo": "radio",
+    "texto": "Híbrido",
+    "regiao": "conteúdo",
+    "caixa": [
+     690,
+     480,
+     13,
+     13
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Ex: 44h, 12x36, 30h”"
+   },
+   {
+    "tipo": "checkbox",
+    "texto": "Vaga PCD",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     516,
+     13,
+     13
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Presencial”"
+   },
+   {
+    "tipo": "checkbox",
+    "texto": "1º Emprego",
+    "regiao": "conteúdo",
+    "caixa": [
+     575,
+     516,
+     13,
+     13
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Home Office”"
+   },
+   {
+    "tipo": "checkbox",
+    "texto": "Urgente",
+    "regiao": "conteúdo",
+    "caixa": [
+     686,
+     516,
+     13,
+     13
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Híbrido”"
+   },
+   {
+    "tipo": "campo de texto longo",
+    "texto": "Descreva a vaga, responsabilidades, rotina…",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     574,
+     590,
+     122
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Vaga PCD”"
+   },
+   {
+    "tipo": "campo de texto longo",
+    "texto": "Formação, experiência, habilidades…",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     744,
+     590,
+     82
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Descreva a vaga, responsabilidades,”"
+   },
+   {
+    "tipo": "campo de texto longo",
+    "texto": "Vale-refeição Plano de saúde Vale-transporte",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     875,
+     590,
+     82
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Formação, experiência, habilidades…”"
+   },
+   {
+    "tipo": "checkbox",
+    "texto": "Salário a combinar",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     1000,
+     13,
+     13
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Vale-refeição Plano de saúde Vale-t”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "1.600,00",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     1054,
+     590,
+     42
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Salário a combinar”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "(27) 99999-9999",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     1187,
+     590,
+     42
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "rh@empresa.com.br",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     1270,
+     590,
+     42
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “(27) 99999-9999”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "https://seusite.com/candidatura",
+    "regiao": "conteúdo",
+    "caixa": [
+     473,
+     1354,
+     590,
+     42
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “rh@empresa.com.br”"
+   },
+   {
+    "tipo": "link",
+    "texto": "Cancelar",
+    "regiao": "conteúdo",
+    "caixa": [
+     790,
+     1420,
+     98,
+     42
+    ],
+    "linha": 0,
+    "desc": "no fim da página, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Salvar alterações",
+    "regiao": "conteúdo",
+    "caixa": [
+     900,
+     1420,
+     163,
+     42
+    ],
+    "linha": 0,
+    "desc": "no fim da página, à direita, logo abaixo de “https://seusite.com/candidatura”"
+   }
+  ],
+  "total": 23,
+  "W": 1280,
+  "H": 1519
+ }
+}

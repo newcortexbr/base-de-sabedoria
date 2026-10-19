@@ -1,0 +1,373 @@
+{
+ "rota": "/minha-conta/empresa",
+ "url": "/minha-conta/minha-empresa",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "Minha empresa",
+   "regiao": "conteúdo",
+   "caixa": [
+    382,
+    46,
+    295,
+    39
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    96,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Identidade",
+   "regiao": "conteúdo",
+   "caixa": [
+    362,
+    165,
+    549,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Guia Comercial",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    175,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Onde isso aparece",
+   "regiao": "menu lateral",
+   "caixa": [
+    1022,
+    175,
+    207,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    219,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    263,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Classificados",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    307,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Descrição da empresa",
+   "regiao": "conteúdo",
+   "caixa": [
+    307,
+    326,
+    604,
+    96
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha empresa",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    386,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Planos e assinaturas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    430,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Segurança",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    474,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Contatos",
+   "regiao": "conteúdo",
+   "caixa": [
+    362,
+    496,
+    549,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    307,
+    578,
+    295,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "E-mail de contato",
+   "regiao": "conteúdo",
+   "caixa": [
+    616,
+    578,
+    295,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Site",
+   "regiao": "conteúdo",
+   "caixa": [
+    307,
+    662,
+    604,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Salvar",
+   "regiao": "conteúdo",
+   "caixa": [
+    288,
+    741,
+    92,
+    48
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu",
+   "caixa": [
+    197,
+    838,
+    44,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  }
+ ],
+ "full": [
+  1280,
+  900
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "Minha empresa",
+    "regiao": "conteúdo",
+    "caixa": [
+     382,
+     46,
+     295,
+     39
+    ],
+    "linha": 0,
+    "desc": "no topo da página, ao centro"
+   },
+   {
+    "tipo": "menu/links",
+    "texto": "9 itens: Início · Guia Comercial · Vagas de Emprego · Banners Publicitários · Classificados · Minha empresa · Planos e assinaturas · Segurança · Sair",
+    "regiao": "menu",
+    "caixa": [
+     14,
+     96,
+     227,
+     786
+    ],
+    "nota": "lista de 9 itens em coluna",
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Identidade",
+    "regiao": "conteúdo",
+    "caixa": [
+     362,
+     165,
+     549,
+     23
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Onde isso aparece",
+    "regiao": "menu lateral",
+    "caixa": [
+     1022,
+     175,
+     207,
+     23
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "campo de texto longo",
+    "texto": "Descrição da empresa",
+    "regiao": "conteúdo",
+    "caixa": [
+     307,
+     326,
+     604,
+     96
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Contatos",
+    "regiao": "conteúdo",
+    "caixa": [
+     362,
+     496,
+     549,
+     23
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "WhatsApp",
+    "regiao": "conteúdo",
+    "caixa": [
+     307,
+     578,
+     295,
+     46
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Contatos”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "E-mail de contato",
+    "regiao": "conteúdo",
+    "caixa": [
+     616,
+     578,
+     295,
+     46
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Contatos”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Site",
+    "regiao": "conteúdo",
+    "caixa": [
+     307,
+     662,
+     604,
+     46
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “WhatsApp”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Salvar",
+    "regiao": "conteúdo",
+    "caixa": [
+     288,
+     741,
+     92,
+     48
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda, logo abaixo de “Site”"
+   }
+  ],
+  "total": 10,
+  "W": 1280,
+  "H": 900
+ }
+}

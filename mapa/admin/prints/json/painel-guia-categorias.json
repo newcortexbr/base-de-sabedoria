@@ -1,0 +1,2905 @@
+{
+ "rota": "/painel/guia/categorias",
+ "url": "/painel/guia/categorias",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    16,
+    207,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver portal",
+   "regiao": "topo",
+   "caixa": [
+    1147,
+    16,
+    109,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    18,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Guia Comercial — Categorias",
+   "regiao": "topo",
+   "caixa": [
+    300,
+    19,
+    253,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    63,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "+ Nova Categoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    91,
+    147,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    97,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    163,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Categoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    175,
+    305,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Oferece",
+   "regiao": "conteúdo",
+   "caixa": [
+    605,
+    175,
+    182,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Empresas",
+   "regiao": "conteúdo",
+   "caixa": [
+    787,
+    175,
+    117,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    904,
+    175,
+    130,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Status",
+   "regiao": "conteúdo",
+   "caixa": [
+    1035,
+    175,
+    94,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Ações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1129,
+    175,
+    128,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    197,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    231,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    238,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    238,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    238,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    238,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Listar Empresas",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    265,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Gerenciar Categorias",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    297,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    299,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    299,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    299,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    299,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Gerenciar Subcategorias",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    329,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    360,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    360,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    360,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    360,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Cupons de Desconto",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    361,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    397,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    421,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    421,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    421,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    421,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    431,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    465,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    482,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    482,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    482,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    482,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    499,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    533,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    543,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    543,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    543,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    543,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    567,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    601,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    604,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    604,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    604,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    604,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    635,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    665,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    665,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    665,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    665,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    701,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    726,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    726,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    726,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    726,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    735,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    769,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    787,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    787,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    787,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    787,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de FunçõesDiga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    800,
+    255,
+    50
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    803,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Falar com o suporte no WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    1200,
+    820,
+    56,
+    56
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    848,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    848,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    848,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    848,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "··",
+   "regiao": "menu lateral",
+   "caixa": [
+    16,
+    858,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    859,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    869,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    903,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    909,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    909,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    909,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    909,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    937,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    970,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    970,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    970,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    970,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    1031,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    1031,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    1031,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    1031,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    1092,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    1092,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    1092,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    1092,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    1153,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    1153,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    1153,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    1153,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    1214,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    1214,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    1214,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    1214,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    1275,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    1275,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    1275,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    1275,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    1336,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    1336,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    1336,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    1336,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    1397,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    1397,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    1397,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    1397,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    1458,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    1458,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    1458,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    1458,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    1519,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    1519,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    1519,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    1519,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    1580,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    1580,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    1580,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    1580,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    1641,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    1641,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    1641,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    1641,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    1702,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    1702,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    1702,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    1702,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Não aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    1763,
+    85,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    1763,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    1763,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    1763,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Não aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    1824,
+    85,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    1824,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    1824,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    1824,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Não aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    1885,
+    85,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    1885,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    1885,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    1885,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Não aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    1946,
+    85,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    1946,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    1946,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    1946,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    2007,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    2007,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    2007,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    2007,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Não aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    2068,
+    85,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    2068,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    2068,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    2068,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    2129,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    2129,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    2129,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    2129,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    2190,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    2190,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    2190,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    2190,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    2251,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    2251,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    2251,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    2251,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    2312,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    2312,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    2312,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    2312,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    2373,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    2373,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    2373,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    2373,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    2434,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    2434,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    2434,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    2434,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    2495,
+    61,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    2495,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    2495,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    2495,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Não aparece",
+   "regiao": "conteúdo",
+   "caixa": [
+    924,
+    2556,
+    85,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    2556,
+    43,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    2556,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1191,
+    2556,
+    40,
+    16
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  2618
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "grandevix (local)",
+    "regiao": "menu lateral",
+    "caixa": [
+     14,
+     16,
+     207,
+     19
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "menu",
+    "texto": "27 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Notícias Automáticas · Guia Comercial · Listar Empresas · Gerenciar Categorias · Gerenciar Subcategorias · Cupons de Desconto · Vagas de Emprego · Classificados · Guia Turístico / Eventos · Artigos …",
+    "regiao": "menu lateral",
+    "caixa": [
+     10,
+     18,
+     255,
+     953
+    ],
+    "nota": "lista de 27 itens em coluna",
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Guia Comercial — Categorias",
+    "regiao": "topo",
+    "caixa": [
+     300,
+     19,
+     253,
+     28
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "botão",
+    "texto": "+ Nova Categoria",
+    "regiao": "conteúdo",
+    "caixa": [
+     300,
+     91,
+     147,
+     36
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1149,
+     238,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Ações”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1191,
+     238,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Ações”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1149,
+     299,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1191,
+     299,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Excluir”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1149,
+     360,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1191,
+     360,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Excluir”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1149,
+     421,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1191,
+     421,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Excluir”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1149,
+     482,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1191,
+     482,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Excluir”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1149,
+     543,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1191,
+     543,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Excluir”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1149,
+     604,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1191,
+     604,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Excluir”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1149,
+     665,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1191,
+     665,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Excluir”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1149,
+     726,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1191,
+     726,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Excluir”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1149,
+     787,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1191,
+     787,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Excluir”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1149,
+     848,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1191,
+     848,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Excluir”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1149,
+     909,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1191,
+     909,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Excluir”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1149,
+     970,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1191,
+     970,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Excluir”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1149,
+     1031,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1191,
+     1031,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Excluir”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1149,
+     1092,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1191,
+     1092,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Excluir”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1149,
+     1153,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1191,
+     1153,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Excluir”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1149,
+     1214,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1191,
+     1214,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Excluir”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1149,
+     1275,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1191,
+     1275,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Excluir”"
+   }
+  ],
+  "total": 169,
+  "W": 1280,
+  "H": 2618
+ }
+}

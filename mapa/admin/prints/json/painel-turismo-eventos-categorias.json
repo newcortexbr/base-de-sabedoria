@@ -1,0 +1,1406 @@
+{
+ "rota": "/painel/turismo/eventos/categorias",
+ "url": "/painel/turismo/eventos/categorias",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    16,
+    207,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver portal",
+   "regiao": "topo",
+   "caixa": [
+    1147,
+    16,
+    109,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    18,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Eventos — Categorias",
+   "regiao": "topo",
+   "caixa": [
+    300,
+    19,
+    191,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    63,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    97,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "+ Nova Categoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    99,
+    147,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Categorias de Eventos",
+   "regiao": "conteúdo",
+   "caixa": [
+    354,
+    101,
+    259,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    163,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Eventos0",
+   "regiao": "menu",
+   "caixa": [
+    359,
+    164,
+    115,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Categorias8",
+   "regiao": "menu",
+   "caixa": [
+    476,
+    164,
+    132,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Organizadores2",
+   "regiao": "menu",
+   "caixa": [
+    610,
+    164,
+    158,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "0",
+   "regiao": "menu",
+   "caixa": [
+    435,
+    176,
+    22,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "8",
+   "regiao": "menu",
+   "caixa": [
+    570,
+    176,
+    22,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "2",
+   "regiao": "menu",
+   "caixa": [
+    730,
+    176,
+    22,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    197,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    231,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Buscar categoria por nome",
+   "regiao": "conteúdo",
+   "caixa": [
+    367,
+    246,
+    483,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "lista de opções",
+   "texto": "Filtrar por status",
+   "regiao": "conteúdo",
+   "caixa": [
+    862,
+    246,
+    144,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "lista de opções",
+   "texto": "Filtrar por eventos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1018,
+    246,
+    171,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    265,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    299,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    333,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Categoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    355,
+    334,
+    437,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "Status",
+   "regiao": "conteúdo",
+   "caixa": [
+    792,
+    334,
+    168,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Pontos Turísticos",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    367,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativa",
+   "regiao": "conteúdo",
+   "caixa": [
+    854,
+    393,
+    45,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1103,
+    397,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1145,
+    397,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Novo Ponto",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    399,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Categorias",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    431,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativa",
+   "regiao": "conteúdo",
+   "caixa": [
+    854,
+    453,
+    45,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1103,
+    457,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1145,
+    457,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Roteiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    463,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    495,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativa",
+   "regiao": "conteúdo",
+   "caixa": [
+    854,
+    513,
+    45,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1103,
+    517,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1145,
+    517,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    531,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    565,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativa",
+   "regiao": "conteúdo",
+   "caixa": [
+    854,
+    573,
+    45,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1103,
+    577,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1145,
+    577,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    599,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    633,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativa",
+   "regiao": "conteúdo",
+   "caixa": [
+    854,
+    633,
+    45,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1103,
+    637,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1145,
+    637,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    667,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativa",
+   "regiao": "conteúdo",
+   "caixa": [
+    854,
+    693,
+    45,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1103,
+    697,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1145,
+    697,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    733,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativa",
+   "regiao": "conteúdo",
+   "caixa": [
+    854,
+    753,
+    45,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1103,
+    757,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1145,
+    757,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    767,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de FunçõesDiga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    800,
+    255,
+    50
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    801,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Ativa",
+   "regiao": "conteúdo",
+   "caixa": [
+    854,
+    813,
+    45,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1103,
+    817,
+    34,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1145,
+    817,
+    40,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Falar com o suporte no WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    1200,
+    820,
+    56,
+    56
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    835,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "··",
+   "regiao": "menu lateral",
+   "caixa": [
+    16,
+    858,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    859,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    901,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    935,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    969,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  }
+ ],
+ "full": [
+  1280,
+  900
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "grandevix (local)",
+    "regiao": "menu lateral",
+    "caixa": [
+     14,
+     16,
+     207,
+     19
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "link",
+    "texto": "Ver portal",
+    "regiao": "topo",
+    "caixa": [
+     1147,
+     16,
+     109,
+     34
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à direita"
+   },
+   {
+    "tipo": "menu",
+    "texto": "28 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Notícias Automáticas · Guia Comercial · Vagas de Emprego · Classificados · Guia Turístico / Eventos · Pontos Turísticos · Novo Ponto · Categorias · Roteiros · Eventos …",
+    "regiao": "menu lateral",
+    "caixa": [
+     10,
+     18,
+     255,
+     985
+    ],
+    "nota": "lista de 28 itens em coluna",
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Eventos — Categorias",
+    "regiao": "topo",
+    "caixa": [
+     300,
+     19,
+     191,
+     28
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "botão",
+    "texto": "+ Nova Categoria",
+    "regiao": "conteúdo",
+    "caixa": [
+     1055,
+     99,
+     147,
+     36
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "título",
+    "texto": "Categorias de Eventos",
+    "regiao": "conteúdo",
+    "caixa": [
+     354,
+     101,
+     259,
+     32
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Eventos0",
+    "regiao": "menu",
+    "caixa": [
+     359,
+     164,
+     115,
+     44
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "link",
+    "texto": "Categorias8",
+    "regiao": "menu",
+    "caixa": [
+     476,
+     164,
+     132,
+     44
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Organizadores2",
+    "regiao": "menu",
+    "caixa": [
+     610,
+     164,
+     158,
+     44
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "selo",
+    "texto": "0",
+    "regiao": "menu",
+    "caixa": [
+     435,
+     176,
+     22,
+     20
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "selo",
+    "texto": "8",
+    "regiao": "menu",
+    "caixa": [
+     570,
+     176,
+     22,
+     20
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "selo",
+    "texto": "2",
+    "regiao": "menu",
+    "caixa": [
+     730,
+     176,
+     22,
+     20
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Buscar categoria por nome",
+    "regiao": "conteúdo",
+    "caixa": [
+     367,
+     246,
+     483,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "lista de opções",
+    "texto": "Filtrar por status",
+    "regiao": "conteúdo",
+    "caixa": [
+     862,
+     246,
+     144,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "lista de opções",
+    "texto": "Filtrar por eventos",
+    "regiao": "conteúdo",
+    "caixa": [
+     1018,
+     246,
+     171,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "coluna",
+    "texto": "Categoria",
+    "regiao": "conteúdo",
+    "caixa": [
+     355,
+     334,
+     437,
+     41
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "coluna",
+    "texto": "Status",
+    "regiao": "conteúdo",
+    "caixa": [
+     792,
+     334,
+     168,
+     41
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "selo",
+    "texto": "Ativa",
+    "regiao": "conteúdo",
+    "caixa": [
+     854,
+     393,
+     45,
+     24
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1103,
+     397,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1145,
+     397,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "selo",
+    "texto": "Ativa",
+    "regiao": "conteúdo",
+    "caixa": [
+     854,
+     453,
+     45,
+     24
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1103,
+     457,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1145,
+     457,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Excluir”"
+   },
+   {
+    "tipo": "selo",
+    "texto": "Ativa",
+    "regiao": "conteúdo",
+    "caixa": [
+     854,
+     513,
+     45,
+     24
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1103,
+     517,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1145,
+     517,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Excluir”"
+   },
+   {
+    "tipo": "selo",
+    "texto": "Ativa",
+    "regiao": "conteúdo",
+    "caixa": [
+     854,
+     573,
+     45,
+     24
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1103,
+     577,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1145,
+     577,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Excluir”"
+   },
+   {
+    "tipo": "selo",
+    "texto": "Ativa",
+    "regiao": "conteúdo",
+    "caixa": [
+     854,
+     633,
+     45,
+     24
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1103,
+     637,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1145,
+     637,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Excluir”"
+   },
+   {
+    "tipo": "selo",
+    "texto": "Ativa",
+    "regiao": "conteúdo",
+    "caixa": [
+     854,
+     693,
+     45,
+     24
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1103,
+     697,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1145,
+     697,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Excluir”"
+   },
+   {
+    "tipo": "selo",
+    "texto": "Ativa",
+    "regiao": "conteúdo",
+    "caixa": [
+     854,
+     753,
+     45,
+     24
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1103,
+     757,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1145,
+     757,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Excluir”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Editar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1103,
+     817,
+     34,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Editar”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir",
+    "regiao": "conteúdo",
+    "caixa": [
+     1145,
+     817,
+     40,
+     16
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Excluir”"
+   }
+  ],
+  "total": 43,
+  "W": 1280,
+  "H": 900
+ }
+}

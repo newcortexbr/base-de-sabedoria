@@ -1,0 +1,1307 @@
+{
+ "rota": "/painel/vagas/contratantes/cadastrar",
+ "url": "/painel/vagas/contratantes/cadastrar",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    16,
+    207,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver portal",
+   "regiao": "topo",
+   "caixa": [
+    1147,
+    16,
+    109,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    18,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Vagas — Novo Contratante",
+   "regiao": "topo",
+   "caixa": [
+    300,
+    19,
+    231,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    63,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    97,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Novo Contratante",
+   "regiao": "conteúdo",
+   "caixa": [
+    466,
+    99,
+    624,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    163,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    197,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    203,
+    576,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    231,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    265,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Listar Vagas",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    299,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Nova Vaga",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    331,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Áreas de Vagas",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    363,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Contratantes",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    395,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "envio de arquivo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    406,
+    576,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    431,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "checkbox",
+   "texto": "Verificado",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    457,
+    13,
+    13
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    465,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    499,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    533,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    567,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    601,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Localização",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    622,
+    576,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    635,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Cidade",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    682,
+    280,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    701,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    735,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    769,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Redes sociais e contato",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    792,
+    576,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de FunçõesDiga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    800,
+    255,
+    50
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    803,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Falar com o suporte no WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    1200,
+    820,
+    56,
+    56
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "https://linkedin.com/company/…",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    852,
+    280,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "https://instagram.com/…",
+   "regiao": "conteúdo",
+   "caixa": [
+    786,
+    852,
+    280,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "··",
+   "regiao": "menu lateral",
+   "caixa": [
+    16,
+    858,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    859,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    869,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    903,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "https://…",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    930,
+    280,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "https://youtube.com/@…",
+   "regiao": "conteúdo",
+   "caixa": [
+    786,
+    930,
+    280,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    937,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "(27) 99999-8888",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    1008,
+    280,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "contato@empresa.com.br",
+   "regiao": "conteúdo",
+   "caixa": [
+    786,
+    1008,
+    280,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Áreas de atuação",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    1118,
+    576,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marketing",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    1150,
+    79,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "RH",
+   "regiao": "conteúdo",
+   "caixa": [
+    577,
+    1150,
+    43,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Saúde",
+   "regiao": "conteúdo",
+   "caixa": [
+    628,
+    1150,
+    61,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Tecnologia & TI",
+   "regiao": "conteúdo",
+   "caixa": [
+    697,
+    1150,
+    109,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Educação",
+   "regiao": "conteúdo",
+   "caixa": [
+    813,
+    1150,
+    79,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Administração",
+   "regiao": "conteúdo",
+   "caixa": [
+    901,
+    1150,
+    102,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vendas & Comercial",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    1188,
+    135,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Construção & Engenharia",
+   "regiao": "conteúdo",
+   "caixa": [
+    633,
+    1188,
+    163,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Alimentação",
+   "regiao": "conteúdo",
+   "caixa": [
+    804,
+    1188,
+    92,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Logística & Transporte",
+   "regiao": "conteúdo",
+   "caixa": [
+    904,
+    1188,
+    146,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Acesso do proprietário (opcional)",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    1290,
+    576,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Nome do responsável *",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    1394,
+    282,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "E-mail de login *",
+   "regiao": "conteúdo",
+   "caixa": [
+    784,
+    1394,
+    282,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Senha inicial *",
+   "regiao": "conteúdo",
+   "caixa": [
+    490,
+    1464,
+    394,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Mostrar",
+   "regiao": "conteúdo",
+   "caixa": [
+    892,
+    1464,
+    70,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Gerar senha",
+   "regiao": "conteúdo",
+   "caixa": [
+    970,
+    1464,
+    96,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Cancelar",
+   "regiao": "conteúdo",
+   "caixa": [
+    466,
+    1576,
+    307,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Criar Contratante",
+   "regiao": "conteúdo",
+   "caixa": [
+    785,
+    1576,
+    305,
+    42
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  1650
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "grandevix (local)",
+    "regiao": "menu lateral",
+    "caixa": [
+     14,
+     16,
+     207,
+     19
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "link",
+    "texto": "Ver portal",
+    "regiao": "topo",
+    "caixa": [
+     1147,
+     16,
+     109,
+     34
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à direita"
+   },
+   {
+    "tipo": "menu",
+    "texto": "27 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Notícias Automáticas · Guia Comercial · Vagas de Emprego · Listar Vagas · Nova Vaga · Áreas de Vagas · Contratantes · Classificados · Guia Turístico / Eventos · Artigos …",
+    "regiao": "menu lateral",
+    "caixa": [
+     10,
+     18,
+     255,
+     953
+    ],
+    "nota": "lista de 27 itens em coluna",
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Vagas — Novo Contratante",
+    "regiao": "topo",
+    "caixa": [
+     300,
+     19,
+     231,
+     28
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Novo Contratante",
+    "regiao": "conteúdo",
+    "caixa": [
+     466,
+     99,
+     624,
+     32
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     203,
+     576,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “Novo Contratante”"
+   },
+   {
+    "tipo": "envio de arquivo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     406,
+     576,
+     32
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "checkbox",
+    "texto": "Verificado",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     457,
+     13,
+     13
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Localização",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     622,
+     576,
+     20
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Cidade",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     682,
+     280,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Localização”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Redes sociais e contato",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     792,
+     576,
+     20
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Falar com o suporte no WhatsApp",
+    "regiao": "conteúdo",
+    "caixa": [
+     1200,
+     820,
+     56,
+     56
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "https://linkedin.com/company/…",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     852,
+     280,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Redes sociais e contato”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "https://instagram.com/…",
+    "regiao": "conteúdo",
+    "caixa": [
+     786,
+     852,
+     280,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Redes sociais e contato”"
+   },
+   {
+    "tipo": "selo",
+    "texto": "··",
+    "regiao": "menu lateral",
+    "caixa": [
+     16,
+     858,
+     32,
+     32
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda"
+   },
+   {
+    "tipo": "campo",
+    "texto": "https://…",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     930,
+     280,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “https://linkedin.com/company/…”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "https://youtube.com/@…",
+    "regiao": "conteúdo",
+    "caixa": [
+     786,
+     930,
+     280,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “https://instagram.com/…”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "(27) 99999-8888",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     1008,
+     280,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “https://…”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "contato@empresa.com.br",
+    "regiao": "conteúdo",
+    "caixa": [
+     786,
+     1008,
+     280,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “https://youtube.com/@…”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Áreas de atuação",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     1118,
+     576,
+     20
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Marketing",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     1150,
+     79,
+     30
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Áreas de atuação”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "RH",
+    "regiao": "conteúdo",
+    "caixa": [
+     577,
+     1150,
+     43,
+     30
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Áreas de atuação”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Saúde",
+    "regiao": "conteúdo",
+    "caixa": [
+     628,
+     1150,
+     61,
+     30
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Áreas de atuação”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Tecnologia & TI",
+    "regiao": "conteúdo",
+    "caixa": [
+     697,
+     1150,
+     109,
+     30
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Áreas de atuação”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Educação",
+    "regiao": "conteúdo",
+    "caixa": [
+     813,
+     1150,
+     79,
+     30
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Áreas de atuação”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Administração",
+    "regiao": "conteúdo",
+    "caixa": [
+     901,
+     1150,
+     102,
+     30
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Áreas de atuação”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Vendas & Comercial",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     1188,
+     135,
+     30
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Marketing”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Construção & Engenharia",
+    "regiao": "conteúdo",
+    "caixa": [
+     633,
+     1188,
+     163,
+     30
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Saúde”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Alimentação",
+    "regiao": "conteúdo",
+    "caixa": [
+     804,
+     1188,
+     92,
+     30
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Tecnologia & TI”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Logística & Transporte",
+    "regiao": "conteúdo",
+    "caixa": [
+     904,
+     1188,
+     146,
+     30
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Administração”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Acesso do proprietário (opcional)",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     1290,
+     576,
+     20
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Nome do responsável *",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     1394,
+     282,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Acesso do proprietário (opcional)”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "E-mail de login *",
+    "regiao": "conteúdo",
+    "caixa": [
+     784,
+     1394,
+     282,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Acesso do proprietário (opcional)”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Senha inicial *",
+    "regiao": "conteúdo",
+    "caixa": [
+     490,
+     1464,
+     394,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Nome do responsável *”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Mostrar",
+    "regiao": "conteúdo",
+    "caixa": [
+     892,
+     1464,
+     70,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “E-mail de login *”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Gerar senha",
+    "regiao": "conteúdo",
+    "caixa": [
+     970,
+     1464,
+     96,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “E-mail de login *”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Cancelar",
+    "regiao": "conteúdo",
+    "caixa": [
+     466,
+     1576,
+     307,
+     42
+    ],
+    "linha": 0,
+    "desc": "no fim da página, ao centro, logo abaixo de “Senha inicial *”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Criar Contratante",
+    "regiao": "conteúdo",
+    "caixa": [
+     785,
+     1576,
+     305,
+     42
+    ],
+    "linha": 0,
+    "desc": "no fim da página, à direita, logo abaixo de “Senha inicial *”"
+   }
+  ],
+  "total": 38,
+  "W": 1280,
+  "H": 1650
+ }
+}

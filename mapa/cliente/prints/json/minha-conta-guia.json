@@ -1,0 +1,848 @@
+{
+ "rota": "/minha-conta/guia",
+ "url": "/minha-conta/guia",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "Guia Comercial",
+   "regiao": "conteúdo",
+   "caixa": [
+    382,
+    46,
+    317,
+    39
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Publicar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1111,
+    55,
+    111,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    96,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Sair do grátis",
+   "regiao": "conteúdo",
+   "caixa": [
+    1095,
+    170,
+    134,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Guia Comercial",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    175,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    219,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Cadastre sua empresa",
+   "regiao": "conteúdo",
+   "caixa": [
+    288,
+    256,
+    192,
+    27
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    263,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Sua ficha no site",
+   "regiao": "menu lateral",
+   "caixa": [
+    965,
+    273,
+    266,
+    21
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Classificados",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    307,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Dados da empresaNome, descrição e endereço da sua empresa",
+   "regiao": "conteúdo",
+   "caixa": [
+    305,
+    312,
+    464,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Dados da empresaNome, descrição e endereço da sua empresa",
+   "regiao": "conteúdo",
+   "caixa": [
+    305,
+    312,
+    464,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha empresa",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    386,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Nome da empresa",
+   "regiao": "conteúdo",
+   "caixa": [
+    305,
+    415,
+    608,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Planos e assinaturas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    430,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Segurança",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    474,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "00000-000",
+   "regiao": "conteúdo",
+   "caixa": [
+    305,
+    627,
+    296,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Cidade",
+   "regiao": "conteúdo",
+   "caixa": [
+    305,
+    725,
+    296,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Bairro",
+   "regiao": "conteúdo",
+   "caixa": [
+    617,
+    725,
+    296,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    305,
+    809,
+    608,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Publicar no Guia",
+   "regiao": "conteúdo",
+   "caixa": [
+    305,
+    833,
+    159,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu",
+   "caixa": [
+    197,
+    838,
+    44,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Continuar",
+   "regiao": "conteúdo",
+   "caixa": [
+    818,
+    887,
+    95,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Categoria e horáriosem horário",
+   "regiao": "conteúdo",
+   "caixa": [
+    305,
+    977,
+    464,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Categoria e horáriosem horário",
+   "regiao": "conteúdo",
+   "caixa": [
+    305,
+    977,
+    464,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver planos",
+   "regiao": "conteúdo",
+   "caixa": [
+    799,
+    1067,
+    114,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Telefone, WhatsApp e redes",
+   "regiao": "conteúdo",
+   "caixa": [
+    360,
+    1068,
+    426,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Logo, capa e galeria de fotosSem logo",
+   "regiao": "conteúdo",
+   "caixa": [
+    305,
+    1157,
+    464,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Logo, capa e galeria de fotosSem logo",
+   "regiao": "conteúdo",
+   "caixa": [
+    305,
+    1157,
+    464,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver planos",
+   "regiao": "conteúdo",
+   "caixa": [
+    799,
+    1247,
+    114,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Comodidades e pagamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    360,
+    1248,
+    426,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver planos",
+   "regiao": "conteúdo",
+   "caixa": [
+    799,
+    1337,
+    114,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Cupom de desconto",
+   "regiao": "conteúdo",
+   "caixa": [
+    360,
+    1338,
+    426,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver planos",
+   "regiao": "conteúdo",
+   "caixa": [
+    799,
+    1427,
+    114,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Pedidos de orçamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    360,
+    1428,
+    426,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver planos",
+   "regiao": "conteúdo",
+   "caixa": [
+    799,
+    1517,
+    114,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Links e páginas",
+   "regiao": "conteúdo",
+   "caixa": [
+    360,
+    1518,
+    426,
+    22
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  1716
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "Guia Comercial",
+    "regiao": "conteúdo",
+    "caixa": [
+     382,
+     46,
+     317,
+     39
+    ],
+    "linha": 0,
+    "desc": "no topo da página, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Publicar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1111,
+     55,
+     111,
+     44
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à direita"
+   },
+   {
+    "tipo": "menu/links",
+    "texto": "9 itens: Início · Guia Comercial · Vagas de Emprego · Banners Publicitários · Classificados · Minha empresa · Planos e assinaturas · Segurança · Sair",
+    "regiao": "menu",
+    "caixa": [
+     14,
+     96,
+     227,
+     786
+    ],
+    "nota": "lista de 9 itens em coluna",
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "link",
+    "texto": "Sair do grátis",
+    "regiao": "conteúdo",
+    "caixa": [
+     1095,
+     170,
+     134,
+     44
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "título",
+    "texto": "Cadastre sua empresa",
+    "regiao": "conteúdo",
+    "caixa": [
+     288,
+     256,
+     192,
+     27
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Sua ficha no site",
+    "regiao": "menu lateral",
+    "caixa": [
+     965,
+     273,
+     266,
+     21
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "título",
+    "texto": "Dados da empresaNome, descrição e endereço da sua empresa",
+    "regiao": "conteúdo",
+    "caixa": [
+     305,
+     312,
+     464,
+     44
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Dados da empresaNome, descrição e endereço da sua empresa",
+    "regiao": "conteúdo",
+    "caixa": [
+     305,
+     312,
+     464,
+     44
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “Cadastre sua empresa”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Nome da empresa",
+    "regiao": "conteúdo",
+    "caixa": [
+     305,
+     415,
+     608,
+     42
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Dados da empresaNome, descrição e e”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "00000-000",
+    "regiao": "conteúdo",
+    "caixa": [
+     305,
+     627,
+     296,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Cidade",
+    "regiao": "conteúdo",
+    "caixa": [
+     305,
+     725,
+     296,
+     42
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “00000-000”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Bairro",
+    "regiao": "conteúdo",
+    "caixa": [
+     617,
+     725,
+     296,
+     42
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     305,
+     809,
+     608,
+     42
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “Cidade”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Publicar no Guia",
+    "regiao": "conteúdo",
+    "caixa": [
+     305,
+     833,
+     159,
+     44
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda, logo abaixo de “Cidade”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Continuar",
+    "regiao": "conteúdo",
+    "caixa": [
+     818,
+     887,
+     95,
+     44
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "título",
+    "texto": "Categoria e horáriosem horário",
+    "regiao": "conteúdo",
+    "caixa": [
+     305,
+     977,
+     464,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Categoria e horáriosem horário",
+    "regiao": "conteúdo",
+    "caixa": [
+     305,
+     977,
+     464,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Ver planos",
+    "regiao": "conteúdo",
+    "caixa": [
+     799,
+     1067,
+     114,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "título",
+    "texto": "Telefone, WhatsApp e redes",
+    "regiao": "conteúdo",
+    "caixa": [
+     360,
+     1068,
+     426,
+     22
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Logo, capa e galeria de fotosSem logo",
+    "regiao": "conteúdo",
+    "caixa": [
+     305,
+     1157,
+     464,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Logo, capa e galeria de fotosSem logo",
+    "regiao": "conteúdo",
+    "caixa": [
+     305,
+     1157,
+     464,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Telefone, WhatsApp e redes”"
+   },
+   {
+    "tipo": "link",
+    "texto": "Ver planos",
+    "regiao": "conteúdo",
+    "caixa": [
+     799,
+     1247,
+     114,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "título",
+    "texto": "Comodidades e pagamento",
+    "regiao": "conteúdo",
+    "caixa": [
+     360,
+     1248,
+     426,
+     22
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Ver planos",
+    "regiao": "conteúdo",
+    "caixa": [
+     799,
+     1337,
+     114,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "título",
+    "texto": "Cupom de desconto",
+    "regiao": "conteúdo",
+    "caixa": [
+     360,
+     1338,
+     426,
+     22
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Ver planos",
+    "regiao": "conteúdo",
+    "caixa": [
+     799,
+     1427,
+     114,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "título",
+    "texto": "Pedidos de orçamento",
+    "regiao": "conteúdo",
+    "caixa": [
+     360,
+     1428,
+     426,
+     22
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Ver planos",
+    "regiao": "conteúdo",
+    "caixa": [
+     799,
+     1517,
+     114,
+     44
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "título",
+    "texto": "Links e páginas",
+    "regiao": "conteúdo",
+    "caixa": [
+     360,
+     1518,
+     426,
+     22
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   }
+  ],
+  "total": 29,
+  "W": 1280,
+  "H": 1716
+ }
+}

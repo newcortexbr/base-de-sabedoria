@@ -1,0 +1,1324 @@
+{
+ "rota": "/painel/noticias/[id]/editar",
+ "url": "/painel/noticias/1/editar",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    16,
+    207,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver portal",
+   "regiao": "topo",
+   "caixa": [
+    1147,
+    16,
+    109,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    18,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Editar: Notícia QA teste",
+   "regiao": "topo",
+   "caixa": [
+    300,
+    19,
+    200,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    63,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    97,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Conteúdo",
+   "regiao": "conteúdo",
+   "caixa": [
+    320,
+    111,
+    604,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Publicação",
+   "regiao": "conteúdo",
+   "caixa": [
+    988,
+    111,
+    248,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    163,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Notícia QA teste",
+   "regiao": "conteúdo",
+   "caixa": [
+    320,
+    171,
+    604,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Cadastrar Notícia",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    197,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Destaque na janela principal",
+   "regiao": "conteúdo",
+   "caixa": [
+    988,
+    227,
+    229,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Listar Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    229,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    320,
+    249,
+    294,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    630,
+    249,
+    294,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Gerenciar Categorias",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    261,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Salvar",
+   "regiao": "conteúdo",
+   "caixa": [
+    988,
+    267,
+    158,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Cancelar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1154,
+    267,
+    82,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Gerenciar Subcategorias",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    293,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Autor",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    325,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Jornalistas",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    357,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Foto de Capa",
+   "regiao": "conteúdo",
+   "caixa": [
+    988,
+    361,
+    248,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    393,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    427,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    461,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Negrito",
+   "regiao": "conteúdo",
+   "caixa": [
+    329,
+    491,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Itálico",
+   "regiao": "conteúdo",
+   "caixa": [
+    363,
+    491,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sublinhado",
+   "regiao": "conteúdo",
+   "caixa": [
+    397,
+    491,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Riscado",
+   "regiao": "conteúdo",
+   "caixa": [
+    431,
+    491,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Subtítulo",
+   "regiao": "conteúdo",
+   "caixa": [
+    472,
+    491,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Subtítulo menor",
+   "regiao": "conteúdo",
+   "caixa": [
+    506,
+    491,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Citação",
+   "regiao": "conteúdo",
+   "caixa": [
+    540,
+    491,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Lista",
+   "regiao": "conteúdo",
+   "caixa": [
+    581,
+    491,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Lista numerada",
+   "regiao": "conteúdo",
+   "caixa": [
+    615,
+    491,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Alinhar à esquerda",
+   "regiao": "conteúdo",
+   "caixa": [
+    656,
+    491,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Centralizar",
+   "regiao": "conteúdo",
+   "caixa": [
+    690,
+    491,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Alinhar à direita",
+   "regiao": "conteúdo",
+   "caixa": [
+    724,
+    491,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Cor do texto",
+   "regiao": "conteúdo",
+   "caixa": [
+    765,
+    491,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marca-texto",
+   "regiao": "conteúdo",
+   "caixa": [
+    799,
+    491,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Inserir link",
+   "regiao": "conteúdo",
+   "caixa": [
+    840,
+    491,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vídeo do YouTube",
+   "regiao": "conteúdo",
+   "caixa": [
+    874,
+    491,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    495,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Limpar formatação",
+   "regiao": "conteúdo",
+   "caixa": [
+    329,
+    525,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Desfazer",
+   "regiao": "conteúdo",
+   "caixa": [
+    370,
+    525,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Refazer",
+   "regiao": "conteúdo",
+   "caixa": [
+    404,
+    525,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    529,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    563,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    597,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    631,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    665,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    699,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    765,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    988,
+    769,
+    248,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    799,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de FunçõesDiga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    800,
+    255,
+    50
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Falar com o suporte no WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    1200,
+    820,
+    56,
+    56
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    833,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    988,
+    843,
+    248,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "··",
+   "regiao": "menu lateral",
+   "caixa": [
+    16,
+    858,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    859,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    867,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    933,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "SEO",
+   "regiao": "conteúdo",
+   "caixa": [
+    988,
+    937,
+    248,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Digite e pressione Enter ou vírgula...",
+   "regiao": "conteúdo",
+   "caixa": [
+    333,
+    956,
+    578,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    967,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Deixe em branco para usar o título da notícia",
+   "regiao": "conteúdo",
+   "caixa": [
+    988,
+    993,
+    248,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    1001,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "",
+   "regiao": "conteúdo",
+   "caixa": [
+    320,
+    1027,
+    604,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Deixe em branco para usar a chamada",
+   "regiao": "conteúdo",
+   "caixa": [
+    988,
+    1067,
+    248,
+    78
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Categorização",
+   "regiao": "conteúdo",
+   "caixa": [
+    320,
+    1121,
+    604,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Categoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    320,
+    1181,
+    294,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    630,
+    1181,
+    294,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "gerado a partir do título",
+   "regiao": "conteúdo",
+   "caixa": [
+    988,
+    1188,
+    248,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Nova categoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    320,
+    1225,
+    128,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Nova subcategoria",
+   "regiao": "conteúdo",
+   "caixa": [
+    630,
+    1225,
+    149,
+    30
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  1306
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "grandevix (local)",
+    "regiao": "menu lateral",
+    "caixa": [
+     14,
+     16,
+     207,
+     19
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "link",
+    "texto": "Ver portal",
+    "regiao": "topo",
+    "caixa": [
+     1147,
+     16,
+     109,
+     34
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à direita"
+   },
+   {
+    "tipo": "menu",
+    "texto": "29 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Cadastrar Notícia · Listar Notícias · Gerenciar Categorias · Gerenciar Subcategorias · Autor · Jornalistas · Notícias Automáticas · Guia Comercial · Vagas de Emprego · Classificados …",
+    "regiao": "menu lateral",
+    "caixa": [
+     10,
+     18,
+     255,
+     1017
+    ],
+    "nota": "lista de 29 itens em coluna",
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Editar: Notícia QA teste",
+    "regiao": "topo",
+    "caixa": [
+     300,
+     19,
+     200,
+     28
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Conteúdo",
+    "regiao": "conteúdo",
+    "caixa": [
+     320,
+     111,
+     604,
+     20
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "título",
+    "texto": "Publicação",
+    "regiao": "conteúdo",
+    "caixa": [
+     988,
+     111,
+     248,
+     20
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Notícia QA teste",
+    "regiao": "conteúdo",
+    "caixa": [
+     320,
+     171,
+     604,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “Conteúdo”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Destaque na janela principal",
+    "regiao": "conteúdo",
+    "caixa": [
+     988,
+     227,
+     229,
+     20
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     320,
+     249,
+     294,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “Notícia QA teste”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     630,
+     249,
+     294,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “Notícia QA teste”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Salvar",
+    "regiao": "conteúdo",
+    "caixa": [
+     988,
+     267,
+     158,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Destaque na janela principal”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Cancelar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1154,
+     267,
+     82,
+     38
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Destaque na janela principal”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Foto de Capa",
+    "regiao": "conteúdo",
+    "caixa": [
+     988,
+     361,
+     248,
+     20
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Negrito (e outros 18 parecidos)",
+    "regiao": "conteúdo",
+    "caixa": [
+     329,
+     491,
+     32,
+     32
+    ],
+    "nota": "repetido ×19, um sob o outro",
+    "desc": "no meio da tela, à esquerda"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     988,
+     769,
+     248,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "link",
+    "texto": "Falar com o suporte no WhatsApp",
+    "regiao": "conteúdo",
+    "caixa": [
+     1200,
+     820,
+     56,
+     56
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     988,
+     843,
+     248,
+     38
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "selo",
+    "texto": "··",
+    "regiao": "menu lateral",
+    "caixa": [
+     16,
+     858,
+     32,
+     32
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "SEO",
+    "regiao": "conteúdo",
+    "caixa": [
+     988,
+     937,
+     248,
+     20
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Digite e pressione Enter ou vírgula...",
+    "regiao": "conteúdo",
+    "caixa": [
+     333,
+     956,
+     578,
+     22
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Deixe em branco para usar o título da notícia",
+    "regiao": "conteúdo",
+    "caixa": [
+     988,
+     993,
+     248,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “SEO”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "",
+    "regiao": "conteúdo",
+    "caixa": [
+     320,
+     1027,
+     604,
+     38
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro, logo abaixo de “Digite e pressione Enter ou vírgula”"
+   },
+   {
+    "tipo": "campo de texto longo",
+    "texto": "Deixe em branco para usar a chamada",
+    "regiao": "conteúdo",
+    "caixa": [
+     988,
+     1067,
+     248,
+     78
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), à direita, logo abaixo de “Deixe em branco para usar o título ”"
+   },
+   {
+    "tipo": "título",
+    "texto": "Categorização",
+    "regiao": "conteúdo",
+    "caixa": [
+     320,
+     1121,
+     604,
+     20
+    ],
+    "linha": 0,
+    "desc": "mais abaixo (rolando a página), ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Categoria",
+    "regiao": "conteúdo",
+    "caixa": [
+     320,
+     1181,
+     294,
+     38
+    ],
+    "linha": 0,
+    "desc": "no fim da página, ao centro, logo abaixo de “Categorização”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Subcategoria",
+    "regiao": "conteúdo",
+    "caixa": [
+     630,
+     1181,
+     294,
+     38
+    ],
+    "linha": 0,
+    "desc": "no fim da página, ao centro, logo abaixo de “Categorização”"
+   },
+   {
+    "tipo": "campo",
+    "texto": "gerado a partir do título",
+    "regiao": "conteúdo",
+    "caixa": [
+     988,
+     1188,
+     248,
+     38
+    ],
+    "linha": 0,
+    "desc": "no fim da página, à direita, logo abaixo de “Deixe em branco para usar a chamada”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Nova categoria",
+    "regiao": "conteúdo",
+    "caixa": [
+     320,
+     1225,
+     128,
+     30
+    ],
+    "linha": 0,
+    "desc": "no fim da página, à esquerda, logo abaixo de “Categoria”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Nova subcategoria",
+    "regiao": "conteúdo",
+    "caixa": [
+     630,
+     1225,
+     149,
+     30
+    ],
+    "linha": 0,
+    "desc": "no fim da página, ao centro, logo abaixo de “Subcategoria”"
+   }
+  ],
+  "total": 29,
+  "W": 1280,
+  "H": 1306
+ }
+}

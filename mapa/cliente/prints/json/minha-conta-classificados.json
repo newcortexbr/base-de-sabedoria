@@ -1,0 +1,573 @@
+{
+ "rota": "/minha-conta/classificados",
+ "url": "/minha-conta/classificados",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "Classificados",
+   "regiao": "conteúdo",
+   "caixa": [
+    382,
+    46,
+    254,
+    39
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Novo anúncio",
+   "regiao": "conteúdo",
+   "caixa": [
+    1075,
+    55,
+    147,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    96,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Sair do grátis",
+   "regiao": "conteúdo",
+   "caixa": [
+    1095,
+    170,
+    134,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Guia Comercial",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    175,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    219,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    263,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Classificados",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    307,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Todos1",
+   "regiao": "conteúdo",
+   "caixa": [
+    518,
+    383,
+    74,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Ativo1",
+   "regiao": "conteúdo",
+   "caixa": [
+    598,
+    383,
+    68,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Pausado0",
+   "regiao": "conteúdo",
+   "caixa": [
+    672,
+    383,
+    89,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Aguardando aprovação0",
+   "regiao": "conteúdo",
+   "caixa": [
+    767,
+    383,
+    177,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Reprovado0",
+   "regiao": "conteúdo",
+   "caixa": [
+    949,
+    383,
+    102,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vendido0",
+   "regiao": "conteúdo",
+   "caixa": [
+    1058,
+    383,
+    86,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Encerrado0",
+   "regiao": "conteúdo",
+   "caixa": [
+    1149,
+    383,
+    99,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha empresa",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    386,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Meus anúncios",
+   "regiao": "conteúdo",
+   "caixa": [
+    288,
+    388,
+    130,
+    27
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Planos e assinaturas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    430,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Sofa QA EditadoAtivo",
+   "regiao": "conteúdo",
+   "caixa": [
+    403,
+    456,
+    592,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver Sofa QA Editado no site",
+   "regiao": "conteúdo",
+   "caixa": [
+    1009,
+    458,
+    40,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Editar Sofa QA Editado",
+   "regiao": "conteúdo",
+   "caixa": [
+    1055,
+    458,
+    40,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Pausar Sofa QA Editado",
+   "regiao": "conteúdo",
+   "caixa": [
+    1101,
+    458,
+    40,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Marcar Sofa QA Editado como vendido",
+   "regiao": "conteúdo",
+   "caixa": [
+    1147,
+    458,
+    40,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Excluir Sofa QA Editado",
+   "regiao": "conteúdo",
+   "caixa": [
+    1193,
+    458,
+    40,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Segurança",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    474,
+    227,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu",
+   "caixa": [
+    197,
+    838,
+    44,
+    44
+   ],
+   "linha": 0,
+   "agrupado": true
+  }
+ ],
+ "full": [
+  1280,
+  900
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "Classificados",
+    "regiao": "conteúdo",
+    "caixa": [
+     382,
+     46,
+     254,
+     39
+    ],
+    "linha": 0,
+    "desc": "no topo da página, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Novo anúncio",
+    "regiao": "conteúdo",
+    "caixa": [
+     1075,
+     55,
+     147,
+     44
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à direita"
+   },
+   {
+    "tipo": "menu/links",
+    "texto": "9 itens: Início · Guia Comercial · Vagas de Emprego · Banners Publicitários · Classificados · Minha empresa · Planos e assinaturas · Segurança · Sair",
+    "regiao": "menu",
+    "caixa": [
+     14,
+     96,
+     227,
+     786
+    ],
+    "nota": "lista de 9 itens em coluna",
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "link",
+    "texto": "Sair do grátis",
+    "regiao": "conteúdo",
+    "caixa": [
+     1095,
+     170,
+     134,
+     44
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Todos1",
+    "regiao": "conteúdo",
+    "caixa": [
+     518,
+     383,
+     74,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Ativo1",
+    "regiao": "conteúdo",
+    "caixa": [
+     598,
+     383,
+     68,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Pausado0",
+    "regiao": "conteúdo",
+    "caixa": [
+     672,
+     383,
+     89,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Aguardando aprovação0",
+    "regiao": "conteúdo",
+    "caixa": [
+     767,
+     383,
+     177,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Reprovado0",
+    "regiao": "conteúdo",
+    "caixa": [
+     949,
+     383,
+     102,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Vendido0",
+    "regiao": "conteúdo",
+    "caixa": [
+     1058,
+     383,
+     86,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Encerrado0",
+    "regiao": "conteúdo",
+    "caixa": [
+     1149,
+     383,
+     99,
+     36
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "título",
+    "texto": "Meus anúncios",
+    "regiao": "conteúdo",
+    "caixa": [
+     288,
+     388,
+     130,
+     27
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Sofa QA EditadoAtivo",
+    "regiao": "conteúdo",
+    "caixa": [
+     403,
+     456,
+     592,
+     23
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "link",
+    "texto": "Ver Sofa QA Editado no site",
+    "regiao": "conteúdo",
+    "caixa": [
+     1009,
+     458,
+     40,
+     40
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "link",
+    "texto": "Editar Sofa QA Editado",
+    "regiao": "conteúdo",
+    "caixa": [
+     1055,
+     458,
+     40,
+     40
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Pausar Sofa QA Editado",
+    "regiao": "conteúdo",
+    "caixa": [
+     1101,
+     458,
+     40,
+     40
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Vendido0”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Marcar Sofa QA Editado como vendido",
+    "regiao": "conteúdo",
+    "caixa": [
+     1147,
+     458,
+     40,
+     40
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Encerrado0”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Excluir Sofa QA Editado",
+    "regiao": "conteúdo",
+    "caixa": [
+     1193,
+     458,
+     40,
+     40
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita, logo abaixo de “Encerrado0”"
+   }
+  ],
+  "total": 18,
+  "W": 1280,
+  "H": 900
+ }
+}

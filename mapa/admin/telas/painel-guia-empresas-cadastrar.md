@@ -1,0 +1,55 @@
+# /painel/guia/empresas/cadastrar (`.../cadastrar/page.tsx`, 17 linhas)
+- gate: módulo `guia` (prefixo `/painel/guia`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
+- permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
+- faz: `<EmpresaEditor modo="criar" />` (`components/painel/EmpresaEditor.tsx`, 1701 linhas).
+- campos principais: Nome da empresa, Categoria, Subcategoria (obrigatória: é por ela que chegam pedidos de orçamento, :712), Plano, Status, Descrição, Telefone, WhatsApp, E-mail, Site, Instagram, Facebook, Endereço (`SeletorDeLocal`), Comodidades, Formas de pagamento, horários, fotos, busca no Google (`BuscaNoGoogle`/`FotosDoGoogle`), cupom (código, desconto, validade, foto), link de cardápio/delivery/reserva, acesso do proprietário.
+- ações: salvar (cria empresa, depois horários :633 e fotos :642 em chamadas separadas), criar acesso do proprietário (:816), importar ficha e fotos do Google.
+- APIs: `guia.categorias.listar`, `guia.planos.listar`, `guia.config.get`, `guia.config.google.get` (:337-342), `guia.google.buscar|ficha|importarFotos`, `guia.empresas.criarAcesso`, `guia.horarios.salvar`, `guia.fotos.criar`.
+- estados: módulo Guia desligado ou erro na carga: `mensagemErroCarregarEmpresa(await checarModuloGuiaAtivo())` (:357); validações em português (:712-729).
+- problemas: hipótese — empresa criada, mas horários ou fotos falham em chamadas seguintes (:633,642): há tratamento parcial, conferir mensagem. fato — mistura cupom no editor da empresa; cupons têm gate próprio (`cupons`), então o campo existe mesmo com Cupons desligado (hipótese a confirmar).
+- admin vs cliente: equivale à ficha do cliente (`/minha-conta/guia`). O admin tem em extra: escolher plano, status, proprietário/gestores (`listarGestores` :384, `removerGestor` :606), criar login. O cliente tem em extra: delivery/áreas, layout do conteúdo, pagamento do plano.
+
+## posições na tela (print de 2026-10-16, 1280x900)
+- print: [painel-guia-empresas-cadastrar.png](../prints/painel-guia-empresas-cadastrar.png) · dados brutos: [json](../prints/json/painel-guia-empresas-cadastrar.json)
+- aberta em `/painel/guia/empresas/cadastrar`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)
+- [título] "grandevix (local)" — menu lateral, no topo da página, à esquerda (14,16,207,19)
+- [menu] "27 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Notícias Automáticas · Guia Comercial · Listar Empresas · Gerenciar Categorias · Gerenciar Subcategorias · Cupons de Desconto · Vagas de Emprego · Classificados · Guia Turístico / Eventos · Artigos …" — menu lateral, no topo da página, à esquerda (lista de 27 itens em coluna) (10,18,255,953)
+- [título] "Guia Comercial — Cadastrar Empresa" — topo, no topo da página, ao centro (300,19,325,28)
+- [título] "Dados da Empresa" — conteúdo, na parte de cima, ao centro (324,115,720,20)
+- [campo] "Nome da empresa" — conteúdo, na parte de cima, ao centro, logo abaixo de “Dados da Empresa” (324,175,720,38)
+- [título] "Classificação" — conteúdo, no meio da tela, ao centro (324,430,720,20)
+- [campo] "Categoria" — conteúdo, no meio da tela, ao centro, logo abaixo de “Classificação” (324,490,229,38)
+- [campo] "Subcategoria" — conteúdo, no meio da tela, ao centro, logo abaixo de “Classificação” (569,490,229,38)
+- [título] "Localização" — conteúdo, no meio da tela, ao centro (324,676,720,20)
+- [campo] "00000-000" — conteúdo, no meio da tela, ao centro, logo abaixo de “Localização” (324,736,352,38)
+- [campo] "Cidade" — conteúdo, no meio da tela, ao centro, logo abaixo de “00000-000” (324,834,352,38)
+- [campo] "Bairro" — conteúdo, no meio da tela, à direita (692,834,352,38)
+- [campo] "" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “Cidade” (324,912,720,38)
+- [título] "Contato" — conteúdo, mais abaixo (rolando a página), ao centro (324,1042,720,20)
+- [campo] "(27) 3232-1234" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “Contato” (324,1102,352,38)
+- [campo] "(27) 99999-9999" — conteúdo, mais abaixo (rolando a página), à direita, logo abaixo de “Contato” (771,1103,273,38)
+- [campo] "@usuario ou usuario" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “(27) 3232-1234” (324,1182,352,38)
+- [campo] "https://facebook.com/suapagina" — conteúdo, mais abaixo (rolando a página), à direita, logo abaixo de “(27) 99999-9999” (692,1182,352,38)
+- [campo] "contato@empresa.com.br" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “@usuario ou usuario” (324,1260,352,38)
+- [campo] "https://..." — conteúdo, mais abaixo (rolando a página), à direita, logo abaixo de “https://facebook.com/suapagina” (692,1260,352,38)
+- [título] "Logo e capavazio" — conteúdo, mais abaixo (rolando a página), ao centro (300,1366,768,68)
+- [botão] "Logo e capavazio" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “contato@empresa.com.br” (300,1366,768,68)
+- [título] "Cupom de Descontovazio" — conteúdo, mais abaixo (rolando a página), ao centro (300,1458,768,68)
+- [botão] "Cupom de Descontovazio" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “Logo e capavazio” (300,1458,768,68)
+- [título] "Botões de açãovazio" — conteúdo, mais abaixo (rolando a página), ao centro (300,1550,768,68)
+- [botão] "Botões de açãovazio" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “Cupom de Descontovazio” (300,1550,768,68)
+- [título] "Comodidades & Pagamentovazio" — conteúdo, mais abaixo (rolando a página), ao centro (300,1642,768,68)
+- [botão] "Comodidades & Pagamentovazio" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “Botões de açãovazio” (300,1642,768,68)
+- [título] "Horários de Funcionamentovazio" — conteúdo, mais abaixo (rolando a página), ao centro (300,1734,768,68)
+- [botão] "Horários de Funcionamentovazio" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “Comodidades & Pagamentovazio” (300,1734,768,68)
+- [título] "Galeria de Fotosvazio" — conteúdo, mais abaixo (rolando a página), ao centro (300,1826,768,68)
+- [botão] "Galeria de Fotosvazio" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “Horários de Funcionamentovazio” (300,1826,768,68)
+- [título] "Acesso à Área do clientevazio" — conteúdo, mais abaixo (rolando a página), ao centro (300,1918,768,68)
+- [botão] "Acesso à Área do clientevazio" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “Galeria de Fotosvazio” (300,1918,768,68)
+- [título] "SEO" — conteúdo, mais abaixo (rolando a página), ao centro (325,2035,718,20)
+- [campo] "Deixe em branco para usar o nome da empresa" — conteúdo, mais abaixo (rolando a página), ao centro (325,2167,718,38)
+- [campo de texto longo] "Deixe em branco para usar a descrição da empresa" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “Deixe em branco para usar o nome da” (325,2245,718,78)
+- [título] "Conteúdo da ficha" — conteúdo, mais abaixo (rolando a página), ao centro (324,2403,720,20)
+- [botão] "Gerenciar" — conteúdo, mais abaixo (rolando a página), ao centro (341,2536,195,44)
+- [botão] "Gerenciar" — conteúdo, mais abaixo (rolando a página), ao centro (586,2536,195,44)
+- (+7 itens menores omitidos; veja o json)

@@ -1,0 +1,830 @@
+{
+ "rota": "/painel/financeiro",
+ "url": "/painel/financeiro",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    16,
+    207,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver portal",
+   "regiao": "topo",
+   "caixa": [
+    1142,
+    16,
+    114,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    18,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Financeiro",
+   "regiao": "topo",
+   "caixa": [
+    300,
+    19,
+    91,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    63,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Financeiro",
+   "regiao": "conteúdo",
+   "caixa": [
+    308,
+    91,
+    560,
+    39
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    97,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Cobrança automática desligada",
+   "regiao": "conteúdo",
+   "caixa": [
+    991,
+    134,
+    257,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    163,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    197,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Você deve a parceirosR$ 0,000 parceiros · Ver e pagar",
+   "regiao": "conteúdo",
+   "caixa": [
+    1016,
+    220,
+    232,
+    96
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    231,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "R$ 0,000 vencidas",
+   "regiao": "conteúdo",
+   "caixa": [
+    308,
+    238,
+    224,
+    78
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "R$ 0,000 a vencer",
+   "regiao": "conteúdo",
+   "caixa": [
+    544,
+    238,
+    224,
+    78
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "R$ 0,000 recebidas neste mês",
+   "regiao": "conteúdo",
+   "caixa": [
+    780,
+    238,
+    224,
+    78
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    265,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    299,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    333,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "A vencer (0)",
+   "regiao": "conteúdo",
+   "caixa": [
+    313,
+    345,
+    100,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vencidas (0)",
+   "regiao": "conteúdo",
+   "caixa": [
+    415,
+    345,
+    102,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Pagas (0)",
+   "regiao": "conteúdo",
+   "caixa": [
+    519,
+    345,
+    84,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Canceladas (0)",
+   "regiao": "conteúdo",
+   "caixa": [
+    605,
+    345,
+    118,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    367,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    401,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "lista de opções",
+   "texto": "Módulo",
+   "regiao": "conteúdo",
+   "caixa": [
+    783,
+    424,
+    167,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "De",
+   "regiao": "conteúdo",
+   "caixa": [
+    960,
+    424,
+    139,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Até",
+   "regiao": "conteúdo",
+   "caixa": [
+    1109,
+    424,
+    139,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Buscar",
+   "regiao": "conteúdo",
+   "caixa": [
+    728,
+    426,
+    40,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    435,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Buscar por cliente",
+   "regiao": "conteúdo",
+   "caixa": [
+    347,
+    436,
+    373,
+    21
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    469,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    503,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    569,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    603,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    637,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    671,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    737,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    771,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de FunçõesDiga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    800,
+    255,
+    50
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    805,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Falar com o suporte no WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    1200,
+    820,
+    56,
+    56
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "··",
+   "regiao": "menu lateral",
+   "caixa": [
+    16,
+    858,
+    32,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    859,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  }
+ ],
+ "full": [
+  1280,
+  900
+ ],
+ "titulo": "grandevix (local)",
+ "resumo": {
+  "linhas": [
+   {
+    "tipo": "título",
+    "texto": "grandevix (local)",
+    "regiao": "menu lateral",
+    "caixa": [
+     14,
+     16,
+     207,
+     19
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "link",
+    "texto": "Ver portal",
+    "regiao": "topo",
+    "caixa": [
+     1142,
+     16,
+     114,
+     34
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à direita"
+   },
+   {
+    "tipo": "menu",
+    "texto": "23 itens: Recolher menu · Painel · Aprovações e Denúncias · Notícias · Notícias Automáticas · Guia Comercial · Vagas de Emprego · Classificados · Guia Turístico / Eventos · Artigos · Orçamentos Online · A Voz do Povo · Melhores da Cidade · Banners Publicitários …",
+    "regiao": "menu lateral",
+    "caixa": [
+     10,
+     18,
+     255,
+     871
+    ],
+    "nota": "lista de 23 itens em coluna",
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Financeiro",
+    "regiao": "topo",
+    "caixa": [
+     300,
+     19,
+     91,
+     28
+    ],
+    "linha": 0,
+    "desc": "no topo da página, à esquerda"
+   },
+   {
+    "tipo": "título",
+    "texto": "Financeiro",
+    "regiao": "conteúdo",
+    "caixa": [
+     308,
+     91,
+     560,
+     39
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Cobrança automática desligada",
+    "regiao": "conteúdo",
+    "caixa": [
+     991,
+     134,
+     257,
+     44
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Você deve a parceirosR$ 0,000 parceiros · Ver e pagar",
+    "regiao": "conteúdo",
+    "caixa": [
+     1016,
+     220,
+     232,
+     96
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Cobrança automática desligada”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "R$ 0,000 vencidas",
+    "regiao": "conteúdo",
+    "caixa": [
+     308,
+     238,
+     224,
+     78
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda"
+   },
+   {
+    "tipo": "botão",
+    "texto": "R$ 0,000 a vencer",
+    "regiao": "conteúdo",
+    "caixa": [
+     544,
+     238,
+     224,
+     78
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro"
+   },
+   {
+    "tipo": "botão",
+    "texto": "R$ 0,000 recebidas neste mês",
+    "regiao": "conteúdo",
+    "caixa": [
+     780,
+     238,
+     224,
+     78
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à direita, logo abaixo de “Cobrança automática desligada”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "A vencer (0)",
+    "regiao": "conteúdo",
+    "caixa": [
+     313,
+     345,
+     100,
+     44
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, à esquerda, logo abaixo de “R$ 0,000 vencidas”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Vencidas (0)",
+    "regiao": "conteúdo",
+    "caixa": [
+     415,
+     345,
+     102,
+     44
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “R$ 0,000 vencidas”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Pagas (0)",
+    "regiao": "conteúdo",
+    "caixa": [
+     519,
+     345,
+     84,
+     44
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “R$ 0,000 vencidas”"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Canceladas (0)",
+    "regiao": "conteúdo",
+    "caixa": [
+     605,
+     345,
+     118,
+     44
+    ],
+    "linha": 0,
+    "desc": "na parte de cima, ao centro, logo abaixo de “R$ 0,000 a vencer”"
+   },
+   {
+    "tipo": "lista de opções",
+    "texto": "Módulo",
+    "regiao": "conteúdo",
+    "caixa": [
+     783,
+     424,
+     167,
+     44
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "De",
+    "regiao": "conteúdo",
+    "caixa": [
+     960,
+     424,
+     139,
+     44
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Até",
+    "regiao": "conteúdo",
+    "caixa": [
+     1109,
+     424,
+     139,
+     44
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "botão",
+    "texto": "Buscar",
+    "regiao": "conteúdo",
+    "caixa": [
+     728,
+     426,
+     40,
+     40
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro"
+   },
+   {
+    "tipo": "campo",
+    "texto": "Buscar por cliente",
+    "regiao": "conteúdo",
+    "caixa": [
+     347,
+     436,
+     373,
+     21
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, ao centro, logo abaixo de “A vencer (0)”"
+   },
+   {
+    "tipo": "link",
+    "texto": "Falar com o suporte no WhatsApp",
+    "regiao": "conteúdo",
+    "caixa": [
+     1200,
+     820,
+     56,
+     56
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à direita"
+   },
+   {
+    "tipo": "selo",
+    "texto": "··",
+    "regiao": "menu lateral",
+    "caixa": [
+     16,
+     858,
+     32,
+     32
+    ],
+    "linha": 0,
+    "desc": "no meio da tela, à esquerda"
+   }
+  ],
+  "total": 21,
+  "W": 1280,
+  "H": 900
+ }
+}
