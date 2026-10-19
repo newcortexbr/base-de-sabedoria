@@ -10,6 +10,8 @@ tipo_problema: cadastro
 status: rascunho-documental
 revisado_em: 2026-10-15
 validacao: docs-e-codigo
+videos:
+  - JdJr7pXVx98
 ---
 
 ## objetivo

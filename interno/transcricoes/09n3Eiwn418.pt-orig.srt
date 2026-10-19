@@ -1,0 +1,1285 @@
+1
+00:00:00,080 --> 00:00:01,949
+ 
+As categorias do guia comercial
+
+2
+00:00:01,949 --> 00:00:01,959
+As categorias do guia comercial
+ 
+
+3
+00:00:01,959 --> 00:00:04,309
+As categorias do guia comercial
+organizam as empresas do seu portal e
+
+4
+00:00:04,309 --> 00:00:04,319
+organizam as empresas do seu portal e
+ 
+
+5
+00:00:04,319 --> 00:00:06,749
+organizam as empresas do seu portal e
+mais do que isso, são elas que decidem o
+
+6
+00:00:06,749 --> 00:00:06,759
+mais do que isso, são elas que decidem o
+ 
+
+7
+00:00:06,759 --> 00:00:08,910
+mais do que isso, são elas que decidem o
+que cada empresa pode mostrar na página
+
+8
+00:00:08,910 --> 00:00:08,920
+que cada empresa pode mostrar na página
+ 
+
+9
+00:00:08,920 --> 00:00:11,190
+que cada empresa pode mostrar na página
+dela, como cardápio, delivery ou
+
+10
+00:00:11,190 --> 00:00:11,200
+dela, como cardápio, delivery ou
+ 
+
+11
+00:00:11,200 --> 00:00:14,629
+dela, como cardápio, delivery ou
+quartos. No painel, abra guia comercial.
+
+12
+00:00:14,629 --> 00:00:14,639
+quartos. No painel, abra guia comercial.
+ 
+
+13
+00:00:14,639 --> 00:00:17,230
+quartos. No painel, abra guia comercial.
+Aqui estão listar empresas, gerenciar
+
+14
+00:00:17,230 --> 00:00:17,240
+Aqui estão listar empresas, gerenciar
+ 
+
+15
+00:00:17,240 --> 00:00:20,150
+Aqui estão listar empresas, gerenciar
+categorias, gerenciar subcategorias e
+
+16
+00:00:20,150 --> 00:00:20,160
+categorias, gerenciar subcategorias e
+ 
+
+17
+00:00:20,160 --> 00:00:22,509
+categorias, gerenciar subcategorias e
+cupons de desconto. Vamos começar por
+
+18
+00:00:22,509 --> 00:00:22,519
+cupons de desconto. Vamos começar por
+ 
+
+19
+00:00:22,519 --> 00:00:25,269
+cupons de desconto. Vamos começar por
+gerenciar categorias. A lista mostra
+
+20
+00:00:25,269 --> 00:00:25,279
+gerenciar categorias. A lista mostra
+ 
+
+21
+00:00:25,279 --> 00:00:27,470
+gerenciar categorias. A lista mostra
+cada categoria com o ícone, o que ela
+
+22
+00:00:27,470 --> 00:00:27,480
+cada categoria com o ícone, o que ela
+ 
+
+23
+00:00:27,480 --> 00:00:29,749
+cada categoria com o ícone, o que ela
+oferece, quantas empresas usam, se
+
+24
+00:00:29,749 --> 00:00:29,759
+oferece, quantas empresas usam, se
+ 
+
+25
+00:00:29,759 --> 00:00:32,510
+oferece, quantas empresas usam, se
+aparece no orçamento e se está ativa. Em
+
+26
+00:00:32,510 --> 00:00:32,520
+aparece no orçamento e se está ativa. Em
+ 
+
+27
+00:00:32,520 --> 00:00:35,229
+aparece no orçamento e se está ativa. Em
+cada linha você pode editar ou excluir.
+
+28
+00:00:35,229 --> 00:00:35,239
+cada linha você pode editar ou excluir.
+ 
+
+29
+00:00:35,239 --> 00:00:37,670
+cada linha você pode editar ou excluir.
+Para criar uma categoria, clique em nova
+
+30
+00:00:37,670 --> 00:00:37,680
+Para criar uma categoria, clique em nova
+ 
+
+31
+00:00:37,680 --> 00:00:40,310
+Para criar uma categoria, clique em nova
+categoria, dê um nome e escolha um ícone
+
+32
+00:00:40,310 --> 00:00:40,320
+categoria, dê um nome e escolha um ícone
+ 
+
+33
+00:00:40,320 --> 00:00:42,670
+categoria, dê um nome e escolha um ícone
+na lista que já vem separada por tipo de
+
+34
+00:00:42,670 --> 00:00:42,680
+na lista que já vem separada por tipo de
+ 
+
+35
+00:00:42,680 --> 00:00:45,709
+na lista que já vem separada por tipo de
+negócio com busca. Marque ativa para a
+
+36
+00:00:45,709 --> 00:00:45,719
+negócio com busca. Marque ativa para a
+ 
+
+37
+00:00:45,719 --> 00:00:48,150
+negócio com busca. Marque ativa para a
+categoria aparecer no site e marque
+
+38
+00:00:48,150 --> 00:00:48,160
+categoria aparecer no site e marque
+ 
+
+39
+00:00:48,160 --> 00:00:50,029
+categoria aparecer no site e marque
+aparece no formulário de orçamento
+
+40
+00:00:50,029 --> 00:00:50,039
+aparece no formulário de orçamento
+ 
+
+41
+00:00:50,039 --> 00:00:52,229
+aparece no formulário de orçamento
+quando as empresas dela prestam serviço,
+
+42
+00:00:52,229 --> 00:00:52,239
+quando as empresas dela prestam serviço,
+ 
+
+43
+00:00:52,239 --> 00:00:54,389
+quando as empresas dela prestam serviço,
+como pintor ou eletricista. Para
+
+44
+00:00:54,389 --> 00:00:54,399
+como pintor ou eletricista. Para
+ 
+
+45
+00:00:54,399 --> 00:00:57,189
+como pintor ou eletricista. Para
+restaurantes e lojas, deixe desmarcado.
+
+46
+00:00:57,189 --> 00:00:57,199
+restaurantes e lojas, deixe desmarcado.
+ 
+
+47
+00:00:57,199 --> 00:00:59,549
+restaurantes e lojas, deixe desmarcado.
+Escolha também uma cor. Ela aparece no
+
+48
+00:00:59,549 --> 00:00:59,559
+Escolha também uma cor. Ela aparece no
+ 
+
+49
+00:00:59,559 --> 00:01:02,029
+Escolha também uma cor. Ela aparece no
+ícone da categoria em todo o portal.
+
+50
+00:01:02,029 --> 00:01:02,039
+ícone da categoria em todo o portal.
+ 
+
+51
+00:01:02,039 --> 00:01:04,229
+ícone da categoria em todo o portal.
+Agora, a parte mais importante desta
+
+52
+00:01:04,229 --> 00:01:04,239
+Agora, a parte mais importante desta
+ 
+
+53
+00:01:04,239 --> 00:01:06,830
+Agora, a parte mais importante desta
+tela. O que as empresas desta categoria
+
+54
+00:01:06,830 --> 00:01:06,840
+tela. O que as empresas desta categoria
+ 
+
+55
+00:01:06,840 --> 00:01:09,429
+tela. O que as empresas desta categoria
+oferecem? É aqui que você escolhe quais
+
+56
+00:01:09,429 --> 00:01:09,439
+oferecem? É aqui que você escolhe quais
+ 
+
+57
+00:01:09,439 --> 00:01:11,429
+oferecem? É aqui que você escolhe quais
+recursos as empresas dessa categoria
+
+58
+00:01:11,429 --> 00:01:11,439
+recursos as empresas dessa categoria
+ 
+
+59
+00:01:11,439 --> 00:01:13,910
+recursos as empresas dessa categoria
+terão na página delas. Cardápio para
+
+60
+00:01:13,910 --> 00:01:13,920
+terão na página delas. Cardápio para
+ 
+
+61
+00:01:13,920 --> 00:01:16,710
+terão na página delas. Cardápio para
+restaurante, bar e lanchonete. Delivery
+
+62
+00:01:16,710 --> 00:01:16,720
+restaurante, bar e lanchonete. Delivery
+ 
+
+63
+00:01:16,720 --> 00:01:19,070
+restaurante, bar e lanchonete. Delivery
+para quem aceita pedido pelo site. E
+
+64
+00:01:19,070 --> 00:01:19,080
+para quem aceita pedido pelo site. E
+ 
+
+65
+00:01:19,080 --> 00:01:21,190
+para quem aceita pedido pelo site. E
+quartos para hotel, pousada e
+
+66
+00:01:21,190 --> 00:01:21,200
+quartos para hotel, pousada e
+ 
+
+67
+00:01:21,200 --> 00:01:23,670
+quartos para hotel, pousada e
+hospedagem. Esses três você liga ou
+
+68
+00:01:23,670 --> 00:01:23,680
+hospedagem. Esses três você liga ou
+ 
+
+69
+00:01:23,680 --> 00:01:26,270
+hospedagem. Esses três você liga ou
+desliga conforme o tipo de negócio. Já
+
+70
+00:01:26,270 --> 00:01:26,280
+desliga conforme o tipo de negócio. Já
+ 
+
+71
+00:01:26,280 --> 00:01:29,109
+desliga conforme o tipo de negócio. Já
+serviços, equipe e catálogo de produtos
+
+72
+00:01:29,109 --> 00:01:29,119
+serviços, equipe e catálogo de produtos
+ 
+
+73
+00:01:29,119 --> 00:01:31,429
+serviços, equipe e catálogo de produtos
+valem para qualquer categoria, por isso
+
+74
+00:01:31,429 --> 00:01:31,439
+valem para qualquer categoria, por isso
+ 
+
+75
+00:01:31,439 --> 00:01:33,910
+valem para qualquer categoria, por isso
+já vem marcados e travados. Lembre que
+
+76
+00:01:33,910 --> 00:01:33,920
+já vem marcados e travados. Lembre que
+ 
+
+77
+00:01:33,920 --> 00:01:35,870
+já vem marcados e travados. Lembre que
+esses recursos dependem do plano da
+
+78
+00:01:35,870 --> 00:01:35,880
+esses recursos dependem do plano da
+ 
+
+79
+00:01:35,880 --> 00:01:37,950
+esses recursos dependem do plano da
+empresa. No plano grátis eles não
+
+80
+00:01:37,950 --> 00:01:37,960
+empresa. No plano grátis eles não
+ 
+
+81
+00:01:37,960 --> 00:01:39,990
+empresa. No plano grátis eles não
+aparecem. Por exemplo, criando a
+
+82
+00:01:39,990 --> 00:01:40,000
+aparecem. Por exemplo, criando a
+ 
+
+83
+00:01:40,000 --> 00:01:42,710
+aparecem. Por exemplo, criando a
+categoria pizzarias, marque cardápio e
+
+84
+00:01:42,710 --> 00:01:42,720
+categoria pizzarias, marque cardápio e
+ 
+
+85
+00:01:42,720 --> 00:01:44,870
+categoria pizzarias, marque cardápio e
+delivery. Assim, toda pizzaria
+
+86
+00:01:44,870 --> 00:01:44,880
+delivery. Assim, toda pizzaria
+ 
+
+87
+00:01:44,880 --> 00:01:47,230
+delivery. Assim, toda pizzaria
+cadastrada nela poderá montar o cardápio
+
+88
+00:01:47,230 --> 00:01:47,240
+cadastrada nela poderá montar o cardápio
+ 
+
+89
+00:01:47,240 --> 00:01:49,429
+cadastrada nela poderá montar o cardápio
+e receber pedidos pelo portal. Para
+
+90
+00:01:49,429 --> 00:01:49,439
+e receber pedidos pelo portal. Para
+ 
+
+91
+00:01:49,439 --> 00:01:51,510
+e receber pedidos pelo portal. Para
+mudar uma categoria que já existe,
+
+92
+00:01:51,510 --> 00:01:51,520
+mudar uma categoria que já existe,
+ 
+
+93
+00:01:51,520 --> 00:01:54,469
+mudar uma categoria que já existe,
+clique em editar. Veja restaurantes,
+
+94
+00:01:54,469 --> 00:01:54,479
+clique em editar. Veja restaurantes,
+ 
+
+95
+00:01:54,479 --> 00:01:56,789
+clique em editar. Veja restaurantes,
+cardápio e delivery marcados. E em
+
+96
+00:01:56,789 --> 00:01:56,799
+cardápio e delivery marcados. E em
+ 
+
+97
+00:01:56,799 --> 00:02:00,149
+cardápio e delivery marcados. E em
+hospedagem, só quartos. Atenção, se você
+
+98
+00:02:00,149 --> 00:02:00,159
+hospedagem, só quartos. Atenção, se você
+ 
+
+99
+00:02:00,159 --> 00:02:02,310
+hospedagem, só quartos. Atenção, se você
+desmarcar um recurso numa categoria que
+
+100
+00:02:02,310 --> 00:02:02,320
+desmarcar um recurso numa categoria que
+ 
+
+101
+00:02:02,320 --> 00:02:04,910
+desmarcar um recurso numa categoria que
+já tem empresas, o portal avisa quantas
+
+102
+00:02:04,910 --> 00:02:04,920
+já tem empresas, o portal avisa quantas
+ 
+
+103
+00:02:04,920 --> 00:02:07,389
+já tem empresas, o portal avisa quantas
+empresas serão afetadas. O conteúdo não
+
+104
+00:02:07,389 --> 00:02:07,399
+empresas serão afetadas. O conteúdo não
+ 
+
+105
+00:02:07,399 --> 00:02:10,070
+empresas serão afetadas. O conteúdo não
+é apagado, só deixa de aparecer no site
+
+106
+00:02:10,070 --> 00:02:10,080
+é apagado, só deixa de aparecer no site
+ 
+
+107
+00:02:10,080 --> 00:02:12,510
+é apagado, só deixa de aparecer no site
+e volta se você marcar de novo. Agora
+
+108
+00:02:12,510 --> 00:02:12,520
+e volta se você marcar de novo. Agora
+ 
+
+109
+00:02:12,520 --> 00:02:14,550
+e volta se você marcar de novo. Agora
+veja na prática como cada recurso
+
+110
+00:02:14,550 --> 00:02:14,560
+veja na prática como cada recurso
+ 
+
+111
+00:02:14,560 --> 00:02:17,390
+veja na prática como cada recurso
+aparece. Esta é a churrascaria gaúcha da
+
+112
+00:02:17,390 --> 00:02:17,400
+aparece. Esta é a churrascaria gaúcha da
+ 
+
+113
+00:02:17,400 --> 00:02:19,790
+aparece. Esta é a churrascaria gaúcha da
+categoria delivery. Repare nas abas
+
+114
+00:02:19,790 --> 00:02:19,800
+categoria delivery. Repare nas abas
+ 
+
+115
+00:02:19,800 --> 00:02:22,949
+categoria delivery. Repare nas abas
+sobre, cardápio, galeria e localização e
+
+116
+00:02:22,949 --> 00:02:22,959
+sobre, cardápio, galeria e localização e
+ 
+
+117
+00:02:22,959 --> 00:02:25,509
+sobre, cardápio, galeria e localização e
+nos botões fazer reserva e pedir pelo
+
+118
+00:02:25,509 --> 00:02:25,519
+nos botões fazer reserva e pedir pelo
+ 
+
+119
+00:02:25,519 --> 00:02:27,869
+nos botões fazer reserva e pedir pelo
+delivery online. Na página aparece o
+
+120
+00:02:27,869 --> 00:02:27,879
+delivery online. Na página aparece o
+ 
+
+121
+00:02:27,879 --> 00:02:30,270
+delivery online. Na página aparece o
+bloco cardápio digital com o número de
+
+122
+00:02:30,270 --> 00:02:30,280
+bloco cardápio digital com o número de
+ 
+
+123
+00:02:30,280 --> 00:02:33,150
+bloco cardápio digital com o número de
+sessões e itens e o botão ver cardápio
+
+124
+00:02:33,150 --> 00:02:33,160
+sessões e itens e o botão ver cardápio
+ 
+
+125
+00:02:33,160 --> 00:02:35,990
+sessões e itens e o botão ver cardápio
+completo. E este é o cardápio. Ele tem a
+
+126
+00:02:35,990 --> 00:02:36,000
+completo. E este é o cardápio. Ele tem a
+ 
+
+127
+00:02:36,000 --> 00:02:38,790
+completo. E este é o cardápio. Ele tem a
+capa e a logo da empresa, busca e as
+
+128
+00:02:38,790 --> 00:02:38,800
+capa e a logo da empresa, busca e as
+ 
+
+129
+00:02:38,800 --> 00:02:41,390
+capa e a logo da empresa, busca e as
+sessões em abas, como entradas, carnes
+
+130
+00:02:41,390 --> 00:02:41,400
+sessões em abas, como entradas, carnes
+ 
+
+131
+00:02:41,400 --> 00:02:44,030
+sessões em abas, como entradas, carnes
+na brasa, pratos, acompanhamentos,
+
+132
+00:02:44,030 --> 00:02:44,040
+na brasa, pratos, acompanhamentos,
+ 
+
+133
+00:02:44,040 --> 00:02:46,790
+na brasa, pratos, acompanhamentos,
+sobremesas e bebidas. Cada prato tem
+
+134
+00:02:46,790 --> 00:02:46,800
+sobremesas e bebidas. Cada prato tem
+ 
+
+135
+00:02:46,800 --> 00:02:49,470
+sobremesas e bebidas. Cada prato tem
+foto, descrição e preço. E pode ter
+
+136
+00:02:49,470 --> 00:02:49,480
+foto, descrição e preço. E pode ter
+ 
+
+137
+00:02:49,480 --> 00:02:52,190
+foto, descrição e preço. E pode ter
+selos como Mais pedido, recomendado,
+
+138
+00:02:52,190 --> 00:02:52,200
+selos como Mais pedido, recomendado,
+ 
+
+139
+00:02:52,200 --> 00:02:55,030
+selos como Mais pedido, recomendado,
+vegetariano ou novidade. Também dá para
+
+140
+00:02:55,030 --> 00:02:55,040
+vegetariano ou novidade. Também dá para
+ 
+
+141
+00:02:55,040 --> 00:02:57,190
+vegetariano ou novidade. Também dá para
+mostrar o preço antigo riscado numa
+
+142
+00:02:57,190 --> 00:02:57,200
+mostrar o preço antigo riscado numa
+ 
+
+143
+00:02:57,200 --> 00:02:59,390
+mostrar o preço antigo riscado numa
+promoção. O cardápio pode ter tema
+
+144
+00:02:59,390 --> 00:02:59,400
+promoção. O cardápio pode ter tema
+ 
+
+145
+00:02:59,400 --> 00:03:02,390
+promoção. O cardápio pode ter tema
+escuro ou claro. E no rodapé, os botões
+
+146
+00:03:02,390 --> 00:03:02,400
+escuro ou claro. E no rodapé, os botões
+ 
+
+147
+00:03:02,400 --> 00:03:04,869
+escuro ou claro. E no rodapé, os botões
+fazer meu pedido e chamar no WhatsApp
+
+148
+00:03:04,869 --> 00:03:04,879
+fazer meu pedido e chamar no WhatsApp
+ 
+
+149
+00:03:04,879 --> 00:03:07,830
+fazer meu pedido e chamar no WhatsApp
+levam o cliente direto à compra. Agora o
+
+150
+00:03:07,830 --> 00:03:07,840
+levam o cliente direto à compra. Agora o
+ 
+
+151
+00:03:07,840 --> 00:03:10,710
+levam o cliente direto à compra. Agora o
+delivery. Ao clicar em pedir, o cliente
+
+152
+00:03:10,710 --> 00:03:10,720
+delivery. Ao clicar em pedir, o cliente
+ 
+
+153
+00:03:10,720 --> 00:03:13,030
+delivery. Ao clicar em pedir, o cliente
+entra na loja da empresa com taxa e
+
+154
+00:03:13,030 --> 00:03:13,040
+entra na loja da empresa com taxa e
+ 
+
+155
+00:03:13,040 --> 00:03:15,229
+entra na loja da empresa com taxa e
+tempo de entrega. se está aberta agora,
+
+156
+00:03:15,229 --> 00:03:15,239
+tempo de entrega. se está aberta agora,
+ 
+
+157
+00:03:15,239 --> 00:03:17,309
+tempo de entrega. se está aberta agora,
+o cupom disponível e os produtos
+
+158
+00:03:17,309 --> 00:03:17,319
+o cupom disponível e os produtos
+ 
+
+159
+00:03:17,319 --> 00:03:19,670
+o cupom disponível e os produtos
+separados por categoria. Ao escolher um
+
+160
+00:03:19,670 --> 00:03:19,680
+separados por categoria. Ao escolher um
+ 
+
+161
+00:03:19,680 --> 00:03:21,509
+separados por categoria. Ao escolher um
+produto, ele monta o pedido com os
+
+162
+00:03:21,509 --> 00:03:21,519
+produto, ele monta o pedido com os
+ 
+
+163
+00:03:21,519 --> 00:03:23,390
+produto, ele monta o pedido com os
+adicionais, como cobertura e
+
+164
+00:03:23,390 --> 00:03:23,400
+adicionais, como cobertura e
+ 
+
+165
+00:03:23,400 --> 00:03:25,430
+adicionais, como cobertura e
+complementos, cada grupo com o seu
+
+166
+00:03:25,430 --> 00:03:25,440
+complementos, cada grupo com o seu
+ 
+
+167
+00:03:25,440 --> 00:03:27,630
+complementos, cada grupo com o seu
+limite de opções. O item vai para o
+
+168
+00:03:27,630 --> 00:03:27,640
+limite de opções. O item vai para o
+ 
+
+169
+00:03:27,640 --> 00:03:30,390
+limite de opções. O item vai para o
+carrinho com subtotal, taxa de entrega e
+
+170
+00:03:30,390 --> 00:03:30,400
+carrinho com subtotal, taxa de entrega e
+ 
+
+171
+00:03:30,400 --> 00:03:32,990
+carrinho com subtotal, taxa de entrega e
+total. Depois é só finalizar o pedido
+
+172
+00:03:32,990 --> 00:03:33,000
+total. Depois é só finalizar o pedido
+ 
+
+173
+00:03:33,000 --> 00:03:35,229
+total. Depois é só finalizar o pedido
+que chega para a empresa. Já na pousada
+
+174
+00:03:35,229 --> 00:03:35,239
+que chega para a empresa. Já na pousada
+ 
+
+175
+00:03:35,239 --> 00:03:37,990
+que chega para a empresa. Já na pousada
+do farol da categoria hospedagem aparece
+
+176
+00:03:37,990 --> 00:03:38,000
+do farol da categoria hospedagem aparece
+ 
+
+177
+00:03:38,000 --> 00:03:41,190
+do farol da categoria hospedagem aparece
+a aba quartos. Cada quarto ou suí tem
+
+178
+00:03:41,190 --> 00:03:41,200
+a aba quartos. Cada quarto ou suí tem
+ 
+
+179
+00:03:41,200 --> 00:03:44,390
+a aba quartos. Cada quarto ou suí tem
+fotos, descrição, comodidades, preço por
+
+180
+00:03:44,390 --> 00:03:44,400
+fotos, descrição, comodidades, preço por
+ 
+
+181
+00:03:44,400 --> 00:03:47,190
+fotos, descrição, comodidades, preço por
+noite com promoção e os botões reservar
+
+182
+00:03:47,190 --> 00:03:47,200
+noite com promoção e os botões reservar
+ 
+
+183
+00:03:47,200 --> 00:03:49,750
+noite com promoção e os botões reservar
+e WhatsApp. Agora, os recursos que valem
+
+184
+00:03:49,750 --> 00:03:49,760
+e WhatsApp. Agora, os recursos que valem
+ 
+
+185
+00:03:49,760 --> 00:03:51,949
+e WhatsApp. Agora, os recursos que valem
+para qualquer categoria. Na clínica
+
+186
+00:03:51,949 --> 00:03:51,959
+para qualquer categoria. Na clínica
+ 
+
+187
+00:03:51,959 --> 00:03:54,830
+para qualquer categoria. Na clínica
+Bem-estar aparece serviços oferecidos
+
+188
+00:03:54,830 --> 00:03:54,840
+Bem-estar aparece serviços oferecidos
+ 
+
+189
+00:03:54,840 --> 00:03:57,350
+Bem-estar aparece serviços oferecidos
+com o preço de cada um e o botão agendar
+
+190
+00:03:57,350 --> 00:03:57,360
+com o preço de cada um e o botão agendar
+ 
+
+191
+00:03:57,360 --> 00:04:00,229
+com o preço de cada um e o botão agendar
+pelo WhatsApp. Logo abaixo, nossa equipe
+
+192
+00:04:00,229 --> 00:04:00,239
+pelo WhatsApp. Logo abaixo, nossa equipe
+ 
+
+193
+00:04:00,239 --> 00:04:02,830
+pelo WhatsApp. Logo abaixo, nossa equipe
+com a foto, o nome e a especialidade de
+
+194
+00:04:02,830 --> 00:04:02,840
+com a foto, o nome e a especialidade de
+ 
+
+195
+00:04:02,840 --> 00:04:04,869
+com a foto, o nome e a especialidade de
+cada profissional e o catálogo de
+
+196
+00:04:04,869 --> 00:04:04,879
+cada profissional e o catálogo de
+ 
+
+197
+00:04:04,879 --> 00:04:07,750
+cada profissional e o catálogo de
+produtos, como da RR Carros, uma vitrine
+
+198
+00:04:07,750 --> 00:04:07,760
+produtos, como da RR Carros, uma vitrine
+ 
+
+199
+00:04:07,760 --> 00:04:10,710
+produtos, como da RR Carros, uma vitrine
+com fotos, filtros por categoria, preço
+
+200
+00:04:10,710 --> 00:04:10,720
+com fotos, filtros por categoria, preço
+ 
+
+201
+00:04:10,720 --> 00:04:13,030
+com fotos, filtros por categoria, preço
+e o botão tem o Interesse direto no
+
+202
+00:04:13,030 --> 00:04:13,040
+e o botão tem o Interesse direto no
+ 
+
+203
+00:04:13,040 --> 00:04:16,069
+e o botão tem o Interesse direto no
+WhatsApp. Agora, as subcategorias, elas
+
+204
+00:04:16,069 --> 00:04:16,079
+WhatsApp. Agora, as subcategorias, elas
+ 
+
+205
+00:04:16,079 --> 00:04:18,629
+WhatsApp. Agora, as subcategorias, elas
+detalham cada categoria. Por exemplo,
+
+206
+00:04:18,629 --> 00:04:18,639
+detalham cada categoria. Por exemplo,
+ 
+
+207
+00:04:18,639 --> 00:04:21,430
+detalham cada categoria. Por exemplo,
+dentro de restaurantes estão pizzarias,
+
+208
+00:04:21,430 --> 00:04:21,440
+dentro de restaurantes estão pizzarias,
+ 
+
+209
+00:04:21,440 --> 00:04:24,350
+dentro de restaurantes estão pizzarias,
+japonês, churrascarias, fast food e
+
+210
+00:04:24,350 --> 00:04:24,360
+japonês, churrascarias, fast food e
+ 
+
+211
+00:04:24,360 --> 00:04:26,629
+japonês, churrascarias, fast food e
+muitas outras. À esquerda, você escolhe
+
+212
+00:04:26,629 --> 00:04:26,639
+muitas outras. À esquerda, você escolhe
+ 
+
+213
+00:04:26,639 --> 00:04:28,950
+muitas outras. À esquerda, você escolhe
+a categoria e vê quantas subcategorias
+
+214
+00:04:28,950 --> 00:04:28,960
+a categoria e vê quantas subcategorias
+ 
+
+215
+00:04:28,960 --> 00:04:31,350
+a categoria e vê quantas subcategorias
+ela tem. Uma bolinha amarela indica que
+
+216
+00:04:31,350 --> 00:04:31,360
+ela tem. Uma bolinha amarela indica que
+ 
+
+217
+00:04:31,360 --> 00:04:33,749
+ela tem. Uma bolinha amarela indica que
+a categoria está fora do orçamento. Para
+
+218
+00:04:33,749 --> 00:04:33,759
+a categoria está fora do orçamento. Para
+ 
+
+219
+00:04:33,759 --> 00:04:35,990
+a categoria está fora do orçamento. Para
+cada subcategoria, você vê quantas
+
+220
+00:04:35,990 --> 00:04:36,000
+cada subcategoria, você vê quantas
+ 
+
+221
+00:04:36,000 --> 00:04:38,029
+cada subcategoria, você vê quantas
+empresas estão nela e se aparece no
+
+222
+00:04:38,029 --> 00:04:38,039
+empresas estão nela e se aparece no
+ 
+
+223
+00:04:38,039 --> 00:04:40,150
+empresas estão nela e se aparece no
+formulário de orçamento. Os botões
+
+224
+00:04:40,150 --> 00:04:40,160
+formulário de orçamento. Os botões
+ 
+
+225
+00:04:40,160 --> 00:04:42,790
+formulário de orçamento. Os botões
+marcar e desmarcar as exibidas mudam
+
+226
+00:04:42,790 --> 00:04:42,800
+marcar e desmarcar as exibidas mudam
+ 
+
+227
+00:04:42,800 --> 00:04:45,189
+marcar e desmarcar as exibidas mudam
+todas de uma vez. Repare no aviso.
+
+228
+00:04:45,189 --> 00:04:45,199
+todas de uma vez. Repare no aviso.
+ 
+
+229
+00:04:45,199 --> 00:04:46,629
+todas de uma vez. Repare no aviso.
+Quando a categoria está fora do
+
+230
+00:04:46,629 --> 00:04:46,639
+Quando a categoria está fora do
+ 
+
+231
+00:04:46,639 --> 00:04:49,070
+Quando a categoria está fora do
+orçamento, nenhuma subcategoria dela
+
+232
+00:04:49,070 --> 00:04:49,080
+orçamento, nenhuma subcategoria dela
+ 
+
+233
+00:04:49,080 --> 00:04:51,510
+orçamento, nenhuma subcategoria dela
+aparece lá, mesmo marcada. Já em
+
+234
+00:04:51,510 --> 00:04:51,520
+aparece lá, mesmo marcada. Já em
+ 
+
+235
+00:04:51,520 --> 00:04:53,710
+aparece lá, mesmo marcada. Já em
+construção e reforma, tudo aparece no
+
+236
+00:04:53,710 --> 00:04:53,720
+construção e reforma, tudo aparece no
+ 
+
+237
+00:04:53,720 --> 00:04:55,950
+construção e reforma, tudo aparece no
+orçamento. Pedreiro, pintor,
+
+238
+00:04:55,950 --> 00:04:55,960
+orçamento. Pedreiro, pintor,
+ 
+
+239
+00:04:55,960 --> 00:04:57,790
+orçamento. Pedreiro, pintor,
+eletricista. Para criar uma
+
+240
+00:04:57,790 --> 00:04:57,800
+eletricista. Para criar uma
+ 
+
+241
+00:04:57,800 --> 00:04:59,950
+eletricista. Para criar uma
+subcategoria, clique em nova
+
+242
+00:04:59,950 --> 00:04:59,960
+subcategoria, clique em nova
+ 
+
+243
+00:04:59,960 --> 00:05:02,830
+subcategoria, clique em nova
+subcategoria, escolha a categoria, dê um
+
+244
+00:05:02,830 --> 00:05:02,840
+subcategoria, escolha a categoria, dê um
+ 
+
+245
+00:05:02,840 --> 00:05:05,189
+subcategoria, escolha a categoria, dê um
+nome e marque se ela está ativa e se
+
+246
+00:05:05,189 --> 00:05:05,199
+nome e marque se ela está ativa e se
+ 
+
+247
+00:05:05,199 --> 00:05:07,469
+nome e marque se ela está ativa e se
+aparece no orçamento. No lápis, você
+
+248
+00:05:07,469 --> 00:05:07,479
+aparece no orçamento. No lápis, você
+ 
+
+249
+00:05:07,479 --> 00:05:09,990
+aparece no orçamento. No lápis, você
+edita uma subcategoria que já existe.
+
+250
+00:05:09,990 --> 00:05:10,000
+edita uma subcategoria que já existe.
+ 
+
+251
+00:05:10,000 --> 00:05:12,270
+edita uma subcategoria que já existe.
+Pronto. Categorias bem configuradas
+
+252
+00:05:12,270 --> 00:05:12,280
+Pronto. Categorias bem configuradas
+ 
+
+253
+00:05:12,280 --> 00:05:14,749
+Pronto. Categorias bem configuradas
+deixam cada empresa com a página certa e
+
+254
+00:05:14,749 --> 00:05:14,759
+deixam cada empresa com a página certa e
+ 
+
+255
+00:05:14,759 --> 00:05:16,870
+deixam cada empresa com a página certa e
+o seu portal muito mais completo para o
+
+256
+00:05:16,870 --> 00:05:16,880
+o seu portal muito mais completo para o
+ 
+
+257
+00:05:16,880 --> 00:05:19,240
+o seu portal muito mais completo para o
+visitante.
+

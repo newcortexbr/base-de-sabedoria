@@ -1,0 +1,665 @@
+1
+00:00:00,000 --> 00:00:02,790
+ 
+Notícias é o coração do seu portal.
+
+2
+00:00:02,790 --> 00:00:02,800
+Notícias é o coração do seu portal.
+ 
+
+3
+00:00:02,800 --> 00:00:04,910
+Notícias é o coração do seu portal.
+Neste vídeo, você vai ver como organizar
+
+4
+00:00:04,910 --> 00:00:04,920
+Neste vídeo, você vai ver como organizar
+ 
+
+5
+00:00:04,920 --> 00:00:07,270
+Neste vídeo, você vai ver como organizar
+as matérias, como publicar uma notícia
+
+6
+00:00:07,270 --> 00:00:07,280
+as matérias, como publicar uma notícia
+ 
+
+7
+00:00:07,280 --> 00:00:09,830
+as matérias, como publicar uma notícia
+completa e, principalmente, como ter
+
+8
+00:00:09,830 --> 00:00:09,840
+completa e, principalmente, como ter
+ 
+
+9
+00:00:09,840 --> 00:00:12,630
+completa e, principalmente, como ter
+jornalistas publicando por você. No menu
+
+10
+00:00:12,630 --> 00:00:12,640
+jornalistas publicando por você. No menu
+ 
+
+11
+00:00:12,640 --> 00:00:15,630
+jornalistas publicando por você. No menu
+lateral, abra notícias. Ali estão:
+
+12
+00:00:15,630 --> 00:00:15,640
+lateral, abra notícias. Ali estão:
+ 
+
+13
+00:00:15,640 --> 00:00:18,350
+lateral, abra notícias. Ali estão:
+cadastrar notícia, listar notícias,
+
+14
+00:00:18,350 --> 00:00:18,360
+cadastrar notícia, listar notícias,
+ 
+
+15
+00:00:18,360 --> 00:00:21,110
+cadastrar notícia, listar notícias,
+gerenciar categorias e subcategorias,
+
+16
+00:00:21,110 --> 00:00:21,120
+gerenciar categorias e subcategorias,
+ 
+
+17
+00:00:21,120 --> 00:00:23,190
+gerenciar categorias e subcategorias,
+autor e jornalistas.
+
+18
+00:00:23,190 --> 00:00:23,200
+autor e jornalistas.
+ 
+
+19
+00:00:23,200 --> 00:00:25,590
+autor e jornalistas.
+Em listar notícias, aparecem todas as
+
+20
+00:00:25,590 --> 00:00:25,600
+Em listar notícias, aparecem todas as
+ 
+
+21
+00:00:25,600 --> 00:00:28,110
+Em listar notícias, aparecem todas as
+matérias do portal. Busque pelo título
+
+22
+00:00:28,110 --> 00:00:28,120
+matérias do portal. Busque pelo título
+ 
+
+23
+00:00:28,120 --> 00:00:30,310
+matérias do portal. Busque pelo título
+ou filtre por status, categoria,
+
+24
+00:00:30,310 --> 00:00:30,320
+ou filtre por status, categoria,
+ 
+
+25
+00:00:30,320 --> 00:00:32,910
+ou filtre por status, categoria,
+subcategoria e período. Cada linha
+
+26
+00:00:32,910 --> 00:00:32,920
+subcategoria e período. Cada linha
+ 
+
+27
+00:00:32,920 --> 00:00:36,030
+subcategoria e período. Cada linha
+mostra a categoria, quem postou, a data,
+
+28
+00:00:36,030 --> 00:00:36,040
+mostra a categoria, quem postou, a data,
+ 
+
+29
+00:00:36,040 --> 00:00:38,230
+mostra a categoria, quem postou, a data,
+o status e quantas visualizações a
+
+30
+00:00:38,230 --> 00:00:38,240
+o status e quantas visualizações a
+ 
+
+31
+00:00:38,240 --> 00:00:40,950
+o status e quantas visualizações a
+notícia teve. O botão liga e desliga
+
+32
+00:00:40,950 --> 00:00:40,960
+notícia teve. O botão liga e desliga
+ 
+
+33
+00:00:40,960 --> 00:00:43,630
+notícia teve. O botão liga e desliga
+publica ou tira a notícia do ar na hora.
+
+34
+00:00:43,630 --> 00:00:43,640
+publica ou tira a notícia do ar na hora.
+ 
+
+35
+00:00:43,640 --> 00:00:45,950
+publica ou tira a notícia do ar na hora.
+Publicar direto por aqui é opcional.
+
+36
+00:00:45,950 --> 00:00:45,960
+Publicar direto por aqui é opcional.
+ 
+
+37
+00:00:45,960 --> 00:00:47,630
+Publicar direto por aqui é opcional.
+Você pode cadastrar a sua própria
+
+38
+00:00:47,630 --> 00:00:47,640
+Você pode cadastrar a sua própria
+ 
+
+39
+00:00:47,640 --> 00:00:49,870
+Você pode cadastrar a sua própria
+matéria quando quiser. Vamos ver uma
+
+40
+00:00:49,870 --> 00:00:49,880
+matéria quando quiser. Vamos ver uma
+ 
+
+41
+00:00:49,880 --> 00:00:52,590
+matéria quando quiser. Vamos ver uma
+notícia completa. Em cadastrar notícia,
+
+42
+00:00:52,590 --> 00:00:52,600
+notícia completa. Em cadastrar notícia,
+ 
+
+43
+00:00:52,600 --> 00:00:54,910
+notícia completa. Em cadastrar notícia,
+escreva o título, o subtítulo e um
+
+44
+00:00:54,910 --> 00:00:54,920
+escreva o título, o subtítulo e um
+ 
+
+45
+00:00:54,920 --> 00:00:57,110
+escreva o título, o subtítulo e um
+título curto, que aparece nos cartões da
+
+46
+00:00:57,110 --> 00:00:57,120
+título curto, que aparece nos cartões da
+ 
+
+47
+00:00:57,120 --> 00:00:59,830
+título curto, que aparece nos cartões da
+página inicial. A chamada é o resumo que
+
+48
+00:00:59,830 --> 00:00:59,840
+página inicial. A chamada é o resumo que
+ 
+
+49
+00:00:59,840 --> 00:01:02,150
+página inicial. A chamada é o resumo que
+aparece na lista. Logo abaixo, vem o
+
+50
+00:01:02,150 --> 00:01:02,160
+aparece na lista. Logo abaixo, vem o
+ 
+
+51
+00:01:02,160 --> 00:01:04,189
+aparece na lista. Logo abaixo, vem o
+conteúdo da matéria, com um editor
+
+52
+00:01:04,189 --> 00:01:04,199
+conteúdo da matéria, com um editor
+ 
+
+53
+00:01:04,199 --> 00:01:07,390
+conteúdo da matéria, com um editor
+completo: títulos, listas,
+
+54
+00:01:07,390 --> 00:01:07,400
+completo: títulos, listas,
+ 
+
+55
+00:01:07,400 --> 00:01:10,630
+completo: títulos, listas,
+links, imagens e vídeos dentro do texto.
+
+56
+00:01:10,630 --> 00:01:10,640
+links, imagens e vídeos dentro do texto.
+ 
+
+57
+00:01:10,640 --> 00:01:12,870
+links, imagens e vídeos dentro do texto.
+Adicione tags, que ajudam a busca, e
+
+58
+00:01:12,870 --> 00:01:12,880
+Adicione tags, que ajudam a busca, e
+ 
+
+59
+00:01:12,880 --> 00:01:14,910
+Adicione tags, que ajudam a busca, e
+informe a fonte da matéria. Em
+
+60
+00:01:14,910 --> 00:01:14,920
+informe a fonte da matéria. Em
+ 
+
+61
+00:01:14,920 --> 00:01:17,430
+informe a fonte da matéria. Em
+categorização, escolha a categoria e a
+
+62
+00:01:17,430 --> 00:01:17,440
+categorização, escolha a categoria e a
+ 
+
+63
+00:01:17,440 --> 00:01:20,390
+categorização, escolha a categoria e a
+subcategoria. Se precisar, crie uma nova
+
+64
+00:01:20,390 --> 00:01:20,400
+subcategoria. Se precisar, crie uma nova
+ 
+
+65
+00:01:20,400 --> 00:01:22,910
+subcategoria. Se precisar, crie uma nova
+ali mesmo. Na foto de capa, envie a
+
+66
+00:01:22,910 --> 00:01:22,920
+ali mesmo. Na foto de capa, envie a
+ 
+
+67
+00:01:22,920 --> 00:01:24,870
+ali mesmo. Na foto de capa, envie a
+imagem e clique nela para escolher o
+
+68
+00:01:24,870 --> 00:01:24,880
+imagem e clique nela para escolher o
+ 
+
+69
+00:01:24,880 --> 00:01:27,390
+imagem e clique nela para escolher o
+ponto de foco, para o recorte não cortar
+
+70
+00:01:27,390 --> 00:01:27,400
+ponto de foco, para o recorte não cortar
+ 
+
+71
+00:01:27,400 --> 00:01:29,670
+ponto de foco, para o recorte não cortar
+o que importa. Preencha a legenda e os
+
+72
+00:01:29,670 --> 00:01:29,680
+o que importa. Preencha a legenda e os
+ 
+
+73
+00:01:29,680 --> 00:01:32,550
+o que importa. Preencha a legenda e os
+créditos. No quadro publicação, escolha
+
+74
+00:01:32,550 --> 00:01:32,560
+créditos. No quadro publicação, escolha
+ 
+
+75
+00:01:32,560 --> 00:01:34,710
+créditos. No quadro publicação, escolha
+o status, agende para outra data, se
+
+76
+00:01:34,710 --> 00:01:34,720
+o status, agende para outra data, se
+ 
+
+77
+00:01:34,720 --> 00:01:37,030
+o status, agende para outra data, se
+quiser, e marque destaque na janela
+
+78
+00:01:37,030 --> 00:01:37,040
+quiser, e marque destaque na janela
+ 
+
+79
+00:01:37,040 --> 00:01:38,710
+quiser, e marque destaque na janela
+principal para a notícia ganhar a
+
+80
+00:01:38,710 --> 00:01:38,720
+principal para a notícia ganhar a
+ 
+
+81
+00:01:38,720 --> 00:01:41,550
+principal para a notícia ganhar a
+vitrine da home. Clique em adicionar e a
+
+82
+00:01:41,550 --> 00:01:41,560
+vitrine da home. Clique em adicionar e a
+ 
+
+83
+00:01:41,560 --> 00:01:43,910
+vitrine da home. Clique em adicionar e a
+notícia vai para o ar, com categoria,
+
+84
+00:01:43,910 --> 00:01:43,920
+notícia vai para o ar, com categoria,
+ 
+
+85
+00:01:43,920 --> 00:01:47,390
+notícia vai para o ar, com categoria,
+autor, foto e tudo formatado. Agora, a
+
+86
+00:01:47,390 --> 00:01:47,400
+autor, foto e tudo formatado. Agora, a
+ 
+
+87
+00:01:47,400 --> 00:01:49,670
+autor, foto e tudo formatado. Agora, a
+parte que faz o portal crescer: os
+
+88
+00:01:49,670 --> 00:01:49,680
+parte que faz o portal crescer: os
+ 
+
+89
+00:01:49,680 --> 00:01:52,070
+parte que faz o portal crescer: os
+jornalistas. Em jornalistas, você
+
+90
+00:01:52,070 --> 00:01:52,080
+jornalistas. Em jornalistas, você
+ 
+
+91
+00:01:52,080 --> 00:01:53,870
+jornalistas. Em jornalistas, você
+cadastra quem vai escrever para o seu
+
+92
+00:01:53,870 --> 00:01:53,880
+cadastra quem vai escrever para o seu
+ 
+
+93
+00:01:53,880 --> 00:01:56,230
+cadastra quem vai escrever para o seu
+portal, como estudantes de jornalismo ou
+
+94
+00:01:56,230 --> 00:01:56,240
+portal, como estudantes de jornalismo ou
+ 
+
+95
+00:01:56,240 --> 00:01:58,270
+portal, como estudantes de jornalismo ou
+colaboradores. Clique em novo
+
+96
+00:01:58,270 --> 00:01:58,280
+colaboradores. Clique em novo
+ 
+
+97
+00:01:58,280 --> 00:02:00,950
+colaboradores. Clique em novo
+jornalista, informe o nome, o e-mail e
+
+98
+00:02:00,950 --> 00:02:00,960
+jornalista, informe o nome, o e-mail e
+ 
+
+99
+00:02:00,960 --> 00:02:03,630
+jornalista, informe o nome, o e-mail e
+uma senha inicial. Ao salvar, ele recebe
+
+100
+00:02:03,630 --> 00:02:03,640
+uma senha inicial. Ao salvar, ele recebe
+ 
+
+101
+00:02:03,640 --> 00:02:05,990
+uma senha inicial. Ao salvar, ele recebe
+um e-mail com os dados de acesso. Cada
+
+102
+00:02:05,990 --> 00:02:06,000
+um e-mail com os dados de acesso. Cada
+ 
+
+103
+00:02:06,000 --> 00:02:08,150
+um e-mail com os dados de acesso. Cada
+jornalista tem o seu próprio login na
+
+104
+00:02:08,150 --> 00:02:08,160
+jornalista tem o seu próprio login na
+ 
+
+105
+00:02:08,160 --> 00:02:10,749
+jornalista tem o seu próprio login na
+área do cliente. Ele publica direto, vê
+
+106
+00:02:10,749 --> 00:02:10,759
+área do cliente. Ele publica direto, vê
+ 
+
+107
+00:02:10,759 --> 00:02:13,030
+área do cliente. Ele publica direto, vê
+só as próprias matérias e pode trocar a
+
+108
+00:02:13,030 --> 00:02:13,040
+só as próprias matérias e pode trocar a
+ 
+
+109
+00:02:13,040 --> 00:02:15,670
+só as próprias matérias e pode trocar a
+senha quando quiser. Na lista, você pode
+
+110
+00:02:15,670 --> 00:02:15,680
+senha quando quiser. Na lista, você pode
+ 
+
+111
+00:02:15,680 --> 00:02:18,470
+senha quando quiser. Na lista, você pode
+redefinir a senha, editar ou bloquear um
+
+112
+00:02:18,470 --> 00:02:18,480
+redefinir a senha, editar ou bloquear um
+ 
+
+113
+00:02:18,480 --> 00:02:20,750
+redefinir a senha, editar ou bloquear um
+jornalista a qualquer momento. Quanto
+
+114
+00:02:20,750 --> 00:02:20,760
+jornalista a qualquer momento. Quanto
+ 
+
+115
+00:02:20,760 --> 00:02:23,030
+jornalista a qualquer momento. Quanto
+mais gente produzindo conteúdo, mais o
+
+116
+00:02:23,030 --> 00:02:23,040
+mais gente produzindo conteúdo, mais o
+ 
+
+117
+00:02:23,040 --> 00:02:25,070
+mais gente produzindo conteúdo, mais o
+seu portal cresce. Em gerenciar
+
+118
+00:02:25,070 --> 00:02:25,080
+seu portal cresce. Em gerenciar
+ 
+
+119
+00:02:25,080 --> 00:02:27,710
+seu portal cresce. Em gerenciar
+categorias, você organiza as editorias,
+
+120
+00:02:27,710 --> 00:02:27,720
+categorias, você organiza as editorias,
+ 
+
+121
+00:02:27,720 --> 00:02:30,030
+categorias, você organiza as editorias,
+com cor, quantidade de notícias e se
+
+122
+00:02:30,030 --> 00:02:30,040
+com cor, quantidade de notícias e se
+ 
+
+123
+00:02:30,040 --> 00:02:32,870
+com cor, quantidade de notícias e se
+estão ativas. As subcategorias detalham
+
+124
+00:02:32,870 --> 00:02:32,880
+estão ativas. As subcategorias detalham
+ 
+
+125
+00:02:32,880 --> 00:02:35,670
+estão ativas. As subcategorias detalham
+cada editoria e em autor, você define a
+
+126
+00:02:35,670 --> 00:02:35,680
+cada editoria e em autor, você define a
+ 
+
+127
+00:02:35,680 --> 00:02:38,230
+cada editoria e em autor, você define a
+assinatura padrão do portal, com nome,
+
+128
+00:02:38,230 --> 00:02:38,240
+assinatura padrão do portal, com nome,
+ 
+
+129
+00:02:38,240 --> 00:02:41,470
+assinatura padrão do portal, com nome,
+cargo, foto e redes sociais. Pronto, com
+
+130
+00:02:41,470 --> 00:02:41,480
+cargo, foto e redes sociais. Pronto, com
+ 
+
+131
+00:02:41,480 --> 00:02:43,670
+cargo, foto e redes sociais. Pronto, com
+uma equipe de jornalistas publicando, o
+
+132
+00:02:43,670 --> 00:02:43,680
+uma equipe de jornalistas publicando, o
+ 
+
+133
+00:02:43,680 --> 00:02:48,080
+uma equipe de jornalistas publicando, o
+seu portal tem notícia nova todo dia.
+

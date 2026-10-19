@@ -1,6 +1,6 @@
 ---
 id: acesso-recuperar-senha-cliente
-titulo: esqueci minha senha: recuperar a senha da área do cliente
+titulo: "esqueci minha senha: recuperar a senha da área do cliente"
 publico:
   - cliente
   - jornalista

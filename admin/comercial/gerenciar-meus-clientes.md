@@ -1,6 +1,6 @@
 ---
 id: gerenciar-meus-clientes
-titulo: Meus Clientes: acompanhar clientes, planos e vencimentos
+titulo: "Meus Clientes: acompanhar clientes, planos e vencimentos"
 publico:
   - admin
 modulo: clientes

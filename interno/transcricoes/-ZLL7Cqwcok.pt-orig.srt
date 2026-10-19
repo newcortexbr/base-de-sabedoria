@@ -1,0 +1,405 @@
+1
+00:00:00,000 --> 00:00:02,230
+ 
+As notificações push são avisos que
+
+2
+00:00:02,230 --> 00:00:02,240
+As notificações push são avisos que
+ 
+
+3
+00:00:02,240 --> 00:00:04,550
+As notificações push são avisos que
+chegam direto no celular e no computador
+
+4
+00:00:04,550 --> 00:00:04,560
+chegam direto no celular e no computador
+ 
+
+5
+00:00:04,560 --> 00:00:06,910
+chegam direto no celular e no computador
+de quem aceitou receber, mesmo com o
+
+6
+00:00:06,910 --> 00:00:06,920
+de quem aceitou receber, mesmo com o
+ 
+
+7
+00:00:06,920 --> 00:00:09,230
+de quem aceitou receber, mesmo com o
+site fechado. No menu lateral, em
+
+8
+00:00:09,230 --> 00:00:09,240
+site fechado. No menu lateral, em
+ 
+
+9
+00:00:09,240 --> 00:00:12,630
+site fechado. No menu lateral, em
+sistema, clique em notificações push. No
+
+10
+00:00:12,630 --> 00:00:12,640
+sistema, clique em notificações push. No
+ 
+
+11
+00:00:12,640 --> 00:00:14,910
+sistema, clique em notificações push. No
+topo, você acompanha três números:
+
+12
+00:00:14,910 --> 00:00:14,920
+topo, você acompanha três números:
+ 
+
+13
+00:00:14,920 --> 00:00:17,190
+topo, você acompanha três números:
+quantas pessoas estão inscritas, quantas
+
+14
+00:00:17,190 --> 00:00:17,200
+quantas pessoas estão inscritas, quantas
+ 
+
+15
+00:00:17,200 --> 00:00:19,550
+quantas pessoas estão inscritas, quantas
+notificações foram enviadas no mês e a
+
+16
+00:00:19,550 --> 00:00:19,560
+notificações foram enviadas no mês e a
+ 
+
+17
+00:00:19,560 --> 00:00:22,070
+notificações foram enviadas no mês e a
+média de quantas pessoas abriram. Logo
+
+18
+00:00:22,070 --> 00:00:22,080
+média de quantas pessoas abriram. Logo
+ 
+
+19
+00:00:22,080 --> 00:00:24,710
+média de quantas pessoas abriram. Logo
+abaixo, fica a opção convidar visitantes
+
+20
+00:00:24,710 --> 00:00:24,720
+abaixo, fica a opção convidar visitantes
+ 
+
+21
+00:00:24,720 --> 00:00:27,670
+abaixo, fica a opção convidar visitantes
+a receber notificações. Ligada, o site
+
+22
+00:00:27,670 --> 00:00:27,680
+a receber notificações. Ligada, o site
+ 
+
+23
+00:00:27,680 --> 00:00:30,070
+a receber notificações. Ligada, o site
+mostra um convite discreto ao visitante
+
+24
+00:00:30,070 --> 00:00:30,080
+mostra um convite discreto ao visitante
+ 
+
+25
+00:00:30,080 --> 00:00:31,830
+mostra um convite discreto ao visitante
+depois que ele navega por pelo menos
+
+26
+00:00:31,830 --> 00:00:31,840
+depois que ele navega por pelo menos
+ 
+
+27
+00:00:31,840 --> 00:00:34,470
+depois que ele navega por pelo menos
+duas páginas. Se o visitante aceitar, o
+
+28
+00:00:34,470 --> 00:00:34,480
+duas páginas. Se o visitante aceitar, o
+ 
+
+29
+00:00:34,480 --> 00:00:36,910
+duas páginas. Se o visitante aceitar, o
+próprio navegador confirma a permissão e
+
+30
+00:00:36,910 --> 00:00:36,920
+próprio navegador confirma a permissão e
+ 
+
+31
+00:00:36,920 --> 00:00:39,350
+próprio navegador confirma a permissão e
+ele passa a ser um inscrito. Se recusar,
+
+32
+00:00:39,350 --> 00:00:39,360
+ele passa a ser um inscrito. Se recusar,
+ 
+
+33
+00:00:39,360 --> 00:00:42,430
+ele passa a ser um inscrito. Se recusar,
+o convite só volta depois de 30 dias. No
+
+34
+00:00:42,430 --> 00:00:42,440
+o convite só volta depois de 30 dias. No
+ 
+
+35
+00:00:42,440 --> 00:00:43,910
+o convite só volta depois de 30 dias. No
+histórico, ficam as últimas
+
+36
+00:00:43,910 --> 00:00:43,920
+histórico, ficam as últimas
+ 
+
+37
+00:00:43,920 --> 00:00:46,750
+histórico, ficam as últimas
+notificações. O texto, o dia e a hora do
+
+38
+00:00:46,750 --> 00:00:46,760
+notificações. O texto, o dia e a hora do
+ 
+
+39
+00:00:46,760 --> 00:00:49,230
+notificações. O texto, o dia e a hora do
+envio, quantas foram entregues e quantas
+
+40
+00:00:49,230 --> 00:00:49,240
+envio, quantas foram entregues e quantas
+ 
+
+41
+00:00:49,240 --> 00:00:51,710
+envio, quantas foram entregues e quantas
+pessoas abriram. Para criar uma nova,
+
+42
+00:00:51,710 --> 00:00:51,720
+pessoas abriram. Para criar uma nova,
+ 
+
+43
+00:00:51,720 --> 00:00:54,350
+pessoas abriram. Para criar uma nova,
+use o quadro nova notificação. Escreva
+
+44
+00:00:54,350 --> 00:00:54,360
+use o quadro nova notificação. Escreva
+ 
+
+45
+00:00:54,360 --> 00:00:57,190
+use o quadro nova notificação. Escreva
+um título curto, de até 50 caracteres e
+
+46
+00:00:57,190 --> 00:00:57,200
+um título curto, de até 50 caracteres e
+ 
+
+47
+00:00:57,200 --> 00:01:00,550
+um título curto, de até 50 caracteres e
+uma mensagem de até 120. Em link, cole o
+
+48
+00:01:00,550 --> 00:01:00,560
+uma mensagem de até 120. Em link, cole o
+ 
+
+49
+00:01:00,560 --> 00:01:02,510
+uma mensagem de até 120. Em link, cole o
+endereço da página que deve abrir quando
+
+50
+00:01:02,510 --> 00:01:02,520
+endereço da página que deve abrir quando
+ 
+
+51
+00:01:02,520 --> 00:01:04,390
+endereço da página que deve abrir quando
+a pessoa tocar no aviso, como uma
+
+52
+00:01:04,390 --> 00:01:04,400
+a pessoa tocar no aviso, como uma
+ 
+
+53
+00:01:04,400 --> 00:01:07,230
+a pessoa tocar no aviso, como uma
+notícia, um evento ou uma promoção. Logo
+
+54
+00:01:07,230 --> 00:01:07,240
+notícia, um evento ou uma promoção. Logo
+ 
+
+55
+00:01:07,240 --> 00:01:10,110
+notícia, um evento ou uma promoção. Logo
+abaixo, a prévia mostra exatamente como
+
+56
+00:01:10,110 --> 00:01:10,120
+abaixo, a prévia mostra exatamente como
+ 
+
+57
+00:01:10,120 --> 00:01:12,270
+abaixo, a prévia mostra exatamente como
+o aviso vai aparecer no celular. Em
+
+58
+00:01:12,270 --> 00:01:12,280
+o aviso vai aparecer no celular. Em
+ 
+
+59
+00:01:12,280 --> 00:01:14,790
+o aviso vai aparecer no celular. Em
+quando, escolha agora para enviar na
+
+60
+00:01:14,790 --> 00:01:14,800
+quando, escolha agora para enviar na
+ 
+
+61
+00:01:14,800 --> 00:01:17,590
+quando, escolha agora para enviar na
+hora ou agendar e informe a data e o
+
+62
+00:01:17,590 --> 00:01:17,600
+hora ou agendar e informe a data e o
+ 
+
+63
+00:01:17,600 --> 00:01:19,870
+hora ou agendar e informe a data e o
+horário. É ótimo para lembrar um evento
+
+64
+00:01:19,870 --> 00:01:19,880
+horário. É ótimo para lembrar um evento
+ 
+
+65
+00:01:19,880 --> 00:01:22,150
+horário. É ótimo para lembrar um evento
+no dia certo. O botão mostra para
+
+66
+00:01:22,150 --> 00:01:22,160
+no dia certo. O botão mostra para
+ 
+
+67
+00:01:22,160 --> 00:01:24,830
+no dia certo. O botão mostra para
+quantas pessoas o aviso vai. Ao clicar,
+
+68
+00:01:24,830 --> 00:01:24,840
+quantas pessoas o aviso vai. Ao clicar,
+ 
+
+69
+00:01:24,840 --> 00:01:26,510
+quantas pessoas o aviso vai. Ao clicar,
+ele entra na fila de envio, que é
+
+70
+00:01:26,510 --> 00:01:26,520
+ele entra na fila de envio, que é
+ 
+
+71
+00:01:26,520 --> 00:01:29,310
+ele entra na fila de envio, que é
+processada em instantes. Uma dica: o
+
+72
+00:01:29,310 --> 00:01:29,320
+processada em instantes. Uma dica: o
+ 
+
+73
+00:01:29,320 --> 00:01:31,390
+processada em instantes. Uma dica: o
+envio vai para todos os inscritos do
+
+74
+00:01:31,390 --> 00:01:31,400
+envio vai para todos os inscritos do
+ 
+
+75
+00:01:31,400 --> 00:01:33,390
+envio vai para todos os inscritos do
+portal. Então, use para avisos que
+
+76
+00:01:33,390 --> 00:01:33,400
+portal. Então, use para avisos que
+ 
+
+77
+00:01:33,400 --> 00:01:35,750
+portal. Então, use para avisos que
+realmente importam. Pronto, com as
+
+78
+00:01:35,750 --> 00:01:35,760
+realmente importam. Pronto, com as
+ 
+
+79
+00:01:35,760 --> 00:01:38,030
+realmente importam. Pronto, com as
+notificações push, o seu portal fala
+
+80
+00:01:38,030 --> 00:01:38,040
+notificações push, o seu portal fala
+ 
+
+81
+00:01:38,040 --> 00:01:42,440
+notificações push, o seu portal fala
+direto com o leitor na hora certa.
+

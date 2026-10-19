@@ -1,6 +1,6 @@
 ---
 id: editorial-turismo-pontos
-titulo: pontos turísticos: cadastro e categorias
+titulo: "pontos turísticos: cadastro e categorias"
 publico:
   - administrador do portal
 modulo: Turismo
@@ -8,7 +8,7 @@ categoria: conteúdo
 aba: Pontos Turísticos
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-15
+revisado_em: 2026-10-19
 validacao: docs-e-codigo
 videos:
   - QrkL_nJEa-c
@@ -24,10 +24,14 @@ acesse pelo painel do portal com permissão de administração e módulo Turismo
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Turístico / Eventos` e depois em `Pontos Turísticos` (`/painel/turismo/pontos`).
 2. Para cadastrar, clique no botão `+ Novo Ponto` no topo da página (`/painel/turismo/pontos/novo`).
-3. Preencha os campos da página `Novo Ponto Turístico`, como nome, cidade e categoria, e salve.
-4. Para achar um ponto, escreva o nome no campo `Buscar ponto turístico...` e clique em `Buscar`.
-5. No topo da página há também os botões `Categorias` (`/painel/turismo/categorias`), `Roteiros` e `Eventos`, que levam às outras telas de turismo.
-6. Para mudar as fotos de um ponto, clique em `Editar` na linha dele (`/painel/turismo/pontos/[id]`) e use a parte `Galeria de fotos e vídeos`.
+3. Envie a foto principal, que é a capa do ponto. Prefira uma imagem deitada (horizontal).
+4. Preencha o nome, escolha a categoria e escreva a descrição.
+5. Na parte de informações, digite o CEP: o endereço é preenchido sozinho.
+6. Informe os horários de funcionamento de cada dia.
+7. Clique em `Cadastrar ponto`.
+8. Para achar um ponto, escreva o nome no campo `Buscar ponto turístico...` e clique em `Buscar`.
+9. No topo da página há também os botões `Categorias` (`/painel/turismo/categorias`), `Roteiros` e `Eventos`, que levam às outras telas de turismo.
+10. Para mudar as fotos de um ponto, clique em `Editar` na linha dele (`/painel/turismo/pontos/[id]`) e use a parte `Galeria de fotos e vídeos`.
 
 ## resultado
 A listagem mostra nome, categoria, cidade e status. Um ponto pode ter imagens e a galeria deve ser gerenciada pela tela correspondente, não por nomes de arquivo improvisados.

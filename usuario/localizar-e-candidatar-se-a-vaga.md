@@ -10,10 +10,8 @@ tipo_problema:
   - procurar-vaga
   - candidatura
 status: rascunho-documental
-revisado_em: 2026-10-15
+revisado_em: 2026-10-19
 validacao: docs-e-codigo
-videos:
-  - D21vBBhzlhg
 ---
 
 ## objetivo

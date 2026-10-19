@@ -1,0 +1,625 @@
+1
+00:00:00,080 --> 00:00:02,070
+ 
+O assistente de IA é um atendente
+
+2
+00:00:02,070 --> 00:00:02,080
+O assistente de IA é um atendente
+ 
+
+3
+00:00:02,080 --> 00:00:04,430
+O assistente de IA é um atendente
+virtual que conversa com o visitante e
+
+4
+00:00:04,430 --> 00:00:04,440
+virtual que conversa com o visitante e
+ 
+
+5
+00:00:04,440 --> 00:00:06,150
+virtual que conversa com o visitante e
+responde usando o conteúdo do seu
+
+6
+00:00:06,150 --> 00:00:06,160
+responde usando o conteúdo do seu
+ 
+
+7
+00:00:06,160 --> 00:00:08,709
+responde usando o conteúdo do seu
+próprio portal: vagas, empresas,
+
+8
+00:00:08,709 --> 00:00:08,719
+próprio portal: vagas, empresas,
+ 
+
+9
+00:00:08,719 --> 00:00:12,150
+próprio portal: vagas, empresas,
+notícias, cupons, eventos e muito mais.
+
+10
+00:00:12,150 --> 00:00:12,160
+notícias, cupons, eventos e muito mais.
+ 
+
+11
+00:00:12,160 --> 00:00:14,350
+notícias, cupons, eventos e muito mais.
+Ele aparece como este robozinho no canto
+
+12
+00:00:14,350 --> 00:00:14,360
+Ele aparece como este robozinho no canto
+ 
+
+13
+00:00:14,360 --> 00:00:16,670
+Ele aparece como este robozinho no canto
+da tela, nas páginas iniciais e nas
+
+14
+00:00:16,670 --> 00:00:16,680
+da tela, nas páginas iniciais e nas
+ 
+
+15
+00:00:16,680 --> 00:00:19,670
+da tela, nas páginas iniciais e nas
+listagens do site. Vamos ver na prática.
+
+16
+00:00:19,670 --> 00:00:19,680
+listagens do site. Vamos ver na prática.
+ 
+
+17
+00:00:19,680 --> 00:00:22,070
+listagens do site. Vamos ver na prática.
+O visitante clica no assistente e ele se
+
+18
+00:00:22,070 --> 00:00:22,080
+O visitante clica no assistente e ele se
+ 
+
+19
+00:00:22,080 --> 00:00:24,830
+O visitante clica no assistente e ele se
+apresenta e já sugere atalhos como onde
+
+20
+00:00:24,830 --> 00:00:24,840
+apresenta e já sugere atalhos como onde
+ 
+
+21
+00:00:24,840 --> 00:00:27,470
+apresenta e já sugere atalhos como onde
+jantar hoje, vagas abertas e eventos do
+
+22
+00:00:27,470 --> 00:00:27,480
+jantar hoje, vagas abertas e eventos do
+ 
+
+23
+00:00:27,480 --> 00:00:29,830
+jantar hoje, vagas abertas e eventos do
+fim de semana. Agora vamos simular uma
+
+24
+00:00:29,830 --> 00:00:29,840
+fim de semana. Agora vamos simular uma
+ 
+
+25
+00:00:29,840 --> 00:00:32,630
+fim de semana. Agora vamos simular uma
+busca por emprego. O visitante escreve:
+
+26
+00:00:32,630 --> 00:00:32,640
+busca por emprego. O visitante escreve:
+ 
+
+27
+00:00:32,640 --> 00:00:34,310
+busca por emprego. O visitante escreve:
+"Tem vaga de emprego aberta em Vila
+
+28
+00:00:34,310 --> 00:00:34,320
+"Tem vaga de emprego aberta em Vila
+ 
+
+29
+00:00:34,320 --> 00:00:37,069
+"Tem vaga de emprego aberta em Vila
+Velha?" O assistente entende o pedido e
+
+30
+00:00:37,069 --> 00:00:37,079
+Velha?" O assistente entende o pedido e
+ 
+
+31
+00:00:37,079 --> 00:00:39,270
+Velha?" O assistente entende o pedido e
+para acertar a busca pergunta em qual
+
+32
+00:00:39,270 --> 00:00:39,280
+para acertar a busca pergunta em qual
+ 
+
+33
+00:00:39,280 --> 00:00:41,229
+para acertar a busca pergunta em qual
+área a pessoa procura trabalho com
+
+34
+00:00:41,229 --> 00:00:41,239
+área a pessoa procura trabalho com
+ 
+
+35
+00:00:41,239 --> 00:00:44,069
+área a pessoa procura trabalho com
+opções prontas como tecnologia, vendas e
+
+36
+00:00:44,069 --> 00:00:44,079
+opções prontas como tecnologia, vendas e
+ 
+
+37
+00:00:44,079 --> 00:00:46,830
+opções prontas como tecnologia, vendas e
+comercial e administração. O visitante
+
+38
+00:00:46,830 --> 00:00:46,840
+comercial e administração. O visitante
+ 
+
+39
+00:00:46,840 --> 00:00:48,670
+comercial e administração. O visitante
+escolhe vendas e comercial e o
+
+40
+00:00:48,670 --> 00:00:48,680
+escolhe vendas e comercial e o
+ 
+
+41
+00:00:48,680 --> 00:00:50,430
+escolhe vendas e comercial e o
+assistente mostra as vagas que estão
+
+42
+00:00:50,430 --> 00:00:50,440
+assistente mostra as vagas que estão
+ 
+
+43
+00:00:50,440 --> 00:00:52,910
+assistente mostra as vagas que estão
+publicadas no portal com a empresa, o
+
+44
+00:00:52,910 --> 00:00:52,920
+publicadas no portal com a empresa, o
+ 
+
+45
+00:00:52,920 --> 00:00:55,510
+publicadas no portal com a empresa, o
+bairro e o tipo de contrato. Repare que
+
+46
+00:00:55,510 --> 00:00:55,520
+bairro e o tipo de contrato. Repare que
+ 
+
+47
+00:00:55,520 --> 00:00:57,910
+bairro e o tipo de contrato. Repare que
+a vaga em destaque aparece primeiro.
+
+48
+00:00:57,910 --> 00:00:57,920
+a vaga em destaque aparece primeiro.
+ 
+
+49
+00:00:57,920 --> 00:01:00,630
+a vaga em destaque aparece primeiro.
+Cada resposta tem o botão ver vaga e no
+
+50
+00:01:00,630 --> 00:01:00,640
+Cada resposta tem o botão ver vaga e no
+ 
+
+51
+00:01:00,640 --> 00:01:03,750
+Cada resposta tem o botão ver vaga e no
+fim o link ver todas as vagas. Ao clicar
+
+52
+00:01:03,750 --> 00:01:03,760
+fim o link ver todas as vagas. Ao clicar
+ 
+
+53
+00:01:03,760 --> 00:01:06,190
+fim o link ver todas as vagas. Ao clicar
+em ver vaga, o visitante vai direto para
+
+54
+00:01:06,190 --> 00:01:06,200
+em ver vaga, o visitante vai direto para
+ 
+
+55
+00:01:06,200 --> 00:01:08,550
+em ver vaga, o visitante vai direto para
+a página da vaga com descrição,
+
+56
+00:01:08,550 --> 00:01:08,560
+a página da vaga com descrição,
+ 
+
+57
+00:01:08,560 --> 00:01:11,190
+a página da vaga com descrição,
+requisitos, salário e o botão para falar
+
+58
+00:01:11,190 --> 00:01:11,200
+requisitos, salário e o botão para falar
+ 
+
+59
+00:01:11,200 --> 00:01:14,109
+requisitos, salário e o botão para falar
+no WhatsApp. Importante: O assistente
+
+60
+00:01:14,109 --> 00:01:14,119
+no WhatsApp. Importante: O assistente
+ 
+
+61
+00:01:14,119 --> 00:01:16,789
+no WhatsApp. Importante: O assistente
+nunca inventa nada. Tudo que ele mostra
+
+62
+00:01:16,789 --> 00:01:16,799
+nunca inventa nada. Tudo que ele mostra
+ 
+
+63
+00:01:16,799 --> 00:01:19,109
+nunca inventa nada. Tudo que ele mostra
+vem do que está publicado no seu portal,
+
+64
+00:01:19,109 --> 00:01:19,119
+vem do que está publicado no seu portal,
+ 
+
+65
+00:01:19,119 --> 00:01:21,310
+vem do que está publicado no seu portal,
+respeitando o que está no ar. Agora o
+
+66
+00:01:21,310 --> 00:01:21,320
+respeitando o que está no ar. Agora o
+ 
+
+67
+00:01:21,320 --> 00:01:23,950
+respeitando o que está no ar. Agora o
+painel. Clique em assistente de IA no
+
+68
+00:01:23,950 --> 00:01:23,960
+painel. Clique em assistente de IA no
+ 
+
+69
+00:01:23,960 --> 00:01:27,109
+painel. Clique em assistente de IA no
+grupo sistema. No topo, a chave Mostrar
+
+70
+00:01:27,109 --> 00:01:27,119
+grupo sistema. No topo, a chave Mostrar
+ 
+
+71
+00:01:27,119 --> 00:01:29,670
+grupo sistema. No topo, a chave Mostrar
+o assistente de IA liga ou desliga o
+
+72
+00:01:29,670 --> 00:01:29,680
+o assistente de IA liga ou desliga o
+ 
+
+73
+00:01:29,680 --> 00:01:31,910
+o assistente de IA liga ou desliga o
+atendimento no site. Desmarcada, o
+
+74
+00:01:31,910 --> 00:01:31,920
+atendimento no site. Desmarcada, o
+ 
+
+75
+00:01:31,920 --> 00:01:34,350
+atendimento no site. Desmarcada, o
+robozinho some do portal. Ao lado,
+
+76
+00:01:34,350 --> 00:01:34,360
+robozinho some do portal. Ao lado,
+ 
+
+77
+00:01:34,360 --> 00:01:38,350
+robozinho some do portal. Ao lado,
+escolha o período 7, 30 ou 90 dias. Os
+
+78
+00:01:38,350 --> 00:01:38,360
+escolha o período 7, 30 ou 90 dias. Os
+ 
+
+79
+00:01:38,360 --> 00:01:40,429
+escolha o período 7, 30 ou 90 dias. Os
+cartões mostram quantas perguntas foram
+
+80
+00:01:40,429 --> 00:01:40,439
+cartões mostram quantas perguntas foram
+ 
+
+81
+00:01:40,439 --> 00:01:42,789
+cartões mostram quantas perguntas foram
+feitas, quantas tiveram resultado,
+
+82
+00:01:42,789 --> 00:01:42,799
+feitas, quantas tiveram resultado,
+ 
+
+83
+00:01:42,799 --> 00:01:45,230
+feitas, quantas tiveram resultado,
+quantas ficaram sem resultado e a média
+
+84
+00:01:45,230 --> 00:01:45,240
+quantas ficaram sem resultado e a média
+ 
+
+85
+00:01:45,240 --> 00:01:48,030
+quantas ficaram sem resultado e a média
+por dia. Em onde mais procuram, você vê
+
+86
+00:01:48,030 --> 00:01:48,040
+por dia. Em onde mais procuram, você vê
+ 
+
+87
+00:01:48,040 --> 00:01:50,109
+por dia. Em onde mais procuram, você vê
+as sessões mais buscadas, como guia
+
+88
+00:01:50,109 --> 00:01:50,119
+as sessões mais buscadas, como guia
+ 
+
+89
+00:01:50,119 --> 00:01:52,510
+as sessões mais buscadas, como guia
+comercial, classificados e vagas de
+
+90
+00:01:52,510 --> 00:01:52,520
+comercial, classificados e vagas de
+ 
+
+91
+00:01:52,520 --> 00:01:55,350
+comercial, classificados e vagas de
+emprego. E em categorias mais pedidas, o
+
+92
+00:01:55,350 --> 00:01:55,360
+emprego. E em categorias mais pedidas, o
+ 
+
+93
+00:01:55,360 --> 00:01:57,789
+emprego. E em categorias mais pedidas, o
+que os visitantes mais querem encontrar.
+
+94
+00:01:57,789 --> 00:01:57,799
+que os visitantes mais querem encontrar.
+ 
+
+95
+00:01:57,799 --> 00:02:00,270
+que os visitantes mais querem encontrar.
+Logo abaixo, as palavras mais buscadas e
+
+96
+00:02:00,270 --> 00:02:00,280
+Logo abaixo, as palavras mais buscadas e
+ 
+
+97
+00:02:00,280 --> 00:02:02,910
+Logo abaixo, as palavras mais buscadas e
+as cidades citadas nas conversas. Muita
+
+98
+00:02:02,910 --> 00:02:02,920
+as cidades citadas nas conversas. Muita
+ 
+
+99
+00:02:02,920 --> 00:02:05,510
+as cidades citadas nas conversas. Muita
+atenção à pergunta sem resultado é
+
+100
+00:02:05,510 --> 00:02:05,520
+atenção à pergunta sem resultado é
+ 
+
+101
+00:02:05,520 --> 00:02:07,510
+atenção à pergunta sem resultado é
+quando o visitante procurou e o portal
+
+102
+00:02:07,510 --> 00:02:07,520
+quando o visitante procurou e o portal
+ 
+
+103
+00:02:07,520 --> 00:02:09,830
+quando o visitante procurou e o portal
+não tinha. Isso é uma lista de quem
+
+104
+00:02:09,830 --> 00:02:09,840
+não tinha. Isso é uma lista de quem
+ 
+
+105
+00:02:09,840 --> 00:02:11,910
+não tinha. Isso é uma lista de quem
+falta anunciar, ou seja, uma
+
+106
+00:02:11,910 --> 00:02:11,920
+falta anunciar, ou seja, uma
+ 
+
+107
+00:02:11,920 --> 00:02:14,270
+falta anunciar, ou seja, uma
+oportunidade de venda para você. Em
+
+108
+00:02:14,270 --> 00:02:14,280
+oportunidade de venda para você. Em
+ 
+
+109
+00:02:14,280 --> 00:02:17,070
+oportunidade de venda para você. Em
+últimas perguntas aparece cada conversa
+
+110
+00:02:17,070 --> 00:02:17,080
+últimas perguntas aparece cada conversa
+ 
+
+111
+00:02:17,080 --> 00:02:19,750
+últimas perguntas aparece cada conversa
+marcando se a busca achou ou não achou.
+
+112
+00:02:19,750 --> 00:02:19,760
+marcando se a busca achou ou não achou.
+ 
+
+113
+00:02:19,760 --> 00:02:21,990
+marcando se a busca achou ou não achou.
+Veja, a nossa simulação vendas e
+
+114
+00:02:21,990 --> 00:02:22,000
+Veja, a nossa simulação vendas e
+ 
+
+115
+00:02:22,000 --> 00:02:24,550
+Veja, a nossa simulação vendas e
+comercial já está aqui com busca e
+
+116
+00:02:24,550 --> 00:02:24,560
+comercial já está aqui com busca e
+ 
+
+117
+00:02:24,560 --> 00:02:26,949
+comercial já está aqui com busca e
+achou. As perguntas ficam guardadas por
+
+118
+00:02:26,949 --> 00:02:26,959
+achou. As perguntas ficam guardadas por
+ 
+
+119
+00:02:26,959 --> 00:02:29,750
+achou. As perguntas ficam guardadas por
+180 dias e o portal não guarda quem
+
+120
+00:02:29,750 --> 00:02:29,760
+180 dias e o portal não guarda quem
+ 
+
+121
+00:02:29,760 --> 00:02:32,070
+180 dias e o portal não guarda quem
+perguntou. Pronto. Deixe o assistente
+
+122
+00:02:32,070 --> 00:02:32,080
+perguntou. Pronto. Deixe o assistente
+ 
+
+123
+00:02:32,080 --> 00:02:34,550
+perguntou. Pronto. Deixe o assistente
+ligado, acompanhe o que a cidade procura
+
+124
+00:02:34,550 --> 00:02:34,560
+ligado, acompanhe o que a cidade procura
+ 
+
+125
+00:02:34,560 --> 00:02:39,160
+ligado, acompanhe o que a cidade procura
+e use isso para vender mais anúncios.
+

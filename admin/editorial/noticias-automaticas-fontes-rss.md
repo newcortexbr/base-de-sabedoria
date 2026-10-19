@@ -1,6 +1,6 @@
 ---
 id: noticias-automaticas-fontes-rss
-titulo: notícias automáticas: cadastrar e controlar fontes de RSS
+titulo: "notícias automáticas: cadastrar e controlar fontes de RSS"
 publico:
   - admin
 modulo: notícias
@@ -8,7 +8,7 @@ categoria: conteúdo
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-16
+revisado_em: 2026-10-19
 validacao: docs-e-codigo
 videos:
   - r5rFCgAV0mg
@@ -29,7 +29,8 @@ trazer notícias de outros sites automaticamente, por fontes de RSS.
 3. Na aba `Escolher da lista`, marque os sites prontos que você quer (por exemplo, do Portal G1) e clique em `Adicionar`.
 4. Se o site que você quer não está na lista, clique na aba `Colar endereço`. Preencha o `Título`, cole o endereço em `URL do RSS` e escolha a `Quantidade de notícias por vez` e o `Status`. Ao sair do campo do endereço, o sistema confere sozinho se ele funciona.
 5. Clique em `Salvar`. Você volta para a lista.
-6. Na lista, clique na situação da fonte para ligar ou desligar. Use o lápis para editar e a lixeira para excluir.
+6. Para escolher se as notícias de uma fonte vão ao ar sozinhas, clique no lápis dela e marque `Publicar direto no site`. Desmarcado, elas entram como rascunho para você revisar. Clique em `Salvar`.
+7. Na lista, clique na situação da fonte para ligar ou desligar. Use o lápis para editar e a lixeira para excluir.
 
 ## resultado
 

@@ -1,0 +1,385 @@
+1
+00:00:00,199 --> 00:00:02,550
+ 
+Eventos movimentam a cidade e são uma
+
+2
+00:00:02,550 --> 00:00:02,560
+Eventos movimentam a cidade e são uma
+ 
+
+3
+00:00:02,560 --> 00:00:04,590
+Eventos movimentam a cidade e são uma
+excelente fonte de receita para o seu
+
+4
+00:00:04,590 --> 00:00:04,600
+excelente fonte de receita para o seu
+ 
+
+5
+00:00:04,600 --> 00:00:07,110
+excelente fonte de receita para o seu
+portal. O mais prático, o próprio
+
+6
+00:00:07,110 --> 00:00:07,120
+portal. O mais prático, o próprio
+ 
+
+7
+00:00:07,120 --> 00:00:09,190
+portal. O mais prático, o próprio
+cliente cadastra o evento pela área do
+
+8
+00:00:09,190 --> 00:00:09,200
+cliente cadastra o evento pela área do
+ 
+
+9
+00:00:09,200 --> 00:00:11,629
+cliente cadastra o evento pela área do
+cliente dele. Em agenda de eventos, ele
+
+10
+00:00:11,629 --> 00:00:11,639
+cliente dele. Em agenda de eventos, ele
+ 
+
+11
+00:00:11,639 --> 00:00:13,870
+cliente dele. Em agenda de eventos, ele
+vê como paga, acompanha os eventos no
+
+12
+00:00:13,870 --> 00:00:13,880
+vê como paga, acompanha os eventos no
+ 
+
+13
+00:00:13,880 --> 00:00:16,470
+vê como paga, acompanha os eventos no
+ar, aguardando pagamento e em análise, e
+
+14
+00:00:16,470 --> 00:00:16,480
+ar, aguardando pagamento e em análise, e
+ 
+
+15
+00:00:16,480 --> 00:00:18,870
+ar, aguardando pagamento e em análise, e
+clica em novo evento. Ele preenche
+
+16
+00:00:18,870 --> 00:00:18,880
+clica em novo evento. Ele preenche
+ 
+
+17
+00:00:18,880 --> 00:00:22,230
+clica em novo evento. Ele preenche
+título, data, horário, local, foto e
+
+18
+00:00:22,230 --> 00:00:22,240
+título, data, horário, local, foto e
+ 
+
+19
+00:00:22,240 --> 00:00:25,150
+título, data, horário, local, foto e
+contato. Escolhe a divulgação, paga e
+
+20
+00:00:25,150 --> 00:00:25,160
+contato. Escolhe a divulgação, paga e
+ 
+
+21
+00:00:25,160 --> 00:00:27,589
+contato. Escolhe a divulgação, paga e
+publica. Depois do pagamento, o evento
+
+22
+00:00:27,589 --> 00:00:27,599
+publica. Depois do pagamento, o evento
+ 
+
+23
+00:00:27,599 --> 00:00:29,990
+publica. Depois do pagamento, o evento
+passa pela sua aprovação. Os planos de
+
+24
+00:00:29,990 --> 00:00:30,000
+passa pela sua aprovação. Os planos de
+ 
+
+25
+00:00:30,000 --> 00:00:32,709
+passa pela sua aprovação. Os planos de
+eventos são totalmente configuráveis. Em
+
+26
+00:00:32,709 --> 00:00:32,719
+eventos são totalmente configuráveis. Em
+ 
+
+27
+00:00:32,719 --> 00:00:35,110
+eventos são totalmente configuráveis. Em
+meus planos, na agenda de eventos, você
+
+28
+00:00:35,110 --> 00:00:35,120
+meus planos, na agenda de eventos, você
+ 
+
+29
+00:00:35,120 --> 00:00:37,549
+meus planos, na agenda de eventos, você
+cria pacotes mensais como cinco eventos
+
+30
+00:00:37,549 --> 00:00:37,559
+cria pacotes mensais como cinco eventos
+ 
+
+31
+00:00:37,559 --> 00:00:40,150
+cria pacotes mensais como cinco eventos
+por mês ou pagamento único por evento,
+
+32
+00:00:40,150 --> 00:00:40,160
+por mês ou pagamento único por evento,
+ 
+
+33
+00:00:40,160 --> 00:00:42,950
+por mês ou pagamento único por evento,
+com ou sem destaque. Você define nome,
+
+34
+00:00:42,950 --> 00:00:42,960
+com ou sem destaque. Você define nome,
+ 
+
+35
+00:00:42,960 --> 00:00:45,350
+com ou sem destaque. Você define nome,
+preço e benefícios. Cadastrar pelo
+
+36
+00:00:45,350 --> 00:00:45,360
+preço e benefícios. Cadastrar pelo
+ 
+
+37
+00:00:45,360 --> 00:00:48,350
+preço e benefícios. Cadastrar pelo
+painel admin é opcional. Se quiser, abra
+
+38
+00:00:48,350 --> 00:00:48,360
+painel admin é opcional. Se quiser, abra
+ 
+
+39
+00:00:48,360 --> 00:00:50,750
+painel admin é opcional. Se quiser, abra
+Guia Turístico e Eventos, clique em
+
+40
+00:00:50,750 --> 00:00:50,760
+Guia Turístico e Eventos, clique em
+ 
+
+41
+00:00:50,760 --> 00:00:53,470
+Guia Turístico e Eventos, clique em
+eventos e veja a agenda com busca,
+
+42
+00:00:53,470 --> 00:00:53,480
+eventos e veja a agenda com busca,
+ 
+
+43
+00:00:53,480 --> 00:00:55,470
+eventos e veja a agenda com busca,
+filtros e abas de categorias e
+
+44
+00:00:55,470 --> 00:00:55,480
+filtros e abas de categorias e
+ 
+
+45
+00:00:55,480 --> 00:00:58,150
+filtros e abas de categorias e
+organizadores. Em novo evento, preencha
+
+46
+00:00:58,150 --> 00:00:58,160
+organizadores. Em novo evento, preencha
+ 
+
+47
+00:00:58,160 --> 00:01:01,509
+organizadores. Em novo evento, preencha
+título, datas, horário, local, CEP,
+
+48
+00:01:01,509 --> 00:01:01,519
+título, datas, horário, local, CEP,
+ 
+
+49
+00:01:01,519 --> 00:01:05,070
+título, datas, horário, local, CEP,
+categoria, organizador, foto, galeria,
+
+50
+00:01:05,070 --> 00:01:05,080
+categoria, organizador, foto, galeria,
+ 
+
+51
+00:01:05,080 --> 00:01:07,870
+categoria, organizador, foto, galeria,
+preço, link de ingresso, WhatsApp,
+
+52
+00:01:07,870 --> 00:01:07,880
+preço, link de ingresso, WhatsApp,
+ 
+
+53
+00:01:07,880 --> 00:01:10,350
+preço, link de ingresso, WhatsApp,
+descrição e programação e clique em
+
+54
+00:01:10,350 --> 00:01:10,360
+descrição e programação e clique em
+ 
+
+55
+00:01:10,360 --> 00:01:12,950
+descrição e programação e clique em
+salvar. Agora veja a página do evento no
+
+56
+00:01:12,950 --> 00:01:12,960
+salvar. Agora veja a página do evento no
+ 
+
+57
+00:01:12,960 --> 00:01:15,830
+salvar. Agora veja a página do evento no
+site. No topo, a data em destaque, o
+
+58
+00:01:15,830 --> 00:01:15,840
+site. No topo, a data em destaque, o
+ 
+
+59
+00:01:15,840 --> 00:01:18,429
+site. No topo, a data em destaque, o
+título, o local, o organizador e os
+
+60
+00:01:18,429 --> 00:01:18,439
+título, o local, o organizador e os
+ 
+
+61
+00:01:18,439 --> 00:01:21,149
+título, o local, o organizador e os
+botões de WhatsApp e como chegar. Abaixo
+
+62
+00:01:21,149 --> 00:01:21,159
+botões de WhatsApp e como chegar. Abaixo
+ 
+
+63
+00:01:21,159 --> 00:01:23,550
+botões de WhatsApp e como chegar. Abaixo
+vem a descrição, a galeria de fotos e
+
+64
+00:01:23,550 --> 00:01:23,560
+vem a descrição, a galeria de fotos e
+ 
+
+65
+00:01:23,560 --> 00:01:26,310
+vem a descrição, a galeria de fotos e
+vídeos e o mapa da localização. Ao lado,
+
+66
+00:01:26,310 --> 00:01:26,320
+vídeos e o mapa da localização. Ao lado,
+ 
+
+67
+00:01:26,320 --> 00:01:28,630
+vídeos e o mapa da localização. Ao lado,
+o preço com o botão de contato, quem
+
+68
+00:01:28,630 --> 00:01:28,640
+o preço com o botão de contato, quem
+ 
+
+69
+00:01:28,640 --> 00:01:30,910
+o preço com o botão de contato, quem
+organiza, as informações de data e
+
+70
+00:01:30,910 --> 00:01:30,920
+organiza, as informações de data e
+ 
+
+71
+00:01:30,920 --> 00:01:33,429
+organiza, as informações de data e
+ingresso e o compartilhamento. No fim,
+
+72
+00:01:33,429 --> 00:01:33,439
+ingresso e o compartilhamento. No fim,
+ 
+
+73
+00:01:33,439 --> 00:01:35,510
+ingresso e o compartilhamento. No fim,
+os próximos eventos levam o visitante
+
+74
+00:01:35,510 --> 00:01:35,520
+os próximos eventos levam o visitante
+ 
+
+75
+00:01:35,520 --> 00:01:38,190
+os próximos eventos levam o visitante
+para mais programação. Pronto, agenda
+
+76
+00:01:38,190 --> 00:01:38,200
+para mais programação. Pronto, agenda
+ 
+
+77
+00:01:38,200 --> 00:01:42,399
+para mais programação. Pronto, agenda
+cheia e receita para o seu portal.
+

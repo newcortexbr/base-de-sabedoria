@@ -11,8 +11,10 @@ permissoes:
   - visitante
 modulo: acesso
 status: rascunho-documental
-revisado_em: 2026-10-15
+revisado_em: 2026-10-19
 validacao: docs-e-codigo
+videos:
+  - d2EweodukHg
 ---
 
 ## objetivo

@@ -1,0 +1,855 @@
+1
+00:00:00,080 --> 00:00:02,310
+ 
+Neste vídeo, você vai conhecer todas as
+
+2
+00:00:02,310 --> 00:00:02,320
+Neste vídeo, você vai conhecer todas as
+ 
+
+3
+00:00:02,320 --> 00:00:05,230
+Neste vídeo, você vai conhecer todas as
+opções de layout do seu portal, o topo,
+
+4
+00:00:05,230 --> 00:00:05,240
+opções de layout do seu portal, o topo,
+ 
+
+5
+00:00:05,240 --> 00:00:08,270
+opções de layout do seu portal, o topo,
+as cores, o rodapé e a tela inicial.
+
+6
+00:00:08,270 --> 00:00:08,280
+as cores, o rodapé e a tela inicial.
+ 
+
+7
+00:00:08,280 --> 00:00:10,509
+as cores, o rodapé e a tela inicial.
+Tudo muda o visual do site sem precisar
+
+8
+00:00:10,509 --> 00:00:10,519
+Tudo muda o visual do site sem precisar
+ 
+
+9
+00:00:10,519 --> 00:00:13,110
+Tudo muda o visual do site sem precisar
+de programador. No menu lateral, abra
+
+10
+00:00:13,110 --> 00:00:13,120
+de programador. No menu lateral, abra
+ 
+
+11
+00:00:13,120 --> 00:00:16,070
+de programador. No menu lateral, abra
+configurações e clique em layout. São
+
+12
+00:00:16,070 --> 00:00:16,080
+configurações e clique em layout. São
+ 
+
+13
+00:00:16,080 --> 00:00:18,950
+configurações e clique em layout. São
+quatro cartões: topo, telain início,
+
+14
+00:00:18,950 --> 00:00:18,960
+quatro cartões: topo, telain início,
+ 
+
+15
+00:00:18,960 --> 00:00:22,429
+quatro cartões: topo, telain início,
+cores e rodapé. Comece pelo topo. Aqui
+
+16
+00:00:22,429 --> 00:00:22,439
+cores e rodapé. Comece pelo topo. Aqui
+ 
+
+17
+00:00:22,439 --> 00:00:24,710
+cores e rodapé. Comece pelo topo. Aqui
+você escolhe o modelo do cabeçalho. São
+
+18
+00:00:24,710 --> 00:00:24,720
+você escolhe o modelo do cabeçalho. São
+ 
+
+19
+00:00:24,720 --> 00:00:26,710
+você escolhe o modelo do cabeçalho. São
+cinco opções, cada uma com uma
+
+20
+00:00:26,710 --> 00:00:26,720
+cinco opções, cada uma com uma
+ 
+
+21
+00:00:26,720 --> 00:00:29,269
+cinco opções, cada uma com uma
+organização diferente de logo, busca e
+
+22
+00:00:29,269 --> 00:00:29,279
+organização diferente de logo, busca e
+ 
+
+23
+00:00:29,279 --> 00:00:31,910
+organização diferente de logo, busca e
+menu. O topo cinco, por exemplo, mostra
+
+24
+00:00:31,910 --> 00:00:31,920
+menu. O topo cinco, por exemplo, mostra
+ 
+
+25
+00:00:31,920 --> 00:00:34,150
+menu. O topo cinco, por exemplo, mostra
+a previsão do tempo da cidade ao lado da
+
+26
+00:00:34,150 --> 00:00:34,160
+a previsão do tempo da cidade ao lado da
+ 
+
+27
+00:00:34,160 --> 00:00:36,510
+a previsão do tempo da cidade ao lado da
+logo. A direita fica a prévia do seu
+
+28
+00:00:36,510 --> 00:00:36,520
+logo. A direita fica a prévia do seu
+ 
+
+29
+00:00:36,520 --> 00:00:39,150
+logo. A direita fica a prévia do seu
+site. Ela mostra o resultado na hora e
+
+30
+00:00:39,150 --> 00:00:39,160
+site. Ela mostra o resultado na hora e
+ 
+
+31
+00:00:39,160 --> 00:00:41,670
+site. Ela mostra o resultado na hora e
+nada muda no ar até você salvar. Você
+
+32
+00:00:41,670 --> 00:00:41,680
+nada muda no ar até você salvar. Você
+ 
+
+33
+00:00:41,680 --> 00:00:43,790
+nada muda no ar até você salvar. Você
+pode ver como fica no computador ou no
+
+34
+00:00:43,790 --> 00:00:43,800
+pode ver como fica no computador ou no
+ 
+
+35
+00:00:43,800 --> 00:00:46,430
+pode ver como fica no computador ou no
+celular. Depois escolha o tamanho da
+
+36
+00:00:46,430 --> 00:00:46,440
+celular. Depois escolha o tamanho da
+ 
+
+37
+00:00:46,440 --> 00:00:49,670
+celular. Depois escolha o tamanho da
+logo, pequena, média ou grande. Em
+
+38
+00:00:49,670 --> 00:00:49,680
+logo, pequena, média ou grande. Em
+ 
+
+39
+00:00:49,680 --> 00:00:52,110
+logo, pequena, média ou grande. Em
+cores, você define a barra superior e a
+
+40
+00:00:52,110 --> 00:00:52,120
+cores, você define a barra superior e a
+ 
+
+41
+00:00:52,120 --> 00:00:54,510
+cores, você define a barra superior e a
+barra de navegação com cor sólida ou
+
+42
+00:00:54,510 --> 00:00:54,520
+barra de navegação com cor sólida ou
+ 
+
+43
+00:00:54,520 --> 00:00:56,950
+barra de navegação com cor sólida ou
+gradiente. Escolha uma das combinações
+
+44
+00:00:56,950 --> 00:00:56,960
+gradiente. Escolha uma das combinações
+ 
+
+45
+00:00:56,960 --> 00:00:59,630
+gradiente. Escolha uma das combinações
+prontas, a direção do degradê ou digite
+
+46
+00:00:59,630 --> 00:00:59,640
+prontas, a direção do degradê ou digite
+ 
+
+47
+00:00:59,640 --> 00:01:02,270
+prontas, a direção do degradê ou digite
+o código da cor. E abaixo a cor dos
+
+48
+00:01:02,270 --> 00:01:02,280
+o código da cor. E abaixo a cor dos
+ 
+
+49
+00:01:02,280 --> 00:01:04,750
+o código da cor. E abaixo a cor dos
+links do menu. Em ordem do menu, você
+
+50
+00:01:04,750 --> 00:01:04,760
+links do menu. Em ordem do menu, você
+ 
+
+51
+00:01:04,760 --> 00:01:07,310
+links do menu. Em ordem do menu, você
+decide a sequência das sessões. Arraste
+
+52
+00:01:07,310 --> 00:01:07,320
+decide a sequência das sessões. Arraste
+ 
+
+53
+00:01:07,320 --> 00:01:10,350
+decide a sequência das sessões. Arraste
+pela alça ou use as setas. O início fica
+
+54
+00:01:10,350 --> 00:01:10,360
+pela alça ou use as setas. O início fica
+ 
+
+55
+00:01:10,360 --> 00:01:12,310
+pela alça ou use as setas. O início fica
+sempre em primeiro e quando não cabe
+
+56
+00:01:12,310 --> 00:01:12,320
+sempre em primeiro e quando não cabe
+ 
+
+57
+00:01:12,320 --> 00:01:14,310
+sempre em primeiro e quando não cabe
+tudo na barra, os últimos vão para o
+
+58
+00:01:14,310 --> 00:01:14,320
+tudo na barra, os últimos vão para o
+ 
+
+59
+00:01:14,320 --> 00:01:17,469
+tudo na barra, os últimos vão para o
+botão mais. Clique em salvar topo e o
+
+60
+00:01:17,469 --> 00:01:17,479
+botão mais. Clique em salvar topo e o
+ 
+
+61
+00:01:17,479 --> 00:01:19,429
+botão mais. Clique em salvar topo e o
+novo cabeçalho vale para todas as
+
+62
+00:01:19,429 --> 00:01:19,439
+novo cabeçalho vale para todas as
+ 
+
+63
+00:01:19,439 --> 00:01:22,990
+novo cabeçalho vale para todas as
+páginas. Agora, cores. Duas cores pintam
+
+64
+00:01:22,990 --> 00:01:23,000
+páginas. Agora, cores. Duas cores pintam
+ 
+
+65
+00:01:23,000 --> 00:01:25,789
+páginas. Agora, cores. Duas cores pintam
+o portal inteiro. A cor primária é a de
+
+66
+00:01:25,789 --> 00:01:25,799
+o portal inteiro. A cor primária é a de
+ 
+
+67
+00:01:25,799 --> 00:01:28,510
+o portal inteiro. A cor primária é a de
+tudo que se clica, botões, links,
+
+68
+00:01:28,510 --> 00:01:28,520
+tudo que se clica, botões, links,
+ 
+
+69
+00:01:28,520 --> 00:01:31,030
+tudo que se clica, botões, links,
+paginação, campos de formulário e a área
+
+70
+00:01:31,030 --> 00:01:31,040
+paginação, campos de formulário e a área
+ 
+
+71
+00:01:31,040 --> 00:01:33,590
+paginação, campos de formulário e a área
+do cliente. Logo abaixo você vê exemplos
+
+72
+00:01:33,590 --> 00:01:33,600
+do cliente. Logo abaixo você vê exemplos
+ 
+
+73
+00:01:33,600 --> 00:01:36,109
+do cliente. Logo abaixo você vê exemplos
+de onde ela aparece e um aviso confirma
+
+74
+00:01:36,109 --> 00:01:36,119
+de onde ela aparece e um aviso confirma
+ 
+
+75
+00:01:36,119 --> 00:01:38,270
+de onde ela aparece e um aviso confirma
+se o texto fica legível. A cor de
+
+76
+00:01:38,270 --> 00:01:38,280
+se o texto fica legível. A cor de
+ 
+
+77
+00:01:38,280 --> 00:01:41,069
+se o texto fica legível. A cor de
+destaque chama atenção sem ser botão, o
+
+78
+00:01:41,069 --> 00:01:41,079
+destaque chama atenção sem ser botão, o
+ 
+
+79
+00:01:41,079 --> 00:01:43,590
+destaque chama atenção sem ser botão, o
+nome das sessões, a barrinha do título,
+
+80
+00:01:43,590 --> 00:01:43,600
+nome das sessões, a barrinha do título,
+ 
+
+81
+00:01:43,600 --> 00:01:46,429
+nome das sessões, a barrinha do título,
+selos e etiquetas. Na prévia, escolha
+
+82
+00:01:46,429 --> 00:01:46,439
+selos e etiquetas. Na prévia, escolha
+ 
+
+83
+00:01:46,439 --> 00:01:49,550
+selos e etiquetas. Na prévia, escolha
+qual página quer ver. Início, guia,
+
+84
+00:01:49,550 --> 00:01:49,560
+qual página quer ver. Início, guia,
+ 
+
+85
+00:01:49,560 --> 00:01:53,270
+qual página quer ver. Início, guia,
+empresa, notícia, vagas, classificados e
+
+86
+00:01:53,270 --> 00:01:53,280
+empresa, notícia, vagas, classificados e
+ 
+
+87
+00:01:53,280 --> 00:01:55,870
+empresa, notícia, vagas, classificados e
+até as telas de conta. Em acender,
+
+88
+00:01:55,870 --> 00:01:55,880
+até as telas de conta. Em acender,
+ 
+
+89
+00:01:55,880 --> 00:01:58,029
+até as telas de conta. Em acender,
+destaque só a primária ou só a de
+
+90
+00:01:58,029 --> 00:01:58,039
+destaque só a primária ou só a de
+ 
+
+91
+00:01:58,039 --> 00:02:00,310
+destaque só a primária ou só a de
+destaque para ver exatamente onde cada
+
+92
+00:02:00,310 --> 00:02:00,320
+destaque para ver exatamente onde cada
+ 
+
+93
+00:02:00,320 --> 00:02:03,350
+destaque para ver exatamente onde cada
+uma aparece. Clique em salvar cores e o
+
+94
+00:02:03,350 --> 00:02:03,360
+uma aparece. Clique em salvar cores e o
+ 
+
+95
+00:02:03,360 --> 00:02:06,389
+uma aparece. Clique em salvar cores e o
+site inteiro muda de uma vez. Agora o
+
+96
+00:02:06,389 --> 00:02:06,399
+site inteiro muda de uma vez. Agora o
+ 
+
+97
+00:02:06,399 --> 00:02:09,510
+site inteiro muda de uma vez. Agora o
+rodapé. Escolha o modelo linha única,
+
+98
+00:02:09,510 --> 00:02:09,520
+rodapé. Escolha o modelo linha única,
+ 
+
+99
+00:02:09,520 --> 00:02:11,990
+rodapé. Escolha o modelo linha única,
+centralizado ou faixa de chamada.
+
+100
+00:02:11,990 --> 00:02:12,000
+centralizado ou faixa de chamada.
+ 
+
+101
+00:02:12,000 --> 00:02:13,830
+centralizado ou faixa de chamada.
+Escreva o texto que aparece abaixo da
+
+102
+00:02:13,830 --> 00:02:13,840
+Escreva o texto que aparece abaixo da
+ 
+
+103
+00:02:13,840 --> 00:02:16,910
+Escreva o texto que aparece abaixo da
+logo com até 300 caracteres. Defina a
+
+104
+00:02:16,910 --> 00:02:16,920
+logo com até 300 caracteres. Defina a
+ 
+
+105
+00:02:16,920 --> 00:02:19,190
+logo com até 300 caracteres. Defina a
+cor de fundo do rodapé ou clique em
+
+106
+00:02:19,190 --> 00:02:19,200
+cor de fundo do rodapé ou clique em
+ 
+
+107
+00:02:19,200 --> 00:02:21,309
+cor de fundo do rodapé ou clique em
+herdar cor do topo para usar o mesmo
+
+108
+00:02:21,309 --> 00:02:21,319
+herdar cor do topo para usar o mesmo
+ 
+
+109
+00:02:21,319 --> 00:02:23,990
+herdar cor do topo para usar o mesmo
+degradê do cabeçalho. Depois, a cor dos
+
+110
+00:02:23,990 --> 00:02:24,000
+degradê do cabeçalho. Depois, a cor dos
+ 
+
+111
+00:02:24,000 --> 00:02:26,430
+degradê do cabeçalho. Depois, a cor dos
+textos e links. Escolha o tamanho da
+
+112
+00:02:26,430 --> 00:02:26,440
+textos e links. Escolha o tamanho da
+ 
+
+113
+00:02:26,440 --> 00:02:29,229
+textos e links. Escolha o tamanho da
+logo no rodapé. Confira tudo na prévia e
+
+114
+00:02:29,229 --> 00:02:29,239
+logo no rodapé. Confira tudo na prévia e
+ 
+
+115
+00:02:29,239 --> 00:02:31,830
+logo no rodapé. Confira tudo na prévia e
+clique em salvar. Por último, a tela
+
+116
+00:02:31,830 --> 00:02:31,840
+clique em salvar. Por último, a tela
+ 
+
+117
+00:02:31,840 --> 00:02:33,949
+clique em salvar. Por último, a tela
+início, a página que o visitante vê
+
+118
+00:02:33,949 --> 00:02:33,959
+início, a página que o visitante vê
+ 
+
+119
+00:02:33,959 --> 00:02:36,430
+início, a página que o visitante vê
+primeiro. Ela é montada com blocos e a
+
+120
+00:02:36,430 --> 00:02:36,440
+primeiro. Ela é montada com blocos e a
+ 
+
+121
+00:02:36,440 --> 00:02:38,910
+primeiro. Ela é montada com blocos e a
+ordem da lista é a ordem do site. Cada
+
+122
+00:02:38,910 --> 00:02:38,920
+ordem da lista é a ordem do site. Cada
+ 
+
+123
+00:02:38,920 --> 00:02:41,309
+ordem da lista é a ordem do site. Cada
+bloco mostra o tipo, como vagas,
+
+124
+00:02:41,309 --> 00:02:41,319
+bloco mostra o tipo, como vagas,
+ 
+
+125
+00:02:41,319 --> 00:02:43,990
+bloco mostra o tipo, como vagas,
+turismo, notícias, guia comercial,
+
+126
+00:02:43,990 --> 00:02:44,000
+turismo, notícias, guia comercial,
+ 
+
+127
+00:02:44,000 --> 00:02:46,869
+turismo, notícias, guia comercial,
+classificados, eventos ou publicidade e
+
+128
+00:02:46,869 --> 00:02:46,879
+classificados, eventos ou publicidade e
+ 
+
+129
+00:02:46,879 --> 00:02:49,670
+classificados, eventos ou publicidade e
+o modelo visual usado. Veja na prática.
+
+130
+00:02:49,670 --> 00:02:49,680
+o modelo visual usado. Veja na prática.
+ 
+
+131
+00:02:49,680 --> 00:02:51,910
+o modelo visual usado. Veja na prática.
+Hoje o primeiro bloco da home é o de
+
+132
+00:02:51,910 --> 00:02:51,920
+Hoje o primeiro bloco da home é o de
+ 
+
+133
+00:02:51,920 --> 00:02:54,470
+Hoje o primeiro bloco da home é o de
+vagas. Vamos levar o guia comercial para
+
+134
+00:02:54,470 --> 00:02:54,480
+vagas. Vamos levar o guia comercial para
+ 
+
+135
+00:02:54,480 --> 00:02:57,270
+vagas. Vamos levar o guia comercial para
+o topo. Segure a alça e arraste até o
+
+136
+00:02:57,270 --> 00:02:57,280
+o topo. Segure a alça e arraste até o
+ 
+
+137
+00:02:57,280 --> 00:02:59,790
+o topo. Segure a alça e arraste até o
+início da lista. A nova ordem é salva
+
+138
+00:02:59,790 --> 00:02:59,800
+início da lista. A nova ordem é salva
+ 
+
+139
+00:02:59,800 --> 00:03:02,550
+início da lista. A nova ordem é salva
+sozinha. Atualize a home. O guia
+
+140
+00:03:02,550 --> 00:03:02,560
+sozinha. Atualize a home. O guia
+ 
+
+141
+00:03:02,560 --> 00:03:04,789
+sozinha. Atualize a home. O guia
+comercial já aparece em primeiro com as
+
+142
+00:03:04,789 --> 00:03:04,799
+comercial já aparece em primeiro com as
+ 
+
+143
+00:03:04,799 --> 00:03:06,990
+comercial já aparece em primeiro com as
+empresas em destaque e as vagas logo
+
+144
+00:03:06,990 --> 00:03:07,000
+empresas em destaque e as vagas logo
+ 
+
+145
+00:03:07,000 --> 00:03:09,470
+empresas em destaque e as vagas logo
+abaixo. Para incluir algo novo, clique
+
+146
+00:03:09,470 --> 00:03:09,480
+abaixo. Para incluir algo novo, clique
+ 
+
+147
+00:03:09,480 --> 00:03:12,070
+abaixo. Para incluir algo novo, clique
+em adicionar bloco e escolha o tipo de
+
+148
+00:03:12,070 --> 00:03:12,080
+em adicionar bloco e escolha o tipo de
+ 
+
+149
+00:03:12,080 --> 00:03:14,750
+em adicionar bloco e escolha o tipo de
+conteúdo. Depois, escolha o modelo como
+
+150
+00:03:14,750 --> 00:03:14,760
+conteúdo. Depois, escolha o modelo como
+ 
+
+151
+00:03:14,760 --> 00:03:17,110
+conteúdo. Depois, escolha o modelo como
+um carrossel, uma grade ou uma lista
+
+152
+00:03:17,110 --> 00:03:17,120
+um carrossel, uma grade ou uma lista
+ 
+
+153
+00:03:17,120 --> 00:03:19,990
+um carrossel, uma grade ou uma lista
+compacta. Por fim, configure o título, o
+
+154
+00:03:19,990 --> 00:03:20,000
+compacta. Por fim, configure o título, o
+ 
+
+155
+00:03:20,000 --> 00:03:22,869
+compacta. Por fim, configure o título, o
+subtítulo e a categoria e veja na prévia
+
+156
+00:03:22,869 --> 00:03:22,879
+subtítulo e a categoria e veja na prévia
+ 
+
+157
+00:03:22,879 --> 00:03:25,270
+subtítulo e a categoria e veja na prévia
+como o bloco fica com o conteúdo real do
+
+158
+00:03:25,270 --> 00:03:25,280
+como o bloco fica com o conteúdo real do
+ 
+
+159
+00:03:25,280 --> 00:03:28,229
+como o bloco fica com o conteúdo real do
+portal. Clique em adicionar bloco. Em
+
+160
+00:03:28,229 --> 00:03:28,239
+portal. Clique em adicionar bloco. Em
+ 
+
+161
+00:03:28,239 --> 00:03:30,630
+portal. Clique em adicionar bloco. Em
+cada bloco da lista, o olho oculta o
+
+162
+00:03:30,630 --> 00:03:30,640
+cada bloco da lista, o olho oculta o
+ 
+
+163
+00:03:30,640 --> 00:03:33,589
+cada bloco da lista, o olho oculta o
+bloco sem apagar, o lápis edita e a
+
+164
+00:03:33,589 --> 00:03:33,599
+bloco sem apagar, o lápis edita e a
+ 
+
+165
+00:03:33,599 --> 00:03:36,390
+bloco sem apagar, o lápis edita e a
+lixeira remove. Pronto. Com o layout,
+
+166
+00:03:36,390 --> 00:03:36,400
+lixeira remove. Pronto. Com o layout,
+ 
+
+167
+00:03:36,400 --> 00:03:38,270
+lixeira remove. Pronto. Com o layout,
+você deixa o portal com a cara da sua
+
+168
+00:03:38,270 --> 00:03:38,280
+você deixa o portal com a cara da sua
+ 
+
+169
+00:03:38,280 --> 00:03:40,429
+você deixa o portal com a cara da sua
+marca e organiza a home do jeito que
+
+170
+00:03:40,429 --> 00:03:40,439
+marca e organiza a home do jeito que
+ 
+
+171
+00:03:40,439 --> 00:03:43,799
+marca e organiza a home do jeito que
+quiser. Так.
+

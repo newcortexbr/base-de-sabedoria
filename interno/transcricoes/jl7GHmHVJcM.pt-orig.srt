@@ -1,0 +1,1795 @@
+1
+00:00:00,640 --> 00:00:02,750
+ 
+Nesse vídeo eu vou te explicar como
+
+2
+00:00:02,750 --> 00:00:02,760
+Nesse vídeo eu vou te explicar como
+ 
+
+3
+00:00:02,760 --> 00:00:05,510
+Nesse vídeo eu vou te explicar como
+extrair uma lista do nosso extrator
+
+4
+00:00:05,510 --> 00:00:05,520
+extrair uma lista do nosso extrator
+ 
+
+5
+00:00:05,520 --> 00:00:08,870
+extrair uma lista do nosso extrator
+GMAPS, do Google Maps, da região, da sua
+
+6
+00:00:08,870 --> 00:00:08,880
+GMAPS, do Google Maps, da região, da sua
+ 
+
+7
+00:00:08,880 --> 00:00:13,150
+GMAPS, do Google Maps, da região, da sua
+região, e adicionar dentro do seu
+
+8
+00:00:13,150 --> 00:00:13,160
+região, e adicionar dentro do seu
+ 
+
+9
+00:00:13,160 --> 00:00:14,990
+região, e adicionar dentro do seu
+portal. Eu vou te explicar alguns
+
+10
+00:00:14,990 --> 00:00:15,000
+portal. Eu vou te explicar alguns
+ 
+
+11
+00:00:15,000 --> 00:00:17,269
+portal. Eu vou te explicar alguns
+detalhes importantes. Então, um vídeo
+
+12
+00:00:17,269 --> 00:00:17,279
+detalhes importantes. Então, um vídeo
+ 
+
+13
+00:00:17,279 --> 00:00:19,230
+detalhes importantes. Então, um vídeo
+bem importante, eu preciso você assista
+
+14
+00:00:19,230 --> 00:00:19,240
+bem importante, eu preciso você assista
+ 
+
+15
+00:00:19,240 --> 00:00:21,870
+bem importante, eu preciso você assista
+ele com calma para você entender algumas
+
+16
+00:00:21,870 --> 00:00:21,880
+ele com calma para você entender algumas
+ 
+
+17
+00:00:21,880 --> 00:00:24,310
+ele com calma para você entender algumas
+coisas que podem acontecer durante esse
+
+18
+00:00:24,310 --> 00:00:24,320
+coisas que podem acontecer durante esse
+ 
+
+19
+00:00:24,320 --> 00:00:26,150
+coisas que podem acontecer durante esse
+processo. Então, eu tô aqui com a minha
+
+20
+00:00:26,150 --> 00:00:26,160
+processo. Então, eu tô aqui com a minha
+ 
+
+21
+00:00:26,160 --> 00:00:29,950
+processo. Então, eu tô aqui com a minha
+ferramenta GMAPS aberta e tô aqui com o
+
+22
+00:00:29,950 --> 00:00:29,960
+ferramenta GMAPS aberta e tô aqui com o
+ 
+
+23
+00:00:29,960 --> 00:00:31,830
+ferramenta GMAPS aberta e tô aqui com o
+meu painel administrativo do portal
+
+24
+00:00:31,830 --> 00:00:31,840
+meu painel administrativo do portal
+ 
+
+25
+00:00:31,840 --> 00:00:33,350
+meu painel administrativo do portal
+aberto. São as duas coisas que já tem
+
+26
+00:00:33,350 --> 00:00:33,360
+aberto. São as duas coisas que já tem
+ 
+
+27
+00:00:33,360 --> 00:00:35,310
+aberto. São as duas coisas que já tem
+que estar aberta para funcionar. Eu não
+
+28
+00:00:35,310 --> 00:00:35,320
+que estar aberta para funcionar. Eu não
+ 
+
+29
+00:00:35,320 --> 00:00:37,190
+que estar aberta para funcionar. Eu não
+vou ficar explicando muitos detalhes
+
+30
+00:00:37,190 --> 00:00:37,200
+vou ficar explicando muitos detalhes
+ 
+
+31
+00:00:37,200 --> 00:00:39,869
+vou ficar explicando muitos detalhes
+aqui da ferramenta GMAPS porque você já
+
+32
+00:00:39,869 --> 00:00:39,879
+aqui da ferramenta GMAPS porque você já
+ 
+
+33
+00:00:39,879 --> 00:00:41,069
+aqui da ferramenta GMAPS porque você já
+tem que ter assistido os vídeos
+
+34
+00:00:41,069 --> 00:00:41,079
+tem que ter assistido os vídeos
+ 
+
+35
+00:00:41,079 --> 00:00:43,270
+tem que ter assistido os vídeos
+anteriores. Tem um vídeo aqui na própria
+
+36
+00:00:43,270 --> 00:00:43,280
+anteriores. Tem um vídeo aqui na própria
+ 
+
+37
+00:00:43,280 --> 00:00:45,790
+anteriores. Tem um vídeo aqui na própria
+sessão do Nova Extração, tem um vídeo na
+
+38
+00:00:45,790 --> 00:00:45,800
+sessão do Nova Extração, tem um vídeo na
+ 
+
+39
+00:00:45,800 --> 00:00:47,189
+sessão do Nova Extração, tem um vídeo na
+dashboard. Então aqui eu vou ser
+
+40
+00:00:47,189 --> 00:00:47,199
+dashboard. Então aqui eu vou ser
+ 
+
+41
+00:00:47,199 --> 00:00:49,830
+dashboard. Então aqui eu vou ser
+objetivo sobre o processo de geração da
+
+42
+00:00:49,830 --> 00:00:49,840
+objetivo sobre o processo de geração da
+ 
+
+43
+00:00:49,840 --> 00:00:52,590
+objetivo sobre o processo de geração da
+lista e importação ali dentro do seu
+
+44
+00:00:52,590 --> 00:00:52,600
+lista e importação ali dentro do seu
+ 
+
+45
+00:00:52,600 --> 00:00:54,910
+lista e importação ali dentro do seu
+portal. Beleza? Primeira coisa,
+
+46
+00:00:54,910 --> 00:00:54,920
+portal. Beleza? Primeira coisa,
+ 
+
+47
+00:00:54,920 --> 00:00:58,709
+portal. Beleza? Primeira coisa,
+acessando o GMAPS aqui na aba nova
+
+48
+00:00:58,709 --> 00:00:58,719
+acessando o GMAPS aqui na aba nova
+ 
+
+49
+00:00:58,719 --> 00:01:01,189
+acessando o GMAPS aqui na aba nova
+extração, você vai escolher a opção base
+
+50
+00:01:01,189 --> 00:01:01,199
+extração, você vai escolher a opção base
+ 
+
+51
+00:01:01,199 --> 00:01:03,830
+extração, você vai escolher a opção base
+para portal. Você vai clicar em avançar
+
+52
+00:01:03,830 --> 00:01:03,840
+para portal. Você vai clicar em avançar
+ 
+
+53
+00:01:03,840 --> 00:01:05,950
+para portal. Você vai clicar em avançar
+e agora é hora de você escolher a
+
+54
+00:01:05,950 --> 00:01:05,960
+e agora é hora de você escolher a
+ 
+
+55
+00:01:05,960 --> 00:01:08,630
+e agora é hora de você escolher a
+localização. Então, escolha o estado que
+
+56
+00:01:08,630 --> 00:01:08,640
+localização. Então, escolha o estado que
+ 
+
+57
+00:01:08,640 --> 00:01:11,310
+localização. Então, escolha o estado que
+você tá usando para divulgar, né, para
+
+58
+00:01:11,310 --> 00:01:11,320
+você tá usando para divulgar, né, para
+ 
+
+59
+00:01:11,320 --> 00:01:14,390
+você tá usando para divulgar, né, para
+iniciar a captação de de leads ali, de
+
+60
+00:01:14,390 --> 00:01:14,400
+iniciar a captação de de leads ali, de
+ 
+
+61
+00:01:14,400 --> 00:01:16,630
+iniciar a captação de de leads ali, de
+clientes pagantes pro seu portal e
+
+62
+00:01:16,630 --> 00:01:16,640
+clientes pagantes pro seu portal e
+ 
+
+63
+00:01:16,640 --> 00:01:18,870
+clientes pagantes pro seu portal e
+escolha a cidade. Eu vou colocar aqui a
+
+64
+00:01:18,870 --> 00:01:18,880
+escolha a cidade. Eu vou colocar aqui a
+ 
+
+65
+00:01:18,880 --> 00:01:22,550
+escolha a cidade. Eu vou colocar aqui a
+minha cidade, Vila Velha, beleza? E o
+
+66
+00:01:22,550 --> 00:01:22,560
+minha cidade, Vila Velha, beleza? E o
+ 
+
+67
+00:01:22,560 --> 00:01:25,310
+minha cidade, Vila Velha, beleza? E o
+que que eu aconselho você a fazer nesse
+
+68
+00:01:25,310 --> 00:01:25,320
+que que eu aconselho você a fazer nesse
+ 
+
+69
+00:01:25,320 --> 00:01:28,109
+que que eu aconselho você a fazer nesse
+primeiro momento? Você pode escolher
+
+70
+00:01:28,109 --> 00:01:28,119
+primeiro momento? Você pode escolher
+ 
+
+71
+00:01:28,119 --> 00:01:30,789
+primeiro momento? Você pode escolher
+bairros mais estratégicos que você tá
+
+72
+00:01:30,789 --> 00:01:30,799
+bairros mais estratégicos que você tá
+ 
+
+73
+00:01:30,799 --> 00:01:33,270
+bairros mais estratégicos que você tá
+prospectando inicialmente. Se a sua
+
+74
+00:01:33,270 --> 00:01:33,280
+prospectando inicialmente. Se a sua
+ 
+
+75
+00:01:33,280 --> 00:01:34,910
+prospectando inicialmente. Se a sua
+estratégia for uma estratégia de
+
+76
+00:01:34,910 --> 00:01:34,920
+estratégia for uma estratégia de
+ 
+
+77
+00:01:34,920 --> 00:01:38,230
+estratégia for uma estratégia de
+segmentação por bairro, beleza? Vão
+
+78
+00:01:38,230 --> 00:01:38,240
+segmentação por bairro, beleza? Vão
+ 
+
+79
+00:01:38,240 --> 00:01:39,550
+segmentação por bairro, beleza? Vão
+imaginar que você fala: "Não, eu vou
+
+80
+00:01:39,550 --> 00:01:39,560
+imaginar que você fala: "Não, eu vou
+ 
+
+81
+00:01:39,560 --> 00:01:41,350
+imaginar que você fala: "Não, eu vou
+segmentar por nicho, vou começar por
+
+82
+00:01:41,350 --> 00:01:41,360
+segmentar por nicho, vou começar por
+ 
+
+83
+00:01:41,360 --> 00:01:43,230
+segmentar por nicho, vou começar por
+nicho". Tudo bem, você pode ignorar
+
+84
+00:01:43,230 --> 00:01:43,240
+nicho". Tudo bem, você pode ignorar
+ 
+
+85
+00:01:43,240 --> 00:01:46,109
+nicho". Tudo bem, você pode ignorar
+bairro, avançar e aqui escolher um
+
+86
+00:01:46,109 --> 00:01:46,119
+bairro, avançar e aqui escolher um
+ 
+
+87
+00:01:46,119 --> 00:01:48,950
+bairro, avançar e aqui escolher um
+nicho. Eu vou colocar aqui, por exemplo,
+
+88
+00:01:48,950 --> 00:01:48,960
+nicho. Eu vou colocar aqui, por exemplo,
+ 
+
+89
+00:01:48,960 --> 00:01:52,109
+nicho. Eu vou colocar aqui, por exemplo,
+imobiliária. Beleza? Então, ao invés de
+
+90
+00:01:52,109 --> 00:01:52,119
+imobiliária. Beleza? Então, ao invés de
+ 
+
+91
+00:01:52,119 --> 00:01:54,230
+imobiliária. Beleza? Então, ao invés de
+escolher bairro, eu vou escolher nicho.
+
+92
+00:01:54,230 --> 00:01:54,240
+escolher bairro, eu vou escolher nicho.
+ 
+
+93
+00:01:54,240 --> 00:01:56,469
+escolher bairro, eu vou escolher nicho.
+Lembrando, se você for escolher bairro,
+
+94
+00:01:56,469 --> 00:01:56,479
+Lembrando, se você for escolher bairro,
+ 
+
+95
+00:01:56,479 --> 00:01:59,069
+Lembrando, se você for escolher bairro,
+você coloca aqui o bairro, vírgula,
+
+96
+00:01:59,069 --> 00:01:59,079
+você coloca aqui o bairro, vírgula,
+ 
+
+97
+00:01:59,079 --> 00:02:02,270
+você coloca aqui o bairro, vírgula,
+segundo bairro, vírgula. Beleza? Mas eu
+
+98
+00:02:02,270 --> 00:02:02,280
+segundo bairro, vírgula. Beleza? Mas eu
+ 
+
+99
+00:02:02,280 --> 00:02:04,350
+segundo bairro, vírgula. Beleza? Mas eu
+vou deixar aberto aqui em bairro e vou
+
+100
+00:02:04,350 --> 00:02:04,360
+vou deixar aberto aqui em bairro e vou
+ 
+
+101
+00:02:04,360 --> 00:02:06,109
+vou deixar aberto aqui em bairro e vou
+seguir por nicho. Vou escolher o nicho
+
+102
+00:02:06,109 --> 00:02:06,119
+seguir por nicho. Vou escolher o nicho
+ 
+
+103
+00:02:06,119 --> 00:02:08,990
+seguir por nicho. Vou escolher o nicho
+de imobiliária. Cliquei em avançar. Que
+
+104
+00:02:08,990 --> 00:02:09,000
+de imobiliária. Cliquei em avançar. Que
+ 
+
+105
+00:02:09,000 --> 00:02:10,550
+de imobiliária. Cliquei em avançar. Que
+que eu vou escolher agora? A quantidade
+
+106
+00:02:10,550 --> 00:02:10,560
+que eu vou escolher agora? A quantidade
+ 
+
+107
+00:02:10,560 --> 00:02:13,470
+que eu vou escolher agora? A quantidade
+de crédito máximo que eu quero usar. Eu
+
+108
+00:02:13,470 --> 00:02:13,480
+de crédito máximo que eu quero usar. Eu
+ 
+
+109
+00:02:13,480 --> 00:02:17,270
+de crédito máximo que eu quero usar. Eu
+vou colocar aqui 100, beleza? e vou
+
+110
+00:02:17,270 --> 00:02:17,280
+vou colocar aqui 100, beleza? e vou
+ 
+
+111
+00:02:17,280 --> 00:02:19,750
+vou colocar aqui 100, beleza? e vou
+mandar gerar o meu arquivo. Então,
+
+112
+00:02:19,750 --> 00:02:19,760
+mandar gerar o meu arquivo. Então,
+ 
+
+113
+00:02:19,760 --> 00:02:22,229
+mandar gerar o meu arquivo. Então,
+quando eu mando gerar o arquivo, ele vai
+
+114
+00:02:22,229 --> 00:02:22,239
+quando eu mando gerar o arquivo, ele vai
+ 
+
+115
+00:02:22,239 --> 00:02:25,589
+quando eu mando gerar o arquivo, ele vai
+fazer a busca ali das imobiliárias do
+
+116
+00:02:25,589 --> 00:02:25,599
+fazer a busca ali das imobiliárias do
+ 
+
+117
+00:02:25,599 --> 00:02:28,430
+fazer a busca ali das imobiliárias do
+meu do da minha cidade. Então, gerou o
+
+118
+00:02:28,430 --> 00:02:28,440
+meu do da minha cidade. Então, gerou o
+ 
+
+119
+00:02:28,440 --> 00:02:31,190
+meu do da minha cidade. Então, gerou o
+arquivo. Eu tenho aqui, ó,
+
+120
+00:02:31,190 --> 00:02:31,200
+arquivo. Eu tenho aqui, ó,
+ 
+
+121
+00:02:31,200 --> 00:02:33,150
+arquivo. Eu tenho aqui, ó,
+vou abrir o meu arquivo para te mostrar.
+
+122
+00:02:33,150 --> 00:02:33,160
+vou abrir o meu arquivo para te mostrar.
+ 
+
+123
+00:02:33,160 --> 00:02:35,710
+vou abrir o meu arquivo para te mostrar.
+Então, tá aqui todas as minhas, a lista
+
+124
+00:02:35,710 --> 00:02:35,720
+Então, tá aqui todas as minhas, a lista
+ 
+
+125
+00:02:35,720 --> 00:02:38,070
+Então, tá aqui todas as minhas, a lista
+de imobiliários. Ele tem exatamente a
+
+126
+00:02:38,070 --> 00:02:38,080
+de imobiliários. Ele tem exatamente a
+ 
+
+127
+00:02:38,080 --> 00:02:41,350
+de imobiliários. Ele tem exatamente a
+100, né? Lembrando que ele pega também
+
+128
+00:02:41,350 --> 00:02:41,360
+100, né? Lembrando que ele pega também
+ 
+
+129
+00:02:41,360 --> 00:02:43,270
+100, né? Lembrando que ele pega também
+corretores de móveis, enfim, todo mundo
+
+130
+00:02:43,270 --> 00:02:43,280
+corretores de móveis, enfim, todo mundo
+ 
+
+131
+00:02:43,280 --> 00:02:46,270
+corretores de móveis, enfim, todo mundo
+que tá ligado aqui ao nicho. Eu não vou
+
+132
+00:02:46,270 --> 00:02:46,280
+que tá ligado aqui ao nicho. Eu não vou
+ 
+
+133
+00:02:46,280 --> 00:02:48,670
+que tá ligado aqui ao nicho. Eu não vou
+mexer nesse arquivo. E agora eu vou vir
+
+134
+00:02:48,670 --> 00:02:48,680
+mexer nesse arquivo. E agora eu vou vir
+ 
+
+135
+00:02:48,680 --> 00:02:50,470
+mexer nesse arquivo. E agora eu vou vir
+aqui pro painel administrativo do meu
+
+136
+00:02:50,470 --> 00:02:50,480
+aqui pro painel administrativo do meu
+ 
+
+137
+00:02:50,480 --> 00:02:53,790
+aqui pro painel administrativo do meu
+guia. Eu vou vir direto aqui na sessão
+
+138
+00:02:53,790 --> 00:02:53,800
+guia. Eu vou vir direto aqui na sessão
+ 
+
+139
+00:02:53,800 --> 00:02:57,309
+guia. Eu vou vir direto aqui na sessão
+guia comercial, listar empresas. E aí eu
+
+140
+00:02:57,309 --> 00:02:57,319
+guia comercial, listar empresas. E aí eu
+ 
+
+141
+00:02:57,319 --> 00:03:00,830
+guia comercial, listar empresas. E aí eu
+tenho aqui a opção importar do Google
+
+142
+00:03:00,830 --> 00:03:00,840
+tenho aqui a opção importar do Google
+ 
+
+143
+00:03:00,840 --> 00:03:03,110
+tenho aqui a opção importar do Google
+Maps. Quando eu escolho importar do
+
+144
+00:03:03,110 --> 00:03:03,120
+Maps. Quando eu escolho importar do
+ 
+
+145
+00:03:03,120 --> 00:03:05,710
+Maps. Quando eu escolho importar do
+Google Maps, eu vou clicar em escolher
+
+146
+00:03:05,710 --> 00:03:05,720
+Google Maps, eu vou clicar em escolher
+ 
+
+147
+00:03:05,720 --> 00:03:08,070
+Google Maps, eu vou clicar em escolher
+arquivo e vou direto no meu arquivo que
+
+148
+00:03:08,070 --> 00:03:08,080
+arquivo e vou direto no meu arquivo que
+ 
+
+149
+00:03:08,080 --> 00:03:10,149
+arquivo e vou direto no meu arquivo que
+eu acabei de baixar. Aí você pode
+
+150
+00:03:10,149 --> 00:03:10,159
+eu acabei de baixar. Aí você pode
+ 
+
+151
+00:03:10,159 --> 00:03:12,309
+eu acabei de baixar. Aí você pode
+colocar no seu área de trabalho, onde
+
+152
+00:03:12,309 --> 00:03:12,319
+colocar no seu área de trabalho, onde
+ 
+
+153
+00:03:12,319 --> 00:03:14,910
+colocar no seu área de trabalho, onde
+você quiser, tá bom? Então, ó, escolhi o
+
+154
+00:03:14,910 --> 00:03:14,920
+você quiser, tá bom? Então, ó, escolhi o
+ 
+
+155
+00:03:14,920 --> 00:03:17,309
+você quiser, tá bom? Então, ó, escolhi o
+arquivo, ele já pegou total de linha
+
+156
+00:03:17,309 --> 00:03:17,319
+arquivo, ele já pegou total de linha
+ 
+
+157
+00:03:17,319 --> 00:03:20,589
+arquivo, ele já pegou total de linha
+100, linhas novas 100. Se a empresa já
+
+158
+00:03:20,589 --> 00:03:20,599
+100, linhas novas 100. Se a empresa já
+ 
+
+159
+00:03:20,599 --> 00:03:22,710
+100, linhas novas 100. Se a empresa já
+existe, ele mostra aqui ou com problema
+
+160
+00:03:22,710 --> 00:03:22,720
+existe, ele mostra aqui ou com problema
+ 
+
+161
+00:03:22,720 --> 00:03:23,990
+existe, ele mostra aqui ou com problema
+também na frente. O que que é
+
+162
+00:03:23,990 --> 00:03:24,000
+também na frente. O que que é
+ 
+
+163
+00:03:24,000 --> 00:03:26,750
+também na frente. O que que é
+interessante, né? É normal quando você
+
+164
+00:03:26,750 --> 00:03:26,760
+interessante, né? É normal quando você
+ 
+
+165
+00:03:26,760 --> 00:03:29,270
+interessante, né? É normal quando você
+faz uma extração do Google Maps que ele
+
+166
+00:03:29,270 --> 00:03:29,280
+faz uma extração do Google Maps que ele
+ 
+
+167
+00:03:29,280 --> 00:03:33,710
+faz uma extração do Google Maps que ele
+traga aqui eh empresas que estejam em um
+
+168
+00:03:33,710 --> 00:03:33,720
+traga aqui eh empresas que estejam em um
+ 
+
+169
+00:03:33,720 --> 00:03:36,630
+traga aqui eh empresas que estejam em um
+nicho diferente. Lembrando que a API que
+
+170
+00:03:36,630 --> 00:03:36,640
+nicho diferente. Lembrando que a API que
+ 
+
+171
+00:03:36,640 --> 00:03:40,750
+nicho diferente. Lembrando que a API que
+nós usamos do Google, ela traz aqui eh o
+
+172
+00:03:40,750 --> 00:03:40,760
+nós usamos do Google, ela traz aqui eh o
+ 
+
+173
+00:03:40,760 --> 00:03:44,990
+nós usamos do Google, ela traz aqui eh o
+nicho em inglês, tá? Isso é padrão do do
+
+174
+00:03:44,990 --> 00:03:45,000
+nicho em inglês, tá? Isso é padrão do do
+ 
+
+175
+00:03:45,000 --> 00:03:47,509
+nicho em inglês, tá? Isso é padrão do do
+sistema, a gente não consegue mudar, mas
+
+176
+00:03:47,509 --> 00:03:47,519
+sistema, a gente não consegue mudar, mas
+ 
+
+177
+00:03:47,519 --> 00:03:49,630
+sistema, a gente não consegue mudar, mas
+ele o sistema, o nosso sistema aqui, ele
+
+178
+00:03:49,630 --> 00:03:49,640
+ele o sistema, o nosso sistema aqui, ele
+ 
+
+179
+00:03:49,640 --> 00:03:51,550
+ele o sistema, o nosso sistema aqui, ele
+já identifica, por exemplo, ele
+
+180
+00:03:51,550 --> 00:03:51,560
+já identifica, por exemplo, ele
+ 
+
+181
+00:03:51,560 --> 00:03:54,910
+já identifica, por exemplo, ele
+identificou aqui 96 empresas que estavam
+
+182
+00:03:54,910 --> 00:03:54,920
+identificou aqui 96 empresas que estavam
+ 
+
+183
+00:03:54,920 --> 00:03:56,990
+identificou aqui 96 empresas que estavam
+lá na categoria, na categoria
+
+184
+00:03:56,990 --> 00:03:57,000
+lá na categoria, na categoria
+ 
+
+185
+00:03:57,000 --> 00:03:59,350
+lá na categoria, na categoria
+imobiliária, tá em inglês, mas ele
+
+186
+00:03:59,350 --> 00:03:59,360
+imobiliária, tá em inglês, mas ele
+ 
+
+187
+00:03:59,360 --> 00:04:02,670
+imobiliária, tá em inglês, mas ele
+pegou. Esse aqui também ele pegou. Agora
+
+188
+00:04:02,670 --> 00:04:02,680
+pegou. Esse aqui também ele pegou. Agora
+ 
+
+189
+00:04:02,680 --> 00:04:05,470
+pegou. Esse aqui também ele pegou. Agora
+tem um aqui, ó, que é consultor, o outro
+
+190
+00:04:05,470 --> 00:04:05,480
+tem um aqui, ó, que é consultor, o outro
+ 
+
+191
+00:04:05,480 --> 00:04:08,350
+tem um aqui, ó, que é consultor, o outro
+aqui é centro empresarial e o outro aqui
+
+192
+00:04:08,350 --> 00:04:08,360
+aqui é centro empresarial e o outro aqui
+ 
+
+193
+00:04:08,360 --> 00:04:10,069
+aqui é centro empresarial e o outro aqui
+é sociedade de crédito. Ele não
+
+194
+00:04:10,069 --> 00:04:10,079
+é sociedade de crédito. Ele não
+ 
+
+195
+00:04:10,079 --> 00:04:12,030
+é sociedade de crédito. Ele não
+identificou. Então, o que que ele faz
+
+196
+00:04:12,030 --> 00:04:12,040
+identificou. Então, o que que ele faz
+ 
+
+197
+00:04:12,040 --> 00:04:13,630
+identificou. Então, o que que ele faz
+para você aqui quando o sistema não
+
+198
+00:04:13,630 --> 00:04:13,640
+para você aqui quando o sistema não
+ 
+
+199
+00:04:13,640 --> 00:04:15,229
+para você aqui quando o sistema não
+identifica uma categoria? Isso é
+
+200
+00:04:15,229 --> 00:04:15,239
+identifica uma categoria? Isso é
+ 
+
+201
+00:04:15,239 --> 00:04:18,749
+identifica uma categoria? Isso é
+importante, né? Eh, ele te dá as opções
+
+202
+00:04:18,749 --> 00:04:18,759
+importante, né? Eh, ele te dá as opções
+ 
+
+203
+00:04:18,759 --> 00:04:20,749
+importante, né? Eh, ele te dá as opções
+de categorias
+
+204
+00:04:20,749 --> 00:04:20,759
+de categorias
+ 
+
+205
+00:04:20,759 --> 00:04:23,749
+de categorias
+existentes no seu sistema. Ele não te
+
+206
+00:04:23,749 --> 00:04:23,759
+existentes no seu sistema. Ele não te
+ 
+
+207
+00:04:23,759 --> 00:04:25,830
+existentes no seu sistema. Ele não te
+deixa aqui criar a nova ou não pega
+
+208
+00:04:25,830 --> 00:04:25,840
+deixa aqui criar a nova ou não pega
+ 
+
+209
+00:04:25,840 --> 00:04:28,990
+deixa aqui criar a nova ou não pega
+automático, eh, inventa uma categoria
+
+210
+00:04:28,990 --> 00:04:29,000
+automático, eh, inventa uma categoria
+ 
+
+211
+00:04:29,000 --> 00:04:31,510
+automático, eh, inventa uma categoria
+nova automaticamente, tá? A gente pode
+
+212
+00:04:31,510 --> 00:04:31,520
+nova automaticamente, tá? A gente pode
+ 
+
+213
+00:04:31,520 --> 00:04:33,670
+nova automaticamente, tá? A gente pode
+até pensar nessa melhoria futura aqui,
+
+214
+00:04:33,670 --> 00:04:33,680
+até pensar nessa melhoria futura aqui,
+ 
+
+215
+00:04:33,680 --> 00:04:35,150
+até pensar nessa melhoria futura aqui,
+mas no primeiro momento, o que que ele
+
+216
+00:04:35,150 --> 00:04:35,160
+mas no primeiro momento, o que que ele
+ 
+
+217
+00:04:35,160 --> 00:04:37,830
+mas no primeiro momento, o que que ele
+faz? Ele identifica
+
+218
+00:04:37,830 --> 00:04:37,840
+faz? Ele identifica
+ 
+
+219
+00:04:37,840 --> 00:04:39,629
+faz? Ele identifica
+que não tem uma categoria e te pede
+
+220
+00:04:39,629 --> 00:04:39,639
+que não tem uma categoria e te pede
+ 
+
+221
+00:04:39,639 --> 00:04:41,670
+que não tem uma categoria e te pede
+aqui. Mas aí que que eu vou fazer? Eu
+
+222
+00:04:41,670 --> 00:04:41,680
+aqui. Mas aí que que eu vou fazer? Eu
+ 
+
+223
+00:04:41,680 --> 00:04:44,670
+aqui. Mas aí que que eu vou fazer? Eu
+vou dar aqui uma
+
+224
+00:04:44,670 --> 00:04:44,680
+vou dar aqui uma
+ 
+
+225
+00:04:44,680 --> 00:04:46,870
+vou dar aqui uma
+uma
+
+226
+00:04:46,870 --> 00:04:46,880
+uma
+ 
+
+227
+00:04:46,880 --> 00:04:50,550
+uma
+eu vou adicionar ele na categoria de
+
+228
+00:04:50,550 --> 00:04:50,560
+eu vou adicionar ele na categoria de
+ 
+
+229
+00:04:50,560 --> 00:04:52,629
+eu vou adicionar ele na categoria de
+imobiliários. Ó lá, tô testando algumas
+
+230
+00:04:52,629 --> 00:04:52,639
+imobiliários. Ó lá, tô testando algumas
+ 
+
+231
+00:04:52,639 --> 00:04:55,830
+imobiliários. Ó lá, tô testando algumas
+aqui. Vou colocar imóveis.
+
+232
+00:04:55,830 --> 00:04:55,840
+aqui. Vou colocar imóveis.
+ 
+
+233
+00:04:55,840 --> 00:04:59,310
+aqui. Vou colocar imóveis.
+Vou colocar essa aqui também.
+
+234
+00:04:59,310 --> 00:04:59,320
+Vou colocar essa aqui também.
+ 
+
+235
+00:04:59,320 --> 00:05:01,590
+Vou colocar essa aqui também.
+Imóveis.
+
+236
+00:05:01,590 --> 00:05:01,600
+Imóveis.
+ 
+
+237
+00:05:01,600 --> 00:05:04,029
+Imóveis.
+E essa aqui também
+
+238
+00:05:04,029 --> 00:05:04,039
+E essa aqui também
+ 
+
+239
+00:05:04,039 --> 00:05:08,230
+E essa aqui também
+imóveis. Beleza, adicionei todas as
+
+240
+00:05:08,230 --> 00:05:08,240
+imóveis. Beleza, adicionei todas as
+ 
+
+241
+00:05:08,240 --> 00:05:12,189
+imóveis. Beleza, adicionei todas as
+categorias aqui dos que estavam vazios,
+
+242
+00:05:12,189 --> 00:05:12,199
+categorias aqui dos que estavam vazios,
+ 
+
+243
+00:05:12,199 --> 00:05:16,350
+categorias aqui dos que estavam vazios,
+né? E vou clicar em importar empresas.
+
+244
+00:05:16,350 --> 00:05:16,360
+né? E vou clicar em importar empresas.
+ 
+
+245
+00:05:16,360 --> 00:05:18,469
+né? E vou clicar em importar empresas.
+Ele tá no processo de importação.
+
+246
+00:05:18,469 --> 00:05:18,479
+Ele tá no processo de importação.
+ 
+
+247
+00:05:18,479 --> 00:05:20,029
+Ele tá no processo de importação.
+Lembrando, gente, que qual que é a
+
+248
+00:05:20,029 --> 00:05:20,039
+Lembrando, gente, que qual que é a
+ 
+
+249
+00:05:20,039 --> 00:05:22,550
+Lembrando, gente, que qual que é a
+estratégia? É você importar essas
+
+250
+00:05:22,550 --> 00:05:22,560
+estratégia? É você importar essas
+ 
+
+251
+00:05:22,560 --> 00:05:25,590
+estratégia? É você importar essas
+empresas no plano gratuito. No plano, se
+
+252
+00:05:25,590 --> 00:05:25,600
+empresas no plano gratuito. No plano, se
+ 
+
+253
+00:05:25,600 --> 00:05:27,029
+empresas no plano gratuito. No plano, se
+é que você vai trabalhar com plano
+
+254
+00:05:27,029 --> 00:05:27,039
+é que você vai trabalhar com plano
+ 
+
+255
+00:05:27,039 --> 00:05:28,150
+é que você vai trabalhar com plano
+gratuito ou não, uma questão
+
+256
+00:05:28,150 --> 00:05:28,160
+gratuito ou não, uma questão
+ 
+
+257
+00:05:28,160 --> 00:05:30,710
+gratuito ou não, uma questão
+estratégica, mas no plano que a a
+
+258
+00:05:30,710 --> 00:05:30,720
+estratégica, mas no plano que a a
+ 
+
+259
+00:05:30,720 --> 00:05:32,430
+estratégica, mas no plano que a a
+visibilidade é bem pequenininha. Quer
+
+260
+00:05:32,430 --> 00:05:32,440
+visibilidade é bem pequenininha. Quer
+ 
+
+261
+00:05:32,440 --> 00:05:34,629
+visibilidade é bem pequenininha. Quer
+ver? Vou abrir aqui, ó, e vou mostrar
+
+262
+00:05:34,629 --> 00:05:34,639
+ver? Vou abrir aqui, ó, e vou mostrar
+ 
+
+263
+00:05:34,639 --> 00:05:37,110
+ver? Vou abrir aqui, ó, e vou mostrar
+para vocês. Olha só, essa aqui é uma das
+
+264
+00:05:37,110 --> 00:05:37,120
+para vocês. Olha só, essa aqui é uma das
+ 
+
+265
+00:05:37,120 --> 00:05:40,590
+para vocês. Olha só, essa aqui é uma das
+empresas, ó, que foi adicionadas. Agora
+
+266
+00:05:40,590 --> 00:05:40,600
+empresas, ó, que foi adicionadas. Agora
+ 
+
+267
+00:05:40,600 --> 00:05:42,830
+empresas, ó, que foi adicionadas. Agora
+se eu clicar em ver empresa, ele não
+
+268
+00:05:42,830 --> 00:05:42,840
+se eu clicar em ver empresa, ele não
+ 
+
+269
+00:05:42,840 --> 00:05:45,950
+se eu clicar em ver empresa, ele não
+aparece absolutamente nada, tá? Ele só
+
+270
+00:05:45,950 --> 00:05:45,960
+aparece absolutamente nada, tá? Ele só
+ 
+
+271
+00:05:45,960 --> 00:05:49,510
+aparece absolutamente nada, tá? Ele só
+tem o nome da empresa, ele não sobe
+
+272
+00:05:49,510 --> 00:05:49,520
+tem o nome da empresa, ele não sobe
+ 
+
+273
+00:05:49,520 --> 00:05:52,110
+tem o nome da empresa, ele não sobe
+horário de funcionamento, não sobe a
+
+274
+00:05:52,110 --> 00:05:52,120
+horário de funcionamento, não sobe a
+ 
+
+275
+00:05:52,120 --> 00:05:55,909
+horário de funcionamento, não sobe a
+descrição, não sobe aqui fotos e mostra
+
+276
+00:05:55,909 --> 00:05:55,919
+descrição, não sobe aqui fotos e mostra
+ 
+
+277
+00:05:55,919 --> 00:06:00,029
+descrição, não sobe aqui fotos e mostra
+aqui o endereço, mais nada. Beleza?
+
+278
+00:06:00,029 --> 00:06:00,039
+aqui o endereço, mais nada. Beleza?
+ 
+
+279
+00:06:00,039 --> 00:06:03,070
+aqui o endereço, mais nada. Beleza?
+Então, para essa empresa ter todos os
+
+280
+00:06:03,070 --> 00:06:03,080
+Então, para essa empresa ter todos os
+ 
+
+281
+00:06:03,080 --> 00:06:06,909
+Então, para essa empresa ter todos os
+dados ali expostos, eh, fotos, horário
+
+282
+00:06:06,909 --> 00:06:06,919
+dados ali expostos, eh, fotos, horário
+ 
+
+283
+00:06:06,919 --> 00:06:10,510
+dados ali expostos, eh, fotos, horário
+de funcionamento e etc, ela vai ter que
+
+284
+00:06:10,510 --> 00:06:10,520
+de funcionamento e etc, ela vai ter que
+ 
+
+285
+00:06:10,520 --> 00:06:14,710
+de funcionamento e etc, ela vai ter que
+fazer a migração para um plano pago, OK?
+
+286
+00:06:14,710 --> 00:06:14,720
+fazer a migração para um plano pago, OK?
+ 
+
+287
+00:06:14,720 --> 00:06:16,909
+fazer a migração para um plano pago, OK?
+Fazer a migração para um plano pago.
+
+288
+00:06:16,909 --> 00:06:16,919
+Fazer a migração para um plano pago.
+ 
+
+289
+00:06:16,919 --> 00:06:19,110
+Fazer a migração para um plano pago.
+Então, no primeiro momento, é só para
+
+290
+00:06:19,110 --> 00:06:19,120
+Então, no primeiro momento, é só para
+ 
+
+291
+00:06:19,120 --> 00:06:22,589
+Então, no primeiro momento, é só para
+ter a relação dessas empresas ali dentro
+
+292
+00:06:22,589 --> 00:06:22,599
+ter a relação dessas empresas ali dentro
+ 
+
+293
+00:06:22,599 --> 00:06:26,270
+ter a relação dessas empresas ali dentro
+do seu portal, OK? Então, ó, essa aqui
+
+294
+00:06:26,270 --> 00:06:26,280
+do seu portal, OK? Então, ó, essa aqui
+ 
+
+295
+00:06:26,280 --> 00:06:29,270
+do seu portal, OK? Então, ó, essa aqui
+já trouxe a descrição, ficou mais
+
+296
+00:06:29,270 --> 00:06:29,280
+já trouxe a descrição, ficou mais
+ 
+
+297
+00:06:29,280 --> 00:06:31,830
+já trouxe a descrição, ficou mais
+bonitinha, tá vendo, ó? Descrição,
+
+298
+00:06:31,830 --> 00:06:31,840
+bonitinha, tá vendo, ó? Descrição,
+ 
+
+299
+00:06:31,840 --> 00:06:34,070
+bonitinha, tá vendo, ó? Descrição,
+horário de funcionamento e endereço.
+
+300
+00:06:34,070 --> 00:06:34,080
+horário de funcionamento e endereço.
+ 
+
+301
+00:06:34,080 --> 00:06:36,670
+horário de funcionamento e endereço.
+Agora, os campos de telefone ele não
+
+302
+00:06:36,670 --> 00:06:36,680
+Agora, os campos de telefone ele não
+ 
+
+303
+00:06:36,680 --> 00:06:38,270
+Agora, os campos de telefone ele não
+exibe. Então, deixa eu abrir essa
+
+304
+00:06:38,270 --> 00:06:38,280
+exibe. Então, deixa eu abrir essa
+ 
+
+305
+00:06:38,280 --> 00:06:40,870
+exibe. Então, deixa eu abrir essa
+segunda aqui,
+
+306
+00:06:40,870 --> 00:06:40,880
+segunda aqui,
+ 
+
+307
+00:06:40,880 --> 00:06:44,230
+segunda aqui,
+ó. Ele trouxe CEP parará, tudo
+
+308
+00:06:44,230 --> 00:06:44,240
+ó. Ele trouxe CEP parará, tudo
+ 
+
+309
+00:06:44,240 --> 00:06:46,029
+ó. Ele trouxe CEP parará, tudo
+bonitinho,
+
+310
+00:06:46,029 --> 00:06:46,039
+bonitinho,
+ 
+
+311
+00:06:46,039 --> 00:06:49,950
+bonitinho,
+só que não exibe os campos pagos, que
+
+312
+00:06:49,950 --> 00:06:49,960
+só que não exibe os campos pagos, que
+ 
+
+313
+00:06:49,960 --> 00:06:52,629
+só que não exibe os campos pagos, que
+são os campos de telefone, galeria de
+
+314
+00:06:52,629 --> 00:06:52,639
+são os campos de telefone, galeria de
+ 
+
+315
+00:06:52,639 --> 00:06:57,150
+são os campos de telefone, galeria de
+fotos e por aí vai. Beleza? Então essa
+
+316
+00:06:57,150 --> 00:06:57,160
+fotos e por aí vai. Beleza? Então essa
+ 
+
+317
+00:06:57,160 --> 00:07:00,350
+fotos e por aí vai. Beleza? Então essa
+aqui é a forma, deixa eu voltar aqui.
+
+318
+00:07:00,350 --> 00:07:00,360
+aqui é a forma, deixa eu voltar aqui.
+ 
+
+319
+00:07:00,360 --> 00:07:02,909
+aqui é a forma, deixa eu voltar aqui.
+Lista empresa, importação. Essa é a
+
+320
+00:07:02,909 --> 00:07:02,919
+Lista empresa, importação. Essa é a
+ 
+
+321
+00:07:02,919 --> 00:07:06,629
+Lista empresa, importação. Essa é a
+forma que você tem de fazer a importação
+
+322
+00:07:06,629 --> 00:07:06,639
+forma que você tem de fazer a importação
+ 
+
+323
+00:07:06,639 --> 00:07:09,350
+forma que você tem de fazer a importação
+das listas, da lista de empresas dentro
+
+324
+00:07:09,350 --> 00:07:09,360
+das listas, da lista de empresas dentro
+ 
+
+325
+00:07:09,360 --> 00:07:11,749
+das listas, da lista de empresas dentro
+do seu portal. Aí tem um ponto que eu
+
+326
+00:07:11,749 --> 00:07:11,759
+do seu portal. Aí tem um ponto que eu
+ 
+
+327
+00:07:11,759 --> 00:07:14,110
+do seu portal. Aí tem um ponto que eu
+quero trazer aqui, ó. Deixa eu ver aqui.
+
+328
+00:07:14,110 --> 00:07:14,120
+quero trazer aqui, ó. Deixa eu ver aqui.
+ 
+
+329
+00:07:14,120 --> 00:07:16,309
+quero trazer aqui, ó. Deixa eu ver aqui.
+Ah, isso aqui é só a questão da dos
+
+330
+00:07:16,309 --> 00:07:16,319
+Ah, isso aqui é só a questão da dos
+ 
+
+331
+00:07:16,319 --> 00:07:18,029
+Ah, isso aqui é só a questão da dos
+horários, né, que não tá no formato
+
+332
+00:07:18,029 --> 00:07:18,039
+horários, né, que não tá no formato
+ 
+
+333
+00:07:18,039 --> 00:07:20,350
+horários, né, que não tá no formato
+correto, alguns horários aqui. Outra
+
+334
+00:07:20,350 --> 00:07:20,360
+correto, alguns horários aqui. Outra
+ 
+
+335
+00:07:20,360 --> 00:07:22,309
+correto, alguns horários aqui. Outra
+coisa, ele tem a opção desfazer
+
+336
+00:07:22,309 --> 00:07:22,319
+coisa, ele tem a opção desfazer
+ 
+
+337
+00:07:22,319 --> 00:07:25,430
+coisa, ele tem a opção desfazer
+importação, ver empresas ou importar
+
+338
+00:07:25,430 --> 00:07:25,440
+importação, ver empresas ou importar
+ 
+
+339
+00:07:25,440 --> 00:07:27,150
+importação, ver empresas ou importar
+outra planilha. Imagina que você quer
+
+340
+00:07:27,150 --> 00:07:27,160
+outra planilha. Imagina que você quer
+ 
+
+341
+00:07:27,160 --> 00:07:29,550
+outra planilha. Imagina que você quer
+tirar todas essas empresas do portal.
+
+342
+00:07:29,550 --> 00:07:29,560
+tirar todas essas empresas do portal.
+ 
+
+343
+00:07:29,560 --> 00:07:32,309
+tirar todas essas empresas do portal.
+Você clica aqui em desfazer importação e
+
+344
+00:07:32,309 --> 00:07:32,319
+Você clica aqui em desfazer importação e
+ 
+
+345
+00:07:32,319 --> 00:07:35,589
+Você clica aqui em desfazer importação e
+ele apaga essa lista de empresas do seu
+
+346
+00:07:35,589 --> 00:07:35,599
+ele apaga essa lista de empresas do seu
+ 
+
+347
+00:07:35,599 --> 00:07:38,430
+ele apaga essa lista de empresas do seu
+portal. Ó, tá aqui, apagou novamente.
+
+348
+00:07:38,430 --> 00:07:38,440
+portal. Ó, tá aqui, apagou novamente.
+ 
+
+349
+00:07:38,440 --> 00:07:41,150
+portal. Ó, tá aqui, apagou novamente.
+Beleza? Então é isso, espero que tenha
+
+350
+00:07:41,150 --> 00:07:41,160
+Beleza? Então é isso, espero que tenha
+ 
+
+351
+00:07:41,160 --> 00:07:42,990
+Beleza? Então é isso, espero que tenha
+conseguido entender todos os detalhes. É
+
+352
+00:07:42,990 --> 00:07:43,000
+conseguido entender todos os detalhes. É
+ 
+
+353
+00:07:43,000 --> 00:07:44,670
+conseguido entender todos os detalhes. É
+só ver o vídeo com calma e executar o
+
+354
+00:07:44,670 --> 00:07:44,680
+só ver o vídeo com calma e executar o
+ 
+
+355
+00:07:44,680 --> 00:07:47,390
+só ver o vídeo com calma e executar o
+processo. Qualquer dúvida, acione o
+
+356
+00:07:47,390 --> 00:07:47,400
+processo. Qualquer dúvida, acione o
+ 
+
+357
+00:07:47,400 --> 00:07:50,070
+processo. Qualquer dúvida, acione o
+nosso suporte. No mais é isso, um abraço
+
+358
+00:07:50,070 --> 00:07:50,080
+nosso suporte. No mais é isso, um abraço
+ 
+
+359
+00:07:50,080 --> 00:07:53,159
+nosso suporte. No mais é isso, um abraço
+e até o próximo vídeo.
+

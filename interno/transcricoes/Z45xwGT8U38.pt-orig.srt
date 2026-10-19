@@ -1,0 +1,645 @@
+1
+00:00:00,080 --> 00:00:02,389
+ 
+O catálogo de produtos é uma vitrine com
+
+2
+00:00:02,389 --> 00:00:02,399
+O catálogo de produtos é uma vitrine com
+ 
+
+3
+00:00:02,399 --> 00:00:05,269
+O catálogo de produtos é uma vitrine com
+fotos, preços e o botão Ten o Interesse
+
+4
+00:00:05,269 --> 00:00:05,279
+fotos, preços e o botão Ten o Interesse
+ 
+
+5
+00:00:05,279 --> 00:00:06,950
+fotos, preços e o botão Ten o Interesse
+que leva o cliente direto para o
+
+6
+00:00:06,950 --> 00:00:06,960
+que leva o cliente direto para o
+ 
+
+7
+00:00:06,960 --> 00:00:09,270
+que leva o cliente direto para o
+WhatsApp da loja. Serve para lojas de
+
+8
+00:00:09,270 --> 00:00:09,280
+WhatsApp da loja. Serve para lojas de
+ 
+
+9
+00:00:09,280 --> 00:00:11,589
+WhatsApp da loja. Serve para lojas de
+roupa, concessionárias, eletrônicos,
+
+10
+00:00:11,589 --> 00:00:11,599
+roupa, concessionárias, eletrônicos,
+ 
+
+11
+00:00:11,599 --> 00:00:14,430
+roupa, concessionárias, eletrônicos,
+móveis e muito mais. Ele vale para todas
+
+12
+00:00:14,430 --> 00:00:14,440
+móveis e muito mais. Ele vale para todas
+ 
+
+13
+00:00:14,440 --> 00:00:16,310
+móveis e muito mais. Ele vale para todas
+as categorias do guia e depende do
+
+14
+00:00:16,310 --> 00:00:16,320
+as categorias do guia e depende do
+ 
+
+15
+00:00:16,320 --> 00:00:18,790
+as categorias do guia e depende do
+plano. No plano grátis, o catálogo não
+
+16
+00:00:18,790 --> 00:00:18,800
+plano. No plano grátis, o catálogo não
+ 
+
+17
+00:00:18,800 --> 00:00:21,310
+plano. No plano grátis, o catálogo não
+fica disponível. Para abrir, edite a
+
+18
+00:00:21,310 --> 00:00:21,320
+fica disponível. Para abrir, edite a
+ 
+
+19
+00:00:21,320 --> 00:00:23,990
+fica disponível. Para abrir, edite a
+empresa e em conteúdo da ficha, clique
+
+20
+00:00:23,990 --> 00:00:24,000
+empresa e em conteúdo da ficha, clique
+ 
+
+21
+00:00:24,000 --> 00:00:26,390
+empresa e em conteúdo da ficha, clique
+em gerenciar no cartão catálogo de
+
+22
+00:00:26,390 --> 00:00:26,400
+em gerenciar no cartão catálogo de
+ 
+
+23
+00:00:26,400 --> 00:00:29,070
+em gerenciar no cartão catálogo de
+produtos. A empresa também gerencia pelo
+
+24
+00:00:29,070 --> 00:00:29,080
+produtos. A empresa também gerencia pelo
+ 
+
+25
+00:00:29,080 --> 00:00:31,349
+produtos. A empresa também gerencia pelo
+painel do cliente. Primeiro o exemplo
+
+26
+00:00:31,349 --> 00:00:31,359
+painel do cliente. Primeiro o exemplo
+ 
+
+27
+00:00:31,359 --> 00:00:34,670
+painel do cliente. Primeiro o exemplo
+que já está no portal, a RR carros. À
+
+28
+00:00:34,670 --> 00:00:34,680
+que já está no portal, a RR carros. À
+ 
+
+29
+00:00:34,680 --> 00:00:37,630
+que já está no portal, a RR carros. À
+esquerda ficam as sessções geral e luxo,
+
+30
+00:00:37,630 --> 00:00:37,640
+esquerda ficam as sessções geral e luxo,
+ 
+
+31
+00:00:37,640 --> 00:00:39,790
+esquerda ficam as sessções geral e luxo,
+cada uma com a chave de publicar, as
+
+32
+00:00:39,790 --> 00:00:39,800
+cada uma com a chave de publicar, as
+ 
+
+33
+00:00:39,800 --> 00:00:42,430
+cada uma com a chave de publicar, as
+setas de ordem e o X para excluir. À
+
+34
+00:00:42,430 --> 00:00:42,440
+setas de ordem e o X para excluir. À
+ 
+
+35
+00:00:42,440 --> 00:00:44,750
+setas de ordem e o X para excluir. À
+direita, os produtos da sessão com a
+
+36
+00:00:44,750 --> 00:00:44,760
+direita, os produtos da sessão com a
+ 
+
+37
+00:00:44,760 --> 00:00:47,869
+direita, os produtos da sessão com a
+marca, o título, o preço, quantas fotos,
+
+38
+00:00:47,869 --> 00:00:47,879
+marca, o título, o preço, quantas fotos,
+ 
+
+39
+00:00:47,879 --> 00:00:50,510
+marca, o título, o preço, quantas fotos,
+o selo de destaque e as especificações,
+
+40
+00:00:50,510 --> 00:00:50,520
+o selo de destaque e as especificações,
+ 
+
+41
+00:00:50,520 --> 00:00:53,069
+o selo de destaque e as especificações,
+como quilometragem e cor. Cada produto
+
+42
+00:00:53,069 --> 00:00:53,079
+como quilometragem e cor. Cada produto
+ 
+
+43
+00:00:53,079 --> 00:00:55,950
+como quilometragem e cor. Cada produto
+tem a chave no ar, o botão fotos, o
+
+44
+00:00:55,950 --> 00:00:55,960
+tem a chave no ar, o botão fotos, o
+ 
+
+45
+00:00:55,960 --> 00:00:59,029
+tem a chave no ar, o botão fotos, o
+lápis para editar e a lixeira. Em fotos,
+
+46
+00:00:59,029 --> 00:00:59,039
+lápis para editar e a lixeira. Em fotos,
+ 
+
+47
+00:00:59,039 --> 00:01:01,270
+lápis para editar e a lixeira. Em fotos,
+você gerencia a galeria do produto.
+
+48
+00:01:01,270 --> 00:01:01,280
+você gerencia a galeria do produto.
+ 
+
+49
+00:01:01,280 --> 00:01:03,470
+você gerencia a galeria do produto.
+Adicione várias fotos ou um vídeo do
+
+50
+00:01:03,470 --> 00:01:03,480
+Adicione várias fotos ou um vídeo do
+ 
+
+51
+00:01:03,480 --> 00:01:06,149
+Adicione várias fotos ou um vídeo do
+YouTube. Cada item da galeria é uma foto
+
+52
+00:01:06,149 --> 00:01:06,159
+YouTube. Cada item da galeria é uma foto
+ 
+
+53
+00:01:06,159 --> 00:01:08,789
+YouTube. Cada item da galeria é uma foto
+ou um vídeo. Na edição do Go, veja os
+
+54
+00:01:08,789 --> 00:01:08,799
+ou um vídeo. Na edição do Go, veja os
+ 
+
+55
+00:01:08,799 --> 00:01:12,590
+ou um vídeo. Na edição do Go, veja os
+campos: título, marca, descrição, preço,
+
+56
+00:01:12,590 --> 00:01:12,600
+campos: título, marca, descrição, preço,
+ 
+
+57
+00:01:12,600 --> 00:01:14,510
+campos: título, marca, descrição, preço,
+o destaque mais vendido e as
+
+58
+00:01:14,510 --> 00:01:14,520
+o destaque mais vendido e as
+ 
+
+59
+00:01:14,520 --> 00:01:17,070
+o destaque mais vendido e as
+especificações, uma por linha. Agora
+
+60
+00:01:17,070 --> 00:01:17,080
+especificações, uma por linha. Agora
+ 
+
+61
+00:01:17,080 --> 00:01:19,149
+especificações, uma por linha. Agora
+vamos montar um catálogo do zero para
+
+62
+00:01:19,149 --> 00:01:19,159
+vamos montar um catálogo do zero para
+ 
+
+63
+00:01:19,159 --> 00:01:21,230
+vamos montar um catálogo do zero para
+uma loja de roupas, a Moda Vila
+
+64
+00:01:21,230 --> 00:01:21,240
+uma loja de roupas, a Moda Vila
+ 
+
+65
+00:01:21,240 --> 00:01:23,030
+uma loja de roupas, a Moda Vila
+Boutique, com fotos de um banco de
+
+66
+00:01:23,030 --> 00:01:23,040
+Boutique, com fotos de um banco de
+ 
+
+67
+00:01:23,040 --> 00:01:25,910
+Boutique, com fotos de um banco de
+imagens gratuito. Primeiro, as sessões.
+
+68
+00:01:25,910 --> 00:01:25,920
+imagens gratuito. Primeiro, as sessões.
+ 
+
+69
+00:01:25,920 --> 00:01:28,510
+imagens gratuito. Primeiro, as sessões.
+Digite feminino e clique em adicionar
+
+70
+00:01:28,510 --> 00:01:28,520
+Digite feminino e clique em adicionar
+ 
+
+71
+00:01:28,520 --> 00:01:31,990
+Digite feminino e clique em adicionar
+sessão. Depois masculino e calçados.
+
+72
+00:01:31,990 --> 00:01:32,000
+sessão. Depois masculino e calçados.
+ 
+
+73
+00:01:32,000 --> 00:01:34,109
+sessão. Depois masculino e calçados.
+Selecione a sessão e clique em novo
+
+74
+00:01:34,109 --> 00:01:34,119
+Selecione a sessão e clique em novo
+ 
+
+75
+00:01:34,119 --> 00:01:36,749
+Selecione a sessão e clique em novo
+produto. Preencha o título Bermuda de
+
+76
+00:01:36,749 --> 00:01:36,759
+produto. Preencha o título Bermuda de
+ 
+
+77
+00:01:36,759 --> 00:01:39,230
+produto. Preencha o título Bermuda de
+Sarja beige. A marca e uma descrição
+
+78
+00:01:39,230 --> 00:01:39,240
+Sarja beige. A marca e uma descrição
+ 
+
+79
+00:01:39,240 --> 00:01:41,590
+Sarja beige. A marca e uma descrição
+curta. Informe o preço e escolha um
+
+80
+00:01:41,590 --> 00:01:41,600
+curta. Informe o preço e escolha um
+ 
+
+81
+00:01:41,600 --> 00:01:44,990
+curta. Informe o preço e escolha um
+destaque mais vendido, oferta, novo ou
+
+82
+00:01:44,990 --> 00:01:45,000
+destaque mais vendido, oferta, novo ou
+ 
+
+83
+00:01:45,000 --> 00:01:48,510
+destaque mais vendido, oferta, novo ou
+recente aqui, oferta. Em especificações,
+
+84
+00:01:48,510 --> 00:01:48,520
+recente aqui, oferta. Em especificações,
+ 
+
+85
+00:01:48,520 --> 00:01:51,149
+recente aqui, oferta. Em especificações,
+escreva uma por linha. Para roupas, use
+
+86
+00:01:51,149 --> 00:01:51,159
+escreva uma por linha. Para roupas, use
+ 
+
+87
+00:01:51,159 --> 00:01:54,429
+escreva uma por linha. Para roupas, use
+tamanhos, tecido e cores. Para veículos,
+
+88
+00:01:54,429 --> 00:01:54,439
+tamanhos, tecido e cores. Para veículos,
+ 
+
+89
+00:01:54,439 --> 00:01:57,069
+tamanhos, tecido e cores. Para veículos,
+ano, quilometragem e combustível. Clique
+
+90
+00:01:57,069 --> 00:01:57,079
+ano, quilometragem e combustível. Clique
+ 
+
+91
+00:01:57,079 --> 00:01:59,830
+ano, quilometragem e combustível. Clique
+em adicionar fotos e escolha as imagens.
+
+92
+00:01:59,830 --> 00:01:59,840
+em adicionar fotos e escolha as imagens.
+ 
+
+93
+00:01:59,840 --> 00:02:01,990
+em adicionar fotos e escolha as imagens.
+Elas aparecem na galeria e são enviadas
+
+94
+00:02:01,990 --> 00:02:02,000
+Elas aparecem na galeria e são enviadas
+ 
+
+95
+00:02:02,000 --> 00:02:04,469
+Elas aparecem na galeria e são enviadas
+ao salvar o produto. Clique em salvar
+
+96
+00:02:04,469 --> 00:02:04,479
+ao salvar o produto. Clique em salvar
+ 
+
+97
+00:02:04,479 --> 00:02:07,149
+ao salvar o produto. Clique em salvar
+produto. Com as três sessões montadas, a
+
+98
+00:02:07,149 --> 00:02:07,159
+produto. Com as três sessões montadas, a
+ 
+
+99
+00:02:07,159 --> 00:02:09,510
+produto. Com as três sessões montadas, a
+sessão feminino tem o vestido floral e a
+
+100
+00:02:09,510 --> 00:02:09,520
+sessão feminino tem o vestido floral e a
+ 
+
+101
+00:02:09,520 --> 00:02:11,589
+sessão feminino tem o vestido floral e a
+calça jeans. E a masculino tem a
+
+102
+00:02:11,589 --> 00:02:11,599
+calça jeans. E a masculino tem a
+ 
+
+103
+00:02:11,599 --> 00:02:14,509
+calça jeans. E a masculino tem a
+camiseta, a jaqueta jeans e a camisa. No
+
+104
+00:02:14,509 --> 00:02:14,519
+camiseta, a jaqueta jeans e a camisa. No
+ 
+
+105
+00:02:14,519 --> 00:02:16,990
+camiseta, a jaqueta jeans e a camisa. No
+portal, a página da loja ganha o bloco
+
+106
+00:02:16,990 --> 00:02:17,000
+portal, a página da loja ganha o bloco
+ 
+
+107
+00:02:17,000 --> 00:02:19,030
+portal, a página da loja ganha o bloco
+catálogo de produtos com o número de
+
+108
+00:02:19,030 --> 00:02:19,040
+catálogo de produtos com o número de
+ 
+
+109
+00:02:19,040 --> 00:02:21,350
+catálogo de produtos com o número de
+categorias e itens e o botão ver
+
+110
+00:02:21,350 --> 00:02:21,360
+categorias e itens e o botão ver
+ 
+
+111
+00:02:21,360 --> 00:02:23,830
+categorias e itens e o botão ver
+catálogo completo. O catálogo abre com
+
+112
+00:02:23,830 --> 00:02:23,840
+catálogo completo. O catálogo abre com
+ 
+
+113
+00:02:23,840 --> 00:02:26,350
+catálogo completo. O catálogo abre com
+as abas de categoria e cada produto em
+
+114
+00:02:26,350 --> 00:02:26,360
+as abas de categoria e cada produto em
+ 
+
+115
+00:02:26,360 --> 00:02:29,110
+as abas de categoria e cada produto em
+um card com foto, selo, marca,
+
+116
+00:02:29,110 --> 00:02:29,120
+um card com foto, selo, marca,
+ 
+
+117
+00:02:29,120 --> 00:02:32,110
+um card com foto, selo, marca,
+especificações, descrição e preço. E o
+
+118
+00:02:32,110 --> 00:02:32,120
+especificações, descrição e preço. E o
+ 
+
+119
+00:02:32,120 --> 00:02:34,550
+especificações, descrição e preço. E o
+botão tem o interesse abre o WhatsApp da
+
+120
+00:02:34,550 --> 00:02:34,560
+botão tem o interesse abre o WhatsApp da
+ 
+
+121
+00:02:34,560 --> 00:02:36,949
+botão tem o interesse abre o WhatsApp da
+loja já falando do produto. Ao lado
+
+122
+00:02:36,949 --> 00:02:36,959
+loja já falando do produto. Ao lado
+ 
+
+123
+00:02:36,959 --> 00:02:39,830
+loja já falando do produto. Ao lado
+ficam o contato, o endereço e o horário.
+
+124
+00:02:39,830 --> 00:02:39,840
+ficam o contato, o endereço e o horário.
+ 
+
+125
+00:02:39,840 --> 00:02:42,509
+ficam o contato, o endereço e o horário.
+Pronto. Com boas fotos e preços claros,
+
+126
+00:02:42,509 --> 00:02:42,519
+Pronto. Com boas fotos e preços claros,
+ 
+
+127
+00:02:42,519 --> 00:02:45,190
+Pronto. Com boas fotos e preços claros,
+o catálogo vira uma vitrine aberta 24
+
+128
+00:02:45,190 --> 00:02:45,200
+o catálogo vira uma vitrine aberta 24
+ 
+
+129
+00:02:45,200 --> 00:02:49,599
+o catálogo vira uma vitrine aberta 24
+horas para a loja do seu cliente. Gente,
+

@@ -1,0 +1,985 @@
+1
+00:00:00,120 --> 00:00:02,230
+ 
+Com os sorteios, o seu portal promove
+
+2
+00:00:02,230 --> 00:00:02,240
+Com os sorteios, o seu portal promove
+ 
+
+3
+00:00:02,240 --> 00:00:04,390
+Com os sorteios, o seu portal promove
+prêmios de empresas parceiras, atrai
+
+4
+00:00:04,390 --> 00:00:04,400
+prêmios de empresas parceiras, atrai
+ 
+
+5
+00:00:04,400 --> 00:00:07,110
+prêmios de empresas parceiras, atrai
+visitantes e ganha audiência. E tudo
+
+6
+00:00:07,110 --> 00:00:07,120
+visitantes e ganha audiência. E tudo
+ 
+
+7
+00:00:07,120 --> 00:00:09,910
+visitantes e ganha audiência. E tudo
+acontece dentro do portal. A inscrição,
+
+8
+00:00:09,910 --> 00:00:09,920
+acontece dentro do portal. A inscrição,
+ 
+
+9
+00:00:09,920 --> 00:00:11,789
+acontece dentro do portal. A inscrição,
+a roleta ao vivo e o anúncio do
+
+10
+00:00:11,789 --> 00:00:11,799
+a roleta ao vivo e o anúncio do
+ 
+
+11
+00:00:11,799 --> 00:00:15,190
+a roleta ao vivo e o anúncio do
+ganhador. No painel, abra sorteios. Aqui
+
+12
+00:00:15,190 --> 00:00:15,200
+ganhador. No painel, abra sorteios. Aqui
+ 
+
+13
+00:00:15,200 --> 00:00:17,990
+ganhador. No painel, abra sorteios. Aqui
+ficam dois itens: sorteios, onde você
+
+14
+00:00:17,990 --> 00:00:18,000
+ficam dois itens: sorteios, onde você
+ 
+
+15
+00:00:18,000 --> 00:00:20,429
+ficam dois itens: sorteios, onde você
+cria e sorteia, e participantes de
+
+16
+00:00:20,429 --> 00:00:20,439
+cria e sorteia, e participantes de
+ 
+
+17
+00:00:20,439 --> 00:00:23,509
+cria e sorteia, e participantes de
+sorteios. No topo, os números, quantos
+
+18
+00:00:23,509 --> 00:00:23,519
+sorteios. No topo, os números, quantos
+ 
+
+19
+00:00:23,519 --> 00:00:25,470
+sorteios. No topo, os números, quantos
+sorteios estão abertos, quantos
+
+20
+00:00:25,470 --> 00:00:25,480
+sorteios estão abertos, quantos
+ 
+
+21
+00:00:25,480 --> 00:00:27,990
+sorteios estão abertos, quantos
+participantes no total, quantos aguardam
+
+22
+00:00:27,990 --> 00:00:28,000
+participantes no total, quantos aguardam
+ 
+
+23
+00:00:28,000 --> 00:00:30,470
+participantes no total, quantos aguardam
+sorteio? E quantos ganhadores já foram
+
+24
+00:00:30,470 --> 00:00:30,480
+sorteio? E quantos ganhadores já foram
+ 
+
+25
+00:00:30,480 --> 00:00:33,830
+sorteio? E quantos ganhadores já foram
+sorteados? As abas filtram por situação:
+
+26
+00:00:33,830 --> 00:00:33,840
+sorteados? As abas filtram por situação:
+ 
+
+27
+00:00:33,840 --> 00:00:36,950
+sorteados? As abas filtram por situação:
+abertos para sortear, sorteados e
+
+28
+00:00:36,950 --> 00:00:36,960
+abertos para sortear, sorteados e
+ 
+
+29
+00:00:36,960 --> 00:00:39,709
+abertos para sortear, sorteados e
+rascunhos. E a busca encontra um sorteio
+
+30
+00:00:39,709 --> 00:00:39,719
+rascunhos. E a busca encontra um sorteio
+ 
+
+31
+00:00:39,719 --> 00:00:42,590
+rascunhos. E a busca encontra um sorteio
+pelo título. Cada sorteio mostra a capa,
+
+32
+00:00:42,590 --> 00:00:42,600
+pelo título. Cada sorteio mostra a capa,
+ 
+
+33
+00:00:42,600 --> 00:00:45,670
+pelo título. Cada sorteio mostra a capa,
+a situação, as datas, quantos inscritos
+
+34
+00:00:45,670 --> 00:00:45,680
+a situação, as datas, quantos inscritos
+ 
+
+35
+00:00:45,680 --> 00:00:48,150
+a situação, as datas, quantos inscritos
+e quantos ganhadores e os botões
+
+36
+00:00:48,150 --> 00:00:48,160
+e quantos ganhadores e os botões
+ 
+
+37
+00:00:48,160 --> 00:00:51,389
+e quantos ganhadores e os botões
+participantes ou ganhadores, editar e
+
+38
+00:00:51,389 --> 00:00:51,399
+participantes ou ganhadores, editar e
+ 
+
+39
+00:00:51,399 --> 00:00:53,709
+participantes ou ganhadores, editar e
+excluir. Vamos criar um sorteio na
+
+40
+00:00:53,709 --> 00:00:53,719
+excluir. Vamos criar um sorteio na
+ 
+
+41
+00:00:53,719 --> 00:00:56,310
+excluir. Vamos criar um sorteio na
+prática. Clique em novo sorteio.
+
+42
+00:00:56,310 --> 00:00:56,320
+prática. Clique em novo sorteio.
+ 
+
+43
+00:00:56,320 --> 00:00:58,990
+prática. Clique em novo sorteio.
+Primeiro, a capa. O tamanho recomendado
+
+44
+00:00:58,990 --> 00:00:59,000
+Primeiro, a capa. O tamanho recomendado
+ 
+
+45
+00:00:59,000 --> 00:01:02,869
+Primeiro, a capa. O tamanho recomendado
+é 1600 por 900 pixels deitada. Deixe o
+
+46
+00:01:02,869 --> 00:01:02,879
+é 1600 por 900 pixels deitada. Deixe o
+ 
+
+47
+00:01:02,879 --> 00:01:05,189
+é 1600 por 900 pixels deitada. Deixe o
+principal no centro porque no celular as
+
+48
+00:01:05,189 --> 00:01:05,199
+principal no centro porque no celular as
+ 
+
+49
+00:01:05,199 --> 00:01:07,670
+principal no centro porque no celular as
+bordas podem ser cortadas. Depois o
+
+50
+00:01:07,670 --> 00:01:07,680
+bordas podem ser cortadas. Depois o
+ 
+
+51
+00:01:07,680 --> 00:01:09,990
+bordas podem ser cortadas. Depois o
+título, a descrição do prêmio e as
+
+52
+00:01:09,990 --> 00:01:10,000
+título, a descrição do prêmio e as
+ 
+
+53
+00:01:10,000 --> 00:01:12,429
+título, a descrição do prêmio e as
+regras, por exemplo, idade mínima e
+
+54
+00:01:12,429 --> 00:01:12,439
+regras, por exemplo, idade mínima e
+ 
+
+55
+00:01:12,439 --> 00:01:14,789
+regras, por exemplo, idade mínima e
+cidade, elas aparecem na página do
+
+56
+00:01:14,789 --> 00:01:14,799
+cidade, elas aparecem na página do
+ 
+
+57
+00:01:14,799 --> 00:01:17,310
+cidade, elas aparecem na página do
+sorteio. Se quiser, colhe um vídeo do
+
+58
+00:01:17,310 --> 00:01:17,320
+sorteio. Se quiser, colhe um vídeo do
+ 
+
+59
+00:01:17,320 --> 00:01:19,670
+sorteio. Se quiser, colhe um vídeo do
+YouTube que abre na página do sorteio e
+
+60
+00:01:19,670 --> 00:01:19,680
+YouTube que abre na página do sorteio e
+ 
+
+61
+00:01:19,680 --> 00:01:21,870
+YouTube que abre na página do sorteio e
+o link da live que mostra o botão
+
+62
+00:01:21,870 --> 00:01:21,880
+o link da live que mostra o botão
+ 
+
+63
+00:01:21,880 --> 00:01:24,429
+o link da live que mostra o botão
+assistir a live no YouTube. Agora as
+
+64
+00:01:24,429 --> 00:01:24,439
+assistir a live no YouTube. Agora as
+ 
+
+65
+00:01:24,439 --> 00:01:27,910
+assistir a live no YouTube. Agora as
+datas. Inscrições de Se ficar vazio, as
+
+66
+00:01:27,910 --> 00:01:27,920
+datas. Inscrições de Se ficar vazio, as
+ 
+
+67
+00:01:27,920 --> 00:01:29,670
+datas. Inscrições de Se ficar vazio, as
+inscrições abrem assim que você
+
+68
+00:01:29,670 --> 00:01:29,680
+inscrições abrem assim que você
+ 
+
+69
+00:01:29,680 --> 00:01:32,429
+inscrições abrem assim que você
+publicar. Inscrições até quando elas
+
+70
+00:01:32,429 --> 00:01:32,439
+publicar. Inscrições até quando elas
+ 
+
+71
+00:01:32,439 --> 00:01:35,870
+publicar. Inscrições até quando elas
+encerram e sorteio em O dia e a hora do
+
+72
+00:01:35,870 --> 00:01:35,880
+encerram e sorteio em O dia e a hora do
+ 
+
+73
+00:01:35,880 --> 00:01:38,350
+encerram e sorteio em O dia e a hora do
+sorteio ao vivo. Defina a quantidade de
+
+74
+00:01:38,350 --> 00:01:38,360
+sorteio ao vivo. Defina a quantidade de
+ 
+
+75
+00:01:38,360 --> 00:01:41,630
+sorteio ao vivo. Defina a quantidade de
+ganhadores e em oferecido por escolha a
+
+76
+00:01:41,630 --> 00:01:41,640
+ganhadores e em oferecido por escolha a
+ 
+
+77
+00:01:41,640 --> 00:01:43,950
+ganhadores e em oferecido por escolha a
+empresa do guia que patrocina o prêmio.
+
+78
+00:01:43,950 --> 00:01:43,960
+empresa do guia que patrocina o prêmio.
+ 
+
+79
+00:01:43,960 --> 00:01:47,030
+empresa do guia que patrocina o prêmio.
+Aqui a churrascaria Gaúcha. Em A roleta
+
+80
+00:01:47,030 --> 00:01:47,040
+Aqui a churrascaria Gaúcha. Em A roleta
+ 
+
+81
+00:01:47,040 --> 00:01:49,109
+Aqui a churrascaria Gaúcha. Em A roleta
+Mostra, escolha se a roleta exibe os
+
+82
+00:01:49,109 --> 00:01:49,119
+Mostra, escolha se a roleta exibe os
+ 
+
+83
+00:01:49,119 --> 00:01:51,910
+Mostra, escolha se a roleta exibe os
+nomes ou os números da sorte e marque se
+
+84
+00:01:51,910 --> 00:01:51,920
+nomes ou os números da sorte e marque se
+ 
+
+85
+00:01:51,920 --> 00:01:54,230
+nomes ou os números da sorte e marque se
+a contagem de participantes aparece no
+
+86
+00:01:54,230 --> 00:01:54,240
+a contagem de participantes aparece no
+ 
+
+87
+00:01:54,240 --> 00:01:57,190
+a contagem de participantes aparece no
+site. Por fim, salvar rascunho guarda
+
+88
+00:01:57,190 --> 00:01:57,200
+site. Por fim, salvar rascunho guarda
+ 
+
+89
+00:01:57,200 --> 00:02:00,069
+site. Por fim, salvar rascunho guarda
+sem publicar e publicar coloca o sorteio
+
+90
+00:02:00,069 --> 00:02:00,079
+sem publicar e publicar coloca o sorteio
+ 
+
+91
+00:02:00,079 --> 00:02:02,870
+sem publicar e publicar coloca o sorteio
+no ar na hora. Atenção, depois que
+
+92
+00:02:02,870 --> 00:02:02,880
+no ar na hora. Atenção, depois que
+ 
+
+93
+00:02:02,880 --> 00:02:04,670
+no ar na hora. Atenção, depois que
+alguém se inscreve, o início das
+
+94
+00:02:04,670 --> 00:02:04,680
+alguém se inscreve, o início das
+ 
+
+95
+00:02:04,680 --> 00:02:07,109
+alguém se inscreve, o início das
+inscrições, a quantidade de ganhadores e
+
+96
+00:02:07,109 --> 00:02:07,119
+inscrições, a quantidade de ganhadores e
+ 
+
+97
+00:02:07,119 --> 00:02:09,749
+inscrições, a quantidade de ganhadores e
+a roleta não podem mais ser mudados.
+
+98
+00:02:09,749 --> 00:02:09,759
+a roleta não podem mais ser mudados.
+ 
+
+99
+00:02:09,759 --> 00:02:12,309
+a roleta não podem mais ser mudados.
+Isso protege a transparência do sorteio.
+
+100
+00:02:12,309 --> 00:02:12,319
+Isso protege a transparência do sorteio.
+ 
+
+101
+00:02:12,319 --> 00:02:14,430
+Isso protege a transparência do sorteio.
+Veja como ele aparece no portal. Na
+
+102
+00:02:14,430 --> 00:02:14,440
+Veja como ele aparece no portal. Na
+ 
+
+103
+00:02:14,440 --> 00:02:16,869
+Veja como ele aparece no portal. Na
+página do sorteio ficam a capa, a
+
+104
+00:02:16,869 --> 00:02:16,879
+página do sorteio ficam a capa, a
+ 
+
+105
+00:02:16,879 --> 00:02:19,110
+página do sorteio ficam a capa, a
+empresa que oferece o prêmio com ver no
+
+106
+00:02:19,110 --> 00:02:19,120
+empresa que oferece o prêmio com ver no
+ 
+
+107
+00:02:19,120 --> 00:02:22,509
+empresa que oferece o prêmio com ver no
+guia e WhatsApp, o prêmio, as regras e a
+
+108
+00:02:22,509 --> 00:02:22,519
+guia e WhatsApp, o prêmio, as regras e a
+ 
+
+109
+00:02:22,519 --> 00:02:24,430
+guia e WhatsApp, o prêmio, as regras e a
+contagem regressiva para encerrar as
+
+110
+00:02:24,430 --> 00:02:24,440
+contagem regressiva para encerrar as
+ 
+
+111
+00:02:24,440 --> 00:02:26,750
+contagem regressiva para encerrar as
+inscrições. O visitante clica em
+
+112
+00:02:26,750 --> 00:02:26,760
+inscrições. O visitante clica em
+ 
+
+113
+00:02:26,760 --> 00:02:29,630
+inscrições. O visitante clica em
+participar do sorteio e informa o nome,
+
+114
+00:02:29,630 --> 00:02:29,640
+participar do sorteio e informa o nome,
+ 
+
+115
+00:02:29,640 --> 00:02:32,710
+participar do sorteio e informa o nome,
+o sobrenome e o WhatsApp com DDD. O
+
+116
+00:02:32,710 --> 00:02:32,720
+o sobrenome e o WhatsApp com DDD. O
+ 
+
+117
+00:02:32,720 --> 00:02:34,750
+o sobrenome e o WhatsApp com DDD. O
+aviso lembra que a entrega do prêmio é
+
+118
+00:02:34,750 --> 00:02:34,760
+aviso lembra que a entrega do prêmio é
+ 
+
+119
+00:02:34,760 --> 00:02:37,150
+aviso lembra que a entrega do prêmio é
+combinada por esse número. Ele confirma
+
+120
+00:02:37,150 --> 00:02:37,160
+combinada por esse número. Ele confirma
+ 
+
+121
+00:02:37,160 --> 00:02:39,589
+combinada por esse número. Ele confirma
+que o número é dele, que leu as regras e
+
+122
+00:02:39,589 --> 00:02:39,599
+que o número é dele, que leu as regras e
+ 
+
+123
+00:02:39,599 --> 00:02:42,110
+que o número é dele, que leu as regras e
+clica em confirmar participação. A
+
+124
+00:02:42,110 --> 00:02:42,120
+clica em confirmar participação. A
+ 
+
+125
+00:02:42,120 --> 00:02:44,430
+clica em confirmar participação. A
+inscrição é confirmada na hora com o
+
+126
+00:02:44,430 --> 00:02:44,440
+inscrição é confirmada na hora com o
+ 
+
+127
+00:02:44,440 --> 00:02:47,030
+inscrição é confirmada na hora com o
+número da sorte e cada aparelho só pode
+
+128
+00:02:47,030 --> 00:02:47,040
+número da sorte e cada aparelho só pode
+ 
+
+129
+00:02:47,040 --> 00:02:49,430
+número da sorte e cada aparelho só pode
+se inscrever uma vez em cada sorteio
+
+130
+00:02:49,430 --> 00:02:49,440
+se inscrever uma vez em cada sorteio
+ 
+
+131
+00:02:49,440 --> 00:02:51,910
+se inscrever uma vez em cada sorteio
+para evitar fraude. No painel, em
+
+132
+00:02:51,910 --> 00:02:51,920
+para evitar fraude. No painel, em
+ 
+
+133
+00:02:51,920 --> 00:02:54,550
+para evitar fraude. No painel, em
+participantes, você vê a lista completa
+
+134
+00:02:54,550 --> 00:02:54,560
+participantes, você vê a lista completa
+ 
+
+135
+00:02:54,560 --> 00:02:57,470
+participantes, você vê a lista completa
+com número, nome, WhatsApp e a data da
+
+136
+00:02:57,470 --> 00:02:57,480
+com número, nome, WhatsApp e a data da
+ 
+
+137
+00:02:57,480 --> 00:03:00,070
+com número, nome, WhatsApp e a data da
+inscrição. Dá para buscar, filtrar só os
+
+138
+00:03:00,070 --> 00:03:00,080
+inscrição. Dá para buscar, filtrar só os
+ 
+
+139
+00:03:00,080 --> 00:03:03,309
+inscrição. Dá para buscar, filtrar só os
+ganhadores e exportar em CSV ou Excel.
+
+140
+00:03:03,309 --> 00:03:03,319
+ganhadores e exportar em CSV ou Excel.
+ 
+
+141
+00:03:03,319 --> 00:03:05,589
+ganhadores e exportar em CSV ou Excel.
+Encerradas as inscrições, chegou a hora
+
+142
+00:03:05,589 --> 00:03:05,599
+Encerradas as inscrições, chegou a hora
+ 
+
+143
+00:03:05,599 --> 00:03:08,190
+Encerradas as inscrições, chegou a hora
+do sorteio. Clique em ganhadores ou
+
+144
+00:03:08,190 --> 00:03:08,200
+do sorteio. Clique em ganhadores ou
+ 
+
+145
+00:03:08,200 --> 00:03:10,789
+do sorteio. Clique em ganhadores ou
+participantes para abrir a tela Sortear
+
+146
+00:03:10,789 --> 00:03:10,799
+participantes para abrir a tela Sortear
+ 
+
+147
+00:03:10,799 --> 00:03:13,350
+participantes para abrir a tela Sortear
+ao vivo. Use tela cheia para transmitir
+
+148
+00:03:13,350 --> 00:03:13,360
+ao vivo. Use tela cheia para transmitir
+ 
+
+149
+00:03:13,360 --> 00:03:16,190
+ao vivo. Use tela cheia para transmitir
+na live ou num telão. Clique em sortear
+
+150
+00:03:16,190 --> 00:03:16,200
+na live ou num telão. Clique em sortear
+ 
+
+151
+00:03:16,200 --> 00:03:18,630
+na live ou num telão. Clique em sortear
+primeiro ganhador. Começa a contagem
+
+152
+00:03:18,630 --> 00:03:18,640
+primeiro ganhador. Começa a contagem
+ 
+
+153
+00:03:18,640 --> 00:03:21,149
+primeiro ganhador. Começa a contagem
+regressiva. A roleta gira passando pelos
+
+154
+00:03:21,149 --> 00:03:21,159
+regressiva. A roleta gira passando pelos
+ 
+
+155
+00:03:21,159 --> 00:03:23,430
+regressiva. A roleta gira passando pelos
+nomes dos participantes. E temos uma
+
+156
+00:03:23,430 --> 00:03:23,440
+nomes dos participantes. E temos uma
+ 
+
+157
+00:03:23,440 --> 00:03:26,270
+nomes dos participantes. E temos uma
+ganhadora, Carla Mendes, com confete na
+
+158
+00:03:26,270 --> 00:03:26,280
+ganhadora, Carla Mendes, com confete na
+ 
+
+159
+00:03:26,280 --> 00:03:28,750
+ganhadora, Carla Mendes, com confete na
+tela. Logo abaixo aparece o cartão do
+
+160
+00:03:28,750 --> 00:03:28,760
+tela. Logo abaixo aparece o cartão do
+ 
+
+161
+00:03:28,760 --> 00:03:30,830
+tela. Logo abaixo aparece o cartão do
+ganhador com o número da sorte e o
+
+162
+00:03:30,830 --> 00:03:30,840
+ganhador com o número da sorte e o
+ 
+
+163
+00:03:30,840 --> 00:03:33,229
+ganhador com o número da sorte e o
+WhatsApp. Clique em chamar no WhatsApp
+
+164
+00:03:33,229 --> 00:03:33,239
+WhatsApp. Clique em chamar no WhatsApp
+ 
+
+165
+00:03:33,239 --> 00:03:35,710
+WhatsApp. Clique em chamar no WhatsApp
+para combinar a entrega. Em entrega do
+
+166
+00:03:35,710 --> 00:03:35,720
+para combinar a entrega. Em entrega do
+ 
+
+167
+00:03:35,720 --> 00:03:38,229
+para combinar a entrega. Em entrega do
+prêmio, acompanha a situação. Aguardando
+
+168
+00:03:38,229 --> 00:03:38,239
+prêmio, acompanha a situação. Aguardando
+ 
+
+169
+00:03:38,239 --> 00:03:41,350
+prêmio, acompanha a situação. Aguardando
+contato, contatado, prêmio entregue ou
+
+170
+00:03:41,350 --> 00:03:41,360
+contato, contatado, prêmio entregue ou
+ 
+
+171
+00:03:41,360 --> 00:03:43,429
+contato, contatado, prêmio entregue ou
+não respondeu. E se o ganhador não
+
+172
+00:03:43,429 --> 00:03:43,439
+não respondeu. E se o ganhador não
+ 
+
+173
+00:03:43,439 --> 00:03:46,589
+não respondeu. E se o ganhador não
+responder, use não respondeu, sortear
+
+174
+00:03:46,589 --> 00:03:46,599
+responder, use não respondeu, sortear
+ 
+
+175
+00:03:46,599 --> 00:03:49,309
+responder, use não respondeu, sortear
+outro no lugar. A troca fica registrada
+
+176
+00:03:49,309 --> 00:03:49,319
+outro no lugar. A troca fica registrada
+ 
+
+177
+00:03:49,319 --> 00:03:51,229
+outro no lugar. A troca fica registrada
+e o portal mostra que o ganhador foi
+
+178
+00:03:51,229 --> 00:03:51,239
+e o portal mostra que o ganhador foi
+ 
+
+179
+00:03:51,239 --> 00:03:53,229
+e o portal mostra que o ganhador foi
+substituído por não responder. O
+
+180
+00:03:53,229 --> 00:03:53,239
+substituído por não responder. O
+ 
+
+181
+00:03:53,239 --> 00:03:55,589
+substituído por não responder. O
+resultado aparece sozinho no portal. O
+
+182
+00:03:55,589 --> 00:03:55,599
+resultado aparece sozinho no portal. O
+ 
+
+183
+00:03:55,599 --> 00:03:57,750
+resultado aparece sozinho no portal. O
+sorteio fica como sorteado, com as
+
+184
+00:03:57,750 --> 00:03:57,760
+sorteio fica como sorteado, com as
+ 
+
+185
+00:03:57,760 --> 00:03:59,589
+sorteio fica como sorteado, com as
+inscrições encerradas e o nome do
+
+186
+00:03:59,589 --> 00:03:59,599
+inscrições encerradas e o nome do
+ 
+
+187
+00:03:59,599 --> 00:04:01,990
+inscrições encerradas e o nome do
+ganhador, de forma parcial para proteger
+
+188
+00:04:01,990 --> 00:04:02,000
+ganhador, de forma parcial para proteger
+ 
+
+189
+00:04:02,000 --> 00:04:05,110
+ganhador, de forma parcial para proteger
+a privacidade. Pronto, crie, publique,
+
+190
+00:04:05,110 --> 00:04:05,120
+a privacidade. Pronto, crie, publique,
+ 
+
+191
+00:04:05,120 --> 00:04:07,509
+a privacidade. Pronto, crie, publique,
+sorteie ao vivo e entregue o prêmio.
+
+192
+00:04:07,509 --> 00:04:07,519
+sorteie ao vivo e entregue o prêmio.
+ 
+
+193
+00:04:07,519 --> 00:04:09,990
+sorteie ao vivo e entregue o prêmio.
+Sorteios trazem audiência para o portal
+
+194
+00:04:09,990 --> 00:04:10,000
+Sorteios trazem audiência para o portal
+ 
+
+195
+00:04:10,000 --> 00:04:11,830
+Sorteios trazem audiência para o portal
+e visibilidade para as empresas
+
+196
+00:04:11,830 --> 00:04:11,840
+e visibilidade para as empresas
+ 
+
+197
+00:04:11,840 --> 00:04:14,840
+e visibilidade para as empresas
+parceiras.
+

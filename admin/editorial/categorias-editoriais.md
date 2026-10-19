@@ -1,6 +1,6 @@
 ---
 id: editorial-categorias
-titulo: categorias: notícias, artigos e turismo
+titulo: "categorias: notícias, artigos e turismo"
 publico:
   - administrador do portal
 modulo: Notícias, Artigos e Turismo

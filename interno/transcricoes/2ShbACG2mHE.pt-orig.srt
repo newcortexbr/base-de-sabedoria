@@ -1,0 +1,525 @@
+1
+00:00:00,080 --> 00:00:02,310
+ 
+O cardápio do delivery é a vitrine da
+
+2
+00:00:02,310 --> 00:00:02,320
+O cardápio do delivery é a vitrine da
+ 
+
+3
+00:00:02,320 --> 00:00:04,550
+O cardápio do delivery é a vitrine da
+loja online da empresa, os produtos que
+
+4
+00:00:04,550 --> 00:00:04,560
+loja online da empresa, os produtos que
+ 
+
+5
+00:00:04,560 --> 00:00:06,590
+loja online da empresa, os produtos que
+o cliente pode pedir pelo portal com
+
+6
+00:00:06,590 --> 00:00:06,600
+o cliente pode pedir pelo portal com
+ 
+
+7
+00:00:06,600 --> 00:00:08,950
+o cliente pode pedir pelo portal com
+entrega em casa. Atenção, ele é
+
+8
+00:00:08,950 --> 00:00:08,960
+entrega em casa. Atenção, ele é
+ 
+
+9
+00:00:08,960 --> 00:00:11,150
+entrega em casa. Atenção, ele é
+diferente do cardápio digital. O
+
+10
+00:00:11,150 --> 00:00:11,160
+diferente do cardápio digital. O
+ 
+
+11
+00:00:11,160 --> 00:00:13,549
+diferente do cardápio digital. O
+cardápio digital é para consulta com
+
+12
+00:00:13,549 --> 00:00:13,559
+cardápio digital é para consulta com
+ 
+
+13
+00:00:13,559 --> 00:00:16,630
+cardápio digital é para consulta com
+fotos e preços. O cardápio do delivery é
+
+14
+00:00:16,630 --> 00:00:16,640
+fotos e preços. O cardápio do delivery é
+ 
+
+15
+00:00:16,640 --> 00:00:19,230
+fotos e preços. O cardápio do delivery é
+para venda com carrinho, adicionais e
+
+16
+00:00:19,230 --> 00:00:19,240
+para venda com carrinho, adicionais e
+ 
+
+17
+00:00:19,240 --> 00:00:22,390
+para venda com carrinho, adicionais e
+pagamento. Para abrir, edite a empresa e
+
+18
+00:00:22,390 --> 00:00:22,400
+pagamento. Para abrir, edite a empresa e
+ 
+
+19
+00:00:22,400 --> 00:00:25,189
+pagamento. Para abrir, edite a empresa e
+em conteúdo da ficha clique em gerenciar
+
+20
+00:00:25,189 --> 00:00:25,199
+em conteúdo da ficha clique em gerenciar
+ 
+
+21
+00:00:25,199 --> 00:00:27,630
+em conteúdo da ficha clique em gerenciar
+no cartão cardápio do delivery. À
+
+22
+00:00:27,630 --> 00:00:27,640
+no cartão cardápio do delivery. À
+ 
+
+23
+00:00:27,640 --> 00:00:29,950
+no cartão cardápio do delivery. À
+esquerda ficam as sessões da loja, como
+
+24
+00:00:29,950 --> 00:00:29,960
+esquerda ficam as sessões da loja, como
+ 
+
+25
+00:00:29,960 --> 00:00:32,910
+esquerda ficam as sessões da loja, como
+açaí e hambúrguer. O botão de mais cria
+
+26
+00:00:32,910 --> 00:00:32,920
+açaí e hambúrguer. O botão de mais cria
+ 
+
+27
+00:00:32,920 --> 00:00:35,630
+açaí e hambúrguer. O botão de mais cria
+uma nova sessão. À direita aparecem os
+
+28
+00:00:35,630 --> 00:00:35,640
+uma nova sessão. À direita aparecem os
+ 
+
+29
+00:00:35,640 --> 00:00:38,069
+uma nova sessão. À direita aparecem os
+produtos da sessão escolhida com foto,
+
+30
+00:00:38,069 --> 00:00:38,079
+produtos da sessão escolhida com foto,
+ 
+
+31
+00:00:38,079 --> 00:00:40,670
+produtos da sessão escolhida com foto,
+preço e quantos grupos de opções cada um
+
+32
+00:00:40,670 --> 00:00:40,680
+preço e quantos grupos de opções cada um
+ 
+
+33
+00:00:40,680 --> 00:00:43,750
+preço e quantos grupos de opções cada um
+tem. Em cada produto você pode editar ou
+
+34
+00:00:43,750 --> 00:00:43,760
+tem. Em cada produto você pode editar ou
+ 
+
+35
+00:00:43,760 --> 00:00:46,549
+tem. Em cada produto você pode editar ou
+excluir. Para cadastrar, clique em novo
+
+36
+00:00:46,549 --> 00:00:46,559
+excluir. Para cadastrar, clique em novo
+ 
+
+37
+00:00:46,559 --> 00:00:49,430
+excluir. Para cadastrar, clique em novo
+produto. Preencha o nome e a descrição.
+
+38
+00:00:49,430 --> 00:00:49,440
+produto. Preencha o nome e a descrição.
+ 
+
+39
+00:00:49,440 --> 00:00:51,630
+produto. Preencha o nome e a descrição.
+Em preço base, informe o valor do
+
+40
+00:00:51,630 --> 00:00:51,640
+Em preço base, informe o valor do
+ 
+
+41
+00:00:51,640 --> 00:00:53,950
+Em preço base, informe o valor do
+produto. Deixe zero quando o preço for
+
+42
+00:00:53,950 --> 00:00:53,960
+produto. Deixe zero quando o preço for
+ 
+
+43
+00:00:53,960 --> 00:00:56,229
+produto. Deixe zero quando o preço for
+definido pelos tamanhos. Por exemplo, um
+
+44
+00:00:56,229 --> 00:00:56,239
+definido pelos tamanhos. Por exemplo, um
+ 
+
+45
+00:00:56,239 --> 00:00:59,830
+definido pelos tamanhos. Por exemplo, um
+açaí de 300 ou de 500 ml. Marque
+
+46
+00:00:59,830 --> 00:00:59,840
+açaí de 300 ou de 500 ml. Marque
+ 
+
+47
+00:00:59,840 --> 00:01:01,750
+açaí de 300 ou de 500 ml. Marque
+disponível para o produto aparecer na
+
+48
+00:01:01,750 --> 00:01:01,760
+disponível para o produto aparecer na
+ 
+
+49
+00:01:01,760 --> 00:01:04,270
+disponível para o produto aparecer na
+loja e destaque para ele ganhar mais
+
+50
+00:01:04,270 --> 00:01:04,280
+loja e destaque para ele ganhar mais
+ 
+
+51
+00:01:04,280 --> 00:01:07,030
+loja e destaque para ele ganhar mais
+visibilidade. Envie a foto e clique em
+
+52
+00:01:07,030 --> 00:01:07,040
+visibilidade. Envie a foto e clique em
+ 
+
+53
+00:01:07,040 --> 00:01:09,910
+visibilidade. Envie a foto e clique em
+criar produto. Repare no aviso. Depois
+
+54
+00:01:09,910 --> 00:01:09,920
+criar produto. Repare no aviso. Depois
+ 
+
+55
+00:01:09,920 --> 00:01:11,990
+criar produto. Repare no aviso. Depois
+de criar o produto, você pode adicionar
+
+56
+00:01:11,990 --> 00:01:12,000
+de criar o produto, você pode adicionar
+ 
+
+57
+00:01:12,000 --> 00:01:14,190
+de criar o produto, você pode adicionar
+os grupos de opções, como tamanhos,
+
+58
+00:01:14,190 --> 00:01:14,200
+os grupos de opções, como tamanhos,
+ 
+
+59
+00:01:14,200 --> 00:01:16,590
+os grupos de opções, como tamanhos,
+coberturas e complementos. Veja na
+
+60
+00:01:16,590 --> 00:01:16,600
+coberturas e complementos. Veja na
+ 
+
+61
+00:01:16,600 --> 00:01:18,950
+coberturas e complementos. Veja na
+edição do açaí cremoso. Em grupos de
+
+62
+00:01:18,950 --> 00:01:18,960
+edição do açaí cremoso. Em grupos de
+ 
+
+63
+00:01:18,960 --> 00:01:21,390
+edição do açaí cremoso. Em grupos de
+opções, cada grupo tem um nome, se é
+
+64
+00:01:21,390 --> 00:01:21,400
+opções, cada grupo tem um nome, se é
+ 
+
+65
+00:01:21,400 --> 00:01:23,749
+opções, cada grupo tem um nome, se é
+opcional ou obrigatório e o limite de
+
+66
+00:01:23,749 --> 00:01:23,759
+opcional ou obrigatório e o limite de
+ 
+
+67
+00:01:23,759 --> 00:01:25,870
+opcional ou obrigatório e o limite de
+escolhas. Cobertura, por exemplo,
+
+68
+00:01:25,870 --> 00:01:25,880
+escolhas. Cobertura, por exemplo,
+ 
+
+69
+00:01:25,880 --> 00:01:28,469
+escolhas. Cobertura, por exemplo,
+permite até duas. Cada opção pode ser
+
+70
+00:01:28,469 --> 00:01:28,479
+permite até duas. Cada opção pode ser
+ 
+
+71
+00:01:28,479 --> 00:01:30,670
+permite até duas. Cada opção pode ser
+incluída sem custo ou ter um valor a
+
+72
+00:01:30,670 --> 00:01:30,680
+incluída sem custo ou ter um valor a
+ 
+
+73
+00:01:30,680 --> 00:01:33,710
+incluída sem custo ou ter um valor a
+mais. Use adicionar opção para criar uma
+
+74
+00:01:33,710 --> 00:01:33,720
+mais. Use adicionar opção para criar uma
+ 
+
+75
+00:01:33,720 --> 00:01:36,749
+mais. Use adicionar opção para criar uma
+nova e novo grupo para criar outro grupo
+
+76
+00:01:36,749 --> 00:01:36,759
+nova e novo grupo para criar outro grupo
+ 
+
+77
+00:01:36,759 --> 00:01:39,789
+nova e novo grupo para criar outro grupo
+como complementos ou frutas. Agora veja
+
+78
+00:01:39,789 --> 00:01:39,799
+como complementos ou frutas. Agora veja
+ 
+
+79
+00:01:39,799 --> 00:01:41,789
+como complementos ou frutas. Agora veja
+como o cliente compra. Na loja do
+
+80
+00:01:41,789 --> 00:01:41,799
+como o cliente compra. Na loja do
+ 
+
+81
+00:01:41,799 --> 00:01:43,870
+como o cliente compra. Na loja do
+portal, ele vê a taxa e o tempo de
+
+82
+00:01:43,870 --> 00:01:43,880
+portal, ele vê a taxa e o tempo de
+ 
+
+83
+00:01:43,880 --> 00:01:46,350
+portal, ele vê a taxa e o tempo de
+entrega, se a loja está aberta, o cupom
+
+84
+00:01:46,350 --> 00:01:46,360
+entrega, se a loja está aberta, o cupom
+ 
+
+85
+00:01:46,360 --> 00:01:48,590
+entrega, se a loja está aberta, o cupom
+disponível e os produtos separados por
+
+86
+00:01:48,590 --> 00:01:48,600
+disponível e os produtos separados por
+ 
+
+87
+00:01:48,600 --> 00:01:50,990
+disponível e os produtos separados por
+sessão. Ao tocar no produto, ele escolhe
+
+88
+00:01:50,990 --> 00:01:51,000
+sessão. Ao tocar no produto, ele escolhe
+ 
+
+89
+00:01:51,000 --> 00:01:53,270
+sessão. Ao tocar no produto, ele escolhe
+os adicionais de cada grupo, respeitando
+
+90
+00:01:53,270 --> 00:01:53,280
+os adicionais de cada grupo, respeitando
+ 
+
+91
+00:01:53,280 --> 00:01:55,630
+os adicionais de cada grupo, respeitando
+os limites que você definiu. O item vai
+
+92
+00:01:55,630 --> 00:01:55,640
+os limites que você definiu. O item vai
+ 
+
+93
+00:01:55,640 --> 00:01:58,109
+os limites que você definiu. O item vai
+para o carrinho com subtotal, taxa de
+
+94
+00:01:58,109 --> 00:01:58,119
+para o carrinho com subtotal, taxa de
+ 
+
+95
+00:01:58,119 --> 00:02:01,109
+para o carrinho com subtotal, taxa de
+entrega e total. Depois é só finalizar o
+
+96
+00:02:01,109 --> 00:02:01,119
+entrega e total. Depois é só finalizar o
+ 
+
+97
+00:02:01,119 --> 00:02:03,190
+entrega e total. Depois é só finalizar o
+pedido que chega na fila de pedidos da
+
+98
+00:02:03,190 --> 00:02:03,200
+pedido que chega na fila de pedidos da
+ 
+
+99
+00:02:03,200 --> 00:02:05,310
+pedido que chega na fila de pedidos da
+empresa. Pronto. Produtos bem
+
+100
+00:02:05,310 --> 00:02:05,320
+empresa. Pronto. Produtos bem
+ 
+
+101
+00:02:05,320 --> 00:02:07,830
+empresa. Pronto. Produtos bem
+fotografados e opções bem organizadas
+
+102
+00:02:07,830 --> 00:02:07,840
+fotografados e opções bem organizadas
+ 
+
+103
+00:02:07,840 --> 00:02:10,350
+fotografados e opções bem organizadas
+fazem o cliente pedir mais. E o pedido
+
+104
+00:02:10,350 --> 00:02:10,360
+fazem o cliente pedir mais. E o pedido
+ 
+
+105
+00:02:10,360 --> 00:02:14,560
+fazem o cliente pedir mais. E o pedido
+chega certinho para a loja.
+

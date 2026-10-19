@@ -1,0 +1,205 @@
+1
+00:00:00,080 --> 00:00:02,270
+ 
+A tela início é a primeira coisa que o
+
+2
+00:00:02,270 --> 00:00:02,280
+A tela início é a primeira coisa que o
+ 
+
+3
+00:00:02,280 --> 00:00:04,950
+A tela início é a primeira coisa que o
+visitante vê e tudo que você muda aqui
+
+4
+00:00:04,950 --> 00:00:04,960
+visitante vê e tudo que você muda aqui
+ 
+
+5
+00:00:04,960 --> 00:00:07,389
+visitante vê e tudo que você muda aqui
+aparece na hora no site. No menu
+
+6
+00:00:07,389 --> 00:00:07,399
+aparece na hora no site. No menu
+ 
+
+7
+00:00:07,399 --> 00:00:10,150
+aparece na hora no site. No menu
+lateral, abra configurações, clique em
+
+8
+00:00:10,150 --> 00:00:10,160
+lateral, abra configurações, clique em
+ 
+
+9
+00:00:10,160 --> 00:00:13,110
+lateral, abra configurações, clique em
+layout e depois em tela início. Cada
+
+10
+00:00:13,110 --> 00:00:13,120
+layout e depois em tela início. Cada
+ 
+
+11
+00:00:13,120 --> 00:00:15,430
+layout e depois em tela início. Cada
+bloco da lista é uma parte da sua página
+
+12
+00:00:15,430 --> 00:00:15,440
+bloco da lista é uma parte da sua página
+ 
+
+13
+00:00:15,440 --> 00:00:17,750
+bloco da lista é uma parte da sua página
+inicial, na mesma ordem em que aparece
+
+14
+00:00:17,750 --> 00:00:17,760
+inicial, na mesma ordem em que aparece
+ 
+
+15
+00:00:17,760 --> 00:00:20,670
+inicial, na mesma ordem em que aparece
+no site. Hoje, logo depois do banner, o
+
+16
+00:00:20,670 --> 00:00:20,680
+no site. Hoje, logo depois do banner, o
+ 
+
+17
+00:00:20,680 --> 00:00:23,109
+no site. Hoje, logo depois do banner, o
+primeiro bloco da home é o de turismo.
+
+18
+00:00:23,109 --> 00:00:23,119
+primeiro bloco da home é o de turismo.
+ 
+
+19
+00:00:23,119 --> 00:00:25,830
+primeiro bloco da home é o de turismo.
+Agora, no painel, segure a alça do bloco
+
+20
+00:00:25,830 --> 00:00:25,840
+Agora, no painel, segure a alça do bloco
+ 
+
+21
+00:00:25,840 --> 00:00:28,509
+Agora, no painel, segure a alça do bloco
+vagas e arraste para o topo da lista. A
+
+22
+00:00:28,509 --> 00:00:28,519
+vagas e arraste para o topo da lista. A
+ 
+
+23
+00:00:28,519 --> 00:00:31,349
+vagas e arraste para o topo da lista. A
+nova ordem é salva sozinha. Atualize a
+
+24
+00:00:31,349 --> 00:00:31,359
+nova ordem é salva sozinha. Atualize a
+ 
+
+25
+00:00:31,359 --> 00:00:33,790
+nova ordem é salva sozinha. Atualize a
+home. As vagas já aparecem em primeiro
+
+26
+00:00:33,790 --> 00:00:33,800
+home. As vagas já aparecem em primeiro
+ 
+
+27
+00:00:33,800 --> 00:00:36,590
+home. As vagas já aparecem em primeiro
+lugar na hora. Para incluir algo novo,
+
+28
+00:00:36,590 --> 00:00:36,600
+lugar na hora. Para incluir algo novo,
+ 
+
+29
+00:00:36,600 --> 00:00:39,030
+lugar na hora. Para incluir algo novo,
+clique em adicionar bloco, escolha o
+
+30
+00:00:39,030 --> 00:00:39,040
+clique em adicionar bloco, escolha o
+ 
+
+31
+00:00:39,040 --> 00:00:41,470
+clique em adicionar bloco, escolha o
+tipo e o modelo e veja a prévia com o
+
+32
+00:00:41,470 --> 00:00:41,480
+tipo e o modelo e veja a prévia com o
+ 
+
+33
+00:00:41,480 --> 00:00:44,150
+tipo e o modelo e veja a prévia com o
+conteúdo real do portal. Use o olho para
+
+34
+00:00:44,150 --> 00:00:44,160
+conteúdo real do portal. Use o olho para
+ 
+
+35
+00:00:44,160 --> 00:00:46,869
+conteúdo real do portal. Use o olho para
+ocultar um bloco, o lápis para editar e
+
+36
+00:00:46,869 --> 00:00:46,879
+ocultar um bloco, o lápis para editar e
+ 
+
+37
+00:00:46,879 --> 00:00:49,630
+ocultar um bloco, o lápis para editar e
+a lixeira para remover. Pronto. A página
+
+38
+00:00:49,630 --> 00:00:49,640
+a lixeira para remover. Pronto. A página
+ 
+
+39
+00:00:49,640 --> 00:00:52,069
+a lixeira para remover. Pronto. A página
+inicial do seu portal muda na hora, do
+
+40
+00:00:52,069 --> 00:00:52,079
+inicial do seu portal muda na hora, do
+ 
+
+41
+00:00:52,079 --> 00:00:55,039
+inicial do seu portal muda na hora, do
+jeito que você quiser.
+

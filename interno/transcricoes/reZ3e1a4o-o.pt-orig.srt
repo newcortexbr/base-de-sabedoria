@@ -1,0 +1,605 @@
+1
+00:00:00,080 --> 00:00:02,470
+ 
+O recurso Quartos e Suítes transforma a
+
+2
+00:00:02,470 --> 00:00:02,480
+O recurso Quartos e Suítes transforma a
+ 
+
+3
+00:00:02,480 --> 00:00:04,470
+O recurso Quartos e Suítes transforma a
+página de um hotel, pousada ou
+
+4
+00:00:04,470 --> 00:00:04,480
+página de um hotel, pousada ou
+ 
+
+5
+00:00:04,480 --> 00:00:07,150
+página de um hotel, pousada ou
+hospedagem numa vitrine de acomodações
+
+6
+00:00:07,150 --> 00:00:07,160
+hospedagem numa vitrine de acomodações
+ 
+
+7
+00:00:07,160 --> 00:00:09,950
+hospedagem numa vitrine de acomodações
+com fotos, comodidades, preço por noite
+
+8
+00:00:09,950 --> 00:00:09,960
+com fotos, comodidades, preço por noite
+ 
+
+9
+00:00:09,960 --> 00:00:12,390
+com fotos, comodidades, preço por noite
+e botão de reserva. Ele aparece para as
+
+10
+00:00:12,390 --> 00:00:12,400
+e botão de reserva. Ele aparece para as
+ 
+
+11
+00:00:12,400 --> 00:00:14,390
+e botão de reserva. Ele aparece para as
+empresas cuja categoria tem a opção
+
+12
+00:00:14,390 --> 00:00:14,400
+empresas cuja categoria tem a opção
+ 
+
+13
+00:00:14,400 --> 00:00:17,029
+empresas cuja categoria tem a opção
+quartos marcada, como hospedagem. Isso
+
+14
+00:00:17,029 --> 00:00:17,039
+quartos marcada, como hospedagem. Isso
+ 
+
+15
+00:00:17,039 --> 00:00:19,750
+quartos marcada, como hospedagem. Isso
+se configura em gerenciar categorias.
+
+16
+00:00:19,750 --> 00:00:19,760
+se configura em gerenciar categorias.
+ 
+
+17
+00:00:19,760 --> 00:00:22,550
+se configura em gerenciar categorias.
+Para gerenciar, edite a empresa e em
+
+18
+00:00:22,550 --> 00:00:22,560
+Para gerenciar, edite a empresa e em
+ 
+
+19
+00:00:22,560 --> 00:00:25,109
+Para gerenciar, edite a empresa e em
+conteúdo da ficha, clique em gerenciar
+
+20
+00:00:25,109 --> 00:00:25,119
+conteúdo da ficha, clique em gerenciar
+ 
+
+21
+00:00:25,119 --> 00:00:27,830
+conteúdo da ficha, clique em gerenciar
+no cartão quartos e Suíches. A própria
+
+22
+00:00:27,830 --> 00:00:27,840
+no cartão quartos e Suíches. A própria
+ 
+
+23
+00:00:27,840 --> 00:00:30,029
+no cartão quartos e Suíches. A própria
+pousada também gerencia pelo painel do
+
+24
+00:00:30,029 --> 00:00:30,039
+pousada também gerencia pelo painel do
+ 
+
+25
+00:00:30,039 --> 00:00:32,389
+pousada também gerencia pelo painel do
+cliente. Os quartos são organizados em
+
+26
+00:00:32,389 --> 00:00:32,399
+cliente. Os quartos são organizados em
+ 
+
+27
+00:00:32,399 --> 00:00:35,630
+cliente. Os quartos são organizados em
+sessões como casal, grupo, suítes,
+
+28
+00:00:35,630 --> 00:00:35,640
+sessões como casal, grupo, suítes,
+ 
+
+29
+00:00:35,640 --> 00:00:38,430
+sessões como casal, grupo, suítes,
+chalés ou quartos standard. Para criar
+
+30
+00:00:38,430 --> 00:00:38,440
+chalés ou quartos standard. Para criar
+ 
+
+31
+00:00:38,440 --> 00:00:40,910
+chalés ou quartos standard. Para criar
+uma, digite o nome e clique em mais
+
+32
+00:00:40,910 --> 00:00:40,920
+uma, digite o nome e clique em mais
+ 
+
+33
+00:00:40,920 --> 00:00:43,150
+uma, digite o nome e clique em mais
+sessão. Cada sessão mostra se está
+
+34
+00:00:43,150 --> 00:00:43,160
+sessão. Cada sessão mostra se está
+ 
+
+35
+00:00:43,160 --> 00:00:45,869
+sessão. Cada sessão mostra se está
+publicada e quantos quartos estão no ar.
+
+36
+00:00:45,869 --> 00:00:45,879
+publicada e quantos quartos estão no ar.
+ 
+
+37
+00:00:45,879 --> 00:00:48,910
+publicada e quantos quartos estão no ar.
+As setas mudam a ordem, renomear troca o
+
+38
+00:00:48,910 --> 00:00:48,920
+As setas mudam a ordem, renomear troca o
+ 
+
+39
+00:00:48,920 --> 00:00:52,029
+As setas mudam a ordem, renomear troca o
+nome mais quarto adiciona uma acomodação
+
+40
+00:00:52,029 --> 00:00:52,039
+nome mais quarto adiciona uma acomodação
+ 
+
+41
+00:00:52,039 --> 00:00:55,029
+nome mais quarto adiciona uma acomodação
+e o X exclui a sessão. Dentro da sessão
+
+42
+00:00:55,029 --> 00:00:55,039
+e o X exclui a sessão. Dentro da sessão
+ 
+
+43
+00:00:55,039 --> 00:00:57,950
+e o X exclui a sessão. Dentro da sessão
+ficam os quartos com título, subtítulo e
+
+44
+00:00:57,950 --> 00:00:57,960
+ficam os quartos com título, subtítulo e
+ 
+
+45
+00:00:57,960 --> 00:01:00,110
+ficam os quartos com título, subtítulo e
+o preço por noite. Repare que o preço
+
+46
+00:01:00,110 --> 00:01:00,120
+o preço por noite. Repare que o preço
+ 
+
+47
+00:01:00,120 --> 00:01:02,069
+o preço por noite. Repare que o preço
+antigo aparece riscado quando há
+
+48
+00:01:02,069 --> 00:01:02,079
+antigo aparece riscado quando há
+ 
+
+49
+00:01:02,079 --> 00:01:04,950
+antigo aparece riscado quando há
+promoção. Em cada quarto você publica ou
+
+50
+00:01:04,950 --> 00:01:04,960
+promoção. Em cada quarto você publica ou
+ 
+
+51
+00:01:04,960 --> 00:01:07,870
+promoção. Em cada quarto você publica ou
+esconde, gerencia as fotos, edita ou
+
+52
+00:01:07,870 --> 00:01:07,880
+esconde, gerencia as fotos, edita ou
+ 
+
+53
+00:01:07,880 --> 00:01:10,510
+esconde, gerencia as fotos, edita ou
+exclui. Para cadastrar, clique em Mais
+
+54
+00:01:10,510 --> 00:01:10,520
+exclui. Para cadastrar, clique em Mais
+ 
+
+55
+00:01:10,520 --> 00:01:13,149
+exclui. Para cadastrar, clique em Mais
+quarto, preencha o título, por exemplo,
+
+56
+00:01:13,149 --> 00:01:13,159
+quarto, preencha o título, por exemplo,
+ 
+
+57
+00:01:13,159 --> 00:01:15,950
+quarto, preencha o título, por exemplo,
+suitch master e o subtítulo, como para
+
+58
+00:01:15,950 --> 00:01:15,960
+suitch master e o subtítulo, como para
+ 
+
+59
+00:01:15,960 --> 00:01:18,710
+suitch master e o subtítulo, como para
+duas pessoas com varanda. Na descrição,
+
+60
+00:01:18,710 --> 00:01:18,720
+duas pessoas com varanda. Na descrição,
+ 
+
+61
+00:01:18,720 --> 00:01:21,710
+duas pessoas com varanda. Na descrição,
+conte como é o quarto, a cama, a vista,
+
+62
+00:01:21,710 --> 00:01:21,720
+conte como é o quarto, a cama, a vista,
+ 
+
+63
+00:01:21,720 --> 00:01:24,390
+conte como é o quarto, a cama, a vista,
+o banheiro. Informe o preço por noite.
+
+64
+00:01:24,390 --> 00:01:24,400
+o banheiro. Informe o preço por noite.
+ 
+
+65
+00:01:24,400 --> 00:01:26,510
+o banheiro. Informe o preço por noite.
+Para uma promoção, preencha também o
+
+66
+00:01:26,510 --> 00:01:26,520
+Para uma promoção, preencha também o
+ 
+
+67
+00:01:26,520 --> 00:01:28,950
+Para uma promoção, preencha também o
+preço promocional. No site, o valor
+
+68
+00:01:28,950 --> 00:01:28,960
+preço promocional. No site, o valor
+ 
+
+69
+00:01:28,960 --> 00:01:31,550
+preço promocional. No site, o valor
+cheio aparece riscado ao lado do novo.
+
+70
+00:01:31,550 --> 00:01:31,560
+cheio aparece riscado ao lado do novo.
+ 
+
+71
+00:01:31,560 --> 00:01:33,830
+cheio aparece riscado ao lado do novo.
+Em comodidades do quarto, digite cada
+
+72
+00:01:33,830 --> 00:01:33,840
+Em comodidades do quarto, digite cada
+ 
+
+73
+00:01:33,840 --> 00:01:36,789
+Em comodidades do quarto, digite cada
+item e clique no mais, como Wi-Fi, ar-
+
+74
+00:01:36,789 --> 00:01:36,799
+item e clique no mais, como Wi-Fi, ar-
+ 
+
+75
+00:01:36,799 --> 00:01:39,590
+item e clique no mais, como Wi-Fi, ar-
+condicionado, vista mar e garagem. Elas
+
+76
+00:01:39,590 --> 00:01:39,600
+condicionado, vista mar e garagem. Elas
+ 
+
+77
+00:01:39,600 --> 00:01:41,910
+condicionado, vista mar e garagem. Elas
+viram etiquetas no card do quarto. O
+
+78
+00:01:41,910 --> 00:01:41,920
+viram etiquetas no card do quarto. O
+ 
+
+79
+00:01:41,920 --> 00:01:44,389
+viram etiquetas no card do quarto. O
+campo ordem define a posição do quarto
+
+80
+00:01:44,389 --> 00:01:44,399
+campo ordem define a posição do quarto
+ 
+
+81
+00:01:44,399 --> 00:01:46,830
+campo ordem define a posição do quarto
+na sessão. Depois clique em salvar
+
+82
+00:01:46,830 --> 00:01:46,840
+na sessão. Depois clique em salvar
+ 
+
+83
+00:01:46,840 --> 00:01:49,630
+na sessão. Depois clique em salvar
+quarto. Veja a edição da Suitch Master.
+
+84
+00:01:49,630 --> 00:01:49,640
+quarto. Veja a edição da Suitch Master.
+ 
+
+85
+00:01:49,640 --> 00:01:53,270
+quarto. Veja a edição da Suitch Master.
+Preço de R$ 200, promocional de R$ 150 e
+
+86
+00:01:53,270 --> 00:01:53,280
+Preço de R$ 200, promocional de R$ 150 e
+ 
+
+87
+00:01:53,280 --> 00:01:55,389
+Preço de R$ 200, promocional de R$ 150 e
+as comodidades vista mar, ar
+
+88
+00:01:55,389 --> 00:01:55,399
+as comodidades vista mar, ar
+ 
+
+89
+00:01:55,399 --> 00:01:58,950
+as comodidades vista mar, ar
+condicionado, Wi-Fi, garagem e suí. Em
+
+90
+00:01:58,950 --> 00:01:58,960
+condicionado, Wi-Fi, garagem e suí. Em
+ 
+
+91
+00:01:58,960 --> 00:02:01,069
+condicionado, Wi-Fi, garagem e suí. Em
+fotos, você monta a galeria de cada
+
+92
+00:02:01,069 --> 00:02:01,079
+fotos, você monta a galeria de cada
+ 
+
+93
+00:02:01,079 --> 00:02:03,709
+fotos, você monta a galeria de cada
+quarto. Adicione várias fotos ou um
+
+94
+00:02:03,709 --> 00:02:03,719
+quarto. Adicione várias fotos ou um
+ 
+
+95
+00:02:03,719 --> 00:02:06,350
+quarto. Adicione várias fotos ou um
+vídeo do YouTube. Cada item é uma foto
+
+96
+00:02:06,350 --> 00:02:06,360
+vídeo do YouTube. Cada item é uma foto
+ 
+
+97
+00:02:06,360 --> 00:02:08,830
+vídeo do YouTube. Cada item é uma foto
+ou um vídeo. No portal, a página da
+
+98
+00:02:08,830 --> 00:02:08,840
+ou um vídeo. No portal, a página da
+ 
+
+99
+00:02:08,840 --> 00:02:11,470
+ou um vídeo. No portal, a página da
+pousada ganha a aba quartos e o bloco
+
+100
+00:02:11,470 --> 00:02:11,480
+pousada ganha a aba quartos e o bloco
+ 
+
+101
+00:02:11,480 --> 00:02:14,030
+pousada ganha a aba quartos e o bloco
+quartos e suítes com as sessões em abas,
+
+102
+00:02:14,030 --> 00:02:14,040
+quartos e suítes com as sessões em abas,
+ 
+
+103
+00:02:14,040 --> 00:02:16,949
+quartos e suítes com as sessões em abas,
+como casal e grupo. Cada quarto aparece
+
+104
+00:02:16,949 --> 00:02:16,959
+como casal e grupo. Cada quarto aparece
+ 
+
+105
+00:02:16,959 --> 00:02:19,229
+como casal e grupo. Cada quarto aparece
+em um card com a foto e o número de
+
+106
+00:02:19,229 --> 00:02:19,239
+em um card com a foto e o número de
+ 
+
+107
+00:02:19,239 --> 00:02:22,030
+em um card com a foto e o número de
+fotos, o subtítulo, o título, a
+
+108
+00:02:22,030 --> 00:02:22,040
+fotos, o subtítulo, o título, a
+ 
+
+109
+00:02:22,040 --> 00:02:24,790
+fotos, o subtítulo, o título, a
+descrição e as comodidades. e à direita,
+
+110
+00:02:24,790 --> 00:02:24,800
+descrição e as comodidades. e à direita,
+ 
+
+111
+00:02:24,800 --> 00:02:27,309
+descrição e as comodidades. e à direita,
+o preço por noite com o promocional e os
+
+112
+00:02:27,309 --> 00:02:27,319
+o preço por noite com o promocional e os
+ 
+
+113
+00:02:27,319 --> 00:02:29,949
+o preço por noite com o promocional e os
+botões reservar e WhatsApp que levam o
+
+114
+00:02:29,949 --> 00:02:29,959
+botões reservar e WhatsApp que levam o
+ 
+
+115
+00:02:29,959 --> 00:02:32,509
+botões reservar e WhatsApp que levam o
+hóspede direto para a reserva. Pronto,
+
+116
+00:02:32,509 --> 00:02:32,519
+hóspede direto para a reserva. Pronto,
+ 
+
+117
+00:02:32,519 --> 00:02:34,790
+hóspede direto para a reserva. Pronto,
+com fotos bonitas e preços claros, a
+
+118
+00:02:34,790 --> 00:02:34,800
+com fotos bonitas e preços claros, a
+ 
+
+119
+00:02:34,800 --> 00:02:37,030
+com fotos bonitas e preços claros, a
+pousada do seu cliente recebe reservas
+
+120
+00:02:37,030 --> 00:02:37,040
+pousada do seu cliente recebe reservas
+ 
+
+121
+00:02:37,040 --> 00:02:40,760
+pousada do seu cliente recebe reservas
+direto pelo portal.
+
