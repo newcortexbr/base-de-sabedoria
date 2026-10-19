@@ -1,6 +1,6 @@
 ---
 id: voz-do-povo
-titulo: A Voz do Povo: ver relatos dos moradores
+titulo: "A Voz do Povo: ver relatos dos moradores"
 publico:
   - admin
 modulo: utilidade

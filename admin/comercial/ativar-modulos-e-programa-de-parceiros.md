@@ -10,8 +10,6 @@ tipo_problema: configuracao
 status: rascunho-documental
 revisado_em: 2026-10-15
 validacao: docs-e-codigo
-videos:
-  - 8gIDPdapN0E
 ---
 
 ## objetivo

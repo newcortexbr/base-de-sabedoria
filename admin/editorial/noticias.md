@@ -1,6 +1,6 @@
 ---
 id: editorial-noticias
-titulo: notícias: cadastrar e controlar a publicação
+titulo: "notícias: cadastrar e controlar a publicação"
 publico:
   - administrador do portal
   - jornalista
@@ -9,7 +9,7 @@ categoria: conteúdo
 aba: Notícias
 tipo_problema: publicação
 status: rascunho-documental
-revisado_em: 2026-10-15
+revisado_em: 2026-10-19
 validacao: docs-e-codigo
 videos:
   - gAa2NdnitZU
@@ -25,10 +25,14 @@ O administrador do portal gerencia conteúdo pelo painel. Jornalista não entra 
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Notícias` e depois em `Listar Notícias` (`/painel/noticias`).
 2. Para escrever uma notícia nova, clique no botão `+ Cadastrar Notícia` no topo da lista, ou no menu em `Cadastrar Notícia` (`/painel/noticias/cadastrar`).
-3. Preencha os campos da página e clique em `Salvar`.
-4. Para achar uma notícia, use o topo da lista: o campo `Buscar por título...`, a caixa `Todos os status`, a categoria, a subcategoria e as datas de publicação.
-5. Para corrigir uma notícia, clique no ícone de lápis (`Editar`) na linha dela.
-6. Confira a coluna `Status`: `Rascunho` (guardada, fora do ar), `Publicado` (no ar) ou `agendado` (vai entrar no ar na data marcada).
+3. Preencha o `Título *`, o `Subtítulo`, o `Título curto` (aparece nos cartões da página inicial) e o texto em `Conteúdo`.
+4. Em `Categorização`, escolha a `Categoria` e a `Subcategoria`.
+5. Em `Foto de Capa`, envie a imagem e preencha a `Legenda` e os `Créditos`.
+6. Em `Publicação`, escolha o `Status`. Para entrar no ar em outro dia, preencha `Publicar em`. Se quiser a notícia em evidência na página inicial, ligue `Destaque na janela principal`.
+7. Clique em `Adicionar`. (Ao corrigir uma notícia que já existe, o botão se chama `Salvar`.)
+8. Para achar uma notícia, use o topo da lista: o campo `Buscar por título...`, a caixa `Todos os status`, a categoria, a subcategoria e as datas de publicação.
+9. Para corrigir uma notícia, clique no ícone de lápis (`Editar`) na linha dela.
+10. Confira a coluna `Status`: `Rascunho` (guardada, fora do ar), `Publicado` (no ar) ou `agendado` (vai entrar no ar na data marcada).
 
 ## resultado
 A lista reflete o estado do conteúdo. Uma notícia marcada como publicada, mas com data futura, aparece como `agendado` e fica escondida do público até a data chegar.

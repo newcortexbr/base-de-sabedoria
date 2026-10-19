@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-16
+revisado_em: 2026-10-19
 validacao: docs-e-codigo
 videos:
   - JYDoZB_vyX8
@@ -30,6 +30,9 @@ decidir o que os clientes enviam antes de ir ao ar e acompanhar as denúncias fe
 4. Na aba `Aprovações`, clique em `Ver detalhe` para ver o que o cliente enviou.
 5. Clique em `Aprovar` para colocar no ar, ou em `Recusar`. Ao recusar, escreva o motivo (é obrigatório) e clique em `Confirmar recusa`.
 6. Na aba `Denúncias`, escolha quais quer ver (`Pendentes`, `Resolvidas`, `Ignoradas` ou `Todos`) e de qual parte do site (`Guia`, `Vagas`, `Classificados`, `Eventos`). Clique na denúncia para ver os detalhes.
+7. Na denúncia aberta, se quiser ver o conteúdo, clique em `Ver página denunciada`.
+8. Escolha o que fazer: `Ignorar denúncia` (o item continua no ar), `Excluir item` (tira o conteúdo do ar) ou `Bloquear empresa/conta` (tira do ar tudo o que aquele responsável publicou nessa parte do site; pode ser desfeito depois).
+9. Confirme na janela que aparece.
 
 ## resultado
 

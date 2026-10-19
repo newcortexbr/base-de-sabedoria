@@ -1,6 +1,6 @@
 ---
 id: editorial-turismo-roteiros
-titulo: turismo: roteiros e dicas
+titulo: "turismo: roteiros e dicas"
 publico:
   - administrador do portal
 modulo: Turismo
@@ -8,7 +8,7 @@ categoria: conteúdo
 aba: Roteiros
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-15
+revisado_em: 2026-10-19
 validacao: docs-e-codigo
 videos:
   - CMEOWthwqtI
@@ -24,9 +24,11 @@ use o painel do portal, com permissão e módulo Turismo disponíveis. O código
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Turístico / Eventos` e depois em `Roteiros` (`/painel/turismo/roteiros`).
 2. Para cadastrar, clique em `+ Novo Roteiro`. Para mudar um roteiro, clique em `Editar` na linha dele.
-3. No formulário, adicione as paradas em `Paradas do roteiro` e as fotos em `Galeria de fotos e vídeos`. O endereço antigo de fotos (`/painel/turismo/roteiros/[id]/fotos`) agora só leva de volta à lista.
-4. Clique em `Salvar` e confira o roteiro na lista.
-5. Para as dicas, abra a página `Dicas para Visitantes` em `/painel/turismo/dicas`. Clique em `Nova Dica`, preencha e clique em `Salvar Dica`.
+3. Envie a foto de capa e preencha o título, o selo, a duração, a descrição e o ponto de partida.
+4. Em `Paradas do roteiro`, clique em `Adicionar parada` e preencha o nome, a descrição e o tempo sugerido. Repita para cada parada; as setas mudam a ordem.
+5. Se quiser, adicione fotos em `Galeria de fotos e vídeos`. O endereço antigo de fotos (`/painel/turismo/roteiros/[id]/fotos`) agora só leva de volta à lista.
+6. Clique em `Salvar` e confira o roteiro na lista.
+7. Para as dicas, abra a página `Dicas para Visitantes` em `/painel/turismo/dicas`. Clique em `Nova Dica`, preencha e clique em `Salvar Dica`.
 
 ## resultado
 roteiros e dicas ficam em suas áreas próprias de Turismo. Galerias são ligadas ao registro e sua apresentação pública é determinada pelo conteúdo e pelas regras do produto.

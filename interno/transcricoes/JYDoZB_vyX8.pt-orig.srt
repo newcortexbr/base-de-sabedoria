@@ -1,0 +1,455 @@
+1
+00:00:00,160 --> 00:00:03,070
+ 
+Seu portal é a sua vitrine e é você quem
+
+2
+00:00:03,070 --> 00:00:03,080
+Seu portal é a sua vitrine e é você quem
+ 
+
+3
+00:00:03,080 --> 00:00:05,510
+Seu portal é a sua vitrine e é você quem
+decide o que aparece nela. Em aprovações
+
+4
+00:00:05,510 --> 00:00:05,520
+decide o que aparece nela. Em aprovações
+ 
+
+5
+00:00:05,520 --> 00:00:07,470
+decide o que aparece nela. Em aprovações
+e denúncias, você libera o que seus
+
+6
+00:00:07,470 --> 00:00:07,480
+e denúncias, você libera o que seus
+ 
+
+7
+00:00:07,480 --> 00:00:09,430
+e denúncias, você libera o que seus
+clientes publicam e cuida do que os
+
+8
+00:00:09,430 --> 00:00:09,440
+clientes publicam e cuida do que os
+ 
+
+9
+00:00:09,440 --> 00:00:12,549
+clientes publicam e cuida do que os
+visitantes denunciam. Tudo num lugar só.
+
+10
+00:00:12,549 --> 00:00:12,559
+visitantes denunciam. Tudo num lugar só.
+ 
+
+11
+00:00:12,559 --> 00:00:14,589
+visitantes denunciam. Tudo num lugar só.
+No topo ficam as duas regras do seu
+
+12
+00:00:14,589 --> 00:00:14,599
+No topo ficam as duas regras do seu
+ 
+
+13
+00:00:14,599 --> 00:00:16,950
+No topo ficam as duas regras do seu
+portal. Elas valem para o portal inteiro
+
+14
+00:00:16,950 --> 00:00:16,960
+portal. Elas valem para o portal inteiro
+ 
+
+15
+00:00:16,960 --> 00:00:19,590
+portal. Elas valem para o portal inteiro
+e são salvas na hora. com exigir minha
+
+16
+00:00:19,590 --> 00:00:19,600
+e são salvas na hora. com exigir minha
+ 
+
+17
+00:00:19,600 --> 00:00:22,029
+e são salvas na hora. com exigir minha
+aprovação antes de publicar marcada,
+
+18
+00:00:22,029 --> 00:00:22,039
+aprovação antes de publicar marcada,
+ 
+
+19
+00:00:22,039 --> 00:00:24,070
+aprovação antes de publicar marcada,
+tudo que seus clientes publicarem, uma
+
+20
+00:00:24,070 --> 00:00:24,080
+tudo que seus clientes publicarem, uma
+ 
+
+21
+00:00:24,080 --> 00:00:26,390
+tudo que seus clientes publicarem, uma
+vaga, uma empresa no guia comercial, um
+
+22
+00:00:26,390 --> 00:00:26,400
+vaga, uma empresa no guia comercial, um
+ 
+
+23
+00:00:26,400 --> 00:00:28,910
+vaga, uma empresa no guia comercial, um
+classificado, espera a sua liberação
+
+24
+00:00:28,910 --> 00:00:28,920
+classificado, espera a sua liberação
+ 
+
+25
+00:00:28,920 --> 00:00:31,230
+classificado, espera a sua liberação
+antes de ir ao ar. Só os artigos são
+
+26
+00:00:31,230 --> 00:00:31,240
+antes de ir ao ar. Só os artigos são
+ 
+
+27
+00:00:31,240 --> 00:00:33,630
+antes de ir ao ar. Só os artigos são
+publicados direto. Com permitir que
+
+28
+00:00:33,630 --> 00:00:33,640
+publicados direto. Com permitir que
+ 
+
+29
+00:00:33,640 --> 00:00:36,270
+publicados direto. Com permitir que
+visitantes denunciem conteúdo marcada, o
+
+30
+00:00:36,270 --> 00:00:36,280
+visitantes denunciem conteúdo marcada, o
+ 
+
+31
+00:00:36,280 --> 00:00:38,790
+visitantes denunciem conteúdo marcada, o
+botão denunciar aparece nas páginas de
+
+32
+00:00:38,790 --> 00:00:38,800
+botão denunciar aparece nas páginas de
+ 
+
+33
+00:00:38,800 --> 00:00:41,670
+botão denunciar aparece nas páginas de
+empresa, vaga, classificado e evento.
+
+34
+00:00:41,670 --> 00:00:41,680
+empresa, vaga, classificado e evento.
+ 
+
+35
+00:00:41,680 --> 00:00:44,270
+empresa, vaga, classificado e evento.
+Quer desligar? É só desmarcar. Na
+
+36
+00:00:44,270 --> 00:00:44,280
+Quer desligar? É só desmarcar. Na
+ 
+
+37
+00:00:44,280 --> 00:00:46,910
+Quer desligar? É só desmarcar. Na
+prática, uma empresa acabou de publicar
+
+38
+00:00:46,910 --> 00:00:46,920
+prática, uma empresa acabou de publicar
+ 
+
+39
+00:00:46,920 --> 00:00:49,389
+prática, uma empresa acabou de publicar
+uma vaga. Ela ainda não está no portal,
+
+40
+00:00:49,389 --> 00:00:49,399
+uma vaga. Ela ainda não está no portal,
+ 
+
+41
+00:00:49,399 --> 00:00:51,470
+uma vaga. Ela ainda não está no portal,
+está esperando por você. O número no
+
+42
+00:00:51,470 --> 00:00:51,480
+está esperando por você. O número no
+ 
+
+43
+00:00:51,480 --> 00:00:54,270
+está esperando por você. O número no
+menu avisa que tem coisa nova. Na aba
+
+44
+00:00:54,270 --> 00:00:54,280
+menu avisa que tem coisa nova. Na aba
+ 
+
+45
+00:00:54,280 --> 00:00:56,389
+menu avisa que tem coisa nova. Na aba
+aprovações aparece tudo o que está
+
+46
+00:00:56,389 --> 00:00:56,399
+aprovações aparece tudo o que está
+ 
+
+47
+00:00:56,399 --> 00:00:58,630
+aprovações aparece tudo o que está
+pendente com o tempo de espera. Clique
+
+48
+00:00:58,630 --> 00:00:58,640
+pendente com o tempo de espera. Clique
+ 
+
+49
+00:00:58,640 --> 00:01:01,470
+pendente com o tempo de espera. Clique
+em ver detalhe e confira. Descrição,
+
+50
+00:01:01,470 --> 00:01:01,480
+em ver detalhe e confira. Descrição,
+ 
+
+51
+00:01:01,480 --> 00:01:04,189
+em ver detalhe e confira. Descrição,
+salário, local e contato. Está tudo
+
+52
+00:01:04,189 --> 00:01:04,199
+salário, local e contato. Está tudo
+ 
+
+53
+00:01:04,199 --> 00:01:07,070
+salário, local e contato. Está tudo
+certo? Clique em aprovar e a vaga entra
+
+54
+00:01:07,070 --> 00:01:07,080
+certo? Clique em aprovar e a vaga entra
+ 
+
+55
+00:01:07,080 --> 00:01:09,710
+certo? Clique em aprovar e a vaga entra
+no ar na hora. Encontrou algo estranho?
+
+56
+00:01:09,710 --> 00:01:09,720
+no ar na hora. Encontrou algo estranho?
+ 
+
+57
+00:01:09,720 --> 00:01:12,710
+no ar na hora. Encontrou algo estranho?
+Clique em recusar e ela não é publicada.
+
+58
+00:01:12,710 --> 00:01:12,720
+Clique em recusar e ela não é publicada.
+ 
+
+59
+00:01:12,720 --> 00:01:15,030
+Clique em recusar e ela não é publicada.
+Agora as denúncias. Quando vê algo
+
+60
+00:01:15,030 --> 00:01:15,040
+Agora as denúncias. Quando vê algo
+ 
+
+61
+00:01:15,040 --> 00:01:17,670
+Agora as denúncias. Quando vê algo
+suspeito, o visitante clica em denunciar
+
+62
+00:01:17,670 --> 00:01:17,680
+suspeito, o visitante clica em denunciar
+ 
+
+63
+00:01:17,680 --> 00:01:20,230
+suspeito, o visitante clica em denunciar
+este anúncio, escolhe o motivo e conta o
+
+64
+00:01:20,230 --> 00:01:20,240
+este anúncio, escolhe o motivo e conta o
+ 
+
+65
+00:01:20,240 --> 00:01:22,710
+este anúncio, escolhe o motivo e conta o
+que aconteceu. A denúncia chega na aba
+
+66
+00:01:22,710 --> 00:01:22,720
+que aconteceu. A denúncia chega na aba
+ 
+
+67
+00:01:22,720 --> 00:01:25,109
+que aconteceu. A denúncia chega na aba
+denúncias. Abra para ver o item, o
+
+68
+00:01:25,109 --> 00:01:25,119
+denúncias. Abra para ver o item, o
+ 
+
+69
+00:01:25,119 --> 00:01:27,870
+denúncias. Abra para ver o item, o
+motivo e a descrição. Se quiser, clique
+
+70
+00:01:27,870 --> 00:01:27,880
+motivo e a descrição. Se quiser, clique
+ 
+
+71
+00:01:27,880 --> 00:01:30,350
+motivo e a descrição. Se quiser, clique
+em ver página denunciada. Aí você
+
+72
+00:01:30,350 --> 00:01:30,360
+em ver página denunciada. Aí você
+ 
+
+73
+00:01:30,360 --> 00:01:32,670
+em ver página denunciada. Aí você
+decide. Ignorar denúncia, se estiver
+
+74
+00:01:32,670 --> 00:01:32,680
+decide. Ignorar denúncia, se estiver
+ 
+
+75
+00:01:32,680 --> 00:01:35,069
+decide. Ignorar denúncia, se estiver
+tudo bem, excluir item para tirar o
+
+76
+00:01:35,069 --> 00:01:35,079
+tudo bem, excluir item para tirar o
+ 
+
+77
+00:01:35,079 --> 00:01:37,910
+tudo bem, excluir item para tirar o
+conteúdo do ar ou bloquear empresa ou
+
+78
+00:01:37,910 --> 00:01:37,920
+conteúdo do ar ou bloquear empresa ou
+ 
+
+79
+00:01:37,920 --> 00:01:40,149
+conteúdo do ar ou bloquear empresa ou
+conta que tira do ar tudo o que aquele
+
+80
+00:01:40,149 --> 00:01:40,159
+conta que tira do ar tudo o que aquele
+ 
+
+81
+00:01:40,159 --> 00:01:42,429
+conta que tira do ar tudo o que aquele
+anunciante publicou. Todas as ações
+
+82
+00:01:42,429 --> 00:01:42,439
+anunciante publicou. Todas as ações
+ 
+
+83
+00:01:42,439 --> 00:01:45,469
+anunciante publicou. Todas as ações
+pedem confirmação. Pronto. Nada entra no
+
+84
+00:01:45,469 --> 00:01:45,479
+pedem confirmação. Pronto. Nada entra no
+ 
+
+85
+00:01:45,479 --> 00:01:47,870
+pedem confirmação. Pronto. Nada entra no
+seu portal sem o seu aval e qualquer
+
+86
+00:01:47,870 --> 00:01:47,880
+seu portal sem o seu aval e qualquer
+ 
+
+87
+00:01:47,880 --> 00:01:50,190
+seu portal sem o seu aval e qualquer
+problema chega até você. Seu portal
+
+88
+00:01:50,190 --> 00:01:50,200
+problema chega até você. Seu portal
+ 
+
+89
+00:01:50,200 --> 00:01:53,950
+problema chega até você. Seu portal
+limpo, confiável e com a sua cara.
+
+90
+00:01:53,950 --> 00:01:53,960
+limpo, confiável e com a sua cara.
+ 
+
+91
+00:01:53,960 --> 00:01:56,000
+limpo, confiável e com a sua cara.
+Yeah.
+

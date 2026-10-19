@@ -1,6 +1,6 @@
 ---
 id: editorial-artigos
-titulo: artigos: criar conteúdo e entender estados
+titulo: "artigos: criar conteúdo e entender estados"
 publico:
   - administrador do portal
   - colunista

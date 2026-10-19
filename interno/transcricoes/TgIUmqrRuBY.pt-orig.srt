@@ -1,0 +1,565 @@
+1
+00:00:00,120 --> 00:00:02,190
+ 
+Depois de montar o cardápio do delivery,
+
+2
+00:00:02,190 --> 00:00:02,200
+Depois de montar o cardápio do delivery,
+ 
+
+3
+00:00:02,200 --> 00:00:04,190
+Depois de montar o cardápio do delivery,
+a empresa precisa de duas telas para
+
+4
+00:00:04,190 --> 00:00:04,200
+a empresa precisa de duas telas para
+ 
+
+5
+00:00:04,200 --> 00:00:06,950
+a empresa precisa de duas telas para
+operar a loja, a fila de pedidos e as
+
+6
+00:00:06,950 --> 00:00:06,960
+operar a loja, a fila de pedidos e as
+ 
+
+7
+00:00:06,960 --> 00:00:09,509
+operar a loja, a fila de pedidos e as
+configurações do delivery. As duas ficam
+
+8
+00:00:09,509 --> 00:00:09,519
+configurações do delivery. As duas ficam
+ 
+
+9
+00:00:09,519 --> 00:00:11,669
+configurações do delivery. As duas ficam
+em conteúdo da ficha, na edição da
+
+10
+00:00:11,669 --> 00:00:11,679
+em conteúdo da ficha, na edição da
+ 
+
+11
+00:00:11,679 --> 00:00:14,070
+em conteúdo da ficha, na edição da
+empresa e também no painel do cliente em
+
+12
+00:00:14,070 --> 00:00:14,080
+empresa e também no painel do cliente em
+ 
+
+13
+00:00:14,080 --> 00:00:16,310
+empresa e também no painel do cliente em
+delivery. Começando pela fila de
+
+14
+00:00:16,310 --> 00:00:16,320
+delivery. Começando pela fila de
+ 
+
+15
+00:00:16,320 --> 00:00:19,029
+delivery. Começando pela fila de
+pedidos. Aqui chegam todos os pedidos
+
+16
+00:00:19,029 --> 00:00:19,039
+pedidos. Aqui chegam todos os pedidos
+ 
+
+17
+00:00:19,039 --> 00:00:21,390
+pedidos. Aqui chegam todos os pedidos
+feitos pelo portal, do mais recente para
+
+18
+00:00:21,390 --> 00:00:21,400
+feitos pelo portal, do mais recente para
+ 
+
+19
+00:00:21,400 --> 00:00:23,630
+feitos pelo portal, do mais recente para
+o mais antigo. Cada pedido mostra o
+
+20
+00:00:23,630 --> 00:00:23,640
+o mais antigo. Cada pedido mostra o
+ 
+
+21
+00:00:23,640 --> 00:00:26,269
+o mais antigo. Cada pedido mostra o
+código, o nome do cliente, a hora e o
+
+22
+00:00:26,269 --> 00:00:26,279
+código, o nome do cliente, a hora e o
+ 
+
+23
+00:00:26,279 --> 00:00:28,589
+código, o nome do cliente, a hora e o
+valor total. As abas filtram pela
+
+24
+00:00:28,589 --> 00:00:28,599
+valor total. As abas filtram pela
+ 
+
+25
+00:00:28,599 --> 00:00:31,669
+valor total. As abas filtram pela
+situação. Recebido, em preparo, saiu
+
+26
+00:00:31,669 --> 00:00:31,679
+situação. Recebido, em preparo, saiu
+ 
+
+27
+00:00:31,679 --> 00:00:34,630
+situação. Recebido, em preparo, saiu
+para entrega, entregue e cancelado. O
+
+28
+00:00:34,630 --> 00:00:34,640
+para entrega, entregue e cancelado. O
+ 
+
+29
+00:00:34,640 --> 00:00:37,150
+para entrega, entregue e cancelado. O
+fluxo é simples. O pedido chega como
+
+30
+00:00:37,150 --> 00:00:37,160
+fluxo é simples. O pedido chega como
+ 
+
+31
+00:00:37,160 --> 00:00:40,110
+fluxo é simples. O pedido chega como
+recebido. A loja aceita e passa para em
+
+32
+00:00:40,110 --> 00:00:40,120
+recebido. A loja aceita e passa para em
+ 
+
+33
+00:00:40,120 --> 00:00:42,549
+recebido. A loja aceita e passa para em
+preparo. Quando o entregador sai, muda
+
+34
+00:00:42,549 --> 00:00:42,559
+preparo. Quando o entregador sai, muda
+ 
+
+35
+00:00:42,559 --> 00:00:45,229
+preparo. Quando o entregador sai, muda
+para saiu para entrega e na chegada,
+
+36
+00:00:45,229 --> 00:00:45,239
+para saiu para entrega e na chegada,
+ 
+
+37
+00:00:45,239 --> 00:00:47,389
+para saiu para entrega e na chegada,
+entregue. Os pedidos finalizados e
+
+38
+00:00:47,389 --> 00:00:47,399
+entregue. Os pedidos finalizados e
+ 
+
+39
+00:00:47,399 --> 00:00:49,709
+entregue. Os pedidos finalizados e
+cancelados ficam guardados mais abaixo
+
+40
+00:00:49,709 --> 00:00:49,719
+cancelados ficam guardados mais abaixo
+ 
+
+41
+00:00:49,719 --> 00:00:52,270
+cancelados ficam guardados mais abaixo
+como histórico. Uma dica importante,
+
+42
+00:00:52,270 --> 00:00:52,280
+como histórico. Uma dica importante,
+ 
+
+43
+00:00:52,280 --> 00:00:55,110
+como histórico. Uma dica importante,
+clique em ativar som. Assim, toda vez
+
+44
+00:00:55,110 --> 00:00:55,120
+clique em ativar som. Assim, toda vez
+ 
+
+45
+00:00:55,120 --> 00:00:57,310
+clique em ativar som. Assim, toda vez
+que um pedido novo chegar, o painel toca
+
+46
+00:00:57,310 --> 00:00:57,320
+que um pedido novo chegar, o painel toca
+ 
+
+47
+00:00:57,320 --> 00:00:59,430
+que um pedido novo chegar, o painel toca
+um aviso, mesmo que a loja esteja em
+
+48
+00:00:59,430 --> 00:00:59,440
+um aviso, mesmo que a loja esteja em
+ 
+
+49
+00:00:59,440 --> 00:01:02,270
+um aviso, mesmo que a loja esteja em
+outra tela. O botão atualizar recarrega
+
+50
+00:01:02,270 --> 00:01:02,280
+outra tela. O botão atualizar recarrega
+ 
+
+51
+00:01:02,280 --> 00:01:04,990
+outra tela. O botão atualizar recarrega
+a lista na hora. Agora as configurações
+
+52
+00:01:04,990 --> 00:01:05,000
+a lista na hora. Agora as configurações
+ 
+
+53
+00:01:05,000 --> 00:01:08,070
+a lista na hora. Agora as configurações
+do delivery. Em status, a chave delivery
+
+54
+00:01:08,070 --> 00:01:08,080
+do delivery. Em status, a chave delivery
+ 
+
+55
+00:01:08,080 --> 00:01:11,230
+do delivery. Em status, a chave delivery
+ativo liga ou desliga a loja. Desligada,
+
+56
+00:01:11,230 --> 00:01:11,240
+ativo liga ou desliga a loja. Desligada,
+ 
+
+57
+00:01:11,240 --> 00:01:13,510
+ativo liga ou desliga a loja. Desligada,
+a página de pedido sai do ar. Em
+
+58
+00:01:13,510 --> 00:01:13,520
+a página de pedido sai do ar. Em
+ 
+
+59
+00:01:13,520 --> 00:01:16,030
+a página de pedido sai do ar. Em
+entrega, informe a taxa de entrega ou
+
+60
+00:01:16,030 --> 00:01:16,040
+entrega, informe a taxa de entrega ou
+ 
+
+61
+00:01:16,040 --> 00:01:18,070
+entrega, informe a taxa de entrega ou
+zero para entrega grátis e o pedido
+
+62
+00:01:18,070 --> 00:01:18,080
+zero para entrega grátis e o pedido
+ 
+
+63
+00:01:18,080 --> 00:01:20,710
+zero para entrega grátis e o pedido
+mínimo. Defina também o tempo mínimo e o
+
+64
+00:01:20,710 --> 00:01:20,720
+mínimo. Defina também o tempo mínimo e o
+ 
+
+65
+00:01:20,720 --> 00:01:23,350
+mínimo. Defina também o tempo mínimo e o
+tempo máximo de entrega em minutos. Eles
+
+66
+00:01:23,350 --> 00:01:23,360
+tempo máximo de entrega em minutos. Eles
+ 
+
+67
+00:01:23,360 --> 00:01:25,710
+tempo máximo de entrega em minutos. Eles
+aparecem para o cliente na loja e o raio
+
+68
+00:01:25,710 --> 00:01:25,720
+aparecem para o cliente na loja e o raio
+ 
+
+69
+00:01:25,720 --> 00:01:28,310
+aparecem para o cliente na loja e o raio
+de entrega em quilômetros. Em formas de
+
+70
+00:01:28,310 --> 00:01:28,320
+de entrega em quilômetros. Em formas de
+ 
+
+71
+00:01:28,320 --> 00:01:30,789
+de entrega em quilômetros. Em formas de
+pagamento, ligue as que a loja aceita.
+
+72
+00:01:30,789 --> 00:01:30,799
+pagamento, ligue as que a loja aceita.
+ 
+
+73
+00:01:30,799 --> 00:01:33,310
+pagamento, ligue as que a loja aceita.
+Dinheiro com troco na entrega, cartão na
+
+74
+00:01:33,310 --> 00:01:33,320
+Dinheiro com troco na entrega, cartão na
+ 
+
+75
+00:01:33,320 --> 00:01:36,190
+Dinheiro com troco na entrega, cartão na
+entrega e Pix. Para o Pix, informe a
+
+76
+00:01:36,190 --> 00:01:36,200
+entrega e Pix. Para o Pix, informe a
+ 
+
+77
+00:01:36,200 --> 00:01:38,630
+entrega e Pix. Para o Pix, informe a
+chave da loja. Em áreas de atendimento,
+
+78
+00:01:38,630 --> 00:01:38,640
+chave da loja. Em áreas de atendimento,
+ 
+
+79
+00:01:38,640 --> 00:01:40,350
+chave da loja. Em áreas de atendimento,
+escolha as cidades e os bairros que a
+
+80
+00:01:40,350 --> 00:01:40,360
+escolha as cidades e os bairros que a
+ 
+
+81
+00:01:40,360 --> 00:01:42,830
+escolha as cidades e os bairros que a
+loja atende. No checkout, o cliente só
+
+82
+00:01:42,830 --> 00:01:42,840
+loja atende. No checkout, o cliente só
+ 
+
+83
+00:01:42,840 --> 00:01:44,469
+loja atende. No checkout, o cliente só
+consegue escolher as áreas listadas
+
+84
+00:01:44,469 --> 00:01:44,479
+consegue escolher as áreas listadas
+ 
+
+85
+00:01:44,479 --> 00:01:47,109
+consegue escolher as áreas listadas
+aqui. Para adicionar, escolha a cidade e
+
+86
+00:01:47,109 --> 00:01:47,119
+aqui. Para adicionar, escolha a cidade e
+ 
+
+87
+00:01:47,119 --> 00:01:49,630
+aqui. Para adicionar, escolha a cidade e
+a cobertura, o município todo ou só
+
+88
+00:01:49,630 --> 00:01:49,640
+a cobertura, o município todo ou só
+ 
+
+89
+00:01:49,640 --> 00:01:51,870
+a cobertura, o município todo ou só
+alguns bairros. Depois, clique em
+
+90
+00:01:51,870 --> 00:01:51,880
+alguns bairros. Depois, clique em
+ 
+
+91
+00:01:51,880 --> 00:01:53,950
+alguns bairros. Depois, clique em
+adicionar área. Em mensagem de
+
+92
+00:01:53,950 --> 00:01:53,960
+adicionar área. Em mensagem de
+ 
+
+93
+00:01:53,960 --> 00:01:55,709
+adicionar área. Em mensagem de
+boas-vindas, escreva um recado que
+
+94
+00:01:55,709 --> 00:01:55,719
+boas-vindas, escreva um recado que
+ 
+
+95
+00:01:55,719 --> 00:01:58,149
+boas-vindas, escreva um recado que
+aparece no topo da loja. Por exemplo,
+
+96
+00:01:58,149 --> 00:01:58,159
+aparece no topo da loja. Por exemplo,
+ 
+
+97
+00:01:58,159 --> 00:02:00,789
+aparece no topo da loja. Por exemplo,
+pedidos até às 22 horas entregamos em
+
+98
+00:02:00,789 --> 00:02:00,799
+pedidos até às 22 horas entregamos em
+ 
+
+99
+00:02:00,799 --> 00:02:03,550
+pedidos até às 22 horas entregamos em
+toda a cidade. No fim, clique em salvar
+
+100
+00:02:03,550 --> 00:02:03,560
+toda a cidade. No fim, clique em salvar
+ 
+
+101
+00:02:03,560 --> 00:02:05,870
+toda a cidade. No fim, clique em salvar
+configurações. E é assim que fica na
+
+102
+00:02:05,870 --> 00:02:05,880
+configurações. E é assim que fica na
+ 
+
+103
+00:02:05,880 --> 00:02:08,749
+configurações. E é assim que fica na
+loja. Taxa de entrega, tempo, aberto
+
+104
+00:02:08,749 --> 00:02:08,759
+loja. Taxa de entrega, tempo, aberto
+ 
+
+105
+00:02:08,759 --> 00:02:11,029
+loja. Taxa de entrega, tempo, aberto
+agora e a mensagem de boas-vindas,
+
+106
+00:02:11,029 --> 00:02:11,039
+agora e a mensagem de boas-vindas,
+ 
+
+107
+00:02:11,039 --> 00:02:13,750
+agora e a mensagem de boas-vindas,
+exatamente como você configurou. Pronto.
+
+108
+00:02:13,750 --> 00:02:13,760
+exatamente como você configurou. Pronto.
+ 
+
+109
+00:02:13,760 --> 00:02:15,750
+exatamente como você configurou. Pronto.
+Com a fila de pedidos acompanhada e o
+
+110
+00:02:15,750 --> 00:02:15,760
+Com a fila de pedidos acompanhada e o
+ 
+
+111
+00:02:15,760 --> 00:02:17,949
+Com a fila de pedidos acompanhada e o
+delivery bem configurado, a empresa
+
+112
+00:02:17,949 --> 00:02:17,959
+delivery bem configurado, a empresa
+ 
+
+113
+00:02:17,959 --> 00:02:22,920
+delivery bem configurado, a empresa
+vende pelo portal com organização. Não.
+

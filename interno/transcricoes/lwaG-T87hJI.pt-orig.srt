@@ -1,0 +1,1175 @@
+1
+00:00:00,080 --> 00:00:01,829
+ 
+Neste vídeo, você vai aprender a
+
+2
+00:00:01,829 --> 00:00:01,839
+Neste vídeo, você vai aprender a
+ 
+
+3
+00:00:01,839 --> 00:00:04,070
+Neste vídeo, você vai aprender a
+configurar como o seu portal recebe dos
+
+4
+00:00:04,070 --> 00:00:04,080
+configurar como o seu portal recebe dos
+ 
+
+5
+00:00:04,080 --> 00:00:06,869
+configurar como o seu portal recebe dos
+clientes. São dois caminhos: a cobrança
+
+6
+00:00:06,869 --> 00:00:06,879
+clientes. São dois caminhos: a cobrança
+ 
+
+7
+00:00:06,879 --> 00:00:09,629
+clientes. São dois caminhos: a cobrança
+automática pelo AS ou o recebimento por
+
+8
+00:00:09,629 --> 00:00:09,639
+automática pelo AS ou o recebimento por
+ 
+
+9
+00:00:09,639 --> 00:00:12,190
+automática pelo AS ou o recebimento por
+Pix direto na sua chave. No menu
+
+10
+00:00:12,190 --> 00:00:12,200
+Pix direto na sua chave. No menu
+ 
+
+11
+00:00:12,200 --> 00:00:15,190
+Pix direto na sua chave. No menu
+lateral, abra configurações e clique em
+
+12
+00:00:15,190 --> 00:00:15,200
+lateral, abra configurações e clique em
+ 
+
+13
+00:00:15,200 --> 00:00:18,390
+lateral, abra configurações e clique em
+cobrança. A tela tem dois quadros. O
+
+14
+00:00:18,390 --> 00:00:18,400
+cobrança. A tela tem dois quadros. O
+ 
+
+15
+00:00:18,400 --> 00:00:20,790
+cobrança. A tela tem dois quadros. O
+primeiro é a conta Asas para a cobrança
+
+16
+00:00:20,790 --> 00:00:20,800
+primeiro é a conta Asas para a cobrança
+ 
+
+17
+00:00:20,800 --> 00:00:23,470
+primeiro é a conta Asas para a cobrança
+automática. O segundo é o recebimento
+
+18
+00:00:23,470 --> 00:00:23,480
+automática. O segundo é o recebimento
+ 
+
+19
+00:00:23,480 --> 00:00:26,310
+automática. O segundo é o recebimento
+por Pix, o caminho manual. Vamos começar
+
+20
+00:00:26,310 --> 00:00:26,320
+por Pix, o caminho manual. Vamos começar
+ 
+
+21
+00:00:26,320 --> 00:00:29,070
+por Pix, o caminho manual. Vamos começar
+pelo ASA. Com ele conectado, o sistema
+
+22
+00:00:29,070 --> 00:00:29,080
+pelo ASA. Com ele conectado, o sistema
+ 
+
+23
+00:00:29,080 --> 00:00:31,189
+pelo ASA. Com ele conectado, o sistema
+gera a cobrança sozinho. O cliente
+
+24
+00:00:31,189 --> 00:00:31,199
+gera a cobrança sozinho. O cliente
+ 
+
+25
+00:00:31,199 --> 00:00:34,150
+gera a cobrança sozinho. O cliente
+recebe um link e paga por Pix, boleto ou
+
+26
+00:00:34,150 --> 00:00:34,160
+recebe um link e paga por Pix, boleto ou
+ 
+
+27
+00:00:34,160 --> 00:00:36,630
+recebe um link e paga por Pix, boleto ou
+cartão. E a confirmação do pagamento é
+
+28
+00:00:36,630 --> 00:00:36,640
+cartão. E a confirmação do pagamento é
+ 
+
+29
+00:00:36,640 --> 00:00:39,310
+cartão. E a confirmação do pagamento é
+automática. Para conectar, você precisa
+
+30
+00:00:39,310 --> 00:00:39,320
+automática. Para conectar, você precisa
+ 
+
+31
+00:00:39,320 --> 00:00:42,229
+automática. Para conectar, você precisa
+de uma chave de API do ASA. A própria
+
+32
+00:00:42,229 --> 00:00:42,239
+de uma chave de API do ASA. A própria
+ 
+
+33
+00:00:42,239 --> 00:00:44,430
+de uma chave de API do ASA. A própria
+tela mostra o passo a passo logo abaixo
+
+34
+00:00:44,430 --> 00:00:44,440
+tela mostra o passo a passo logo abaixo
+ 
+
+35
+00:00:44,440 --> 00:00:47,350
+tela mostra o passo a passo logo abaixo
+do campo. Vamos fazer juntos. Entre na
+
+36
+00:00:47,350 --> 00:00:47,360
+do campo. Vamos fazer juntos. Entre na
+ 
+
+37
+00:00:47,360 --> 00:00:49,709
+do campo. Vamos fazer juntos. Entre na
+sua conta no site do Asas. No canto
+
+38
+00:00:49,709 --> 00:00:49,719
+sua conta no site do Asas. No canto
+ 
+
+39
+00:00:49,719 --> 00:00:51,990
+sua conta no site do Asas. No canto
+superior direito, clique no ícone do seu
+
+40
+00:00:51,990 --> 00:00:52,000
+superior direito, clique no ícone do seu
+ 
+
+41
+00:00:52,000 --> 00:00:54,670
+superior direito, clique no ícone do seu
+perfil. No menu que abrir, clique em
+
+42
+00:00:54,670 --> 00:00:54,680
+perfil. No menu que abrir, clique em
+ 
+
+43
+00:00:54,680 --> 00:00:57,549
+perfil. No menu que abrir, clique em
+integrações. Na tela de integrações,
+
+44
+00:00:57,549 --> 00:00:57,559
+integrações. Na tela de integrações,
+ 
+
+45
+00:00:57,559 --> 00:01:00,910
+integrações. Na tela de integrações,
+abra a aba chaves de API. Aqui aparecem
+
+46
+00:01:00,910 --> 00:01:00,920
+abra a aba chaves de API. Aqui aparecem
+ 
+
+47
+00:01:00,920 --> 00:01:03,310
+abra a aba chaves de API. Aqui aparecem
+as chaves que você já criou. Para criar
+
+48
+00:01:03,310 --> 00:01:03,320
+as chaves que você já criou. Para criar
+ 
+
+49
+00:01:03,320 --> 00:01:06,590
+as chaves que você já criou. Para criar
+uma nova, clique em gerar chave de API.
+
+50
+00:01:06,590 --> 00:01:06,600
+uma nova, clique em gerar chave de API.
+ 
+
+51
+00:01:06,600 --> 00:01:08,789
+uma nova, clique em gerar chave de API.
+Dê um nome para a chave, por exemplo,
+
+52
+00:01:08,789 --> 00:01:08,799
+Dê um nome para a chave, por exemplo,
+ 
+
+53
+00:01:08,799 --> 00:01:11,590
+Dê um nome para a chave, por exemplo,
+portal da cidade. A data de expiração é
+
+54
+00:01:11,590 --> 00:01:11,600
+portal da cidade. A data de expiração é
+ 
+
+55
+00:01:11,600 --> 00:01:14,310
+portal da cidade. A data de expiração é
+opcional. Deixe desmarcada a opção de
+
+56
+00:01:14,310 --> 00:01:14,320
+opcional. Deixe desmarcada a opção de
+ 
+
+57
+00:01:14,320 --> 00:01:17,070
+opcional. Deixe desmarcada a opção de
+saques via API. O portal só precisa
+
+58
+00:01:17,070 --> 00:01:17,080
+saques via API. O portal só precisa
+ 
+
+59
+00:01:17,080 --> 00:01:20,350
+saques via API. O portal só precisa
+gerar cobranças. Clique em avançar. O
+
+60
+00:01:20,350 --> 00:01:20,360
+gerar cobranças. Clique em avançar. O
+ 
+
+61
+00:01:20,360 --> 00:01:22,510
+gerar cobranças. Clique em avançar. O
+Asas pede um código de segurança enviado
+
+62
+00:01:22,510 --> 00:01:22,520
+Asas pede um código de segurança enviado
+ 
+
+63
+00:01:22,520 --> 00:01:25,230
+Asas pede um código de segurança enviado
+por SMS para o seu celular. Depois
+
+64
+00:01:25,230 --> 00:01:25,240
+por SMS para o seu celular. Depois
+ 
+
+65
+00:01:25,240 --> 00:01:28,510
+por SMS para o seu celular. Depois
+disso, a chave aparece na tela. Atenção,
+
+66
+00:01:28,510 --> 00:01:28,520
+disso, a chave aparece na tela. Atenção,
+ 
+
+67
+00:01:28,520 --> 00:01:30,310
+disso, a chave aparece na tela. Atenção,
+esse é o único momento em que a chave
+
+68
+00:01:30,310 --> 00:01:30,320
+esse é o único momento em que a chave
+ 
+
+69
+00:01:30,320 --> 00:01:33,230
+esse é o único momento em que a chave
+aparece. Copie na hora e guarde em local
+
+70
+00:01:33,230 --> 00:01:33,240
+aparece. Copie na hora e guarde em local
+ 
+
+71
+00:01:33,240 --> 00:01:36,109
+aparece. Copie na hora e guarde em local
+seguro. Trate a chave como uma senha e
+
+72
+00:01:36,109 --> 00:01:36,119
+seguro. Trate a chave como uma senha e
+ 
+
+73
+00:01:36,119 --> 00:01:38,630
+seguro. Trate a chave como uma senha e
+nunca a envie para ninguém. De volta ao
+
+74
+00:01:38,630 --> 00:01:38,640
+nunca a envie para ninguém. De volta ao
+ 
+
+75
+00:01:38,640 --> 00:01:41,190
+nunca a envie para ninguém. De volta ao
+portal, colhe a chave no campo chave de
+
+76
+00:01:41,190 --> 00:01:41,200
+portal, colhe a chave no campo chave de
+ 
+
+77
+00:01:41,200 --> 00:01:43,510
+portal, colhe a chave no campo chave de
+API da sua conta Asas e clique em
+
+78
+00:01:43,510 --> 00:01:43,520
+API da sua conta Asas e clique em
+ 
+
+79
+00:01:43,520 --> 00:01:46,190
+API da sua conta Asas e clique em
+conectar. O sistema testa a chave na
+
+80
+00:01:46,190 --> 00:01:46,200
+conectar. O sistema testa a chave na
+ 
+
+81
+00:01:46,200 --> 00:01:49,510
+conectar. O sistema testa a chave na
+hora. Se der certo, aparece conectada e
+
+82
+00:01:49,510 --> 00:01:49,520
+hora. Se der certo, aparece conectada e
+ 
+
+83
+00:01:49,520 --> 00:01:51,910
+hora. Se der certo, aparece conectada e
+o portal já configura sozinho o aviso
+
+84
+00:01:51,910 --> 00:01:51,920
+o portal já configura sozinho o aviso
+ 
+
+85
+00:01:51,920 --> 00:01:54,429
+o portal já configura sozinho o aviso
+automático de pagamento, o web hook, na
+
+86
+00:01:54,429 --> 00:01:54,439
+automático de pagamento, o web hook, na
+ 
+
+87
+00:01:54,439 --> 00:01:57,510
+automático de pagamento, o web hook, na
+sua conta asas. Conectado, a chave fica
+
+88
+00:01:57,510 --> 00:01:57,520
+sua conta asas. Conectado, a chave fica
+ 
+
+89
+00:01:57,520 --> 00:02:00,149
+sua conta asas. Conectado, a chave fica
+escondida, mostrando só o final. Para
+
+90
+00:02:00,149 --> 00:02:00,159
+escondida, mostrando só o final. Para
+ 
+
+91
+00:02:00,159 --> 00:02:02,910
+escondida, mostrando só o final. Para
+trocar, é só clicar nela. Você também vê
+
+92
+00:02:02,910 --> 00:02:02,920
+trocar, é só clicar nela. Você também vê
+ 
+
+93
+00:02:02,920 --> 00:02:05,350
+trocar, é só clicar nela. Você também vê
+a data da conexão e o botão testar
+
+94
+00:02:05,350 --> 00:02:05,360
+a data da conexão e o botão testar
+ 
+
+95
+00:02:05,360 --> 00:02:08,589
+a data da conexão e o botão testar
+conexão. O interruptor cobrar pelo AS
+
+96
+00:02:08,589 --> 00:02:08,599
+conexão. O interruptor cobrar pelo AS
+ 
+
+97
+00:02:08,599 --> 00:02:11,029
+conexão. O interruptor cobrar pelo AS
+liga ou desliga a cobrança automática a
+
+98
+00:02:11,029 --> 00:02:11,039
+liga ou desliga a cobrança automática a
+ 
+
+99
+00:02:11,039 --> 00:02:13,589
+liga ou desliga a cobrança automática a
+qualquer momento, sem apagar a chave.
+
+100
+00:02:13,589 --> 00:02:13,599
+qualquer momento, sem apagar a chave.
+ 
+
+101
+00:02:13,599 --> 00:02:15,990
+qualquer momento, sem apagar a chave.
+Ligado, o cliente paga pelo link e o
+
+102
+00:02:15,990 --> 00:02:16,000
+Ligado, o cliente paga pelo link e o
+ 
+
+103
+00:02:16,000 --> 00:02:18,550
+Ligado, o cliente paga pelo link e o
+pagamento é confirmado sozinho. É isso
+
+104
+00:02:18,550 --> 00:02:18,560
+pagamento é confirmado sozinho. É isso
+ 
+
+105
+00:02:18,560 --> 00:02:20,750
+pagamento é confirmado sozinho. É isso
+que a empresa recebe. Uma página de
+
+106
+00:02:20,750 --> 00:02:20,760
+que a empresa recebe. Uma página de
+ 
+
+107
+00:02:20,760 --> 00:02:22,910
+que a empresa recebe. Uma página de
+pagamento do AS com o valor, o
+
+108
+00:02:22,910 --> 00:02:22,920
+pagamento do AS com o valor, o
+ 
+
+109
+00:02:22,920 --> 00:02:25,430
+pagamento do AS com o valor, o
+vencimento e a escolha entre boleto,
+
+110
+00:02:25,430 --> 00:02:25,440
+vencimento e a escolha entre boleto,
+ 
+
+111
+00:02:25,440 --> 00:02:28,309
+vencimento e a escolha entre boleto,
+Pix, cartão de crédito ou débito. E no
+
+112
+00:02:28,309 --> 00:02:28,319
+Pix, cartão de crédito ou débito. E no
+ 
+
+113
+00:02:28,319 --> 00:02:30,630
+Pix, cartão de crédito ou débito. E no
+financeiro, a fatura mostra cobrança
+
+114
+00:02:30,630 --> 00:02:30,640
+financeiro, a fatura mostra cobrança
+ 
+
+115
+00:02:30,640 --> 00:02:32,509
+financeiro, a fatura mostra cobrança
+enviada ao cliente com o link para
+
+116
+00:02:32,509 --> 00:02:32,519
+enviada ao cliente com o link para
+ 
+
+117
+00:02:32,519 --> 00:02:35,350
+enviada ao cliente com o link para
+copiar e muda para paga sozinha quando o
+
+118
+00:02:35,350 --> 00:02:35,360
+copiar e muda para paga sozinha quando o
+ 
+
+119
+00:02:35,360 --> 00:02:38,550
+copiar e muda para paga sozinha quando o
+cliente paga. Agora o segundo caminho,
+
+120
+00:02:38,550 --> 00:02:38,560
+cliente paga. Agora o segundo caminho,
+ 
+
+121
+00:02:38,560 --> 00:02:41,350
+cliente paga. Agora o segundo caminho,
+receber por Pix direto na sua chave, sem
+
+122
+00:02:41,350 --> 00:02:41,360
+receber por Pix direto na sua chave, sem
+ 
+
+123
+00:02:41,360 --> 00:02:44,509
+receber por Pix direto na sua chave, sem
+o asas. Sem o asas conectado ou com ele
+
+124
+00:02:44,509 --> 00:02:44,519
+o asas. Sem o asas conectado ou com ele
+ 
+
+125
+00:02:44,519 --> 00:02:47,430
+o asas. Sem o asas conectado ou com ele
+desligado, o quadro recebimento por Pix
+
+126
+00:02:47,430 --> 00:02:47,440
+desligado, o quadro recebimento por Pix
+ 
+
+127
+00:02:47,440 --> 00:02:50,509
+desligado, o quadro recebimento por Pix
+fica em uso. A chave Pix é protegida.
+
+128
+00:02:50,509 --> 00:02:50,519
+fica em uso. A chave Pix é protegida.
+ 
+
+129
+00:02:50,519 --> 00:02:53,030
+fica em uso. A chave Pix é protegida.
+Para cadastrar ou trocar, o sistema pede
+
+130
+00:02:53,030 --> 00:02:53,040
+Para cadastrar ou trocar, o sistema pede
+ 
+
+131
+00:02:53,040 --> 00:02:55,470
+Para cadastrar ou trocar, o sistema pede
+um código do seu celular. Clique em
+
+132
+00:02:55,470 --> 00:02:55,480
+um código do seu celular. Clique em
+ 
+
+133
+00:02:55,480 --> 00:02:57,990
+um código do seu celular. Clique em
+cadastrar com autenticador. Na primeira
+
+134
+00:02:57,990 --> 00:02:58,000
+cadastrar com autenticador. Na primeira
+ 
+
+135
+00:02:58,000 --> 00:03:00,750
+cadastrar com autenticador. Na primeira
+vez, você ativa o autenticador. Abra um
+
+136
+00:03:00,750 --> 00:03:00,760
+vez, você ativa o autenticador. Abra um
+ 
+
+137
+00:03:00,760 --> 00:03:02,869
+vez, você ativa o autenticador. Abra um
+aplicativo autenticador no celular, como
+
+138
+00:03:02,869 --> 00:03:02,879
+aplicativo autenticador no celular, como
+ 
+
+139
+00:03:02,879 --> 00:03:05,869
+aplicativo autenticador no celular, como
+o Google Authenticator. Leia o Qcode e
+
+140
+00:03:05,869 --> 00:03:05,879
+o Google Authenticator. Leia o Qcode e
+ 
+
+141
+00:03:05,879 --> 00:03:07,869
+o Google Authenticator. Leia o Qcode e
+digite o código de seis dígitos que
+
+142
+00:03:07,869 --> 00:03:07,879
+digite o código de seis dígitos que
+ 
+
+143
+00:03:07,879 --> 00:03:11,270
+digite o código de seis dígitos que
+aparecer. Clique em ativar. Em seguida,
+
+144
+00:03:11,270 --> 00:03:11,280
+aparecer. Clique em ativar. Em seguida,
+ 
+
+145
+00:03:11,280 --> 00:03:13,869
+aparecer. Clique em ativar. Em seguida,
+aparecem seis códigos de reserva. Eles
+
+146
+00:03:13,869 --> 00:03:13,879
+aparecem seis códigos de reserva. Eles
+ 
+
+147
+00:03:13,879 --> 00:03:16,430
+aparecem seis códigos de reserva. Eles
+servem se você perder o celular. Baixe
+
+148
+00:03:16,430 --> 00:03:16,440
+servem se você perder o celular. Baixe
+ 
+
+149
+00:03:16,440 --> 00:03:18,990
+servem se você perder o celular. Baixe
+ou copie e guarde em local seguro.
+
+150
+00:03:18,990 --> 00:03:19,000
+ou copie e guarde em local seguro.
+ 
+
+151
+00:03:19,000 --> 00:03:21,910
+ou copie e guarde em local seguro.
+Depois, clique em Já guardei. Agora
+
+152
+00:03:21,910 --> 00:03:21,920
+Depois, clique em Já guardei. Agora
+ 
+
+153
+00:03:21,920 --> 00:03:24,309
+Depois, clique em Já guardei. Agora
+cadastre a sua chave Pix. Escreva as
+
+154
+00:03:24,309 --> 00:03:24,319
+cadastre a sua chave Pix. Escreva as
+ 
+
+155
+00:03:24,319 --> 00:03:26,350
+cadastre a sua chave Pix. Escreva as
+instruções para o cliente, digite o
+
+156
+00:03:26,350 --> 00:03:26,360
+instruções para o cliente, digite o
+ 
+
+157
+00:03:26,360 --> 00:03:28,470
+instruções para o cliente, digite o
+código do autenticador e clique em
+
+158
+00:03:28,470 --> 00:03:28,480
+código do autenticador e clique em
+ 
+
+159
+00:03:28,480 --> 00:03:30,990
+código do autenticador e clique em
+trocar chave. Por fim, informe o
+
+160
+00:03:30,990 --> 00:03:31,000
+trocar chave. Por fim, informe o
+ 
+
+161
+00:03:31,000 --> 00:03:33,030
+trocar chave. Por fim, informe o
+WhatsApp que vai receber os comprovantes
+
+162
+00:03:33,030 --> 00:03:33,040
+WhatsApp que vai receber os comprovantes
+ 
+
+163
+00:03:33,040 --> 00:03:35,869
+WhatsApp que vai receber os comprovantes
+e clique em salvar WhatsApp. Pronto, o
+
+164
+00:03:35,869 --> 00:03:35,879
+e clique em salvar WhatsApp. Pronto, o
+ 
+
+165
+00:03:35,879 --> 00:03:38,270
+e clique em salvar WhatsApp. Pronto, o
+recebimento por Pix está configurado.
+
+166
+00:03:38,270 --> 00:03:38,280
+recebimento por Pix está configurado.
+ 
+
+167
+00:03:38,280 --> 00:03:40,030
+recebimento por Pix está configurado.
+Agora veja como isso aparece para a
+
+168
+00:03:40,030 --> 00:03:40,040
+Agora veja como isso aparece para a
+ 
+
+169
+00:03:40,040 --> 00:03:42,429
+Agora veja como isso aparece para a
+empresa. Na área do cliente, ela escolhe
+
+170
+00:03:42,429 --> 00:03:42,439
+empresa. Na área do cliente, ela escolhe
+ 
+
+171
+00:03:42,439 --> 00:03:45,470
+empresa. Na área do cliente, ela escolhe
+um plano e clica em quero este. Sem o
+
+172
+00:03:45,470 --> 00:03:45,480
+um plano e clica em quero este. Sem o
+ 
+
+173
+00:03:45,480 --> 00:03:47,789
+um plano e clica em quero este. Sem o
+asas, ela vê o aviso de plano aguardando
+
+174
+00:03:47,789 --> 00:03:47,799
+asas, ela vê o aviso de plano aguardando
+ 
+
+175
+00:03:47,799 --> 00:03:50,550
+asas, ela vê o aviso de plano aguardando
+o pagamento com a sua chave Pix, o botão
+
+176
+00:03:50,550 --> 00:03:50,560
+o pagamento com a sua chave Pix, o botão
+ 
+
+177
+00:03:50,560 --> 00:03:53,190
+o pagamento com a sua chave Pix, o botão
+copiar e as suas instruções. Depois de
+
+178
+00:03:53,190 --> 00:03:53,200
+copiar e as suas instruções. Depois de
+ 
+
+179
+00:03:53,200 --> 00:03:55,710
+copiar e as suas instruções. Depois de
+pagar, ela toca em enviar comprovante
+
+180
+00:03:55,710 --> 00:03:55,720
+pagar, ela toca em enviar comprovante
+ 
+
+181
+00:03:55,720 --> 00:03:58,190
+pagar, ela toca em enviar comprovante
+pelo WhatsApp. A mensagem já vai pronta
+
+182
+00:03:58,190 --> 00:03:58,200
+pelo WhatsApp. A mensagem já vai pronta
+ 
+
+183
+00:03:58,200 --> 00:04:00,390
+pelo WhatsApp. A mensagem já vai pronta
+para o seu número com o nome do cliente,
+
+184
+00:04:00,390 --> 00:04:00,400
+para o seu número com o nome do cliente,
+ 
+
+185
+00:04:00,400 --> 00:04:03,550
+para o seu número com o nome do cliente,
+o plano, o número da fatura e o valor. E
+
+186
+00:04:03,550 --> 00:04:03,560
+o plano, o número da fatura e o valor. E
+ 
+
+187
+00:04:03,560 --> 00:04:05,630
+o plano, o número da fatura e o valor. E
+agora, como você dá baixa? No
+
+188
+00:04:05,630 --> 00:04:05,640
+agora, como você dá baixa? No
+ 
+
+189
+00:04:05,640 --> 00:04:07,869
+agora, como você dá baixa? No
+financeiro, a fatura aparece com o selo
+
+190
+00:04:07,869 --> 00:04:07,879
+financeiro, a fatura aparece com o selo
+ 
+
+191
+00:04:07,879 --> 00:04:10,470
+financeiro, a fatura aparece com o selo
+Pix aguardando comprovante e o cartão
+
+192
+00:04:10,470 --> 00:04:10,480
+Pix aguardando comprovante e o cartão
+ 
+
+193
+00:04:10,480 --> 00:04:12,550
+Pix aguardando comprovante e o cartão
+mostra quantas faturas estão aguardando
+
+194
+00:04:12,550 --> 00:04:12,560
+mostra quantas faturas estão aguardando
+ 
+
+195
+00:04:12,560 --> 00:04:14,670
+mostra quantas faturas estão aguardando
+Pix. Quando o comprovante chegar no seu
+
+196
+00:04:14,670 --> 00:04:14,680
+Pix. Quando o comprovante chegar no seu
+ 
+
+197
+00:04:14,680 --> 00:04:17,629
+Pix. Quando o comprovante chegar no seu
+WhatsApp, clique em Já recebi. Escolha
+
+198
+00:04:17,629 --> 00:04:17,639
+WhatsApp, clique em Já recebi. Escolha
+ 
+
+199
+00:04:17,639 --> 00:04:19,629
+WhatsApp, clique em Já recebi. Escolha
+como ele pagou. Confira a data e o
+
+200
+00:04:19,629 --> 00:04:19,639
+como ele pagou. Confira a data e o
+ 
+
+201
+00:04:19,639 --> 00:04:21,629
+como ele pagou. Confira a data e o
+valor. Escreva uma observação, se
+
+202
+00:04:21,629 --> 00:04:21,639
+valor. Escreva uma observação, se
+ 
+
+203
+00:04:21,639 --> 00:04:24,189
+valor. Escreva uma observação, se
+quiser. Marque a caixa de confirmação e
+
+204
+00:04:24,189 --> 00:04:24,199
+quiser. Marque a caixa de confirmação e
+ 
+
+205
+00:04:24,199 --> 00:04:27,230
+quiser. Marque a caixa de confirmação e
+clique em sim, já recebi. Na hora, a
+
+206
+00:04:27,230 --> 00:04:27,240
+clique em sim, já recebi. Na hora, a
+ 
+
+207
+00:04:27,240 --> 00:04:29,590
+clique em sim, já recebi. Na hora, a
+fatura vai para pagas, a contratação é
+
+208
+00:04:29,590 --> 00:04:29,600
+fatura vai para pagas, a contratação é
+ 
+
+209
+00:04:29,600 --> 00:04:31,990
+fatura vai para pagas, a contratação é
+ativada e o plano da empresa entra no
+
+210
+00:04:31,990 --> 00:04:32,000
+ativada e o plano da empresa entra no
+ 
+
+211
+00:04:32,000 --> 00:04:34,390
+ativada e o plano da empresa entra no
+ar. A próxima fatura do ciclo já é
+
+212
+00:04:34,390 --> 00:04:34,400
+ar. A próxima fatura do ciclo já é
+ 
+
+213
+00:04:34,400 --> 00:04:37,110
+ar. A próxima fatura do ciclo já é
+gerada automaticamente. Você também pode
+
+214
+00:04:37,110 --> 00:04:37,120
+gerada automaticamente. Você também pode
+ 
+
+215
+00:04:37,120 --> 00:04:39,550
+gerada automaticamente. Você também pode
+dar baixa pela ficha do cliente em meus
+
+216
+00:04:39,550 --> 00:04:39,560
+dar baixa pela ficha do cliente em meus
+ 
+
+217
+00:04:39,560 --> 00:04:42,430
+dar baixa pela ficha do cliente em meus
+clientes na aba financeiro com o botão
+
+218
+00:04:42,430 --> 00:04:42,440
+clientes na aba financeiro com o botão
+ 
+
+219
+00:04:42,440 --> 00:04:45,150
+clientes na aba financeiro com o botão
+confirmar pagamento. Uma dica final, os
+
+220
+00:04:45,150 --> 00:04:45,160
+confirmar pagamento. Uma dica final, os
+ 
+
+221
+00:04:45,160 --> 00:04:47,870
+confirmar pagamento. Uma dica final, os
+dois caminhos convivem. Mesmo com o AS,
+
+222
+00:04:47,870 --> 00:04:47,880
+dois caminhos convivem. Mesmo com o AS,
+ 
+
+223
+00:04:47,880 --> 00:04:50,310
+dois caminhos convivem. Mesmo com o AS,
+se o cliente pagar por fora, você usa o
+
+224
+00:04:50,310 --> 00:04:50,320
+se o cliente pagar por fora, você usa o
+ 
+
+225
+00:04:50,320 --> 00:04:52,629
+se o cliente pagar por fora, você usa o
+já recebi. E a fatura que já mostrou a
+
+226
+00:04:52,629 --> 00:04:52,639
+já recebi. E a fatura que já mostrou a
+ 
+
+227
+00:04:52,639 --> 00:04:55,350
+já recebi. E a fatura que já mostrou a
+chave Pix continua pelo Pix, mesmo se
+
+228
+00:04:55,350 --> 00:04:55,360
+chave Pix continua pelo Pix, mesmo se
+ 
+
+229
+00:04:55,360 --> 00:04:58,230
+chave Pix continua pelo Pix, mesmo se
+você ligar o ASAs depois. Pronto, agora
+
+230
+00:04:58,230 --> 00:04:58,240
+você ligar o ASAs depois. Pronto, agora
+ 
+
+231
+00:04:58,240 --> 00:05:00,310
+você ligar o ASAs depois. Pronto, agora
+você sabe receber dos seus clientes do
+
+232
+00:05:00,310 --> 00:05:00,320
+você sabe receber dos seus clientes do
+ 
+
+233
+00:05:00,320 --> 00:05:02,950
+você sabe receber dos seus clientes do
+jeito que preferir, automático pelo AS
+
+234
+00:05:02,950 --> 00:05:02,960
+jeito que preferir, automático pelo AS
+ 
+
+235
+00:05:02,960 --> 00:05:07,240
+jeito que preferir, automático pelo AS
+ou direto na sua chave TIC.
+

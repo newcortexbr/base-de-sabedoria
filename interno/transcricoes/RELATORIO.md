@@ -1,0 +1,61 @@
+# relatório de legendas
+
+- total: 54
+- com legenda: 54
+- sem legenda: 0
+- falha: 0
+
+- `jl7GHmHVJcM` Importando Lista do GMaps no Portal | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `JYDoZB_vyX8` Tutorial Aprovacoes e Denuncias | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `gAa2NdnitZU` Tutorial Noticias | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `r5rFCgAV0mg` Tutorial Noticias Automaticas | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `pBHdF3bd1QI` Tutorial Cupons de Desconto | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `ufB3QTKfPsM` Tutorial Vagas de Emprego | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `Ps1cgdLQ1FI` Tutorial Classificados | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `QrkL_nJEa-c` Cadastrando um Ponto Turistico | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `CMEOWthwqtI` Tutorial Roteiros | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `Hyh3UxHW_jU` Tutorial Eventos | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `CRiUbh7wHdc` Tutorial Artigos | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `Ru3949-VUX4` Tutorial Orcamentos Online | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `1a0wZmdXDLk` Tutorial A Voz do Povo | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `8gIDPdapN0E` Tutorial Parceiros | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `8M4kdEfP7Eg` Tutorial Configuracoes Gerais | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `XekThBh1ygU` Tutorial Layout Completo | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `He7XF-kolwk` Tutorial Layout Topo | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `_YSN9di_ZOU` Tutorial Layout Tela Inicio | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `vPnHq9kRWW8` Tutorial Layout Rodape | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `lrTaEV5JnVM` Tutorial Layout Cores | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `lwaG-T87hJI` Tutorial Cobranca Asaas e Pix | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `-ZLL7Cqwcok` Tutorial Notificacoes Push | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `0nkWIgiQfwM` Tutorial Assistente de IA | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `BqIfSq7bVXM` Tutorial Banners Publicitarios | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `-FASO6flcCw` Tutorial Meus Clientes | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `1RHf0fcXgyE` Tutorial Financeiro | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `31ftVMQ_yr4` Tutorial Meus Planos | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `MbMNv59z7Bg` Tutorial Planos de Publicidade | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `D21vBBhzlhg` Divulgue sua Vaga em nosso Portal | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `zHOxx6KFIrk` Classificados - Como Anunciar | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `VmEwdNZd7pw` Orçamento Facilitado com IA | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `d2EweodukHg` Guia Comercial - Como cadastrar sua empresa | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `G1B9mAWbCk4` A Voz do Povo - Seu Canal de Denuncia | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `TWKsO_iuxGE` Eventos - Como divulgar seus eventos em nosso portal | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `DFVw9nSAZAQ` Como se tornar um Parceiro do nosso Portal | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `-Islw_h8OhU` Materia Patrocinada | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `NELLwm_ClmA` Especialista - Seja colunista em nosso portal | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `bDAKcYvx4wo` Banners Publicitarios | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `4pc8AwOX0hA` Formas de Anunciar no nosso Portal | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `JdJr7pXVx98` Tutorial Guia - Listar Empresas | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `VV8BxCbIfz4` Tutorial Gerenciar Cardapio | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `2ShbACG2mHE` Tutorial - Gerenciar Cardapio Delivery | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `TgIUmqrRuBY` Tutorial Fila de Pedidos e Config Delivery | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `aE3QL3ErK0k` Tutorial Gerenciar Servicos | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `okWcwnwq5Bk` Tutorial Gerenciar Equipe | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `Z45xwGT8U38` Tutorial Gerenciar Catalogo de Produtos | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `reZ3e1a4o-o` Tutorial Gerenciar - Acomodações / Quartos e Suites | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `09n3Eiwn418` Tutorial Guia - Categorias e Subcategorias | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `uN4FHHHGgEs` Tutorial Sorteios | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `REgRSXekqpA` Sorteios Portal da Cidade | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `F136_v1JyRY` Como Funciona o Extrator GMaps | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `R9FCgunNxFE` Extraindo Contatos na GMaps | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `JXWDV_IiAWQ` Regras de uso   Plataforma Dados PJ | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -
+- `IKdKLgi-e94` Como extrair listas   Dados PJ | idioma: pt-orig | tipo: automática | capítulos: não | método: yt-dlp | erro: -

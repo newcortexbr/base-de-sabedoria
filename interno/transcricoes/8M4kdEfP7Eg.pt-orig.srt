@@ -1,0 +1,485 @@
+1
+00:00:00,120 --> 00:00:02,470
+ 
+Em configurações gerais, você define a
+
+2
+00:00:02,470 --> 00:00:02,480
+Em configurações gerais, você define a
+ 
+
+3
+00:00:02,480 --> 00:00:04,510
+Em configurações gerais, você define a
+identidade do portal e os canais de
+
+4
+00:00:04,510 --> 00:00:04,520
+identidade do portal e os canais de
+ 
+
+5
+00:00:04,520 --> 00:00:06,749
+identidade do portal e os canais de
+contato que o visitante vê. No menu
+
+6
+00:00:06,749 --> 00:00:06,759
+contato que o visitante vê. No menu
+ 
+
+7
+00:00:06,759 --> 00:00:09,629
+contato que o visitante vê. No menu
+lateral, abra configurações e clique em
+
+8
+00:00:09,629 --> 00:00:09,639
+lateral, abra configurações e clique em
+ 
+
+9
+00:00:09,639 --> 00:00:12,589
+lateral, abra configurações e clique em
+configurações gerais. Em identidade,
+
+10
+00:00:12,589 --> 00:00:12,599
+configurações gerais. Em identidade,
+ 
+
+11
+00:00:12,599 --> 00:00:14,629
+configurações gerais. Em identidade,
+escreva o nome do portal e clique em
+
+12
+00:00:14,629 --> 00:00:14,639
+escreva o nome do portal e clique em
+ 
+
+13
+00:00:14,639 --> 00:00:17,070
+escreva o nome do portal e clique em
+salvar. Ele aparece no topo quando não
+
+14
+00:00:17,070 --> 00:00:17,080
+salvar. Ele aparece no topo quando não
+ 
+
+15
+00:00:17,080 --> 00:00:20,070
+salvar. Ele aparece no topo quando não
+há logo. Logo abaixo, envia logo e o
+
+16
+00:00:20,070 --> 00:00:20,080
+há logo. Logo abaixo, envia logo e o
+ 
+
+17
+00:00:20,080 --> 00:00:22,390
+há logo. Logo abaixo, envia logo e o
+Favicon, o ícone que aparece na aba do
+
+18
+00:00:22,390 --> 00:00:22,400
+Favicon, o ícone que aparece na aba do
+ 
+
+19
+00:00:22,400 --> 00:00:25,269
+Favicon, o ícone que aparece na aba do
+navegador. Em cidades do portal ficam as
+
+20
+00:00:25,269 --> 00:00:25,279
+navegador. Em cidades do portal ficam as
+ 
+
+21
+00:00:25,279 --> 00:00:27,589
+navegador. Em cidades do portal ficam as
+cidades da sua cobertura. Para adicionar
+
+22
+00:00:27,589 --> 00:00:27,599
+cidades da sua cobertura. Para adicionar
+ 
+
+23
+00:00:27,599 --> 00:00:29,710
+cidades da sua cobertura. Para adicionar
+uma nova, é só chamar o time comercial
+
+24
+00:00:29,710 --> 00:00:29,720
+uma nova, é só chamar o time comercial
+ 
+
+25
+00:00:29,720 --> 00:00:32,510
+uma nova, é só chamar o time comercial
+no WhatsApp. Em pixels de rastreamento,
+
+26
+00:00:32,510 --> 00:00:32,520
+no WhatsApp. Em pixels de rastreamento,
+ 
+
+27
+00:00:32,520 --> 00:00:34,670
+no WhatsApp. Em pixels de rastreamento,
+colhe o código do Google Analytics, do
+
+28
+00:00:34,670 --> 00:00:34,680
+colhe o código do Google Analytics, do
+ 
+
+29
+00:00:34,680 --> 00:00:37,549
+colhe o código do Google Analytics, do
+Meta ou de outra plataforma e clique em
+
+30
+00:00:37,549 --> 00:00:37,559
+Meta ou de outra plataforma e clique em
+ 
+
+31
+00:00:37,559 --> 00:00:40,150
+Meta ou de outra plataforma e clique em
+identificar Pixel. Os pixels ativos
+
+32
+00:00:40,150 --> 00:00:40,160
+identificar Pixel. Os pixels ativos
+ 
+
+33
+00:00:40,160 --> 00:00:43,110
+identificar Pixel. Os pixels ativos
+aparecem logo abaixo. Em redes sociais,
+
+34
+00:00:43,110 --> 00:00:43,120
+aparecem logo abaixo. Em redes sociais,
+ 
+
+35
+00:00:43,120 --> 00:00:45,670
+aparecem logo abaixo. Em redes sociais,
+coloque o WhatsApp e o @ ou o link do
+
+36
+00:00:45,670 --> 00:00:45,680
+coloque o WhatsApp e o @ ou o link do
+ 
+
+37
+00:00:45,680 --> 00:00:48,790
+coloque o WhatsApp e o @ ou o link do
+Instagram, Facebook, YouTube e TikTok.
+
+38
+00:00:48,790 --> 00:00:48,800
+Instagram, Facebook, YouTube e TikTok.
+ 
+
+39
+00:00:48,800 --> 00:00:51,830
+Instagram, Facebook, YouTube e TikTok.
+Depois, clique em salvar redes sociais.
+
+40
+00:00:51,830 --> 00:00:51,840
+Depois, clique em salvar redes sociais.
+ 
+
+41
+00:00:51,840 --> 00:00:54,110
+Depois, clique em salvar redes sociais.
+Na página Fale Conosco, informe o
+
+42
+00:00:54,110 --> 00:00:54,120
+Na página Fale Conosco, informe o
+ 
+
+43
+00:00:54,120 --> 00:00:56,830
+Na página Fale Conosco, informe o
+e-mail, o telefone, um título e um texto
+
+44
+00:00:56,830 --> 00:00:56,840
+e-mail, o telefone, um título e um texto
+ 
+
+45
+00:00:56,840 --> 00:01:00,069
+e-mail, o telefone, um título e um texto
+curto e salve. Em aplicativo do portal,
+
+46
+00:01:00,069 --> 00:01:00,079
+curto e salve. Em aplicativo do portal,
+ 
+
+47
+00:01:00,079 --> 00:01:02,750
+curto e salve. Em aplicativo do portal,
+ligue o aviso baixar app para convidar o
+
+48
+00:01:02,750 --> 00:01:02,760
+ligue o aviso baixar app para convidar o
+ 
+
+49
+00:01:02,760 --> 00:01:04,310
+ligue o aviso baixar app para convidar o
+visitante a instalar o portal no
+
+50
+00:01:04,310 --> 00:01:04,320
+visitante a instalar o portal no
+ 
+
+51
+00:01:04,320 --> 00:01:06,990
+visitante a instalar o portal no
+celular. Veja como funciona. No primeiro
+
+52
+00:01:06,990 --> 00:01:07,000
+celular. Veja como funciona. No primeiro
+ 
+
+53
+00:01:07,000 --> 00:01:09,469
+celular. Veja como funciona. No primeiro
+acesso pelo celular, o visitante recebe
+
+54
+00:01:09,469 --> 00:01:09,479
+acesso pelo celular, o visitante recebe
+ 
+
+55
+00:01:09,479 --> 00:01:11,990
+acesso pelo celular, o visitante recebe
+este convite, portal capixaba no seu
+
+56
+00:01:11,990 --> 00:01:12,000
+este convite, portal capixaba no seu
+ 
+
+57
+00:01:12,000 --> 00:01:14,950
+este convite, portal capixaba no seu
+celular. Instale e abra com um toque sem
+
+58
+00:01:14,950 --> 00:01:14,960
+celular. Instale e abra com um toque sem
+ 
+
+59
+00:01:14,960 --> 00:01:17,310
+celular. Instale e abra com um toque sem
+digitar endereço. Se ele tocar em
+
+60
+00:01:17,310 --> 00:01:17,320
+digitar endereço. Se ele tocar em
+ 
+
+61
+00:01:17,320 --> 00:01:19,429
+digitar endereço. Se ele tocar em
+instalar, o portal ganha um ícone na
+
+62
+00:01:19,429 --> 00:01:19,439
+instalar, o portal ganha um ícone na
+ 
+
+63
+00:01:19,439 --> 00:01:21,789
+instalar, o portal ganha um ícone na
+tela inicial do celular com a sua logo e
+
+64
+00:01:21,789 --> 00:01:21,799
+tela inicial do celular com a sua logo e
+ 
+
+65
+00:01:21,799 --> 00:01:24,510
+tela inicial do celular com a sua logo e
+o nome do portal, igual a um aplicativo.
+
+66
+00:01:24,510 --> 00:01:24,520
+o nome do portal, igual a um aplicativo.
+ 
+
+67
+00:01:24,520 --> 00:01:27,190
+o nome do portal, igual a um aplicativo.
+Um toque e o portal abre na hora. Em
+
+68
+00:01:27,190 --> 00:01:27,200
+Um toque e o portal abre na hora. Em
+ 
+
+69
+00:01:27,200 --> 00:01:29,109
+Um toque e o portal abre na hora. Em
+grupo de WhatsApp, colhe o link de
+
+70
+00:01:29,109 --> 00:01:29,119
+grupo de WhatsApp, colhe o link de
+ 
+
+71
+00:01:29,119 --> 00:01:31,749
+grupo de WhatsApp, colhe o link de
+convite do seu grupo ou canal, marque
+
+72
+00:01:31,749 --> 00:01:31,759
+convite do seu grupo ou canal, marque
+ 
+
+73
+00:01:31,759 --> 00:01:34,550
+convite do seu grupo ou canal, marque
+exibir o convite no site e salve. No
+
+74
+00:01:34,550 --> 00:01:34,560
+exibir o convite no site e salve. No
+ 
+
+75
+00:01:34,560 --> 00:01:37,510
+exibir o convite no site e salve. No
+site aparece este convite. Participe do
+
+76
+00:01:37,510 --> 00:01:37,520
+site aparece este convite. Participe do
+ 
+
+77
+00:01:37,520 --> 00:01:39,789
+site aparece este convite. Participe do
+nosso grupo no WhatsApp com o botão
+
+78
+00:01:39,789 --> 00:01:39,799
+nosso grupo no WhatsApp com o botão
+ 
+
+79
+00:01:39,799 --> 00:01:42,389
+nosso grupo no WhatsApp com o botão
+entrar no grupo. A ideia é você criar um
+
+80
+00:01:42,389 --> 00:01:42,399
+entrar no grupo. A ideia é você criar um
+ 
+
+81
+00:01:42,399 --> 00:01:44,469
+entrar no grupo. A ideia é você criar um
+grupo com as informações da cidade,
+
+82
+00:01:44,469 --> 00:01:44,479
+grupo com as informações da cidade,
+ 
+
+83
+00:01:44,479 --> 00:01:46,709
+grupo com as informações da cidade,
+notícias, oportunidades de emprego,
+
+84
+00:01:46,709 --> 00:01:46,719
+notícias, oportunidades de emprego,
+ 
+
+85
+00:01:46,719 --> 00:01:49,590
+notícias, oportunidades de emprego,
+compra e venda, eventos e promoções. Ele
+
+86
+00:01:49,590 --> 00:01:49,600
+compra e venda, eventos e promoções. Ele
+ 
+
+87
+00:01:49,600 --> 00:01:51,709
+compra e venda, eventos e promoções. Ele
+aproxima o leitor e traz gente de volta
+
+88
+00:01:51,709 --> 00:01:51,719
+aproxima o leitor e traz gente de volta
+ 
+
+89
+00:01:51,719 --> 00:01:54,630
+aproxima o leitor e traz gente de volta
+ao portal todo dia. Tudo isso aparece no
+
+90
+00:01:54,630 --> 00:01:54,640
+ao portal todo dia. Tudo isso aparece no
+ 
+
+91
+00:01:54,640 --> 00:01:57,109
+ao portal todo dia. Tudo isso aparece no
+site. Na página Fale Conosco, o
+
+92
+00:01:57,109 --> 00:01:57,119
+site. Na página Fale Conosco, o
+ 
+
+93
+00:01:57,119 --> 00:01:59,190
+site. Na página Fale Conosco, o
+visitante encontra os seus contatos e as
+
+94
+00:01:59,190 --> 00:01:59,200
+visitante encontra os seus contatos e as
+ 
+
+95
+00:01:59,200 --> 00:02:01,830
+visitante encontra os seus contatos e as
+suas redes. Pronto, seu portal está com
+
+96
+00:02:01,830 --> 00:02:01,840
+suas redes. Pronto, seu portal está com
+ 
+
+97
+00:02:01,840 --> 00:02:05,719
+suas redes. Pronto, seu portal está com
+a cara e os contatos certos.
+

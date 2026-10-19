@@ -2,9 +2,11 @@
 
 status geral: rascunhos documentais. nenhum artigo está pronto para ingestão. não houve validação de interface, navegação, comportamento ou produção.
 
-contagens por público: usuario — 7 artigos; cliente — 9 artigos, dos quais 1 exclusivo para `parceiro-comercial`; admin — 27 artigos. total: 43 artigos. arquivos em `interno/` são relatórios e proposta, não artigos de atendimento. nunca carregar conteúdo de `interno/` no chat.
+contagens por público: usuario — 10 artigos; cliente — 9 artigos, dos quais 1 exclusivo para `parceiro-comercial`; admin — 36 artigos. total: 55 artigos. arquivos em `interno/` são relatórios e proposta, não artigos de atendimento. nunca carregar conteúdo de `interno/` no chat.
 
-## usuario (7)
+escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem mandar o cliente seguir instruções da tela; o chat guia uma ação por vez. vídeos ficam em `videos.json` e só aparecem no chat quando vinculados no campo `videos:` de um artigo (primeiro da lista = mais específico da tarefa).
+
+## usuario (10)
 
 ### tarefas públicas
 - [buscar anúncios classificados](usuario/buscar-anuncios-classificados.md)
@@ -13,6 +15,9 @@ contagens por público: usuario — 7 artigos; cliente — 9 artigos, dos quais 
 - [encontrar empresa no Guia](usuario/encontrar-empresa-no-guia.md)
 - [fazer pedido no Delivery](usuario/fazer-pedido-no-delivery.md)
 - [localizar e candidatar-se a vaga](usuario/localizar-e-candidatar-se-a-vaga.md)
+- [enviar denúncia em A Voz do Povo](usuario/enviar-denuncia-voz-do-povo.md)
+- [pedir orçamento](usuario/pedir-orcamento.md)
+- [participar de sorteio](usuario/participar-de-sorteio.md)
 
 ### acesso
 - [criar conta para empresa](usuario/acesso/criar-conta-empresa.md)
@@ -32,7 +37,7 @@ contagens por público: usuario — 7 artigos; cliente — 9 artigos, dos quais 
 - [recuperar senha da área do cliente](cliente/acesso/recuperar-senha-cliente.md)
 - [entrar ou recuperar acesso de parceiro comercial](cliente/acesso/entrar-recuperar-parceiro.md) — exclusivo a `parceiro-comercial`; não carregar para cliente comum.
 
-## admin (27)
+## admin (36)
 
 ### acesso
 - [entrar no painel](admin/acesso/entrar-painel.md)
@@ -61,6 +66,14 @@ contagens por público: usuario — 7 artigos; cliente — 9 artigos, dos quais 
 - [gerenciar cupons do portal](admin/comercial/gerenciar-cupons-do-portal.md)
 - [Meus Clientes](admin/comercial/gerenciar-meus-clientes.md)
 - [importar empresas no Guia](admin/comercial/importar-empresas-no-guia.md)
+- [cardápio digital](admin/comercial/gerenciar-cardapio-digital.md)
+- [cardápio do delivery](admin/comercial/gerenciar-cardapio-do-delivery.md)
+- [delivery: pedidos e configurações](admin/comercial/operar-delivery-pedidos-e-configuracoes.md)
+- [serviços da empresa](admin/comercial/gerenciar-servicos-da-empresa.md)
+- [equipe da empresa](admin/comercial/gerenciar-equipe-da-empresa.md)
+- [catálogo de produtos](admin/comercial/gerenciar-catalogo-de-produtos.md)
+- [quartos e suítes](admin/comercial/gerenciar-quartos-e-suites.md)
+- [parceiros e comissões](admin/comercial/gerenciar-parceiros.md)
 - [moderar solicitações de orçamento](admin/comercial/moderar-solicitacoes-de-orcamento.md)
 
 ### portal
@@ -68,10 +81,13 @@ contagens por público: usuario — 7 artigos; cliente — 9 artigos, dos quais 
 - [Assistente de IA](admin/portal/assistente-de-ia-do-portal.md)
 - [enviar notificações push](admin/portal/enviar-notificacoes-push.md)
 - [A Voz do Povo](admin/portal/voz-do-povo.md)
+- [sorteios](admin/portal/sorteios.md)
+- [revisão por transcrições (2026-10-19)](interno/transcricoes/REVISAO.md) — interno, não carregar no chat.
 
 ## material interno — não carregar no chat
 
 - [arquitetura proposta](interno/arquitetura-proposta.md) — decisões e propostas de operação; não é artigo de atendimento.
+- [inventário de vídeos da planilha (2026-10-19)](interno/inventario-videos-2026-10-19.md) — situação de cada vídeo e vínculos.
 - [cobertura, lacunas e limites desta revisão](interno/cobertura.md)
 - [coleta de acesso](interno/coleta-acesso.md)
 - [coleta de administração comercial](interno/coleta-admin-comercial.md)

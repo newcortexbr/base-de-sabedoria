@@ -1,6 +1,6 @@
 ---
 id: assistente-de-ia-do-portal
-titulo: Assistente de IA: ligar e ver o que perguntam
+titulo: "Assistente de IA: ligar e ver o que perguntam"
 publico:
   - admin
 modulo: assistente

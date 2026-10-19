@@ -1,0 +1,705 @@
+1
+00:00:00,120 --> 00:00:02,430
+ 
+Bunners são uma das maiores fontes de
+
+2
+00:00:02,430 --> 00:00:02,440
+Bunners são uma das maiores fontes de
+ 
+
+3
+00:00:02,440 --> 00:00:04,950
+Bunners são uma das maiores fontes de
+receita do seu portal. Empresas pagam
+
+4
+00:00:04,950 --> 00:00:04,960
+receita do seu portal. Empresas pagam
+ 
+
+5
+00:00:04,960 --> 00:00:07,190
+receita do seu portal. Empresas pagam
+para a marca delas aparecer nas páginas
+
+6
+00:00:07,190 --> 00:00:07,200
+para a marca delas aparecer nas páginas
+ 
+
+7
+00:00:07,200 --> 00:00:09,990
+para a marca delas aparecer nas páginas
+mais vistas da cidade. No painel, clique
+
+8
+00:00:09,990 --> 00:00:10,000
+mais vistas da cidade. No painel, clique
+ 
+
+9
+00:00:10,000 --> 00:00:12,709
+mais vistas da cidade. No painel, clique
+em banners publicitários. Aqui ficam
+
+10
+00:00:12,709 --> 00:00:12,719
+em banners publicitários. Aqui ficam
+ 
+
+11
+00:00:12,719 --> 00:00:15,270
+em banners publicitários. Aqui ficam
+todos os banners do portal com a imagem,
+
+12
+00:00:15,270 --> 00:00:15,280
+todos os banners do portal com a imagem,
+ 
+
+13
+00:00:15,280 --> 00:00:18,070
+todos os banners do portal com a imagem,
+a página, a posição e o período de cada
+
+14
+00:00:18,070 --> 00:00:18,080
+a página, a posição e o período de cada
+ 
+
+15
+00:00:18,080 --> 00:00:20,750
+a página, a posição e o período de cada
+um. No topo, você busca pelo título e
+
+16
+00:00:20,750 --> 00:00:20,760
+um. No topo, você busca pelo título e
+ 
+
+17
+00:00:20,760 --> 00:00:23,710
+um. No topo, você busca pelo título e
+filtra por página, como home, notícias,
+
+18
+00:00:23,710 --> 00:00:23,720
+filtra por página, como home, notícias,
+ 
+
+19
+00:00:23,720 --> 00:00:26,509
+filtra por página, como home, notícias,
+guia comercial, vagas, turismo e
+
+20
+00:00:26,509 --> 00:00:26,519
+guia comercial, vagas, turismo e
+ 
+
+21
+00:00:26,519 --> 00:00:30,029
+guia comercial, vagas, turismo e
+eventos. e filtra pela situação no ar,
+
+22
+00:00:30,029 --> 00:00:30,039
+eventos. e filtra pela situação no ar,
+ 
+
+23
+00:00:30,039 --> 00:00:32,790
+eventos. e filtra pela situação no ar,
+agendado, vencido, fora do ar,
+
+24
+00:00:32,790 --> 00:00:32,800
+agendado, vencido, fora do ar,
+ 
+
+25
+00:00:32,800 --> 00:00:34,750
+agendado, vencido, fora do ar,
+aguardando pagamento, pendente de
+
+26
+00:00:34,750 --> 00:00:34,760
+aguardando pagamento, pendente de
+ 
+
+27
+00:00:34,760 --> 00:00:37,630
+aguardando pagamento, pendente de
+aprovação ou reprovado. Em cada banner
+
+28
+00:00:37,630 --> 00:00:37,640
+aprovação ou reprovado. Em cada banner
+ 
+
+29
+00:00:37,640 --> 00:00:40,830
+aprovação ou reprovado. Em cada banner
+você pode desativar ou ativar, editar ou
+
+30
+00:00:40,830 --> 00:00:40,840
+você pode desativar ou ativar, editar ou
+ 
+
+31
+00:00:40,840 --> 00:00:43,830
+você pode desativar ou ativar, editar ou
+excluir. Repare, banner vencido sai do
+
+32
+00:00:43,830 --> 00:00:43,840
+excluir. Repare, banner vencido sai do
+ 
+
+33
+00:00:43,840 --> 00:00:46,350
+excluir. Repare, banner vencido sai do
+site sozinho quando a data termina. Para
+
+34
+00:00:46,350 --> 00:00:46,360
+site sozinho quando a data termina. Para
+ 
+
+35
+00:00:46,360 --> 00:00:48,950
+site sozinho quando a data termina. Para
+criar um banner, clique em novo banner,
+
+36
+00:00:48,950 --> 00:00:48,960
+criar um banner, clique em novo banner,
+ 
+
+37
+00:00:48,960 --> 00:00:51,430
+criar um banner, clique em novo banner,
+dê um título, envie a imagem e, se
+
+38
+00:00:51,430 --> 00:00:51,440
+dê um título, envie a imagem e, se
+ 
+
+39
+00:00:51,440 --> 00:00:54,310
+dê um título, envie a imagem e, se
+quiser, coloque a URL de destino, que é
+
+40
+00:00:54,310 --> 00:00:54,320
+quiser, coloque a URL de destino, que é
+ 
+
+41
+00:00:54,320 --> 00:00:56,590
+quiser, coloque a URL de destino, que é
+para onde o clique leva. Em posição,
+
+42
+00:00:56,590 --> 00:00:56,600
+para onde o clique leva. Em posição,
+ 
+
+43
+00:00:56,600 --> 00:00:59,189
+para onde o clique leva. Em posição,
+você escolhe a página e o lugar exato.
+
+44
+00:00:59,189 --> 00:00:59,199
+você escolhe a página e o lugar exato.
+ 
+
+45
+00:00:59,199 --> 00:01:01,790
+você escolhe a página e o lugar exato.
+São várias posições. Topo da página,
+
+46
+00:01:01,790 --> 00:01:01,800
+São várias posições. Topo da página,
+ 
+
+47
+00:01:01,800 --> 00:01:04,750
+São várias posições. Topo da página,
+cabeçalho, outdoor, dentro da matéria,
+
+48
+00:01:04,750 --> 00:01:04,760
+cabeçalho, outdoor, dentro da matéria,
+ 
+
+49
+00:01:04,760 --> 00:01:07,510
+cabeçalho, outdoor, dentro da matéria,
+na lateral, cada uma com o tamanho ideal
+
+50
+00:01:07,510 --> 00:01:07,520
+na lateral, cada uma com o tamanho ideal
+ 
+
+51
+00:01:07,520 --> 00:01:10,429
+na lateral, cada uma com o tamanho ideal
+da arte. Use o filtro para achar rápido.
+
+52
+00:01:10,429 --> 00:01:10,439
+da arte. Use o filtro para achar rápido.
+ 
+
+53
+00:01:10,439 --> 00:01:13,190
+da arte. Use o filtro para achar rápido.
+Por exemplo, digitando matéria, aparecem
+
+54
+00:01:13,190 --> 00:01:13,200
+Por exemplo, digitando matéria, aparecem
+ 
+
+55
+00:01:13,200 --> 00:01:15,190
+Por exemplo, digitando matéria, aparecem
+as posições dentro e ao lado das
+
+56
+00:01:15,190 --> 00:01:15,200
+as posições dentro e ao lado das
+ 
+
+57
+00:01:15,200 --> 00:01:17,950
+as posições dentro e ao lado das
+notícias. Ao lado, a prévia mostra onde
+
+58
+00:01:17,950 --> 00:01:17,960
+notícias. Ao lado, a prévia mostra onde
+ 
+
+59
+00:01:17,960 --> 00:01:20,030
+notícias. Ao lado, a prévia mostra onde
+o banner vai aparecer no seu site, no
+
+60
+00:01:20,030 --> 00:01:20,040
+o banner vai aparecer no seu site, no
+ 
+
+61
+00:01:20,040 --> 00:01:23,069
+o banner vai aparecer no seu site, no
+computador e no celular. Nada muda no ar
+
+62
+00:01:23,069 --> 00:01:23,079
+computador e no celular. Nada muda no ar
+ 
+
+63
+00:01:23,079 --> 00:01:25,789
+computador e no celular. Nada muda no ar
+até você salvar. Em dados da venda que
+
+64
+00:01:25,789 --> 00:01:25,799
+até você salvar. Em dados da venda que
+ 
+
+65
+00:01:25,799 --> 00:01:27,830
+até você salvar. Em dados da venda que
+nunca aparecem para o visitante, você
+
+66
+00:01:27,830 --> 00:01:27,840
+nunca aparecem para o visitante, você
+ 
+
+67
+00:01:27,840 --> 00:01:30,469
+nunca aparecem para o visitante, você
+anota a empresa, o telefone e o valor do
+
+68
+00:01:30,469 --> 00:01:30,479
+anota a empresa, o telefone e o valor do
+ 
+
+69
+00:01:30,479 --> 00:01:32,469
+anota a empresa, o telefone e o valor do
+plano e pode atrelar o banner a um
+
+70
+00:01:32,469 --> 00:01:32,479
+plano e pode atrelar o banner a um
+ 
+
+71
+00:01:32,479 --> 00:01:35,109
+plano e pode atrelar o banner a um
+cliente já cadastrado em meus clientes.
+
+72
+00:01:35,109 --> 00:01:35,119
+cliente já cadastrado em meus clientes.
+ 
+
+73
+00:01:35,119 --> 00:01:37,630
+cliente já cadastrado em meus clientes.
+Por fim, defina a data de início, a data
+
+74
+00:01:37,630 --> 00:01:37,640
+Por fim, defina a data de início, a data
+ 
+
+75
+00:01:37,640 --> 00:01:40,670
+Por fim, defina a data de início, a data
+de fim e a ordem. Marque ativo e clique
+
+76
+00:01:40,670 --> 00:01:40,680
+de fim e a ordem. Marque ativo e clique
+ 
+
+77
+00:01:40,680 --> 00:01:43,350
+de fim e a ordem. Marque ativo e clique
+em salvar banner. Para mudar um banner,
+
+78
+00:01:43,350 --> 00:01:43,360
+em salvar banner. Para mudar um banner,
+ 
+
+79
+00:01:43,360 --> 00:01:46,230
+em salvar banner. Para mudar um banner,
+clique em editar. Você troca a imagem, a
+
+80
+00:01:46,230 --> 00:01:46,240
+clique em editar. Você troca a imagem, a
+ 
+
+81
+00:01:46,240 --> 00:01:48,709
+clique em editar. Você troca a imagem, a
+posição ou as datas. E a prévia já
+
+82
+00:01:48,709 --> 00:01:48,719
+posição ou as datas. E a prévia já
+ 
+
+83
+00:01:48,719 --> 00:01:50,670
+posição ou as datas. E a prévia já
+mostra o resultado. E aqui está o
+
+84
+00:01:50,670 --> 00:01:50,680
+mostra o resultado. E aqui está o
+ 
+
+85
+00:01:50,680 --> 00:01:52,950
+mostra o resultado. E aqui está o
+resultado no nosso portal de exemplo. O
+
+86
+00:01:52,950 --> 00:01:52,960
+resultado no nosso portal de exemplo. O
+ 
+
+87
+00:01:52,960 --> 00:01:55,030
+resultado no nosso portal de exemplo. O
+banner de viagem no topo da página de
+
+88
+00:01:55,030 --> 00:01:55,040
+banner de viagem no topo da página de
+ 
+
+89
+00:01:55,040 --> 00:01:57,590
+banner de viagem no topo da página de
+turismo. Na página de notícias, o banner
+
+90
+00:01:57,590 --> 00:01:57,600
+turismo. Na página de notícias, o banner
+ 
+
+91
+00:01:57,600 --> 00:02:00,350
+turismo. Na página de notícias, o banner
+aparece no topo acima das matérias. E no
+
+92
+00:02:00,350 --> 00:02:00,360
+aparece no topo acima das matérias. E no
+ 
+
+93
+00:02:00,360 --> 00:02:02,670
+aparece no topo acima das matérias. E no
+guia comercial, o banner do anunciante
+
+94
+00:02:02,670 --> 00:02:02,680
+guia comercial, o banner do anunciante
+ 
+
+95
+00:02:02,680 --> 00:02:05,149
+guia comercial, o banner do anunciante
+abre a página logo abaixo do menu.
+
+96
+00:02:05,149 --> 00:02:05,159
+abre a página logo abaixo do menu.
+ 
+
+97
+00:02:05,159 --> 00:02:07,830
+abre a página logo abaixo do menu.
+Agora, um ponto muito importante, você
+
+98
+00:02:07,830 --> 00:02:07,840
+Agora, um ponto muito importante, você
+ 
+
+99
+00:02:07,840 --> 00:02:10,190
+Agora, um ponto muito importante, você
+não precisa cadastrar todos os banners à
+
+100
+00:02:10,190 --> 00:02:10,200
+não precisa cadastrar todos os banners à
+ 
+
+101
+00:02:10,200 --> 00:02:12,150
+não precisa cadastrar todos os banners à
+mão. Os próprios clientes podem
+
+102
+00:02:12,150 --> 00:02:12,160
+mão. Os próprios clientes podem
+ 
+
+103
+00:02:12,160 --> 00:02:14,350
+mão. Os próprios clientes podem
+contratar um espaço direto pelo painel
+
+104
+00:02:14,350 --> 00:02:14,360
+contratar um espaço direto pelo painel
+ 
+
+105
+00:02:14,360 --> 00:02:16,750
+contratar um espaço direto pelo painel
+do cliente. Os preços de cada espaço
+
+106
+00:02:16,750 --> 00:02:16,760
+do cliente. Os preços de cada espaço
+ 
+
+107
+00:02:16,760 --> 00:02:19,229
+do cliente. Os preços de cada espaço
+você define em meus planos, na parte
+
+108
+00:02:19,229 --> 00:02:19,239
+você define em meus planos, na parte
+ 
+
+109
+00:02:19,239 --> 00:02:21,710
+você define em meus planos, na parte
+espaço de publicidade. Só as posições
+
+110
+00:02:21,710 --> 00:02:21,720
+espaço de publicidade. Só as posições
+ 
+
+111
+00:02:21,720 --> 00:02:24,270
+espaço de publicidade. Só as posições
+com preço ficam à venda para o cliente.
+
+112
+00:02:24,270 --> 00:02:24,280
+com preço ficam à venda para o cliente.
+ 
+
+113
+00:02:24,280 --> 00:02:25,869
+com preço ficam à venda para o cliente.
+Na área do cliente, em banners
+
+114
+00:02:25,869 --> 00:02:25,879
+Na área do cliente, em banners
+ 
+
+115
+00:02:25,879 --> 00:02:27,790
+Na área do cliente, em banners
+publicitários, ele vê os banners que
+
+116
+00:02:27,790 --> 00:02:27,800
+publicitários, ele vê os banners que
+ 
+
+117
+00:02:27,800 --> 00:02:30,070
+publicitários, ele vê os banners que
+estão no ar, em análise e aguardando o
+
+118
+00:02:30,070 --> 00:02:30,080
+estão no ar, em análise e aguardando o
+ 
+
+119
+00:02:30,080 --> 00:02:32,790
+estão no ar, em análise e aguardando o
+pagamento e clica em novo banner. Ele
+
+120
+00:02:32,790 --> 00:02:32,800
+pagamento e clica em novo banner. Ele
+ 
+
+121
+00:02:32,800 --> 00:02:35,190
+pagamento e clica em novo banner. Ele
+escolhe a página e a posição em cartões
+
+122
+00:02:35,190 --> 00:02:35,200
+escolhe a página e a posição em cartões
+ 
+
+123
+00:02:35,200 --> 00:02:37,589
+escolhe a página e a posição em cartões
+com o desenho do lugar exato. Escolhe
+
+124
+00:02:37,589 --> 00:02:37,599
+com o desenho do lugar exato. Escolhe
+ 
+
+125
+00:02:37,599 --> 00:02:40,149
+com o desenho do lugar exato. Escolhe
+por quanto tempo, envia a arte e vê o
+
+126
+00:02:40,149 --> 00:02:40,159
+por quanto tempo, envia a arte e vê o
+ 
+
+127
+00:02:40,159 --> 00:02:42,790
+por quanto tempo, envia a arte e vê o
+total. Ao clicar em pagar e publicar,
+
+128
+00:02:42,790 --> 00:02:42,800
+total. Ao clicar em pagar e publicar,
+ 
+
+129
+00:02:42,800 --> 00:02:45,430
+total. Ao clicar em pagar e publicar,
+ele paga por tics ou cartão. Depois de
+
+130
+00:02:45,430 --> 00:02:45,440
+ele paga por tics ou cartão. Depois de
+ 
+
+131
+00:02:45,440 --> 00:02:47,430
+ele paga por tics ou cartão. Depois de
+pago, o banner entra na sua fila de
+
+132
+00:02:47,430 --> 00:02:47,440
+pago, o banner entra na sua fila de
+ 
+
+133
+00:02:47,440 --> 00:02:49,790
+pago, o banner entra na sua fila de
+aprovação e você decide se ele vai ao
+
+134
+00:02:49,790 --> 00:02:49,800
+aprovação e você decide se ele vai ao
+ 
+
+135
+00:02:49,800 --> 00:02:52,229
+aprovação e você decide se ele vai ao
+ar. Assim, você pode gerenciar os
+
+136
+00:02:52,229 --> 00:02:52,239
+ar. Assim, você pode gerenciar os
+ 
+
+137
+00:02:52,239 --> 00:02:54,110
+ar. Assim, você pode gerenciar os
+banners por aqui ou deixar que os
+
+138
+00:02:54,110 --> 00:02:54,120
+banners por aqui ou deixar que os
+ 
+
+139
+00:02:54,120 --> 00:02:56,550
+banners por aqui ou deixar que os
+clientes contratem sozinhos. Seu portal
+
+140
+00:02:56,550 --> 00:02:56,560
+clientes contratem sozinhos. Seu portal
+ 
+
+141
+00:02:56,560 --> 00:03:00,680
+clientes contratem sozinhos. Seu portal
+vendendo publicidade o tempo todo.
+

@@ -1,6 +1,6 @@
 ---
 id: editorial-eventos
-titulo: agenda de eventos: cadastro, status e vigência
+titulo: "agenda de eventos: cadastro, status e vigência"
 publico:
   - administrador do portal
 modulo: Agenda de Eventos
