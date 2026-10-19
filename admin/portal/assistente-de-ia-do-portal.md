@@ -24,10 +24,10 @@ ligar ou desligar o assistente no site e ver o que os visitantes perguntam.
 
 ## passos
 
-1. Abra `Assistente de IA` na seção Sistema do menu (`/painel/assistente`).
-2. Marque ou desmarque `Mostrar o Assistente de IA`. Salva na hora.
-3. Escolha o período (7, 30 ou 90 dias).
-4. Veja as perguntas, as sem resultado, as palavras, cidades e as últimas perguntas.
+1. No menu da esquerda, na parte `Sistema`, clique em `Assistente de IA` (`/painel/assistente`).
+2. No quadro `Assistente de IA no site`, marque ou desmarque `Mostrar o Assistente de IA`. Não precisa salvar: muda na hora e aparece "Salvo!".
+3. Logo abaixo, em `O que os visitantes procuram no seu portal`, escolha o período nos botões `7 dias`, `30 dias` ou `90 dias`.
+4. Veja os quadros com o que as pessoas perguntaram: `Perguntas sem resultado`, `Palavras mais buscadas`, `Cidades citadas`, `Categorias mais pedidas`, `Onde mais procuram` e `Últimas perguntas`.
 
 ## resultado
 

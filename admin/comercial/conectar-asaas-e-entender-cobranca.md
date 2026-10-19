@@ -25,10 +25,11 @@ entender o que a conexão Asaas significa e onde conferir seu estado.
 
 ## passos
 
-1. Abra `Configurações` → `Cobrança` em `/painel/configuracoes/cobranca`.
-2. Consulte o estado da conexão. Se for conectar ou trocar uma chave, siga somente os campos e avisos exibidos na tela.
-3. Não compartilhe a chave em conversa, chamado ou com a IA.
-4. Para consultar faturas e ações de cobrança, abra `Financeiro` em `/painel/financeiro` e confira cada fatura separadamente.
+1. No menu da esquerda, na parte `Sistema`, clique em `Configurações` e depois em `Cobrança` (`/painel/configuracoes/cobranca`).
+2. No quadro `Conta Asaas`, veja se a conta está conectada ou `Não conectada`.
+3. Para conectar, siga as instruções da própria tela: entre na sua conta em asaas.com, gere a chave, cole no campo `Chave de API da sua conta Asaas` e clique em `Conectar`. Para conferir uma conta já ligada, use `Testar conexão`.
+4. Não mande essa chave para ninguém: nem em conversa, nem em chamado, nem para o assistente.
+5. Para ver as faturas e as cobranças, no menu da esquerda, na parte `Comercial`, clique em `Financeiro` (`/painel/financeiro`) e confira cada fatura.
 
 ## resultado
 

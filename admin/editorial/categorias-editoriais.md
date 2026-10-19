@@ -19,12 +19,13 @@ localizar e manter as categorias editoriais nos módulos corretos, considerando 
 acesso ao painel e permissão para administrar o módulo correspondente. Classificar conteúdo não concede acesso nem muda permissões.
 
 ## passos
-1. Para categorias de Notícias, abra `Categorias` em `/painel/noticias/categorias`.
-2. Para subcategorias de Notícias, use `/painel/noticias/subcategorias`.
-3. Para categorias de Artigos, abra `/painel/blog/categorias`.
-4. Para categorias de Turismo, abra `/painel/turismo/categorias`.
-5. Na tela de Notícias, use o formulário para informar nome e cor; confirme a mensagem antes de tentar salvar de novo.
-6. Antes de excluir ou desativar categoria, confira o aviso sobre conteúdo afetado e peça ajuda se houver dúvida sobre consequência.
+
+1. Para as categorias de notícias: no menu da esquerda, na parte `Conteúdo`, clique em `Notícias` e depois em `Gerenciar Categorias` (`/painel/noticias/categorias`).
+2. Para as subcategorias de notícias: no mesmo menu `Notícias`, clique em `Gerenciar Subcategorias` (`/painel/noticias/subcategorias`).
+3. Para as categorias de artigos: no menu `Artigos`, clique em `Categorias` (`/painel/blog/categorias`).
+4. Para as categorias de turismo: no menu `Guia Turístico / Eventos`, clique em `Categorias` (`/painel/turismo/categorias`).
+5. Na página de categorias de notícias, preencha o nome e escolha a `Cor` no quadro `Cadastrar Categoria` e clique em `Salvar`. Se aparecer uma mensagem de erro, leia antes de tentar de novo.
+6. Antes de excluir ou desligar uma categoria, leia o aviso que aparece sobre o que vai ser afetado. Se tiver dúvida, peça ajuda.
 
 ## resultado
 cada conteúdo usa categorias do seu módulo. Categoria inativa no Guia esconde empresas vinculadas; essa regra específica não deve ser extrapolada para categorias editoriais.

@@ -16,7 +16,7 @@ videos:
 
 ## objetivo
 
-enviar avisos para quem se inscreveu no portal e ver o resultado.
+enviar avisos para quem aceitou receber e ver quantas pessoas abriram.
 
 ## pré-requisitos
 
@@ -25,18 +25,20 @@ enviar avisos para quem se inscreveu no portal e ver o resultado.
 ## passos
 
 1. No menu da esquerda, na parte `Sistema`, clique em `Notificações Push` (`/painel/notificacoes`). No topo da página você vê quantas pessoas aceitaram receber avisos, quantos avisos já foram enviados no mês e quantas pessoas abriram.
-2. Para o site convidar visitantes a se inscrever, marque `Convidar visitantes a receber notificações`. Salva na hora.
-3. Em `Nova notificação`, preencha título (até 50 letras), mensagem (até 120) e o link (precisa começar com https).
-4. Escolha enviar agora ou agendar (data e hora) e clique no botão de enviar.
-5. Confirme. Depois de enviada, não dá para desfazer. No histórico dá para cancelar as agendadas.
+2. Para o site perguntar aos visitantes se querem receber avisos, marque a opção `Convidar visitantes a receber notificações`. Não precisa salvar: muda na hora.
+3. Logo abaixo, no quadro `Nova notificação`, escreva o `Título` (até 50 letras), a `Mensagem` (até 120 letras) e o `Link`, que é o endereço completo da página que vai abrir (começa com `https://` ou `http://`). Ao lado, você vê como o aviso vai aparecer no celular.
+4. Em `Quando`, escolha `Agora` ou `Agendar`. Se escolher `Agendar`, informe a data e a hora.
+5. Clique no botão `Enviar para…` (ou `Agendar para…`), que mostra quantas pessoas vão receber.
+6. Confirme na janela que aparece. Depois de enviado, o aviso não pode ser desfeito.
+7. Mais abaixo, no quadro `Histórico`, você vê o que já foi enviado e quantas pessoas abriram. Um aviso agendado ainda pode ser cancelado ali, no botão `Cancelar`.
 
 ## resultado
 
-a notificação chega aos inscritos; o histórico mostra entregues e quantos abriram.
+o aviso chega a quem aceitou receber; o `Histórico` mostra quantos receberam e quantos abriram.
 
 ## desvios
 
-- Se aparecer o aviso de que o envio não está disponível, o botão fica desativado.
+- Se aparecer o aviso de que o envio não está disponível, o botão de enviar fica apagado e não funciona.
 - Notificação enviada não volta.
 
 ## quando pedir ajuda

@@ -24,11 +24,11 @@ ver quem são seus clientes, o que contrataram e quando vence.
 
 ## passos
 
-1. Abra `Meus Clientes` (`/painel/clientes`) na seção Comercial.
-2. Veja os totais por situação (vencidos, vence em breve etc.) e use a busca ou o filtro de status.
-3. Para cadastrar, clique em `Novo cliente` e preencha nome, documento, telefone, WhatsApp e e-mail. Para mudar, edite na linha.
-4. Na linha também há ações como bloquear, trocar a senha e excluir. Abra a ficha do cliente para ver planos e faturas.
-5. `Exportar` gera um arquivo com os clientes.
+1. No menu da esquerda, na parte `Comercial`, clique em `Meus Clientes` (`/painel/clientes`).
+2. No topo da página você vê quantos clientes estão `Vencidos`, quantos vencem em 7 dias e em 30 dias. Use o campo `Buscar por nome, documento ou telefone…` ou o filtro de situação para achar alguém.
+3. Para cadastrar, clique em `Novo cliente` e preencha nome, documento (CPF ou CNPJ), telefone, WhatsApp e e-mail. Para mudar os dados, clique no lápis (`Editar`) na linha do cliente.
+4. Na linha do cliente também há os botões `Bloquear`, `Resetar senha` e `Excluir`. Clique no nome do cliente para ver os planos e as faturas dele.
+5. O botão `Exportar` baixa um arquivo com a lista de clientes.
 
 ## resultado
 

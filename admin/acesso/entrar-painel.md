@@ -28,11 +28,12 @@ orientar quem usa o login do painel administrativo e explicar recusas comuns sem
 
 ## passos
 
-1. Cada conta de administrador entra só no portal em que foi autorizada. Para entrar no painel de outro portal, peça ao responsável por esse portal que conceda a você a administração dele; esta tela não libera esse acesso.
-2. Abra `/painel/login`.
-3. Informe o e-mail e a senha cadastrados e escolha “Efetuar Login”.
-4. Se sua conta for de jornalista, cliente de negócio ou parceiro, use a área correspondente em vez do painel: jornalista e cliente entram pela área do cliente; parceiro usa `/parceiro/login`.
-5. Se houver mensagem de muitas tentativas, aguarde alguns minutos e tente uma vez novamente.
+1. Cada conta de administrador entra só no portal em que foi autorizada. Para entrar no painel de outro portal, peça ao responsável por esse portal que libere a administração para você; esta tela não libera esse acesso.
+2. Abra a página de entrada do painel, no endereço `/painel/login`.
+3. Escreva seu e-mail no campo `E-mail` e sua senha no campo `Senha`.
+4. Clique no botão `Efetuar Login`.
+5. Se você é jornalista, cliente (empresa) ou parceiro, não use o painel. Jornalista e cliente entram pela área do cliente (`/minha-conta/login`); parceiro entra em `/parceiro/login`.
+6. Se aparecer a mensagem de muitas tentativas, espere alguns minutos e tente só mais uma vez.
 
 ## resultado
 

@@ -23,10 +23,10 @@ encontrar uma empresa do Guia e acessar suas ações de cadastro ou situação.
 
 ## passos
 
-1. Abra `Guia Comercial` → `Listar Empresas` em `/painel/guia/empresas`.
-2. Use a busca, o filtro de categoria ou o filtro de situação para localizar a empresa.
-3. Para editar os dados, abra a empresa e use a opção de edição disponível na ficha administrativa.
-4. Para alterar a situação, use a ação correspondente na lista e confira o resultado antes de encerrar.
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas` (`/painel/guia/empresas`).
+2. No topo da lista, escreva o nome em `Buscar empresa...` ou escolha uma categoria e uma situação (`Todos os status`). Depois clique em `Buscar`.
+3. Para mudar os dados de uma empresa, clique no lápis (`Editar`) na linha dela.
+4. Para mudar a situação (`Pendente`, `Ativo`, `Inativo`, `Banido` ou `Reprovado`), escolha a nova opção na coluna `Status` da linha. Confira na lista se mudou.
 
 ## resultado
 

@@ -22,10 +22,12 @@ atualizar descrição, logo e contatos do perfil da empresa que visitantes veem.
 - estar na área de cliente autenticada. não há instruções de login neste artigo.
 
 ## passos
-1. na área do cliente, abra `Minha empresa`.
-2. atualize os campos: `Adicionar logo`, `Descrição da empresa`, `WhatsApp`, `E-mail de contato` e `Site`.
-3. revise o conteúdo antes de salvar.
-4. clique em `Salvar`. aparece a mensagem `Dados atualizados em todas as suas seções.`
+
+1. No menu da esquerda da sua área, na parte `Minha conta`, clique em `Minha empresa` (`/minha-conta/minha-empresa`).
+2. No quadro `Identidade`, clique em `Adicionar logo` para colocar a logo e escreva em `Descrição da empresa` o que sua empresa faz.
+3. No quadro `Contatos`, preencha o `WhatsApp`, o `E-mail de contato` e o `Site`.
+4. Confira o que escreveu. Esses dados aparecem em tudo o que você publica no portal.
+5. Clique em `Salvar`. Aparece a mensagem `Dados atualizados em todas as suas seções.`
 
 ## resultado esperado
 a área do cliente confirma o salvamento e, ao recarregar, os dados continuam lá. a tela lista onde o dado vale (`Vagas de Emprego`, `Classificados`). as informações atualizadas passam a compor o perfil público, respeitando o tempo de atualização da página.

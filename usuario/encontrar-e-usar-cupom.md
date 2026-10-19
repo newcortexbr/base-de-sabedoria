@@ -21,11 +21,12 @@ encontrar cupons publicados por empresas e conferir suas condições.
 - abrir `Cupons` no portal.
 
 ## passos
-1. no campo `Buscar cupom ou empresa...`, digite o nome da empresa ou do cupom e selecione `Buscar`.
-2. escolha uma categoria, se quiser restringir a lista.
-3. abra o cartão do cupom desejado.
-4. leia as condições e validade mostradas no próprio cupom.
-5. siga a forma de utilização indicada pela empresa.
+
+1. No topo da página `Cupons de Desconto`, escreva no campo `Buscar cupom ou empresa...` o nome da empresa ou do cupom e clique em `Buscar`.
+2. Se quiser ver só um tipo de loja, escolha uma categoria (ou deixe `Todas as categorias`).
+3. Na lista, clique em `Pegar cupom` no cupom que você quer.
+4. Leia as condições e até quando o cupom vale, que aparecem no próprio cupom. Use `Copiar` para copiar o código.
+5. Use o cupom do jeito que a empresa indicar (por exemplo, mostrando no estabelecimento).
 
 ## resultado esperado
 você localiza os cupons disponíveis que correspondem à busca e pode consultar os detalhes exibidos.

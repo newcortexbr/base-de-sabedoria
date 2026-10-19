@@ -21,11 +21,13 @@ cadastrar e administrar eventos da agenda. Agenda de Eventos é módulo separado
 A tela de eventos fica no painel. Acesso e módulo ativo dependem do portal e do papel atribuído; o guia não substitui essas permissões.
 
 ## passos
-1. Abra `Eventos` em `/painel/turismo/eventos`.
-2. Para criar ou editar, use as ações dessa tela. Informe título, datas, local/cidade, categoria, organizador e demais campos apresentados.
-3. Revise o status `No ar`, `Encerrado` ou `Inativo`. `Inativo` é escolha administrativa; `Encerrado` deriva da data.
-4. Na criação, salve primeiro o evento; a galeria de fotos e vídeos só pode ser enviada quando o registro tiver sido criado.
-5. Para fotos de evento existentes, acesse a rota de fotos ligada ao evento (`/painel/turismo/eventos/[id]/fotos`).
+
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Turístico / Eventos` e depois em `Eventos` (`/painel/turismo/eventos`).
+2. Para cadastrar, clique em `+ Novo Evento` no topo da página. Para mudar um evento que já existe, clique em `Editar` na linha dele.
+3. Preencha o `Título`, a `Data`, o `Horário`, o local, a cidade, a categoria, o `Organizador` e os outros campos que aparecem.
+4. Na parte `Galeria de fotos e vídeos`, adicione as fotos e os vídeos do YouTube. Num evento novo, eles são enviados assim que você salvar.
+5. Clique em `Salvar`.
+6. Na lista, veja a situação de cada evento: `No ar` (aparecendo no site), `Encerrado` (a data já passou) ou `Inativo` (você mesmo tirou do ar).
 
 ## resultado
 evento ativo permanece no ar segundo as datas reconhecidas pelo servidor; depois de vencido, sai do ar. Destaques e filtros públicos fazem parte do produto, mas a exibição depende também da configuração e da vigência.
@@ -47,3 +49,4 @@ peça ajuda se status e datas parecerem contraditórios, se a galeria não abrir
 
 ## lacunas
 A Epic de eventos não teve QA de navegador conforme `PRODUCT.md`; este conteúdo não declara validação visual. O rótulo exato das ações do formulário pode variar conforme estado.
+- revisão 2026-10-19: a galeria do evento agora fica dentro do formulário de edição; `/painel/turismo/eventos/[id]/fotos` só redireciona para a lista. Em evento novo, a galeria pode ser preenchida antes de salvar (envio ocorre após salvar).

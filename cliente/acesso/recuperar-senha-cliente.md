@@ -29,11 +29,12 @@ criar uma nova senha para uma conta elegível da área do cliente.
 
 ## passos
 
-1. Na tela de login, escolha “Esqueci minha senha”.
-2. Informe o e-mail do cadastro e solicite o código.
-3. Consulte o e-mail e informe os seis dígitos recebidos. O código vale por 15 minutos; se não chegar, use “Reenviar código”.
-4. Crie uma senha com pelo menos oito caracteres e repita-a.
-5. Salve. A tela tenta entrar com a nova senha; se isso não ocorrer, volte ao login e entre com ela.
+1. Na página de entrada (`/minha-conta/login`), clique em `Esqueci minha senha`, logo abaixo do campo da senha.
+2. Escreva o e-mail do cadastro em `E-mail do cadastro` e clique em `Enviar código`.
+3. Abra seu e-mail. Você recebe um código de 6 números, que vale por 15 minutos.
+4. Digite os 6 números na tela e clique em `Continuar`. Se o e-mail não chegou, clique em `Reenviar código`.
+5. Escreva a senha nova em `Nova senha` (pelo menos 8 letras ou números) e repita em `Repita a nova senha`.
+6. Clique em `Salvar e entrar`. Se a sua área não abrir sozinha, volte à página de entrada e entre com a senha nova.
 
 ## resultado
 

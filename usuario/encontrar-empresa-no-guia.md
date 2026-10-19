@@ -24,11 +24,12 @@ localizar empresas e serviços publicados no Guia Comercial.
 - saber o nome, ramo ou serviço que procura ajuda, mas não é obrigatório.
 
 ## passos
-1. abra `Guia Comercial` pelo menu do portal.
-2. no campo `Buscar por nome, categoria ou item do cardápio…`, digite o que procura.
-3. se o portal atender mais de uma cidade, escolha uma cidade nos filtros; se atender uma só, esse filtro pode não aparecer.
-4. para ver opções próximas, use `Perto de mim` e permita a localização no navegador, se desejar.
-5. consulte os resultados e abra o cartão da empresa que parece corresponder.
+
+1. No menu do topo do portal, clique em `Guia Comercial`.
+2. No campo `Buscar por nome, categoria ou item do cardápio…`, escreva o que você procura.
+3. Se o portal tiver mais de uma cidade, escolha a cidade nos filtros. Se tiver só uma, esse filtro pode não aparecer.
+4. Para ver empresas perto de você, clique em `Perto de mim` e deixe o navegador usar sua localização, se quiser.
+5. Veja os resultados e clique no cartão da empresa que você procura.
 
 ## resultado esperado
 é exibida uma lista de empresas compatíveis com a busca. a posição pode variar conforme destaque e plano; empresas grátis podem aparecer depois das pagas.

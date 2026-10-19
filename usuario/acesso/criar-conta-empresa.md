@@ -26,10 +26,11 @@ criar a conta ligada ao cadastro da empresa e entrar na área do cliente.
 
 ## passos
 
-1. Abra `/anuncie`.
-2. Preencha os dados solicitados no formulário de cadastro da empresa.
-3. Consulte o e-mail informado e digite os seis dígitos de confirmação no formulário.
-4. Após a criação, use “Entrar na minha conta” para acessar `/minha-conta/login`.
+1. Abra a página `Anuncie Aqui` do portal, no endereço `/anuncie`.
+2. Desça até o formulário de cadastro e preencha seus dados: nome, `E-mail`, `WhatsApp`, `Senha` e os dados da empresa que forem pedidos.
+3. Clique no botão de criar conta, no fim do formulário.
+4. Abra seu e-mail. Você recebe um código de 6 números. Digite esses números no quadro `Confirme seu e-mail`. Se não chegou, clique em `Reenviar código`.
+5. Quando aparecer `Conta criada!`, clique em `Entrar na minha conta` para ir à página de entrada (`/minha-conta/login`).
 
 ## resultado
 

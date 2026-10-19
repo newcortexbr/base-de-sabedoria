@@ -21,10 +21,11 @@ consultar a área `Cupons` associada à empresa.
 - estar na área de cliente autenticada e ter vínculo com a empresa.
 
 ## passos
-1. abra `Cupons` na área do cliente.
-2. consulte os cupons que a tela apresentar para a empresa.
-3. use as opções da tela, se estiverem disponíveis, para criar ou editar um cupom próprio.
-4. confira as informações antes de salvar.
+
+1. No menu da esquerda da sua área, na parte `O que eu publico`, logo abaixo de `Guia Comercial`, clique em `Cupons` (`/minha-conta/cupons`). Essa opção só aparece se o seu plano do Guia inclui cupom.
+2. Na página, veja o seu `Cupom de desconto` e a situação dele (`No ar`, `Não publicado` ou `Vencido`). Cada empresa tem um cupom só.
+3. Preencha ou mude a `Foto de capa do cupom`, o `Código do cupom`, o `Tipo de desconto` (`Percentual (%)` ou `Valor fixo (R$)`), o `Valor do cupom`, as condições e a data em `Cupom vale até`.
+4. Confira tudo e clique em `Salvar cupom`. Aparece a mensagem `Salvo.`
 
 ## resultado esperado
 a tela da área do cliente mostra a gestão de cupons disponível para a empresa vinculada.

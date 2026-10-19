@@ -24,10 +24,11 @@ criar, editar e remover cupons de qualquer empresa do Guia, em nome do lojista.
 
 ## passos
 
-1. Abra `Cupons de Desconto` (`/painel/cupons`). A lista mostra empresa, código, desconto e validade; cupom vencido aparece marcado.
-2. Para criar, clique em `Novo cupom` e escolha a empresa. Cada empresa tem um cupom só; empresas que já têm não aparecem para escolher.
-3. Preencha foto de capa, código, desconto, descrição, condições, tipo (percentual ou valor fixo), valor e validade.
-4. Salve. Para mudar, use `Editar` na linha; para tirar, `Remover`.
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Cupons de Desconto` (`/painel/cupons`). A lista mostra a empresa, o código, o desconto e a validade. Cupom vencido aparece marcado.
+2. Para criar, clique em `Novo cupom` e escolha a `Empresa`. Cada empresa só pode ter um cupom; por isso, as que já têm não aparecem na lista.
+3. Preencha a `Foto de capa do cupom`, o `Código`, a descrição, as condições de uso, o `Tipo de desconto` (`Percentual (%)` ou `Valor fixo (R$)`), o `Valor` e a `Validade`.
+4. Clique em `Salvar cupom`.
+5. Para mudar um cupom, clique em `Editar` na linha dele. Para apagar, clique em `Remover`.
 
 ## resultado
 

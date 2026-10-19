@@ -23,11 +23,12 @@ encontrar vagas e consultar como a empresa responsável recebe candidaturas.
 - estar no portal que atende a cidade ou região desejada.
 
 ## passos
-1. abra `Vagas de Emprego` pelo menu do portal.
-2. no campo `Cargo, área ou empresa…`, informe um termo.
-3. use os filtros disponíveis, como cidade, tipo de contrato, `Home office`, `PCD`, `Primeiro emprego` ou `Urgente`.
-4. abra a vaga de interesse e leia os requisitos e as instruções de contato/candidatura que ela apresenta.
-5. siga o canal ou instrução publicado pela vaga; confirme os dados diretamente com o contratante se houver dúvida.
+
+1. No menu do topo do portal, clique em `Vagas`. Abre a página `Vagas de Emprego`.
+2. No campo `Cargo, área ou empresa…`, escreva o que você procura.
+3. Use os filtros da página, como cidade, tipo de contrato (`CLT`, `Estágio`, `PJ / Autônomo`…) e os botões rápidos como home office, PCD, primeiro emprego ou urgente.
+4. Clique na vaga que te interessa e leia os requisitos e como se candidatar.
+5. Use o botão ou o contato que a vaga mostra (por exemplo, `Enviar currículo`). Se tiver dúvida, confirme direto com quem está contratando.
 
 ## resultado esperado
 você localiza vagas compatíveis e encontra na página da vaga as informações que o contratante publicou. este guia não presume envio de currículo dentro do portal.

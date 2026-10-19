@@ -24,11 +24,12 @@ decidir o que os clientes enviam antes de ir ao ar e acompanhar as denúncias fe
 
 ## passos
 
-1. Abra `Aprovações e Denúncias` no menu (`/painel/aprovacoes`).
-2. Na parte de cima, use `Exigir minha aprovação antes de publicar` para ligar ou desligar a fila. A mudança salva na hora.
-3. Use `Permitir que visitantes denunciem conteúdo` para ligar ou desligar o botão de denúncia no site.
-4. Na aba `Aprovações`, use `Ver detalhe` para conferir o conteúdo e depois `Aprovar` ou `Recusar`. Ao recusar, escreva o motivo (obrigatório).
-5. Na aba `Denúncias`, filtre por situação (pendentes, resolvidas, ignoradas) e por módulo, e abra a denúncia para ver o detalhe.
+1. No menu da esquerda, logo no começo, clique em `Aprovações e Denúncias` (`/painel/aprovacoes`).
+2. No topo da página, no quadro `Como funciona neste portal`, marque ou desmarque `Exigir minha aprovação antes de publicar`. Marcado, o que os clientes enviam só vai ao ar depois que você aprovar. Muda na hora.
+3. No mesmo quadro, marque ou desmarque `Permitir que visitantes denunciem conteúdo`. Desmarcado, o botão "Denunciar" some do site.
+4. Na aba `Aprovações`, clique em `Ver detalhe` para ver o que o cliente enviou.
+5. Clique em `Aprovar` para colocar no ar, ou em `Recusar`. Ao recusar, escreva o motivo (é obrigatório) e clique em `Confirmar recusa`.
+6. Na aba `Denúncias`, escolha quais quer ver (`Pendentes`, `Resolvidas`, `Ignoradas` ou `Todos`) e de qual parte do site (`Guia`, `Vagas`, `Classificados`, `Eventos`). Clique na denúncia para ver os detalhes.
 
 ## resultado
 

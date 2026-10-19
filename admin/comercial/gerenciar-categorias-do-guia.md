@@ -23,10 +23,10 @@ acessar as categorias do Guia para revisar sua configuração.
 
 ## passos
 
-1. No painel, abra `Guia` → `Categorias`, rota `/painel/guia/categorias`.
-2. Localize a categoria que deseja revisar.
-3. Antes de desativar uma categoria, verifique se há empresas vinculadas e considere movê-las para outra categoria.
-4. Use as ações apresentadas na tela e confira a confirmação do sistema.
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Gerenciar Categorias` (`/painel/guia/categorias`).
+2. Procure na lista a categoria que você quer ver. A coluna `Empresas` mostra quantas empresas estão nela.
+3. Antes de desligar uma categoria, veja se há empresas nela. Se houver, pense em passar essas empresas para outra categoria, porque elas somem do site junto com a categoria.
+4. Para mudar, clique em `Editar` na linha. Para criar uma nova, clique em `+ Nova Categoria`. Clique em `Salvar` e confira a mensagem que aparece.
 
 ## resultado
 

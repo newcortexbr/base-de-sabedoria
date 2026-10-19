@@ -24,11 +24,12 @@ trazer notícias de outros sites automaticamente, por fontes de RSS.
 
 ## passos
 
-1. Abra `Notícias Automáticas` → `Fontes de RSS` (`/painel/noticias/fontes-rss`). A lista mostra a última atualização de cada fonte.
-2. Para adicionar, clique em cadastrar. Você pode escolher uma fonte pronta do catálogo, que já preenche o formulário.
-3. Confira título, endereço do RSS, quantidade de notícias por vez, status e categoria. Use a verificação do endereço antes de salvar.
-4. Salve. Você volta para a lista.
-5. Na lista, ative ou desative uma fonte, edite ou exclua.
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Notícias Automáticas` e depois em `Fontes de RSS` (`/painel/noticias/fontes-rss`). A lista mostra cada site de onde vêm as notícias e, na coluna `Última Atualização`, quando ele trouxe notícias pela última vez.
+2. Para adicionar, clique no botão `+ Cadastrar RSS` no topo da lista.
+3. Na aba `Escolher da lista`, marque os sites prontos que você quer (por exemplo, do Portal G1) e clique em `Adicionar`.
+4. Se o site que você quer não está na lista, clique na aba `Colar endereço`. Preencha o `Título`, cole o endereço em `URL do RSS` e escolha a `Quantidade de notícias por vez` e o `Status`. Ao sair do campo do endereço, o sistema confere sozinho se ele funciona.
+5. Clique em `Salvar`. Você volta para a lista.
+6. Na lista, clique na situação da fonte para ligar ou desligar. Use o lápis para editar e a lixeira para excluir.
 
 ## resultado
 
@@ -51,3 +52,4 @@ peça ajuda se a página não carregar, se o salvamento der erro ou se a opção
 ## lacunas
 
 não foi feita validação visual no navegador. Os textos dos botões podem mudar.
+- revisão 2026-10-19: o formulário não tem mais campo de categoria (o artigo antigo citava). A conferência do endereço é automática ao sair do campo, não há botão de verificar. O catálogo adiciona direto pelo botão `Adicionar`, não preenche o formulário.

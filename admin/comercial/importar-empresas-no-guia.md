@@ -24,11 +24,11 @@ cadastrar várias empresas de uma vez, usando o arquivo gerado pelo extrator do 
 
 ## passos
 
-1. Abra o Guia Comercial e vá em importar (`/painel/guia/empresas/importar`).
-2. Envie o arquivo da lista.
-3. Na revisão, ligue cada categoria do arquivo a uma categoria do Guia.
-4. Inicie a importação e aguarde terminar. Se parar com erro, dá para continuar.
-5. Ao final, confira as empresas criadas. As importações anteriores ficam listadas e podem ser reabertas.
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. No topo da página, clique no botão `Importar do Google Maps` (`/painel/guia/empresas/importar`).
+2. No quadro `Enviar planilha`, escolha o arquivo "Base para Portal" que o extrator do Google Maps gerou. Espere a mensagem "Enviando e processando a planilha..." terminar.
+3. Na revisão, para cada categoria que veio do arquivo, escolha em `Escolha a categoria` qual categoria do Guia ela vai usar.
+4. Clique em `Importar … empresas` e espere terminar. Se parar no meio por erro, use `Continuar`.
+5. No final, clique em `Ver empresas` para conferir. Mais abaixo, em `Importações anteriores`, ficam as importações já feitas, que podem ser abertas de novo.
 
 ## resultado
 

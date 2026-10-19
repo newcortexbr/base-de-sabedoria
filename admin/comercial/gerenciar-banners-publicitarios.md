@@ -24,10 +24,12 @@ criar e controlar os banners de publicidade do portal.
 
 ## passos
 
-1. Abra `Banners Publicitários` (`/painel/guia/banners`). Use os filtros de página, formato, situação e busca.
-2. Para criar, clique em cadastrar. Envie a imagem (obrigatória) e preencha título, endereço de destino, posição e datas de início e fim.
-3. Se o banner foi vendido por fora, preencha os dados da venda (empresa, valor, contato). Veja a prévia ao lado.
-4. Salve. Na lista, ative ou desative, edite ou exclua (com confirmação).
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Banners Publicitários` (`/painel/guia/banners`). No topo da lista, você pode filtrar por `Página`, `Formato`, `Situação` ou buscar pelo título.
+2. Para criar, clique no botão `+ Cadastrar banner`.
+3. Envie a imagem do banner (é obrigatória) e preencha o título, o endereço que vai abrir ao clicar, a `Posição` (onde o banner aparece) e as datas de início e fim.
+4. Se o banner foi vendido por fora do sistema, preencha o quadro `Dados da venda` (empresa, valor, contato). Ao lado, você vê como o banner vai ficar.
+5. Salve.
+6. Na lista, use `Ativar` ou `Desativar` para colocar ou tirar do ar sem apagar, `Editar` para mudar e `Excluir` para apagar (o sistema pede confirmação).
 
 ## resultado
 

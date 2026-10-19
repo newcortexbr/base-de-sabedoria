@@ -22,11 +22,14 @@ orientar a criação e consulta de artigos, sem confundir Artigos (`blog` no có
 O administrador usa `/painel/blog`. O colunista usa a área do cliente (`/minha-conta`), não o painel. O backend autoriza cada operação; este artigo não concede acesso.
 
 ## passos
-1. Abra `Artigos` em `/painel/blog` para consultar a lista e filtrar por estado, colunista, categoria ou texto.
-2. Para criar, use `Novo artigo` em `/painel/blog/novo`.
-3. Selecione o colunista que assina o texto, preencha os campos apresentados e salve.
-4. Volte à lista para conferir estado e conteúdo; use o detalhe do artigo (`/painel/blog/[id]`) para consultar ou editar conforme as ações oferecidas.
-5. Para categorias, abra `/painel/blog/categorias`; colunistas são administrados em `/painel/blog/colunistas`.
+
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Artigos` e depois em `Lista de Artigos` (`/painel/blog`). Ali aparecem todos os artigos, com campos no topo para procurar por título, situação, colunista ou categoria.
+2. Para escrever um novo, clique no botão `+ Novo Artigo` no topo da lista, ou no menu em `Novo Artigo` (`/painel/blog/novo`).
+3. Na página `Cadastrar Artigo`, escolha em `Colunista` quem assina o texto.
+4. Preencha o título, o texto e os outros campos da página.
+5. Clique em `Publicar` (ou `Salvar`, quando o artigo vai ficar guardado como rascunho).
+6. Volte à `Lista de Artigos` e confira a coluna `Status`. Para mudar um artigo, clique no ícone de editar na linha dele (`/painel/blog/[id]`).
+7. Para cuidar das categorias, clique em `Categorias` no menu de `Artigos` (`/painel/blog/categorias`). Para cuidar dos colunistas, clique em `Colunistas` (`/painel/blog/colunistas`).
 
 ## resultado
 os estados da lista são `Rascunho`, `Agendado`, `Publicado` e `Arquivado`. Artigo criado pelo administrador como colunista da casa pode ser publicado diretamente. Ao escolher colunista não pertencente à casa, a criação gera rascunho; o colunista pagante publica pela área do cliente.

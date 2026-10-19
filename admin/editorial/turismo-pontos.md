@@ -21,12 +21,13 @@ cadastrar e localizar pontos turísticos e entender o vínculo com categorias.
 acesse pelo painel do portal com permissão de administração e módulo Turismo disponível. O acesso é decidido pelo servidor.
 
 ## passos
-1. Abra `Pontos Turísticos` em `/painel/turismo/pontos`.
-2. Use `+ Novo Ponto` (`/painel/turismo/pontos/novo`) para cadastrar.
-3. Preencha os campos do formulário, incluindo local e categoria quando aplicável, e salve.
-4. Use `Buscar` para localizar um ponto pelo nome.
-5. Use `Categorias` para abrir `/painel/turismo/categorias`; `Roteiros` e `Eventos` têm telas próprias.
-6. Abra a galeria do ponto pela ação correspondente na ficha existente (`/painel/turismo/pontos/[id]/fotos`).
+
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Turístico / Eventos` e depois em `Pontos Turísticos` (`/painel/turismo/pontos`).
+2. Para cadastrar, clique no botão `+ Novo Ponto` no topo da página (`/painel/turismo/pontos/novo`).
+3. Preencha os campos da página `Novo Ponto Turístico`, como nome, cidade e categoria, e salve.
+4. Para achar um ponto, escreva o nome no campo `Buscar ponto turístico...` e clique em `Buscar`.
+5. No topo da página há também os botões `Categorias` (`/painel/turismo/categorias`), `Roteiros` e `Eventos`, que levam às outras telas de turismo.
+6. Para mudar as fotos de um ponto, clique em `Editar` na linha dele (`/painel/turismo/pontos/[id]`) e use a parte `Galeria de fotos e vídeos`.
 
 ## resultado
 A listagem mostra nome, categoria, cidade e status. Um ponto pode ter imagens e a galeria deve ser gerenciada pela tela correspondente, não por nomes de arquivo improvisados.

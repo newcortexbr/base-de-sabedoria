@@ -29,10 +29,11 @@ atualizar as informações básicas e a aparência do portal no painel.
 
 ## passos
 
-1. Abra `Configurações` em `/painel/configuracoes` para editar informações gerais, como nome, contatos e redes sociais.
-2. Para identidade visual, abra `Configurações` → `Layout` em `/painel/configuracoes/layout`.
-3. Escolha a área que deseja ajustar, como `Topo`, `Tela Início`, `Cores` ou `Rodapé`.
-4. Faça a alteração e use a ação de salvar apresentada na própria página. Confirme a mensagem de sucesso antes de sair.
+1. No menu da esquerda, na parte `Sistema`, clique em `Configurações` e depois em `Configurações Gerais` (`/painel/configuracoes`). Ali você muda o `Nome do portal`, a `Logo do portal`, o `E-mail de contato`, o `Telefone`, o `WhatsApp` e as `Redes Sociais`.
+2. Depois de mudar um quadro, clique no botão `Salvar` dele (por exemplo, `Salvar Redes Sociais`).
+3. Para mudar a aparência do site, no mesmo menu `Configurações`, clique em `Layout` (`/painel/configuracoes/layout`).
+4. Escolha a parte que quer ajustar: `Topo`, `Tela Início`, `Cores` ou `Rodapé`.
+5. Faça a mudança e clique no botão de salvar da própria página (por exemplo, `Salvar Topo` ou `Salvar cores`). Espere a mensagem de que deu certo antes de sair.
 
 ## resultado
 

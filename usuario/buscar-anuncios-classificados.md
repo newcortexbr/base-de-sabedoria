@@ -23,11 +23,12 @@ encontrar anúncios de produtos, imóveis, veículos ou serviços.
 - abrir a seção `Classificados` do portal.
 
 ## passos
-1. no campo `O que você procura?`, digite o nome do item ou serviço e clique em `Buscar` (a tecla Enter não aplicou a busca no teste).
-2. escolha uma `Categoria` se quiser restringir a busca.
-3. escolha uma `Condição`, uma opção em `Troca` ou a ordenação, se esses filtros forem úteis.
-4. se estiver dentro de uma categoria, refine por subcategoria ou faixa de preço (`Mín.` e `Máx.`) no bloco `Filtrar resultados` e clique em `Aplicar filtros`.
-5. abra um anúncio para ler os detalhes e usar o contato que o anunciante publicou.
+
+1. No topo da página de `Classificados`, escreva no campo `O que você procura?` o nome do item ou serviço e clique em `Buscar`. (No teste, apertar Enter não fez a busca.)
+2. Se quiser ver só um tipo de anúncio, escolha uma categoria (ou deixe `Todas as categorias`).
+3. Se ajudar, escolha também a condição do item (por exemplo `Qualquer condição`), se aceita troca (`Troca: tanto faz`, `Aceita troca`, `Não aceita troca`) e a ordem dos resultados.
+4. Dentro de uma categoria, use o quadro `Filtrar resultados`, ao lado da lista, para escolher subcategoria ou faixa de preço (`Mín.` e `Máx.`). Depois clique em `Aplicar filtros`.
+5. Clique num anúncio para ver os detalhes e o contato que o anunciante deixou.
 
 ## resultado esperado
 são mostrados anúncios que correspondem aos filtros. o anúncio pode informar botão para ligar ou outros dados de contato.

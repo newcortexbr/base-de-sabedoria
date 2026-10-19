@@ -21,11 +21,13 @@ consultar vagas próprias e seus estados na área de cliente.
 - este artigo não trata de acesso, cadastro de conta ou plano.
 
 ## passos
-1. abra `Vagas de Emprego` na área do cliente (menu lateral ou cartão do `Início`; sem plano contratado ela aparece só como cartão em `Complete seu cadastro`).
-2. consulte `Minhas vagas` e use as abas de situação (`Todas`, `Ativa`, `Pausada`, `Aguardando aprovação`, `Reprovada`, `Encerrada`).
-3. para alterar uma vaga, clique no item da lista (abre `Editar vaga`). ícones por vaga: pausar/reativar e excluir.
-4. altere e clique em `Salvar alterações` (mensagem `Alterações salvas`).
-5. para criar, clique em `Nova vaga`. na primeira vez, aparece antes `Complete seu cadastro` (`Salvar e continuar` ou `Preencher depois`). obrigatórios: título, cidade e descrição, mais WhatsApp, e-mail ou link. clique em `Publicar vaga`.
+
+1. No menu da esquerda da sua área, na parte `O que eu publico`, clique em `Vagas de Emprego` (`/minha-conta/vagas`). Também dá para entrar pelo cartão na página `Início`. Se você ainda não tem plano, ela aparece só como um cartão em `Complete seu cadastro`.
+2. Em `Minhas vagas`, use as abas no topo da lista para ver só um tipo (`Todas`, `Ativa`, `Pausada`, `Aguardando aprovação`, `Reprovada`, `Encerrada`).
+3. Para mudar uma vaga, clique nela na lista; abre a página `Editar vaga`. Em cada vaga também há os botões de pausar ou reativar e de excluir.
+4. Faça as mudanças e clique em `Salvar alterações`. Aparece a mensagem `Alterações salvas`.
+5. Para criar, clique em `Nova vaga`. Na primeira vez aparece antes a página `Complete seu cadastro` (`Salvar e continuar` ou `Preencher depois`).
+6. Preencha pelo menos o título, a cidade e a descrição da vaga, mais um jeito de receber candidatos (WhatsApp, e-mail ou link). Clique em `Publicar vaga`.
 
 ## resultado esperado
 são exibidas somente as vagas associadas ao cliente. os estados podem incluir `Ativa`, `Pausada`, `Aguardando aprovação`, `Reprovada` ou `Encerrada`.

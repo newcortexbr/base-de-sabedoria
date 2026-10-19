@@ -25,11 +25,13 @@ acessar a área de parceiro ou recuperar a senha usada nessa área.
 
 ## passos
 
-1. Abra `/parceiro/login`.
-2. Informe o e-mail e a senha da conta de representante e escolha “Entrar”.
-3. Para recuperar a senha, escolha “Esqueci minha senha”, informe o e-mail e solicite o código.
-4. Digite os seis dígitos recebidos por e-mail. O código vale por 15 minutos.
-5. Crie e repita a senha nova. Volte ao login e entre com a senha nova.
+1. Abra a página de entrada do representante, no endereço `/parceiro/login`.
+2. Escreva seu e-mail em `E-mail` e sua senha em `Senha`, e clique em `Entrar`.
+3. Se esqueceu a senha, clique em `Esqueci minha senha`, logo abaixo do botão `Entrar`.
+4. Escreva o e-mail do cadastro e clique em `Enviar código`.
+5. Abra seu e-mail, digite na tela o código de 6 números (vale por 15 minutos) e clique em `Continuar`. Se não chegou, clique em `Reenviar código`.
+6. Escreva a senha nova em `Nova senha`, repita em `Repita a nova senha` e clique em `Salvar nova senha`.
+7. Volte à página de entrada e entre com a senha nova.
 
 ## resultado
 

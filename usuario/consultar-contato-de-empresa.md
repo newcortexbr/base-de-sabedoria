@@ -21,10 +21,11 @@ ver os meios de contato e informações disponíveis no perfil público de uma e
 - localizar a empresa pelo Guia Comercial.
 
 ## passos
-1. abra o perfil da empresa a partir do cartão nos resultados.
-2. confira as informações de endereço, horário e descrição que estiverem disponíveis (sem horário cadastrado aparece `Horário não informado`).
-3. use os botões `WhatsApp` ou `Telefone`, ou outro link de contato exibido no perfil, se disponível.
-4. se o perfil tiver link para cardápio, serviços ou delivery, abra-o para consultar aquela informação.
+
+1. Nos resultados do `Guia Comercial`, clique no cartão da empresa para abrir a página dela.
+2. Na página da empresa, veja o endereço, o horário de funcionamento e a descrição. Se a empresa não informou horário, aparece `Horário não informado`.
+3. Para falar com a empresa, clique nos botões `WhatsApp` ou `Telefone`, ou em outro contato que aparecer na página.
+4. Se a página tiver botão de cardápio, serviços ou delivery (por exemplo, `Pedir pelo Delivery Online`), clique nele para ver essas informações.
 
 ## resultado esperado
 você vê as informações públicas liberadas para aquela empresa e pode iniciar contato pelo canal exibido.

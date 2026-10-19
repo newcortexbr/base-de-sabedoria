@@ -24,11 +24,11 @@ aprovar ou reprovar os pedidos de orçamento enviados por visitantes.
 
 ## passos
 
-1. Abra `Orçamentos Online` → `Todas as Solicitações`.
-2. Veja os totais no topo (aguardando aprovação, aprovados, encerrados, reprovados) e use os filtros de status, categoria e datas.
-3. Abra uma solicitação para ver descrição, fotos e contato.
-4. Use `Aprovar e enviar` para entregar o pedido às empresas da categoria, ou `Reprovar` para não enviar a ninguém.
-5. Para vários de uma vez, marque as linhas e use os botões em lote (aprovar, reprovar, encerrar, excluir).
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Orçamentos Online` e depois em `Todas as Solicitações` (`/painel/orcamentos/categorias`).
+2. No topo da página você vê quantos pedidos estão aguardando aprovação, quantos foram aprovados, encerrados e reprovados. Logo abaixo, filtre por situação, categoria ou datas.
+3. Clique em `Ver detalhes` num pedido para ler a descrição, ver as fotos e o contato de quem pediu.
+4. Clique em `Aprovar e enviar` para mandar o pedido às empresas daquela categoria, ou em `Reprovar` para não mandar a ninguém.
+5. Para cuidar de vários pedidos de uma vez, marque a caixinha de cada linha e use os botões que aparecem para aprovar, reprovar, encerrar ou excluir todos juntos.
 
 ## resultado
 

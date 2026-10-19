@@ -22,10 +22,13 @@ cadastrar e acompanhar notícias no portal, entendendo a diferença entre rascun
 O administrador do portal gerencia conteúdo pelo painel. Jornalista não entra em `/painel`: usa a área do cliente em `/minha-conta` e só tem as rotas de Notícias autorizadas ao seu papel. Ter um menu visível não concede permissão; o servidor decide o acesso.
 
 ## passos
-1. No painel, abra `Notícias` (`/painel/noticias`).
-2. Para iniciar conteúdo, use `Cadastrar notícia` (`/painel/noticias/cadastrar`). Preencha os campos apresentados e salve/publica conforme o botão disponível.
-3. Na listagem, use busca, status, categoria, subcategoria e intervalo de publicação para localizar conteúdo.
-4. Use `Editar` para corrigir matéria. O estado da lista é a referência: `rascunho`, `agendado` ou `publicado`.
+
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Notícias` e depois em `Listar Notícias` (`/painel/noticias`).
+2. Para escrever uma notícia nova, clique no botão `+ Cadastrar Notícia` no topo da lista, ou no menu em `Cadastrar Notícia` (`/painel/noticias/cadastrar`).
+3. Preencha os campos da página e clique em `Salvar`.
+4. Para achar uma notícia, use o topo da lista: o campo `Buscar por título...`, a caixa `Todos os status`, a categoria, a subcategoria e as datas de publicação.
+5. Para corrigir uma notícia, clique no ícone de lápis (`Editar`) na linha dela.
+6. Confira a coluna `Status`: `Rascunho` (guardada, fora do ar), `Publicado` (no ar) ou `agendado` (vai entrar no ar na data marcada).
 
 ## resultado
 A lista reflete o estado do conteúdo. Uma notícia marcada como publicada, mas com data futura, aparece como `agendado` e fica escondida do público até a data chegar.

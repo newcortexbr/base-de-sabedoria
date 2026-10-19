@@ -24,10 +24,10 @@ acompanhar e dar andamento aos relatos enviados pelos moradores.
 
 ## passos
 
-1. Abra `A Voz do Povo` → denúncias (`/painel/utilidade/denuncias`). Por padrão aparecem os relatos em aberto.
-2. Use o filtro de status (em aberto, recebida, em análise, resolvida, arquivada, todos).
-3. Em cada linha, use `Em análise`, `Resolvida` ou `Arquivar`. Se errar, use `Desfazer`.
-4. Clique em `Ver detalhes` para ler o relato, ver fotos, vídeo, áudio e o contato, e mudar o status.
+1. No menu da esquerda, na parte `Conteúdo`, clique em `A Voz do Povo` e depois em `Denúncias` (`/painel/utilidade/denuncias`). A lista já abre mostrando os relatos que ainda estão em aberto.
+2. No topo da lista, use a caixa de seleção para ver só um tipo: `Em aberto`, `Recebida`, `Em análise`, `Resolvida`, `Arquivada` ou `Todos os status`.
+3. Em cada relato, clique em `Em análise`, `Resolvida` ou `Arquivar` para mudar a situação dele. Se clicou errado, use `Desfazer`, que aparece logo em seguida.
+4. Clique em `Ver detalhes` para ler o relato completo, ver as fotos, o vídeo, o áudio e o contato do morador, e mudar a situação.
 
 ## resultado
 

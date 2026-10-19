@@ -25,11 +25,11 @@ consultar faturas de clientes e entender a diferença entre acompanhar, cobrar e
 
 ## passos
 
-1. Abra `Financeiro` em `/painel/financeiro`.
-2. Escolha uma das abas `A vencer`, `Vencidas`, `Pagas` ou `Canceladas`.
-3. Use os filtros e localize a fatura correta.
-4. Confira o registro e as informações exibidas antes de qualquer ação. Se o cliente já pagou por fora, siga apenas a ação de confirmação que a tela oferecer.
-5. Se precisar enviar ou gerar cobrança, verifique a situação do Asaas e os avisos da fatura antes de continuar. Em caso de dúvida, pare e peça orientação humana.
+1. No menu da esquerda, na parte `Comercial`, clique em `Financeiro` (`/painel/financeiro`). No topo da página você vê quanto há `A receber dos clientes` e, se houver, quanto você tem `A pagar` a parceiros.
+2. Logo abaixo, clique numa das abas para ver as faturas: `A vencer`, `Vencidas`, `Pagas` ou `Canceladas`.
+3. Para achar uma fatura, escreva o nome do cliente em `Buscar por cliente…` ou use os filtros de datas, de módulo e `Como paga`.
+4. Confira as informações da linha da fatura antes de fazer qualquer coisa. Se o cliente pagou por fora (dinheiro, transferência), use só o botão `Já recebi`, quando ele aparecer.
+5. Se precisar mandar a cobrança, veja primeiro os avisos da linha (por exemplo, `Cobrança ainda não enviada`) e use os botões que aparecem ali, como `Enviar agora`, `Copiar link de pagamento` ou `Cobrar pelo WhatsApp`. Em caso de dúvida, pare e peça ajuda a uma pessoa.
 
 ## resultado
 

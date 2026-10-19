@@ -21,11 +21,13 @@ orientar o uso de capas e galerias vinculadas a conteúdo editorial, sem presumi
 abra o formulário ou registro do próprio conteúdo e use as opções de mídia ali disponíveis. O acesso é limitado pelo papel e pelo servidor; artigo de suporte não autoriza uma ação.
 
 ## passos
-1. Em notícia ou artigo, use o campo de imagem/capa do próprio formulário.
-2. Para evento, ponto turístico ou roteiro já cadastrado, abra as fotos/galeria do registro pela respectiva lista.
-3. Em evento novo, salve primeiro os dados do evento; a galeria de fotos e vídeos só fica disponível após o registro receber um identificador.
-4. Use o controle de galeria existente para adicionar ou remover itens, e salve as alterações.
-5. Ao incluir vídeo em galeria de Turismo, use link de YouTube quando o formulário aceitar essa opção.
+
+1. Em notícia ou artigo, use o campo da foto de capa que fica no próprio formulário da notícia ou do artigo.
+2. Em evento, ponto turístico ou roteiro, abra a lista da tela correspondente e clique em `Editar` no item.
+3. Dentro do formulário, desça até a parte `Galeria de fotos e vídeos`.
+4. Adicione ou remova fotos ali. Num evento novo, as fotos são enviadas assim que você salvar o evento.
+5. Para colocar um vídeo, cole o link do YouTube no campo de vídeo da galeria.
+6. Clique em `Salvar`.
 
 ## resultado
 A mídia fica associada ao registro em edição. Remover uma imagem por campo/formulário não é a mesma coisa que apagar arquivos manualmente; a limpeza de arquivos segue proteção contra referências compartilhadas.
@@ -48,3 +50,4 @@ peça ajuda se upload falhar, a prévia desaparecer após salvar, ou remoção a
 
 ## lacunas
 não verificado visualmente nem por upload real. Formatos e limites variam por formulário e não foram generalizados.
+- revisão 2026-10-19: galerias de evento, ponto e roteiro ficam dentro do formulário de edição; as rotas `[id]/fotos` de evento e roteiro só redirecionam.

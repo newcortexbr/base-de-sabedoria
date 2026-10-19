@@ -21,11 +21,12 @@ consultar uma loja com delivery e acompanhar um pedido quando houver código de 
 - abrir o perfil público da empresa e procurar o botão ou link de delivery.
 
 ## passos
-1. no perfil da empresa, abra o acesso ao delivery se estiver disponível.
-2. consulte o cardápio, os horários, a taxa e a área de entrega apresentados pela loja.
-3. siga as opções apresentadas na página para montar e enviar o pedido.
-4. guarde o código exibido após a confirmação, se o pedido fornecer um.
-5. para acompanhar o pedido, abra `Acompanhar pedido`/página pública de pedido e informe o código recebido.
+
+1. Na página da empresa, no `Guia Comercial`, clique em `Pedir pelo Delivery Online`, se esse botão aparecer.
+2. Na página do delivery, veja o cardápio, os horários, a taxa e onde a loja entrega.
+3. Escolha os itens, clique em `Adicionar` em cada um e, no fim, clique em `Finalizar pedido`. Siga o que a página pedir.
+4. Depois de confirmar, a página mostra o código do seu pedido. Guarde esse código.
+5. Para acompanhar, abra a página do pedido (`/pedido/[codigo]`), que já aparece logo depois de confirmar.
 
 ## resultado esperado
 se a loja estiver configurada e aceitar pedidos, a página permite seguir o fluxo disponível e o código pode mostrar o andamento do pedido.

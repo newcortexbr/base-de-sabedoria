@@ -21,12 +21,13 @@ distinguir os estados de conteúdo e os fatores que podem ocultá-lo, sem tratar
 use a listagem e os detalhes do módulo relevante; acesso depende do papel e da autorização do servidor. A classificação automática futura, se existir, nunca autoriza operações.
 
 ## passos
-1. Confira a listagem do módulo: em Notícias, abra `/painel/noticias`; em Artigos, `/painel/blog`; para eventos, `/painel/turismo/eventos`.
-2. Leia o rótulo de estado e, quando houver, compare a data de publicação ou término.
-3. Em Notícias, `publicado` com data futura é `agendado` na tela e não aparece ao público antes da data.
-4. Em Artigos, confira separadamente `rascunho`, `agendado`, `publicado` e `arquivado`.
-5. Em Eventos, diferencie `Inativo` (escolha administrativa) de `Encerrado` (data passou) e `No ar`.
-6. Se a lista indicar estado esperado, confira a página pública do conteúdo pelo caminho normal do portal, sem assumir que um destaque cria publicação.
+
+1. Abra a lista do tipo de conteúdo. Notícias: menu `Notícias` → `Listar Notícias` (`/painel/noticias`). Artigos: menu `Artigos` → `Lista de Artigos` (`/painel/blog`). Eventos: menu `Guia Turístico / Eventos` → `Eventos` (`/painel/turismo/eventos`).
+2. Na coluna `Status`, veja a situação. Quando houver, compare também a data de publicação ou de término.
+3. Em notícias, uma notícia publicada com data no futuro aparece como `agendado`. Ela não aparece para o público antes dessa data.
+4. Em artigos, as situações são `Rascunho`, `Agendado`, `Publicado` e `Arquivado` (fora do ar).
+5. Em eventos, `No ar` está aparecendo no site, `Encerrado` quer dizer que a data já passou e `Inativo` quer dizer que você tirou do ar.
+6. Para ter certeza, abra o conteúdo no site do portal, como um visitante faria. Lembre que colocar algo em destaque não publica o conteúdo.
 
 ## resultado
 estado, datas e regras de vigência em conjunto determinam se o conteúdo pode aparecer. Destaque e publicação são conceitos diferentes.

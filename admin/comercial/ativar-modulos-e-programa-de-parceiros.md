@@ -24,10 +24,10 @@ escolher quais módulos e se o Programa de Parceiros ficam ativos no portal.
 
 ## passos
 
-1. No painel, abra `Configurações` → `Módulos`, rota `/painel/configuracoes/modulos`.
-2. Altere os controles dos módulos desejados. As mudanças ficam pendentes até salvar.
-3. Se for desligar um módulo ativo, leia e confirme a solicitação apresentada.
-4. Clique em `Salvar módulos` e aguarde a confirmação.
+1. No menu da esquerda, na parte `Sistema`, clique em `Configurações` e depois em `Módulos do Portal` (`/painel/configuracoes/modulos`).
+2. Em cada parte do site (módulo), mude a chave entre `Ligado` e `Desligado`. As mudanças só valem depois que você salvar.
+3. Se você desligar uma parte que estava ligada, vai aparecer uma janela pedindo confirmação. Leia e clique em `Confirmar e desligar`. Nenhum dado é apagado.
+4. Clique em `Salvar módulos` e espere a mensagem "Módulos salvos. Atualizando o menu…".
 
 ## resultado
 

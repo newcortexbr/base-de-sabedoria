@@ -26,10 +26,10 @@ acessar as áreas administrativas de vagas e classificados para localizar regist
 
 ## passos
 
-1. Para vagas, abra `Vagas` em `/painel/vagas`.
-2. Para anúncios classificados, abra `Classificados` em `/painel/classificados`.
-3. Use os filtros e ações que a tela oferecer para localizar o registro.
-4. Antes de alterar ou remover conteúdo, confira o registro e a confirmação exibida.
+1. Para vagas: no menu da esquerda, na parte `Conteúdo`, clique em `Vagas de Emprego` e depois em `Listar Vagas` (`/painel/vagas`).
+2. Para anúncios de classificados: no mesmo menu, clique em `Classificados` e depois em `Listar Anúncios` (`/painel/classificados`).
+3. No topo da lista, escreva no campo de busca ou escolha a situação e a área (ou categoria). Depois clique em `Filtrar`.
+4. Para mudar um item, clique em `Editar` na linha dele. Antes de apagar, confira se é o item certo e leia a pergunta de confirmação: a exclusão é definitiva.
 
 ## resultado
 

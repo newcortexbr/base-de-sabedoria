@@ -30,10 +30,10 @@ trocar a senha de uma conta que já está conectada na área do cliente.
 
 ## passos
 
-1. No menu da área do cliente, escolha “Segurança”.
-2. No bloco “Senha”, preencha “Senha atual”.
-3. Preencha “Nova senha” e repita em “Confirmar nova senha”. “Mostrar senhas” permite conferir o que foi digitado.
-4. Escolha “Salvar nova senha”.
+1. No menu da esquerda da sua área, na parte `Minha conta`, clique em `Segurança` (`/minha-conta/seguranca`).
+2. No quadro `Senha`, escreva a senha que você usa hoje em `Senha atual`.
+3. Escreva a senha nova em `Nova senha` e repita em `Confirmar nova senha`. Para ver o que digitou, clique em `Mostrar senhas`.
+4. Clique em `Salvar nova senha`. Depois disso, você precisa entrar de novo com a senha nova, e os outros aparelhos em que você entrou saem da conta.
 
 ## resultado
 
