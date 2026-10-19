@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-15
+revisado_em: 2026-10-19
 validacao: docs-e-codigo
 videos:
   - JdJr7pXVx98
@@ -25,10 +25,12 @@ encontrar uma empresa do Guia e acessar suas ações de cadastro ou situação.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas` (`/painel/guia/empresas`).
-2. No topo da lista, escreva o nome em `Buscar empresa...` ou escolha uma categoria e uma situação (`Todos os status`). Depois clique em `Buscar`.
-3. Para mudar os dados de uma empresa, clique no lápis (`Editar`) na linha dela.
-4. Para mudar a situação (`Pendente`, `Ativo`, `Inativo`, `Banido` ou `Reprovado`), escolha a nova opção na coluna `Status` da linha. Confira na lista se mudou.
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas` (`/painel/guia/empresas`). [guia=menu:/painel/guia/empresas] [t=9]
+2. No topo da lista, escreva o nome em `Buscar empresa...`. [guia=guia-empresas.busca] [t=63]
+3. Se quiser, escolha uma categoria e uma situação (`Todos os status`) nos filtros ao lado. [guia=guia-empresas.filtro-status] [t=60]
+4. Clique em `Buscar`. [guia=guia-empresas.buscar]
+5. Para mudar os dados de uma empresa, clique no lápis (`Editar`) na linha da empresa que você quer. [guia=guia-empresas.editar] [t=91]
+6. Para mudar a situação (`Pendente`, `Ativo`, `Inativo`, `Banido` ou `Reprovado`), escolha a nova opção na coluna `Status` da linha da empresa. Confira na lista se mudou. [guia=guia-empresas.status-linha] [t=74]
 
 ## resultado
 

@@ -10,7 +10,7 @@ categoria: conteúdo
 aba: não-se-aplica
 tipo_problema: visibilidade
 status: rascunho-documental
-revisado_em: 2026-10-15
+revisado_em: 2026-10-19
 validacao: docs-e-codigo
 ---
 
@@ -22,7 +22,7 @@ use a listagem e os detalhes do módulo relevante; acesso depende do papel e da 
 
 ## passos
 
-1. Abra a lista do tipo de conteúdo. Notícias: menu `Notícias` → `Listar Notícias` (`/painel/noticias`). Artigos: menu `Artigos` → `Lista de Artigos` (`/painel/blog`). Eventos: menu `Guia Turístico / Eventos` → `Eventos` (`/painel/turismo/eventos`).
+1. Abra a lista do tipo de conteúdo. Notícias: menu `Notícias` → `Listar Notícias` (`/painel/noticias`). Artigos: menu `Artigos` → `Lista de Artigos` (`/painel/blog`). Eventos: menu `Guia Turístico / Eventos` → `Eventos` (`/painel/turismo/eventos`). [guia=menu:/painel/noticias]
 2. Na coluna `Status`, veja a situação. Quando houver, compare também a data de publicação ou de término.
 3. Em notícias, uma notícia publicada com data no futuro aparece como `agendado`. Ela não aparece para o público antes dessa data.
 4. Em artigos, as situações são `Rascunho`, `Agendado`, `Publicado` e `Arquivado` (fora do ar).

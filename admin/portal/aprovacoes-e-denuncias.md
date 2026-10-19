@@ -25,14 +25,22 @@ decidir o que os clientes enviam antes de ir ao ar e acompanhar as denúncias fe
 ## passos
 
 1. No menu da esquerda, logo no começo, clique em `Aprovações e Denúncias` (`/painel/aprovacoes`).
-2. No topo da página, no quadro `Como funciona neste portal`, marque ou desmarque `Exigir minha aprovação antes de publicar`. Marcado, o que os clientes enviam só vai ao ar depois que você aprovar. Muda na hora.
-3. No mesmo quadro, marque ou desmarque `Permitir que visitantes denunciem conteúdo`. Desmarcado, o botão "Denunciar" some do site.
-4. Na aba `Aprovações`, clique em `Ver detalhe` para ver o que o cliente enviou.
-5. Clique em `Aprovar` para colocar no ar, ou em `Recusar`. Ao recusar, escreva o motivo (é obrigatório) e clique em `Confirmar recusa`.
-6. Na aba `Denúncias`, escolha quais quer ver (`Pendentes`, `Resolvidas`, `Ignoradas` ou `Todos`) e de qual parte do site (`Guia`, `Vagas`, `Classificados`, `Eventos`). Clique na denúncia para ver os detalhes.
-7. Na denúncia aberta, se quiser ver o conteúdo, clique em `Ver página denunciada`.
-8. Escolha o que fazer: `Ignorar denúncia` (o item continua no ar), `Excluir item` (tira o conteúdo do ar) ou `Bloquear empresa/conta` (tira do ar tudo o que aquele responsável publicou nessa parte do site; pode ser desfeito depois).
-9. Confirme na janela que aparece.
+2. No topo da página, no quadro `Como funciona neste portal`, marque ou desmarque `Exigir minha aprovação antes de publicar`. Marcado, o que os clientes enviam só vai ao ar depois que você aprovar. Muda na hora. [guia=aprovacoes-config:aprovacao] [t=16]
+3. No mesmo quadro, marque ou desmarque `Permitir que visitantes denunciem conteúdo`. Desmarcado, o botão "Denunciar" some do site. [guia=aprovacoes-config:denuncias] [t=31]
+4. Na aba `Aprovações`, clique em `Ver detalhe` na linha do envio que você quer conferir. [guia=aprovacoes.ver-detalhe] [t=56]
+5. Se estiver tudo certo, clique em `Aprovar` para colocar no ar. [guia=aprovacoes.aprovar] [t=64]
+6. Para não publicar, clique em `Recusar`. [guia=aprovacoes.recusar] [t=67]
+7. Escreva o motivo da recusa (é obrigatório). O cliente recebe o motivo para corrigir e reenviar. [guia=aprovacoes.motivo]
+8. Clique em `Confirmar recusa`. [guia=aprovacoes.confirmar-recusa]
+9. Para ver as denúncias, clique na aba `Denúncias`. [guia=aprovacoes-aba:denuncias] [t=80]
+10. Escolha quais quer ver no filtro `Status`: `Pendentes`, `Resolvidas` ou `Ignoradas`. [guia=denuncias.filtro-status]
+11. Escolha de qual parte do site no filtro `Módulo`: `Todos`, `Guia`, `Vagas`, `Classificados` ou `Eventos`. [guia=denuncias.filtro-modulo]
+12. Clique na denúncia que você quer ver, para abrir os detalhes. [guia=denuncias.abrir]
+13. Na denúncia aberta, se quiser ver o conteúdo, clique em `Ver página denunciada`. [guia=denuncias.ver-pagina] [t=85]
+14. Escolha o que fazer. Se está tudo bem, clique em `Ignorar denúncia` (o item continua no ar). [guia=denuncias.ignorar] [t=90]
+15. Para tirar o conteúdo do ar, clique em `Excluir item`. [guia=denuncias.excluir-item] [t=92]
+16. Para tirar do ar tudo o que aquele responsável publicou nessa parte do site, clique em `Bloquear empresa/conta` (pode ser desfeito depois). [guia=denuncias.bloquear] [t=95]
+17. Confirme na janela que aparece.
 
 ## resultado
 

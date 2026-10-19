@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-16
+revisado_em: 2026-10-19
 validacao: docs-e-codigo
 videos:
   - pBHdF3bd1QI
@@ -24,11 +24,20 @@ criar, editar e remover cupons de qualquer empresa do Guia, em nome do lojista.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Cupons de Desconto` (`/painel/cupons`). A lista mostra a empresa, o código, o desconto e a validade. Cupom vencido aparece marcado.
-2. Para criar, clique em `Novo cupom` e escolha a `Empresa`. Cada empresa só pode ter um cupom; por isso, as que já têm não aparecem na lista.
-3. Preencha a `Foto de capa do cupom`, o `Código`, a descrição, as condições de uso, o `Tipo de desconto` (`Percentual (%)` ou `Valor fixo (R$)`), o `Valor` e a `Validade`.
-4. Clique em `Salvar cupom`.
-5. Para mudar um cupom, clique em `Editar` na linha dele. Para apagar, clique em `Remover`.
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Cupons de Desconto` (`/painel/cupons`). A lista mostra a empresa, o código, o desconto e a validade. Cupom vencido aparece marcado. [guia=menu:/painel/cupons] [t=9]
+2. Para criar, clique em `Novo cupom`. [guia=cupons.novo] [t=22]
+3. Escolha a `Empresa`. Cada empresa só pode ter um cupom; por isso, as que já têm não aparecem na lista. [guia=cupons.empresa] [t=25]
+4. Envie a `Foto de capa do cupom`. [guia=cupons.foto] [t=28]
+5. Escreva o `Código do cupom *`, só com letras e números. [guia=cupons.codigo] [t=31]
+6. Escreva o `Desconto (texto exibido) *`, que aparece no selo (por exemplo, 10% off). [guia=cupons.desconto-texto] [t=33]
+7. Escreva a `Descrição do cupom`. [guia=cupons.descricao] [t=35]
+8. Escreva as `Condições de uso`. [guia=cupons.condicoes] [t=39]
+9. Escolha o `Tipo de desconto` (`Percentual (%)` ou `Valor fixo (R$)`). [guia=cupons.tipo] [t=41]
+10. Informe o `Valor`. [guia=cupons.valor] [t=43]
+11. Escolha a `Validade`. [guia=cupons.validade] [t=44]
+12. Clique em `Salvar cupom`. [guia=cupons.salvar] [t=46]
+13. Para mudar um cupom, clique em `Editar` na linha do cupom que você quer. [guia=cupons.editar] [t=49]
+14. Para apagar, clique em `Remover` na linha dele e confirme na janela que o navegador abre. A empresa continua no Guia. [guia=cupons.remover]
 
 ## resultado
 

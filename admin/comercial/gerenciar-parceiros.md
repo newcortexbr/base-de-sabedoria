@@ -25,14 +25,21 @@ cadastrar quem vende o portal por você e acompanhar as comissões deles.
 
 ## passos
 
-1. No menu da esquerda, na parte `Comercial`, clique em `Parceiros` (`/painel/parceiros`).
-2. Para cadastrar, clique em `Novo parceiro`.
-3. Preencha o `Nome *`, o `E-mail (login) *`, a `Senha inicial *`, o `Telefone` e o `WhatsApp`, e escolha o `Plano`.
-4. Clique em `Salvar` (em plano pago, o botão é `Salvar e gerar link`, que gera o link de pagamento do parceiro).
-5. Para pagar uma comissão por fora, pague o parceiro por Pix ou transferência primeiro.
-6. Depois, em `Comissões para pagar por fora`, abra a comissão e clique em `Marcar paga`. Isso não pode ser desfeito.
-7. Se quiser que a comissão caia sozinha na carteira Asaas do parceiro, em `Como você paga os parceiros`, ligue `Mandar a comissão direto pelo Asaas`.
-8. Para o grupo de WhatsApp dos parceiros, cole o link em `Link do grupo` e clique em `Salvar`.
+1. No menu da esquerda, na parte `Comercial`, clique em `Parceiros` (`/painel/parceiros`). [guia=menu:/painel/parceiros] [t=6]
+2. Para cadastrar, clique em `Novo parceiro`. [guia=parceiros.novo] [t=73]
+3. Escreva o `Nome *`. [guia=parceiros.nome] [t=75]
+4. Escreva o `E-mail (login) *`, que o parceiro usa para entrar. [guia=parceiros.email] [t=75]
+5. Escreva a `Senha inicial *` (mínimo de 6 caracteres). [guia=parceiros.senha] [t=77]
+6. Preencha o `Telefone`. [guia=parceiros.telefone] [t=77]
+7. Preencha o `WhatsApp`. [guia=parceiros.whatsapp] [t=77]
+8. Escolha o `Plano do parceiro`. [guia=parceiros.plano] [t=80]
+9. Clique em `Salvar` (em plano pago, o botão é `Salvar e gerar link`, que gera o link de pagamento do parceiro). [guia=parceiros.salvar]
+10. Para pagar uma comissão por fora, pague o parceiro por Pix ou transferência primeiro (fora do portal). [t=37]
+11. Depois, em `Comissões para pagar por fora`, clique em `Marcar paga` na linha da comissão que você pagou. [guia=parceiros.marcar-paga] [t=39]
+12. Na janela que abre, anexe o comprovante se quiser e clique em `Marcar paga`. Isso não pode ser desfeito. [guia=parceiros.confirmar-marcar-paga]
+13. Se quiser que a comissão caia sozinha na carteira Asaas do parceiro, em `Como você paga os parceiros`, ligue `Mandar a comissão direto pelo Asaas`. [guia=parceiros.split-asaas] [t=143]
+14. Para o grupo de WhatsApp dos parceiros, cole o link de convite em `Link do grupo`. [guia=parceiros.link-grupo] [t=121]
+15. Clique em `Salvar` ao lado do link. [guia=parceiros.salvar-grupo] [t=124]
 
 ## resultado
 

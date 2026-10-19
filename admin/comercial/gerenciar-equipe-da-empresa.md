@@ -26,14 +26,15 @@ mostrar os profissionais da empresa com foto, nome e especialidade.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas` (`/painel/guia/empresas`).
-2. Na linha da empresa, clique no lápis (`Editar`).
-3. Desça até `Conteúdo da ficha` e, no cartão `Equipe`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela.
-4. Clique em `Adicionar membro`.
-5. Se quiser, envie a foto (é opcional, mas ajuda muito).
-6. Preencha o `Nome *` e o `Cargo / Especialidade *`.
-7. Se o profissional tiver registro em conselho, preencha `Registro profissional (opcional)` (por exemplo, CRM).
-8. Clique em `Salvar membro`.
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas` (`/painel/guia/empresas`). [guia=menu:/painel/guia/empresas]
+2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar] [t=19]
+3. Desça até `Conteúdo da ficha` e, no cartão `Equipe`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-equipe] [t=22]
+4. Clique em `Adicionar membro`. [guia=guia-empresas-equipe.adicionar] [t=43]
+5. Se quiser, envie a foto (é opcional, mas ajuda muito). [guia=guia-empresas-equipe.foto] [t=46]
+6. Escreva o `Nome *`. [guia=guia-empresas-equipe.nome] [t=50]
+7. Escreva o `Cargo / Especialidade *`. [guia=guia-empresas-equipe.cargo] [t=53]
+8. Se o profissional tiver registro em conselho, preencha `Registro profissional (opcional)` (por exemplo, CRM). [guia=guia-empresas-equipe.registro] [t=60]
+9. Clique em `Salvar membro`. [guia=guia-empresas-equipe.salvar] [t=66]
 
 ## resultado
 

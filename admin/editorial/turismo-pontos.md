@@ -22,16 +22,20 @@ acesse pelo painel do portal com permissão de administração e módulo Turismo
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Turístico / Eventos` e depois em `Pontos Turísticos` (`/painel/turismo/pontos`).
-2. Para cadastrar, clique no botão `+ Novo Ponto` no topo da página (`/painel/turismo/pontos/novo`).
-3. Envie a foto principal, que é a capa do ponto. Prefira uma imagem deitada (horizontal).
-4. Preencha o nome, escolha a categoria e escreva a descrição.
-5. Na parte de informações, digite o CEP: o endereço é preenchido sozinho.
-6. Informe os horários de funcionamento de cada dia.
-7. Clique em `Cadastrar ponto`.
-8. Para achar um ponto, escreva o nome no campo `Buscar ponto turístico...` e clique em `Buscar`.
-9. No topo da página há também os botões `Categorias` (`/painel/turismo/categorias`), `Roteiros` e `Eventos`, que levam às outras telas de turismo.
-10. Para mudar as fotos de um ponto, clique em `Editar` na linha dele (`/painel/turismo/pontos/[id]`) e use a parte `Galeria de fotos e vídeos`.
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Turístico / Eventos` e depois em `Pontos Turísticos` (`/painel/turismo/pontos`). [guia=menu:/painel/turismo/pontos] [t=7]
+2. Para cadastrar, clique no botão `+ Novo Ponto` no topo da página (`/painel/turismo/pontos/novo`). [guia=pontos.novo] [t=15]
+3. Envie a foto principal, que é a capa do ponto, clicando em `Escolher foto`. Prefira uma imagem deitada (horizontal). [guia=pontos-novo.foto] [t=18]
+4. Em `Dados básicos`, escreva o `Nome *` do ponto. [guia=pontos-novo.nome] [t=26]
+5. Escolha a `Categoria` (ou crie uma nova ali mesmo). [guia=pontos-novo.categoria] [t=28]
+6. Escreva a `Descrição` do ponto. [guia=pontos-novo.descricao] [t=30]
+7. Na parte `Informações`, digite o `CEP`: o endereço é preenchido sozinho. [guia=campo-cep.cep] [t=47]
+8. Informe os horários de funcionamento de cada dia. Marque `Fechado` ou `24 horas` quando for o caso. [guia=pontos-novo.horarios] [t=57]
+9. Se quiser, adicione mais fotos ou vídeos do YouTube na `Galeria de fotos e vídeos`. [guia=galeria.adicionar-fotos] [t=69]
+10. Clique em `Cadastrar ponto`. [guia=pontos-novo.cadastrar] [t=80]
+11. Para achar um ponto na lista, escreva o nome no campo `Buscar ponto turístico...`. [guia=pontos.campo-busca]
+12. Clique em `Buscar`. [guia=pontos.buscar]
+13. No topo da página há também os botões `Categorias` (`/painel/turismo/categorias`), `Roteiros` e `Eventos`, que levam às outras telas de turismo.
+14. Para mudar as fotos de um ponto, clique em `Editar` na linha do ponto que você quer (`/painel/turismo/pontos/[id]`) e use a parte `Galeria de fotos e vídeos`. [guia=pontos.editar]
 
 ## resultado
 A listagem mostra nome, categoria, cidade e status. Um ponto pode ter imagens e a galeria deve ser gerenciada pela tela correspondente, não por nomes de arquivo improvisados.

@@ -26,15 +26,20 @@ montar a tabela de serviços e preços de uma empresa do Guia.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas` (`/painel/guia/empresas`).
-2. Na linha da empresa, clique no lápis (`Editar`).
-3. Desça até `Conteúdo da ficha` e, no cartão `Serviços`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela.
-4. Escreva o nome da seção (por exemplo, Consultas) e clique em `Criar seção`.
-5. Na seção, clique em `Adicionar serviço`.
-6. Preencha o `Nome *` e a `Descrição`.
-7. Informe o `Valor (R$)`. Se o preço varia, use o texto de valor (por exemplo, "a partir de R$ 1.800/m²"): ele aparece no lugar do valor.
-8. Se quiser, preencha `Duração (opcional)`, `Detalhe (opcional)` e escolha um `Ícone (opcional)`.
-9. Clique em `Salvar serviço`.
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas` (`/painel/guia/empresas`). [guia=menu:/painel/guia/empresas]
+2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar] [t=17]
+3. Desça até `Conteúdo da ficha` e, no cartão `Serviços`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-servicos] [t=20]
+4. Escreva o nome da seção (por exemplo, Consultas). [guia=guia-empresas-servicos.nome-secao] [t=33]
+5. Clique em `Criar seção`. [guia=guia-empresas-servicos.criar-secao] [t=33]
+6. Na seção, clique em `Adicionar serviço`. [guia=guia-empresas-servicos.adicionar-servico] [t=55]
+7. Escreva o `Nome *` do serviço. [guia=guia-empresas-servicos.nome] [t=57]
+8. Escreva a `Descrição`. [guia=guia-empresas-servicos.descricao] [t=58]
+9. Informe o `Valor (R$)`. [guia=guia-empresas-servicos.valor] [t=60]
+10. Se o preço varia, preencha o `Texto de valor (opcional)` (por exemplo, "a partir de R$ 1.800/m²"): ele aparece no lugar do valor. [guia=guia-empresas-servicos.texto-de-valor] [t=63]
+11. Se quiser, preencha `Duração (opcional)`. [guia=guia-empresas-servicos.duracao] [t=73]
+12. Se quiser, preencha `Detalhe (opcional)`. [guia=guia-empresas-servicos.detalhe] [t=76]
+13. Se quiser, escolha um `Ícone (opcional)`. [guia=guia-empresas-servicos.icone] [t=80]
+14. Clique em `Salvar serviço`. [guia=guia-empresas-servicos.salvar] [t=83]
 
 ## resultado
 
