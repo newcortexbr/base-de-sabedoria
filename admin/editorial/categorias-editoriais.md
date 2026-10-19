@@ -8,7 +8,7 @@ categoria: conteúdo
 aba: Categorias
 tipo_problema: classificação
 status: rascunho-documental
-revisado_em: 2026-10-15
+revisado_em: 2026-10-19
 validacao: docs-e-codigo
 ---
 
@@ -20,12 +20,15 @@ acesso ao painel e permissão para administrar o módulo correspondente. Classif
 
 ## passos
 
-1. Para as categorias de notícias: no menu da esquerda, na parte `Conteúdo`, clique em `Notícias` e depois em `Gerenciar Categorias` (`/painel/noticias/categorias`).
-2. Para as subcategorias de notícias: no mesmo menu `Notícias`, clique em `Gerenciar Subcategorias` (`/painel/noticias/subcategorias`).
-3. Para as categorias de artigos: no menu `Artigos`, clique em `Categorias` (`/painel/blog/categorias`).
-4. Para as categorias de turismo: no menu `Guia Turístico / Eventos`, clique em `Categorias` (`/painel/turismo/categorias`).
-5. Na página de categorias de notícias, preencha o nome e escolha a `Cor` no quadro `Cadastrar Categoria` e clique em `Salvar`. Se aparecer uma mensagem de erro, leia antes de tentar de novo.
-6. Antes de excluir ou desligar uma categoria, leia o aviso que aparece sobre o que vai ser afetado. Se tiver dúvida, peça ajuda.
+1. Para as categorias de notícias: no menu da esquerda, na parte `Conteúdo`, clique em `Notícias` e depois em `Gerenciar Categorias` (`/painel/noticias/categorias`). [guia=menu:/painel/noticias/categorias]
+2. Clique em `+ Cadastrar Categoria`, no topo da página. Abre uma janela. [guia=noticias-categorias.cadastrar]
+3. Na janela, escreva o `Nome` da categoria. [guia=noticias-categorias.nome]
+4. Escolha a `Cor` (pelo seletor de cor ou por uma das bolinhas logo abaixo). [guia=noticias-categorias.cor]
+5. Clique em `Salvar`. Se aparecer uma mensagem de erro, leia antes de tentar de novo. [guia=noticias-categorias.salvar]
+6. Para as subcategorias de notícias: no mesmo menu `Notícias`, clique em `Gerenciar Subcategorias` (`/painel/noticias/subcategorias`). [guia=menu:/painel/noticias/subcategorias]
+7. Para as categorias de artigos: no menu `Artigos`, clique em `Categorias` (`/painel/blog/categorias`). [guia=menu:/painel/blog/categorias]
+8. Para as categorias de turismo: no menu `Guia Turístico / Eventos`, clique em `Categorias` (`/painel/turismo/categorias`). [guia=menu:/painel/turismo/categorias]
+9. Antes de excluir ou desligar uma categoria, leia o aviso que aparece sobre o que vai ser afetado. Se tiver dúvida, peça ajuda.
 
 ## resultado
 cada conteúdo usa categorias do seu módulo. Categoria inativa no Guia esconde empresas vinculadas; essa regra específica não deve ser extrapolada para categorias editoriais.

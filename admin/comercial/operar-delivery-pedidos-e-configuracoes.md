@@ -27,18 +27,27 @@ acompanhar a fila de pedidos do delivery e ajustar taxa, tempo, pagamento e áre
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas` (`/painel/guia/empresas`).
-2. Na linha da empresa, clique no lápis (`Editar`).
-3. Desça até `Conteúdo da ficha` e, no cartão `Configurações do delivery`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela.
-4. Em `Status`, ligue `Delivery ativo (página pública visível)`. Desligado, a página de pedidos sai do ar.
-5. Em `Entrega`, preencha a `Taxa de entrega (R$)` (0 = grátis), o `Pedido mínimo (R$)`, o `Tempo mínimo (min)`, o `Tempo máximo (min)` e o `Raio de entrega (km)`.
-6. Em `Formas de Pagamento`, ligue as que a loja aceita: `Dinheiro (troco na entrega)`, `Cartão na entrega` ou `PIX`. Com PIX, preencha a `Chave PIX` da loja.
-7. Em `Áreas de Atendimento`, escolha a `Cidade` e a `Cobertura` (`Município todo` ou `Bairros específicos`) e clique em `Adicionar área`. Repita para cada área.
-8. Em `Mensagem de Boas-Vindas`, escreva um recado curto para o topo da loja.
-9. Clique em `Salvar configurações`.
-10. Para ver os pedidos, volte à edição da empresa e, no cartão `Fila de pedidos`, clique em `Gerenciar`.
-11. Ligue o som de aviso para ouvir quando chegar pedido novo.
-12. Em cada pedido, avance a situação: `Iniciar preparo`, depois saiu para entrega e por fim `Marcar entregue`.
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas` (`/painel/guia/empresas`). [guia=menu:/painel/guia/empresas]
+2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar]
+3. Desça até `Conteúdo da ficha` e, no cartão `Configurações do delivery`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-config-delivery] [t=9]
+4. Em `Status`, ligue a chave `Delivery ativo (página pública visível)`. Desligado, a página de pedidos sai do ar. [guia=delivery-configuracoes.ativo] [t=65]
+5. Em `Entrega`, preencha a `Taxa de entrega (R$)` (0 = grátis). [guia=delivery-configuracoes.taxa] [t=73]
+6. Preencha o `Pedido mínimo (R$)`. [guia=delivery-configuracoes.pedido-minimo] [t=76]
+7. Preencha o `Tempo mínimo (min)`. [guia=delivery-configuracoes.tempo-minimo] [t=78]
+8. Preencha o `Tempo máximo (min)`. [guia=delivery-configuracoes.tempo-maximo] [t=80]
+9. Preencha o `Raio de entrega (km)`. [guia=delivery-configuracoes.raio] [t=83]
+10. Em `Formas de Pagamento`, ligue as que a loja aceita: `Dinheiro (troco na entrega)`, `Cartão na entrega` ou `PIX`. [guia=delivery-configuracoes.pagamentos] [t=85]
+11. Com `PIX` ligado, preencha a `Chave PIX` da loja. [guia=delivery-configuracoes.chave-pix] [t=93]
+12. Em `Áreas de Atendimento`, escolha a `Cidade`. [guia=delivery-configuracoes.area-cidade] [t=104]
+13. Escolha a `Cobertura`: `Município todo` ou `Bairros específicos`. [guia=delivery-configuracoes.area-cobertura] [t=107]
+14. Clique em `Adicionar área`. Repita para cada área. [guia=delivery-configuracoes.adicionar-area] [t=109]
+15. Em `Mensagem de Boas-Vindas`, escreva um recado curto para o topo da loja. [guia=delivery-configuracoes.boas-vindas] [t=111]
+16. Clique em `Salvar configurações`. [guia=delivery-configuracoes.salvar] [t=120]
+17. Para ver os pedidos, volte à edição da empresa (`Listar Empresas`, lápis na linha dela) e, no cartão `Fila de pedidos`, clique em `Gerenciar`. [guia=guia-empresas-editar.gerenciar-fila-de-pedidos] [t=14]
+18. Clique em `Ativar som` para ouvir um aviso quando chegar pedido novo. [guia=delivery-pedidos.ativar-som] [t=52]
+19. Em cada pedido recebido, clique em `Iniciar preparo`. [guia=delivery-pedidos.acao-em_preparo] [t=37]
+20. Quando o entregador sair, clique em `Saiu para entrega`. [guia=delivery-pedidos.acao-saiu_para_entrega] [t=40]
+21. Na chegada, clique em `Marcar entregue`. [guia=delivery-pedidos.acao-entregue] [t=42]
 
 ## resultado
 

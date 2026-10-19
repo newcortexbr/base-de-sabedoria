@@ -10,7 +10,7 @@ categoria: conteúdo
 aba: não-se-aplica
 tipo_problema: mídia
 status: rascunho-documental
-revisado_em: 2026-10-15
+revisado_em: 2026-10-19
 validacao: docs-e-codigo
 ---
 
@@ -23,11 +23,14 @@ abra o formulário ou registro do próprio conteúdo e use as opções de mídia
 ## passos
 
 1. Em notícia ou artigo, use o campo da foto de capa que fica no próprio formulário da notícia ou do artigo.
-2. Em evento, ponto turístico ou roteiro, abra a lista da tela correspondente e clique em `Editar` no item.
-3. Dentro do formulário, desça até a parte `Galeria de fotos e vídeos`.
-4. Adicione ou remova fotos ali. Num evento novo, as fotos são enviadas assim que você salvar o evento.
-5. Para colocar um vídeo, cole o link do YouTube no campo de vídeo da galeria.
-6. Clique em `Salvar`.
+2. Em evento, ponto turístico ou roteiro, abra a lista da tela correspondente. Aqui o exemplo é `Eventos`: no menu `Guia Turístico / Eventos`, clique em `Eventos` (`/painel/turismo/eventos`). [guia=menu:/painel/turismo/eventos]
+3. Clique em `Editar` na linha do item que você quer. [guia=eventos.editar]
+4. Dentro do formulário, desça até a parte `Galeria de fotos e vídeos`.
+5. Para adicionar fotos, clique em `+ Adicionar fotos`. Para tirar uma foto, use o botão de remover no próprio item. Num evento novo, as fotos são enviadas assim que você salvar o evento. [guia=galeria.adicionar-fotos]
+6. Para colocar um vídeo, clique em `Vídeo do YouTube`. [guia=galeria.modo-video]
+7. Cole o link do YouTube no campo de vídeo da galeria. [guia=galeria.link-video]
+8. Clique em `Adicionar vídeo`. [guia=galeria.enviar-video]
+9. Clique em `Salvar`. [guia=eventos.salvar]
 
 ## resultado
 A mídia fica associada ao registro em edição. Remover uma imagem por campo/formulário não é a mesma coisa que apagar arquivos manualmente; a limpeza de arquivos segue proteção contra referências compartilhadas.

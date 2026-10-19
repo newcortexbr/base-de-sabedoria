@@ -13,7 +13,7 @@ tipo_problema:
   - ajudar colega no painel
 modulo: acesso
 status: rascunho-documental
-revisado_em: 2026-10-15
+revisado_em: 2026-10-19
 validacao: docs-e-codigo
 ---
 
@@ -30,10 +30,11 @@ orientar quem usa o login do painel administrativo e explicar recusas comuns sem
 
 1. Cada conta de administrador entra só no portal em que foi autorizada. Para entrar no painel de outro portal, peça ao responsável por esse portal que libere a administração para você; esta tela não libera esse acesso.
 2. Abra a página de entrada do painel, no endereço `/painel/login`.
-3. Escreva seu e-mail no campo `E-mail` e sua senha no campo `Senha`.
-4. Clique no botão `Efetuar Login`.
-5. Se você é jornalista, cliente (empresa) ou parceiro, não use o painel. Jornalista e cliente entram pela área do cliente (`/minha-conta/login`); parceiro entra em `/parceiro/login`.
-6. Se aparecer a mensagem de muitas tentativas, espere alguns minutos e tente só mais uma vez.
+3. Escreva seu e-mail no campo `E-mail`. [guia=login.email]
+4. Escreva sua senha no campo `Senha`. [guia=login.senha]
+5. Clique no botão `Efetuar Login`. [guia=login.entrar]
+6. Se você é jornalista, cliente (empresa) ou parceiro, não use o painel. Jornalista e cliente entram pela área do cliente (`/minha-conta/login`); parceiro entra em `/parceiro/login`.
+7. Se aparecer a mensagem de muitas tentativas, espere alguns minutos e tente só mais uma vez.
 
 ## resultado
 

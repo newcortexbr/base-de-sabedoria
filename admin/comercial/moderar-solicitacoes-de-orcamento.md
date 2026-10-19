@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-16
+revisado_em: 2026-10-19
 validacao: docs-e-codigo
 videos:
   - Ru3949-VUX4
@@ -24,11 +24,15 @@ aprovar ou reprovar os pedidos de orçamento enviados por visitantes.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Orçamentos Online` e depois em `Todas as Solicitações` (`/painel/orcamentos/categorias`).
-2. No topo da página você vê quantos pedidos estão aguardando aprovação, quantos foram aprovados, encerrados e reprovados. Logo abaixo, filtre por situação, categoria ou datas.
-3. Clique em `Ver detalhes` num pedido para ler a descrição, ver as fotos e o contato de quem pediu.
-4. Clique em `Aprovar e enviar` para mandar o pedido às empresas daquela categoria, ou em `Reprovar` para não mandar a ninguém.
-5. Para cuidar de vários pedidos de uma vez, marque a caixinha de cada linha e use os botões que aparecem para aprovar, reprovar, encerrar ou excluir todos juntos.
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Orçamentos Online` e depois em `Todas as Solicitações` (`/painel/orcamentos/categorias`). [guia=menu:/painel/orcamentos/categorias] [t=85]
+2. No topo da página você vê quantos pedidos estão aguardando aprovação, quantos foram aprovados, encerrados e reprovados. Clicar num cartão filtra a lista por aquela situação. [guia=orcamentos-categorias.contadores] [t=90]
+3. Se quiser, filtre também por categoria ou por datas, nos campos logo abaixo. Para um período, comece pela data `De`. [guia=orcamentos-categorias.de] [t=100]
+4. Na linha do pedido que você quer, clique em `Ver detalhes` (o olho) para ler a descrição, ver as fotos e o contato de quem pediu. [guia=orcamentos-categorias.ver-detalhes] [t=116]
+5. Na janela de detalhes, clique em `Aprovar e enviar` para mandar o pedido às empresas daquela categoria. [guia=orcamentos-categorias.detalhe-aprovar] [t=130]
+6. Se o pedido for inadequado, clique em `Reprovar` na mesma janela: o pedido não vai a ninguém. [guia=orcamentos-categorias.detalhe-reprovar] [t=168]
+7. Sem abrir os detalhes, também dá para usar o visto (aprovar) ou o X (reprovar) na linha do pedido. [guia=orcamentos-categorias.aprovar]
+8. Para cuidar de vários pedidos de uma vez, marque a caixinha de cada linha. [guia=orcamentos-categorias.selecionar] [t=168]
+9. Use os botões que aparecem na barra de cima para aprovar, reprovar, encerrar ou excluir todos juntos. [guia=orcamentos-categorias.lote] [t=171]
 
 ## resultado
 

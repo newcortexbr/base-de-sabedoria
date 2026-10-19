@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-15
+revisado_em: 2026-10-19
 validacao: docs-e-codigo
 videos:
   - ufB3QTKfPsM
@@ -26,10 +26,18 @@ acessar as áreas administrativas de vagas e classificados para localizar regist
 
 ## passos
 
-1. Para vagas: no menu da esquerda, na parte `Conteúdo`, clique em `Vagas de Emprego` e depois em `Listar Vagas` (`/painel/vagas`).
-2. Para anúncios de classificados: no mesmo menu, clique em `Classificados` e depois em `Listar Anúncios` (`/painel/classificados`).
-3. No topo da lista, escreva no campo de busca ou escolha a situação e a área (ou categoria). Depois clique em `Filtrar`.
-4. Para mudar um item, clique em `Editar` na linha dele. Antes de apagar, confira se é o item certo e leia a pergunta de confirmação: a exclusão é definitiva.
+1. Para vagas: no menu da esquerda, na parte `Conteúdo`, clique em `Vagas de Emprego` e depois em `Listar Vagas` (`/painel/vagas`). [guia=menu:/painel/vagas] [t=4]
+2. No topo da lista de vagas, escreva o cargo ou a empresa no campo de busca. [guia=vagas.busca] [t=31]
+3. Se quiser, escolha a situação da vaga. [guia=vagas.situacao] [t=34]
+4. Clique em `Filtrar`. [guia=vagas.filtrar] [t=36]
+5. Para mudar uma vaga, clique em `Editar` na linha da vaga que você quer. [guia=vagas.editar] [t=42]
+6. Para apagar, clique em `Excluir` na linha da vaga. Leia a pergunta de confirmação que o navegador abre: a exclusão é definitiva. [guia=vagas.excluir]
+7. Para anúncios de classificados: no mesmo menu, clique em `Classificados` e depois em `Listar Anúncios` (`/painel/classificados`). [guia=menu:/painel/classificados]
+8. No topo da lista de anúncios, escreva o título ou a descrição no campo de busca. [guia=classificados.busca]
+9. Se quiser, escolha a situação do anúncio. [guia=classificados.situacao]
+10. Clique em `Filtrar`. [guia=classificados.filtrar]
+11. Para mudar um anúncio, clique em `Editar` na linha do anúncio que você quer. [guia=classificados.editar]
+12. Para apagar, clique em `Excluir` na linha do anúncio. Leia a pergunta de confirmação que o navegador abre: a exclusão é definitiva. [guia=classificados.excluir]
 
 ## resultado
 

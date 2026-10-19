@@ -27,19 +27,32 @@ cadastrar os produtos que o cliente pode pedir pelo portal com entrega, com tama
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas` (`/painel/guia/empresas`).
-2. Na linha da empresa, clique no lápis (`Editar`).
-3. Desça até `Conteúdo da ficha` e, no cartão `Cardápio do delivery`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela.
-4. À esquerda, em `Seções`, clique no botão de mais, escreva o nome da seção e clique em `Criar`.
-5. Escolha a seção e clique em `Novo produto`.
-6. Preencha o `Nome *` e a `Descrição`.
-7. Em preço base, informe o valor. Deixe zero quando o preço depender do tamanho.
-8. Marque `Disponível` para o produto aparecer na loja. Marque `Destaque` se quiser mais visibilidade.
-9. Envie a foto e clique em `Criar produto`.
-10. Para tamanhos e adicionais, abra o produto (`Editar produto`) e clique em `+ Novo grupo`.
-11. Dê o nome do grupo, diga se é opcional ou obrigatório e o limite de escolhas.
-12. Clique em `+ Adicionar opção` para cada opção. Preço 0 = incluso; com valor = custo a mais.
-13. Clique em `Salvar alterações`.
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas` (`/painel/guia/empresas`). [guia=menu:/painel/guia/empresas]
+2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar]
+3. Desça até `Conteúdo da ficha` e, no cartão `Cardápio do delivery`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-cardapio-delivery] [t=22]
+4. À esquerda, em `Seções`, clique no botão `+` para criar uma seção. [guia=delivery-cardapio.nova-secao] [t=29]
+5. Escreva o nome da seção (por exemplo, Açaí). [guia=delivery-cardapio.nome-secao]
+6. Clique em `Criar`. [guia=delivery-cardapio.criar-secao]
+7. Escolha a seção na lista da esquerda. [guia=delivery-cardapio.secao]
+8. Clique em `+ Novo produto`. [guia=delivery-cardapio.novo-produto] [t=43]
+9. Escreva o `Nome *` do produto. [guia=delivery-cardapio.nome] [t=46]
+10. Se quiser, escreva a `Descrição`. [guia=delivery-cardapio.descricao]
+11. Em `Preço base (R$)`, informe o valor. Deixe zero quando o preço depender do tamanho. [guia=delivery-cardapio.preco] [t=49]
+12. Marque `Disponível` para o produto aparecer na loja. [guia=delivery-cardapio.disponivel] [t=59]
+13. Marque `Destaque` se quiser mais visibilidade. [guia=delivery-cardapio.destaque] [t=61]
+14. Envie a foto do produto. [guia=delivery-cardapio.foto] [t=64]
+15. Clique em `Criar produto`. [guia=delivery-cardapio.salvar-produto] [t=66]
+16. Para tamanhos e adicionais, clique em `Editar` na linha do produto que você quer. Os grupos de opções só existem depois que o produto foi criado. [guia=delivery-cardapio.editar-produto] [t=69]
+17. Em `Grupos de opções`, clique em `+ Novo grupo`. [guia=delivery-cardapio.novo-grupo]
+18. Escreva o nome do grupo (por exemplo, Tamanho). [guia=delivery-cardapio.nome-grupo]
+19. Em `Mín. seleções`, deixe 0 se o grupo for opcional ou 1 se for obrigatório. [guia=delivery-cardapio.minimo]
+20. Em `Máx. seleções`, informe o limite de escolhas. [guia=delivery-cardapio.maximo]
+21. Clique em `Criar grupo`. [guia=delivery-cardapio.criar-grupo]
+22. No grupo criado, clique em `+ Adicionar opção`. [guia=delivery-cardapio.adicionar-opcao]
+23. Escreva o nome da opção. [guia=delivery-cardapio.nome-opcao]
+24. Informe o preço: 0 = incluso; com valor = custo a mais. [guia=delivery-cardapio.preco-opcao]
+25. Clique em `Salvar` ao lado da opção. Repita os três últimos passos para cada opção. [guia=delivery-cardapio.salvar-opcao]
+26. Grupos e opções são salvos na hora. Clique em `Salvar alterações` só se tiver mudado os dados do próprio produto. [guia=delivery-cardapio.salvar-produto]
 
 ## resultado
 

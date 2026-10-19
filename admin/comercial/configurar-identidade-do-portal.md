@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: configuracao
 status: rascunho-documental
-revisado_em: 2026-10-15
+revisado_em: 2026-10-19
 validacao: docs-e-codigo
 videos:
   - 8M4kdEfP7Eg
@@ -29,11 +29,18 @@ atualizar as informações básicas e a aparência do portal no painel.
 
 ## passos
 
-1. No menu da esquerda, na parte `Sistema`, clique em `Configurações` e depois em `Configurações Gerais` (`/painel/configuracoes`). Ali você muda o `Nome do portal`, a `Logo do portal`, o `E-mail de contato`, o `Telefone`, o `WhatsApp` e as `Redes Sociais`.
-2. Depois de mudar um quadro, clique no botão `Salvar` dele (por exemplo, `Salvar Redes Sociais`).
-3. Para mudar a aparência do site, no mesmo menu `Configurações`, clique em `Layout` (`/painel/configuracoes/layout`).
-4. Escolha a parte que quer ajustar: `Topo`, `Tela Início`, `Cores` ou `Rodapé`.
-5. Faça a mudança e clique no botão de salvar da própria página (por exemplo, `Salvar Topo` ou `Salvar cores`). Espere a mensagem de que deu certo antes de sair.
+1. No menu da esquerda, na parte `Sistema`, clique em `Configurações` e depois em `Configurações Gerais` (`/painel/configuracoes`). [guia=menu:/painel/configuracoes] [t=6]
+2. No quadro `Identidade`, escreva o `Nome do portal`. [guia=configuracoes.nome] [t=9]
+3. Clique em `Salvar` ao lado do nome. [guia=configuracoes.salvar-nome] [t=12]
+4. Para a `Logo do portal`, clique em `Enviar logo` (ou `Trocar logo`) e escolha a imagem. O envio é imediato. [guia=configuracoes.logo] [t=17]
+5. No quadro `Redes Sociais`, preencha o `WhatsApp` e, abaixo, o @ ou o link do Instagram, Facebook, YouTube e TikTok. [guia=configuracoes.whatsapp] [t=40]
+6. Clique em `Salvar Redes Sociais`. [guia=configuracoes.salvar-redes] [t=48]
+7. No quadro `Página Fale Conosco`, preencha o `E-mail de contato`. [guia=configuracoes.email-contato] [t=51]
+8. Preencha o `Telefone`. [guia=configuracoes.telefone-contato] [t=51]
+9. Clique em `Salvar Fale Conosco`. [guia=configuracoes.salvar-contato] [t=56]
+10. Para mudar a aparência do site, no mesmo menu `Configurações`, clique em `Layout` (`/painel/configuracoes/layout`). [guia=menu:/painel/configuracoes/layout]
+11. Escolha a parte que quer ajustar: `Topo`, `Tela Início`, `Cores` ou `Rodapé`. [guia=configuracoes-layout.partes]
+12. Faça a mudança e clique no botão de salvar da própria página (por exemplo, `Salvar Topo` ou `Salvar cores`). Espere a mensagem de que deu certo antes de sair. [guia=configuracoes-layout.salvar]
 
 ## resultado
 

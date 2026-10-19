@@ -26,17 +26,23 @@ mostrar as acomodações de hotel ou pousada com fotos, comodidades e preço por
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas` (`/painel/guia/empresas`).
-2. Na linha da empresa, clique no lápis (`Editar`).
-3. Desça até `Conteúdo da ficha` e, no cartão `Quartos e suítes`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela.
-4. Escreva o nome da seção (por exemplo, Suítes) e clique no botão de mais.
-5. Na seção, clique para adicionar um quarto (`Novo quarto`).
-6. Preencha o `Título *`, o `Subtítulo` e a `Descrição`.
-7. Informe o `Preço por noite`. Para promoção, preencha também o `Preço promocional`.
-8. Em `Comodidades do quarto`, escreva cada item (por exemplo, Wi-Fi) e clique no mais.
-9. Se quiser, mude a `Ordem` do quarto na seção.
-10. Clique em `Salvar quarto`.
-11. Para as fotos, clique em `Fotos` no quarto e use `+ Adicionar fotos` (também aceita vídeo do YouTube).
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas` (`/painel/guia/empresas`). [guia=menu:/painel/guia/empresas]
+2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar] [t=19]
+3. Desça até `Conteúdo da ficha` e, no cartão `Quartos e suítes`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-quartos] [t=22]
+4. Escreva o nome da seção (por exemplo, Suítes). [guia=guia-empresas-quartos.nome-secao] [t=35]
+5. Clique em `+ Seção`. [guia=guia-empresas-quartos.adicionar-secao] [t=38]
+6. Na seção, clique em `+ Quarto`. [guia=guia-empresas-quartos.adicionar-quarto] [t=67]
+7. Escreva o `Título *` do quarto. [guia=guia-empresas-quartos.titulo] [t=70]
+8. Escreva o `Subtítulo`. [guia=guia-empresas-quartos.subtitulo] [t=73]
+9. Escreva a `Descrição` (cama, vista, banheiro). [guia=guia-empresas-quartos.descricao] [t=75]
+10. Informe o `Preço por noite`. [guia=guia-empresas-quartos.preco] [t=81]
+11. Para promoção, preencha também o `Preço promocional`. [guia=guia-empresas-quartos.preco-promocional] [t=84]
+12. Em `Comodidades do quarto`, escreva um item (por exemplo, Wi-Fi). [guia=guia-empresas-quartos.comodidade] [t=91]
+13. Clique no `+` ao lado para adicionar a comodidade. Repita para cada item. [guia=guia-empresas-quartos.comodidade-adicionar] [t=93]
+14. Se quiser, mude a `Ordem` do quarto na seção. [guia=guia-empresas-quartos.ordem] [t=101]
+15. Clique em `Salvar quarto`. [guia=guia-empresas-quartos.salvar] [t=104]
+16. Para as fotos, clique em `Fotos` na linha do quarto que você quer. [guia=guia-empresas-quartos.fotos] [t=118]
+17. Clique em `+ Adicionar fotos` (também aceita vídeo do YouTube). [guia=galeria.adicionar-fotos] [t=121]
 
 ## resultado
 

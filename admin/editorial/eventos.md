@@ -8,7 +8,7 @@ categoria: conteúdo
 aba: Eventos
 tipo_problema: publicação
 status: rascunho-documental
-revisado_em: 2026-10-15
+revisado_em: 2026-10-19
 validacao: docs-e-codigo
 videos:
   - Hyh3UxHW_jU
@@ -22,12 +22,19 @@ A tela de eventos fica no painel. Acesso e módulo ativo dependem do portal e do
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Turístico / Eventos` e depois em `Eventos` (`/painel/turismo/eventos`).
-2. Para cadastrar, clique em `+ Novo Evento` no topo da página. Para mudar um evento que já existe, clique em `Editar` na linha dele.
-3. Preencha o `Título`, a `Data`, o `Horário`, o local, a cidade, a categoria, o `Organizador` e os outros campos que aparecem.
-4. Na parte `Galeria de fotos e vídeos`, adicione as fotos e os vídeos do YouTube. Num evento novo, eles são enviados assim que você salvar.
-5. Clique em `Salvar`.
-6. Na lista, veja a situação de cada evento: `No ar` (aparecendo no site), `Encerrado` (a data já passou) ou `Inativo` (você mesmo tirou do ar).
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Turístico / Eventos` e depois em `Eventos` (`/painel/turismo/eventos`). [guia=menu:/painel/turismo/eventos] [t=48]
+2. Para cadastrar, clique em `+ Novo Evento` no topo da página. [guia=eventos.novo] [t=55]
+3. Escreva o `Título *` do evento. [guia=eventos.titulo]
+4. Escolha a `Data *` do evento. [guia=eventos.data]
+5. Escreva o `Horário`, por exemplo "19h00 às 23h00". [guia=eventos.horario]
+6. Preencha o local, o CEP, a cidade, a categoria, o `Organizador` e os outros campos que aparecem.
+7. Na parte `Galeria de fotos e vídeos`, clique em `+ Adicionar fotos` para enviar as fotos. Num evento novo, elas são enviadas assim que você salvar. [guia=galeria.adicionar-fotos]
+8. Para colocar um vídeo, clique em `Vídeo do YouTube`. [guia=galeria.modo-video]
+9. Cole o link do vídeo no campo `Link do vídeo no YouTube`. [guia=galeria.link-video]
+10. Clique em `Adicionar vídeo`. [guia=galeria.enviar-video]
+11. Role a página até o fim e clique em `Salvar`. [guia=eventos.salvar]
+12. Para mudar um evento que já existe, clique em `Editar` na linha do evento que você quer. [guia=eventos.editar]
+13. Na lista, veja a situação de cada evento: `No ar` (aparecendo no site), `Encerrado` (a data já passou) ou `Inativo` (você mesmo tirou do ar).
 
 ## resultado
 evento ativo permanece no ar segundo as datas reconhecidas pelo servidor; depois de vencido, sai do ar. Destaques e filtros públicos fazem parte do produto, mas a exibição depende também da configuração e da vigência.
