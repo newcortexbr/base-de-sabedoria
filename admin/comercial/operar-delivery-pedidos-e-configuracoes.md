@@ -45,9 +45,10 @@ acompanhar a fila de pedidos do delivery e ajustar taxa, tempo, pagamento e áre
 16. Clique em `Salvar configurações`. [guia=delivery-configuracoes.salvar] [t=120]
 17. Para ver os pedidos, volte à edição da empresa (`Listar Empresas`, lápis na linha dela) e, no cartão `Fila de pedidos`, clique em `Gerenciar`. [guia=guia-empresas-editar.gerenciar-fila-de-pedidos] [t=14]
 18. Clique em `Ativar som` para ouvir um aviso quando chegar pedido novo. [guia=delivery-pedidos.ativar-som] [t=52]
-19. Em cada pedido recebido, clique em `Iniciar preparo`. [guia=delivery-pedidos.acao-em_preparo] [t=37]
-20. Quando o entregador sair, clique em `Saiu para entrega`. [guia=delivery-pedidos.acao-saiu_para_entrega] [t=40]
-21. Na chegada, clique em `Marcar entregue`. [guia=delivery-pedidos.acao-entregue] [t=42]
+19. A lista se atualiza sozinha a cada 20 segundos. Para ver na hora, clique em `↻ Atualizar`. [guia=delivery-pedidos.atualizar] [t=59]
+20. Em cada pedido recebido, clique em `Iniciar preparo`. [guia=delivery-pedidos.acao-em_preparo] [t=37]
+21. Quando o entregador sair, clique em `Saiu para entrega`. [guia=delivery-pedidos.acao-saiu_para_entrega] [t=40]
+22. Na chegada, clique em `Marcar entregue`. [guia=delivery-pedidos.acao-entregue] [t=42]
 
 ## resultado
 
@@ -72,4 +73,4 @@ peça ajuda se os pedidos não aparecerem, se a loja não abrir mesmo com `Deliv
 
 ## lacunas
 
-não verificado visualmente nesta tarefa; passos conferidos com o vídeo de suporte e com o código da tela. Os rótulos exatos dos botões de ativar som, atualizar e "saiu para entrega" não foram confirmados no código.
+não verificado visualmente nesta tarefa; passos conferidos com o vídeo de suporte e com o código da tela. Rótulos `Ativar som`, `↻ Atualizar` e `Saiu para entrega` confirmados em `app/painel/delivery/pedidos/page.tsx`.
