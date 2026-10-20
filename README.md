@@ -38,7 +38,7 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [trocar a senha estando logado na área do cliente](cliente/acesso/trocar-senha-cliente.md)
 - [entrar ou recuperar acesso de parceiro comercial](cliente/acesso/entrar-recuperar-parceiro.md) — exclusivo a `parceiro-comercial`; não carregar para cliente comum.
 
-## admin (39)
+## admin (40)
 
 ### acesso
 - [entrar no painel](admin/acesso/entrar-painel.md)
@@ -83,6 +83,7 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 ### portal
 - [aprovações e denúncias](admin/portal/aprovacoes-e-denuncias.md)
 - [Assistente de IA](admin/portal/assistente-de-ia-do-portal.md)
+- [entender os números do tráfego do portal](admin/portal/entender-o-trafego-do-portal.md)
 - [enviar notificações push](admin/portal/enviar-notificacoes-push.md)
 - [A Voz do Povo](admin/portal/voz-do-povo.md)
 - [sorteios](admin/portal/sorteios.md)
