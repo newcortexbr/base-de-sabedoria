@@ -16,7 +16,7 @@ videos:
 
 ## objetivo
 
-mostrar as acomodações de hotel ou pousada com fotos, comodidades e preço por noite.
+aqui você mostra os quartos de hotel ou pousada, com fotos, comodidades e preço por noite.
 
 ## pré-requisitos
 
@@ -26,7 +26,7 @@ mostrar as acomodações de hotel ou pousada com fotos, comodidades e preço por
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas` (`/painel/guia/empresas`). [guia=menu:/painel/guia/empresas]
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas]
 2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar] [t=19]
 3. Desça até `Conteúdo da ficha` e, no cartão `Quartos e suítes`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-quartos] [t=22]
 4. Escreva o nome da seção (por exemplo, Suítes). [guia=guia-empresas-quartos.nome-secao] [t=35]

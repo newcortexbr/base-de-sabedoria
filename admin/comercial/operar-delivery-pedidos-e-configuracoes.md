@@ -1,6 +1,6 @@
 ---
 id: operar-delivery-pedidos-e-configuracoes
-titulo: acompanhar pedidos e configurar o delivery de uma empresa
+titulo: configurar o delivery de uma empresa
 publico:
   - admin
 modulo: delivery
@@ -17,7 +17,7 @@ videos:
 
 ## objetivo
 
-acompanhar a fila de pedidos do delivery e ajustar taxa, tempo, pagamento e áreas de entrega.
+aqui você ajusta taxa, tempo, forma de pagamento e áreas de entrega do delivery de uma empresa.
 
 ## pré-requisitos
 
@@ -27,7 +27,7 @@ acompanhar a fila de pedidos do delivery e ajustar taxa, tempo, pagamento e áre
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas` (`/painel/guia/empresas`). [guia=menu:/painel/guia/empresas]
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas]
 2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar]
 3. Desça até `Conteúdo da ficha` e, no cartão `Configurações do delivery`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-config-delivery] [t=9]
 4. Em `Status`, ligue a chave `Delivery ativo (página pública visível)`. Desligado, a página de pedidos sai do ar. [guia=delivery-configuracoes.ativo] [t=65]
@@ -43,26 +43,19 @@ acompanhar a fila de pedidos do delivery e ajustar taxa, tempo, pagamento e áre
 14. Clique em `Adicionar área`. Repita para cada área. [guia=delivery-configuracoes.adicionar-area] [t=109]
 15. Em `Mensagem de Boas-Vindas`, escreva um recado curto para o topo da loja. [guia=delivery-configuracoes.boas-vindas] [t=111]
 16. Clique em `Salvar configurações`. [guia=delivery-configuracoes.salvar] [t=120]
-17. Para ver os pedidos, volte à edição da empresa (`Listar Empresas`, lápis na linha dela) e, no cartão `Fila de pedidos`, clique em `Gerenciar`. [guia=guia-empresas-editar.gerenciar-fila-de-pedidos] [t=14]
-18. Clique em `Ativar som` para ouvir um aviso quando chegar pedido novo. [guia=delivery-pedidos.ativar-som] [t=52]
-19. A lista se atualiza sozinha a cada 20 segundos. Para ver na hora, clique em `↻ Atualizar`. [guia=delivery-pedidos.atualizar] [t=59]
-20. Em cada pedido recebido, clique em `Iniciar preparo`. [guia=delivery-pedidos.acao-em_preparo] [t=37]
-21. Quando o entregador sair, clique em `Saiu para entrega`. [guia=delivery-pedidos.acao-saiu_para_entrega] [t=40]
-22. Na chegada, clique em `Marcar entregue`. [guia=delivery-pedidos.acao-entregue] [t=42]
 
 ## resultado
 
-a loja mostra taxa, tempo e mensagem configurados; os pedidos andam de `Recebido` até `Entregue`.
+a loja mostra taxa, tempo e mensagem configurados.
 
 ## desvios
 
 - O cliente só escolhe no checkout as áreas cadastradas em `Áreas de Atendimento`.
-- Pedidos entregues e cancelados ficam em `Finalizados / Cancelados`.
-- A empresa também acompanha pela área do cliente, em Delivery.
+- Para acompanhar os pedidos, veja o artigo "acompanhar a fila de pedidos do delivery".
 
 ## quando pedir ajuda
 
-peça ajuda se os pedidos não aparecerem, se a loja não abrir mesmo com `Delivery ativo` ligado ou se um pagamento parecer errado.
+peça ajuda se a loja não abrir mesmo com `Delivery ativo` ligado ou se um pagamento parecer errado.
 
 ## fontes
 

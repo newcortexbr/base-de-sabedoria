@@ -2,7 +2,7 @@
 
 status geral: rascunhos documentais. nenhum artigo está pronto para ingestão. não houve validação de interface, navegação, comportamento ou produção.
 
-contagens por público: usuario — 10 artigos; cliente — 9 artigos, dos quais 1 exclusivo para `parceiro-comercial`; admin — 36 artigos. total: 55 artigos. arquivos em `interno/` são relatórios e proposta, não artigos de atendimento. nunca carregar conteúdo de `interno/` no chat.
+contagens por público: usuario — 10 artigos; cliente — 14 artigos, dos quais 2 exclusivos para `parceiro-comercial`; admin — 47 artigos. total: 70 artigos. arquivos em `interno/` são relatórios e proposta, não artigos de atendimento. nunca carregar conteúdo de `interno/` no chat.
 
 escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem mandar o cliente seguir instruções da tela; o chat guia uma ação por vez. vídeos ficam em `videos.json` e só aparecem no chat quando vinculados no campo `videos:` de um artigo (primeiro da lista = mais específico da tarefa).
 
@@ -22,23 +22,27 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 ### acesso
 - [criar conta para empresa](usuario/acesso/criar-conta-empresa.md)
 
-## cliente (10)
+## cliente (14)
 
 ### tarefas da conta
 - [consultar pedidos de Delivery](cliente/consultar-pedidos-delivery.md)
+- [cancelar um pedido de delivery da empresa](cliente/cancelar-pedido-delivery.md)
 - [editar perfil público da empresa](cliente/editar-perfil-publico-da-empresa.md)
 - [gerenciar anúncios próprios](cliente/gerenciar-anuncios-proprios.md)
+- [publicar um anúncio novo na área do cliente](cliente/publicar-anuncio-novo.md)
 - [gerenciar cupons da empresa](cliente/gerenciar-cupons-da-empresa.md)
 - [gerenciar vagas da empresa](cliente/gerenciar-vagas-da-empresa.md)
+- [criar uma vaga nova na área do cliente](cliente/criar-vaga-nova.md)
 - [responder pedidos de orçamento pelo WhatsApp](cliente/responder-pedidos-de-orcamento.md)
 
 ### acesso
 - [entrar na área do cliente](cliente/acesso/entrar-area-cliente.md)
 - [recuperar senha da área do cliente](cliente/acesso/recuperar-senha-cliente.md)
 - [trocar a senha estando logado na área do cliente](cliente/acesso/trocar-senha-cliente.md)
-- [entrar ou recuperar acesso de parceiro comercial](cliente/acesso/entrar-recuperar-parceiro.md) — exclusivo a `parceiro-comercial`; não carregar para cliente comum.
+- [entrar na área de parceiro comercial](cliente/acesso/entrar-recuperar-parceiro.md) — exclusivo a `parceiro-comercial`; não carregar para cliente comum.
+- [recuperar a senha da área de parceiro comercial](cliente/acesso/recuperar-senha-parceiro.md) — exclusivo a `parceiro-comercial`; não carregar para cliente comum.
 
-## admin (40)
+## admin (47)
 
 ### acesso
 - [entrar no painel](admin/acesso/entrar-painel.md)
@@ -53,7 +57,8 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [notícias automáticas: fontes de RSS](admin/editorial/noticias-automaticas-fontes-rss.md)
 - [publicação e visibilidade](admin/editorial/publicacao-e-visibilidade.md)
 - [turismo: pontos](admin/editorial/turismo-pontos.md)
-- [turismo: roteiros e dicas](admin/editorial/turismo-roteiros-dicas.md)
+- [turismo: roteiros](admin/editorial/turismo-roteiros-dicas.md)
+- [turismo: dicas para visitantes](admin/editorial/turismo-dicas.md)
 
 ### comercial
 - [acompanhar faturas e pagamentos](admin/comercial/acompanhar-faturas-e-pagamentos.md)
@@ -63,21 +68,27 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [configurar planos comerciais](admin/comercial/configurar-planos-comerciais.md)
 - [gerenciar categorias do Guia](admin/comercial/gerenciar-categorias-do-guia.md)
 - [gerenciar empresas do Guia](admin/comercial/gerenciar-empresas-do-guia.md)
-- [gerenciar vagas e classificados](admin/comercial/gerenciar-vagas-e-classificados.md)
+- [localizar e gerenciar vagas de emprego](admin/comercial/gerenciar-vagas-e-classificados.md)
+- [localizar e gerenciar classificados](admin/comercial/gerenciar-classificados.md)
 - [gerenciar banners publicitários](admin/comercial/gerenciar-banners-publicitarios.md)
 - [gerenciar cupons do portal](admin/comercial/gerenciar-cupons-do-portal.md)
 - [Meus Clientes](admin/comercial/gerenciar-meus-clientes.md)
 - [importar empresas no Guia](admin/comercial/importar-empresas-no-guia.md)
 - [cardápio digital](admin/comercial/gerenciar-cardapio-digital.md)
 - [cardápio do delivery](admin/comercial/gerenciar-cardapio-do-delivery.md)
-- [delivery: pedidos e configurações](admin/comercial/operar-delivery-pedidos-e-configuracoes.md)
+- [delivery: configurar uma empresa](admin/comercial/operar-delivery-pedidos-e-configuracoes.md)
+- [delivery: acompanhar a fila de pedidos](admin/comercial/acompanhar-fila-de-pedidos-do-delivery.md)
 - [serviços da empresa](admin/comercial/gerenciar-servicos-da-empresa.md)
 - [equipe da empresa](admin/comercial/gerenciar-equipe-da-empresa.md)
 - [catálogo de produtos](admin/comercial/gerenciar-catalogo-de-produtos.md)
 - [quartos e suítes](admin/comercial/gerenciar-quartos-e-suites.md)
-- [parceiros e comissões](admin/comercial/gerenciar-parceiros.md)
+- [parceiros: cadastrar e criar o grupo de WhatsApp](admin/comercial/gerenciar-parceiros.md)
+- [parceiros: pagar a comissão por fora](admin/comercial/pagar-comissao-de-parceiro-por-fora.md)
+- [parceiros: comissão direto pelo Asaas](admin/comercial/comissao-de-parceiro-pelo-asaas.md)
 - [moderar solicitações de orçamento](admin/comercial/moderar-solicitacoes-de-orcamento.md)
-- [cadastrar vagas, áreas e contratantes](admin/comercial/cadastrar-vagas-areas-e-contratantes.md)
+- [cadastrar uma vaga](admin/comercial/cadastrar-vagas-areas-e-contratantes.md)
+- [criar áreas de vagas](admin/comercial/cadastrar-areas-de-vagas.md)
+- [cadastrar a empresa contratante de uma vaga](admin/comercial/cadastrar-contratante-de-vagas.md)
 - [receber por Pix na sua chave](admin/comercial/receber-por-pix-na-sua-chave.md)
 
 ### portal

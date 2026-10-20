@@ -16,44 +16,46 @@ videos:
 
 ## objetivo
 
-conectar a conta Asaas do portal pelo próprio chat, passo a passo, e entender a diferença entre conta conectada, conta aprovada no Asaas e cobrança ligada.
+aqui você conecta a conta Asaas do portal, passo a passo. Conta conectada, conta aprovada no Asaas e cobrança ligada são coisas diferentes.
 
 ## pré-requisitos
 
+- Importante: a chave dá acesso total à sua conta Asaas. Cole-a só no campo do portal; nunca mande por conversa, e-mail, chamado ou para o assistente.
 - Ter acesso administrativo ao portal.
 - Ter uma conta no Asaas com usuário administrador (só administrador cria chave de API).
 - Usar o Asaas pelo navegador do computador: a chave não pode ser gerada pelo aplicativo de celular.
 
 ## passos
 
-1. No menu da esquerda do painel, na parte `Sistema`, clique em `Configurações` e depois em `Cobrança` (`/painel/configuracoes/cobranca`). [guia=menu:/painel/configuracoes/cobranca] [t=9]
-2. No quadro `Conta Asaas`, veja o estado: `Não conectada`, `✓ Conectada` ou `Desligada`. Se já estiver `✓ Conectada`, pule para o passo 13. [guia=cobranca.estado] [t=15]
+1. No menu da esquerda do painel, na parte `Sistema`, clique em `Configurações` e depois em `Cobrança`. [guia=menu:/painel/configuracoes/cobranca] [t=9]
+2. No quadro `Conta Asaas`, veja o estado: `Não conectada`, `✓ Conectada` ou `Desligada`. Se já estiver `✓ Conectada`, pule para o passo em que você confere a opção `Cobrar pelo Asaas`. [guia=cobranca.estado] [t=15]
 3. Em outra aba do navegador, entre na sua conta em asaas.com com seu usuário e senha do Asaas. [guia=fora] [t=44]
-4. No Asaas, clique no seu nome, no canto superior direito, e depois em `Integrações`. [guia=fora] [t=47]
-5. Abra a parte `Chaves de API` e clique em `Gerar chave de API`. [guia=fora] [t=54]
-6. Dê um nome para a chave, por exemplo "portal da cidade". [guia=fora] [t=66]
-7. Deixe desmarcada a opção de saques pela API (o portal só precisa gerar cobranças) e clique em `Avançar`. [guia=fora] [t=71]
-8. Digite o código de segurança que o Asaas manda por SMS para o seu celular. [guia=fora] [t=78]
-9. Copie a chave assim que ela aparecer: o Asaas mostra a chave uma única vez. Se fechar sem copiar, gere outra. [guia=fora] [t=85]
-10. Volte à aba do painel e cole a chave no campo `Chave de API da sua conta Asaas`. [guia=cobranca.campo-chave] [t=96]
-11. Clique em `Conectar`. [guia=cobranca.conectar] [t=101]
-12. Aguarde a resposta: deu certo, aparece `✓ Conectada`; deu errado, aparece uma mensagem com o motivo (por exemplo, chave inválida ou revogada). [guia=cobranca.estado] [t=103]
-13. Confira a opção `Cobrar pelo Asaas`: ligada, o cliente paga por link (Pix, boleto ou cartão) e a confirmação é automática; desligada, o pagamento mostra a sua chave Pix e você confirma no Financeiro. [guia=cobranca.cobrar-pelo-asaas] [t=125]
-14. Para conferir uma conta já ligada, clique em `Testar conexão`. [guia=cobranca.testar] [t=120]
-15. Para ver faturas e cobranças, no menu da esquerda, na parte `Comercial`, clique em `Financeiro` (`/painel/financeiro`). [guia=menu:/painel/financeiro] [t=148]
-
-Importante: a chave dá acesso total à sua conta Asaas. Cole-a só no campo do portal; nunca mande por conversa, e-mail, chamado ou para o assistente.
+4. No Asaas, clique no seu nome, no canto superior direito. [guia=fora] [t=47]
+5. Clique em `Integrações`. [guia=fora]
+6. Abra a parte `Chaves de API`. [guia=fora] [t=54]
+7. Clique em `Gerar chave de API`. [guia=fora]
+8. Dê um nome para a chave, por exemplo "portal da cidade". [guia=fora] [t=66]
+9. Deixe desmarcada a opção de saques pela API (o portal só precisa gerar cobranças). [guia=fora] [t=71]
+10. Clique em `Avançar`. [guia=fora]
+11. Digite o código de segurança que o Asaas manda por SMS para o seu celular. [guia=fora] [t=78]
+12. Copie a chave assim que ela aparecer: o Asaas mostra a chave uma única vez. Se fechar sem copiar, gere outra. [guia=fora] [t=85]
+13. Volte à aba do painel e cole a chave no campo `Chave de API da sua conta Asaas`. [guia=cobranca.campo-chave] [t=96]
+14. Clique em `Conectar`. [guia=cobranca.conectar] [t=101]
+15. Aguarde a resposta: deu certo, aparece `✓ Conectada`; deu errado, aparece uma mensagem com o motivo (por exemplo, chave inválida ou revogada). [guia=cobranca.estado] [t=103]
+16. Confira se a opção `Cobrar pelo Asaas` está ligada. [guia=cobranca.cobrar-pelo-asaas] [t=125]
+17. Para conferir uma conta já ligada, clique em `Testar conexão`. [guia=cobranca.testar] [t=120]
+18. Para ver faturas e cobranças, no menu da esquerda, na parte `Comercial`, clique em `Financeiro`. [guia=menu:/painel/financeiro] [t=148]
 
 ## resultado
 
-O quadro mostra `✓ Conectada` e a opção `Cobrar pelo Asaas` indica se a cobrança automática está ligada. O Financeiro apresenta as faturas e as opções de cada uma.
+O quadro mostra `✓ Conectada`. Com `Cobrar pelo Asaas` ligado, o cliente paga por link (Pix, boleto ou cartão) e a confirmação é automática. Desligado, o pagamento mostra a chave Pix do portal e você confirma no Financeiro (veja o artigo "receber por Pix direto na sua chave, sem o Asaas"). A opção `Cobrar pelo Asaas` indica se a cobrança automática está ligada. O Financeiro apresenta as faturas e as opções de cada uma.
 
 ## desvios
 
 - Conectada não é o mesmo que cobrando: com `Cobrar pelo Asaas` desligado, nada é cobrado pelo Asaas.
 - Conta aprovada é assunto do próprio Asaas: se o Asaas avisar que a conta está em análise ou pede documentos, isso é resolvido lá, não no portal.
 - Se aparecer o aviso de que a cobrança funciona mas a confirmação automática não, os pagamentos pelo link precisam ser confirmados à mão no Financeiro enquanto o aviso estiver lá.
-- Chave sumiu no Asaas: ela não pode ser recuperada; gere uma nova e repita a partir do passo 5.
+- Chave sumiu no Asaas: ela não pode ser recuperada; gere uma nova e repita a partir de gerar a chave de API.
 - Conexão não significa, por si só, que uma fatura foi enviada, paga ou confirmada; a via de cobrança pode variar por fatura.
 
 ## quando pedir ajuda

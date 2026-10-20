@@ -16,29 +16,30 @@ videos:
 
 ## objetivo
 
-cadastrar a chave Pix do portal, protegida por um código do celular, e o WhatsApp que recebe os comprovantes, para cobrar as empresas sem o Asaas.
+aqui você cadastra a chave Pix do portal e o WhatsApp que recebe os comprovantes, para cobrar as empresas sem o Asaas. A chave é protegida por um código do celular.
 
 ## pré-requisitos
 
 - Ter acesso administrativo ao portal.
 - Ter um aplicativo autenticador no celular, como o Google Authenticator.
-- Sem o Asaas conectado, ou com `Cobrar pelo Asaas` desligado, o quadro `Recebimento por Pix` fica `✓ Em uso`. Com o Asaas ligado ele fica como `Reserva`.
+- Sem o Asaas conectado, ou com `Cobrar pelo Asaas` desligado, o quadro `Recebimento por Pix` fica `✓ Em uso`. Para receber pelo Asaas, veja o artigo "conectar a conta Asaas e entender a cobrança".
 
 ## passos
 
-1. No menu da esquerda do painel, na parte `Sistema`, clique em `Configurações` e depois em `Cobrança` (`/painel/configuracoes/cobranca`). [guia=menu:/painel/configuracoes/cobranca] [t=155]
+1. No menu da esquerda do painel, na parte `Sistema`, clique em `Configurações` e depois em `Cobrança`. [guia=menu:/painel/configuracoes/cobranca] [t=155]
 2. Desça até o quadro `Recebimento por Pix`. [guia=pix.quadro] [t=158]
 3. Em `Chave Pix`, clique em `cadastrar com autenticador` (ou `trocar com autenticador`, se já houver chave). [guia=pix.chave] [t=164]
 4. Na primeira vez, abra o aplicativo autenticador no celular e leia o QR Code que aparece na janela `Proteja a sua chave Pix`. [guia=autenticador.qr] [t=170]
 5. Digite em `Código do autenticador` os 6 números que aparecem no aplicativo. [guia=autenticador.codigo] [t=176]
 6. Clique em `Ativar`. [guia=autenticador.ativar] [t=180]
-7. Aparecem 6 códigos de reserva: servem se você perder o celular. Clique em `Baixar` ou `Copiar`, guarde em lugar seguro e clique em `Já guardei`. [guia=autenticador.ja-guardei] [t=183]
-8. Na janela `Trocar a chave Pix`, escreva a chave em `Nova chave Pix`. [guia=pix.nova-chave] [t=193]
-9. Em `Instruções para o cliente`, escreva o que a empresa deve saber para pagar (por exemplo, em nome de quem está a chave). [guia=pix.instrucoes] [t=195]
-10. Digite de novo o código do aplicativo autenticador. [guia=autenticador.codigo] [t=198]
-11. Clique em `Trocar chave`. [guia=pix.trocar-chave] [t=200]
-12. Em `WhatsApp que recebe os comprovantes`, escreva o número que vai receber os comprovantes. [guia=pix.whatsapp] [t=203]
-13. Clique em `Salvar WhatsApp`. Deve aparecer `✓ WhatsApp salvo.` [guia=pix.salvar-whatsapp] [t=206]
+7. Aparecem 6 códigos de reserva, que servem se você perder o celular. Clique em `Baixar` ou `Copiar` e guarde em lugar seguro. [guia=autenticador.ja-guardei] [t=183]
+8. Clique em `Já guardei`. [guia=autenticador.ja-guardei]
+9. Na janela `Trocar a chave Pix`, escreva a chave em `Nova chave Pix`. [guia=pix.nova-chave] [t=193]
+10. Em `Instruções para o cliente`, escreva o que a empresa deve saber para pagar (por exemplo, em nome de quem está a chave). [guia=pix.instrucoes] [t=195]
+11. Digite de novo o código do aplicativo autenticador. [guia=autenticador.codigo] [t=198]
+12. Clique em `Trocar chave`. [guia=pix.trocar-chave] [t=200]
+13. Em `WhatsApp que recebe os comprovantes`, escreva o número que vai receber os comprovantes. [guia=pix.whatsapp] [t=203]
+14. Clique em `Salvar WhatsApp`. Deve aparecer `✓ WhatsApp salvo.` [guia=pix.salvar-whatsapp] [t=206]
 
 ## resultado
 

@@ -17,7 +17,7 @@ videos:
 
 ## objetivo
 
-cadastrar os produtos que o cliente pode pedir pelo portal com entrega, com tamanhos e adicionais.
+aqui você cadastra os produtos que o cliente pode pedir com entrega, com tamanhos e adicionais.
 
 ## pré-requisitos
 
@@ -27,7 +27,7 @@ cadastrar os produtos que o cliente pode pedir pelo portal com entrega, com tama
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas` (`/painel/guia/empresas`). [guia=menu:/painel/guia/empresas]
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas]
 2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar]
 3. Desça até `Conteúdo da ficha` e, no cartão `Cardápio do delivery`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-cardapio-delivery] [t=22]
 4. À esquerda, em `Seções`, clique no botão `+` para criar uma seção. [guia=delivery-cardapio.nova-secao] [t=29]
@@ -52,7 +52,7 @@ cadastrar os produtos que o cliente pode pedir pelo portal com entrega, com tama
 23. Escreva o nome da opção. [guia=delivery-cardapio.nome-opcao]
 24. Informe o preço: 0 = incluso; com valor = custo a mais. [guia=delivery-cardapio.preco-opcao]
 25. Clique em `Salvar` ao lado da opção. Repita os três últimos passos para cada opção. [guia=delivery-cardapio.salvar-opcao]
-26. Grupos e opções são salvos na hora. Clique em `Salvar alterações` só se tiver mudado os dados do próprio produto. [guia=delivery-cardapio.salvar-produto]
+26. Grupos e opções são salvos na hora. Se mudou os dados do próprio produto, clique em `Salvar alterações`. [guia=delivery-cardapio.salvar-produto]
 
 ## resultado
 

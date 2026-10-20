@@ -16,7 +16,7 @@ videos:
 
 ## objetivo
 
-mostrar os profissionais da empresa com foto, nome e especialidade.
+aqui você mostra os profissionais da empresa, com foto, nome e especialidade.
 
 ## pré-requisitos
 
@@ -26,7 +26,7 @@ mostrar os profissionais da empresa com foto, nome e especialidade.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas` (`/painel/guia/empresas`). [guia=menu:/painel/guia/empresas]
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas]
 2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar] [t=19]
 3. Desça até `Conteúdo da ficha` e, no cartão `Equipe`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-equipe] [t=22]
 4. Clique em `Adicionar membro`. [guia=guia-empresas-equipe.adicionar] [t=43]

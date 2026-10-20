@@ -16,15 +16,15 @@ videos:
 ---
 
 ## objetivo
-cadastrar e acompanhar notícias no portal, entendendo a diferença entre rascunho, publicação agendada e conteúdo no ar.
+aqui você escreve, publica e acompanha as notícias do portal. Rascunho fica guardado, agendada entra no ar numa data marcada e publicada já está no ar.
 
 ## pré-requisitos/permissões
-O administrador do portal gerencia conteúdo pelo painel. Jornalista não entra em `/painel`: usa a área do cliente em `/minha-conta` e só tem as rotas de Notícias autorizadas ao seu papel. Ter um menu visível não concede permissão; o servidor decide o acesso.
+O administrador usa o painel. O jornalista não usa o painel: entra pela área do cliente e só vê o que o papel dele permite.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Notícias` e depois em `Listar Notícias` (`/painel/noticias`). [guia=menu:/painel/noticias] [t=23]
-2. Para escrever uma notícia nova, clique no botão `+ Cadastrar Notícia` no topo da lista, ou no menu em `Cadastrar Notícia` (`/painel/noticias/cadastrar`). [guia=noticias.cadastrar] [t=49]
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Notícias` e depois em `Listar Notícias`. [guia=menu:/painel/noticias] [t=23]
+2. Para escrever uma notícia nova, clique no botão `+ Cadastrar Notícia` no topo da lista. [guia=noticias.cadastrar] [t=49]
 3. Escreva o `Título *` da notícia. [guia=noticias-cadastrar.titulo] [t=52]
 4. Se quiser, escreva o `Subtítulo`. [guia=noticias-cadastrar.subtitulo]
 5. Se quiser, escreva o `Título curto`: ele aparece nos cartões da página inicial. [guia=noticias-cadastrar.titulo-curto] [t=54]
@@ -35,12 +35,12 @@ O administrador do portal gerencia conteúdo pelo painel. Jornalista não entra 
 10. Preencha a `Legenda` da foto. [guia=noticias-cadastrar.legenda] [t=87]
 11. Preencha os `Créditos` da foto. [guia=noticias-cadastrar.creditos]
 12. Em `Publicação`, escolha o `Status`: `Rascunho` (fica guardada), `Publicado` (vai ao ar) ou `Arquivado`. [guia=noticias-cadastrar.status] [t=89]
-13. Para entrar no ar em outro dia, ligue `Agendar notícia` (essa opção só aparece com o status `Publicado`). [guia=noticias-cadastrar.agendar] [t=92]
+13. Para entrar no ar em outro dia, ligue `Agendar notícia` (só aparece com o status `Publicado`). [guia=noticias-cadastrar.agendar] [t=92]
 14. Com `Agendar notícia` ligado, escolha o dia e a hora em `Publicar em`. [guia=noticias-cadastrar.publicar-em]
 15. Se quiser a notícia em evidência na página inicial, ligue `Destaque na janela principal`. [guia=noticias-cadastrar.destaque] [t=94]
-16. Clique em `Adicionar`. (Ao corrigir uma notícia que já existe, o botão se chama `Salvar`.) [guia=noticias-cadastrar.salvar] [t=98]
+16. Clique em `Adicionar`. Ao corrigir uma notícia que já existe, o botão se chama `Salvar`. [guia=noticias-cadastrar.salvar] [t=98]
 17. Para achar uma notícia na lista, escreva no campo `Buscar por título...`. [guia=noticias.buscar] [t=25]
-18. Para filtrar, use a caixa `Todos os status`. Ao lado ficam também as caixas de categoria e subcategoria. [guia=noticias.status] [t=28]
+18. Para filtrar, use a caixa `Todos os status`. [guia=noticias.status] [t=28]
 19. Para filtrar por data, use as duas datas de publicação (de e até). [guia=noticias.periodo]
 20. Para corrigir uma notícia, clique no ícone de lápis (`Editar`) na linha da notícia que você quer. [guia=noticias.editar]
 21. Confira a coluna `Status`: `Rascunho` (guardada, fora do ar), `Publicado` (no ar) ou `agendado` (vai entrar no ar na data marcada). [guia=noticias.status-linha]

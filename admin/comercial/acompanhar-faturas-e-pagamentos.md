@@ -16,7 +16,7 @@ videos:
 
 ## objetivo
 
-consultar faturas de clientes e entender a diferença entre acompanhar, cobrar e confirmar um pagamento.
+aqui você consulta as faturas dos clientes e vê o que já foi pago. Ver a fatura, cobrar o cliente e confirmar o pagamento são coisas diferentes.
 
 ## pré-requisitos
 
@@ -25,15 +25,15 @@ consultar faturas de clientes e entender a diferença entre acompanhar, cobrar e
 
 ## passos
 
-1. No menu da esquerda, na parte `Comercial`, clique em `Financeiro` (`/painel/financeiro`). [guia=menu:/painel/financeiro] [t=9]
-2. No topo da página você vê quanto há `A receber dos clientes` e, se houver, quanto você tem `A pagar` a parceiros. [guia=financeiro.resumo] [t=21]
+1. No menu da esquerda, na parte `Comercial`, clique em `Financeiro`. [guia=menu:/painel/financeiro] [t=9]
+2. No topo da página, veja quanto há `A receber dos clientes` e, se houver, quanto você tem `A pagar` a parceiros. [guia=financeiro.resumo] [t=21]
 3. Logo abaixo, clique numa das abas para ver as faturas: `A vencer`, `Vencidas`, `Pagas` ou `Canceladas`. [guia=financeiro.abas] [t=35]
 4. Use os filtros de datas, de módulo e `Como paga` para reduzir a lista. [guia=financeiro.filtros] [t=42]
 5. Para achar uma fatura, escreva o nome do cliente em `Buscar por cliente…`. [guia=financeiro.busca] [t=48]
 6. Confira as informações da linha da fatura antes de fazer qualquer coisa: cliente, plano, se a cobrança já foi enviada, vencimento e valor. [guia=financeiro.fatura] [t=55]
 7. Para reenviar o link, clique em `Copiar link de pagamento` na linha da fatura. [guia=financeiro.copiar-link] [t=60]
 8. Para cobrar pelo WhatsApp, clique em `Cobrar pelo WhatsApp` na linha da fatura: abre a conversa com a mensagem pronta. [guia=financeiro.cobrar] [t=65]
-9. Se a linha avisar `Cobrança ainda não enviada`, o botão `Enviar agora` manda a cobrança. Em caso de dúvida, pare e peça ajuda a uma pessoa. [guia=financeiro.enviar-agora]
+9. Se a linha avisar `Cobrança ainda não enviada`, clique em `Enviar agora` para mandar a cobrança. Em caso de dúvida, peça ajuda a uma pessoa. [guia=financeiro.enviar-agora]
 10. Se o cliente pagou por fora (dinheiro, transferência), use só o botão `Já recebi`, quando ele aparecer na linha. O plano continua ativo. [guia=financeiro.ja-recebi] [t=72]
 
 ## resultado

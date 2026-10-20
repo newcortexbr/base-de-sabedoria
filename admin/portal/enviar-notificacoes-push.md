@@ -16,7 +16,7 @@ videos:
 
 ## objetivo
 
-enviar avisos para quem aceitou receber e ver quantas pessoas abriram.
+aqui você envia avisos para quem aceitou receber e vê quantas pessoas abriram.
 
 ## pré-requisitos
 
@@ -24,13 +24,13 @@ enviar avisos para quem aceitou receber e ver quantas pessoas abriram.
 
 ## passos
 
-1. No menu da esquerda, na parte `Sistema`, clique em `Notificações Push` (`/painel/notificacoes`). [guia=menu:/painel/notificacoes] [t=6]
-2. No topo da página você vê quantas pessoas aceitaram receber avisos, quantos avisos já foram enviados no mês e quantas pessoas abriram. [guia=notificacoes.resumo] [t=12]
+1. No menu da esquerda, na parte `Sistema`, clique em `Notificações Push`. [guia=menu:/painel/notificacoes] [t=6]
+2. No topo da página, veja quantas pessoas aceitaram receber avisos, quantos avisos já foram enviados no mês e quantas pessoas abriram. [guia=notificacoes.resumo] [t=12]
 3. Para o site perguntar aos visitantes se querem receber avisos, marque a opção `Convidar visitantes a receber notificações`. Não precisa salvar: muda na hora. [guia=notificacoes.convidar] [t=22]
-4. Mais abaixo, no quadro `Histórico`, você vê o que já foi enviado e quantas pessoas abriram. [guia=notificacoes.historico] [t=42]
+4. Mais abaixo, no quadro `Histórico`, veja o que já foi enviado e quantas pessoas abriram. [guia=notificacoes.historico] [t=42]
 5. No quadro `Nova notificação`, escreva o `Título` (até 50 letras). [guia=notificacoes.titulo] [t=51]
 6. Escreva a `Mensagem` (até 120 letras). [guia=notificacoes.mensagem] [t=54]
-7. Escreva o `Link`, que é o endereço completo da página que vai abrir (começa com `https://` ou `http://`). Ao lado, você vê como o aviso vai aparecer no celular. [guia=notificacoes.link] [t=57]
+7. Escreva o `Link`, que é o endereço completo da página que vai abrir (começa com `https://` ou `http://`). Ao lado, a prévia mostra como o aviso vai aparecer no celular. [guia=notificacoes.link] [t=57]
 8. Em `Quando`, escolha `Agora` ou `Agendar`. [guia=notificacoes.quando] [t=72]
 9. Se escolheu `Agendar`, informe a `Data`. [guia=notificacoes.data] [t=74]
 10. Informe também a `Hora`. [guia=notificacoes.hora]
