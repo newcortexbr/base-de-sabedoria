@@ -27,7 +27,7 @@ acessar as categorias do Guia para revisar sua configuração.
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Gerenciar Categorias` (`/painel/guia/categorias`). [guia=menu:/painel/guia/categorias] [t=14]
 2. Procure na lista a categoria que você quer ver. A coluna `Empresas` mostra quantas empresas estão nela. [guia=guia-categorias.tabela] [t=22]
-3. Antes de desligar uma categoria, veja se há empresas nela. Se houver, pense em passar essas empresas para outra categoria, porque elas somem do site junto com a categoria.
+3. Antes de desligar uma categoria, veja se há empresas nela. Se houver, pense em passar essas empresas para outra categoria, porque elas somem do site junto com a categoria. [guia=guia-categorias.tabela]
 4. Para mudar uma categoria, clique em `Editar` na linha dela. [guia=guia-categorias.editar] [t=109]
 5. Para criar uma nova, clique em `+ Nova Categoria`. Ela abre uma janela com o formulário. [guia=guia-categorias.nova] [t=35]
 6. Escreva o nome da categoria. [guia=guia-categorias.nome] [t=37]

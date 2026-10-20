@@ -35,7 +35,7 @@ enviar avisos para quem aceitou receber e ver quantas pessoas abriram.
 9. Se escolheu `Agendar`, informe a `Data`. [guia=notificacoes.data] [t=74]
 10. Informe também a `Hora`. [guia=notificacoes.hora]
 11. Clique no botão `Enviar para…` (ou `Agendar para…`), que mostra quantas pessoas vão receber. [guia=notificacoes.enviar] [t=79]
-12. Confirme na janela que aparece. Depois de enviado, o aviso não pode ser desfeito.
+12. Confirme na janela que aparece. Depois de enviado, o aviso não pode ser desfeito. [guia=notificacoes.enviar]
 13. Um aviso agendado ainda pode ser cancelado no quadro `Histórico`, no botão `Cancelar` da linha dele. [guia=notificacoes.cancelar]
 
 ## resultado

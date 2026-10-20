@@ -28,7 +28,7 @@ acesso ao painel e permissão para administrar o módulo correspondente. Classif
 6. Para as subcategorias de notícias: no mesmo menu `Notícias`, clique em `Gerenciar Subcategorias` (`/painel/noticias/subcategorias`). [guia=menu:/painel/noticias/subcategorias]
 7. Para as categorias de artigos: no menu `Artigos`, clique em `Categorias` (`/painel/blog/categorias`). [guia=menu:/painel/blog/categorias]
 8. Para as categorias de turismo: no menu `Guia Turístico / Eventos`, clique em `Categorias` (`/painel/turismo/categorias`). [guia=menu:/painel/turismo/categorias]
-9. Antes de excluir ou desligar uma categoria, leia o aviso que aparece sobre o que vai ser afetado. Se tiver dúvida, peça ajuda.
+9. Antes de excluir ou desligar uma categoria, leia o aviso que aparece sobre o que vai ser afetado. Se tiver dúvida, peça ajuda. [guia=noticias-categorias.excluir]
 
 ## resultado
 cada conteúdo usa categorias do seu módulo. Categoria inativa no Guia esconde empresas vinculadas; essa regra específica não deve ser extrapolada para categorias editoriais.

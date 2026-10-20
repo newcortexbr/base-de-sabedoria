@@ -43,7 +43,7 @@ O administrador do portal gerencia conteúdo pelo painel. Jornalista não entra 
 18. Para filtrar, use a caixa `Todos os status`. Ao lado ficam também as caixas de categoria e subcategoria. [guia=noticias.status] [t=28]
 19. Para filtrar por data, use as duas datas de publicação (de e até). [guia=noticias.periodo]
 20. Para corrigir uma notícia, clique no ícone de lápis (`Editar`) na linha da notícia que você quer. [guia=noticias.editar]
-21. Confira a coluna `Status`: `Rascunho` (guardada, fora do ar), `Publicado` (no ar) ou `agendado` (vai entrar no ar na data marcada).
+21. Confira a coluna `Status`: `Rascunho` (guardada, fora do ar), `Publicado` (no ar) ou `agendado` (vai entrar no ar na data marcada). [guia=noticias.status-linha]
 
 ## resultado
 A lista reflete o estado do conteúdo. Uma notícia marcada como publicada, mas com data futura, aparece como `agendado` e fica escondida do público até a data chegar.

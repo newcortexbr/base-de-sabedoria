@@ -22,10 +22,10 @@ abra o formulário ou registro do próprio conteúdo e use as opções de mídia
 
 ## passos
 
-1. Em notícia ou artigo, use o campo da foto de capa que fica no próprio formulário da notícia ou do artigo.
+1. Em notícia ou artigo, use o campo da foto de capa que fica no próprio formulário da notícia ou do artigo. [guia=noticias-cadastrar.foto-capa]
 2. Em evento, ponto turístico ou roteiro, abra a lista da tela correspondente. Aqui o exemplo é `Eventos`: no menu `Guia Turístico / Eventos`, clique em `Eventos` (`/painel/turismo/eventos`). [guia=menu:/painel/turismo/eventos]
 3. Clique em `Editar` na linha do item que você quer. [guia=eventos.editar]
-4. Dentro do formulário, desça até a parte `Galeria de fotos e vídeos`.
+4. Dentro do formulário, desça até a parte `Galeria de fotos e vídeos`. [guia=galeria.adicionar-fotos]
 5. Para adicionar fotos, clique em `+ Adicionar fotos`. Para tirar uma foto, use o botão de remover no próprio item. Num evento novo, as fotos são enviadas assim que você salvar o evento. [guia=galeria.adicionar-fotos]
 6. Para colocar um vídeo, clique em `Vídeo do YouTube`. [guia=galeria.modo-video]
 7. Cole o link do YouTube no campo de vídeo da galeria. [guia=galeria.link-video]

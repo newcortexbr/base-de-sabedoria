@@ -25,10 +25,10 @@ ver os pedidos de orçamento que visitantes enviaram para a empresa e falar com 
 
 ## passos
 
-1. No menu da esquerda da sua área, na parte `Orçamentos`, clique em `Pedidos recebidos` (`/minha-conta/orcamentos`).
-2. Procure o pedido. Cada cartão mostra o título, a data e a hora, o nome e o telefone de quem pediu. Se forem muitos, use o campo `Buscar por nome, número ou cidade`.
-3. Para ver a descrição, as fotos e o link que a pessoa mandou, clique em `Ver pedido completo`.
-4. Clique em `Responder no WhatsApp`. O WhatsApp abre a conversa com quem pediu, com uma mensagem já escrita.
+1. No menu da esquerda da sua área, na parte `Orçamentos`, clique em `Pedidos recebidos` (`/minha-conta/orcamentos`). [guia=menu:/minha-conta/orcamentos]
+2. Procure o pedido. Cada cartão mostra o título, a data e a hora, o nome e o telefone de quem pediu. Se forem muitos, use o campo `Buscar por nome, número ou cidade`. [guia=pedidos-orcamento.busca]
+3. Para ver a descrição, as fotos e o link que a pessoa mandou, clique em `Ver pedido completo`. [guia=pedidos-orcamento.ver-completo]
+4. Clique em `Responder no WhatsApp`. O WhatsApp abre a conversa com quem pediu, com uma mensagem já escrita. [guia=pedidos-orcamento.whatsapp]
 
 ## resultado esperado
 o WhatsApp abre com a conversa de quem pediu o orçamento. ao clicar em `Responder no WhatsApp`, o pedido fica marcado como `Visto`.

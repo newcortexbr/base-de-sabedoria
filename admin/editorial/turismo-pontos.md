@@ -34,7 +34,7 @@ acesse pelo painel do portal com permissão de administração e módulo Turismo
 10. Clique em `Cadastrar ponto`. [guia=pontos-novo.cadastrar] [t=80]
 11. Para achar um ponto na lista, escreva o nome no campo `Buscar ponto turístico...`. [guia=pontos.campo-busca]
 12. Clique em `Buscar`. [guia=pontos.buscar]
-13. No topo da página há também os botões `Categorias` (`/painel/turismo/categorias`), `Roteiros` e `Eventos`, que levam às outras telas de turismo.
+13. No topo da página há também os botões `Categorias` (`/painel/turismo/categorias`), `Roteiros` e `Eventos`, que levam às outras telas de turismo. [guia=pontos.atalhos-turismo]
 14. Para mudar as fotos de um ponto, clique em `Editar` na linha do ponto que você quer (`/painel/turismo/pontos/[id]`) e use a parte `Galeria de fotos e vídeos`. [guia=pontos.editar]
 
 ## resultado

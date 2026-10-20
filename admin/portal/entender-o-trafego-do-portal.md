@@ -18,9 +18,9 @@ explicar o que significa cada número do quadro Tráfego do portal, na tela inic
 
 ## passos
 
-1. No menu da esquerda, no topo, clique em `Painel`.
-2. No quadro `Tráfego do portal`, escolha o período: `7 dias`, `30 dias`, `Este mês` ou `Personalizado`.
-3. Confira os números dos cartões e, mais abaixo, os quadros `Acessos por dia`, `Acessos por seção` e `Mais lidas no período`.
+1. No menu da esquerda, no topo, clique em `Painel`. [guia=menu:/painel]
+2. No quadro `Tráfego do portal`, escolha o período: `7 dias`, `30 dias`, `Este mês` ou `Personalizado`. [guia=trafego.periodo]
+3. Confira os números dos cartões e, mais abaixo, os quadros `Acessos por dia`, `Acessos por seção` e `Mais lidas no período`. [guia=trafego.numeros]
 
 ## de onde vêm os números
 

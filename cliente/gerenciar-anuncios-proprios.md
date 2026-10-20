@@ -25,11 +25,11 @@ consultar, atualizar ou encerrar anúncios próprios na área de cliente.
 
 ## passos
 
-1. No menu da esquerda da sua área, na parte `O que eu publico`, clique em `Classificados` (`/minha-conta/classificados`).
-2. Em `Meus anúncios`, procure o anúncio. Use as abas no topo da lista para ver só um tipo (`Todos`, `Ativo`, `Pausado`, `Aguardando aprovação`, `Reprovado`, `Vendido`, `Encerrado`).
-3. Clique no anúncio para abrir a página `Editar anúncio`.
-4. Faça as mudanças e clique em `Salvar alterações`. Aparece a mensagem `Anúncio salvo`.
-5. Para publicar outro, clique em `Novo anúncio`. Preencha pelo menos o título, a descrição e uma foto, e clique em `Publicar anúncio`. Na primeira vez, antes disso aparece a página `Complete seu cadastro`.
+1. No menu da esquerda da sua área, na parte `O que eu publico`, clique em `Classificados` (`/minha-conta/classificados`). [guia=menu:/minha-conta/classificados]
+2. Em `Meus anúncios`, procure o anúncio. Use as abas no topo da lista para ver só um tipo (`Todos`, `Ativo`, `Pausado`, `Aguardando aprovação`, `Reprovado`, `Vendido`, `Encerrado`). [guia=meus-anuncios.filtros]
+3. Clique no anúncio para abrir a página `Editar anúncio`. [guia=meus-anuncios.editar]
+4. Faça as mudanças e clique em `Salvar alterações`. Aparece a mensagem `Anúncio salvo`. [guia=anuncio-form.salvar]
+5. Para publicar outro, clique em `Novo anúncio`. Preencha pelo menos o título, a descrição e uma foto, e clique em `Publicar anúncio`. Na primeira vez, antes disso aparece a página `Complete seu cadastro`. [guia=meus-anuncios.novo]
 
 ## resultado esperado
 você vê os anúncios associados ao próprio perfil e os estados exibidos, como `Ativo`, `Pausado`, `Aguardando aprovação`, `Reprovado`, `Vendido` ou `Encerrado`.
