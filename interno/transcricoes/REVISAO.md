@@ -58,6 +58,7 @@ Dados PJ (`JXWDV_IiAWQ`, `IKdKLgi-e94`) seguem fora do catálogo e sem vínculo.
 - cardápio digital: o vídeo fala em "adicionar prato"; no código aparece `Novo prato`. o artigo usa o nome do código.
 - os vídeos LP movidos para artigos de cliente são propaganda, não tutorial. confirmar se devem ser oferecidos pelo chat.
 - `cliente/acesso/trocar-senha-cliente.md` existe, mas não está no índice do `README.md` (já era assim antes desta revisão).
+  - resolvido em 2026-10-20: incluído no índice. `Novo prato` confirmado pelo humano.
 
 ## decisões do humano (2026-10-19)
 

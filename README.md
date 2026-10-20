@@ -22,7 +22,7 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 ### acesso
 - [criar conta para empresa](usuario/acesso/criar-conta-empresa.md)
 
-## cliente (9)
+## cliente (10)
 
 ### tarefas da conta
 - [consultar pedidos de Delivery](cliente/consultar-pedidos-delivery.md)
@@ -35,6 +35,7 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 ### acesso
 - [entrar na área do cliente](cliente/acesso/entrar-area-cliente.md)
 - [recuperar senha da área do cliente](cliente/acesso/recuperar-senha-cliente.md)
+- [trocar a senha estando logado na área do cliente](cliente/acesso/trocar-senha-cliente.md)
 - [entrar ou recuperar acesso de parceiro comercial](cliente/acesso/entrar-recuperar-parceiro.md) — exclusivo a `parceiro-comercial`; não carregar para cliente comum.
 
 ## admin (39)
