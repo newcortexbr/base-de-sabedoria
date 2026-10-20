@@ -24,7 +24,7 @@ decidir o que os clientes enviam antes de ir ao ar e acompanhar as denúncias fe
 
 ## passos
 
-1. No menu da esquerda, logo no começo, clique em `Aprovações e Denúncias` (`/painel/aprovacoes`).
+1. No menu da esquerda, logo no começo, clique em `Aprovações e Denúncias` (`/painel/aprovacoes`). [guia=menu:/painel/aprovacoes]
 2. No topo da página, no quadro `Como funciona neste portal`, marque ou desmarque `Exigir minha aprovação antes de publicar`. Marcado, o que os clientes enviam só vai ao ar depois que você aprovar. Muda na hora. [guia=aprovacoes-config:aprovacao] [t=16]
 3. No mesmo quadro, marque ou desmarque `Permitir que visitantes denunciem conteúdo`. Desmarcado, o botão "Denunciar" some do site. [guia=aprovacoes-config:denuncias] [t=31]
 4. Na aba `Aprovações`, clique em `Ver detalhe` na linha do envio que você quer conferir. [guia=aprovacoes.ver-detalhe] [t=56]
