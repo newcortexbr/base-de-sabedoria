@@ -43,3 +43,8 @@ Arquivo: `src/app/minha-conta/noticias/[id]/editar/page.tsx`
 - [menu/links] "9 itens: Início · Guia Comercial · Vagas de Emprego · Banners Publicitários · Classificados · Minha empresa · Planos e assinaturas · Segurança · Sair" — menu, na parte de cima, à esquerda (lista de 9 itens em coluna) (14,96,227,786)
 - [aviso] "Não foi possível carregar esta notícia agora. Tente novamente em insta" — conteúdo, faixa larga na parte de cima (288,144,960,59)
 - [link] "Voltar para minhas notícias" — conteúdo, na parte de cima, à direita (820,163,182,21)
+
+## o que você vê
+Formulário para mudar uma notícia que você escreveu.
+- Os mesmos campos de "Nova notícia", já preenchidos; o botão é "Salvar".
+- "Esta notícia não existe ou não é uma das suas": você só edita as notícias que escreveu.

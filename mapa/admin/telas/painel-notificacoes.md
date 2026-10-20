@@ -2,6 +2,16 @@
 
 Arquivo: `app/painel/notificacoes/page.tsx`
 
+## o que você vê
+Envia avisos (notificações) ao celular ou navegador de quem aceitou receber, e mostra o histórico.
+- resumo: inscritos, enviadas no mês e taxa média de abertura.
+- Convidar visitantes a receber notificações: liga ou desliga o convite no site; salva na hora.
+- Nova notificação: Título, Mensagem e Link (endereço começando com https).
+- Quando: enviar agora ou agendar com Data e Hora.
+- Enviar para N / Agendar para N: N é quantas pessoas vão receber; depois de enviada, a notificação não volta.
+- Histórico: situação (Agendada, Enviando, Enviada, Cancelada, Falhou), quantos receberam e quantos abriram; agendada pode ser cancelada.
+- aviso amarelo de envio indisponível: o envio ainda não está disponível neste ambiente.
+
 ## rota e gate
 - `/painel/notificacoes`. client. gate `PainelGuard`; sem gate de módulo (rota ausente de `lib/painel-menu.ts`).
 

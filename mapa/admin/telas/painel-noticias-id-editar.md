@@ -6,6 +6,18 @@
 - problemas: fato — a carga não tem `catch` (:15-17): erro de rede, 403 ou 500 vira "Notícia não encontrada" (aparência de 404) e deixa a promessa sem tratamento.
 - admin vs cliente: cliente edita em `/minha-conta/noticias/[id]/editar` só as dele; admin edita todas.
 
+## o que você vê
+Tela para mudar uma notícia que já existe; os campos são os mesmos do cadastro.
+- Título * e Título curto: o nome da notícia; o curto é usado onde há pouco espaço.
+- Subtítulo: frase logo abaixo do título.
+- Conteúdo da matéria *: o texto, com formatação, imagens e vídeos.
+- Foto de Capa (arraste ou clique), Legenda e Créditos: imagem principal e quem a fez.
+- Categorização: Categoria, Subcategoria e etiquetas (digite e aperte Enter) para separar o assunto.
+- Fonte da matéria: de onde veio a informação.
+- Publicação: Status (Rascunho, Publicado, Arquivado), Agendar notícia com a data em Publicar em, e Destaque na janela principal para ela aparecer no destaque da página inicial.
+- SEO e Endereço da página: como aparece no Google e o final do link; se ficarem vazios, são criados a partir do título.
+- se aparecer "Notícia não encontrada", a notícia pode ter sido apagada ou houve falha ao carregar; tente recarregar a página.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-noticias-id-editar.png](../prints/painel-noticias-id-editar.png) · dados brutos: [json](../prints/json/painel-noticias-id-editar.json)
 - aberta em `/painel/noticias/1/editar` com dados do banco de teste; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

@@ -8,6 +8,16 @@
 - problemas: nenhum confirmado.
 - admin vs cliente: equivale a `/minha-conta/classificados/[id]/editar`; o admin edita anúncios de qualquer anunciante e muda status/destaque livremente.
 
+## o que você vê
+Tela para mudar um anúncio classificado que já existe; os campos são os do cadastro.
+- Empresa anunciante *: quem anuncia; se não houver nenhum, cadastre um primeiro.
+- Dados do Anúncio: Título * (ex.: iPhone 13 128GB Azul), Descrição *, Categoria, Subcategoria, Condição e Preço (vazio = "A combinar").
+- fotos: pelo menos uma foto é obrigatória para publicar o anúncio; também aceita vídeo do YouTube.
+- Localização: cidade e bairro.
+- Contato: Nome do anunciante (quem responde), WhatsApp e E-mail de contato.
+- Configurações: Status (Ativo, Pausado, Encerrado, Vendido), Expira em (data em que sai do ar) e destaque.
+- Visualizações e Cliques no WhatsApp: quantas vezes o anúncio foi visto e quantas pessoas clicaram para chamar.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-classificados-id-editar.png](../prints/painel-classificados-id-editar.png) · dados brutos: [json](../prints/json/painel-classificados-id-editar.json)
 - aberta em `/painel/classificados/1/editar` com dados do banco de teste; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

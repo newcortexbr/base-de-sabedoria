@@ -59,3 +59,13 @@ Arquivo: `src/app/minha-conta/vagas/page.tsx`
 - [link] "Editar Auxiliar QA Editado" — conteúdo, no meio da tela, à direita (1101,467,40,40)
 - [botão] "Pausar Auxiliar QA Editado" — conteúdo, no meio da tela, à direita, logo abaixo de “Encerrada0” (1147,467,40,40)
 - [botão] "Excluir Auxiliar QA Editado" — conteúdo, no meio da tela, à direita, logo abaixo de “Encerrada0” (1193,467,40,40)
+
+## o que você vê
+Lista das suas vagas de emprego, com a situação de cada uma.
+- Vagas no ar / Em análise: quantas vagas em cada situação.
+- Faixa do plano: quantas vagas ativas o seu plano permite. Todo cliente tem o plano Grátis.
+- Nova vaga: fica desligada no limite do plano; encerre uma vaga ou mude de plano.
+- Filtros: Todas, Ativa, Pausada, Aguardando aprovação, Reprovada, Encerrada.
+- Lápis: editar. Pausar/Reativar: tira ou devolve a vaga ao site. Excluir: apaga (pede confirmação).
+- Aguardando aprovação: o portal vai revisar antes de ir ao ar.
+- Reprovada: mostra o motivo e "Corrigir e reenviar".

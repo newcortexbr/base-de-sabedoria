@@ -2,6 +2,18 @@
 
 Arquivos: `app/painel/clientes/page.tsx` (1001 linhas), `exportar.ts`
 
+## o que você vê
+Carteira de clientes que compram planos do portal: quem é cliente, o que contratou e quando vence.
+- faixa amarela de contratações aguardando confirmação de pagamento: clientes que contrataram e ainda não pagaram; o link abre a ficha.
+- cartões de contagem: mostram quantos clientes há em cada situação; clicar filtra a lista. Receita mensal recorrente: quanto entra por mês com os planos.
+- Buscar clientes e Filtrar por status: acham por nome, documento ou telefone e por situação (Com plano, Em dia, Vence em 7 dias, Vence em 30 dias, Atrasado, Sem plano, Aguardando pagamento).
+- colunas Cliente, WhatsApp, Planos, Contratado, Vencimento e Receita: quem é, contato, quantos planos tem, onde aparece, quando vence e quanto paga.
+- novo cliente / Editar cliente: cadastra nome, Pessoa física ou Pessoa jurídica, CPF/CNPJ, telefone, WhatsApp, e-mail e observações.
+- Nova senha: troca a senha de acesso do cliente.
+- bloquear / desbloquear: suspende o acesso sem apagar o cadastro. excluir apaga o cadastro e não pode ser desfeito.
+- exportar: baixa a lista em Excel, CSV ou PDF, ou todos os cadastros.
+- clicar no nome abre a ficha do cliente.
+
 ## rota e gate
 - `/painel/clientes`. client. gate `PainelGuard` (`app/painel/layout.tsx:38-96`): exige login; papel `admin` passa em tudo, `master` também, `sem_portal` só nas rotas de `SEM_PORTAL_ALLOWED` (`lib/painel-permissoes.ts:40`). sem gate de módulo (a rota não está em `MODULO_POR_PREFIXO_DE_ROTA`, `lib/painel-menu.ts`). menu: "Meus Clientes", seção Comercial (`components/painel/Sidebar.tsx:220`).
 

@@ -65,3 +65,13 @@ Arquivos: `app/painel/configuracoes/layout/topo/page.tsx` (521 linhas), `topo/Or
 - [botão] "Subir Orçamentos (e outros 21 parecidos)" — conteúdo, mais abaixo (rolando a página), ao centro (repetido ×22, um sob o outro) (683,1377,32,32)
 - [botão] "Voltar à ordem padrão" — conteúdo, mais abaixo (rolando a página), à esquerda (300,2023,129,36)
 - [botão] "Salvar Topo" — conteúdo, no fim da página, à esquerda, logo abaixo de “Voltar à ordem padrão” (300,2094,149,46)
+
+## o que você vê
+Muda o cabeçalho do site (a parte de cima, com logo e menu). A prévia ao lado atualiza enquanto você mexe.
+- Modelo do cabeçalho: Topo 1 a Topo 4 são arrumações diferentes de logo e menu; Topo 5 também mostra a previsão do tempo.
+- Tamanho da logo: Pequena, Média ou Grande.
+- Barra superior e Barra de navegação: cor de cada faixa do topo, em "Cor sólida" (uma cor) ou "Gradiente" (Cor 1 passando para Cor 2).
+- Links da navegação: cor do texto dos itens do menu.
+- Ordem do menu: arraste ou use as setas para subir e descer cada item. "Início" fica sempre primeiro. Item marcado "não aparece no site" está com o módulo desligado. "Voltar à ordem padrão" desfaz a ordem personalizada.
+- Como fica no seu site: prévia; nada muda no ar até salvar.
+- Salvar Topo: grava e publica.

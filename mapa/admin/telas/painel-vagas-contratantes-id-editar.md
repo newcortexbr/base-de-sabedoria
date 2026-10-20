@@ -7,6 +7,15 @@
 - problemas: nenhum confirmado.
 - admin vs cliente: admin redefine a senha do contratante; cliente usa a própria segurança.
 
+## o que você vê
+Tela para mudar os dados de uma empresa contratante; os campos são os do cadastro.
+- Nome *, Descrição, Logo e Cor do logo: como a empresa aparece no site.
+- Localização: cidade e bairro (escolha a cidade primeiro).
+- Áreas de atuação: as áreas em que a empresa contrata.
+- Redes sociais e contato: E-mail, WhatsApp, Site, Instagram, LinkedIn, YouTube.
+- Verificado: dá o selo de empresa conferida.
+- Painel do proprietário: cria o acesso do responsável, envia nova senha por e-mail ou remove o acesso.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-vagas-contratantes-id-editar.png](../prints/painel-vagas-contratantes-id-editar.png) · dados brutos: [json](../prints/json/painel-vagas-contratantes-id-editar.json)
 - aberta em `/painel/vagas/contratantes/1/editar` com dados do banco de teste; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

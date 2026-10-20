@@ -7,6 +7,15 @@
 - problemas: nenhum confirmado.
 - admin vs cliente: equivale a `/minha-conta/vagas/[id]/editar`.
 
+## o que você vê
+Tela para mudar uma vaga de emprego que já existe; os campos são os mesmos do cadastro.
+- Contratante *: a empresa que oferece a vaga; se ela não existir, use Cadastrar contratante.
+- Dados da Vaga: Título * (ex.: Desenvolvedor Full Stack Pleno), Área, Tipo de contrato, Carga horária (ex.: 44h, 12x36), Modelo de trabalho, Salário (ou a combinar), cidade e bairro.
+- Descrição da vaga *, Requisitos e benefícios (um por linha).
+- Contato / Candidatura: WhatsApp para contato, E-mail para currículo (mostra botão de e-mail na vaga) e link de site de recrutamento (mostra botão "Candidatar-se").
+- Configurações: Status (Ativa, Pausada, Encerrada), Expira em (data em que a vaga sai do ar), Destaque e Urgente.
+- Estatísticas: Visualizações (quantas vezes a vaga foi vista) e Cliques no WhatsApp (quantas pessoas clicaram para chamar).
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-vagas-id-editar.png](../prints/painel-vagas-id-editar.png) · dados brutos: [json](../prints/json/painel-vagas-id-editar.json)
 - aberta em `/painel/vagas/1/editar` com dados do banco de teste; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

@@ -39,3 +39,14 @@ Arquivos: `colunista-blog/novo/page.tsx`, `colunista-blog/ArtigoForm.tsx`, `_com
 - [título] "Novo artigo" — topo, no topo da página, ao centro (432,16,100,28)
 - [menu/links] "9 itens: Início · Guia Comercial · Vagas de Emprego · Banners Publicitários · Classificados · Minha empresa · Planos e assinaturas · Segurança · Sair" — menu, na parte de cima, à esquerda (lista de 9 itens em coluna) (14,96,227,786)
 - [título] "Escolha um plano" — conteúdo, na parte de cima, ao centro (419,126,698,23)
+
+## o que você vê
+Formulário para escrever e publicar (ou agendar) um artigo. Só abre com plano de Artigos ativo ou gratuito.
+- Complete seu cadastro: pode aparecer antes; "Preencher depois" pula por agora.
+- Título: obrigatório. Subtítulo: opcional.
+- Corpo: o texto do artigo.
+- Categoria: o assunto do artigo.
+- Agendar publicação: escolha data e hora para o artigo entrar no ar depois (opcional).
+- Foto de capa, com legenda e créditos (quem fez a foto).
+- Título SEO e descrição SEO: como o artigo aparece em buscadores como o Google (opcional).
+- Publicar / Agendar: o botão muda conforme a data escolhida. Não existe "salvar rascunho".

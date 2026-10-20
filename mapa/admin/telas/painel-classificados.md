@@ -8,6 +8,14 @@
 - problemas: fato — o admin alterna `ativo/encerrado` (:178) e o cliente alterna `ativo/pausado` (`minha-conta/classificados/page.tsx:149`): estados diferentes para a mesma ideia. fato — não há botão de aprovar/reprovar aqui (fica em `/painel/aprovacoes`).
 - admin vs cliente: cliente (`/minha-conta/classificados`) pausa/reativa, marca vendido, vê motivo de reprovação, prazo, plano/limite e cobrança de item pago. Admin faz pausar apenas via editar (campo status), vê todos, exclui e ignora limite de plano.
 
+## o que você vê
+Lista de todos os anúncios classificados (compra e venda) do portal.
+- abas Todos / Publicados no site / Incompletos (sem foto): anúncio sem foto não aparece no site.
+- Buscar por título ou descrição, categoria e Status, depois Filtrar.
+- Status: Ativo (no site), Pausado (escondido por enquanto), Encerrado (fechado), Vendido (marcado como vendido).
+- Preço: valor pedido; Local: cidade e bairro; Destaque: anúncio com mais visibilidade; WhatsApp: tem contato por WhatsApp.
+- botões: encerrar ou reativar, marcar como vendido (pede confirmação), Ver no site, Editar e apagar (com confirmação).
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-classificados.png](../prints/painel-classificados.png) · dados brutos: [json](../prints/json/painel-classificados.json)
 - aberta em `/painel/classificados`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

@@ -9,6 +9,13 @@
 - problemas: fato — mesmo `catch` único que vira "sem acesso" (:384). fato — upload falho mostra o nome do arquivo (:92), bom.
 - admin vs cliente: o cliente gerencia o catálogo em `/minha-conta/guia`. Admin equivalente.
 
+## o que você vê
+Catálogo de produtos de uma empresa (ex.: loja, revenda de carros), separado em seções.
+- seções: criar, apagar e mudar a ordem.
+- produto: Título * (ex.: Corolla XEi 2.0 Flex 2023), descrição, preço, preço promocional, Marca, detalhes (para veículos: ano, km, combustível, cor) e selo (Novo, Oferta, Mais vendido, Recente).
+- fotos e vídeo do YouTube: enviados ao salvar o produto; se algum arquivo não entrar, a tela avisa qual.
+- chave No ar / Fora do ar: mostra ou esconde o produto na página da empresa.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-guia-empresas-id-catalogo.png](../prints/painel-guia-empresas-id-catalogo.png) · dados brutos: [json](../prints/json/painel-guia-empresas-id-catalogo.json)
 - aberta em `/painel/guia/empresas/1/catalogo` com dados do banco de teste; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

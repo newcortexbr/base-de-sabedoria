@@ -7,6 +7,12 @@
 - estados: erro (:86); vazio "Nenhum organizador cadastrado" (:110) e com filtros (:139).
 - admin vs cliente: o organizador não se cria sozinho neste frontend; é o admin que cadastra e cria o login. Lacuna a confirmar: não achei autocadastro em `minha-conta` (hipótese).
 
+## o que você vê
+Lista de quem organiza eventos (pessoas ou empresas), que podem ter login para cuidar dos próprios eventos.
+- Buscar organizador por nome e ordem (Mais recentes primeiro / Nome A–Z).
+- número de eventos: quantos eventos cada organizador tem.
+- Editar abre o cadastro; apagar pede confirmação, e os eventos ligados perdem o vínculo com ele.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-eventos-organizadores.png](../prints/painel-turismo-eventos-organizadores.png) · dados brutos: [json](../prints/json/painel-turismo-eventos-organizadores.json)
 - aberta em `/painel/turismo/eventos/organizadores`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

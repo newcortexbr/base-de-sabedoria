@@ -53,3 +53,14 @@ Arquivos: `app/painel/configuracoes/cobranca/page.tsx` (474 linhas), `CartaoPix.
 - [selo] "··" — menu lateral, no meio da tela, à esquerda (16,858,32,32)
 - [campo] "WhatsApp que recebe os comprovantes" — conteúdo, mais abaixo (rolando a página), ao centro (511,920,377,44)
 - [botão] "Salvar WhatsApp" — conteúdo, mais abaixo (rolando a página), à direita (898,920,147,44)
+
+## o que você vê
+Aqui você escolhe como os clientes pagam: por link do Asaas (confirmação automática) ou pela sua chave Pix (você confirma na mão).
+- Conta Asaas: selo "Não conectada", "✓ Conectada" ou "Desligada", e a data em que foi conectada.
+- Chave de API da sua conta Asaas: cole a chave copiada do Asaas e clique em Conectar. depois, ela aparece escondida; "clique para trocar" deixa colar outra. a antiga só é trocada se a nova funcionar.
+- Cobrar pelo Asaas (liga/desliga): ligado, o cliente paga por link (Pix, boleto ou cartão) e a confirmação é automática. desligado, todo pagamento mostra a sua chave Pix e você confirma no Financeiro. desligar não apaga a chave.
+- Testar conexão: confere se a chave ainda funciona.
+- aviso de cobranças abertas: ao desligar, mostra que ainda há cobranças no Asaas; "Ver quais" leva ao Financeiro.
+- aviso "a confirmação automática não": a cobrança sai, mas o portal não fica sabendo sozinho que foi paga.
+- Recebimento por Pix: sua chave Pix (cadastrada com o autenticador, por segurança) e as instruções para o cliente. selo "✓ Em uso" quando é a forma de pagamento valendo; "Reserva" quando o Asaas está cobrando.
+- WhatsApp que recebe os comprovantes: número para onde o cliente manda o comprovante do Pix. é diferente do WhatsApp de contato do portal. "Salvar WhatsApp" grava.

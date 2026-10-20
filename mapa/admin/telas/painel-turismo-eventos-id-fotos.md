@@ -5,6 +5,10 @@
 - problemas: fato — o id é descartado; cai na lista.
 - admin vs cliente: o cliente tem `GaleriaDoEvento` dentro de `/minha-conta/eventos/[id]/editar`; equivalente.
 
+## o que você vê
+Endereço antigo das fotos de um evento: hoje ele leva direto para a lista de eventos.
+- as fotos e vídeos do evento agora ficam dentro do próprio formulário do evento, em Galeria de fotos e vídeos.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-eventos-id-fotos.png](../prints/painel-turismo-eventos-id-fotos.png) · dados brutos: [json](../prints/json/painel-turismo-eventos-id-fotos.json)
 - aberta em `/painel/turismo/eventos/1/fotos` (redirecionou para `/painel/turismo/eventos`) com dados do banco de teste; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

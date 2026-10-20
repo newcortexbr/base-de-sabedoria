@@ -40,3 +40,12 @@ Arquivos: `publicidade/nova/page.tsx`, `publicidade/EspelhoDaPagina.tsx`, `mapa-
 - [link] "Voltar para Banners Publicitários" — conteúdo, no topo da página, à esquerda (288,24,234,44)
 - [título] "Novo banner" — conteúdo, na parte de cima, ao centro (382,94,408,39)
 - [menu/links] "9 itens: Início · Guia Comercial · Vagas de Emprego · Banners Publicitários · Classificados · Minha empresa · Planos e assinaturas · Segurança · Sair" — menu, na parte de cima, à esquerda (lista de 9 itens em coluna) (14,96,227,786)
+
+## o que você vê
+Compra de um banner em 3 passos na mesma tela.
+- 1. Onde aparece: escolha a página e a posição no site.
+- 2. Por quanto tempo: 1 semana, 1 mês, 6 meses ou 1 ano; o preço vem do portal.
+- 3. Arte: envie a imagem. Trocar de página ou de posição com outro tamanho descarta a arte.
+- Espelho: prévia da página com a sua arte no lugar, em celular ou computador.
+- Link de destino e título: opcionais.
+- Pagar: gera a cobrança (Pix ou cartão); depois o banner vai para aprovação do portal.

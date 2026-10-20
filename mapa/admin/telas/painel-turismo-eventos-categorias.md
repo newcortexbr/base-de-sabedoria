@@ -8,6 +8,13 @@
 - problemas: nenhum confirmado. fato — falha em carregar eventos só zera as contagens (:141).
 - admin vs cliente: o organizador apenas escolhe a categoria no `EventoForm`.
 
+## o que você vê
+Lista dos tipos de evento (ex.: Show, Feira, Festival).
+- Buscar por nome; filtros de status (Ativas / Inativas) e Com eventos / Sem eventos.
+- número de eventos: quantos eventos usam cada categoria.
+- criar ou editar: nome da categoria; desligada, não aparece para escolher.
+- apagar pede confirmação, e os eventos dela ficam sem categoria.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-eventos-categorias.png](../prints/painel-turismo-eventos-categorias.png) · dados brutos: [json](../prints/json/painel-turismo-eventos-categorias.json)
 - aberta em `/painel/turismo/eventos/categorias`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

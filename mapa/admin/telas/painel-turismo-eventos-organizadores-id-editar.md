@@ -7,6 +7,11 @@
 - problemas: nenhum confirmado.
 - admin vs cliente: admin redefine a senha do organizador.
 
+## o que você vê
+Tela para mudar um organizador de eventos.
+- nome, descrição, Logo e Cor do logo: como o organizador aparece no site.
+- Painel do proprietário: cria o acesso do responsável, envia nova senha por e-mail ou remove o acesso.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-eventos-organizadores-id-editar.png](../prints/painel-turismo-eventos-organizadores-id-editar.png) · dados brutos: [json](../prints/json/painel-turismo-eventos-organizadores-id-editar.json)
 - aberta em `/painel/turismo/eventos/organizadores/1/editar` com dados do banco de teste; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

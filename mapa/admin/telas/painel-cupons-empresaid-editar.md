@@ -30,3 +30,15 @@ Arquivos: `app/painel/cupons/[empresaId]/editar/page.tsx`, `cupons/CupomForm.tsx
 - [botão] "Cancelar" — conteúdo, no meio da tela, ao centro, logo abaixo de “Ex: 10” (634,760,96,40)
 - [link] "Falar com o suporte no WhatsApp" — conteúdo, no meio da tela, à direita (1200,820,56,56)
 - [selo] "··" — menu lateral, no meio da tela, à esquerda (16,858,32,32)
+
+## o que você vê
+Muda o cupom de desconto de uma empresa do Guia.
+- Empresa: a empresa dona do cupom (não muda aqui).
+- Foto de capa do cupom: imagem que aparece no cupom.
+- Código do cupom: o código que o visitante usa; só letras e números, sem espaço nem acento (até 50).
+- Desconto (texto exibido): a frase do desconto mostrada no site, ex.: "10% OFF no rodízio" (até 100).
+- Descrição do cupom: regras e o que está incluso.
+- Condições de uso: restrições, ex.: "não cumulativo" (até 200).
+- Tipo de desconto: Percentual (%) ou Valor fixo (R$). Valor: o número do desconto; percentual vai de 0 a 100.
+- Validade: até quando o cupom vale.
+- Salvar cupom grava; Cancelar volta sem salvar.

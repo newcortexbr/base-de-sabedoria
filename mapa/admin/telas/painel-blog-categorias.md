@@ -7,6 +7,13 @@
 - problemas: nenhum confirmado. hipótese — excluir categoria com artigos depende da regra do servidor (a tela só mostra o erro).
 - admin vs cliente: o cliente (colunista) só escolhe categoria; não gerencia. Sem equivalente.
 
+## o que você vê
+Lista dos assuntos (categorias) em que os artigos são separados no site.
+- + Nova Categoria: cria um assunto novo, com nome e cor.
+- Cor: cor usada para destacar a categoria no site.
+- Buscar categoria e Status (Todas / Ativas / Inativas): filtros da lista. Categoria inativa não aparece para escolher.
+- lápis: muda nome, cor ou situação; lixeira: apaga, depois de confirmação. Se o sistema não deixar apagar, a tela mostra o motivo.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-blog-categorias.png](../prints/painel-blog-categorias.png) · dados brutos: [json](../prints/json/painel-blog-categorias.json)
 - aberta em `/painel/blog/categorias`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

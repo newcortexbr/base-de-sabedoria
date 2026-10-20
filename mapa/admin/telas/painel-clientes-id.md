@@ -2,6 +2,17 @@
 
 Arquivos: `app/painel/clientes/[id]/page.tsx` (1110 linhas); usa `ModalConfirmarPagamento` compartilhado com `/painel/financeiro`
 
+## o que você vê
+Ficha de um cliente: contato, planos contratados, faturas e o que ele tem no portal.
+- topo: nome, documento, telefone, WhatsApp, e-mail e observações; Editar muda esses dados.
+- aba Contratações: planos ativos e pendentes com preço, Período e Status; Histórico guarda os cancelados.
+- Registrar contratação: escolhe Seção, Onde aparece, Plano, Data de início, Preço cobrado (R$) e observações.
+- confirmar pagamento: marca como pago um plano que esperava pagamento e libera o conteúdo.
+- renovar: cria uma nova contratação do mesmo plano. Cancelar contratação pede um Motivo.
+- aba Financeiro: lista as faturas com Vencimento, Valor e Status (Em aberto, Paga, Vencida, Cancelada); dá para confirmar o pagamento ou Cancelar fatura com motivo.
+- aba No portal: empresas do Guia, contratantes de vagas, anunciantes de classificados e banners ligados a este cliente.
+- bloquear, excluir e trocar senha ficam na lista de clientes, não nesta ficha.
+
 ## rota e gate
 - `/painel/clientes/<id>`. client, `Header titulo="Meus Clientes"`. mesmo gate de `/painel/clientes`: `PainelGuard`, sem gate de módulo. o `id` vem de `params` (promise) e vira `Number(id)` sem validar (`:839`).
 

@@ -38,3 +38,10 @@ Arquivo: `src/app/minha-conta/planos/page.tsx`
 - [menu/links] "9 itens: Início · Guia Comercial · Vagas de Emprego · Banners Publicitários · Classificados · Minha empresa · Planos e assinaturas · Segurança · Sair" — menu, na parte de cima, à esquerda (lista de 9 itens em coluna) (14,96,227,786)
 - [título] "À venda neste portal" — conteúdo, faixa larga na parte de cima (288,156,960,27)
 - [link] "Guia ComercialGratuito" — conteúdo, faixa larga na parte de cima (288,195,960,76)
+
+## o que você vê
+Resumo de todos os seus planos, um por linha, e o que mais está à venda.
+- Suas assinaturas: seções que você tem ou já teve, com plano, valor e data de renovação.
+- Selo: Ativo, Aguardando pagamento, Vencido ou Cancelado.
+- Disponível para assinar: seções que você ainda não tem, com "Gratuito" ou "A partir de R$ …".
+- Cada linha leva à tela de planos daquela seção. Eventos, Banners e Notícias são pagos por item e levam à tela da própria seção.

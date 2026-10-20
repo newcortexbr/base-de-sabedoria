@@ -5,6 +5,10 @@
 - problemas: fato — o id não é preservado; o usuário cai na lista e precisa reabrir o roteiro.
 - admin vs cliente: Turismo não tem área do cliente em `src/app/minha-conta` (sem pasta de turismo). Só o admin gerencia; não há lacuna de paridade.
 
+## o que você vê
+Endereço antigo das fotos de um roteiro: hoje ele leva direto para a lista de roteiros.
+- as fotos e vídeos do roteiro agora ficam dentro do próprio formulário do roteiro.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-roteiros-id-fotos.png](../prints/painel-turismo-roteiros-id-fotos.png) · dados brutos: [json](../prints/json/painel-turismo-roteiros-id-fotos.json)
 - aberta em `/painel/turismo/roteiros/1/fotos` (redirecionou para `/painel/turismo/roteiros`) com dados do banco de teste; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

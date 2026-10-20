@@ -51,3 +51,15 @@ Arquivos: `classificados/novo/page.tsx`, `classificados/AnuncioForm.tsx`, `_comp
 - [checkbox] "Mostrar telefone no anúncio (além do botão de WhatsApp)" — conteúdo, no fim da página, ao centro, logo abaixo de “voce@email.com” (473,1324,13,13)
 - [link] "Cancelar" — conteúdo, no fim da página, ao centro (792,1364,98,42)
 - [botão] "Publicar anúncio" — conteúdo, no fim da página, à direita, logo abaixo de “voce@email.com” (902,1364,161,42)
+
+## o que você vê
+Formulário para criar um anúncio de classificados com fotos.
+- Complete seu cadastro: pode aparecer antes do formulário; "Preencher depois" pula por agora.
+- Título e Descrição: obrigatórios.
+- Categoria e subcategoria: opcionais, escolhidas numa lista com busca.
+- Condição: estado do produto.
+- Preço (R$): o valor pedido.
+- Fotos: pelo menos uma é obrigatória para criar.
+- Nome, WhatsApp e e-mail de contato: como o interessado fala com você.
+- Ao salvar, a tela diz se o anúncio já entrou no ar ou se ficou em análise pelo portal.
+- Campos com erro ficam destacados com a mensagem "Preencha os campos obrigatórios destacados abaixo".

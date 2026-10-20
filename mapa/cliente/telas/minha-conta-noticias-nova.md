@@ -61,3 +61,16 @@ Arquivo: `src/app/minha-conta/noticias/nova/page.tsx`
 - [título] "Categorização" — conteúdo, mais abaixo (rolando a página), ao centro (308,1177,608,20)
 - [campo] "Categoria" — conteúdo, no fim da página, ao centro, logo abaixo de “Categorização” (308,1237,296,38)
 - [campo] "Subcategoria" — conteúdo, no fim da página, ao centro, logo abaixo de “Categorização” (620,1237,296,38)
+
+## o que você vê
+Formulário para escrever uma notícia nova.
+- Título: obrigatório. Subtítulo e Título curto (versão menor do título): opcionais.
+- Imagem de capa, com Legenda e Créditos (quem fez a foto).
+- Chamada: resumo curto, até 500 letras.
+- Conteúdo: o texto da notícia, obrigatório.
+- Tags, Fonte, Categoria e Subcategoria.
+- Status: Rascunho (não aparece), Publicado (no site) ou Arquivado.
+- Agendar notícia: escolha "Publicar em" para entrar no ar depois.
+- SEO e Endereço da página: como a notícia aparece no Google e o final do link dela.
+- Rascunho guardado neste navegador: o texto é salvo sozinho no seu aparelho e pode ser recuperado.
+- Adicionar: salva e volta para a lista.

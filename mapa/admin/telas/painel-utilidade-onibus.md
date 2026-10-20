@@ -2,6 +2,13 @@
 
 Arquivo: `app/painel/utilidade/onibus/page.tsx`, `onibus/ExibirNoSite.tsx`
 
+## o que você vê
+Lista das linhas de ônibus mostradas na seção de utilidades do site.
+- Exibir no site: liga ou desliga a seção de ônibus inteira no site.
+- linha: Número *, nome (ex.: Centro — Terminal), Itinerário (por onde passa), Horários e Observação.
+- clique no status para ativar ou desativar uma linha; lápis edita; lixeira apaga, com confirmação.
+- mudanças nas linhas podem levar alguns minutos para aparecer no site.
+
 ## rota e gate
 - `/painel/utilidade/onibus`. client. gate `PainelGuard` + módulo `utilidade` (`lib/painel-menu.ts:74`).
 

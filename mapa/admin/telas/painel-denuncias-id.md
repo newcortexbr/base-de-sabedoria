@@ -2,6 +2,16 @@
 
 Arquivo: `app/painel/denuncias/[id]/page.tsx`
 
+## o que você vê
+Detalhe de uma denúncia feita por visitante sobre uma empresa, vaga, anúncio ou evento, e a decisão do administrador.
+- Item denunciado, responsável, motivo, data e Descrição do denunciante.
+- Imagens anexadas: provas enviadas; Nenhuma imagem quando não há.
+- Ver página denunciada abre o conteúdo; Item não existe mais quando já foi apagado.
+- Ignorar denúncia: fecha a denúncia e o conteúdo continua no ar.
+- Excluir item: apaga o conteúdo do site, sem volta.
+- Bloquear: tira do ar tudo daquele responsável naquela seção do portal. Desfazer bloqueio volta atrás.
+- depois de resolvida, mostra a ação tomada, a data e quem resolveu.
+
 ## rota e gate
 - `/painel/denuncias/<id>`. client. gate `PainelGuard`; prefixo `/painel/denuncias` não pertence a módulo em `lib/painel-menu.ts`.
 

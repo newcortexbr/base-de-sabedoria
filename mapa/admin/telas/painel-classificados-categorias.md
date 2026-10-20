@@ -8,6 +8,13 @@
 - problemas: nenhum confirmado.
 - admin vs cliente: cliente só escolhe categoria; sem equivalente.
 
+## o que você vê
+Lista das categorias e subcategorias dos anúncios classificados (ex.: Veículos > Carros).
+- Nome *, Ícone e Cor: como a categoria aparece no site.
+- Ativa: categoria desligada não aparece para escolher.
+- dentro de cada categoria ficam as subcategorias ("Nenhuma subcategoria ainda" quando vazia); dá para criar, editar e apagar cada uma.
+- apagar pede confirmação.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-classificados-categorias.png](../prints/painel-classificados-categorias.png) · dados brutos: [json](../prints/json/painel-classificados-categorias.json)
 - aberta em `/painel/classificados/categorias`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

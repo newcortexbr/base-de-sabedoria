@@ -7,6 +7,11 @@
 - problemas: nenhum confirmado.
 - admin vs cliente: o cliente organizador entra com o login criado aqui.
 
+## o que você vê
+Tela para cadastrar um organizador de eventos.
+- nome *, descrição, Logo e Cor do logo: como o organizador aparece no site.
+- Painel do proprietário (opcional): cria e-mail e senha para o responsável entrar e criar os próprios eventos; os dados também vão por e-mail.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-eventos-organizadores-cadastrar.png](../prints/painel-turismo-eventos-organizadores-cadastrar.png) · dados brutos: [json](../prints/json/painel-turismo-eventos-organizadores-cadastrar.json)
 - aberta em `/painel/turismo/eventos/organizadores/cadastrar`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

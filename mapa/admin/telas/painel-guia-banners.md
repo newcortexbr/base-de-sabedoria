@@ -23,3 +23,18 @@
 - [link] "+ Cadastrar banner" — conteúdo, no meio da tela, ao centro (717,405,121,20)
 - [link] "Falar com o suporte no WhatsApp" — conteúdo, no meio da tela, à direita (1200,820,56,56)
 - [selo] "··" — menu lateral, no meio da tela, à esquerda (16,858,32,32)
+
+## o que você vê
+Lista todos os banners de publicidade do portal, com a situação de cada um.
+- + Novo Banner: cadastra um banner na mão (sem passar pelo pagamento do site).
+- Buscar por título, Página, Formato (ou "Onde no Guia"), Situação: filtram a lista; o número entre parênteses é quantos banners há em cada opção.
+- cartão do banner: imagem, título, página e formato onde aparece, categoria (no topo do Guia: uma categoria ou "Todas as categorias"), ponto ou roteiro anunciado e o período "De … até …".
+- No ar: aparecendo para os visitantes agora.
+- Agendado: começa a aparecer na data de início.
+- Vencido: o período terminou e o banner saiu do ar sozinho.
+- Fora do ar: desligado no cadastro.
+- Aguardando pagamento: a cobrança ainda não foi confirmada; não aparece no site.
+- Pendente de aprovação: esperando aprovação; não aparece no site.
+- Reprovado: não aparece; o motivo aparece embaixo.
+- Desativar / Ativar: tira o banner do ar sem excluir, ou volta a exibir.
+- Excluir: apaga o banner (pede confirmação).

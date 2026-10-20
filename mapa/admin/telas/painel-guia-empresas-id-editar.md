@@ -7,6 +7,21 @@
 - problemas: nenhum confirmado além do acima.
 - admin vs cliente: ver cadastrar.
 
+## o que você vê
+Tela para mudar os dados de uma empresa do Guia Comercial; os campos são os do cadastro.
+- Dados da Empresa: Nome da empresa *, Categoria * e Subcategoria * (é pela subcategoria que chegam os pedidos de orçamento), Descrição, Plano e Status.
+- Contato: Telefone, WhatsApp, E-mail da empresa, Site, Instagram, Facebook.
+- Endereço e Localização: o ponto no mapa é achado sozinho pelo endereço e cidade.
+- Logo e capa e Galeria de Fotos: imagens da página da empresa.
+- Horários de Funcionamento: dias e horas, 24 horas ou Fechado.
+- Comodidades & Pagamento (ex.: Wi-Fi, PIX): viram informações na página.
+- Botões de ação e Reserva & Delivery: links (agendamento, orçamento, reserva, delivery como iFood) que viram botões na página; vazio = sem botão.
+- Hospedagem: opções próprias de hotel ou pousada.
+- Cupom de Desconto: código (só letras e números), tipo e valor do desconto, validade; código vazio não mostra cupom.
+- SEO: ajuda a página a aparecer no Google; vazio usa nome e descrição.
+- Empresa em destaque e Acesso à Área do cliente (login para o dono cuidar da própria ficha).
+- atalhos Gerenciar (Cardápio, catálogo, quartos, serviços, equipe): abrem a parte extra da empresa, conforme o tipo dela; o formulário é salvo antes de sair.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-guia-empresas-id-editar.png](../prints/painel-guia-empresas-id-editar.png) · dados brutos: [json](../prints/json/painel-guia-empresas-id-editar.json)
 - aberta em `/painel/guia/empresas/1/editar` com dados do banco de teste; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

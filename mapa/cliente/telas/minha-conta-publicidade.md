@@ -48,3 +48,12 @@ Arquivo: `src/app/minha-conta/publicidade/page.tsx`
 - [botão] "A pagar" — conteúdo, no meio da tela, à direita (1072,424,72,36)
 - [botão] "Reprovados" — conteúdo, no meio da tela, à direita (1150,424,98,36)
 - [título] "Meus banners" — conteúdo, no meio da tela, à esquerda (288,429,121,27)
+
+## o que você vê
+Lista dos banners que você comprou. Cada banner é uma compra separada (lugar no site + período).
+- No ar / Em análise / Aguardando pagamento: contagem dos seus banners.
+- Filtros: Todos, No ar, Vencidos, Em análise, A pagar, Reprovados.
+- Novo banner: compra um banner.
+- Editar ou Continuar pagamento (quando ainda não pago).
+- Parar renovação: o banner não é cobrado de novo no próximo período (pede confirmação).
+- Corrigir e reenviar: no banner reprovado.

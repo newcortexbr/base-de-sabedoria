@@ -8,6 +8,15 @@
 - problemas: fato — o anunciante precisa existir antes (cadastrar em `/painel/classificados/anunciantes`). hipótese — a cidade vem de `guia.config` (módulo Guia), e a leitura é independente do gate do módulo.
 - admin vs cliente: equivale ao `/minha-conta/classificados/novo`, mas o admin escolhe o anunciante, o status e o destaque, e não passa pelo limite do plano nem por cobrança.
 
+## o que você vê
+Tela para cadastrar um anúncio classificado em nome de um anunciante.
+- Empresa anunciante *: quem anuncia; se não houver nenhum, cadastre um primeiro.
+- Dados do Anúncio: Título * (ex.: iPhone 13 128GB Azul), Descrição *, Categoria, Subcategoria, Condição e Preço (vazio = "A combinar").
+- fotos: pelo menos uma foto é obrigatória para publicar o anúncio; também aceita vídeo do YouTube.
+- Localização: cidade e bairro.
+- Contato: Nome do anunciante (quem responde), WhatsApp e E-mail de contato.
+- Configurações: Status (Ativo, Pausado, Encerrado, Vendido), Expira em (data em que sai do ar) e destaque.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-classificados-cadastrar.png](../prints/painel-classificados-cadastrar.png) · dados brutos: [json](../prints/json/painel-classificados-cadastrar.json)
 - aberta em `/painel/classificados/cadastrar`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

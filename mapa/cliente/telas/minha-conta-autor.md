@@ -45,3 +45,13 @@ Arquivo: `src/app/minha-conta/autor/page.tsx`
 - [campo] "WhatsApp" — conteúdo, no meio da tela, ao centro, logo abaixo de “Facebook” (307,729,295,46)
 - [campo] "E-mail público" — conteúdo, no meio da tela, ao centro, logo abaixo de “LinkedIn” (616,729,295,46)
 - [botão] "Salvar perfil" — conteúdo, no fim da página, à esquerda, logo abaixo de “WhatsApp” (307,834,131,48)
+
+## o que você vê
+Aqui o jornalista edita a sua assinatura: o nome, a foto e os dados que o leitor vê em cada notícia.
+- Foto do autor: a foto que aparece na notícia ("Sem foto" quando não tem).
+- Nome: obrigatório, até 150 letras.
+- Cargo: ex.: Repórter.
+- Bio: um texto curto sobre você, até 500 letras.
+- Site, Instagram, Facebook, LinkedIn, WhatsApp, E-mail público: contatos que o leitor pode ver (todos opcionais).
+- Como aparece na notícia: prévia de como a assinatura fica no site.
+- Salvar perfil: grava as mudanças; o nome no menu também se atualiza.

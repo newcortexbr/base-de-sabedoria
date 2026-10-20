@@ -48,3 +48,11 @@ Arquivo: `src/app/minha-conta/minha-empresa/page.tsx`
 - [campo] "E-mail de contato" — conteúdo, no meio da tela, ao centro, logo abaixo de “Contatos” (616,578,295,46)
 - [campo] "Site" — conteúdo, no meio da tela, ao centro, logo abaixo de “WhatsApp” (307,662,604,46)
 - [botão] "Salvar" — conteúdo, no meio da tela, à esquerda, logo abaixo de “Site” (288,741,92,48)
+
+## o que você vê
+Dados básicos da sua empresa que valem para todas as seções (Guia, Vagas, Classificados e outras).
+- Logo: a imagem da empresa, com prévia.
+- Descrição: texto sobre a empresa.
+- WhatsApp, e-mail de contato e site.
+- Onde isso aparece: lista das seções em que esses dados são usados; sem nada publicado, eles passam a valer quando você publicar algo.
+- Salvar: grava só o que mudou; aparece "Dados atualizados em todas as suas seções".

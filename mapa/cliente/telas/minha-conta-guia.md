@@ -87,3 +87,14 @@ Arquivo: `src/app/minha-conta/guia/page.tsx` (2495 linhas; lido por trechos: cab
 - [título] "Pedidos de orçamento" — conteúdo, mais abaixo (rolando a página), ao centro (360,1428,426,22)
 - [link] "Ver planos" — conteúdo, mais abaixo (rolando a página), à direita (799,1517,114,44)
 - [título] "Links e páginas" — conteúdo, mais abaixo (rolando a página), ao centro (360,1518,426,22)
+
+## o que você vê
+Ficha da sua empresa no Guia Comercial: aqui você cadastra e muda os dados que o público vê. Cada conta tem uma empresa.
+- Seções que abrem e fecham: Dados da empresa, Categoria e horário, Telefone/WhatsApp/redes, Logo/capa/galeria, Comodidades e pagamento, Cupom, Pedidos de orçamento, Links e páginas, Delivery.
+- Seção com cadeado: seu plano não libera; ela diz qual plano libera.
+- Nome: obrigatório. Horários: por dia da semana (fechado, 24h, ou abre/fecha).
+- Galeria: até 10 fotos. Apagar foto não tem volta.
+- Buscar no Google: preenche os dados com o que está no Google.
+- Publicar (primeira vez) / Salvar; Ver no site quando está no ar.
+- Avisos: "Seu cadastro está em análise", "ainda não está no ar", reprovada com "O que precisa mudar", rascunho que "será apagado em N dias", e em verde "Sua empresa está publicada no site".
+- Sem plano: "Ver os planos"; seus dados continuam salvos.

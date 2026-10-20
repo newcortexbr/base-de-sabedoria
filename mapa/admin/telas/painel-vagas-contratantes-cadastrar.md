@@ -7,6 +7,15 @@
 - estados: "Não foi possível carregar cidades ou áreas de atuação" (:70); telefone (:85); acesso (:92); "Nenhuma área de vaga cadastrada neste portal ainda" (:310).
 - admin vs cliente: equivale ao perfil do contratante no cliente; admin define "Verificado" e senha.
 
+## o que você vê
+Tela para cadastrar uma empresa que oferece vagas.
+- Nome *, Descrição, Logo e Cor do logo: como a empresa aparece no site.
+- Localização: cidade e bairro (escolha a cidade primeiro).
+- Áreas de atuação: as áreas em que a empresa contrata.
+- Redes sociais e contato: E-mail, WhatsApp, Site, Instagram, LinkedIn, YouTube.
+- Verificado: dá o selo de empresa conferida.
+- Painel do proprietário (opcional): cria e-mail e senha para o responsável pela empresa entrar e cuidar das próprias vagas; os dados também são enviados por e-mail.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-vagas-contratantes-cadastrar.png](../prints/painel-vagas-contratantes-cadastrar.png) · dados brutos: [json](../prints/json/painel-vagas-contratantes-cadastrar.json)
 - aberta em `/painel/vagas/contratantes/cadastrar`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

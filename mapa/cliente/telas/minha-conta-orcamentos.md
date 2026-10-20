@@ -52,3 +52,14 @@ Arquivo: `src/app/minha-conta/orcamentos/page.tsx`
 - [título] "Pedidos de orçamento" — topo, no topo da página, ao centro (436,46,732,28)
 - [menu/links] "9 itens: Início · Guia Comercial · Vagas de Emprego · Banners Publicitários · Classificados · Minha empresa · Planos e assinaturas · Segurança · Sair" — menu, na parte de cima, à esquerda (lista de 9 itens em coluna) (14,96,227,786)
 - [link] "Ir para o Guia Comercial" — conteúdo, na parte de cima, ao centro (365,222,162,21)
+
+## o que você vê
+Pedidos de orçamento que visitantes do site mandaram para o serviço da sua empresa.
+- Novos para você: pedidos que você ainda não viu. Recebidos no total: todos. Já vistos: os que você já abriu.
+- Busca: por nome, número ou cidade. Abas: Todos, Novos, Já vistos.
+- Cada pedido: título, data, serviço, descrição, local, nome e telefone de quem pediu; fotos e link quando enviados.
+- Responder no WhatsApp: abre conversa com mensagem pronta e marca como visto.
+- Ver pedido completo / Marcar como visto.
+- Atualizar: busca pedidos novos (a lista não se atualiza sozinha).
+- "Falta escolher o seu serviço": sem ele no Guia, nenhum pedido novo chega.
+- Quando chega um pedido, você também recebe um e-mail.

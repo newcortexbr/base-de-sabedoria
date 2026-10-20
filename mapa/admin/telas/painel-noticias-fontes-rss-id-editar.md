@@ -6,6 +6,16 @@
 - problemas: fato — qualquer erro de carga (rede, 500, 403) aparece como "não encontrada", como em `/painel/noticias/[id]/editar`.
 - admin vs cliente: sem equivalente.
 
+## o que você vê
+Tela para mudar uma fonte de notícias automáticas já cadastrada; os campos são os do cadastro.
+- Título *: nome da fonte.
+- URL do RSS *: o endereço do feed de notícias do site.
+- Quantidade de notícias por vez *: quantas notícias novas são trazidas em cada busca.
+- Status *: ligada ou desligada; desligada, a fonte não importa nada.
+- categoria e subcategoria: onde as notícias trazidas serão colocadas.
+- verificar: testa se o endereço funciona antes de salvar.
+- "Fonte de RSS não encontrada": a fonte foi apagada ou houve falha ao carregar; tente recarregar.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-noticias-fontes-rss-id-editar.png](../prints/painel-noticias-fontes-rss-id-editar.png) · dados brutos: [json](../prints/json/painel-noticias-fontes-rss-id-editar.json)
 - aberta em `/painel/noticias/fontes-rss/1/editar` com dados do banco de teste; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

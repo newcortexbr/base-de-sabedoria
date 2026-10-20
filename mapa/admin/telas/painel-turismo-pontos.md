@@ -8,6 +8,13 @@
 - problemas: fato — erro de exclusão usa `alert()` nativo (:41).
 - admin vs cliente: Turismo não tem área do cliente em `src/app/minha-conta` (sem pasta de turismo). Só o admin gerencia; não há lacuna de paridade.
 
+## o que você vê
+Lista dos pontos turísticos da cidade (praias, mirantes, museus etc.) mostrados no Guia Turístico.
+- Buscar ponto turístico: acha pelo nome.
+- Foto e Nome: imagem principal e nome do ponto.
+- Ver abre a página pública; editar abre o ponto; apagar pede confirmação e não pode ser desfeito.
+- novo ponto: abre o cadastro.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-pontos.png](../prints/painel-turismo-pontos.png) · dados brutos: [json](../prints/json/painel-turismo-pontos.json)
 - aberta em `/painel/turismo/pontos`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

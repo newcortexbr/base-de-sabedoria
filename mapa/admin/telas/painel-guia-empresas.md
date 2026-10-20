@@ -8,6 +8,17 @@
 - problemas: fato — `carregar` tem só `try/finally`, sem `catch` (:60-76): se a API falha, a lista fica vazia mostrando "Nenhuma empresa encontrada" e a promessa rejeitada não é tratada (mesmo defeito já corrigido em banners, comentário `banners/page.tsx:353`). fato — erros usam `alert()` nativo.
 - admin vs cliente: o dono da empresa edita a ficha em `/minha-conta/guia` (2495 linhas, por seções), com plano em `/minha-conta/guia/plano`. O admin edita tudo, muda status (aprovar/banir) e exclui; o cliente não muda o próprio status.
 
+## o que você vê
+Lista das empresas do Guia Comercial do portal, para buscar, mudar a situação, editar ou apagar.
+- Buscar empresa, categoria e status: filtros da lista.
+- status: Pendente (esperando aprovação), Ativo (aparece no site), Inativo (escondida), Reprovado (não aprovada), Banido (bloqueada). Dá para mudar o status direto na lista.
+- Empresa, Categoria, Cidade: quem é, de que ramo e onde fica.
+- plano: o plano da empresa; "Sem plano" quando não tem nenhum.
+- ⭐ Destaque: empresa com mais visibilidade; 🌐 Site: tem site próprio informado.
+- Ver no portal abre a página pública; os outros botões levam à edição e às partes extras (cardápio, catálogo, quartos, serviços, equipe).
+- importar: traz várias empresas de uma vez a partir de uma planilha do Google Maps.
+- apagar pede confirmação.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-guia-empresas.png](../prints/painel-guia-empresas.png) · dados brutos: [json](../prints/json/painel-guia-empresas.json)
 - aberta em `/painel/guia/empresas`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

@@ -8,6 +8,15 @@
 - problemas: fato — `carregar` sem `catch` (:269-273): falha da listagem vira lista vazia e rejeição não tratada. fato — erros em `alert()`.
 - admin vs cliente: o cliente escolhe categoria/subcategoria na ficha; não edita o catálogo.
 
+## o que você vê
+Lista dos ramos (categorias) em que as empresas do Guia Comercial são separadas.
+- Nome, Ícone e Cor: como a categoria aparece no site; o endereço da categoria no site não muda se o nome mudar.
+- Ativa: categoria desligada não aparece para escolher.
+- Empresas: quantas empresas estão nessa categoria.
+- Oferece: o que as empresas da categoria têm na página: Cardápio (restaurante, bar), Delivery (pedido pelo site) ou Quartos (hotel, pousada).
+- Orçamento: se a categoria aparece no formulário de pedido de orçamento; ao mudar, a tela avisa o efeito nas subcategorias.
+- Excluir pede confirmação.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-guia-categorias.png](../prints/painel-guia-categorias.png) · dados brutos: [json](../prints/json/painel-guia-categorias.json)
 - aberta em `/painel/guia/categorias`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

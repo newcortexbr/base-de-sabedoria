@@ -2,6 +2,16 @@
 
 Arquivos: `app/painel/orcamentos/categorias/page.tsx`, `SolicitacoesOrcamentoClient.tsx`
 
+## o que você vê
+Lista de todos os pedidos de orçamento enviados por visitantes, para aprovar, reprovar ou encerrar.
+- cartões Total, Aguardando aprovação, Aprovados, Encerrados e Reprovados: contagem de cada situação; clicar filtra.
+- Aprovar: envia o pedido às empresas da categoria. Reprovar: o pedido não vai para ninguém. Encerrar: fecha um pedido.
+- filtros Status, Categoria, De e Até (datas) e Limpar filtros.
+- marcar várias linhas permite Aprovar e enviar, Reprovar, Encerrar ou Excluir em lote, sempre com confirmação.
+- abrir um pedido mostra título, código, descrição, link, fotos e contato, e permite trocar o status.
+- o texto do pedido não pode ser editado; excluir apaga o pedido.
+- Carregar mais: mostra mais pedidos.
+
 ## rota e gate
 - `/painel/orcamentos/categorias`. gate `PainelGuard` + módulo `orcamentos` (`lib/painel-menu.ts:65`).
 

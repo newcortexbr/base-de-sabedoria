@@ -8,6 +8,12 @@
 - problemas: fato — o modal de exclusão avisa quando há notícias vinculadas (comentário :29). Nada mais confirmado.
 - admin vs cliente: o jornalista só escolhe categoria. Sem equivalente.
 
+## o que você vê
+Lista dos grandes assuntos (categorias) das notícias, como os do menu do site.
+- Categoria: o nome; Cor: cor usada para destacar a categoria no site.
+- Ativo: clique para ligar ou desligar; categoria desligada não aparece para escolher.
+- lápis edita; lixeira apaga. Ao apagar, a tela pede confirmação.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-noticias-categorias.png](../prints/painel-noticias-categorias.png) · dados brutos: [json](../prints/json/painel-noticias-categorias.json)
 - aberta em `/painel/noticias/categorias`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

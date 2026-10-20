@@ -7,6 +7,17 @@
 - problemas: nenhum confirmado nesta tela.
 - admin vs cliente: o jornalista usa `/minha-conta/noticias/nova` (`FormularioDoJornalista`), outro formulário; admin publica direto e escolhe o autor. Fato: há dois formulários diferentes para a mesma entidade.
 
+## o que você vê
+Tela para escrever e publicar uma notícia nova.
+- Título * e Título curto: o nome da notícia; o curto é usado onde há pouco espaço.
+- Subtítulo: frase logo abaixo do título.
+- Conteúdo da matéria *: o texto, com formatação, imagens e vídeos.
+- Foto de Capa (arraste ou clique), Legenda e Créditos: imagem principal e quem a fez.
+- Categorização: Categoria, Subcategoria e etiquetas (digite e aperte Enter) para separar o assunto.
+- Fonte da matéria: de onde veio a informação.
+- Publicação: Status (Rascunho, Publicado, Arquivado), Agendar notícia com a data em Publicar em, e Destaque na janela principal para ela aparecer no destaque da página inicial.
+- SEO e Endereço da página: como aparece no Google e o final do link; se ficarem vazios, são criados a partir do título.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-noticias-cadastrar.png](../prints/painel-noticias-cadastrar.png) · dados brutos: [json](../prints/json/painel-noticias-cadastrar.json)
 - aberta em `/painel/noticias/cadastrar`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

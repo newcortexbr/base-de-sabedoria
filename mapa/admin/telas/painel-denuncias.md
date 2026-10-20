@@ -8,6 +8,10 @@ Arquivo: `app/painel/denuncias/page.tsx:1-8`
 - não confundir com `/painel/utilidade/denuncias` (Voz do Povo, outro módulo) — ver `painel-utilidade-denuncias.md`.
 - problema: nenhum encontrado.
 
+## o que você vê
+Endereço antigo das denúncias: abre a aba Denúncias da tela Aprovações e Denúncias.
+- não tem conteúdo próprio; serve para links antigos continuarem funcionando.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-denuncias.png](../prints/painel-denuncias.png) · dados brutos: [json](../prints/json/painel-denuncias.json)
 - aberta em `/painel/denuncias` (redirecionou para `/painel/aprovacoes?aba=denuncias`); coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

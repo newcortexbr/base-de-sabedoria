@@ -39,3 +39,14 @@ Arquivo: `app/painel/cupons/page.tsx`
 - [link] "Novo cupom" — conteúdo, na parte de cima, à direita (1139,107,117,40)
 - [link] "Falar com o suporte no WhatsApp" — conteúdo, no meio da tela, à direita (1200,820,56,56)
 - [selo] "··" — menu lateral, no meio da tela, à esquerda (16,858,32,32)
+
+## o que você vê
+Lista os cupons de desconto das empresas do Guia; cada empresa tem no máximo um cupom.
+- Novo cupom: cria um cupom para uma empresa.
+- Capa: foto do cupom ("Sem foto" quando não tem).
+- Empresa: a empresa do Guia dona do cupom.
+- Código: o código que o visitante usa (ex.: PORTAL10).
+- Selo: o desconto mostrado no site. em cinza, o cupom não está aparecendo: o plano atual da empresa não libera cupom ou ele está fora da validade.
+- Validade: até quando o cupom vale; o selo "Vencido" aparece quando a data já passou.
+- Editar: muda o cupom.
+- Remover: apaga só o cupom (pede confirmação); a empresa continua no Guia.

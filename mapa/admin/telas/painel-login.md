@@ -36,3 +36,12 @@ Arquivos: `app/painel/login/page.tsx`, `login/mensagem-de-falha.ts`, `contexts/A
 - [botão] "Esqueceu a senha?" — conteúdo, no meio da tela, à direita, logo abaixo de “Digite sua senha” (1045,513,131,21)
 - [botão] "Efetuar Login" — conteúdo, no meio da tela, à direita, logo abaixo de “Esqueceu a senha?” (776,556,400,56)
 - [link] "Entre em contato com o administrador." — conteúdo, no meio da tela, à direita (927,641,212,41)
+
+## o que você vê
+Entrada do painel do portal, com e-mail e senha.
+- E-mail e Senha: os dados da sua conta de administrador. O olho ao lado da senha mostra ou esconde o que você digitou.
+- Efetuar Login: entra no painel.
+- Manter conectado: hoje não muda nada; a sessão fica salva no navegador de qualquer jeito.
+- Esqueceu a senha?: hoje este botão não faz nada ao clicar.
+- "Entrar com a Área do Cliente": aparece só quando ativado; abre uma janelinha para entrar com a conta da Área do Cliente.
+- se a conta não estiver ligada a nenhum portal, você vai para uma tela que explica isso.

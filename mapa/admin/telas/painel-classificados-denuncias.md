@@ -5,6 +5,10 @@
 - problemas: fato — como o gate é por prefixo, a rota fica sob o módulo classificados, mas o destino (aprovações) é de outro prefixo; um portal sem o módulo vê "ModuloDesativado" em vez do redirecionamento. É coerente, mas verifique se o link ainda existe no menu.
 - admin vs cliente: o cliente não vê denúncias de seus anúncios (hipótese; não verificado em `minha-conta`).
 
+## o que você vê
+Endereço antigo das denúncias de classificados: abre a aba Denúncias de Aprovações e Denúncias.
+- não tem conteúdo próprio; se a seção de classificados estiver desligada, aparece o aviso de seção desativada.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-classificados-denuncias.png](../prints/painel-classificados-denuncias.png) · dados brutos: [json](../prints/json/painel-classificados-denuncias.json)
 - aberta em `/painel/classificados/denuncias` (redirecionou para `/painel/aprovacoes?aba=denuncias`); coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

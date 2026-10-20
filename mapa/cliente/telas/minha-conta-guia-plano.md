@@ -33,3 +33,6 @@ Arquivo: `src/app/minha-conta/guia/plano/page.tsx`
 - [título] "Como sua empresa vai aparecer no Guia?" — conteúdo, faixa larga na parte de cima (280,102,976,48)
 - [título] "Grátis" — conteúdo, na parte de cima, ao centro (660,261,216,24)
 - [link] "Continuar no Grátis" — conteúdo, no meio da tela, ao centro (660,468,216,44)
+
+## o que você vê
+Endereço antigo: leva direto para Planos e assinaturas, na parte do Guia Comercial.
