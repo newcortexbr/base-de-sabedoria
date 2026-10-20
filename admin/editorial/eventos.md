@@ -27,14 +27,14 @@ A tela de eventos fica no painel. Acesso e módulo ativo dependem do portal e do
 3. Escreva o `Título *` do evento. [guia=eventos.titulo]
 4. Escolha a `Data *` do evento. [guia=eventos.data]
 5. Escreva o `Horário`, por exemplo "19h00 às 23h00". [guia=eventos.horario]
-6. Preencha o local, o CEP, a cidade, a categoria, o `Organizador` e os outros campos que aparecem.
+6. Preencha o local, o CEP, a cidade, a categoria, o `Organizador` e os outros campos que aparecem. [guia=eventos.local]
 7. Na parte `Galeria de fotos e vídeos`, clique em `+ Adicionar fotos` para enviar as fotos. Num evento novo, elas são enviadas assim que você salvar. [guia=galeria.adicionar-fotos]
 8. Para colocar um vídeo, clique em `Vídeo do YouTube`. [guia=galeria.modo-video]
 9. Cole o link do vídeo no campo `Link do vídeo no YouTube`. [guia=galeria.link-video]
 10. Clique em `Adicionar vídeo`. [guia=galeria.enviar-video]
 11. Role a página até o fim e clique em `Salvar`. [guia=eventos.salvar]
 12. Para mudar um evento que já existe, clique em `Editar` na linha do evento que você quer. [guia=eventos.editar]
-13. Na lista, veja a situação de cada evento: `No ar` (aparecendo no site), `Encerrado` (a data já passou) ou `Inativo` (você mesmo tirou do ar).
+13. Na lista, veja a situação de cada evento: `No ar` (aparecendo no site), `Encerrado` (a data já passou) ou `Inativo` (você mesmo tirou do ar). [guia=eventos.status-linha]
 
 ## resultado
 evento ativo permanece no ar segundo as datas reconhecidas pelo servidor; depois de vencido, sai do ar. Destaques e filtros públicos fazem parte do produto, mas a exibição depende também da configuração e da vigência.

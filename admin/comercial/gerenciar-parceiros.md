@@ -34,7 +34,7 @@ cadastrar quem vende o portal por você e acompanhar as comissões deles.
 7. Preencha o `WhatsApp`. [guia=parceiros.whatsapp] [t=77]
 8. Escolha o `Plano do parceiro`. [guia=parceiros.plano] [t=80]
 9. Clique em `Salvar` (em plano pago, o botão é `Salvar e gerar link`, que gera o link de pagamento do parceiro). [guia=parceiros.salvar]
-10. Para pagar uma comissão por fora, pague o parceiro por Pix ou transferência primeiro (fora do portal). [t=37]
+10. Para pagar uma comissão por fora, pague o parceiro por Pix ou transferência primeiro (fora do portal). [guia=fora] [t=37]
 11. Depois, em `Comissões para pagar por fora`, clique em `Marcar paga` na linha da comissão que você pagou. [guia=parceiros.marcar-paga] [t=39]
 12. Na janela que abre, anexe o comprovante se quiser e clique em `Marcar paga`. Isso não pode ser desfeito. [guia=parceiros.confirmar-marcar-paga]
 13. Se quiser que a comissão caia sozinha na carteira Asaas do parceiro, em `Como você paga os parceiros`, ligue `Mandar a comissão direto pelo Asaas`. [guia=parceiros.split-asaas] [t=143]

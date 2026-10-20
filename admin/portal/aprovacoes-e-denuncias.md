@@ -40,7 +40,7 @@ decidir o que os clientes enviam antes de ir ao ar e acompanhar as denúncias fe
 14. Escolha o que fazer. Se está tudo bem, clique em `Ignorar denúncia` (o item continua no ar). [guia=denuncias.ignorar] [t=90]
 15. Para tirar o conteúdo do ar, clique em `Excluir item`. [guia=denuncias.excluir-item] [t=92]
 16. Para tirar do ar tudo o que aquele responsável publicou nessa parte do site, clique em `Bloquear empresa/conta` (pode ser desfeito depois). [guia=denuncias.bloquear] [t=95]
-17. Confirme na janela que aparece.
+17. Confirme na janela que aparece. [guia=denuncias.bloquear]
 
 ## resultado
 

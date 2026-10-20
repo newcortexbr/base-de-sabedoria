@@ -28,8 +28,8 @@ acessar a definição de planos comerciais por seção do portal.
 
 1. No menu da esquerda, na parte `Comercial`, clique em `Meus Planos` (`/painel/planos`). A página mostra os `Planos por seção do portal`: um quadro para cada parte do site que pode ser vendida. [guia=menu:/painel/planos] [t=7]
 2. No quadro da parte que você quer, clique em `Gerenciar` (ou em `Definir preço`, se ainda não tiver plano). [guia=planos.gerenciar] [t=85]
-3. Confira o que já está preenchido antes de mudar. Dependendo da parte, a página mostra planos ou espaços de publicidade (banners).
-4. Salve pelo botão da própria página e espere a mensagem de que deu certo.
+3. Confira o que já está preenchido antes de mudar. Dependendo da parte, a página mostra planos ou espaços de publicidade (banners). [guia=planos.conteudo]
+4. Salve pelo botão da própria página e espere a mensagem de que deu certo. [guia=planos.salvar]
 
 ## resultado
 

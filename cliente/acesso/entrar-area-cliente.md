@@ -26,10 +26,10 @@ acessar os recursos da sua conta pela área do cliente.
 
 ## passos
 
-1. Abra a página de entrada da área do cliente, no endereço `/minha-conta/login`, no portal em que você criou sua conta.
-2. Escreva seu e-mail no campo `E-mail` e sua senha no campo `Senha`.
-3. Clique no botão `Entrar`.
-4. Se o e-mail e a senha estiverem certos, abre a sua área, com o menu à esquerda.
+1. Abra a página de entrada da área do cliente, no endereço `/minha-conta/login`, no portal em que você criou sua conta. [guia=fora]
+2. Escreva seu e-mail no campo `E-mail` e sua senha no campo `Senha`. [guia=fora]
+3. Clique no botão `Entrar`. [guia=fora]
+4. Se o e-mail e a senha estiverem certos, abre a sua área, com o menu à esquerda. [guia=fora]
 
 ## resultado
 

@@ -38,7 +38,7 @@ use o painel do portal, com permissão e módulo Turismo disponíveis. O código
 14. Se quiser, adicione fotos em `Galeria de fotos e vídeos`. O endereço antigo de fotos (`/painel/turismo/roteiros/[id]/fotos`) agora só leva de volta à lista. [guia=galeria.adicionar-fotos]
 15. Clique em `Salvar` e confira o roteiro na lista. [guia=roteiros.salvar] [t=43]
 16. Para mudar um roteiro, clique em `Editar` na linha do roteiro que você quer. [guia=roteiros.editar]
-17. Para as dicas, abra a página `Dicas para Visitantes`. Ela não tem botão no menu: troque o final do endereço do painel por `/painel/turismo/dicas` e aperte Enter.
+17. Para as dicas, abra a página `Dicas para Visitantes`. Ela não tem botão no menu: troque o final do endereço do painel por `/painel/turismo/dicas` e aperte Enter. [guia=fora]
 18. Clique em `+ Nova Dica`. [guia=dicas.nova]
 19. Escreva o `Título *` da dica. [guia=dicas.titulo]
 20. Se quiser, escreva a `Descrição` da dica. [guia=dicas.descricao]
