@@ -1,6 +1,6 @@
 ---
 id: editorial-visibilidade
-titulo: entender quando o conteúdo aparece ao público
+titulo: "publicação e visibilidade: notícias"
 publico:
   - administrador do portal
   - jornalista
@@ -20,16 +20,16 @@ aqui você descobre por que um conteúdo aparece ou não aparece para o público
 ## pré-requisitos/permissões
 Entrar no painel como administrador, ou na área do cliente se você for jornalista ou colunista.
 
+## veja também
+- para conferir a situação de um artigo, veja o artigo "ver se um artigo está no ar".
+- para conferir a situação de um evento, veja o artigo "ver se um evento está no ar".
+
 ## passos
 
 1. Abra a lista do tipo de conteúdo. Para notícias, no menu `Notícias`, clique em `Listar Notícias`. [guia=menu:/painel/noticias]
-2. Para artigos, no menu `Artigos`, clique em `Lista de Artigos`. [guia=menu:/painel/blog]
-3. Para eventos, no menu `Guia Turístico / Eventos`, clique em `Eventos`. [guia=menu:/painel/turismo/eventos]
-4. Na coluna `Status`, veja a situação. Quando houver, compare também a data de publicação ou de término. [guia=noticias.status-linha]
-5. Em notícias, uma notícia publicada com data no futuro aparece como `agendado` e não aparece para o público antes dessa data. [guia=noticias.status-linha]
-6. Em artigos, as situações são `Rascunho`, `Agendado`, `Publicado` e `Arquivado` (fora do ar). [guia=blog.status-linha]
-7. Em eventos, `No ar` está aparecendo no site, `Encerrado` quer dizer que a data já passou e `Inativo` quer dizer que você tirou do ar. [guia=eventos.status-linha]
-8. Para ter certeza, abra o conteúdo no site do portal, como um visitante faria. [guia=fora]
+2. Na coluna `Status`, veja a situação. Quando houver, compare também a data de publicação ou de término. [guia=noticias.status-linha]
+3. Em notícias, uma notícia publicada com data no futuro aparece como `agendado` e não aparece para o público antes dessa data. [guia=noticias.status-linha]
+4. Para ter certeza, abra o conteúdo no site do portal, como um visitante faria. [guia=fora]
 
 ## resultado
 estado, datas e regras de vigência em conjunto determinam se o conteúdo pode aparecer. Destaque e publicação são conceitos diferentes.

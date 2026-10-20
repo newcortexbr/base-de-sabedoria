@@ -21,6 +21,10 @@ aqui você escreve, publica e acompanha as notícias do portal. Rascunho fica gu
 ## pré-requisitos/permissões
 O administrador usa o painel. O jornalista não usa o painel: entra pela área do cliente e só vê o que o papel dele permite.
 
+## veja também
+- para mudar uma notícia que já existe, veja o artigo "editar uma notícia".
+- para achar uma notícia na lista ou ver a situação dela, veja o artigo "encontrar e filtrar notícias na lista".
+
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Notícias` e depois em `Listar Notícias`. [guia=menu:/painel/noticias] [t=23]
@@ -39,11 +43,6 @@ O administrador usa o painel. O jornalista não usa o painel: entra pela área d
 14. Com `Agendar notícia` ligado, escolha o dia e a hora em `Publicar em`. [guia=noticias-cadastrar.publicar-em]
 15. Se quiser a notícia em evidência na página inicial, ligue `Destaque na janela principal`. [guia=noticias-cadastrar.destaque] [t=94]
 16. Clique em `Adicionar`. Ao corrigir uma notícia que já existe, o botão se chama `Salvar`. [guia=noticias-cadastrar.salvar] [t=98]
-17. Para achar uma notícia na lista, escreva no campo `Buscar por título...`. [guia=noticias.buscar] [t=25]
-18. Para filtrar, use a caixa `Todos os status`. [guia=noticias.status] [t=28]
-19. Para filtrar por data, use as duas datas de publicação (de e até). [guia=noticias.periodo]
-20. Para corrigir uma notícia, clique no ícone de lápis (`Editar`) na linha da notícia que você quer. [guia=noticias.editar]
-21. Confira a coluna `Status`: `Rascunho` (guardada, fora do ar), `Publicado` (no ar) ou `agendado` (vai entrar no ar na data marcada). [guia=noticias.status-linha]
 
 ## resultado
 A lista reflete o estado do conteúdo. Uma notícia marcada como publicada, mas com data futura, aparece como `agendado` e fica escondida do público até a data chegar.

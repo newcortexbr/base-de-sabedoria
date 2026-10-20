@@ -24,6 +24,9 @@ aqui você cria um sorteio com prêmio de uma empresa parceira, sorteia ao vivo 
 - Ter acesso administrativo ao portal.
 - O módulo Sorteios estar disponível no portal.
 
+## veja também
+- para sortear o ganhador e combinar a entrega, veja o artigo "realizar o sorteio ao vivo e entregar o prêmio".
+
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Sorteios` e depois em `Sorteios`. [guia=menu:/painel/sorteios]
@@ -41,12 +44,6 @@ aqui você cria um sorteio com prêmio de uma empresa parceira, sorteia ao vivo 
 13. Em `Oferecido por`, escolha a empresa do Guia que dá o prêmio. [guia=sorteios.oferecido-por]
 14. Em `A roleta mostra`, escolha nomes ou números da sorte. [guia=sorteios.roleta]
 15. Clique em `Publicar` para colocar o sorteio no ar. [guia=sorteios.publicar]
-16. Depois que as inscrições encerrarem, na linha do sorteio que você quer, clique em `Realizar sorteio` para abrir a tela de sortear ao vivo. [guia=sorteios.realizar]
-17. Se for transmitir, clique em `Tela cheia`. [guia=sorteios-ao-vivo.tela-cheia]
-18. Clique em `Sortear 1º ganhador`. [guia=sorteios-ao-vivo.sortear]
-19. No cartão do ganhador, clique em `Chamar no WhatsApp` para combinar a entrega. [guia=sorteios-ao-vivo.whatsapp]
-20. Em `Entrega do prêmio`, marque a situação: `Aguardando contato`, `Contatado`, `Prêmio entregue` ou `Não respondeu`. [guia=sorteios-ao-vivo.entrega]
-21. Se o ganhador não responder, clique em `Sortear outro no lugar`. [guia=sorteios-ao-vivo.entrega]
 
 ## resultado
 

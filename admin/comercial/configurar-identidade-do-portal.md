@@ -27,22 +27,17 @@ aqui você muda o nome, a logo, os contatos e a aparência do portal.
 
 - Ter acesso de administrador ao painel do portal.
 
+## veja também
+- para preencher WhatsApp e redes sociais, veja o artigo "configurar as redes sociais do portal".
+- para preencher e-mail e telefone do Fale Conosco, veja o artigo "configurar a página Fale Conosco do portal".
+- para mudar topo, início, cores ou rodapé, veja o artigo "mudar a aparência (layout) do portal".
+
 ## passos
 
 1. No menu da esquerda, na parte `Sistema`, clique em `Configurações` e depois em `Configurações Gerais`. [guia=menu:/painel/configuracoes] [t=6]
 2. No quadro `Identidade`, escreva o `Nome do portal`. [guia=configuracoes.nome] [t=9]
 3. Clique em `Salvar` ao lado do nome. [guia=configuracoes.salvar-nome] [t=12]
 4. Para a `Logo do portal`, clique em `Enviar logo` (ou `Trocar logo`) e escolha a imagem. O envio é imediato. [guia=configuracoes.logo] [t=17]
-5. No quadro `Redes Sociais`, preencha o `WhatsApp`. [guia=configuracoes.whatsapp] [t=40]
-6. Abaixo, preencha o @ ou o link do Instagram, Facebook, YouTube e TikTok. [guia=configuracoes.whatsapp]
-7. Clique em `Salvar Redes Sociais`. [guia=configuracoes.salvar-redes] [t=48]
-8. No quadro `Página Fale Conosco`, preencha o `E-mail de contato`. [guia=configuracoes.email-contato] [t=51]
-9. Preencha o `Telefone`. [guia=configuracoes.telefone-contato] [t=51]
-10. Clique em `Salvar Fale Conosco`. [guia=configuracoes.salvar-contato] [t=56]
-11. Para mudar a aparência do site, no mesmo menu `Configurações`, clique em `Layout`. [guia=menu:/painel/configuracoes/layout]
-12. Escolha a parte que quer ajustar: `Topo`, `Tela Início`, `Cores` ou `Rodapé`. [guia=configuracoes-layout.partes]
-13. Faça a mudança que você quer na parte escolhida. [guia=configuracoes-layout.partes]
-14. Clique no botão de salvar da própria página (por exemplo, `Salvar Topo` ou `Salvar cores`) e espere a mensagem de que deu certo. [guia=configuracoes-layout.salvar]
 
 ## resultado
 

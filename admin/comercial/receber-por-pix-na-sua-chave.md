@@ -24,6 +24,9 @@ aqui você cadastra a chave Pix do portal e o WhatsApp que recebe os comprovante
 - Ter um aplicativo autenticador no celular, como o Google Authenticator.
 - Sem o Asaas conectado, ou com `Cobrar pelo Asaas` desligado, o quadro `Recebimento por Pix` fica `✓ Em uso`. Para receber pelo Asaas, veja o artigo "conectar a conta Asaas e entender a cobrança".
 
+## veja também
+- para escolher o número que recebe os comprovantes, veja o artigo "definir o WhatsApp que recebe os comprovantes do Pix".
+
 ## passos
 
 1. No menu da esquerda do painel, na parte `Sistema`, clique em `Configurações` e depois em `Cobrança`. [guia=menu:/painel/configuracoes/cobranca] [t=155]
@@ -38,8 +41,6 @@ aqui você cadastra a chave Pix do portal e o WhatsApp que recebe os comprovante
 10. Em `Instruções para o cliente`, escreva o que a empresa deve saber para pagar (por exemplo, em nome de quem está a chave). [guia=pix.instrucoes] [t=195]
 11. Digite de novo o código do aplicativo autenticador. [guia=autenticador.codigo] [t=198]
 12. Clique em `Trocar chave`. [guia=pix.trocar-chave] [t=200]
-13. Em `WhatsApp que recebe os comprovantes`, escreva o número que vai receber os comprovantes. [guia=pix.whatsapp] [t=203]
-14. Clique em `Salvar WhatsApp`. Deve aparecer `✓ WhatsApp salvo.` [guia=pix.salvar-whatsapp] [t=206]
 
 ## resultado
 

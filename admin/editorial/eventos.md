@@ -20,6 +20,10 @@ aqui você cadastra e cuida dos eventos da agenda. Eventos têm tela própria, s
 ## pré-requisitos/permissões
 Entrar no painel como administrador, com o módulo de eventos ativo no portal.
 
+## veja também
+- para mudar um evento que já existe, veja o artigo "editar um evento".
+- para ver quais eventos estão no ar, veja o artigo "ver a situação dos eventos".
+
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Turístico / Eventos` e depois em `Eventos`. [guia=menu:/painel/turismo/eventos] [t=48]
@@ -33,8 +37,6 @@ Entrar no painel como administrador, com o módulo de eventos ativo no portal.
 9. Cole o link do vídeo no campo `Link do vídeo no YouTube`. [guia=galeria.link-video]
 10. Clique em `Adicionar vídeo`. [guia=galeria.enviar-video]
 11. Role a página até o fim e clique em `Salvar`. [guia=eventos.salvar]
-12. Para mudar um evento que já existe, clique em `Editar` na linha do evento que você quer. [guia=eventos.editar]
-13. Na lista, veja a situação de cada evento: `No ar` (aparecendo no site), `Encerrado` (a data já passou) ou `Inativo` (você mesmo tirou do ar). [guia=eventos.status-linha]
 
 ## resultado
 evento ativo permanece no ar segundo as datas reconhecidas pelo servidor; depois de vencido, sai do ar. Destaques e filtros públicos fazem parte do produto, mas a exibição depende também da configuração e da vigência.

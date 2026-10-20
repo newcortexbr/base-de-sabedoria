@@ -21,6 +21,9 @@ aqui você escreve, publica e acompanha os artigos do portal. Artigos são texto
 ## pré-requisitos/permissões
 O administrador usa o painel. O colunista usa a área do cliente, não o painel.
 
+## veja também
+- para mudar um artigo que já existe, veja o artigo "editar um artigo".
+
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Artigos` e depois em `Lista de Artigos`. [guia=menu:/painel/blog] [t=13]
@@ -33,9 +36,6 @@ O administrador usa o painel. O colunista usa a área do cliente, não o painel.
 8. Envie a `Foto de capa` clicando no campo de arquivo. [guia=blog-novo.capa] [t=38]
 9. Clique em `Publicar`. Para colunista da casa, o artigo vai direto para o ar. [guia=blog-novo.publicar] [t=45]
 10. Volte à `Lista de Artigos` e confira a coluna `Status`. [guia=blog.status-linha]
-11. Para mudar um artigo, clique no ícone de editar na linha do artigo que você quer. [guia=blog.editar]
-12. Para cuidar das categorias, clique em `Categorias` no menu de `Artigos`. [guia=menu:/painel/blog/categorias] [t=65]
-13. Para cuidar dos colunistas, clique em `Colunistas` no menu de `Artigos`. [guia=menu:/painel/blog/colunistas] [t=49]
 
 ## resultado
 os estados da lista são `Rascunho`, `Agendado`, `Publicado` e `Arquivado`. Artigo criado pelo administrador como colunista da casa pode ser publicado diretamente. Ao escolher colunista não pertencente à casa, a criação gera rascunho; o colunista pagante publica pela área do cliente.
@@ -43,6 +43,7 @@ os estados da lista são `Rascunho`, `Agendado`, `Publicado` e `Arquivado`. Arti
 ## desvios
 - Não trate Notícias e Artigos como o mesmo módulo: têm telas, papéis e estados distintos.
 - Jornalistas não são colunistas; seus fluxos são separados.
+- As categorias e os colunistas ficam no menu `Artigos`, em `Categorias` e `Colunistas`.
 - Se o estado não mudar, consulte o erro apresentado e peça ajuda; não repita uma ação sem verificar a lista.
 
 ## quando pedir ajuda

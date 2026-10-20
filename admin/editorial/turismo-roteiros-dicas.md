@@ -20,6 +20,9 @@ aqui você cria e cuida dos roteiros de turismo, que são passeios com várias p
 ## pré-requisitos/permissões
 Entrar no painel como administrador, com o módulo de turismo ativo no portal.
 
+## veja também
+- para mudar um roteiro que já existe, veja o artigo "editar um roteiro turístico".
+
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Turístico / Eventos` e depois em `Roteiros`. [guia=menu:/painel/turismo/roteiros] [t=7]
@@ -38,7 +41,6 @@ Entrar no painel como administrador, com o módulo de turismo ativo no portal.
 14. Se quiser, adicione fotos em `Galeria de fotos e vídeos`. [guia=galeria.adicionar-fotos]
 15. Clique em `Salvar`. [guia=roteiros.salvar] [t=43]
 16. Confira o roteiro na lista. [guia=roteiros.editar]
-17. Para mudar um roteiro, clique em `Editar` na linha do roteiro que você quer. [guia=roteiros.editar]
 
 ## resultado
 roteiros e dicas ficam em suas áreas próprias de Turismo. Galerias são ligadas ao registro e sua apresentação pública é determinada pelo conteúdo e pelas regras do produto.

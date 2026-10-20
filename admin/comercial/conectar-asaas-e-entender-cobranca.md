@@ -25,10 +25,13 @@ aqui você conecta a conta Asaas do portal, passo a passo. Conta conectada, cont
 - Ter uma conta no Asaas com usuário administrador (só administrador cria chave de API).
 - Usar o Asaas pelo navegador do computador: a chave não pode ser gerada pelo aplicativo de celular.
 
+## veja também
+- para ver se a conta Asaas já ligada continua funcionando, veja o artigo "testar a conexão da conta Asaas que já está ligada".
+
 ## passos
 
 1. No menu da esquerda do painel, na parte `Sistema`, clique em `Configurações` e depois em `Cobrança`. [guia=menu:/painel/configuracoes/cobranca] [t=9]
-2. No quadro `Conta Asaas`, veja o estado: `Não conectada`, `✓ Conectada` ou `Desligada`. Se já estiver `✓ Conectada`, pule para o passo em que você confere a opção `Cobrar pelo Asaas`. [guia=cobranca.estado] [t=15]
+2. No quadro `Conta Asaas`, veja o estado. Ele deve estar `Não conectada`. [guia=cobranca.estado]
 3. Em outra aba do navegador, entre na sua conta em asaas.com com seu usuário e senha do Asaas. [guia=fora] [t=44]
 4. No Asaas, clique no seu nome, no canto superior direito. [guia=fora] [t=47]
 5. Clique em `Integrações`. [guia=fora]
@@ -43,8 +46,6 @@ aqui você conecta a conta Asaas do portal, passo a passo. Conta conectada, cont
 14. Clique em `Conectar`. [guia=cobranca.conectar] [t=101]
 15. Aguarde a resposta: deu certo, aparece `✓ Conectada`; deu errado, aparece uma mensagem com o motivo (por exemplo, chave inválida ou revogada). [guia=cobranca.estado] [t=103]
 16. Confira se a opção `Cobrar pelo Asaas` está ligada. [guia=cobranca.cobrar-pelo-asaas] [t=125]
-17. Para conferir uma conta já ligada, clique em `Testar conexão`. [guia=cobranca.testar] [t=120]
-18. Para ver faturas e cobranças, no menu da esquerda, na parte `Comercial`, clique em `Financeiro`. [guia=menu:/painel/financeiro] [t=148]
 
 ## resultado
 

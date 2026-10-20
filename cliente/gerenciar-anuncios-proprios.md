@@ -39,6 +39,7 @@ você vê os anúncios associados ao próprio perfil e os estados exibidos, como
 
 ## desvios
 - um anúncio ativo pode não aparecer publicamente se estiver sem foto ou fora da validade.
+- quanto tempo o anúncio fica no ar depende do plano: no plano Grátis são 30 dias e nas assinaturas são 180 dias, contados do dia em que ele é publicado (se o portal pede aprovação, do dia em que é aprovado). Passado o prazo, o anúncio é encerrado sozinho. Editar o anúncio não renova o prazo.
 - publicação e destaque obedecem condições e limites comerciais; a área do cliente apresenta eventuais bloqueios.
 - não altere nem tente abrir anúncio de outra empresa.
 
@@ -50,6 +51,10 @@ se um anúncio próprio não aparecer ou continuar invisível depois de corrigir
 - `portal-cidade/frontend/src/app/minha-conta/classificados/page.tsx:45`
 - `portal-cidade/frontend/src/app/minha-conta/classificados/page.tsx:47`
 - `portal-cidade/docs/PRODUCT.md:44`
+- `portal-cidade/backend/comercial/catalogo.py:344,354,389,413` — prazo por plano (Grátis 30 dias; assinaturas 180 dias).
+- `portal-cidade/backend/anuncios/views_admin.py:178-179` — `expira_em` = hoje + prazo do plano ao publicar.
+- `portal-cidade/backend/anuncios/moderacao.py:46-66` — na primeira aprovação o prazo conta dali; depois a edição mantém o `expira_em` original.
+- `portal-cidade/backend/anuncios/management/commands/encerrar_anuncios_expirados.py:59` — encerra anúncios ativos com `expira_em` vencido.
 
 ## lacunas
 testado em tela (2026-10-15, plano grátis sintético, 1280 px e 390 px): criar com foto, listar, editar, página pública; erros por campo aparecem em português. não testado: pausar/vender/encerrar, excluir, limites de plano. este artigo não promete quantidade, preço ou destaque.

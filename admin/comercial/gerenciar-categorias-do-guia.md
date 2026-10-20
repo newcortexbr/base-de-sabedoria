@@ -23,20 +23,20 @@ aqui você vê, cria e muda as categorias do Guia. Categoria desligada esconde d
 - Ter acesso administrativo ao portal.
 - O Guia estar ativo.
 
+## veja também
+- para mudar uma categoria que já existe, veja o artigo "editar uma categoria do Guia".
+
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Gerenciar Categorias`. [guia=menu:/painel/guia/categorias] [t=14]
-2. Procure na lista a categoria que você quer ver. A coluna `Empresas` mostra quantas empresas estão nela. [guia=guia-categorias.tabela] [t=22]
-3. Antes de desligar uma categoria, veja se há empresas nela. Se houver, pense em passar essas empresas para outra categoria, porque elas somem do site junto com a categoria. [guia=guia-categorias.tabela]
-4. Para mudar uma categoria, clique em `Editar` na linha dela. [guia=guia-categorias.editar] [t=109]
-5. Para criar uma nova, clique em `+ Nova Categoria`. Ela abre uma janela com o formulário. [guia=guia-categorias.nova] [t=35]
-6. Escreva o nome da categoria. [guia=guia-categorias.nome] [t=37]
-7. Escolha um ícone na lista (ela tem busca). [guia=guia-categorias.icone] [t=37]
-8. Marque `Ativa` para a categoria aparecer no site. [guia=guia-categorias.ativa] [t=42]
-9. Marque a opção de aparecer no formulário de orçamento só quando as empresas da categoria prestam serviço (por exemplo, pintor ou eletricista). [guia=guia-categorias.aceita-orcamento] [t=45]
-10. Escolha uma cor. [guia=guia-categorias.cor] [t=57]
-11. Em `O que as empresas desta categoria oferecem`, marque `Cardápio` (restaurante, bar, lanchonete), `Delivery` (pedido pelo site) ou `Quartos` (hotel, pousada). Serviços, equipe e catálogo de produtos já vêm marcados para todas. [guia=guia-categorias.oferece] [t=62]
-12. Clique em `Salvar` e confira a mensagem que aparece. [guia=guia-categorias.salvar]
+2. Para criar uma nova, clique em `+ Nova Categoria`. Ela abre uma janela com o formulário. [guia=guia-categorias.nova] [t=35]
+3. Escreva o nome da categoria. [guia=guia-categorias.nome] [t=37]
+4. Escolha um ícone na lista (ela tem busca). [guia=guia-categorias.icone] [t=37]
+5. Marque `Ativa` para a categoria aparecer no site. [guia=guia-categorias.ativa] [t=42]
+6. Marque a opção de aparecer no formulário de orçamento só quando as empresas da categoria prestam serviço (por exemplo, pintor ou eletricista). [guia=guia-categorias.aceita-orcamento] [t=45]
+7. Escolha uma cor. [guia=guia-categorias.cor] [t=57]
+8. Em `O que as empresas desta categoria oferecem`, marque `Cardápio` (restaurante, bar, lanchonete), `Delivery` (pedido pelo site) ou `Quartos` (hotel, pousada). Serviços, equipe e catálogo de produtos já vêm marcados para todas. [guia=guia-categorias.oferece] [t=62]
+9. Clique em `Salvar` e confira a mensagem que aparece. [guia=guia-categorias.salvar]
 
 ## resultado
 

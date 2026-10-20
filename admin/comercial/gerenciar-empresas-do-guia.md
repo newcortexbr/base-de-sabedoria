@@ -23,6 +23,10 @@ aqui você encontra uma empresa do Guia e muda os dados ou a situação dela.
 - Ter acesso administrativo ao portal.
 - O módulo Guia Comercial estar disponível no portal.
 
+## veja também
+- para cadastrar uma empresa nova, veja o artigo "cadastrar uma empresa no Guia".
+- para ativar, inativar ou reprovar uma empresa, veja o artigo "mudar a situação de uma empresa do Guia".
+
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas] [t=9]
@@ -30,8 +34,6 @@ aqui você encontra uma empresa do Guia e muda os dados ou a situação dela.
 3. Se quiser, escolha uma categoria e uma situação (`Todos os status`) nos filtros ao lado. [guia=guia-empresas.filtro-status] [t=60]
 4. Clique em `Buscar`. [guia=guia-empresas.buscar]
 5. Para mudar os dados de uma empresa, clique no lápis (`Editar`) na linha da empresa que você quer. [guia=guia-empresas.editar] [t=91]
-6. Para mudar a situação (`Pendente`, `Ativo`, `Inativo`, `Banido` ou `Reprovado`), escolha a nova opção na coluna `Status` da linha da empresa. [guia=guia-empresas.status-linha] [t=74]
-7. Confira na lista se a situação mudou. [guia=guia-empresas.status-linha]
 
 ## resultado
 

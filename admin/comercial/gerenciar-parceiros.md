@@ -1,6 +1,6 @@
 ---
 id: gerenciar-parceiros
-titulo: cadastrar parceiros e guardar o link do grupo de WhatsApp
+titulo: cadastrar um parceiro
 publico:
   - admin
 modulo: parceiros
@@ -23,6 +23,9 @@ aqui você cadastra quem vende o portal por você. Ele recebe acesso à área pr
 - Ter acesso administrativo ao portal.
 - O Programa de Parceiros estar ligado no portal.
 
+## veja também
+- para guardar o link do grupo dos parceiros, veja o artigo "guardar o link do grupo de WhatsApp dos parceiros".
+
 ## passos
 
 1. No menu da esquerda, na parte `Comercial`, clique em `Parceiros`. [guia=menu:/painel/parceiros] [t=6]
@@ -34,8 +37,6 @@ aqui você cadastra quem vende o portal por você. Ele recebe acesso à área pr
 7. Preencha o `WhatsApp`. [guia=parceiros.whatsapp] [t=77]
 8. Escolha o `Plano do parceiro`. [guia=parceiros.plano] [t=80]
 9. Clique em `Salvar` (em plano pago, o botão é `Salvar e gerar link`, que gera o link de pagamento do parceiro). [guia=parceiros.salvar]
-10. Para o grupo de WhatsApp dos parceiros, cole o link de convite em `Link do grupo`. [guia=parceiros.link-grupo] [t=121]
-11. Clique em `Salvar` ao lado do link. [guia=parceiros.salvar-grupo] [t=124]
 
 ## resultado
 

@@ -24,27 +24,25 @@ aqui você monta o cardápio com fotos e preços de um restaurante, bar ou lanch
 - O módulo Guia Comercial estar disponível no portal.
 - A categoria da empresa ter `Cardápio` marcado em `Gerenciar Categorias`; sem isso o cartão não aparece.
 
+## veja também
+- para ajustar botões, tema e imprimir o QR code, veja o artigo "configurar botões, tema e QR code do cardápio digital".
+
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas]
 2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar] [t=17]
 3. Desça até `Conteúdo da ficha` e, no cartão `Cardápio`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-cardapio] [t=22]
-4. No topo, ligue ou desligue o botão `Fazer meu pedido`. [guia=guia-empresas-cardapio.botoes] [t=30]
-5. Ligue ou desligue o botão `Chamar no WhatsApp`. Se o cardápio for só para consulta nas mesas, deixe os dois desligados. [guia=guia-empresas-cardapio.botoes]
-6. Em `Aparência do cardápio`, escolha o tema claro ou escuro. [guia=guia-empresas-cardapio.tema] [t=46]
-7. Para imprimir o QR code, escolha o tamanho da placa (`A4`, `A5`, `A6` ou adesivo). [guia=guia-empresas-cardapio.tamanho-placa] [t=56]
-8. Clique em `Gerar QR Code para imprimir`. [guia=guia-empresas-cardapio.gerar-qrcode] [t=65]
-9. Para criar uma seção (por exemplo, Bebidas), clique em `+ Nova seção`. [guia=guia-empresas-cardapio.nova-secao] [t=85]
-10. Escreva o nome da seção. [guia=guia-empresas-cardapio.nome-secao] [t=88]
-11. Clique em `Criar`. [guia=guia-empresas-cardapio.criar-secao] [t=88]
-12. No fim da seção, clique em `+ Adicionar prato`. [guia=guia-empresas-cardapio.adicionar-prato] [t=109]
-13. Envie a foto do prato (JPG ou PNG, até 10 MB). [guia=guia-empresas-cardapio.foto] [t=112]
-14. Escreva o `Nome do prato *`. [guia=guia-empresas-cardapio.nome-prato] [t=115]
-15. Escreva a `Descrição` (ingredientes ou modo de preparo). [guia=guia-empresas-cardapio.descricao] [t=119]
-16. Informe o `Preço (R$)`. [guia=guia-empresas-cardapio.preco] [t=123]
-17. Para promoção, preencha também o `Preço promocional (R$)`. [guia=guia-empresas-cardapio.preco-promocional] [t=125]
-18. Se quiser, marque as `Tags` (viram selos no prato). [guia=guia-empresas-cardapio.tags] [t=132]
-19. Clique em `Salvar prato`. [guia=guia-empresas-cardapio.salvar-prato] [t=138]
+4. Para criar uma seção (por exemplo, Bebidas), clique em `+ Nova seção`. [guia=guia-empresas-cardapio.nova-secao] [t=85]
+5. Escreva o nome da seção. [guia=guia-empresas-cardapio.nome-secao] [t=88]
+6. Clique em `Criar`. [guia=guia-empresas-cardapio.criar-secao] [t=88]
+7. No fim da seção, clique em `+ Adicionar prato`. [guia=guia-empresas-cardapio.adicionar-prato] [t=109]
+8. Envie a foto do prato (JPG ou PNG, até 10 MB). [guia=guia-empresas-cardapio.foto] [t=112]
+9. Escreva o `Nome do prato *`. [guia=guia-empresas-cardapio.nome-prato] [t=115]
+10. Escreva a `Descrição` (ingredientes ou modo de preparo). [guia=guia-empresas-cardapio.descricao] [t=119]
+11. Informe o `Preço (R$)`. [guia=guia-empresas-cardapio.preco] [t=123]
+12. Para promoção, preencha também o `Preço promocional (R$)`. [guia=guia-empresas-cardapio.preco-promocional] [t=125]
+13. Se quiser, marque as `Tags` (viram selos no prato). [guia=guia-empresas-cardapio.tags] [t=132]
+14. Clique em `Salvar prato`. [guia=guia-empresas-cardapio.salvar-prato] [t=138]
 
 ## resultado
 
