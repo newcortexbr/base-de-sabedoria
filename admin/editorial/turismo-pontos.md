@@ -15,15 +15,15 @@ videos:
 ---
 
 ## objetivo
-cadastrar e localizar pontos turísticos e entender o vínculo com categorias.
+aqui você cadastra e encontra os pontos turísticos da cidade, cada um com sua categoria. Ponto turístico não é evento nem roteiro: cada um tem tela própria.
 
 ## pré-requisitos/permissões
-acesse pelo painel do portal com permissão de administração e módulo Turismo disponível. O acesso é decidido pelo servidor.
+Entrar no painel como administrador, com o módulo de turismo ativo no portal.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Turístico / Eventos` e depois em `Pontos Turísticos` (`/painel/turismo/pontos`). [guia=menu:/painel/turismo/pontos] [t=7]
-2. Para cadastrar, clique no botão `+ Novo Ponto` no topo da página (`/painel/turismo/pontos/novo`). [guia=pontos.novo] [t=15]
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Turístico / Eventos` e depois em `Pontos Turísticos`. [guia=menu:/painel/turismo/pontos] [t=7]
+2. Para cadastrar, clique no botão `+ Novo Ponto` no topo da página. [guia=pontos.novo] [t=15]
 3. Envie a foto principal, que é a capa do ponto, clicando em `Escolher foto`. Prefira uma imagem deitada (horizontal). [guia=pontos-novo.foto] [t=18]
 4. Em `Dados básicos`, escreva o `Nome *` do ponto. [guia=pontos-novo.nome] [t=26]
 5. Escolha a `Categoria` (ou crie uma nova ali mesmo). [guia=pontos-novo.categoria] [t=28]
@@ -34,8 +34,8 @@ acesse pelo painel do portal com permissão de administração e módulo Turismo
 10. Clique em `Cadastrar ponto`. [guia=pontos-novo.cadastrar] [t=80]
 11. Para achar um ponto na lista, escreva o nome no campo `Buscar ponto turístico...`. [guia=pontos.campo-busca]
 12. Clique em `Buscar`. [guia=pontos.buscar]
-13. No topo da página há também os botões `Categorias` (`/painel/turismo/categorias`), `Roteiros` e `Eventos`, que levam às outras telas de turismo. [guia=pontos.atalhos-turismo]
-14. Para mudar as fotos de um ponto, clique em `Editar` na linha do ponto que você quer (`/painel/turismo/pontos/[id]`) e use a parte `Galeria de fotos e vídeos`. [guia=pontos.editar]
+13. Para mudar as fotos de um ponto, clique em `Editar` na linha do ponto que você quer. [guia=pontos.editar]
+14. Use a parte `Galeria de fotos e vídeos` para trocar as fotos. [guia=galeria.adicionar-fotos]
 
 ## resultado
 A listagem mostra nome, categoria, cidade e status. Um ponto pode ter imagens e a galeria deve ser gerenciada pela tela correspondente, não por nomes de arquivo improvisados.

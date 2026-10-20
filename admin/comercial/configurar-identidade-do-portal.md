@@ -21,7 +21,7 @@ videos:
 
 ## objetivo
 
-atualizar as informações básicas e a aparência do portal no painel.
+aqui você muda o nome, a logo, os contatos e a aparência do portal.
 
 ## pré-requisitos
 
@@ -29,18 +29,20 @@ atualizar as informações básicas e a aparência do portal no painel.
 
 ## passos
 
-1. No menu da esquerda, na parte `Sistema`, clique em `Configurações` e depois em `Configurações Gerais` (`/painel/configuracoes`). [guia=menu:/painel/configuracoes] [t=6]
+1. No menu da esquerda, na parte `Sistema`, clique em `Configurações` e depois em `Configurações Gerais`. [guia=menu:/painel/configuracoes] [t=6]
 2. No quadro `Identidade`, escreva o `Nome do portal`. [guia=configuracoes.nome] [t=9]
 3. Clique em `Salvar` ao lado do nome. [guia=configuracoes.salvar-nome] [t=12]
 4. Para a `Logo do portal`, clique em `Enviar logo` (ou `Trocar logo`) e escolha a imagem. O envio é imediato. [guia=configuracoes.logo] [t=17]
-5. No quadro `Redes Sociais`, preencha o `WhatsApp` e, abaixo, o @ ou o link do Instagram, Facebook, YouTube e TikTok. [guia=configuracoes.whatsapp] [t=40]
-6. Clique em `Salvar Redes Sociais`. [guia=configuracoes.salvar-redes] [t=48]
-7. No quadro `Página Fale Conosco`, preencha o `E-mail de contato`. [guia=configuracoes.email-contato] [t=51]
-8. Preencha o `Telefone`. [guia=configuracoes.telefone-contato] [t=51]
-9. Clique em `Salvar Fale Conosco`. [guia=configuracoes.salvar-contato] [t=56]
-10. Para mudar a aparência do site, no mesmo menu `Configurações`, clique em `Layout` (`/painel/configuracoes/layout`). [guia=menu:/painel/configuracoes/layout]
-11. Escolha a parte que quer ajustar: `Topo`, `Tela Início`, `Cores` ou `Rodapé`. [guia=configuracoes-layout.partes]
-12. Faça a mudança e clique no botão de salvar da própria página (por exemplo, `Salvar Topo` ou `Salvar cores`). Espere a mensagem de que deu certo antes de sair. [guia=configuracoes-layout.salvar]
+5. No quadro `Redes Sociais`, preencha o `WhatsApp`. [guia=configuracoes.whatsapp] [t=40]
+6. Abaixo, preencha o @ ou o link do Instagram, Facebook, YouTube e TikTok. [guia=configuracoes.whatsapp]
+7. Clique em `Salvar Redes Sociais`. [guia=configuracoes.salvar-redes] [t=48]
+8. No quadro `Página Fale Conosco`, preencha o `E-mail de contato`. [guia=configuracoes.email-contato] [t=51]
+9. Preencha o `Telefone`. [guia=configuracoes.telefone-contato] [t=51]
+10. Clique em `Salvar Fale Conosco`. [guia=configuracoes.salvar-contato] [t=56]
+11. Para mudar a aparência do site, no mesmo menu `Configurações`, clique em `Layout`. [guia=menu:/painel/configuracoes/layout]
+12. Escolha a parte que quer ajustar: `Topo`, `Tela Início`, `Cores` ou `Rodapé`. [guia=configuracoes-layout.partes]
+13. Faça a mudança que você quer na parte escolhida. [guia=configuracoes-layout.partes]
+14. Clique no botão de salvar da própria página (por exemplo, `Salvar Topo` ou `Salvar cores`) e espere a mensagem de que deu certo. [guia=configuracoes-layout.salvar]
 
 ## resultado
 

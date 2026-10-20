@@ -19,22 +19,19 @@ validacao: docs-e-codigo
 
 ## objetivo
 
-orientar quem usa o login do painel administrativo e explicar recusas comuns sem confundir erro de senha com falta de permissão.
+aqui você entra no painel do portal e entende por que o acesso pode ser negado. Erro de senha é diferente de falta de permissão.
 
 ## pré-requisitos
 
-- O painel é destinado a administradores autorizados do portal.
-- Tenha o e-mail e a senha da conta de administrador.
+Ter o e-mail e a senha da conta de administrador.
 
 ## passos
 
-1. Cada conta de administrador entra só no portal em que foi autorizada. Para entrar no painel de outro portal, peça ao responsável por esse portal que libere a administração para você; esta tela não libera esse acesso. [guia=fora]
-2. Abra a página de entrada do painel, no endereço `/painel/login`. [guia=fora]
-3. Escreva seu e-mail no campo `E-mail`. [guia=login.email]
-4. Escreva sua senha no campo `Senha`. [guia=login.senha]
-5. Clique no botão `Efetuar Login`. [guia=login.entrar]
-6. Se você é jornalista, cliente (empresa) ou parceiro, não use o painel. Jornalista e cliente entram pela área do cliente (`/minha-conta/login`); parceiro entra em `/parceiro/login`. [guia=fora]
-7. Se aparecer a mensagem de muitas tentativas, espere alguns minutos e tente só mais uma vez. [guia=fora]
+1. Abra a página de entrada do painel, no endereço `/painel/login`. [guia=fora]
+2. Escreva seu e-mail no campo `E-mail`. [guia=login.email]
+3. Escreva sua senha no campo `Senha`. [guia=login.senha]
+4. Clique no botão `Efetuar Login`. [guia=login.entrar]
+5. Se aparecer a mensagem de muitas tentativas, espere alguns minutos e tente só mais uma vez. [guia=fora]
 
 ## resultado
 
@@ -44,6 +41,8 @@ Cada conta de administrador entra somente no portal em que foi autorizada. Ter a
 
 ## desvios
 
+- Cada conta de administrador entra só no portal em que foi autorizada. Para entrar no painel de outro portal, peça ao responsável por esse portal que libere a administração para você.
+- Jornalista e cliente (empresa) não usam o painel: entram pela área do cliente (`/minha-conta/login`). Parceiro entra em `/parceiro/login`.
 - “Esta conta não tem acesso ao painel administrativo” significa que a conta autenticada não tem permissão para essa área; não é instrução para repetir a senha.
 - “Muitas tentativas seguidas” indica bloqueio temporário do login; a senha continua valendo.
 - O login mostra “Esqueceu a senha?”, mas esse controle não inicia a recuperação. Peça ajuda ao suporte.

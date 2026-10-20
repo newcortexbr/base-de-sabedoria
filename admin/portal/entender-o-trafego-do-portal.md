@@ -14,7 +14,7 @@ validacao: docs-e-codigo
 
 ## objetivo
 
-explicar o que significa cada número do quadro Tráfego do portal, na tela inicial do Painel: acessos, visitantes, tempo médio na página, páginas por visitante, gráfico de acessos por dia, acessos por seção e mais lidas.
+aqui você entende os números do quadro Tráfego do portal, na tela inicial do painel. Eles mostram quantas pessoas visitam o site e o que elas leem.
 
 ## passos
 

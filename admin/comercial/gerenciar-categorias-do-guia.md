@@ -16,7 +16,7 @@ videos:
 
 ## objetivo
 
-acessar as categorias do Guia para revisar sua configuração.
+aqui você vê, cria e muda as categorias do Guia. Categoria desligada esconde do site as empresas que estão nela.
 
 ## pré-requisitos
 
@@ -25,7 +25,7 @@ acessar as categorias do Guia para revisar sua configuração.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Gerenciar Categorias` (`/painel/guia/categorias`). [guia=menu:/painel/guia/categorias] [t=14]
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Gerenciar Categorias`. [guia=menu:/painel/guia/categorias] [t=14]
 2. Procure na lista a categoria que você quer ver. A coluna `Empresas` mostra quantas empresas estão nela. [guia=guia-categorias.tabela] [t=22]
 3. Antes de desligar uma categoria, veja se há empresas nela. Se houver, pense em passar essas empresas para outra categoria, porque elas somem do site junto com a categoria. [guia=guia-categorias.tabela]
 4. Para mudar uma categoria, clique em `Editar` na linha dela. [guia=guia-categorias.editar] [t=109]

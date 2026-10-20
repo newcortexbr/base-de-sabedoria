@@ -13,22 +13,20 @@ validacao: docs-e-codigo
 ---
 
 ## objetivo
-localizar e manter as categorias editoriais nos módulos corretos, considerando que cada catálogo é separado.
+aqui você cria e cuida das categorias das notícias. Notícias, artigos, turismo e Guia têm categorias separadas, e uma não aparece na outra.
 
 ## pré-requisitos/permissões
-acesso ao painel e permissão para administrar o módulo correspondente. Classificar conteúdo não concede acesso nem muda permissões.
+Entrar no painel como administrador. Para artigos e turismo, veja os artigos próprios (menus `Artigos` > `Categorias` e `Guia Turístico / Eventos` > `Categorias`).
 
 ## passos
 
-1. Para as categorias de notícias: no menu da esquerda, na parte `Conteúdo`, clique em `Notícias` e depois em `Gerenciar Categorias` (`/painel/noticias/categorias`). [guia=menu:/painel/noticias/categorias]
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Notícias` e depois em `Gerenciar Categorias`. [guia=menu:/painel/noticias/categorias]
 2. Clique em `+ Cadastrar Categoria`, no topo da página. Abre uma janela. [guia=noticias-categorias.cadastrar]
 3. Na janela, escreva o `Nome` da categoria. [guia=noticias-categorias.nome]
 4. Escolha a `Cor` (pelo seletor de cor ou por uma das bolinhas logo abaixo). [guia=noticias-categorias.cor]
 5. Clique em `Salvar`. Se aparecer uma mensagem de erro, leia antes de tentar de novo. [guia=noticias-categorias.salvar]
-6. Para as subcategorias de notícias: no mesmo menu `Notícias`, clique em `Gerenciar Subcategorias` (`/painel/noticias/subcategorias`). [guia=menu:/painel/noticias/subcategorias]
-7. Para as categorias de artigos: no menu `Artigos`, clique em `Categorias` (`/painel/blog/categorias`). [guia=menu:/painel/blog/categorias]
-8. Para as categorias de turismo: no menu `Guia Turístico / Eventos`, clique em `Categorias` (`/painel/turismo/categorias`). [guia=menu:/painel/turismo/categorias]
-9. Antes de excluir ou desligar uma categoria, leia o aviso que aparece sobre o que vai ser afetado. Se tiver dúvida, peça ajuda. [guia=noticias-categorias.excluir]
+6. Para as subcategorias, no mesmo menu `Notícias`, clique em `Gerenciar Subcategorias`. [guia=menu:/painel/noticias/subcategorias]
+7. Antes de excluir ou desligar uma categoria, leia o aviso que aparece sobre o que vai ser afetado. [guia=noticias-categorias.excluir]
 
 ## resultado
 cada conteúdo usa categorias do seu módulo. Categoria inativa no Guia esconde empresas vinculadas; essa regra específica não deve ser extrapolada para categorias editoriais.

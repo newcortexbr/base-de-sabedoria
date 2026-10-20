@@ -16,7 +16,7 @@ videos:
 
 ## objetivo
 
-cadastrar quem escreve para o portal (estudantes de jornalismo ou colaboradores) e cuidar do acesso de cada um.
+aqui você cadastra quem escreve notícias para o portal e cuida do acesso de cada um. Pode ser estudante de jornalismo ou colaborador.
 
 ## pré-requisitos
 
@@ -25,14 +25,16 @@ cadastrar quem escreve para o portal (estudantes de jornalismo ou colaboradores)
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Notícias` e depois em `Jornalistas` (`/painel/noticias/jornalistas`). [guia=menu:/painel/noticias/jornalistas] [t=94]
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Notícias` e depois em `Jornalistas`. [guia=menu:/painel/noticias/jornalistas] [t=94]
 2. Clique em `Novo jornalista`. [guia=jornalistas.novo] [t=110]
 3. Em `Acesso do jornalista`, preencha o nome, o e-mail de login e a senha inicial. [guia=jornalistas.acesso] [t=114]
 4. Clique em `Salvar`. A pessoa recebe um e-mail com os dados de acesso. [guia=jornalistas.salvar] [t=120]
 5. Para trocar a senha de alguém, na linha do jornalista que você quer, clique no ícone de chave (`Resetar senha`). [guia=jornalistas.resetar-senha] [t=135]
-6. Escreva a `Nova senha` e clique em `Redefinir`. A nova senha vai por e-mail ao jornalista. [guia=jornalistas.redefinir] [t=137]
-7. Para mudar o nome, clique no lápis (`Editar`) na linha do jornalista. O e-mail não pode ser alterado. [guia=jornalistas.editar] [t=138]
-8. Para tirar o acesso, clique no cadeado (`Bloquear`) e confirme na janela do navegador. As matérias já publicadas continuam no ar. [guia=jornalistas.bloquear] [t=140]
+6. Escreva a `Nova senha`. [guia=jornalistas.nova-senha]
+7. Clique em `Redefinir`. A nova senha vai por e-mail ao jornalista. [guia=jornalistas.redefinir] [t=137]
+8. Para mudar o nome, clique no lápis (`Editar`) na linha do jornalista. O e-mail não pode ser alterado. [guia=jornalistas.editar] [t=138]
+9. Para tirar o acesso, clique no cadeado (`Bloquear`) na linha do jornalista. [guia=jornalistas.bloquear] [t=140]
+10. Confirme na janela do navegador. As matérias já publicadas continuam no ar. [guia=jornalistas.bloquear]
 
 ## resultado
 

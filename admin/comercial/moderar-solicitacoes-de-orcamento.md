@@ -24,7 +24,7 @@ aprovar ou reprovar os pedidos de orçamento enviados por visitantes.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Orçamentos Online` e depois em `Todas as Solicitações` (`/painel/orcamentos/categorias`). [guia=menu:/painel/orcamentos/categorias] [t=85]
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Orçamentos Online` e depois em `Todas as Solicitações`. [guia=menu:/painel/orcamentos/categorias] [t=85]
 2. No topo da página você vê quantos pedidos estão aguardando aprovação, quantos foram aprovados, encerrados e reprovados. Clicar num cartão filtra a lista por aquela situação. [guia=orcamentos-categorias.contadores] [t=90]
 3. Se quiser, filtre também por categoria ou por datas, nos campos logo abaixo. Para um período, comece pela data `De`. [guia=orcamentos-categorias.de] [t=100]
 4. Na linha do pedido que você quer, clique em `Ver detalhes` (o olho) para ler a descrição, ver as fotos e o contato de quem pediu. [guia=orcamentos-categorias.ver-detalhes] [t=116]

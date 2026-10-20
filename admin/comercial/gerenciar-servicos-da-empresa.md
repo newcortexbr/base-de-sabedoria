@@ -16,7 +16,7 @@ videos:
 
 ## objetivo
 
-montar a tabela de serviços e preços de uma empresa do Guia.
+aqui você monta a tabela de serviços e preços de uma empresa do Guia.
 
 ## pré-requisitos
 
@@ -26,7 +26,7 @@ montar a tabela de serviços e preços de uma empresa do Guia.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas` (`/painel/guia/empresas`). [guia=menu:/painel/guia/empresas]
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas]
 2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar] [t=17]
 3. Desça até `Conteúdo da ficha` e, no cartão `Serviços`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-servicos] [t=20]
 4. Escreva o nome da seção (por exemplo, Consultas). [guia=guia-empresas-servicos.nome-secao] [t=33]

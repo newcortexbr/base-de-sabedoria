@@ -18,7 +18,7 @@ videos:
 
 ## objetivo
 
-cadastrar várias empresas de uma vez, usando o arquivo gerado pelo extrator do Google Maps.
+aqui você cadastra várias empresas de uma vez, com o arquivo gerado pelo extrator do Google Maps.
 
 ## pré-requisitos
 
@@ -26,14 +26,15 @@ cadastrar várias empresas de uma vez, usando o arquivo gerado pelo extrator do 
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas` (`/painel/guia/empresas`). [guia=menu:/painel/guia/empresas] [t=170]
-2. No topo da página, clique no botão `Importar do Google Maps` (`/painel/guia/empresas/importar`). [guia=guia-empresas.importar] [t=177]
-3. No quadro `Enviar planilha`, escolha o arquivo "Base para Portal" que o extrator do Google Maps gerou. Espere a mensagem "Enviando e processando a planilha..." terminar. [guia=guia-empresas-importar.arquivo] [t=183]
-4. Na revisão, para cada categoria que veio do arquivo e marcada com `Escolha a categoria`, escolha qual categoria do Guia ela vai usar. [guia=guia-empresas-importar.categorias] [t=255]
-5. Clique em `Importar … empresas` e espere terminar. [guia=guia-empresas-importar.importar] [t=312]
-6. Se a importação parar no meio por erro, clique em `Continuar`. [guia=guia-empresas-importar.continuar]
-7. No final, clique em `Ver empresas` para conferir. [guia=guia-empresas-importar.ver-empresas] [t=440]
-8. Mais abaixo, em `Importações anteriores`, ficam as importações já feitas, que podem ser abertas de novo. [guia=guia-empresas-importar.anteriores]
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas] [t=170]
+2. No topo da página, clique no botão `Importar do Google Maps`. [guia=guia-empresas.importar] [t=177]
+3. No quadro `Enviar planilha`, escolha o arquivo "Base para Portal" que o extrator do Google Maps gerou. [guia=guia-empresas-importar.arquivo] [t=183]
+4. Espere a mensagem "Enviando e processando a planilha..." terminar. [guia=guia-empresas-importar.arquivo]
+5. Na revisão, para cada categoria que veio do arquivo e marcada com `Escolha a categoria`, escolha qual categoria do Guia ela vai usar. [guia=guia-empresas-importar.categorias] [t=255]
+6. Clique em `Importar … empresas` e espere terminar. [guia=guia-empresas-importar.importar] [t=312]
+7. Se a importação parar no meio por erro, clique em `Continuar`. [guia=guia-empresas-importar.continuar]
+8. No final, clique em `Ver empresas` para conferir. [guia=guia-empresas-importar.ver-empresas] [t=440]
+9. Mais abaixo, em `Importações anteriores`, ficam as importações já feitas, que podem ser abertas de novo. [guia=guia-empresas-importar.anteriores]
 
 ## resultado
 

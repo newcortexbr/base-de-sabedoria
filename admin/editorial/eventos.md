@@ -15,20 +15,20 @@ videos:
 ---
 
 ## objetivo
-cadastrar e administrar eventos da agenda. Agenda de Eventos é módulo separado de Turismo, mesmo compartilhando o app no backend.
+aqui você cadastra e cuida dos eventos da agenda. Eventos têm tela própria, separada do Turismo.
 
 ## pré-requisitos/permissões
-A tela de eventos fica no painel. Acesso e módulo ativo dependem do portal e do papel atribuído; o guia não substitui essas permissões.
+Entrar no painel como administrador, com o módulo de eventos ativo no portal.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Turístico / Eventos` e depois em `Eventos` (`/painel/turismo/eventos`). [guia=menu:/painel/turismo/eventos] [t=48]
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Turístico / Eventos` e depois em `Eventos`. [guia=menu:/painel/turismo/eventos] [t=48]
 2. Para cadastrar, clique em `+ Novo Evento` no topo da página. [guia=eventos.novo] [t=55]
 3. Escreva o `Título *` do evento. [guia=eventos.titulo]
 4. Escolha a `Data *` do evento. [guia=eventos.data]
 5. Escreva o `Horário`, por exemplo "19h00 às 23h00". [guia=eventos.horario]
 6. Preencha o local, o CEP, a cidade, a categoria, o `Organizador` e os outros campos que aparecem. [guia=eventos.local]
-7. Na parte `Galeria de fotos e vídeos`, clique em `+ Adicionar fotos` para enviar as fotos. Num evento novo, elas são enviadas assim que você salvar. [guia=galeria.adicionar-fotos]
+7. Na parte `Galeria de fotos e vídeos`, clique em `+ Adicionar fotos` para enviar as fotos. [guia=galeria.adicionar-fotos]
 8. Para colocar um vídeo, clique em `Vídeo do YouTube`. [guia=galeria.modo-video]
 9. Cole o link do vídeo no campo `Link do vídeo no YouTube`. [guia=galeria.link-video]
 10. Clique em `Adicionar vídeo`. [guia=galeria.enviar-video]

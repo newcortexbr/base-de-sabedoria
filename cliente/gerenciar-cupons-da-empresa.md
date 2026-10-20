@@ -24,8 +24,13 @@ consultar a área `Cupons` associada à empresa.
 
 1. No menu da esquerda da sua área, na parte `O que eu publico`, logo abaixo de `Guia Comercial`, clique em `Cupons` (`/minha-conta/cupons`). Essa opção só aparece se o seu plano do Guia inclui cupom. [guia=menu:/minha-conta/cupons]
 2. Na página, veja o seu `Cupom de desconto` e a situação dele (`No ar`, `Não publicado` ou `Vencido`). Cada empresa tem um cupom só. [guia=cupom-empresa.situacao]
-3. Preencha ou mude a `Foto de capa do cupom`, o `Código do cupom`, o `Tipo de desconto` (`Percentual (%)` ou `Valor fixo (R$)`), o `Valor do cupom`, as condições e a data em `Cupom vale até`. [guia=cupom-empresa.campos]
-4. Confira tudo e clique em `Salvar cupom`. Aparece a mensagem `Salvo.` [guia=cupom-empresa.salvar]
+3. Preencha ou mude a `Foto de capa do cupom`. [guia=cupom-empresa.campos]
+4. Preencha o `Código do cupom`. [guia=cupom-empresa.campos]
+5. Escolha o `Tipo de desconto` (`Percentual (%)` ou `Valor fixo (R$)`). [guia=cupom-empresa.campos]
+6. Preencha o `Valor do cupom`. [guia=cupom-empresa.campos]
+7. Escreva as condições do cupom. [guia=cupom-empresa.campos]
+8. Escolha a data em `Cupom vale até`. [guia=cupom-empresa.campos]
+9. Confira tudo e clique em `Salvar cupom`. Aparece a mensagem `Salvo.` [guia=cupom-empresa.salvar]
 
 ## resultado esperado
 a tela da área do cliente mostra a gestão de cupons disponível para a empresa vinculada.

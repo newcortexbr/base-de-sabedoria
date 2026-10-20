@@ -17,16 +17,20 @@ validacao: docs-e-codigo
 ## objetivo
 abrir a área de pedidos de delivery associada à empresa.
 
+Para cancelar um pedido, veja o artigo "cancelar um pedido de delivery da empresa".
+
+
 ## pré-requisitos
 - ter vínculo com uma empresa com delivery e estar na área de cliente autenticada.
 
 ## passos
 
 1. No menu da esquerda da sua área, na parte `Delivery`, clique em `Pedidos` (`/minha-conta/delivery/pedidos`). A página se chama `Pedidos do delivery`. [guia=menu:/minha-conta/delivery/pedidos]
-2. No topo, escolha o período (`Hoje`, `Ontem`, `7 dias` ou `30 dias`) e quais pedidos quer ver (`Todos`, `Aguardando`, `Concluídos` ou `Cancelados`). [guia=delivery-pedidos.periodo]
-3. Em cada pedido, veja os itens, o endereço de entrega e a situação. [guia=delivery-pedidos.pedido]
-4. Quando entregar um pedido que está `Aguardando`, clique em `Concluir` e confirme. Atenção: depois de concluído, ele não volta para `Aguardando`. [guia=delivery-pedidos.concluir]
-5. Para cancelar, clique em `Cancelar`, escreva o motivo e clique em `Cancelar pedido`. O cancelamento não pode ser desfeito. [guia=delivery-pedidos.cancelar]
+2. No topo, escolha o período (`Hoje`, `Ontem`, `7 dias` ou `30 dias`). [guia=delivery-pedidos.periodo]
+3. Escolha quais pedidos quer ver (`Todos`, `Aguardando`, `Concluídos` ou `Cancelados`). [guia=delivery-pedidos.periodo]
+4. Em cada pedido, veja os itens, o endereço de entrega e a situação. [guia=delivery-pedidos.pedido]
+5. Quando entregar um pedido que está `Aguardando`, clique em `Concluir`. [guia=delivery-pedidos.concluir]
+6. Confirme. Atenção: depois de concluído, o pedido não volta para `Aguardando`. [guia=delivery-pedidos.concluir]
 
 ## resultado esperado
 a lista mostra os pedidos conforme período e situação. concluir ou cancelar altera o estado do pedido; cancelar não pode ser desfeito.
