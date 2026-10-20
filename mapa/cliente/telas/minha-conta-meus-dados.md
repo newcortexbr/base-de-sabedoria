@@ -41,3 +41,11 @@ Arquivo: `src/app/minha-conta/meus-dados/page.tsx`
 - [título] "Meus dados" — conteúdo, no topo da página, ao centro (382,46,370,39)
 - [menu/links] "9 itens: Início · Guia Comercial · Vagas de Emprego · Banners Publicitários · Classificados · Minha empresa · Planos e assinaturas · Segurança · Sair" — menu, na parte de cima, à esquerda (lista de 9 itens em coluna) (14,96,227,786)
 - [link] "Ver planos de Artigos" — conteúdo, na parte de cima, à direita (904,177,143,21)
+
+## o que você vê
+Seus dados de contato e sua apresentação pública.
+- Pessoa física: Nome e WhatsApp podem ser mudados; E-mail e CPF só aparecem (o CPF fica escondido em parte). Para corrigir o CPF, fale com o portal.
+- Foto e "Sobre você": como você se apresenta nos seus anúncios.
+- Colunista: nome, cargo, bio, site, redes sociais, WhatsApp, e-mail público e foto do seu perfil de colunista.
+- "Seu perfil de colunista é criado junto com o plano de Artigos": aparece quando você ainda não tem o plano.
+- Salvar dados: grava; aparece "Dados salvos".

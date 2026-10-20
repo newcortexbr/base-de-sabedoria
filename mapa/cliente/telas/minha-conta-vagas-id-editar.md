@@ -51,3 +51,9 @@ Arquivos: `src/app/minha-conta/vagas/[id]/editar/page.tsx`, `vagas/VagaForm.tsx`
 - [campo] "https://seusite.com/candidatura" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “rh@empresa.com.br” (473,1354,590,42)
 - [link] "Cancelar" — conteúdo, no fim da página, ao centro (790,1420,98,42)
 - [botão] "Salvar alterações" — conteúdo, no fim da página, à direita, logo abaixo de “https://seusite.com/candidatura” (900,1420,163,42)
+
+## o que você vê
+Formulário para mudar uma vaga que já existe.
+- Os mesmos campos de "Nova vaga", já preenchidos.
+- Em alguns portais, editar manda a vaga de novo para análise; a tela avisa.
+- Se a vaga foi reprovada, você chega aqui por "Corrigir e reenviar".

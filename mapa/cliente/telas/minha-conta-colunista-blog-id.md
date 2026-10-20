@@ -32,3 +32,9 @@ Arquivos: `colunista-blog/[id]/page.tsx`, `colunista-blog/ArtigoForm.tsx`
 - [link] "lista" — conteúdo, na parte de cima, à direita (928,95,32,16)
 - [menu/links] "9 itens: Início · Guia Comercial · Vagas de Emprego · Banners Publicitários · Classificados · Minha empresa · Planos e assinaturas · Segurança · Sair" — menu, na parte de cima, à esquerda (lista de 9 itens em coluna) (14,96,227,786)
 - [título] "Escolha um plano" — conteúdo, na parte de cima, ao centro (419,148,698,23)
+
+## o que você vê
+Formulário para mudar um artigo que você já escreveu.
+- Os mesmos campos de "Novo artigo", já preenchidos (título, corpo, capa, agendamento, SEO).
+- Editar exige plano de Artigos ativo; sem ele aparece "Editar exige um plano de Artigos ativo", mas você ainda pode ver e apagar artigos na lista.
+- "Artigo não encontrado": o artigo não existe mais ou não é seu.

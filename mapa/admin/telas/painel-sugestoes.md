@@ -2,6 +2,16 @@
 
 Arquivo: `app/painel/sugestoes/page.tsx`
 
+## o que você vê
+Lugar para o administrador enviar ideias de funções novas à equipe da plataforma e ver as já enviadas.
+- Título e Descrição: a ideia, em poucas palavras e em detalhes.
+- anexos: fotos, documentos ou vídeo para explicar melhor; os limites de quantidade e tamanho aparecem na tela.
+- Nome e WhatsApp: para a equipe falar com você; o E-mail vem da sua conta e não muda aqui.
+- enviar: manda a sugestão; aparece Sugestão enviada. Obrigado!
+- Suas sugestões enviadas: lista com título, data e anexos.
+- muitas sugestões em pouco tempo: é preciso esperar um pouco antes de enviar outra.
+- só o administrador do portal usa esta tela.
+
 ## rota e gate
 - `/painel/sugestoes`. client, com `Header titulo="Sugestões de Funções"`.
 - gate: `PainelGuard` + checagem local `user?.tipo === 'admin'` (`:82,257`). quem não é `admin` (por exemplo `master`) vê "Esta área é do administrador do portal."

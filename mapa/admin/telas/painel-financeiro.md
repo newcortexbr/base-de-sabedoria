@@ -61,3 +61,18 @@ Arquivos: `app/painel/financeiro/page.tsx`, `LinhaDaFatura.tsx`, `ModalCompletar
 - [campo] "Buscar por cliente" — conteúdo, no meio da tela, ao centro, logo abaixo de “A vencer (0)” (347,436,373,21)
 - [link] "Falar com o suporte no WhatsApp" — conteúdo, no meio da tela, à direita (1200,820,56,56)
 - [selo] "··" — menu lateral, no meio da tela, à esquerda (16,858,32,32)
+
+## o que você vê
+Mostra quem você precisa cobrar, o que já recebeu e quanto deve a parceiros.
+- Cobrança automática ligada/desligada: diz se o portal está ligado ao Asaas (cobrança por link). desligada, você cobra pelo WhatsApp e confirma o Pix na mão.
+- avisos no topo: problemas com cobranças; aparecem 2, o botão "Ver os outros avisos" mostra o resto.
+- A receber dos clientes: valor e quantidade de faturas vencidas, a vencer e recebidas neste mês (ou no período escolhido). "aguardando Pix" aparece quando há Pix sem comprovante conferido. clicar no cartão abre a lista dele.
+- A pagar / Você deve a parceiros: total de comissões a pagar; "Ver e pagar" abre a lista de comissões.
+- abas A vencer, Vencidas, Pagas, Canceladas: o número entre parênteses é quantas faturas há em cada uma.
+- Como paga: filtra entre faturas pagas por Pix e pelo link do Asaas.
+- Buscar por cliente, Módulo, De/Até: filtram a lista. "De" não pode ser depois de "Até".
+- Cobrar: abre o WhatsApp do cliente com a mensagem pronta (com link ou chave Pix).
+- Já recebi: registra um pagamento feito por fora (como pagou, data, valor recebido, observação). depois de confirmar, a contratação é ativada.
+- Copiar link de pagamento, Enviar pelo Asaas, Tentar de novo: ações da cobrança no Asaas.
+- Completar dados: pede documento ou e-mail do cliente que faltam para gerar a cobrança.
+- Ver mais: mostra mais 20 faturas.

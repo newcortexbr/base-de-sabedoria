@@ -2,6 +2,16 @@
 
 Arquivos: `app/painel/aprovacoes/page.tsx`, `AprovacoesEDenuncias.tsx`, `AprovacoesClient.tsx`, `ConfigDaFila.tsx`, `abas.ts`
 
+## o que você vê
+Central para aprovar o que os clientes enviam antes de ir ao site e ver denúncias feitas por visitantes.
+- Exigir minha aprovação antes de publicar: ligado, o conteúdo novo dos clientes espera aprovação aqui.
+- Permitir que visitantes denunciem: mostra ou esconde a opção de denunciar no site.
+- aviso amarelo: alguma dessas opções está desligada.
+- aba Aprovações: itens esperando revisão; Ver detalhe mostra o conteúdo, Aprovar publica e Recusar pede um motivo.
+- Nada pendente no momento: não há nada esperando.
+- aba Denúncias: filtros de status (pendentes, resolvidas, ignoradas) e de seção (guia, vagas, classificados, eventos); cada linha abre a denúncia.
+- Carregar mais: mostra mais itens.
+
 ## rota e gate
 - `/painel/aprovacoes`, aba inicial via `?aba=denuncias` (`page.tsx:6-8`). server component que renderiza client.
 - gate: só `PainelGuard` (admin/master). não há gate de módulo.

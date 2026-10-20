@@ -38,3 +38,10 @@ Arquivos: `publicidade/[id]/editar/page.tsx`, `publicidade/EditarBanner.tsx`
 - [campo] "QA banner do cliente" — conteúdo, no meio da tela, ao centro, logo abaixo de “https://” (473,539,590,42)
 - [link] "Voltar" — conteúdo, no meio da tela, ao centro (810,609,78,42)
 - [botão] "Salvar alterações" — conteúdo, no meio da tela, à direita, logo abaixo de “QA banner do cliente” (900,609,163,42)
+
+## o que você vê
+Tela para trocar a imagem ou o link de um banner que você já comprou.
+- Situação: publicado (com data final), aguardando aprovação, reprovado (com motivo) ou aguardando pagamento (com instruções para pagar).
+- Arte: PNG ou JPG, até 5 MB, no formato da posição. "Trocar a arte" e "Apagar a arte".
+- Link de destino: para onde vai quem clica (opcional).
+- Salvar alterações: em banner reprovado, reenvia para análise.

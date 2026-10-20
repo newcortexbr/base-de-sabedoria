@@ -44,3 +44,12 @@ Arquivo: `src/app/minha-conta/page.tsx`
 - [título] "Você também pode…" — conteúdo, faixa larga no meio da tela (288,453,960,30)
 - [link] "Aparecer no Guia ComercialSua empresa encontrada por quem procura na c" — conteúdo, no meio da tela, ao centro (288,524,473,180)
 - [link] "Contratar banners nas páginas do portalSua marca nas páginas mais vist" — conteúdo, no meio da tela, à direita (775,524,473,180)
+
+## o que você vê
+Tela de início da sua área: mostra em que ponto está seu cadastro, seus planos e o que mais você pode contratar.
+- Faixa de avisos: recados importantes da sua conta; alguns têm botão para resolver na hora.
+- Seu plano: o plano que você tem em cada seção (ex.: Guia, Vagas), com abas para trocar de seção.
+- Aviso de vencimento: aparece quando faltam 15 dias ou menos para o plano vencer.
+- Outras opções: seções que você ainda não contratou e que têm planos à venda; Banners aparece sempre.
+- Concluir cadastro / Sair do grátis: barra fixa com o próximo passo sugerido.
+- "Cadastro feito!": aviso que aparece só uma vez, logo depois de criar a conta.

@@ -53,3 +53,15 @@ Arquivo: `src/app/minha-conta/delivery/pedidos/page.tsx`
 - [link] "Voltar ao início" — topo, no topo da página, à esquerda (400,20,20,20)
 - [menu/links] "9 itens: Início · Guia Comercial · Vagas de Emprego · Banners Publicitários · Classificados · Minha empresa · Planos e assinaturas · Segurança · Sair" — menu, na parte de cima, à esquerda (lista de 9 itens em coluna) (14,96,227,786)
 - [link] "Ir para o Guia Comercial" — conteúdo, na parte de cima, ao centro (425,178,162,20)
+
+## o que você vê
+Lista dos pedidos de delivery que sua empresa recebeu, com totais do período.
+- Período: Hoje (padrão), Ontem, 7 dias, 30 dias, ou datas "De" e "Até".
+- Situação: Todos, Aguardando, Concluídos, Cancelados.
+- Pedidos: quantos pedidos no período. Vendido: soma em reais. Aguardando você: pedidos que ainda precisam de ação sua.
+- Cada pedido: código, hora, itens, cliente, telefone, endereço, forma de pagamento, troco, cupom, taxa de entrega e total.
+- Chamar cliente: abre o WhatsApp com mensagem pronta.
+- Ver pedido: abre o pedido em outra aba.
+- Concluir: marca como entregue (pede confirmação).
+- Cancelar: pede o motivo (obrigatório, até 300 letras).
+- Atualizar: busca pedidos novos; a lista também se atualiza sozinha.

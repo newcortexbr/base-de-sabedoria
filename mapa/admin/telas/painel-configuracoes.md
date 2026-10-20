@@ -72,3 +72,13 @@ Arquivos: `app/painel/configuracoes/page.tsx` (910 linhas), `PixelsCard.tsx`, `l
 - [checkbox] "Exibir o convite no siteSó aparece se o link abaixo estiver preenchido" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “Grupo de WhatsApp” (506,3426,20,20)
 - [campo] "Link do grupo ou canal" — conteúdo, mais abaixo (rolando a página), ao centro (491,3542,574,44)
 - [botão] "Salvar grupo de WhatsApp" — conteúdo, no fim da página, ao centro, logo abaixo de “Link do grupo ou canal” (491,3637,235,44)
+
+## o que você vê
+Dados básicos do portal: nome, logo, cidades, redes sociais, contato, aviso do app, grupo de WhatsApp e pixels. Cada cartão tem o seu botão de salvar.
+- Identidade: Nome do portal, Logo do portal e Favicon (o ícone pequeno que aparece na aba do navegador).
+- Cidades do Portal: cidades que aparecem como filtro no Guia Comercial. Aqui só dá para ver; para incluir ou tirar cidade, fale com o time comercial pelo link indicado.
+- Redes Sociais: WhatsApp (com DDD), Instagram, Facebook, YouTube e TikTok do portal, mostrados no site. Botão "Salvar Redes Sociais".
+- Página Fale Conosco: o que o visitante vê na página de contato. "E-mail de contato" também recebe as respostas dos e-mails que o portal manda aos clientes. Só aparece o que estiver preenchido.
+- Aplicativo do portal: "Mostrar o aviso Baixar app" liga ou desliga, na hora, o convite para instalar o app. Só aparece no celular, só no site, e quem tocar "Não quero" vê de novo em 30 dias. O ícone do app é a logo e o nome é o nome do portal.
+- Grupo de WhatsApp: "Exibir o convite no site" mostra o convite para o grupo ou canal; só funciona com um link do WhatsApp preenchido.
+- Pixels de rastreamento: cole o código que a plataforma de anúncios ou estatísticas entregou e clique em "Identificar pixel"; a tela mostra o que reconheceu ("Identificamos:") e você confirma em Salvar. Só o número do pixel é guardado. "Remover" apaga um pixel salvo.

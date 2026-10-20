@@ -9,6 +9,13 @@
 - problemas: fato — catch único vira "sem acesso" (:558).
 - admin vs cliente: o cliente cobre quartos na ficha (`minha-conta/guia`, hospedagem). Equivalente.
 
+## o que você vê
+Quartos de um hotel ou pousada, organizados em seções (ex.: Suítes, Chalés, Quartos Standard).
+- seções: criar, renomear, mudar a ordem e apagar.
+- quarto: nome (ex.: Suíte Master), Subtítulo (ex.: Para 2 pessoas, com varanda), descrição, Preço por noite, Preço promocional e Comodidades do quarto (ex.: Wi-Fi, Vista mar).
+- fotos do quarto.
+- ligar ou desligar: mostra ou esconde o quarto no site.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-guia-empresas-id-quartos.png](../prints/painel-guia-empresas-id-quartos.png) · dados brutos: [json](../prints/json/painel-guia-empresas-id-quartos.json)
 - aberta em `/painel/guia/empresas/1/quartos` com dados do banco de teste; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

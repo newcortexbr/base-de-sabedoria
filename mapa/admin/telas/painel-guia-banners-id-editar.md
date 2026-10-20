@@ -32,3 +32,17 @@
 - [checkbox] "Ativo" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “2026-11-15” (636,1097,16,16)
 - [botão] "Salvar Alterações" — conteúdo, no fim da página, ao centro, logo abaixo de “0” (317,1151,512,42)
 - [link] "Cancelar" — conteúdo, no fim da página, à direita (841,1151,98,42)
+
+## o que você vê
+Muda um banner de publicidade já cadastrado.
+- Título: nome do banner, para você achar na lista.
+- Imagem: a arte do banner (obrigatória). a prévia ao lado mostra como fica no lugar escolhido.
+- URL de Destino: página que abre quando o visitante clica no banner.
+- Posição: onde o banner aparece no portal. no topo do Guia, "Categoria do Guia" escolhe uma categoria ou todas.
+- ponto turístico ou roteiro: em posições de turismo, escolhe um ponto/roteiro específico ou "sem anunciante próprio (reserva)".
+- Data início / Data fim: período em que o banner fica no ar.
+- Ordem: número para ordenar os banners.
+- Ativo: desmarcado, o banner fica fora do ar.
+- Dados da venda: nome da empresa, telefone e valor do plano (obrigatórios) e, se quiser, o cliente de "Meus Clientes". ficam só para você; o visitante não vê.
+- O que aparece no card: WhatsApp (botão CONTATO) e endereço (botão COMO CHEGAR), usados nos banners de ponto turístico. vão para o site; em branco, o botão não aparece.
+- Salvar Alterações: grava as mudanças.

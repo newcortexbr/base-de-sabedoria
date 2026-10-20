@@ -49,3 +49,15 @@ Arquivo: `src/app/minha-conta/cupons/page.tsx`
 - [menu/links] "9 itens: Início · Guia Comercial · Vagas de Emprego · Banners Publicitários · Classificados · Minha empresa · Planos e assinaturas · Segurança · Sair" — menu, na parte de cima, à esquerda (lista de 9 itens em coluna) (14,96,227,786)
 - [link] "Ver planos e assinaturas" — conteúdo, na parte de cima, ao centro (425,186,200,44)
 - [link] "Ir para o Guia Comercial" — conteúdo, na parte de cima, ao centro (637,186,162,44)
+
+## o que você vê
+Aqui você cria o cupom de desconto da sua empresa no Guia Comercial (uma empresa, um cupom).
+- Selo de situação: No ar; Vencido (passou da data); Não publicado (falta o Código do cupom); Empresa fora do ar.
+- Foto de capa: opcional, só se o seu plano libera.
+- Cupom de desconto: o texto de destaque, ex.: "10% OFF no rodízio".
+- 2ª linha do card: uma frase extra embaixo do destaque (opcional, até 140 letras).
+- Condições de uso: regras do cupom (opcional, até 200 letras).
+- Código do cupom: o código que o cliente usa; sem ele o cupom não é publicado.
+- Tipo de desconto: Percentual (%) ou Valor fixo (R$). Valor do cupom: o número do desconto.
+- Cupom vale até: data final.
+- Sem empresa ou sem cupom no plano: aparece o botão "Ver planos e assinaturas" ou "Ir para o Guia Comercial".

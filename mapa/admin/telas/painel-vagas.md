@@ -8,6 +8,17 @@
 - problemas: fato — a falha de áreas é engolida (:61 `.catch(() => [])`), então o filtro de área some sem aviso. fato — admin só tem encerrar/reativar; não há "pausar".
 - admin vs cliente: o contratante (`/minha-conta/vagas`) cria, edita e encerra as próprias vagas, sujeito a plano/limite. O admin gerencia todas, sem limite. A vaga expira por cron (comentário :12-18).
 
+## o que você vê
+Lista de todas as vagas de emprego do portal, para buscar, encerrar, editar, ver números ou apagar.
+- Buscar por cargo ou empresa, área e Status, depois Filtrar: encontram uma vaga.
+- Status: Ativa (aparece no site), Pausada (escondida por enquanto), Encerrada (vaga fechada), Pendente (esperando aprovação), Reprovada (não aprovada).
+- selos ⭐ Destaque (aparece com mais visibilidade) e ⚡ Urgente (marcada como contratação urgente).
+- Tipo: tipo de contrato (CLT, PJ / Autônomo, Estágio, Trainee, Temporário, Freelancer). Local: cidade e bairro da vaga.
+- WhatsApp: indica a vaga com contato por WhatsApp.
+- botão de encerrar / reativar: fecha a vaga ou volta a deixá-la ativa.
+- Editar abre a vaga; Insights mostra visualizações e prazos; lixeira apaga, com confirmação.
+- vagas também saem do ar sozinhas quando passam da data de expiração.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-vagas.png](../prints/painel-vagas.png) · dados brutos: [json](../prints/json/painel-vagas.json)
 - aberta em `/painel/vagas`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

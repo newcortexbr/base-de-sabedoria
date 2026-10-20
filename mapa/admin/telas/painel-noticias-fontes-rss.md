@@ -7,6 +7,14 @@
 - estados: "Erro ao carregar fontes de RSS: …" (:99); vazio "Nenhuma fonte de RSS cadastrada" (:209).
 - admin vs cliente: o cliente não tem RSS. Sem equivalente.
 
+## o que você vê
+Lista de sites de onde o portal puxa notícias automaticamente (fontes de RSS).
+- Título: nome da fonte; Origem: Própria (você cadastrou) ou Plataforma (vem pronta do sistema).
+- Status: clique para ligar ou desligar; desligada, a fonte não traz nada.
+- Última Atualização: quando a fonte trouxe notícias pela última vez ("Nunca atualizado" se ainda não trouxe).
+- lápis: edita. Nas fontes da Plataforma só dá para configurar, não trocar título e endereço.
+- lixeira: apaga, só nas fontes Próprias; as da Plataforma se desliga pelo Status.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-noticias-fontes-rss.png](../prints/painel-noticias-fontes-rss.png) · dados brutos: [json](../prints/json/painel-noticias-fontes-rss.json)
 - aberta em `/painel/noticias/fontes-rss`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

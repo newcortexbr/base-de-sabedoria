@@ -63,3 +63,13 @@ Arquivos: `eventos/novo/page.tsx`, `eventos/EventoForm.tsx`
 - [checkbox] "Mostrar telefone na página" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “Link de ingresso (opcional)” (631,2105,18,18)
 - [campo] "WhatsApp para contato (opcional)" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “Preço (texto — ex.: "Entrada gratui” (345,2116,274,44)
 - [título] "3Como você quer divulgar?" — conteúdo, mais abaixo (rolando a página), ao centro (307,2212,598,28)
+
+## o que você vê
+Formulário para criar um evento e já pagar pela divulgação dele.
+- Título e data: obrigatórios. Data fim: para eventos de mais de um dia.
+- Cidade/local e categoria: escolhidos em listas com busca.
+- Descrição: texto do evento.
+- Foto de capa: obrigatória para criar. Galeria: fotos extras.
+- Divulgação: cartões com o preço de cada opção ("por mês" ou "pagamento único"; "Até N eventos por pagamento" quando é pacote).
+- Pagar e publicar: gera a cobrança (Pix ou cartão). Depois de pago, o evento pode passar pela análise do portal antes de ir ao ar.
+- Publicar pelo pacote: aparece no lugar quando você tem pacote com saldo; não gera nova cobrança.

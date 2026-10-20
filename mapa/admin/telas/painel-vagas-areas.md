@@ -8,6 +8,12 @@
 - problemas: nenhum confirmado.
 - admin vs cliente: o contratante só escolhe áreas de atuação no perfil. Sem equivalente.
 
+## o que você vê
+Lista das áreas profissionais em que as vagas são separadas (ex.: Saúde, Vendas).
+- Nome *: o nome da área; Ícone e Cor: o desenho e a cor que aparecem no site.
+- Ativa: área desligada não aparece para escolher.
+- Editar muda a área; a lixeira apaga, com confirmação.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-vagas-areas.png](../prints/painel-vagas-areas.png) · dados brutos: [json](../prints/json/painel-vagas-areas.json)
 - aberta em `/painel/vagas/areas`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

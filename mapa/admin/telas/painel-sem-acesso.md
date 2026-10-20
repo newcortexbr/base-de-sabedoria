@@ -22,3 +22,9 @@ Arquivo: `app/painel/sem-acesso/page.tsx`
 - [link] "Ir para o site" — conteúdo, no meio da tela, ao centro (754,554,125,45)
 - [link] "Falar com o suporte no WhatsApp" — conteúdo, no meio da tela, à direita (1200,820,56,56)
 - [selo] "··" — menu lateral, no meio da tela, à esquerda (16,858,32,32)
+
+## o que você vê
+Aparece quando a senha está certa, mas a conta não está ligada a nenhum portal, empresa, contratante ou anunciante.
+- "Sua conta não está vinculada a nenhum portal": o acesso funcionou, falta o vínculo. Se você tinha acesso antes, ele pode ter sido removido; peça ao responsável pelo portal para reativar.
+- Sair: encerra a sessão.
+- Ir para o site: abre o site público.

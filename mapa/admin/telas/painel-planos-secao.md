@@ -49,3 +49,15 @@ Arquivos: `app/painel/planos/[secao]/page.tsx`, `SecaoDePlanos.tsx`, `Escada.tsx
 - [botão] "Comparar todos os planos" — conteúdo, no meio da tela, ao centro (692,736,171,20)
 - [link] "Falar com o suporte no WhatsApp" — conteúdo, no meio da tela, à direita (1200,820,56,56)
 - [selo] "··" — menu lateral, no meio da tela, à esquerda (16,858,32,32)
+
+## o que você vê
+Aqui você define os planos de uma seção (nome, preço, período) ou os preços dos espaços de banner; é o mesmo que o cliente vê ao contratar.
+- cartões de plano, do "Plano de entrada" ao "Mais completo": cada um com nome, preço, como o cliente paga (período) e os benefícios incluídos.
+- "À venda" / "Fora de venda": se o plano aparece para o cliente contratar. fora de venda, ninguém consegue contratar o plano, mesmo com o módulo ligado. o servidor pode recusar colocar à venda (a frase do motivo aparece no cartão).
+- Editar plano: muda nome, preço e se está à venda.
+- Novo plano: cria outro plano copiando os benefícios de um plano existente ("Quais benefícios deseja replicar aqui"), com nome, preço e forma de pagamento próprios.
+- Excluir: apaga o plano (pede confirmação).
+- Comparar todos os planos / O que cada plano tem: tabela com "Tem" e "Não tem" para cada benefício.
+- estrela (Recurso de vitrine): marca os benefícios de destaque do plano.
+- seção de banners: cada espaço mostra "Onde fica na página" e os preços por forma de pagamento (cada forma vira uma aba). "Novo preço"/"Criar preço" põe o espaço à venda; "Excluir" tira o preço.
+- "Nenhum espaço à venda ainda": nenhum banner tem preço, então ninguém compra.

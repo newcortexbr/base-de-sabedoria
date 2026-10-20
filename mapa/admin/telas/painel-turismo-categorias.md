@@ -8,6 +8,13 @@
 - problemas: nenhum confirmado.
 - admin vs cliente: Turismo não tem área do cliente em `src/app/minha-conta` (sem pasta de turismo). Só o admin gerencia; não há lacuna de paridade.
 
+## o que você vê
+Lista dos tipos de ponto turístico (ex.: Praias, Museus), usados para separar os pontos no site.
+- Nome * (ex.: Praias), Ícone e Cor: como a categoria aparece no site.
+- Status / Ativa: categoria desligada não aparece para escolher.
+- Editar muda; apagar pede confirmação, e os pontos dela não são apagados, só ficam sem categoria.
+- ← Pontos volta para a lista de pontos turísticos.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-categorias.png](../prints/painel-turismo-categorias.png) · dados brutos: [json](../prints/json/painel-turismo-categorias.json)
 - aberta em `/painel/turismo/categorias`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

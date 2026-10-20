@@ -2,6 +2,17 @@
 
 Arquivo: `app/painel/delivery/cardapio/page.tsx`
 
+## o que você vê
+Monta o cardápio do delivery de uma empresa: seções, produtos e opções.
+- Seções: grupos do cardápio (ex.: lanches, bebidas). aqui só dá para criar seção nova.
+- produtos: nome, descrição, preço base, foto, Disponível (pode ser pedido) e Destaque (aparece em evidência). Indisponível indica que não pode ser pedido agora.
+- preço base 0: o preço vem das opções escolhidas.
+- Grupos de opções: escolhas do produto, como tamanho ou cobertura; aparecem depois de salvar o produto.
+- Mín. seleções: quantas o cliente precisa marcar (0 = opcional). Máx. seleções: até quantas pode marcar (0 = sem limite).
+- cada opção tem nome e preço adicional; Excluir grupo e excluir opção removem.
+- Editar e Excluir no produto; excluir não pode ser desfeito.
+- a tela é aberta pelo cartão do cardápio na edição da empresa.
+
 ## rota e gate
 - `/painel/delivery/cardapio?empresa=<id>`. client, `Header`, `VoltarParaAEmpresa`. gate `PainelGuard`; módulo `guia` (`lib/painel-menu.ts:95`). sem menu: entra pelo cartão "Cardápio do delivery" do editor da empresa (`EmpresaEditor.tsx:942`).
 - sem `?empresa=`: não carrega nada nem avisa; a tela fica com "Crie uma seção para começar" (`:295`, `:374`), enganosa.

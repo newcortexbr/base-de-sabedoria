@@ -37,3 +37,6 @@ Arquivo: `src/app/minha-conta/empresa/page.tsx`
 - [campo] "E-mail de contato" — conteúdo, no meio da tela, ao centro, logo abaixo de “Contatos” (616,578,295,46)
 - [campo] "Site" — conteúdo, no meio da tela, ao centro, logo abaixo de “WhatsApp” (307,662,604,46)
 - [botão] "Salvar" — conteúdo, no meio da tela, à esquerda, logo abaixo de “Site” (288,741,92,48)
+
+## o que você vê
+Endereço antigo: mostra "Redirecionando…" e leva você para a tela Minha empresa.

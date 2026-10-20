@@ -32,3 +32,9 @@ Arquivos: `app/painel/sso/page.tsx`, `sso/mensagens.ts`
 - aberta em `/painel/sso`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)
 - [título] "Não foi possível entrar" — conteúdo, no meio da tela, ao centro (448,380,384,28)
 - [link] "Entrar com e-mail e senha" — conteúdo, no meio da tela, ao centro (533,480,214,40)
+
+## o que você vê
+Tela de passagem ao entrar pelo botão da Área do Cliente.
+- "Confirmando seu acesso pela Área do Cliente…": aguarde; você entra no painel sozinho.
+- "Não foi possível entrar": o acesso foi recusado ou o servidor não respondeu; a mensagem diz o motivo.
+- Entrar com e-mail e senha: volta para a tela de login comum.

@@ -9,6 +9,15 @@
 - problemas: fato — o `.catch` único (:553) transforma erro de rede, 500 ou módulo desligado em "sem acesso", escondendo a causa real. fato — a carga dos pratos de cada seção (:345) não tem catch.
 - admin vs cliente: o cliente edita o cardápio na própria ficha (`/minha-conta/guia`, seção de conteúdo, `ConteudoDoLayout`, testes `cardapio-botoes-e-qr.test.tsx`). Equivalente; o cliente também gera QR do cardápio.
 
+## o que você vê
+Cardápio digital de uma empresa (restaurante, bar, lanchonete), separado em seções com pratos.
+- seções (ex.: Carnes, Bebidas): criar, renomear, mudar a ordem com as setas ou apagar.
+- prato: Nome do prato *, descrição (ingredientes, tamanho), preço, preço promocional, foto (JPG ou PNG, até 10MB) e Tags (Mais pedido, Novidade, Recomendado, Veg).
+- botão de publicar / despublicar: mostra ou esconde o prato no cardápio público.
+- Botões do cardápio: o que aparece no rodapé do cardápio público (Chamar no WhatsApp, Fazer meu pedido).
+- Aparência do cardápio: escolhe o visual que o cliente vê.
+- placa com QR code: imprime um código para o cliente abrir o cardápio pelo celular, em vários tamanhos.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-guia-empresas-id-cardapio.png](../prints/painel-guia-empresas-id-cardapio.png) · dados brutos: [json](../prints/json/painel-guia-empresas-id-cardapio.json)
 - aberta em `/painel/guia/empresas/1/cardapio` com dados do banco de teste; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

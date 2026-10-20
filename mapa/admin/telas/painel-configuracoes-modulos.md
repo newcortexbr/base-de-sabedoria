@@ -48,3 +48,12 @@ Arquivos: `app/painel/configuracoes/modulos/page.tsx` (300 linhas), `../layout/a
 - [botão] "Programa de ParceirosDesligado" — conteúdo, no meio da tela, ao centro, logo abaixo de “Melhores da CidadeLigado” (471,884,614,52)
 - [botão] "Salvar módulos" — conteúdo, no fim da página, ao centro (471,1051,160,44)
 - [botão] "Cancelar" — conteúdo, no fim da página, ao centro (647,1051,101,44)
+
+## o que você vê
+Liga e desliga as partes do portal (Notícias, Guia Comercial, Vagas, Classificados etc.).
+- cada linha é um módulo com um interruptor: "Ligado" está no ar, "Desligado" está fora do ar para os visitantes.
+- desligar tira o módulo do site na hora (menu, página inicial e buscadores) e também a seção correspondente do seu painel. Nenhum dado é apagado: tudo volta ao religar.
+- Programa de Parceiros: liga ou desliga o cadastro e a área dos parceiros. Desligado, a aba Parceiros continua no painel para pagar as comissões já geradas.
+- os interruptores só valem depois de "Salvar módulos". Se algum módulo for desligado, aparece "Isto vai tirar do ar: …" e é preciso clicar em "Confirmar e desligar".
+- Cancelar: volta os interruptores como estavam.
+- depois de salvar aparece "Módulos salvos. Atualizando o menu…" e a página recarrega.

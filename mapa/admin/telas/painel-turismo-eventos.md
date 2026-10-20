@@ -9,6 +9,18 @@
 - problemas: nenhum confirmado. cidades, categorias e organizadores têm `catch` com aviso em `erroCarga` (:139,143,147).
 - admin vs cliente: o organizador cria e edita seus eventos em `/minha-conta/eventos` (`EventoForm`, `GaleriaDoEvento`, nova, [id]/editar). O admin gerencia todos, escolhe o organizador e atribui categoria; o cliente não troca de organizador.
 
+## o que você vê
+Lista e cadastro dos eventos da cidade (shows, feiras, festas) mostrados no site.
+- abas Eventos / Categorias / Organizadores: as três partes da área de eventos.
+- filtros: Buscar por título, categoria e cidade.
+- situação: No ar (aparece no site), Encerrado (data já passou), Inativo (desligado à mão).
+- + Novo Evento: título, Data * e Horário * (ex.: 19h00 às 23h00), data final para evento de vários dias (fica no ar até ela), Local (ex.: Convento da Penha), Endereço completo e Cidade (o ponto no mapa é achado pelo endereço).
+- categoria, organizador (ou Sem organizador) e Organização (texto livre).
+- Preço / Ingresso (ex.: Entrada gratuita, R$ 30,00); vazio não mostra preço.
+- WhatsApp de contato e Link de compra de ingresso ou rede social.
+- Programação: itens da grade de horários do evento (dia, horário, título).
+- Foto de capa, Galeria de fotos e vídeos, SEO (vazio usa título e descrição), Destaque e Ativo.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-eventos.png](../prints/painel-turismo-eventos.png) · dados brutos: [json](../prints/json/painel-turismo-eventos.json)
 - aberta em `/painel/turismo/eventos`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

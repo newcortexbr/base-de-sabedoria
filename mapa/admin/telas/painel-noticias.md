@@ -8,6 +8,17 @@
 - problemas: fato — `categorias.listar().then(setCategorias)` e `subcategorias.listar().then(...)` sem `catch` (:197,201): falha vira promessa rejeitada e filtros vazios, sem aviso.
 - admin vs cliente: o jornalista (`/minha-conta/noticias`) cria/edita as próprias matérias e só envia para aprovação. Admin publica direto, edita qualquer autor, exclui em lote. O cliente não tem lote.
 
+## o que você vê
+Lista de todas as notícias do portal, para buscar, publicar, tirar do ar, editar ou apagar.
+- Buscar por título, categoria, subcategoria, Status e datas (Publicada de / até): filtros da lista.
+- Status: Publicado (está no site), Rascunho (guardada, não aparece), Arquivado (tirada do ar). Um aviso de agendada indica que ela fica escondida até a data de publicação.
+- Postado por: quem escreveu ou enviou a notícia.
+- Views: quantas vezes a notícia foi vista no site.
+- Data: data de publicação; clicar nos títulos das colunas muda a ordem.
+- caixinhas de seleção: marcam várias notícias para apagar de uma vez.
+- botão Publicar / Despublicar: coloca no site ou tira do site na hora.
+- lápis edita; lixeira apaga, sempre com confirmação.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-noticias.png](../prints/painel-noticias.png) · dados brutos: [json](../prints/json/painel-noticias.json)
 - aberta em `/painel/noticias`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

@@ -8,6 +8,13 @@
 - problemas: fato — `carregar` só tem `try/finally` (:126-131): falha de listar subcategorias/categorias vira lista vazia ("Nenhuma subcategoria cadastrada") com rejeição não tratada.
 - admin vs cliente: o cliente escolhe a subcategoria da empresa (obrigatória, ver teste `subcategoria-obrigatoria.test.tsx`); não edita o catálogo.
 
+## o que você vê
+Lista dos ramos mais específicos dentro de cada categoria do Guia (ex.: dentro de Saúde, Dentista).
+- Buscar subcategoria e filtro de categorias.
+- Subcategoria ativa: desligada, não aparece para escolher.
+- orçamento: liga ou desliga se a subcategoria aparece no pedido de orçamento. Se a categoria inteira está fora do orçamento, nenhuma subcategoria dela aparece lá (botão Ir para Categorias para mudar).
+- Editar muda; apagar pede confirmação. É preciso ter uma categoria antes de criar subcategorias.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-guia-subcategorias.png](../prints/painel-guia-subcategorias.png) · dados brutos: [json](../prints/json/painel-guia-subcategorias.json)
 - aberta em `/painel/guia/subcategorias`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

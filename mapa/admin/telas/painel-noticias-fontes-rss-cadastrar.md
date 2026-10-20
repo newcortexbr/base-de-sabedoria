@@ -7,6 +7,16 @@
 - estados: erro `formatApiError` (:180); se a verificação falha mas o erro é só do feed, não bloqueia (:180 `soDoFeed`).
 - admin vs cliente: sem equivalente.
 
+## o que você vê
+Tela para adicionar um site de onde o portal vai puxar notícias automaticamente.
+- catálogo (ex.: Portal G1): lista de fontes prontas; busque por editoria, estado ou região e clique para preencher. "já cadastrada" indica que o portal já tem essa.
+- Título *: nome da fonte.
+- URL do RSS *: o endereço do feed de notícias do site.
+- Quantidade de notícias por vez *: quantas notícias novas são trazidas em cada busca.
+- Status *: ligada ou desligada; desligada, a fonte não importa nada.
+- categoria e subcategoria: onde as notícias trazidas serão colocadas.
+- verificar: testa se o endereço funciona antes de salvar.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-noticias-fontes-rss-cadastrar.png](../prints/painel-noticias-fontes-rss-cadastrar.png) · dados brutos: [json](../prints/json/painel-noticias-fontes-rss-cadastrar.json)
 - aberta em `/painel/noticias/fontes-rss/cadastrar`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

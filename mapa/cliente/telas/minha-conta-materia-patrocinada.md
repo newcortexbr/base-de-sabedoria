@@ -51,3 +51,12 @@ Arquivo: `src/app/minha-conta/materia-patrocinada/page.tsx`
 - [título] "Sua empresa, sua história, sua atuação em destaque." — conteúdo, na parte de cima, ao centro (346,354,435,55)
 - [botão] "Assistir ao vídeo: como sua história vira uma matéria" — conteúdo, no meio da tela, ao centro (346,637,435,245)
 - [selo] "Conteúdo patrocinado" — conteúdo, no meio da tela, à direita (853,690,133,29)
+
+## o que você vê
+Aqui você compra uma matéria patrocinada: uma notícia sobre você ou sua empresa, escrita e publicada pela equipe do portal.
+- Cartão do plano: nome, preço "por notícia" e o que está incluído. O pagamento é único, por matéria.
+- Contratar minha notícia: gera a cobrança. Vira "Pagar minha notícia" se há uma pendente.
+- Aguardando pagamento: mostra como pagar (Pix ou cartão).
+- Depois de pago: "Falar com a equipe no WhatsApp" para combinar o texto; a tela não tem editor.
+- Suas compras: matérias que você já comprou. "Contratar outra matéria" compra mais uma.
+- Sem plano à venda: "Este portal não está vendendo matérias patrocinadas no momento".

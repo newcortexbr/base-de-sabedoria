@@ -8,6 +8,13 @@
 - problemas: hipótese — excluir deixa vagas sem contratante; a vaga continua publicada sem empresa (a regra é do servidor).
 - admin vs cliente: o cliente cria seu contratante em "completar perfil" (`_completar/FormularioContratanteVagas.tsx`). O admin cadastra por ele.
 
+## o que você vê
+Lista das empresas que oferecem vagas (contratantes).
+- Buscar por nome ou e-mail e filtro Verificado / Não verificado.
+- Verificado: selo de empresa conferida por você, mostrado no site.
+- Proprietário: quem tem acesso para gerenciar as vagas dessa empresa; "Sem acesso" quando ninguém tem login.
+- Editar abre a empresa; ao apagar, as vagas ligadas a ela ficam sem contratante.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-vagas-contratantes.png](../prints/painel-vagas-contratantes.png) · dados brutos: [json](../prints/json/painel-vagas-contratantes.json)
 - aberta em `/painel/vagas/contratantes`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

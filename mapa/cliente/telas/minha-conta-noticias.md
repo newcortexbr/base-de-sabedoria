@@ -50,3 +50,13 @@ Arquivo: `src/app/minha-conta/noticias/page.tsx`
 - [título] "Notícias" — conteúdo, no topo da página, ao centro (382,46,243,39)
 - [menu/links] "9 itens: Início · Guia Comercial · Vagas de Emprego · Banners Publicitários · Classificados · Minha empresa · Planos e assinaturas · Segurança · Sair" — menu, na parte de cima, à esquerda (lista de 9 itens em coluna) (14,96,227,786)
 - [aviso] "Não foi possível carregar as suas notícias: Acesso restrito a administ" — conteúdo, faixa larga na parte de cima (288,144,960,59)
+
+## o que você vê
+Lista das notícias que você, jornalista, escreveu.
+- Publicadas / Agendadas / Rascunhos: quantas notícias em cada situação. Agendada é publicada com data futura.
+- Filtros: Todas, Publicadas, Agendadas, Rascunhos, Arquivadas (fora do site, mas guardadas).
+- Busca: procura pelo título. A lista mostra 20 por página.
+- Nova notícia: abre o formulário.
+- Ver no site: só para notícia publicada.
+- Editar, Publicar/Despublicar (põe ou tira do site) e Excluir (pede confirmação).
+- Sem nenhuma notícia: sugere preencher antes o seu perfil em Autor, que é a assinatura da matéria.

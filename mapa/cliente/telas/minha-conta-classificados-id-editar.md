@@ -47,3 +47,9 @@ Arquivos: `classificados/[id]/editar/page.tsx`, `classificados/AnuncioForm.tsx`
 - [checkbox] "Mostrar telefone no anúncio (além do botão de WhatsApp)" — conteúdo, no fim da página, ao centro, logo abaixo de “voce@email.com” (473,1324,13,13)
 - [link] "Cancelar" — conteúdo, no fim da página, ao centro (790,1364,98,42)
 - [botão] "Salvar alterações" — conteúdo, no fim da página, à direita, logo abaixo de “voce@email.com” (900,1364,163,42)
+
+## o que você vê
+Formulário para mudar um anúncio de classificados que já existe, inclusive as fotos.
+- Editar anúncio: os mesmos campos da criação (título, descrição, categoria, preço, contatos).
+- Fotos: dá para apagar ou adicionar; na edição a foto não é obrigatória.
+- Se o anúncio foi reprovado, você chega aqui pelo botão "Corrigir e reenviar" da lista.

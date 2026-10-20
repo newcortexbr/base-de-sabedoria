@@ -51,3 +51,13 @@ Arquivo: `src/app/minha-conta/planos/[secao]/page.tsx`
 - [título] "Como sua empresa vai aparecer no Guia?" — conteúdo, faixa larga na parte de cima (280,102,976,48)
 - [título] "Grátis" — conteúdo, na parte de cima, ao centro (660,261,216,24)
 - [link] "Continuar no Grátis" — conteúdo, no meio da tela, ao centro (660,468,216,44)
+
+## o que você vê
+Tela para escolher, assinar ou trocar o plano de uma seção (ex.: Guia, Vagas).
+- Cartões de plano: preço, período e benefícios; mostra também o que o Grátis não tem.
+- Plano atual: marcado no cartão; o Grátis vale quando você não tem plano pago.
+- Quero este (assinar), Fazer upgrade (subir), Mudar para este plano (descer), Voltar ao grátis.
+- Desistir da troca / Continuar neste plano: desfaz uma troca agendada.
+- Antes de cobrar, a tela pede confirmação.
+- Pagamento: pede CPF/CNPJ e e-mail se ainda não tiver; paga por Pix ou cartão.
+- Depois de pago, você vai para a tela da seção.

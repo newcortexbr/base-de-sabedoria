@@ -8,6 +8,16 @@
 - problemas: nenhum confirmado. fato — criar acesso após criar o colunista pode falhar parcialmente (tratado por `criarAcessoDoCadastro`, :131).
 - admin vs cliente: cliente edita o próprio perfil em `/minha-conta/colunista-blog` (`ColunistaPerfil`). Admin cria o colunista inteiro, define a senha e remove o acesso. O cliente não pode se desativar; o admin sim.
 
+## o que você vê
+Cadastro das pessoas que escrevem artigos (colunistas) e do acesso delas ao sistema.
+- foto (com ponto de foco): a imagem do colunista; o ponto de foco escolhe que parte da foto fica visível quando ela é cortada.
+- Nome ou profissão e Cargo ou especialidade: como o colunista aparece nos artigos.
+- E-mail público, WhatsApp, Instagram, Facebook, LinkedIn, Site: contatos mostrados no perfil público.
+- Origem: Cadastrado pelo painel (feito por você) ou Autocadastro (a pessoa se cadastrou sozinha).
+- Status (Ativos / Inativos): colunista inativo fica desligado; o botão na lista liga e desliga.
+- acesso do colunista: cria e-mail e senha para ele entrar e escrever; também dá para enviar uma nova senha por e-mail ou remover o acesso.
+- lixeira: apaga o colunista, depois de confirmação.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-blog-colunistas.png](../prints/painel-blog-colunistas.png) · dados brutos: [json](../prints/json/painel-blog-colunistas.json)
 - aberta em `/painel/blog/colunistas`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

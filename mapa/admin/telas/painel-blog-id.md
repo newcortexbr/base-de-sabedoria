@@ -8,6 +8,15 @@
 - problemas: nenhum confirmado. fato — arquivar usa `atualizar` e não rota própria.
 - admin vs cliente: cliente edita em `/minha-conta/colunista-blog/[id]`; o admin tem excluir/arquivar além disso e vê qualquer colunista.
 
+## o que você vê
+Tela para mudar um artigo que já existe, tirá-lo do ar ou apagá-lo.
+- campos (Colunista, Categoria, Título, Subtítulo, Chamada, texto, foto, Legenda, Créditos, Título SEO, Descrição SEO): os mesmos do cadastro; mudou, clique em salvar.
+- Foto de capa atual: a imagem que está no artigo agora; enviar outra substitui.
+- Tirar do ar: deixa o artigo como arquivado, ou seja, some do site mas não é apagado.
+- Excluir artigo: apaga de vez, depois de confirmação.
+- voltar: retorna para a lista de artigos.
+- se mudar o título de um artigo já publicado, o endereço antigo continua levando ao artigo.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-blog-id.png](../prints/painel-blog-id.png) · dados brutos: [json](../prints/json/painel-blog-id.json)
 - aberta em `/painel/blog/[id`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

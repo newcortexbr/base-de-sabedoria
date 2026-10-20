@@ -7,6 +7,18 @@
 - problemas: nenhum confirmado. hipótese — colunista sem artigos permitidos no plano não é checado aqui; o servidor decide.
 - admin vs cliente: cliente cria em `/minha-conta/colunista-blog/novo` (limite semanal, plano). Admin publica em nome do colunista, sem esses limites (a confirmar no backend).
 
+## o que você vê
+Tela para escrever um artigo novo em nome de um colunista.
+- Colunista: quem assina o artigo; é obrigatório escolher.
+- Categoria: o assunto do artigo no site (pode ficar sem categoria).
+- Título *: o nome do artigo; é obrigatório.
+- Subtítulo e Chamada: frases curtas que aparecem abaixo do título e nas listas do site.
+- Texto do artigo: o corpo, com botões de negrito, listas, links, imagens e vídeo do YouTube.
+- foto de capa, Legenda da foto e Créditos da foto: imagem principal e quem a fez.
+- Título SEO e Descrição SEO: como o artigo aparece no Google e em buscadores.
+- status: escolhe se o artigo já vai para o site ou fica guardado.
+- salvar: cria o artigo e abre a tela de edição dele.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-blog-novo.png](../prints/painel-blog-novo.png) · dados brutos: [json](../prints/json/painel-blog-novo.json)
 - aberta em `/painel/blog/novo`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

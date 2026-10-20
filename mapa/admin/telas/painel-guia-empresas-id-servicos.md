@@ -9,6 +9,12 @@
 - problemas: fato — catch único vira "sem acesso" (:388).
 - admin vs cliente: equivalente ao conteúdo de serviços na ficha do cliente.
 
+## o que você vê
+Lista de serviços e valores de uma empresa, separados em seções (ex.: Consultas, Procedimentos, Pacotes).
+- Criar seção, Renomear, mudar ordem e Excluir seção.
+- serviço: nome (ex.: Consulta médica), descrição, detalhe (ex.: a partir de 30m²), duração (ex.: 30-90 dias) e valor.
+- chave de publicado: mostra ou esconde o serviço no site; a lixeira apaga, com confirmação.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-guia-empresas-id-servicos.png](../prints/painel-guia-empresas-id-servicos.png) · dados brutos: [json](../prints/json/painel-guia-empresas-id-servicos.json)
 - aberta em `/painel/guia/empresas/1/servicos` com dados do banco de teste; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

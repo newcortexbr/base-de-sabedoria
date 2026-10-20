@@ -9,6 +9,14 @@
 - problemas: fato — catch único vira "sem acesso" (:202).
 - admin vs cliente: equivalente à equipe na ficha do cliente (`FAMILIAS_PLANAS` inclui `equipe`, `cliente-api.ts:1343`).
 
+## o que você vê
+Equipe da empresa ("Nossa Equipe"), mostrada no perfil da empresa no site.
+- Nome * (ex.: Dr. João Silva) e Cargo / Especialidade * (ex.: Cardiologista).
+- registro profissional (ex.: CRM-ES 12345), opcional.
+- foto, opcional.
+- chave de publicado: mostra ou esconde a pessoa no site.
+- Editar muda o membro; a lixeira apaga, com confirmação.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-guia-empresas-id-equipe.png](../prints/painel-guia-empresas-id-equipe.png) · dados brutos: [json](../prints/json/painel-guia-empresas-id-equipe.json)
 - aberta em `/painel/guia/empresas/1/equipe` com dados do banco de teste; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

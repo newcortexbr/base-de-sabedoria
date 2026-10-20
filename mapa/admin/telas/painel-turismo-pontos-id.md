@@ -8,6 +8,18 @@
 - problemas: fato — erro ao carregar o ponto redireciona em silêncio para a lista (:173). fato — a tela tem um ramo `isNew` (:79,376) para o id "novo", mas `/painel/turismo/pontos/novo` é uma rota estática própria (`novo/page.tsx`), então esse ramo é código duplicado/inalcançável pela navegação normal.
 - admin vs cliente: Turismo não tem área do cliente em `src/app/minha-conta` (sem pasta de turismo). Só o admin gerencia; não há lacuna de paridade.
 
+## o que você vê
+Tela para mudar um ponto turístico; os campos são os do cadastro, e cada bloco (dados, informações, horários, fotos, dicas) tem seu próprio botão de salvar.
+- Dados básicos: nome, categoria (dá para criar uma categoria na hora), descrição e Tags (ex.: cachoeira, trilha, mirante).
+- Endereço completo: CEP, cidade e bairro.
+- Preço da entrada (ex.: R$ 20,00) ou Entrada gratuita.
+- horário em texto (ex.: Terça a domingo, 9h às 17h), que aparece como resumo, e horários de funcionamento por dia (24 horas ou Fechado).
+- Foto principal (recomendado 1200×800px) e galeria de fotos e vídeos do YouTube, que aparecem na página pública.
+- Dicas para visitantes: textos curtos sobre o ponto (+ Add, Salvar dica).
+- SEO: ajuda a aparecer no Google; vazio usa nome e descrição.
+- Ativo (aparece no site) e Destaque (mais visibilidade).
+- Informações: dados que aparecem no quadro "Informações" da página pública; a legenda de cada foto vira o texto alternativo da imagem.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-pontos-id.png](../prints/painel-turismo-pontos-id.png) · dados brutos: [json](../prints/json/painel-turismo-pontos-id.json)
 - aberta em `/painel/turismo/pontos/[id` (redirecionou para `/painel/turismo/pontos`); coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

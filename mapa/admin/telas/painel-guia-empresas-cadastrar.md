@@ -9,6 +9,20 @@
 - problemas: hipótese — empresa criada, mas horários ou fotos falham em chamadas seguintes (:633,642): há tratamento parcial, conferir mensagem. fato — mistura cupom no editor da empresa; cupons têm gate próprio (`cupons`), então o campo existe mesmo com Cupons desligado (hipótese a confirmar).
 - admin vs cliente: equivale à ficha do cliente (`/minha-conta/guia`). O admin tem em extra: escolher plano, status, proprietário/gestores (`listarGestores` :384, `removerGestor` :606), criar login. O cliente tem em extra: delivery/áreas, layout do conteúdo, pagamento do plano.
 
+## o que você vê
+Tela para cadastrar uma empresa no Guia Comercial.
+- Dados da Empresa: Nome da empresa *, Categoria * e Subcategoria * (é pela subcategoria que chegam os pedidos de orçamento), Descrição, Plano e Status.
+- Contato: Telefone, WhatsApp, E-mail da empresa, Site, Instagram, Facebook.
+- Endereço e Localização: o ponto no mapa é achado sozinho pelo endereço e cidade.
+- Logo e capa e Galeria de Fotos: imagens da página da empresa.
+- Horários de Funcionamento: dias e horas, 24 horas ou Fechado.
+- Comodidades & Pagamento (ex.: Wi-Fi, PIX): viram informações na página.
+- Botões de ação e Reserva & Delivery: links (agendamento, orçamento, reserva, delivery como iFood) que viram botões na página; vazio = sem botão.
+- Hospedagem: opções próprias de hotel ou pousada.
+- Cupom de Desconto: código (só letras e números), tipo e valor do desconto, validade; código vazio não mostra cupom.
+- SEO: ajuda a página a aparecer no Google; vazio usa nome e descrição.
+- Empresa em destaque e Acesso à Área do cliente (login para o dono cuidar da própria ficha).
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-guia-empresas-cadastrar.png](../prints/painel-guia-empresas-cadastrar.png) · dados brutos: [json](../prints/json/painel-guia-empresas-cadastrar.json)
 - aberta em `/painel/guia/empresas/cadastrar`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

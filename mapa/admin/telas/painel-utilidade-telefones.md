@@ -2,6 +2,16 @@
 
 Arquivo: `app/painel/utilidade/telefones/page.tsx`
 
+## o que você vê
+Lista de telefones úteis (polícia, hospital, prefeitura etc.) mostrados na seção de utilidades do site.
+- Exibir no site: liga ou desliga a seção de telefones inteira no site.
+- Órgão/serviço *: nome do lugar ou serviço.
+- Telefone e Número curto de emergência (ex.: 190): preencha ao menos um dos dois.
+- Endereço e Horário de atendimento (ex.: 24 horas, ou 08h às 18h).
+- clique no status para ativar ou desativar; lápis edita; lixeira apaga, com confirmação.
+- contador de registros: quantos telefones estão na lista.
+- mudanças podem levar alguns minutos para aparecer no site.
+
 ## rota e gate
 - `/painel/utilidade/telefones`. client. gate `PainelGuard` + módulo `utilidade` (`lib/painel-menu.ts:73,105`); desligado mostra "Módulo desativado".
 

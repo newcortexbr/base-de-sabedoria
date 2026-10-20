@@ -54,3 +54,14 @@ Arquivos: `app/painel/configuracoes/layout/inicio/page.tsx` (1516 linhas), `../P
 - [botão] "+ Adicionar primeiro bloco" — conteúdo, na parte de cima, ao centro (665,370,225,40)
 - [link] "Falar com o suporte no WhatsApp" — conteúdo, no meio da tela, à direita (1200,820,56,56)
 - [selo] "··" — menu lateral, no meio da tela, à esquerda (16,858,32,32)
+
+## o que você vê
+Monta a página inicial do site, bloco por bloco (notícias, guia, vagas, banners etc.).
+- lista de blocos: cada linha é um pedaço da página inicial, na ordem em que aparece. Arraste para mudar a ordem; a nova ordem é gravada na hora.
+- ícone de olho (Ocultar / Exibir): esconde ou mostra o bloco no site, sem apagar.
+- Editar: muda o estilo e as opções do bloco. Remover: apaga o bloco (pede confirmação).
+- botão +: adiciona bloco em 3 passos — "Escolha o tipo" (Notícias, Guia Comercial, Vagas de Emprego, Eventos, Guia Turístico, Classificados, Publicidade, Categorias, A Voz do Povo, Carrossel de sorteios, Melhores da Cidade, Campeões), "Escolha o modelo" (o visual do bloco) e a configuração.
+- configuração: Título do bloco, Subtítulo (opcional), Exibir título, e filtros como Categoria ou "Destaques" para escolher o que entra.
+- Publicidade: escolhe o tamanho do banner — Cabeçalho (728×90), Cabeçalho Grande (970×90) ou Outdoor (970×250).
+- "Nenhum bloco ainda": a página inicial ainda não tem blocos.
+- tipos de módulo desligado não aparecem para criar; um bloco antigo deles continua na lista.

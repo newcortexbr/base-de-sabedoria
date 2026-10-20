@@ -75,3 +75,12 @@ Arquivos: `app/painel/configuracoes/layout/cores/page.tsx` (278 linhas), `cores-
 - [link] "Layout › Topo" — conteúdo, no fim da página, ao centro (420,1179,82,14)
 - [link] "Layout › Rodapé" — conteúdo, no fim da página, ao centro (516,1179,98,14)
 - [botão] "Salvar cores" — conteúdo, no fim da página, ao centro (300,1225,400,46)
+
+## o que você vê
+Escolhe as duas cores principais do site.
+- Cor Primária: a cor de tudo que se clica — botões, links, paginação, campos de formulário e a área do cliente. Os exemplos ao lado ("Ver guia completo", "Pedir orçamento") mostram como fica.
+- Cor de Destaque: a cor que chama atenção sem ser botão — nome da seção, barrinha do título, selos e etiquetas (ex. "DESTAQUE").
+- campo com código (ex. #000000): a mesma cor escrita em código; dá para colar uma cor exata.
+- "O que não muda aqui": a faixa do topo, o menu e o rodapé têm cores próprias, nas telas Topo e Rodapé.
+- Prévia do seu site: mostra o site como está publicado, com as cores novas; nada muda no ar até salvar. Computador / Celular trocam o tamanho; "Tudo", "Só a Primária", "Só a de Destaque" acendem onde cada cor aparece.
+- Salvar cores: grava e publica as cores.

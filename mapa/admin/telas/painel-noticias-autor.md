@@ -7,6 +7,13 @@
 - problemas: nenhum confirmado.
 - admin vs cliente: o jornalista usa `/minha-conta/autor` com o mesmo `AutorFormBase` (mesmo componente, API diferente). Equivalente.
 
+## o que você vê
+Seu perfil como autor das notícias que você publica pelo painel.
+- foto, nome, cargo (ex.: Repórter) e apresentação: como você aparece nas notícias.
+- E-mail, WhatsApp (só DDD e número; o botão é montado sozinho), Instagram (sem @), Facebook, LinkedIn, Site: contatos do autor.
+- Como aparece na notícia: prévia de como o quadro do autor fica no site.
+- salvar: grava o perfil; campos com problema ficam destacados.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-noticias-autor.png](../prints/painel-noticias-autor.png) · dados brutos: [json](../prints/json/painel-noticias-autor.json)
 - aberta em `/painel/noticias/autor`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

@@ -46,3 +46,13 @@ Arquivo: `src/app/minha-conta/eventos/page.tsx`
 - [botão] "Encerrados" — conteúdo, no meio da tela, à direita (1056,424,95,36)
 - [botão] "Reprovado" — conteúdo, no meio da tela, à direita (1157,424,91,36)
 - [título] "Meus eventos" — conteúdo, no meio da tela, à esquerda (288,429,119,27)
+
+## o que você vê
+Lista dos seus eventos. Evento não é assinatura: cada um é pago à parte, ou entra num pacote que inclui vários eventos.
+- Situação: Publicado, Aguardando pagamento, Em análise (o portal vai revisar), Reprovado, Encerrado (o evento já saiu do ar).
+- Pacotes: "X de Y eventos usados" mostra quanto do pacote você já gastou e quando ele renova.
+- Novo evento: cria um evento.
+- Continuar pagamento: aparece no evento que ainda não foi pago.
+- Corrigir e reenviar: no evento reprovado.
+- Ver no site: só para evento no ar.
+- Filtros: Todos, Aguardando pagamento, Em análise, Publicado, Encerrados, Reprovado.

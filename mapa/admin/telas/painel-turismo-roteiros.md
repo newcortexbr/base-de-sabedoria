@@ -9,6 +9,15 @@
 - problemas: nenhum confirmado.
 - admin vs cliente: Turismo não tem área do cliente em `src/app/minha-conta` (sem pasta de turismo). Só o admin gerencia; não há lacuna de paridade.
 
+## o que você vê
+Roteiros turísticos: passeios prontos com várias paradas em ordem (ex.: Vitória clássica em 1 dia).
+- + Novo Roteiro: abre o formulário na mesma tela.
+- título, Badge (selo, ex.: ⭐ Mais popular), Duração (ex.: 1 dia · 8 paradas), Ponto de partida e descrição.
+- Paradas do roteiro: os pontos do passeio, em ordem, com Nome da parada *, Tempo sugerido (ex.: 1h30) e Parada em destaque.
+- vídeo do YouTube: aparece num bloco próprio, abaixo da galeria; vazio não mostra.
+- foto de capa e galeria de fotos e vídeos, enviadas quando o roteiro é salvo.
+- Ativo (no site) e ★ destaque (mais visibilidade); apagar pede confirmação.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-roteiros.png](../prints/painel-turismo-roteiros.png) · dados brutos: [json](../prints/json/painel-turismo-roteiros.json)
 - aberta em `/painel/turismo/roteiros`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

@@ -7,6 +7,14 @@
 - problemas: nenhum confirmado.
 - admin vs cliente: admin redefine senha do anunciante; cliente usa `/minha-conta/seguranca`.
 
+## o que você vê
+Tela para mudar os dados de um anunciante de classificados; os campos são os do cadastro.
+- Nome *, Descrição, Logo e Cor do logo: como o anunciante aparece no site.
+- Localização: cidade e bairro (escolha a cidade primeiro).
+- Redes sociais e contato: E-mail, WhatsApp, Site, Instagram, LinkedIn, YouTube.
+- Verificado: dá o selo de anunciante conferido.
+- Painel do proprietário: cria o acesso do responsável, envia nova senha por e-mail ou remove o acesso.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-classificados-anunciantes-id-editar.png](../prints/painel-classificados-anunciantes-id-editar.png) · dados brutos: [json](../prints/json/painel-classificados-anunciantes-id-editar.json)
 - aberta em `/painel/classificados/anunciantes/1/editar` com dados do banco de teste; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

@@ -2,6 +2,17 @@
 
 Arquivo: `app/painel/delivery/configuracoes/page.tsx`
 
+## o que você vê
+Ajustes do delivery de uma empresa: se está ligado, quanto custa a entrega, prazos, formas de pagamento e onde entrega.
+- delivery ativo: liga ou desliga a página de pedidos da empresa no site.
+- Taxa de entrega (R$): valor cobrado pela entrega; use 0 para entrega grátis. Pedido mínimo (R$): menor valor aceito.
+- Tempo mínimo (min) e Tempo máximo (min): prazo de entrega mostrado ao cliente.
+- Raio de entrega (km): apenas informativo por enquanto.
+- Formas de Pagamento: dinheiro, cartão e PIX; com PIX ligado, aparece o campo Chave PIX.
+- Mensagem de Boas-Vindas: texto no topo da página de pedidos.
+- Áreas de Atendimento: para cada Cidade, escolha Município todo ou Bairros específicos (Bairros atendidos); dá para criar, editar e excluir.
+- a tela é aberta pelo botão na edição da empresa; sem empresa escolhida, avisa que nenhuma foi selecionada.
+
 ## rota e gate
 - `/painel/delivery/configuracoes?empresa=<id>`. client, `Header`, `VoltarParaAEmpresa`. gate `PainelGuard`; módulo `guia` (`lib/painel-menu.ts:95`). acesso pelo editor da empresa (`EmpresaEditor.tsx:944`).
 - sem `?empresa=`: "Nenhuma empresa selecionada. Acesse esta página pelo botão na edição da empresa." (`:221-222`).

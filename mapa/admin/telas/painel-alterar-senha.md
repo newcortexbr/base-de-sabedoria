@@ -37,3 +37,10 @@ Arquivo: `portal-cidade/frontend/src/app/painel/alterar-senha/page.tsx`
 - [botão] "Alterar Senha" — conteúdo, no meio da tela, ao centro, logo abaixo de “Confirmar nova senha” (324,385,400,44)
 - [link] "Falar com o suporte no WhatsApp" — conteúdo, no meio da tela, à direita (1200,820,56,56)
 - [selo] "··" — menu lateral, no meio da tela, à esquerda (16,858,32,32)
+
+## o que você vê
+Troca a senha da sua conta.
+- Senha atual: a senha que você usa hoje.
+- Nova senha: a senha nova, com pelo menos 8 caracteres.
+- Confirmar nova senha: digite a nova de novo; se for diferente aparece "As senhas não conferem."
+- Alterar Senha: grava a troca; deu certo quando aparece "Senha alterada com sucesso."

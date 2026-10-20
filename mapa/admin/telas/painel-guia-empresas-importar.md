@@ -7,6 +7,15 @@
 - problemas: fato — "Desfazer" apaga as empresas do lote; só há `confirm()` nativo. hipótese — empresas editadas depois da importação também seriam apagadas (regra do servidor).
 - admin vs cliente: sem equivalente no cliente (operação de portal).
 
+## o que você vê
+Traz várias empresas de uma vez para o Guia, a partir de uma planilha tirada do Google Maps.
+- passos: Enviar arquivo, Revisão, Importação.
+- Revisão: para cada categoria da planilha, escolha a categoria do portal (há sugestão); as que ficarem sem escolha serão ignoradas.
+- números: Total de linhas, Novas (serão criadas), Já existem (já estão no Guia), Ignoradas, Com problema.
+- Importação: Criadas e Com erro mostram o andamento; Pausar para e Continuar retoma.
+- fotos que não vierem podem ser enviadas depois, na edição da empresa.
+- Importações anteriores: lista de envios passados (Data, Arquivo); dá para reabrir ou desfazer um lote, o que apaga as empresas criadas nele, com confirmação.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-guia-empresas-importar.png](../prints/painel-guia-empresas-importar.png) · dados brutos: [json](../prints/json/painel-guia-empresas-importar.json)
 - aberta em `/painel/guia/empresas/importar`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

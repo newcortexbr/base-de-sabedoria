@@ -59,3 +59,15 @@ Arquivos: `src/app/minha-conta/vagas/nova/page.tsx`, `vagas/VagaForm.tsx`, `_com
 - [campo] "https://seusite.com/candidatura" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “rh@empresa.com.br” (473,1354,590,42)
 - [link] "Cancelar" — conteúdo, no fim da página, à direita (814,1420,98,42)
 - [botão] "Publicar vaga" — conteúdo, no fim da página, à direita, logo abaixo de “https://seusite.com/candidatura” (924,1420,139,42)
+
+## o que você vê
+Formulário para publicar uma vaga de emprego.
+- Complete seu cadastro: pode aparecer antes; "Preencher depois" pula por agora.
+- Título, cidade e descrição: obrigatórios.
+- Tipo de contrato: CLT, PJ/Autônomo, Estágio, Trainee, Temporário, Freelancer.
+- Carga horária, modelo de trabalho (presencial, home office, híbrido), bairro.
+- Requisitos e benefícios (um por linha).
+- Salário: valor ou "a combinar".
+- PCD (vaga para pessoa com deficiência), Primeiro emprego, Urgente: marcações que destacam a vaga.
+- WhatsApp, e-mail para currículo ou link externo: como o candidato se inscreve.
+- Ao salvar, a tela diz se a vaga entrou no ar ou foi para aprovação.

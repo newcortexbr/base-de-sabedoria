@@ -8,6 +8,15 @@
 - problemas: fato — não há botão de excluir jornalista (só desativar).
 - admin vs cliente: o jornalista não se cadastra pelo painel; o admin cria a conta e define a senha. O cliente troca a senha em `/minha-conta/seguranca`.
 
+## o que você vê
+Cadastro dos jornalistas, pessoas que enviam notícias pela área própria delas.
+- Nome e E-mail: quem é o jornalista e o e-mail que ele usa para entrar.
+- novo jornalista: cria a conta e mostra os dados de acesso.
+- Bloquear / Desbloquear: impede ou libera a entrada do jornalista sem apagar a conta.
+- Resetar senha: cria uma nova senha, que é enviada por e-mail ao jornalista.
+- lápis: muda o nome. Não há botão para apagar; use Bloquear.
+- o jornalista entra pela página de login de clientes, não pelo painel.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-noticias-jornalistas.png](../prints/painel-noticias-jornalistas.png) · dados brutos: [json](../prints/json/painel-noticias-jornalistas.json)
 - aberta em `/painel/noticias/jornalistas`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

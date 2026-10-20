@@ -60,3 +60,13 @@ Arquivos: `app/painel/configuracoes/layout/rodape/page.tsx` (379 linhas), `../co
 - [botão] "Média44px" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “#FFFFFF” (455,1240,126,136)
 - [botão] "Grande60px" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “#FFFFFF” (591,1240,152,136)
 - [botão] "Salvar" — conteúdo, no fim da página, à esquerda, logo abaixo de “Pequena32px” (300,1418,106,44)
+
+## o que você vê
+Muda o rodapé do site (a parte de baixo de todas as páginas).
+- Modelo do rodapé: Linha única, Centralizado ou Faixa de chamada.
+- Texto abaixo da logo: frase curta que aparece no rodapé (até 300 letras).
+- Cor de fundo do rodapé: cor sólida ou gradiente. "Herdar cor do topo" usa a mesma cor da barra de navegação do topo.
+- Cor dos textos e links: cor das letras do rodapé, com sugestões prontas.
+- Tamanho da logo no rodapé: Pequena, Média ou Grande.
+- Como fica no seu site: prévia do rodapé em computador e celular; nada muda no ar até salvar.
+- Salvar: grava e publica.

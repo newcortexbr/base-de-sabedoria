@@ -45,3 +45,10 @@ Arquivo: `src/app/minha-conta/seguranca/page.tsx`
 - [campo] "Confirmar nova senha" — conteúdo, no meio da tela, ao centro, logo abaixo de “Nova senha” (307,439,604,46)
 - [botão] "Mostrar senhas" — conteúdo, no meio da tela, à esquerda, logo abaixo de “Confirmar nova senha” (307,499,117,36)
 - [botão] "Salvar nova senha" — conteúdo, no meio da tela, ao centro, logo abaixo de “Mostrar senhas” (307,549,604,48)
+
+## o que você vê
+Tela para trocar a senha da sua conta.
+- Senha atual, nova senha e confirmar nova senha.
+- Mostrar senhas: deixa ver o que foi digitado.
+- Salvar nova senha: os outros aparelhos são desconectados; você continua conectado neste.
+- Você recebe um e-mail avisando da troca (jornalista não recebe e precisa entrar de novo depois).

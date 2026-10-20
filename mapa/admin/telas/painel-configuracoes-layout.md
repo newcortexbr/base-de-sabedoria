@@ -32,3 +32,10 @@ Arquivos: `app/painel/configuracoes/layout/page.tsx` (135 linhas), `actions.ts`,
 - [link] "TopoModelo do cabeçalho, cores das barras e links (e outros 3 parecidos)" — conteúdo, na parte de cima, ao centro (repetido ×4, um sob o outro) (586,179,385,82)
 - [link] "Falar com o suporte no WhatsApp" — conteúdo, no meio da tela, à direita (1200,820,56,56)
 - [selo] "··" — menu lateral, no meio da tela, à esquerda (16,858,32,32)
+
+## o que você vê
+Menu da aparência do site: escolha qual parte quer mudar.
+- Topo: modelo do cabeçalho, cores, tamanho da logo e ordem do menu.
+- Tela Início: monta os blocos da página inicial, arrastando para mudar a ordem.
+- Cores: cor primária e cor de destaque do portal.
+- Rodapé: modelo, cores, tamanho da logo e texto do rodapé.

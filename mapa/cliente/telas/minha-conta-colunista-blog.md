@@ -44,3 +44,14 @@ Arquivo: `src/app/minha-conta/colunista-blog/page.tsx`
 - [título] "Artigos" — conteúdo, no topo da página, ao centro (382,46,175,39)
 - [menu/links] "9 itens: Início · Guia Comercial · Vagas de Emprego · Banners Publicitários · Classificados · Minha empresa · Planos e assinaturas · Segurança · Sair" — menu, na parte de cima, à esquerda (lista de 9 itens em coluna) (14,96,227,786)
 - [título] "Escolha um plano" — conteúdo, faixa larga na parte de cima (307,163,922,23)
+
+## o que você vê
+Lista dos seus artigos (seção Artigos), com a situação do seu plano.
+- No ar: artigos publicados. Agendados: artigos com data futura para publicar.
+- Faixa do plano: mostra o plano e o limite de artigos por semana.
+- Novo artigo / Editar: só aparecem com plano ativo.
+- Ver no site: só para artigo publicado com plano ativo; sem plano ativo, os artigos não aparecem no site.
+- Excluir: apaga o artigo, sem volta (pede confirmação).
+- Plano vencido ou cancelado: os planos aparecem de novo; você ainda vê e apaga seus artigos, mas não cria nem edita.
+- Aguardando pagamento: só aparece o quadro de pagamento.
+- Meus dados: atalho para o seu perfil de colunista (para empresas).

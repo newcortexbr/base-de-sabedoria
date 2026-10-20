@@ -8,6 +8,10 @@ Arquivo: `app/painel/orcamentos/page.tsx`
 - observação: a tela do empresário saiu do painel (D-352, comentário `:3-5`); a lista dele fica na área do cliente.
 - problemas: nenhum. nome "categorias" na URL final é enganoso (a tela é de solicitações, não de categorias): fato.
 
+## o que você vê
+Endereço antigo de orçamentos: abre direto a lista de pedidos de orçamento.
+- não tem conteúdo próprio; leva para a tela de solicitações de orçamento.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-orcamentos.png](../prints/painel-orcamentos.png) · dados brutos: [json](../prints/json/painel-orcamentos.json)
 - aberta em `/painel/orcamentos` (redirecionou para `/painel/orcamentos/categorias`); coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

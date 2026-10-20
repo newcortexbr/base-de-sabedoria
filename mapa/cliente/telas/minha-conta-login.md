@@ -47,3 +47,13 @@ Arquivo: `src/app/minha-conta/login/page.tsx`
 - [botão] "Esqueci minha senha" — conteúdo, no meio da tela, à direita, logo abaixo de “Senha” (1015,508,138,20)
 - [botão] "Entrar" — conteúdo, no meio da tela, à direita, logo abaixo de “Esqueci minha senha” (799,549,354,54)
 - [link] "Voltar para o portal" — conteúdo, no meio da tela, à direita (799,649,354,50)
+
+## o que você vê
+Tela para entrar na sua área do cliente ou recuperar a senha.
+- E-mail e senha: o olho mostra a senha digitada.
+- Esqueci minha senha: manda um código de 6 números para o seu e-mail.
+- Código: digite ou cole os 6 números; "Reenviar código" manda outro; "Trocar e-mail" volta.
+- Senha nova: mínimo de 8 caracteres, digitada duas vezes; "Salvar e entrar" já entra na conta.
+- Cartões ao lado: as áreas do portal (Empresa, Vagas, Anúncios, Eventos, Artigos, Banners).
+- "Sua sessão expirou": você ficou muito tempo fora; entre de novo.
+- Muitas tentativas erradas bloqueiam por um tempo.

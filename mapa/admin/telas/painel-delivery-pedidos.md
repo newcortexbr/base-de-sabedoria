@@ -2,6 +2,17 @@
 
 Arquivo: `app/painel/delivery/pedidos/page.tsx`
 
+## o que você vê
+Fila de pedidos do delivery de uma empresa, para acompanhar e mudar a situação de cada pedido.
+- filtro de status: Todos, Recebido, Em Preparo, Saiu p/ Entrega, Entregue, Cancelado.
+- Em andamento: pedidos ainda abertos. Finalizados / Cancelados: pedidos encerrados.
+- botões do pedido: Iniciar preparo, Saiu para entrega, Marcar entregue e Cancelar levam o pedido à próxima etapa.
+- imprimir: abre o pedido em formato de cupom para impressora pequena.
+- Ativar som: toca um bip quando chega pedido novo (só com o filtro Todos).
+- Atualizar: recarrega na hora; a lista também se atualiza sozinha a cada 20 segundos.
+- Nenhum pedido encontrado: não há pedidos no filtro, ou a lista não carregou.
+- a tela é aberta pelo cartão da fila de pedidos na edição da empresa.
+
 ## rota e gate
 - `/painel/delivery/pedidos?empresa=<id>`. client, `Header`. gate `PainelGuard`; módulo `guia` (`lib/painel-menu.ts:95`, delivery acompanha o Guia, D-231). sem item de menu: o acesso é pelo cartão "Fila de pedidos" no editor da empresa (`components/painel/EmpresaEditor.tsx:943`).
 - sem `?empresa=` não mostra aviso: encerra o carregamento (`:69`) e cai em "Nenhum pedido encontrado." (`:212`).

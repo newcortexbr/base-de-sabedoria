@@ -55,3 +55,15 @@ Arquivos: `app/painel/planos/page.tsx`, `hub.css`
 - [título] "Espaço de publicidade (banners)" — conteúdo, no meio da tela, ao centro (300,874,265,20)
 - [link] "PublicidadeCada posição de banner do portal tem preço próprio, por sem" — conteúdo, faixa larga mais abaixo (rolando a página) (300,906,956,121)
 - [título] "Publicidade" — conteúdo, no fim da página, ao centro (324,930,373,29)
+
+## o que você vê
+Resumo do que o seu portal vende aos clientes, seção por seção; clique numa seção para definir preços.
+- planos à venda: quantos planos estão disponíveis para contratar, somando todas as seções.
+- seções vendendo: quantas seções têm pelo menos um plano à venda, do total.
+- seções sem nada à venda: seções onde ninguém consegue contratar (fica em alerta quando é maior que zero).
+- espaços de banner com preço: quantas posições de banner já têm preço, do total.
+- cartão de cada seção: nome da seção, quantos planos estão à venda e a lista de planos com nome, período (semanal, mensal, único etc.) e preço. "fora de venda" marca plano que existe mas não pode ser contratado.
+- "Nada à venda ainda": o plano da seção está sem preço; enquanto estiver assim, ninguém contrata.
+- "Planos indisponíveis": a tela não conseguiu carregar os planos dessa seção.
+- Espaço de publicidade (banners): cada posição de banner tem preço próprio; mostra quantos espaços já têm preço. "Gerenciar espaços" abre os preços.
+- "—" no lugar de um número: os planos não carregaram.

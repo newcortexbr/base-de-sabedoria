@@ -2,6 +2,15 @@
 
 Arquivo: `app/painel/utilidade/denuncias/page.tsx`
 
+## o que você vê
+Caixa de entrada dos relatos enviados por moradores (A Voz do Povo); aqui só se muda a situação de cada relato.
+- filtro de status: Em aberto (Recebida e Em análise), Recebida, Em análise, Resolvida, Arquivada ou Todos.
+- Recebida: chegou e ninguém olhou. Em análise: alguém está cuidando. Resolvida: problema resolvido. Arquivada: guardada sem ação.
+- botões da linha Em análise, Resolvida e Arquivar mudam a situação na hora.
+- Desfazer: volta a última mudança.
+- Ver detalhes: abre o relato completo, com fotos, áudio e contato.
+- não confundir com as denúncias de conteúdo (empresas, vagas, anúncios), que ficam em Aprovações e Denúncias.
+
 ## rota e gate
 - `/painel/utilidade/denuncias`. client. gate `PainelGuard` + módulo `utilidade`.
 - diferente de `/painel/denuncias` (denúncia de conteúdo: empresa/vaga/classificado/evento, ver `painel-aprovacoes.md`). esta é a caixa de entrada de relatos de moradores.

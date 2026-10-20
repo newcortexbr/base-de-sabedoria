@@ -2,6 +2,17 @@
 
 Arquivo: `app/painel/assistente/page.tsx`
 
+## o que você vê
+Mostra o que os visitantes perguntam ao Assistente de IA do site e deixa ligá-lo ou desligá-lo.
+- Mostrar o Assistente de IA: liga ou desliga o assistente no site; salva na hora.
+- período 7, 30 ou 90 dias: escolhe o intervalo dos números.
+- indicadores: total de perguntas, quantas tiveram resposta, quantas ficaram sem resultado e a média por dia.
+- seções, categorias, palavras e cidades: o que mais é procurado.
+- perguntas sem resultado: o que o visitante procurou e o site não tinha; bom para ver o que falta no portal.
+- últimas perguntas: as mais recentes.
+- também aparece quantas mensagens impróprias o assistente recusou.
+- Ainda não há perguntas neste período: ninguém perguntou no intervalo escolhido.
+
 ## rota e gate
 - `/painel/assistente`. client. gate `PainelGuard` (`app/painel/layout.tsx:38`); item "Assistente de IA" na seção Sistema da `Sidebar.tsx:239`. não está em `MODULO_POR_PREFIXO_DE_ROTA`, sem gate de módulo.
 - a tela trata 403 do resumo como "Acesso restrito a administradores do portal." (`:110-111`), sem botão de repetir.

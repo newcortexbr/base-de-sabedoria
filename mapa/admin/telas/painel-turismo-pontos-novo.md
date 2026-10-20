@@ -8,6 +8,18 @@
 - problemas: nenhum defeito de carga: categorias e cidades têm `catch` com aviso em `erroCarga` (:103,107). fato — a criação é em várias chamadas; falha parcial deixa ponto criado sem alguns itens (tratado por aviso).
 - admin vs cliente: Turismo não tem área do cliente em `src/app/minha-conta` (sem pasta de turismo). Só o admin gerencia; não há lacuna de paridade.
 
+## o que você vê
+Tela para cadastrar um ponto turístico.
+- Dados básicos: nome, categoria (dá para criar uma categoria na hora), descrição e Tags (ex.: cachoeira, trilha, mirante).
+- Endereço completo: CEP, cidade e bairro.
+- Preço da entrada (ex.: R$ 20,00) ou Entrada gratuita.
+- horário em texto (ex.: Terça a domingo, 9h às 17h), que aparece como resumo, e horários de funcionamento por dia (24 horas ou Fechado).
+- Foto principal (recomendado 1200×800px) e galeria de fotos e vídeos do YouTube, que aparecem na página pública.
+- Dicas para visitantes: textos curtos sobre o ponto (+ Add, Salvar dica).
+- SEO: ajuda a aparecer no Google; vazio usa nome e descrição.
+- Ativo (aparece no site) e Destaque (mais visibilidade).
+- se algum item extra (foto, dica, horário) não for salvo, a tela avisa e abre a edição do ponto.
+
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-pontos-novo.png](../prints/painel-turismo-pontos-novo.png) · dados brutos: [json](../prints/json/painel-turismo-pontos-novo.json)
 - aberta em `/painel/turismo/pontos/novo`; coordenadas em px a partir do canto superior esquerdo da página inteira (x,y,largura,altura)

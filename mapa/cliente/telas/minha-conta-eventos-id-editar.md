@@ -59,3 +59,11 @@ Arquivos: `eventos/[id]/editar/page.tsx`, `eventos/EventoForm.tsx`, `eventos/Gal
 - [campo] "Link de ingresso (opcional)" — conteúdo, mais abaixo (rolando a página), ao centro, logo abaixo de “Link de vídeo do YouTube (opcional)” (631,2096,274,44)
 - [checkbox] "Mostrar telefone na página" — conteúdo, no fim da página, ao centro, logo abaixo de “Link de ingresso (opcional)” (631,2189,18,18)
 - [campo] "WhatsApp para contato (opcional)" — conteúdo, no fim da página, ao centro, logo abaixo de “Preço (texto — ex.: "Entrada gratui” (345,2200,274,44)
+
+## o que você vê
+Formulário para mudar um evento que já existe, com galeria e pagamento pendente.
+- Os mesmos campos da criação; a capa pode ser trocada ou removida.
+- Galeria: adicionar ou tirar fotos.
+- Aguardando pagamento: mostra o quadro para continuar o pagamento.
+- "Criado pelo seu pacote, sem nova cobrança": o evento usou um pacote já pago.
+- Reprovado: você chega aqui pelo botão "Corrigir e reenviar" da lista.

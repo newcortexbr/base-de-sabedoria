@@ -70,3 +70,14 @@ Arquivo: `app/painel/parceiros/page.tsx` (1399 linhas; leitura até `:1052`)
 - [checkbox] "Mostrar o botão para os parceiros" — conteúdo, mais abaixo (rolando a página), à esquerda, logo abaixo de “Link do grupo” (321,1351,13,13)
 - [título] "Como você paga os parceiros" — conteúdo, mais abaixo (rolando a página), ao centro (353,1434,228,24)
 - [checkbox] "Mandar a comissão direto pelo AsaasDesligado: você paga todos os parce" — conteúdo, mais abaixo (rolando a página), à esquerda (321,1476,20,20)
+
+## o que você vê
+Parceiros são pessoas que indicam clientes para o seu portal e ganham comissão por isso; aqui você cadastra, define planos e paga as comissões.
+- Programa ligado/desligado: mostra se o programa está no ar. desligado, a página de cadastro e a área dos parceiros saem do ar, mas as comissões já geradas continuam aqui. liga e desliga em Módulos, não nesta tela.
+- resumo: Parceiros ativos, Clientes indicados, Pagar por fora (comissões pagas à mão) e "Precisa da sua atenção" ("Ver quem" mostra quais).
+- Planos de parceiro: quanto cada plano custa, a periodicidade e quanto o parceiro ganha: "% de venda" na primeira venda e "% residual" nas renovações. "Oferecer o plano gratuito" liga ou desliga o plano grátis.
+- Como você paga os parceiros / Mandar a comissão direto pelo Asaas: ligado, a parte do parceiro cai na carteira Asaas dele quando o cliente paga pelo link. desligado, você paga todos por fora.
+- Seus parceiros: busca por nome, e-mail ou número; filtros Plano, Como recebe (Automático Asaas ou Por fora) e Situação (Ativos, Desativados, Removidos).
+- Novo parceiro / Editar: nome, e-mail de login, senha inicial, telefone, WhatsApp, plano e, se o plano é pago, CPF/CNPJ e e-mail da cobrança. "Salvar e gerar link" cria o link de pagamento; o plano vale quando ele pagar.
+- ícones da linha: editar, trocar a senha, ver link de pagamento, desativar/reativar e excluir.
+- Comissões para pagar por fora / Pagar agora: pague por Pix ou transferência e depois marque como paga.

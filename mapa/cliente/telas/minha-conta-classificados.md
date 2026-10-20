@@ -57,3 +57,15 @@ Arquivo: `src/app/minha-conta/classificados/page.tsx`
 - [botão] "Pausar Sofa QA Editado" — conteúdo, no meio da tela, à direita, logo abaixo de “Vendido0” (1101,458,40,40)
 - [botão] "Marcar Sofa QA Editado como vendido" — conteúdo, no meio da tela, à direita, logo abaixo de “Encerrado0” (1147,458,40,40)
 - [botão] "Excluir Sofa QA Editado" — conteúdo, no meio da tela, à direita, logo abaixo de “Encerrado0” (1193,458,40,40)
+
+## o que você vê
+Lista dos seus anúncios de classificados (coisas à venda), com a situação de cada um.
+- No ar / Em análise / Vendidos: contagem dos seus anúncios em cada situação.
+- Faixa do plano: quantos anúncios ativos seu plano permite. Todo cliente tem o plano Grátis.
+- Novo anúncio: fica desligado quando você chega ao limite do plano; pause um anúncio ou mude de plano.
+- Filtros: Todos, Ativo, Pausado, Aguardando aprovação (o portal ainda vai revisar), Reprovado, Vendido, Encerrado.
+- Pausar / Reativar: tira o anúncio do site por um tempo e depois devolve.
+- Marcar como vendido: o anúncio sai do site.
+- Excluir: apaga o anúncio (pede confirmação).
+- Ver no site: só aparece quando o anúncio está de fato visível (ativo, com foto e dentro do prazo).
+- Reprovado: mostra o motivo e o botão "Corrigir e reenviar".

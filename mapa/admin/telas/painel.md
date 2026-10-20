@@ -59,3 +59,21 @@ Arquivo: `portal-cidade/frontend/src/app/painel/page.tsx`
 - [menu/links] "6 itens: Notícia · Empresa · Vaga · Anúncio · Evento · Ponto turístico" — menu, mais abaixo (rolando a página), à direita (lista de 6 itens em coluna) (650,973,602,32)
 - [link] "0Notícias publicadas (e outros 4 parecidos)" — conteúdo, mais abaixo (rolando a página), à esquerda (repetido ×5, um sob o outro) (304,1019,227,82)
 - [título] "Precisa da sua atenção" — conteúdo, no fim da página, à esquerda (325,1229,191,23)
+
+## o que você vê
+Tela inicial do painel: quantas pessoas visitaram o site, quanto conteúdo está no ar e o que espera por você.
+- Tráfego do portal: visitas ao site, contadas pelo próprio portal (não pelo Google).
+- 7 dias / 30 dias / Este mês / Personalizado: escolhe o período; em Personalizado, escolha as datas e clique em Aplicar.
+- Baixar relatório PDF: baixa os números do período.
+- Acessos (páginas vistas): quantas páginas foram abertas no período; a mesma pessoa abrindo 3 páginas conta 3.
+- Visitantes: pessoas diferentes por dia, somadas; a mesma pessoa em três dias conta três vezes.
+- Tempo médio na página: quanto tempo, em média, alguém fica numa página.
+- Páginas por visitante: acessos divididos por visitantes.
+- selo com seta e %: quanto subiu ou caiu em relação ao período anterior do mesmo tamanho; "igual" quando não mudou.
+- Acessos por dia: gráfico com acessos e visitantes de cada dia.
+- Acessos por seção: quanto cada parte do site (Notícias, Guia Comercial etc.) recebeu.
+- Mais lidas no período: páginas mais abertas, com acessos e tempo médio.
+- "As visitas são contadas desde…": antes dessa data não há dados.
+- "+ Notícia", "+ Empresa" etc.: atalhos para cadastrar.
+- Notícias publicadas, Empresas ativas, Anúncios, Eventos, Rascunhos: quantos existem hoje; clique para abrir a lista.
+- Precisa da sua atenção: pendências (empresas aguardando aprovação, fila de aprovação, faturas vencidas, denúncias novas, comissões para pagar por fora), com botão para resolver.
