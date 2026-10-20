@@ -58,3 +58,10 @@ Dados PJ (`JXWDV_IiAWQ`, `IKdKLgi-e94`) seguem fora do catálogo e sem vínculo.
 - cardápio digital: o vídeo fala em "adicionar prato"; no código aparece `Novo prato`. o artigo usa o nome do código.
 - os vídeos LP movidos para artigos de cliente são propaganda, não tutorial. confirmar se devem ser oferecidos pelo chat.
 - `cliente/acesso/trocar-senha-cliente.md` existe, mas não está no índice do `README.md` (já era assim antes desta revisão).
+
+## decisões do humano (2026-10-19)
+
+- Pix manual: artigo próprio `admin/comercial/receber-por-pix-na-sua-chave.md`. "cadastrar com autenticador" existe (`CartaoPix.tsx`, texto do botão quando não há chave).
+- jornalistas e vagas: artigos `admin/editorial/jornalistas.md` e `admin/comercial/cadastrar-vagas-areas-e-contratantes.md`.
+- delivery: rótulos confirmados no código; passo do `↻ Atualizar` acrescentado.
+- vídeos LP: cliente não vê nada do admin nem o que não representa o fluxo dele. retirados de todos os artigos de cliente e usuário (`D21vBBhzlhg`, `zHOxx6KFIrk`, `d2EweodukHg`, `G1B9mAWbCk4`, `VmEwdNZd7pw`).

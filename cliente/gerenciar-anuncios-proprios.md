@@ -13,7 +13,6 @@ status: rascunho-documental
 revisado_em: 2026-10-19
 validacao: docs-e-codigo
 videos:
-  - zHOxx6KFIrk
   - 4pc8AwOX0hA
 ---
 

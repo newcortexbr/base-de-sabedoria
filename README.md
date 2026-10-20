@@ -37,7 +37,7 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [recuperar senha da área do cliente](cliente/acesso/recuperar-senha-cliente.md)
 - [entrar ou recuperar acesso de parceiro comercial](cliente/acesso/entrar-recuperar-parceiro.md) — exclusivo a `parceiro-comercial`; não carregar para cliente comum.
 
-## admin (36)
+## admin (39)
 
 ### acesso
 - [entrar no painel](admin/acesso/entrar-painel.md)
@@ -47,6 +47,7 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [categorias editoriais](admin/editorial/categorias-editoriais.md)
 - [eventos](admin/editorial/eventos.md)
 - [mídia editorial](admin/editorial/midia-editorial.md)
+- [jornalistas](admin/editorial/jornalistas.md)
 - [notícias](admin/editorial/noticias.md)
 - [notícias automáticas: fontes de RSS](admin/editorial/noticias-automaticas-fontes-rss.md)
 - [publicação e visibilidade](admin/editorial/publicacao-e-visibilidade.md)
@@ -75,6 +76,8 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [quartos e suítes](admin/comercial/gerenciar-quartos-e-suites.md)
 - [parceiros e comissões](admin/comercial/gerenciar-parceiros.md)
 - [moderar solicitações de orçamento](admin/comercial/moderar-solicitacoes-de-orcamento.md)
+- [cadastrar vagas, áreas e contratantes](admin/comercial/cadastrar-vagas-areas-e-contratantes.md)
+- [receber por Pix na sua chave](admin/comercial/receber-por-pix-na-sua-chave.md)
 
 ### portal
 - [aprovações e denúncias](admin/portal/aprovacoes-e-denuncias.md)
