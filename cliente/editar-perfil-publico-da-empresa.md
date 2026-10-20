@@ -1,6 +1,6 @@
 ---
 id: cliente-editar-perfil-publico-empresa
-titulo: atualizar as informações públicas da empresa
+titulo: "atualizar os contatos da empresa"
 publico:
   - cliente
 modulo: guia-comercial
@@ -15,22 +15,24 @@ validacao: docs-e-codigo
 ---
 
 ## objetivo
-atualizar descrição, logo e contatos do perfil da empresa que visitantes veem.
+atualizar WhatsApp, e-mail e site do perfil da empresa que visitantes veem.
 
 ## pré-requisitos
 - ter vínculo ativo com a empresa no portal.
 - estar na área de cliente autenticada. não há instruções de login neste artigo.
 
+## veja também
+- para trocar a imagem do logo, veja o artigo "trocar o logo da empresa".
+- para mudar o texto que explica o que a empresa faz, veja o artigo "escrever a descrição da empresa".
+
 ## passos
 
 1. No menu da esquerda da sua área, na parte `Minha conta`, clique em `Minha empresa` (`/minha-conta/minha-empresa`). [guia=menu:/minha-conta/minha-empresa]
-2. No quadro `Identidade`, clique em `Adicionar logo` e escolha a imagem da logo. [guia=empresa.logo]
-3. Escreva em `Descrição da empresa` o que sua empresa faz. [guia=empresa.descricao]
-4. No quadro `Contatos`, preencha o `WhatsApp`. [guia=empresa:whatsapp]
-5. Preencha o `E-mail de contato`. [guia=empresa:email]
-6. Preencha o `Site`. [guia=empresa:site]
-7. Confira o que escreveu. Esses dados aparecem em tudo o que você publica no portal. [guia=empresa.formulario]
-8. Clique em `Salvar`. Aparece a mensagem `Dados atualizados em todas as suas seções.` [guia=empresa.salvar]
+2. No quadro `Contatos`, preencha o `WhatsApp`. [guia=empresa:whatsapp]
+3. Preencha o `E-mail de contato`. [guia=empresa:email]
+4. Preencha o `Site`. [guia=empresa:site]
+5. Confira o que escreveu. Esses dados aparecem em tudo o que você publica no portal. [guia=empresa.formulario]
+6. Clique em `Salvar`. Aparece a mensagem `Dados atualizados em todas as suas seções.` [guia=empresa.salvar]
 
 ## resultado esperado
 a área do cliente confirma o salvamento e, ao recarregar, os dados continuam lá. a tela lista onde o dado vale (`Vagas de Emprego`, `Classificados`). as informações atualizadas passam a compor o perfil público, respeitando o tempo de atualização da página.

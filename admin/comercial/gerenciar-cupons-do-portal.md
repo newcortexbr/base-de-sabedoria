@@ -22,24 +22,24 @@ aqui você cria, muda e apaga cupons de qualquer empresa do Guia, em nome do loj
 
 - Ter acesso de administrador ao painel do portal.
 
+## veja também
+- para mudar um cupom, veja o artigo "editar um cupom do portal".
+- para apagar um cupom, veja o artigo "remover um cupom do portal".
+
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Cupons de Desconto`. [guia=menu:/painel/cupons] [t=9]
-2. Veja na lista a empresa, o código, o desconto e a validade de cada cupom. Cupom vencido aparece marcado. [guia=menu:/painel/cupons]
-3. Para criar, clique em `Novo cupom`. [guia=cupons.novo] [t=22]
-4. Escolha a `Empresa`. Cada empresa só pode ter um cupom; por isso, as que já têm não aparecem na lista. [guia=cupons.empresa] [t=25]
-5. Envie a `Foto de capa do cupom`. [guia=cupons.foto] [t=28]
-6. Escreva o `Código do cupom *`, só com letras e números. [guia=cupons.codigo] [t=31]
-7. Escreva o `Desconto (texto exibido) *`, que aparece no selo (por exemplo, 10% off). [guia=cupons.desconto-texto] [t=33]
-8. Escreva a `Descrição do cupom`. [guia=cupons.descricao] [t=35]
-9. Escreva as `Condições de uso`. [guia=cupons.condicoes] [t=39]
-10. Escolha o `Tipo de desconto` (`Percentual (%)` ou `Valor fixo (R$)`). [guia=cupons.tipo] [t=41]
-11. Informe o `Valor`. [guia=cupons.valor] [t=43]
-12. Escolha a `Validade`. [guia=cupons.validade] [t=44]
-13. Clique em `Salvar cupom`. [guia=cupons.salvar] [t=46]
-14. Para mudar um cupom, clique em `Editar` na linha do cupom que você quer. [guia=cupons.editar] [t=49]
-15. Para apagar, clique em `Remover` na linha dele. [guia=cupons.remover]
-16. Confirme na janela que o navegador abre. A empresa continua no Guia. [guia=cupons.remover]
+2. Para criar, clique em `Novo cupom`. [guia=cupons.novo] [t=22]
+3. Escolha a `Empresa`. Cada empresa só pode ter um cupom; por isso, as que já têm não aparecem na lista. [guia=cupons.empresa] [t=25]
+4. Envie a `Foto de capa do cupom`. [guia=cupons.foto] [t=28]
+5. Escreva o `Código do cupom *`, só com letras e números. [guia=cupons.codigo] [t=31]
+6. Escreva o `Desconto (texto exibido) *`, que aparece no selo (por exemplo, 10% off). [guia=cupons.desconto-texto] [t=33]
+7. Escreva a `Descrição do cupom`. [guia=cupons.descricao] [t=35]
+8. Escreva as `Condições de uso`. [guia=cupons.condicoes] [t=39]
+9. Escolha o `Tipo de desconto` (`Percentual (%)` ou `Valor fixo (R$)`). [guia=cupons.tipo] [t=41]
+10. Informe o `Valor`. [guia=cupons.valor] [t=43]
+11. Escolha a `Validade`. [guia=cupons.validade] [t=44]
+12. Clique em `Salvar cupom`. [guia=cupons.salvar] [t=46]
 
 ## resultado
 

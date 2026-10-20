@@ -20,6 +20,9 @@ aqui você cadastra e encontra os pontos turísticos da cidade, cada um com sua 
 ## pré-requisitos/permissões
 Entrar no painel como administrador, com o módulo de turismo ativo no portal.
 
+## veja também
+- para achar um ponto e mudar as fotos dele, veja o artigo "trocar as fotos de um ponto turístico".
+
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Turístico / Eventos` e depois em `Pontos Turísticos`. [guia=menu:/painel/turismo/pontos] [t=7]
@@ -32,10 +35,6 @@ Entrar no painel como administrador, com o módulo de turismo ativo no portal.
 8. Informe os horários de funcionamento de cada dia. Marque `Fechado` ou `24 horas` quando for o caso. [guia=pontos-novo.horarios] [t=57]
 9. Se quiser, adicione mais fotos ou vídeos do YouTube na `Galeria de fotos e vídeos`. [guia=galeria.adicionar-fotos] [t=69]
 10. Clique em `Cadastrar ponto`. [guia=pontos-novo.cadastrar] [t=80]
-11. Para achar um ponto na lista, escreva o nome no campo `Buscar ponto turístico...`. [guia=pontos.campo-busca]
-12. Clique em `Buscar`. [guia=pontos.buscar]
-13. Para mudar as fotos de um ponto, clique em `Editar` na linha do ponto que você quer. [guia=pontos.editar]
-14. Use a parte `Galeria de fotos e vídeos` para trocar as fotos. [guia=galeria.adicionar-fotos]
 
 ## resultado
 A listagem mostra nome, categoria, cidade e status. Um ponto pode ter imagens e a galeria deve ser gerenciada pela tela correspondente, não por nomes de arquivo improvisados.

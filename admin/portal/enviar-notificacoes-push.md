@@ -22,21 +22,21 @@ aqui você envia avisos para quem aceitou receber e vê quantas pessoas abriram.
 
 - Ter acesso de administrador ao painel do portal.
 
+## veja também
+- para mandar um aviso em outro dia e hora, veja o artigo "agendar uma notificação push para outro dia".
+- para conferir números e histórico dos avisos, veja o artigo "ver quantas pessoas recebem e abrem as notificações push".
+- para escolher se o site convida visitantes a receber avisos, veja o artigo "ligar ou desligar o convite para receber notificações push".
+- para cancelar um aviso que ainda não foi enviado, veja o artigo "cancelar uma notificação push agendada".
+
 ## passos
 
 1. No menu da esquerda, na parte `Sistema`, clique em `Notificações Push`. [guia=menu:/painel/notificacoes] [t=6]
-2. No topo da página, veja quantas pessoas aceitaram receber avisos, quantos avisos já foram enviados no mês e quantas pessoas abriram. [guia=notificacoes.resumo] [t=12]
-3. Para o site perguntar aos visitantes se querem receber avisos, marque a opção `Convidar visitantes a receber notificações`. Não precisa salvar: muda na hora. [guia=notificacoes.convidar] [t=22]
-4. Mais abaixo, no quadro `Histórico`, veja o que já foi enviado e quantas pessoas abriram. [guia=notificacoes.historico] [t=42]
-5. No quadro `Nova notificação`, escreva o `Título` (até 50 letras). [guia=notificacoes.titulo] [t=51]
-6. Escreva a `Mensagem` (até 120 letras). [guia=notificacoes.mensagem] [t=54]
-7. Escreva o `Link`, que é o endereço completo da página que vai abrir (começa com `https://` ou `http://`). Ao lado, a prévia mostra como o aviso vai aparecer no celular. [guia=notificacoes.link] [t=57]
-8. Em `Quando`, escolha `Agora` ou `Agendar`. [guia=notificacoes.quando] [t=72]
-9. Se escolheu `Agendar`, informe a `Data`. [guia=notificacoes.data] [t=74]
-10. Informe também a `Hora`. [guia=notificacoes.hora]
-11. Clique no botão `Enviar para…` (ou `Agendar para…`), que mostra quantas pessoas vão receber. [guia=notificacoes.enviar] [t=79]
-12. Confirme na janela que aparece. Depois de enviado, o aviso não pode ser desfeito. [guia=notificacoes.enviar]
-13. Um aviso agendado ainda pode ser cancelado no quadro `Histórico`, no botão `Cancelar` da linha dele. [guia=notificacoes.cancelar]
+2. No quadro `Nova notificação`, escreva o `Título` (até 50 letras). [guia=notificacoes.titulo] [t=51]
+3. Escreva a `Mensagem` (até 120 letras). [guia=notificacoes.mensagem] [t=54]
+4. Escreva o `Link`, que é o endereço completo da página que vai abrir (começa com `https://` ou `http://`). Ao lado, a prévia mostra como o aviso vai aparecer no celular. [guia=notificacoes.link] [t=57]
+5. Em `Quando`, deixe marcado `Agora`. [guia=notificacoes.quando]
+6. Clique no botão `Enviar para…`, que mostra quantas pessoas vão receber. [guia=notificacoes.enviar]
+7. Confirme na janela que aparece. Depois de enviado, o aviso não pode ser desfeito. [guia=notificacoes.enviar]
 
 ## resultado
 

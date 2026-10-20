@@ -25,13 +25,13 @@ Entrar no painel como administrador. Para artigos e turismo, veja os artigos pr�
 3. Na janela, escreva o `Nome` da categoria. [guia=noticias-categorias.nome]
 4. Escolha a `Cor` (pelo seletor de cor ou por uma das bolinhas logo abaixo). [guia=noticias-categorias.cor]
 5. Clique em `Salvar`. Se aparecer uma mensagem de erro, leia antes de tentar de novo. [guia=noticias-categorias.salvar]
-6. Para as subcategorias, no mesmo menu `Notícias`, clique em `Gerenciar Subcategorias`. [guia=menu:/painel/noticias/subcategorias]
-7. Antes de excluir ou desligar uma categoria, leia o aviso que aparece sobre o que vai ser afetado. [guia=noticias-categorias.excluir]
 
 ## resultado
 cada conteúdo usa categorias do seu módulo. Categoria inativa no Guia esconde empresas vinculadas; essa regra específica não deve ser extrapolada para categorias editoriais.
 
 ## desvios
+- As subcategorias ficam no mesmo menu `Notícias`, em `Gerenciar Subcategorias`.
+- Antes de excluir ou desligar uma categoria, leia o aviso que aparece sobre o que vai ser afetado.
 - Categorias de Notícias, Artigos, Turismo e Guia são catálogos distintos.
 - Nome repetido em categoria/subcategoria gera recusa; não crie variação automática para contornar.
 - A tela de categoria de Notícias não oferece mais marcador de destaque nem campo de ordem.

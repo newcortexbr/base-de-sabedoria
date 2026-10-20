@@ -23,6 +23,9 @@ aqui você acha, muda e apaga os anúncios de classificados do portal. Vagas de 
 - Ter acesso administrativo ao portal.
 - O módulo de classificados estar ativo.
 
+## veja também
+- para apagar um anúncio, veja o artigo "excluir um anúncio classificado".
+
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Classificados` e depois em `Listar Anúncios`. [guia=menu:/painel/classificados]
@@ -30,8 +33,6 @@ aqui você acha, muda e apaga os anúncios de classificados do portal. Vagas de 
 3. Se quiser, escolha a situação do anúncio. [guia=classificados.situacao]
 4. Clique em `Filtrar`. [guia=classificados.filtrar]
 5. Para mudar um anúncio, clique em `Editar` na linha do anúncio que você quer. [guia=classificados.editar]
-6. Para apagar, clique em `Excluir` na linha do anúncio. [guia=classificados.excluir]
-7. Leia a pergunta que o navegador abre: a exclusão é definitiva. Só então confirme. [guia=classificados.excluir]
 
 ## resultado
 

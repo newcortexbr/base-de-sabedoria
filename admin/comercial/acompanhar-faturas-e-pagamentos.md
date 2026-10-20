@@ -23,6 +23,12 @@ aqui você consulta as faturas dos clientes e vê o que já foi pago. Ver a fatu
 - Ter acesso administrativo.
 - Identificar o cliente ou a fatura sem compartilhar dados pessoais com a IA.
 
+## veja também
+- para reenviar o link de pagamento, veja o artigo "copiar o link de pagamento de uma fatura".
+- para cobrar um cliente pelo WhatsApp, veja o artigo "cobrar uma fatura pelo WhatsApp".
+- para mandar uma cobrança que ainda não foi enviada, veja o artigo "enviar agora a cobrança de uma fatura".
+- para marcar que o cliente pagou por fora, veja o artigo "marcar uma fatura como recebida por fora".
+
 ## passos
 
 1. No menu da esquerda, na parte `Comercial`, clique em `Financeiro`. [guia=menu:/painel/financeiro] [t=9]
@@ -31,10 +37,6 @@ aqui você consulta as faturas dos clientes e vê o que já foi pago. Ver a fatu
 4. Use os filtros de datas, de módulo e `Como paga` para reduzir a lista. [guia=financeiro.filtros] [t=42]
 5. Para achar uma fatura, escreva o nome do cliente em `Buscar por cliente…`. [guia=financeiro.busca] [t=48]
 6. Confira as informações da linha da fatura antes de fazer qualquer coisa: cliente, plano, se a cobrança já foi enviada, vencimento e valor. [guia=financeiro.fatura] [t=55]
-7. Para reenviar o link, clique em `Copiar link de pagamento` na linha da fatura. [guia=financeiro.copiar-link] [t=60]
-8. Para cobrar pelo WhatsApp, clique em `Cobrar pelo WhatsApp` na linha da fatura: abre a conversa com a mensagem pronta. [guia=financeiro.cobrar] [t=65]
-9. Se a linha avisar `Cobrança ainda não enviada`, clique em `Enviar agora` para mandar a cobrança. Em caso de dúvida, peça ajuda a uma pessoa. [guia=financeiro.enviar-agora]
-10. Se o cliente pagou por fora (dinheiro, transferência), use só o botão `Já recebi`, quando ele aparecer na linha. O plano continua ativo. [guia=financeiro.ja-recebi] [t=72]
 
 ## resultado
 

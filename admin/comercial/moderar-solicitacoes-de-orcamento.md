@@ -22,6 +22,9 @@ aprovar ou reprovar os pedidos de orçamento enviados por visitantes.
 
 - Ter acesso de administrador ao painel do portal.
 
+## veja também
+- para cuidar de vários pedidos juntos, veja o artigo "aprovar ou reprovar vários pedidos de orçamento de uma vez".
+
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Orçamentos Online` e depois em `Todas as Solicitações`. [guia=menu:/painel/orcamentos/categorias] [t=85]
@@ -31,8 +34,6 @@ aprovar ou reprovar os pedidos de orçamento enviados por visitantes.
 5. Na janela de detalhes, clique em `Aprovar e enviar` para mandar o pedido às empresas daquela categoria. [guia=orcamentos-categorias.detalhe-aprovar] [t=130]
 6. Se o pedido for inadequado, clique em `Reprovar` na mesma janela: o pedido não vai a ninguém. [guia=orcamentos-categorias.detalhe-reprovar] [t=168]
 7. Sem abrir os detalhes, também dá para usar o visto (aprovar) ou o X (reprovar) na linha do pedido. [guia=orcamentos-categorias.aprovar]
-8. Para cuidar de vários pedidos de uma vez, marque a caixinha de cada linha. [guia=orcamentos-categorias.selecionar] [t=168]
-9. Use os botões que aparecem na barra de cima para aprovar, reprovar, encerrar ou excluir todos juntos. [guia=orcamentos-categorias.lote] [t=171]
 
 ## resultado
 

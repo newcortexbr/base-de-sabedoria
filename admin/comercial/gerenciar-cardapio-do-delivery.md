@@ -25,6 +25,9 @@ aqui você cadastra os produtos que o cliente pode pedir com entrega, com tamanh
 - O módulo Guia Comercial estar disponível no portal.
 - A categoria da empresa ter `Delivery` marcado em `Gerenciar Categorias`.
 
+## veja também
+- para criar tamanhos e adicionais (grupos de opções), veja o artigo "criar tamanhos e adicionais de um produto do delivery".
+
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas]
@@ -42,17 +45,6 @@ aqui você cadastra os produtos que o cliente pode pedir com entrega, com tamanh
 13. Marque `Destaque` se quiser mais visibilidade. [guia=delivery-cardapio.destaque] [t=61]
 14. Envie a foto do produto. [guia=delivery-cardapio.foto] [t=64]
 15. Clique em `Criar produto`. [guia=delivery-cardapio.salvar-produto] [t=66]
-16. Para tamanhos e adicionais, clique em `Editar` na linha do produto que você quer. Os grupos de opções só existem depois que o produto foi criado. [guia=delivery-cardapio.editar-produto] [t=69]
-17. Em `Grupos de opções`, clique em `+ Novo grupo`. [guia=delivery-cardapio.novo-grupo]
-18. Escreva o nome do grupo (por exemplo, Tamanho). [guia=delivery-cardapio.nome-grupo]
-19. Em `Mín. seleções`, deixe 0 se o grupo for opcional ou 1 se for obrigatório. [guia=delivery-cardapio.minimo]
-20. Em `Máx. seleções`, informe o limite de escolhas. [guia=delivery-cardapio.maximo]
-21. Clique em `Criar grupo`. [guia=delivery-cardapio.criar-grupo]
-22. No grupo criado, clique em `+ Adicionar opção`. [guia=delivery-cardapio.adicionar-opcao]
-23. Escreva o nome da opção. [guia=delivery-cardapio.nome-opcao]
-24. Informe o preço: 0 = incluso; com valor = custo a mais. [guia=delivery-cardapio.preco-opcao]
-25. Clique em `Salvar` ao lado da opção. Repita os três últimos passos para cada opção. [guia=delivery-cardapio.salvar-opcao]
-26. Grupos e opções são salvos na hora. Se mudou os dados do próprio produto, clique em `Salvar alterações`. [guia=delivery-cardapio.salvar-produto]
 
 ## resultado
 

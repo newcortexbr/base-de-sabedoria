@@ -1,0 +1,50 @@
+---
+id: publicacao-e-visibilidade-artigos
+titulo: "ver se um artigo está no ar"
+publico:
+  - administrador do portal
+  - jornalista
+  - colunista
+modulo: Notícias, Artigos, Turismo e Agenda de Eventos
+categoria: conteúdo
+aba: não-se-aplica
+tipo_problema: visibilidade
+status: rascunho-documental
+revisado_em: 2026-10-19
+validacao: docs-e-codigo
+---
+
+## objetivo
+aqui você vê se um artigo está no ar, guardado, agendado ou arquivado.
+
+## pré-requisitos/permissões
+Entrar no painel como administrador, ou na área do cliente se você for jornalista ou colunista.
+
+## passos
+
+1. Para artigos, no menu `Artigos`, clique em `Lista de Artigos`. [guia=menu:/painel/blog]
+2. Na coluna `Status`, veja a situação. Quando houver, compare também a data de publicação ou de término. [guia=noticias.status-linha]
+3. Em artigos, as situações são `Rascunho`, `Agendado`, `Publicado` e `Arquivado` (fora do ar). [guia=blog.status-linha]
+4. Para ter certeza, abra o conteúdo no site do portal, como um visitante faria. [guia=fora]
+
+## resultado
+Você sabe a situação do artigo.
+
+## desvios
+- `Publicado` em Notícias pode estar agendado para o futuro.
+- Evento ativo pode estar encerrado pela data; inativo é outra condição.
+- A home pode ter blocos configurados para mostrar somente destaques e sumir quando não houver destaque.
+- Módulo desligado fica oculto, mas não apaga conteúdo.
+
+## quando pedir ajuda
+peça ajuda se o conteúdo estiver publicado, vigente e no módulo ativo, mas continuar ausente; informe módulo, rota e estado observado. Não altere configuração ou dados fora do seu papel.
+
+## fontes
+- `portal-cidade/frontend/src/app/painel/noticias/page.tsx:12` — notícia agendada.
+- `portal-cidade/frontend/src/app/painel/blog/page.tsx:27` — estados dos artigos.
+- `portal-cidade/frontend/src/app/painel/turismo/eventos/page.tsx:41` — estado de eventos.
+- `docs/PRODUCT.md:48` — bloco da home somente com destaques.
+- `docs/PRODUCT.md:180` — desligar módulo oculta sem apagar.
+
+## lacunas
+sem validação de navegador, ambiente ou conteúdo real. Visibilidade pública também depende de rotas, consultas e configuração por portal, não examinadas em runtime nesta tarefa.

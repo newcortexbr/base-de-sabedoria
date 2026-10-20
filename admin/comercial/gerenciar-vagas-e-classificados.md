@@ -23,6 +23,9 @@ aqui você acha, muda e apaga as vagas de emprego do portal. Anúncios de classi
 - Ter acesso administrativo ao portal.
 - O módulo correspondente estar ativo.
 
+## veja também
+- para apagar uma vaga, veja o artigo "excluir uma vaga de emprego".
+
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Vagas de Emprego` e depois em `Listar Vagas`. [guia=menu:/painel/vagas] [t=4]
@@ -30,8 +33,6 @@ aqui você acha, muda e apaga as vagas de emprego do portal. Anúncios de classi
 3. Se quiser, escolha a situação da vaga. [guia=vagas.situacao] [t=34]
 4. Clique em `Filtrar`. [guia=vagas.filtrar] [t=36]
 5. Para mudar uma vaga, clique em `Editar` na linha da vaga que você quer. [guia=vagas.editar] [t=42]
-6. Para apagar, clique em `Excluir` na linha da vaga. [guia=vagas.excluir]
-7. Leia a pergunta que o navegador abre: a exclusão é definitiva. Só então confirme. [guia=vagas.excluir]
 
 ## resultado
 

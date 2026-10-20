@@ -24,6 +24,9 @@ aqui você mostra os quartos de hotel ou pousada, com fotos, comodidades e preç
 - O módulo Guia Comercial estar disponível no portal.
 - A categoria da empresa ter `Quartos` marcado em `Gerenciar Categorias`.
 
+## veja também
+- para enviar fotos de um quarto, veja o artigo "colocar fotos em um quarto ou suíte".
+
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas]
@@ -41,8 +44,6 @@ aqui você mostra os quartos de hotel ou pousada, com fotos, comodidades e preç
 13. Clique no `+` ao lado para adicionar a comodidade. Repita para cada item. [guia=guia-empresas-quartos.comodidade-adicionar] [t=93]
 14. Se quiser, mude a `Ordem` do quarto na seção. [guia=guia-empresas-quartos.ordem] [t=101]
 15. Clique em `Salvar quarto`. [guia=guia-empresas-quartos.salvar] [t=104]
-16. Para as fotos, clique em `Fotos` na linha do quarto que você quer. [guia=guia-empresas-quartos.fotos] [t=118]
-17. Clique em `+ Adicionar fotos` (também aceita vídeo do YouTube). [guia=galeria.adicionar-fotos] [t=121]
 
 ## resultado
 
