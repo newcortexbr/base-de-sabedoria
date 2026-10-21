@@ -13,6 +13,9 @@ tipo_problema:
 status: rascunho-documental
 revisado_em: 2026-10-21
 validacao: docs-e-codigo
+videos:
+  - F136_v1JyRY
+  - R9FCgunNxFE
 ---
 
 ## objetivo
@@ -48,16 +51,16 @@ você entra no Extrator com a sua conta e os seus créditos.
 se você entrou e não recebeu os 500 créditos de boas-vindas, abra um chamado em `Suporte`. a equipe tem uma lista de contas sem os créditos de boas-vindas.
 
 ## fontes
-- `area-clientes/src/domain/acesso/sso-rps.ts:18`
-- `area-clientes/src/domain/acesso/sso-rps.ts:140`
-- `area-clientes/docs/SSO-EXTRATOR.md:49`
-- `area-clientes/docs/SSO-EXTRATOR.md:62`
-- `area-clientes/docs/SSO-EXTRATOR.md:66`
-- `area-clientes/docs/SSO-EXTRATOR.md:238`
-- `area-clientes/src/app/(cliente)/sso/autorizar/route.ts:122`
-- `area-clientes/src/app/(cliente)/sso/autorizar/route.ts:123`
-- `area-clientes/src/app/(cliente)/sso/autorizar/route.ts:124`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:167`
+- `src/domain/acesso/sso-rps.ts:18`
+- `src/domain/acesso/sso-rps.ts:140`
+- `docs/SSO-EXTRATOR.md:49`
+- `docs/SSO-EXTRATOR.md:62`
+- `docs/SSO-EXTRATOR.md:66`
+- `docs/SSO-EXTRATOR.md:238`
+- `src/app/(cliente)/sso/autorizar/route.ts:122`
+- `src/app/(cliente)/sso/autorizar/route.ts:123`
+- `src/app/(cliente)/sso/autorizar/route.ts:124`
+- `src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:167`
 
 ## lacunas
 - o Extrator vale para licença de qualquer produto (DEC-517), por isso este artigo não tem `produto`. o cartão, porém, só aparece se a equipe cadastrou a ferramenta no seu produto.

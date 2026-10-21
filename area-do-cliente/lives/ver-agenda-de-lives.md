@@ -44,15 +44,15 @@ você vê a lista `Próximas lives` ou `Lives do dia`, com data, horário e o bo
 se a página de lives der erro, abra um chamado em `Suporte`.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/labels.ts:180`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/page.tsx:94`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/page.tsx:102`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:157`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:328`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:385`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:390`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:400`
-- `area-clientes/src/app/(cliente)/inicio/page.tsx:476`
+- `src/app/(cliente)/negocios/[licenseId]/labels.ts:180`
+- `src/app/(cliente)/negocios/[licenseId]/lives/page.tsx:94`
+- `src/app/(cliente)/negocios/[licenseId]/lives/page.tsx:102`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:157`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:328`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:385`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:390`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:400`
+- `src/app/(cliente)/inicio/page.tsx:476`
 
 ## lacunas
 - as lives são cadastradas por produto; não foi conferido se todas aparecem para todos os negócios do mesmo produto (a lógica indica que sim).

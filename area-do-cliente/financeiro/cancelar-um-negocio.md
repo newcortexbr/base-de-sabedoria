@@ -26,7 +26,7 @@ saber como pedir o cancelamento de um negócio e o que acontece depois.
 
 - Não existe botão de cancelar na Área do Cliente. Só a equipe da New Córtex cancela um negócio.
 - Ao cancelar, as duas cobranças futuras daquele negócio (reserva territorial e mensalidade) são canceladas no Asaas. Cancelar não devolve dinheiro já pago; reembolso é outro pedido (veja `ac-reembolso`).
-- O negócio passa a aparecer como "Cancelada" e a cidade deixa de ser sua.
+- O negócio continua na lista de `Meus negócios`, com a etiqueta `Inativo` e a frase "Fale com o suporte sobre este negócio.", e a cidade deixa de ser sua.
 - Atraso no pagamento nunca cancela sozinho: ele só suspende (veja `ac-atraso-e-suspensao`).
 - Para cancelar tudo e apagar a conta, veja `ac-encerrar-conta`.
 
@@ -51,7 +51,8 @@ sempre: o cancelamento é feito pela equipe.
 - `docs/DECISIONS.md:52` — DEC-26: cancelamento de licença é exclusivo da equipe (ADMIN).
 - `docs/DECISIONS.md:307` — DEC-114: cancelar a licença cancela as duas assinaturas no provedor, sem estorno.
 - `docs/DECISIONS.md:412` — DEC-214: nenhum caminho automático cancela.
-- `src/app/(cliente)/negocios/[licenseId]/labels.ts:17` — rótulo "Cancelada".
+- `src/app/(cliente)/negocios/page.tsx:45` — negócio não ativo nem suspenso aparece como `Inativo`.
+- `src/domain/licenca/queries.ts:103` — a lista do cliente traz todas as licenças, inclusive canceladas.
 
 ## lacunas
 

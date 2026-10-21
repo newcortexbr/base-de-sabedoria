@@ -35,8 +35,8 @@ a gravação abre no YouTube, em uma nova aba.
 se você precisa de uma gravação que não aparece, abra um chamado em `Suporte` com a data e o título da live.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:122`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:130`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:122`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:130`
 
 ## lacunas
 não há prazo no código para a gravação ser publicada depois da live.

@@ -40,14 +40,14 @@ a tela mostra:
 se a situação mostrada não bater com o que você sabe (por exemplo, pagamento feito e negócio suspenso), abra um chamado em `Suporte`.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/page.tsx:70`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/page.tsx:100`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/page.tsx:154`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/page.tsx:175`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/page.tsx:182`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/page.tsx:186`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/page.tsx:198`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/page.tsx:220`
+- `src/app/(cliente)/negocios/[licenseId]/page.tsx:70`
+- `src/app/(cliente)/negocios/[licenseId]/page.tsx:100`
+- `src/app/(cliente)/negocios/[licenseId]/page.tsx:154`
+- `src/app/(cliente)/negocios/[licenseId]/page.tsx:175`
+- `src/app/(cliente)/negocios/[licenseId]/page.tsx:182`
+- `src/app/(cliente)/negocios/[licenseId]/page.tsx:186`
+- `src/app/(cliente)/negocios/[licenseId]/page.tsx:198`
+- `src/app/(cliente)/negocios/[licenseId]/page.tsx:220`
 
 ## lacunas
 não testado em tela.

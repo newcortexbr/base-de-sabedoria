@@ -37,11 +37,11 @@ você sabe que cada nova cidade é uma nova compra, que cai na mesma conta.
 para negociar várias cidades ou tirar dúvidas de preço, fale com o comercial. para um negócio pago que não apareceu, abra um chamado em `Suporte`.
 
 ## fontes
-- `area-clientes/src/app/(public)/comprar/ComprarPage.tsx:76`
-- `area-clientes/docs/REQUIREMENTS.md:87`
-- `area-clientes/docs/REQUIREMENTS.md:128`
-- `area-clientes/docs/PRODUCT.md:48`
-- `area-clientes/src/app/(public)/indisponivel/page.tsx:134`
+- `src/app/(public)/comprar/ComprarPage.tsx:76`
+- `docs/REQUIREMENTS.md:87`
+- `docs/REQUIREMENTS.md:128`
+- `docs/PRODUCT.md:48`
+- `src/app/(public)/indisponivel/page.tsx:134`
 
 ## lacunas
 - não encontrado no código das telas do cliente nenhum link para `/comprar`. o endereço da página de vendas não foi confirmado.

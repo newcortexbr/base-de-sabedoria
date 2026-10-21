@@ -1,0 +1,857 @@
+{
+ "rota": "/negocios/[licenseId]/lives",
+ "url": "/negocios/06bd6b46-cdf0-4daf-87da-b2401bf39242/lives",
+ "titulo": "Área do Cliente New Córtex",
+ "status_http": 200,
+ "itens": [
+  {
+   "tipo": "link",
+   "texto": "Meus negócios",
+   "regiao": "caminho no topo",
+   "caixa": [
+    272,
+    20,
+    97,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Portal da Cidade · Linhares/ES",
+   "regiao": "caminho no topo",
+   "caixa": [
+    404,
+    20,
+    196,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Lives",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    100,
+    1080,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    110,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Encontros ao vivo para aprender, tirar dúvidas e evoluir seu portal.",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    138,
+    666,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus negócios",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    151,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "GUIA DAS LIVES Participe dos nossos encontros ao vivo.",
+   "regiao": "conteúdo",
+   "caixa": [
+    286,
+    191,
+    540,
+    303
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Visão geral",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    192,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha plataforma",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    233,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "ASSISTA ANTES DE PARTICIPAR",
+   "regiao": "conteúdo",
+   "caixa": [
+    848,
+    261,
+    477,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Treinamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    274,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Como funcionam as lives.",
+   "regiao": "conteúdo",
+   "caixa": [
+    848,
+    287,
+    477,
+    57
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ferramentas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    315,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Veja onde consultar a agenda, receber avisos e acessar o encontro no horário marcado.",
+   "regiao": "conteúdo",
+   "caixa": [
+    848,
+    353,
+    477,
+    39
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Lives",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    356,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Suporte",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    397,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Assistir ao vídeo explicativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    848,
+    401,
+    192,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Pagamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    438,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "PRÓXIMA LIVE",
+   "regiao": "conteúdo",
+   "caixa": [
+    434,
+    549,
+    592,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Live: como fechar seus primeiros anunciantes",
+   "regiao": "conteúdo",
+   "caixa": [
+    434,
+    572,
+    896,
+    26
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Segunda-feira, 26 de outubro · 19h · horário de Brasília",
+   "regiao": "conteúdo",
+   "caixa": [
+    434,
+    602,
+    592,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "26 OUT Treinamento ao vivo no YouTube",
+   "regiao": "conteúdo",
+   "caixa": [
+    434,
+    626,
+    592,
+    26
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Acessar live",
+   "regiao": "conteúdo",
+   "caixa": [
+    434,
+    661,
+    133,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Adicionar à agenda",
+   "regiao": "conteúdo",
+   "caixa": [
+    575,
+    661,
+    175,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Acessar suporte",
+   "regiao": "menu lateral",
+   "caixa": [
+    26,
+    726,
+    130,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Inscreva-se e acompanhe as próximas lives",
+   "regiao": "conteúdo",
+   "caixa": [
+    343,
+    748,
+    807,
+    17
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Inscrever-se nas lives",
+   "regiao": "conteúdo",
+   "caixa": [
+    1164,
+    757,
+    169,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Conecte seu Google Agenda para receber os encontros e as alterações de horário. Para guardar só uma live, use “Adicionar à agenda” no cartão",
+   "regiao": "conteúdo",
+   "caixa": [
+    343,
+    769,
+    592,
+    37
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "ME Mariana Souza Exemplo Minha conta",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    775,
+    207,
+    63
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Agenda de lives",
+   "regiao": "conteúdo",
+   "caixa": [
+    272,
+    847,
+    135,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    848,
+    207,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Selecione uma data para ver o encontro daquele dia.",
+   "regiao": "conteúdo",
+   "caixa": [
+    1054,
+    851,
+    298,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Mês anterior",
+   "regiao": "conteúdo",
+   "caixa": [
+    962,
+    902,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Próximo mês",
+   "regiao": "conteúdo",
+   "caixa": [
+    998,
+    902,
+    30,
+    30
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Próximas lives",
+   "regiao": "conteúdo",
+   "caixa": [
+    1080,
+    902,
+    97,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Outubro de 2026",
+   "regiao": "conteúdo",
+   "caixa": [
+    290,
+    908,
+    114,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Live: como fechar seus primeiros anunciantes 26 OUT · 19h · Brasília",
+   "regiao": "conteúdo",
+   "caixa": [
+    1080,
+    935,
+    254,
+    74
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "1",
+   "regiao": "conteúdo",
+   "caixa": [
+    608,
+    968,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "2",
+   "regiao": "conteúdo",
+   "caixa": [
+    714,
+    968,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "3",
+   "regiao": "conteúdo",
+   "caixa": [
+    820,
+    968,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "4",
+   "regiao": "conteúdo",
+   "caixa": [
+    926,
+    968,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "5",
+   "regiao": "conteúdo",
+   "caixa": [
+    290,
+    1018,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "6",
+   "regiao": "conteúdo",
+   "caixa": [
+    396,
+    1018,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "7",
+   "regiao": "conteúdo",
+   "caixa": [
+    502,
+    1018,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "8",
+   "regiao": "conteúdo",
+   "caixa": [
+    608,
+    1018,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "9",
+   "regiao": "conteúdo",
+   "caixa": [
+    714,
+    1018,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "10",
+   "regiao": "conteúdo",
+   "caixa": [
+    820,
+    1018,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "11",
+   "regiao": "conteúdo",
+   "caixa": [
+    926,
+    1018,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Live: novidades do painel de outubro 02 NOV · 19h · Brasília",
+   "regiao": "conteúdo",
+   "caixa": [
+    1080,
+    1019,
+    254,
+    74
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "12",
+   "regiao": "conteúdo",
+   "caixa": [
+    290,
+    1068,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "13",
+   "regiao": "conteúdo",
+   "caixa": [
+    396,
+    1068,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "14",
+   "regiao": "conteúdo",
+   "caixa": [
+    502,
+    1068,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "15",
+   "regiao": "conteúdo",
+   "caixa": [
+    608,
+    1068,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "16",
+   "regiao": "conteúdo",
+   "caixa": [
+    714,
+    1068,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "17",
+   "regiao": "conteúdo",
+   "caixa": [
+    820,
+    1068,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "18",
+   "regiao": "conteúdo",
+   "caixa": [
+    926,
+    1068,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "19",
+   "regiao": "conteúdo",
+   "caixa": [
+    290,
+    1118,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "20",
+   "regiao": "conteúdo",
+   "caixa": [
+    396,
+    1118,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "21",
+   "regiao": "conteúdo",
+   "caixa": [
+    502,
+    1118,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "22",
+   "regiao": "conteúdo",
+   "caixa": [
+    608,
+    1118,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "23",
+   "regiao": "conteúdo",
+   "caixa": [
+    714,
+    1118,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "24",
+   "regiao": "conteúdo",
+   "caixa": [
+    820,
+    1118,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "25",
+   "regiao": "conteúdo",
+   "caixa": [
+    926,
+    1118,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "26",
+   "regiao": "conteúdo",
+   "caixa": [
+    290,
+    1168,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "27",
+   "regiao": "conteúdo",
+   "caixa": [
+    396,
+    1168,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "28",
+   "regiao": "conteúdo",
+   "caixa": [
+    502,
+    1168,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "29",
+   "regiao": "conteúdo",
+   "caixa": [
+    608,
+    1168,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "30",
+   "regiao": "conteúdo",
+   "caixa": [
+    714,
+    1168,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "31",
+   "regiao": "conteúdo",
+   "caixa": [
+    820,
+    1168,
+    102,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Os dias com ponto azul têm live programada.",
+   "regiao": "conteúdo",
+   "caixa": [
+    290,
+    1226,
+    518,
+    31
+   ],
+   "linha": 0
+  }
+ ]
+}

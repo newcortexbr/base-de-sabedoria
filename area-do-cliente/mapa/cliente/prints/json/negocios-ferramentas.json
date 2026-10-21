@@ -1,0 +1,377 @@
+{
+ "rota": "/negocios/[licenseId]/ferramentas",
+ "url": "/negocios/06bd6b46-cdf0-4daf-87da-b2401bf39242/ferramentas",
+ "titulo": "Área do Cliente New Córtex",
+ "status_http": 200,
+ "itens": [
+  {
+   "tipo": "link",
+   "texto": "Meus negócios",
+   "regiao": "caminho no topo",
+   "caixa": [
+    272,
+    20,
+    97,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Portal da Cidade · Linhares/ES",
+   "regiao": "caminho no topo",
+   "caixa": [
+    404,
+    20,
+    196,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Ferramentas",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    100,
+    1080,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    110,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Acesse suas ferramentas e aprenda a usar cada uma delas.",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    138,
+    666,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus negócios",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    151,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Visão geral",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    192,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha plataforma",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    233,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Conheça suas ferramentas",
+   "regiao": "conteúdo",
+   "caixa": [
+    712,
+    266,
+    627,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Treinamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    274,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Veja para que serve cada solução, como acessá-la e onde encontrar as aulas de treinamento.",
+   "regiao": "conteúdo",
+   "caixa": [
+    712,
+    295,
+    592,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ferramentas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    315,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Lives",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    356,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Suporte",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    397,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Pagamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    438,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Suas ferramentas",
+   "regiao": "conteúdo",
+   "caixa": [
+    272,
+    448,
+    152,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "0 de 3 ferramentas disponíveis",
+   "regiao": "conteúdo",
+   "caixa": [
+    1169,
+    451,
+    183,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Em breve Extrator Maps Lista empresas do Google Maps da sua cidade para prospectar anunciantes. Acesso ainda não configurado Treinamento em ",
+   "regiao": "conteúdo",
+   "caixa": [
+    272,
+    489,
+    349,
+    494
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Em breve DadosPJ Consulta dados de empresas na Receita Federal (CNPJ, sócios, atividade). Acesso ainda não configurado Treinamento em prepar",
+   "regiao": "conteúdo",
+   "caixa": [
+    637,
+    489,
+    349,
+    494
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Em breve Gerador de propostas Monte propostas comerciais para anunciantes. Disponível em breve Treinamento em preparação",
+   "regiao": "conteúdo",
+   "caixa": [
+    1003,
+    489,
+    349,
+    494
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Acessar suporte",
+   "regiao": "menu lateral",
+   "caixa": [
+    26,
+    726,
+    130,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "ME Mariana Souza Exemplo Minha conta",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    775,
+    207,
+    63
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Extrator Maps",
+   "regiao": "conteúdo",
+   "caixa": [
+    287,
+    796,
+    319,
+    21
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "DadosPJ",
+   "regiao": "conteúdo",
+   "caixa": [
+    652,
+    796,
+    319,
+    21
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Gerador de propostas",
+   "regiao": "conteúdo",
+   "caixa": [
+    1018,
+    796,
+    319,
+    21
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Lista empresas do Google Maps da sua cidade para prospectar anunciantes.",
+   "regiao": "conteúdo",
+   "caixa": [
+    287,
+    826,
+    319,
+    39
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Consulta dados de empresas na Receita Federal (CNPJ, sócios, atividade).",
+   "regiao": "conteúdo",
+   "caixa": [
+    652,
+    826,
+    319,
+    39
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Monte propostas comerciais para anunciantes.",
+   "regiao": "conteúdo",
+   "caixa": [
+    1018,
+    826,
+    319,
+    39
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    848,
+    207,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "As aulas mostram o uso de cada ferramenta. Nenhuma chave de acesso é exibida nesta página.",
+   "regiao": "conteúdo",
+   "caixa": [
+    272,
+    1001,
+    592,
+    20
+   ],
+   "linha": 0
+  }
+ ]
+}

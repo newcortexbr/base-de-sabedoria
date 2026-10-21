@@ -25,7 +25,7 @@ entender por que o negócio ficou suspenso, o que para de funcionar e como reati
 ## passos
 1. No menu da esquerda, clique em `Meus negócios` (`/negocios`).
 2. No cartão com a etiqueta `Suspenso`, clique em `Regularizar pagamento`.
-3. Na tela de `Pagamentos` do negócio, veja a cobrança em aberto e pague.
+3. Na tela de `Pagamentos` do negócio, no cartão marcado `Suspenso` ou `Em atraso`, clique em `Regularizar pagamento` e pague na página que abre (veja `ac-pagar-cobranca-pendente`).
 4. Aguarde a confirmação do pagamento. Não é preciso avisar ninguém.
 
 ## resultado
@@ -46,15 +46,15 @@ entender por que o negócio ficou suspenso, o que para de funcionar e como reati
 se você pagou, o pagamento aparece como pago e o negócio continua `Suspenso`, abra um chamado em `Suporte`. se a suspensão foi por reembolso ou contestação no cartão, só a equipe resolve.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/negocios/page.tsx:43`
-- `area-clientes/src/app/(cliente)/negocios/page.tsx:244`
-- `area-clientes/src/app/(cliente)/negocios/page.tsx:277`
-- `area-clientes/src/app/(cliente)/inicio/page.tsx:235`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/page.tsx:102`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:52`
-- `area-clientes/docs/REQUIREMENTS.md:153`
-- `area-clientes/docs/REQUIREMENTS.md:348`
-- `area-clientes/src/domain/acesso/sso-rps.ts:120`
+- `src/app/(cliente)/negocios/page.tsx:43`
+- `src/app/(cliente)/negocios/page.tsx:244`
+- `src/app/(cliente)/negocios/page.tsx:277`
+- `src/app/(cliente)/inicio/page.tsx:235`
+- `src/app/(cliente)/negocios/[licenseId]/lives/page.tsx:102`
+- `src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:52`
+- `docs/REQUIREMENTS.md:153`
+- `docs/REQUIREMENTS.md:348`
+- `src/domain/acesso/sso-rps.ts:120`
 
 ## lacunas
 - a regra diz suspensão no 5º dia de atraso (rotina diária às 00:01); a tela diz "mais de 5 dias". o dia exato não foi testado.

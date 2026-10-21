@@ -13,6 +13,9 @@ tipo_problema:
 status: rascunho-documental
 revisado_em: 2026-10-21
 validacao: docs-e-codigo
+videos:
+  - JXWDV_IiAWQ
+  - IKdKLgi-e94
 ---
 
 ## objetivo
@@ -47,13 +50,13 @@ você entra no DadosPJ com a sua conta.
 se a tela de entrada ficar parada ou voltar para o login, abra um chamado em `Suporte`.
 
 ## fontes
-- `area-clientes/src/domain/acesso/sso-rps.ts:19`
-- `area-clientes/src/domain/acesso/sso-rps.ts:35`
-- `area-clientes/src/domain/acesso/sso-rps.ts:141`
-- `area-clientes/src/app/(cliente)/sso/autorizar/route.ts:122`
-- `area-clientes/src/app/(cliente)/sso/autorizar/route.ts:128`
-- `area-clientes/docs/SSO-RPS.md:1`
-- `area-clientes/docs/DECISIONS.md:726`
+- `src/domain/acesso/sso-rps.ts:19`
+- `src/domain/acesso/sso-rps.ts:35`
+- `src/domain/acesso/sso-rps.ts:141`
+- `src/app/(cliente)/sso/autorizar/route.ts:122`
+- `src/app/(cliente)/sso/autorizar/route.ts:128`
+- `docs/SSO-RPS.md:1`
+- `docs/DECISIONS.md:726`
 
 ## lacunas
 - vale para licença de qualquer produto, por isso não tem `produto`; o cartão só aparece se cadastrado no seu produto.

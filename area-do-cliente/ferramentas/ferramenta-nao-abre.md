@@ -45,13 +45,13 @@ motivos que a tela `Não foi possível entrar` pode mostrar:
 se a etiqueta é `Disponível`, os pagamentos estão em dia e mesmo assim não abre, abra um chamado em `Suporte` com um print da tela.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:50`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:163`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:167`
-- `area-clientes/src/domain/conteudo/tools.ts:1`
-- `area-clientes/src/app/(cliente)/sso/autorizar/route.ts:120`
-- `area-clientes/src/app/(cliente)/sso/autorizar/route.ts:139`
-- `area-clientes/src/app/(cliente)/sso/autorizar/route.ts:141`
+- `src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:50`
+- `src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:163`
+- `src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:167`
+- `src/domain/conteudo/tools.ts:1`
+- `src/app/(cliente)/sso/autorizar/route.ts:120`
+- `src/app/(cliente)/sso/autorizar/route.ts:139`
+- `src/app/(cliente)/sso/autorizar/route.ts:141`
 
 ## lacunas
 não testado em tela.

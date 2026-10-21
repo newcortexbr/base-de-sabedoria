@@ -42,10 +42,10 @@ o negócio aparece depois da confirmação do pagamento, ou o suporte localiza a
 pagamento confirmado e nada na lista: abra um chamado com o comprovante, a cidade e o e-mail usado na compra.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/negocios/page.tsx:124`
-- `area-clientes/src/app/(cliente)/inicio/page.tsx:127`
-- `area-clientes/src/app/(cliente)/negocios/page.tsx:46`
-- `area-clientes/docs/REQUIREMENTS.md:128`
+- `src/app/(cliente)/negocios/page.tsx:124`
+- `src/app/(cliente)/inicio/page.tsx:127`
+- `src/app/(cliente)/negocios/page.tsx:46`
+- `docs/REQUIREMENTS.md:128`
 
 ## lacunas
 não foi conferido quanto tempo, na prática, leva entre o pagamento confirmado e o negócio aparecer.

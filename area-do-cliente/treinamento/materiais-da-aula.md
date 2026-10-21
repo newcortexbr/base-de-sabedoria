@@ -41,10 +41,10 @@ o arquivo abre ou é baixado no seu aparelho.
 se o arquivo não abrir mesmo depois de recarregar a página, abra um chamado em `Suporte` com o nome da aula e do arquivo.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/page.tsx:124`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/page.tsx:140`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/page.tsx:142`
-- `area-clientes/docs/DECISIONS.md:419`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/page.tsx:124`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/page.tsx:140`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/page.tsx:142`
+- `docs/DECISIONS.md:419`
 
 ## lacunas
 - a validade do link de arquivo (URL assinada) é configurável; o valor não foi conferido.

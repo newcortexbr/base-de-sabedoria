@@ -1,0 +1,437 @@
+{
+ "rota": "/suporte",
+ "url": "/suporte",
+ "titulo": "Área do Cliente New Córtex",
+ "status_http": 200,
+ "itens": [
+  {
+   "tipo": "lista de opções",
+   "texto": "Negócio selecionado Linhares / ES Colatina / ES Aracruz / ES Ver meus negócios…",
+   "regiao": "topo",
+   "caixa": [
+    1182,
+    14,
+    176,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações",
+   "regiao": "topo",
+   "caixa": [
+    1368,
+    14,
+    36,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "CENTRAL DE AJUDA",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    100,
+    518,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    110,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Suporte",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    122,
+    1080,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus negócios",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    151,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Encontre orientação e acompanhe suas conversas com nossa equipe.",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    160,
+    666,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Visão geral",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    192,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "GUIA DO SUPORTE Precisa de ajuda? Comece por aqui. Vídeo em breve",
+   "regiao": "conteúdo",
+   "caixa": [
+    283,
+    211,
+    424,
+    238
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha plataforma",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    233,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Treinamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    274,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Como podemos ajudar?",
+   "regiao": "conteúdo",
+   "caixa": [
+    729,
+    280,
+    600,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Entenda quando abrir um chamado, como enviar detalhes úteis e onde acompanhar a resposta da equipe.",
+   "regiao": "conteúdo",
+   "caixa": [
+    729,
+    312,
+    592,
+    39
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ferramentas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    315,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Lives",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    356,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Suporte",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    397,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Pagamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    438,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Seus chamados",
+   "regiao": "conteúdo",
+   "caixa": [
+    272,
+    484,
+    397,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir novo chamado",
+   "regiao": "conteúdo",
+   "caixa": [
+    1152,
+    487,
+    200,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Acompanhe respostas e mantenha todo o histórico em um só lugar.",
+   "regiao": "conteúdo",
+   "caixa": [
+    272,
+    512,
+    397,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Acompanhamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    291,
+    568,
+    127,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Ajuda rápida",
+   "regiao": "menu lateral",
+   "caixa": [
+    1121,
+    568,
+    212,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Talvez você encontre a resposta antes de abrir um chamado.",
+   "regiao": "menu lateral",
+   "caixa": [
+    1121,
+    592,
+    212,
+    37
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Todos 2",
+   "regiao": "conteúdo",
+   "caixa": [
+    295,
+    606,
+    75,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Em andamento 1",
+   "regiao": "conteúdo",
+   "caixa": [
+    374,
+    606,
+    127,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Resolvidos 1",
+   "regiao": "conteúdo",
+   "caixa": [
+    505,
+    606,
+    103,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Instalação e domínio",
+   "regiao": "menu lateral",
+   "caixa": [
+    1121,
+    644,
+    212,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Dúvida sobre a troca dos nameservers (resposta nova não lida) Aguardando você #1 · Linhares/ES Atualizado Hoje, 11:45",
+   "regiao": "conteúdo",
+   "caixa": [
+    291,
+    658,
+    776,
+    102
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Treinamentos e ferramentas",
+   "regiao": "menu lateral",
+   "caixa": [
+    1121,
+    688,
+    212,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Acessar suporte",
+   "regiao": "menu lateral",
+   "caixa": [
+    26,
+    726,
+    130,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Pagamentos e acesso",
+   "regiao": "menu lateral",
+   "caixa": [
+    1121,
+    732,
+    212,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Como troco a logo do portal? Fechado #2 · Conta Atualizado 11 de out, 11:45",
+   "regiao": "conteúdo",
+   "caixa": [
+    291,
+    770,
+    776,
+    102
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "ME Mariana Souza Exemplo Minha conta",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    775,
+    207,
+    63
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abra um chamado",
+   "regiao": "menu lateral",
+   "caixa": [
+    1205,
+    785,
+    105,
+    15
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    848,
+    207,
+    38
+   ],
+   "linha": 0
+  }
+ ]
+}

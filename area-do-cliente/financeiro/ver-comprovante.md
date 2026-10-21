@@ -37,7 +37,7 @@ você vê a cobrança paga na página do Asaas.
 
 ## desvios
 
-- "Sem comprovante": a cobrança ainda não está paga.
+- "Sem comprovante": aparece na coluna `Detalhes` das cobranças `Reembolsada`, `Reembolsada em parte`, `Contestada no cartão` ou `Cancelada`. Cobrança ainda não paga mostra `Ver cobrança` ou `Regularizar` no lugar.
 - "Esta cobrança não está paga, então ainda não tem comprovante.": idem.
 - "Não conseguimos abrir o comprovante agora. Tente de novo em alguns minutos ou fale com o suporte.": falha momentânea.
 

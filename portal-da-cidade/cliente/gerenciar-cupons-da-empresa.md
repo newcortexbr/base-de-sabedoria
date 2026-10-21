@@ -12,6 +12,8 @@ tipo_problema:
 status: rascunho-documental
 revisado_em: 2026-10-15
 validacao: docs-e-codigo
+videos:
+  - v7uO6kjwVOA
 ---
 
 ## objetivo

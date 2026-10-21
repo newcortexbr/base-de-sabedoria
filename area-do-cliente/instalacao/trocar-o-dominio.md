@@ -42,9 +42,9 @@ o portal passa a responder no domínio novo depois da propagação.
 sempre: a troca é feita pela equipe.
 
 ## fontes
-- `area-clientes/docs/REQUIREMENTS.md:362`
-- `area-clientes/src/domain/instalacao/state-machine.ts:104`
-- `area-clientes/src/domain/instalacao/state-machine.ts:128`
+- `docs/REQUIREMENTS.md:362`
+- `src/domain/instalacao/state-machine.ts:104`
+- `src/domain/instalacao/state-machine.ts:128`
 
 ## lacunas
 - não confirmado se o domínio antigo continua funcionando por algum tempo após a troca.

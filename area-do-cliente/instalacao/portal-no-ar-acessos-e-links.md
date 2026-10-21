@@ -21,7 +21,7 @@ validacao: docs-e-codigo
 encontrar o endereço do seu site, o painel administrativo e os links úteis do portal depois da instalação.
 
 ## pré-requisitos
-- instalação `Concluída` (cartão com `Portal no ar`).
+- instalação concluída: você respondeu `Sim, já está no ar` (cartão com `Portal no ar`).
 
 ## passos
 1. Em `Meus negócios` (`/negocios`), clique em `Acessar meu negócio` no cartão da cidade.
@@ -43,17 +43,17 @@ você abre o site, o painel e tem à mão os links para divulgar, como `Seja par
 se algum link abrir uma página de erro, use `Falar com o suporte` no fim da tela.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:17`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:31`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:39`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:78`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:111`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:120`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:135`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:149`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:157`
-- `area-clientes/src/app/(cliente)/negocios/page.tsx:249`
-- `area-clientes/src/app/(cliente)/inicio/page.tsx:427`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:17`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:31`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:39`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:78`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:111`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:120`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:135`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:149`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:157`
+- `src/app/(cliente)/negocios/page.tsx:249`
+- `src/app/(cliente)/inicio/page.tsx:427`
 
 ## lacunas
 - os nomes exatos das abas do guia de links vêm dos títulos de categoria; não testado em tela.

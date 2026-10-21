@@ -1,6 +1,6 @@
 ---
 id: ac-instalacao-em-atendimento-suporte
-titulo: 'a instalação está "em atendimento do suporte"'
+titulo: 'a instalação diz "Chamado aberto com o suporte"'
 publico:
   - cliente
 produto: portal-da-cidade
@@ -16,7 +16,7 @@ validacao: docs-e-codigo
 ---
 
 ## objetivo
-entender a situação `Em atendimento do suporte` e o que acontece depois.
+entender a tela `Chamado aberto com o suporte` (no `Início`: `A instalação precisa do Suporte`) e o que acontece depois.
 
 ## pré-requisitos
 - nenhum.
@@ -42,11 +42,11 @@ o suporte resolve e você conclui a instalação.
 você já está com um chamado aberto; responda por ele.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/inicio/pendencia-instalacao.ts:1`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:1100`
-- `area-clientes/src/app/(cliente)/negocios/page.tsx:256`
-- `area-clientes/src/domain/instalacao/state-machine.ts:167`
-- `area-clientes/docs/REQUIREMENTS.md:228`
+- `src/app/(cliente)/inicio/pendencia-instalacao.ts:1`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:1100`
+- `src/app/(cliente)/negocios/page.tsx:256`
+- `src/domain/instalacao/state-machine.ts:167`
+- `docs/REQUIREMENTS.md:228`
 
 ## lacunas
 não há prazo de resposta do suporte no código.

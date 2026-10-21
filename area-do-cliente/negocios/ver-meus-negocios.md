@@ -40,15 +40,15 @@ você entra no negócio escolhido e o menu da esquerda passa a mostrar as áreas
 se um negócio que você comprou não aparece, abra um chamado em `Suporte` informando a cidade e o e-mail usado na compra.
 
 ## fontes
-- `area-clientes/src/ui/nav/clientMenu.ts:22`
-- `area-clientes/src/app/(cliente)/negocios/page.tsx:109`
-- `area-clientes/src/app/(cliente)/negocios/page.tsx:118`
-- `area-clientes/src/app/(cliente)/negocios/page.tsx:124`
-- `area-clientes/src/app/(cliente)/negocios/page.tsx:244`
-- `area-clientes/src/app/(cliente)/negocios/page.tsx:249`
-- `area-clientes/src/app/(cliente)/negocios/page.tsx:256`
-- `area-clientes/src/app/(cliente)/negocios/page.tsx:266`
-- `area-clientes/src/app/(cliente)/inicio/pendencia-instalacao.ts:1`
+- `src/ui/nav/clientMenu.ts:22`
+- `src/app/(cliente)/negocios/page.tsx:109`
+- `src/app/(cliente)/negocios/page.tsx:118`
+- `src/app/(cliente)/negocios/page.tsx:124`
+- `src/app/(cliente)/negocios/page.tsx:244`
+- `src/app/(cliente)/negocios/page.tsx:249`
+- `src/app/(cliente)/negocios/page.tsx:256`
+- `src/app/(cliente)/negocios/page.tsx:266`
+- `src/app/(cliente)/inicio/pendencia-instalacao.ts:1`
 
 ## lacunas
 não testado em tela. a ordem dos cartões quando há várias cidades não foi conferida.

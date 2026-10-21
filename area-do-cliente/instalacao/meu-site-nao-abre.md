@@ -26,7 +26,7 @@ descobrir por que o seu portal não abre e o que fazer.
 1. Em `Meus negócios` (`/negocios`), veja a etiqueta do cartão da cidade.
 2. Se for `Suspenso`: o portal sai do ar enquanto houver pagamento em atraso. Clique em `Regularizar pagamento`.
 3. Se for `Instalação pendente` ou `Em instalação`: o portal ainda não foi publicado. Clique no botão do cartão (por exemplo `Ver o que fazer`) e siga a etapa indicada.
-4. Se a etapa for `Aguardando propagação`: aguarde; pode levar de alguns minutos até 24 horas.
+4. Se a tela mostrar `Testando o acesso ao portal` (etapa `Conexão DNS`): aguarde; pode levar de alguns minutos até 24 horas.
 5. Se for `Portal no ar`: abra `Minha plataforma` e clique em `Acesse seu portal` para ter certeza de que está usando o endereço certo.
 6. Tente abrir o site em outro aparelho ou em outra rede (por exemplo, no celular com dados móveis).
 
@@ -42,13 +42,13 @@ você identifica se o problema é pagamento, instalação em andamento ou algo q
 se o cartão mostra `Portal no ar` e o site não abre em nenhum aparelho por mais de uma hora, abra um chamado em `Suporte` com o endereço e um print do erro.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/negocios/page.tsx:43`
-- `area-clientes/src/app/(cliente)/negocios/page.tsx:49`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:820`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:120`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/page.tsx:240`
-- `area-clientes/src/domain/acesso/sso-rps.ts:120`
-- `area-clientes/docs/DECISIONS.md:760`
+- `src/app/(cliente)/negocios/page.tsx:43`
+- `src/app/(cliente)/negocios/page.tsx:49`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:820`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:120`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/page.tsx:240`
+- `src/domain/acesso/sso-rps.ts:120`
+- `docs/DECISIONS.md:760`
 
 ## lacunas
 - o prazo de "uma hora" é orientação deste artigo.

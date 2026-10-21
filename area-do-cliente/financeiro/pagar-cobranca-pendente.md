@@ -33,7 +33,7 @@ abrir a página de pagamento de uma cobrança e pagar.
 1. No menu da esquerda, clique em `Pagamentos` do negócio certo.
 2. No cartão da cobrança (`Reserva territorial` ou `Mensalidade`), clique em `Regularizar pagamento` (se estiver `Em atraso`) ou em `Ver próxima cobrança` (se estiver `A vencer`). No `Histórico de cobranças`, o mesmo está em `Regularizar` ou `Ver cobrança`.
 3. A página de pagamento do Asaas (empresa que processa as cobranças da New Córtex) abre.
-4. Escolha a forma de pagamento mostrada na página e siga as instruções dela.
+4. Escolha uma das formas de pagamento oferecidas nessa página (elas dependem da cobrança) e conclua o pagamento lá. Para trocar o cartão ou a forma, veja `ac-trocar-forma-de-pagamento`.
 
 ## resultado
 

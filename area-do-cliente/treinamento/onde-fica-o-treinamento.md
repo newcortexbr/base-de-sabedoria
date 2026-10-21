@@ -35,18 +35,18 @@ abre a tela `Treinamentos` (`Aprenda, coloque em prática e faça seu portal cre
 
 ## desvios
 - `Nenhum módulo publicado até agora.`: as aulas ainda não foram publicadas para o seu produto.
-- se aparecer `Como voltar a ter acesso`, o treinamento está bloqueado por pendência de pagamento. veja o artigo sobre treinamento bloqueado.
+- se aparecer `Como voltar a ter acesso`, o treinamento está bloqueado por pendência de pagamento. veja `ac-treinamento-bloqueado`.
 
 ## quando pedir ajuda
 se você tem negócio ativo e não vê nenhum módulo, abra um chamado em `Suporte`.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/labels.ts:178`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/page.tsx:147`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/page.tsx:257`
-- `area-clientes/src/app/(cliente)/treinamento/redirect-target.ts:1`
-- `area-clientes/src/app/(cliente)/inicio/page.tsx:435`
-- `area-clientes/docs/PRODUCT.md:48`
+- `src/app/(cliente)/negocios/[licenseId]/labels.ts:178`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/page.tsx:147`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/page.tsx:257`
+- `src/app/(cliente)/treinamento/redirect-target.ts:1`
+- `src/app/(cliente)/inicio/page.tsx:435`
+- `docs/PRODUCT.md:48`
 
 ## lacunas
 não testado em tela com duas cidades.

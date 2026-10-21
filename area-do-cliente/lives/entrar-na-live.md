@@ -38,15 +38,15 @@ você assiste à live no YouTube. as lives são `Treinamento ao vivo no YouTube`
 se na hora marcada o botão não aparecer, abra um chamado em `Suporte`.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:116`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:118`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:126`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:130`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:133`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:157`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:164`
-- `area-clientes/src/domain/lives/agenda.ts:43`
-- `area-clientes/src/domain/lives/agenda.ts:48`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:116`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:118`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:126`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:130`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:133`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:157`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:164`
+- `src/domain/lives/agenda.ts:43`
+- `src/domain/lives/agenda.ts:48`
 
 ## lacunas
 não foi conferido se o chat ou as perguntas da live ficam no YouTube (provável, mas não está no código da área do cliente).

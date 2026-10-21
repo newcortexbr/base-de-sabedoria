@@ -1,0 +1,617 @@
+{
+ "rota": "/negocios/[licenseId]/treinamento",
+ "url": "/negocios/06bd6b46-cdf0-4daf-87da-b2401bf39242/treinamento",
+ "titulo": "Área do Cliente New Córtex",
+ "status_http": 200,
+ "itens": [
+  {
+   "tipo": "link",
+   "texto": "Meus negócios",
+   "regiao": "caminho no topo",
+   "caixa": [
+    272,
+    20,
+    97,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Portal da Cidade · Linhares/ES",
+   "regiao": "caminho no topo",
+   "caixa": [
+    404,
+    20,
+    196,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Treinamentos",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    100,
+    362,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Seu progresso 25%",
+   "regiao": "topo",
+   "caixa": [
+    1152,
+    104,
+    200,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    110,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Aprenda, coloque em prática e faça seu portal crescer.",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    138,
+    362,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus negócios",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    151,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Visão geral",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    192,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha plataforma",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    233,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Treinamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    274,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "ASSISTA ANTES DE COMEÇAR",
+   "regiao": "conteúdo",
+   "caixa": [
+    871,
+    285,
+    456,
+    17
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Aprenda a aproveitar seus treinamentos.",
+   "regiao": "conteúdo",
+   "caixa": [
+    871,
+    310,
+    456,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ferramentas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    315,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Veja como escolher um módulo, acompanhar seu progresso e encontrar as ferramentas dentro das aulas.",
+   "regiao": "conteúdo",
+   "caixa": [
+    871,
+    346,
+    456,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Lives",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    356,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Suporte",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    397,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Pagamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    438,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Encontrar conteúdo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1147,
+    588,
+    186,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Qual é a sua dúvida? BUSCA NO TREINAMENTO",
+   "regiao": "conteúdo",
+   "caixa": [
+    291,
+    589,
+    846,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "CONTINUE DE ONDE PAROU",
+   "regiao": "conteúdo",
+   "caixa": [
+    345,
+    680,
+    518,
+    17
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Continuar aula",
+   "regiao": "conteúdo",
+   "caixa": [
+    1179,
+    690,
+    154,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Configurando o menu e as seções",
+   "regiao": "conteúdo",
+   "caixa": [
+    345,
+    700,
+    820,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Primeiros passos no portal · Aula 3 de 3",
+   "regiao": "conteúdo",
+   "caixa": [
+    345,
+    721,
+    592,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Acessar suporte",
+   "regiao": "menu lateral",
+   "caixa": [
+    26,
+    726,
+    130,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "ME Mariana Souza Exemplo Minha conta",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    775,
+    207,
+    63
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "lista de opções",
+   "texto": "Filtrar por status Todos os status Em andamento Não iniciados Concluídos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1214,
+    775,
+    138,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Seus módulos",
+   "regiao": "conteúdo",
+   "caixa": [
+    272,
+    782,
+    123,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "3 módulos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1139,
+    783,
+    63,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Todos",
+   "regiao": "conteúdo",
+   "caixa": [
+    272,
+    823,
+    69,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configuração",
+   "regiao": "conteúdo",
+   "caixa": [
+    349,
+    823,
+    115,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Crescimento",
+   "regiao": "conteúdo",
+   "caixa": [
+    472,
+    823,
+    112,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    848,
+    207,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "MÓDULO 01",
+   "regiao": "conteúdo",
+   "caixa": [
+    640,
+    878,
+    345,
+    448
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "MÓDULO 02",
+   "regiao": "conteúdo",
+   "caixa": [
+    1004,
+    878,
+    345,
+    448
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "MÓDULO 00 COMECE AQUI",
+   "regiao": "conteúdo",
+   "caixa": [
+    276,
+    879,
+    343,
+    445
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Instalação do seu portal",
+   "regiao": "conteúdo",
+   "caixa": [
+    290,
+    1336,
+    315,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Primeiros passos no portal",
+   "regiao": "conteúdo",
+   "caixa": [
+    654,
+    1338,
+    317,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Vendendo anúncios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1018,
+    1338,
+    317,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Aprenda instalação do seu portal passo a passo.",
+   "regiao": "conteúdo",
+   "caixa": [
+    290,
+    1365,
+    315,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Aprenda primeiros passos no portal passo a passo.",
+   "regiao": "conteúdo",
+   "caixa": [
+    654,
+    1367,
+    317,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Aprenda vendendo anúncios passo a passo.",
+   "regiao": "conteúdo",
+   "caixa": [
+    1018,
+    1367,
+    317,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "0 de 3 aulas 0%",
+   "regiao": "conteúdo",
+   "caixa": [
+    290,
+    1390,
+    315,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "2 de 3 aulas 67%",
+   "regiao": "conteúdo",
+   "caixa": [
+    654,
+    1392,
+    317,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "0 de 2 aulas 0%",
+   "regiao": "conteúdo",
+   "caixa": [
+    1018,
+    1392,
+    317,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Não iniciado",
+   "regiao": "conteúdo",
+   "caixa": [
+    290,
+    1428,
+    315,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Em andamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    654,
+    1429,
+    317,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Não iniciado",
+   "regiao": "conteúdo",
+   "caixa": [
+    1018,
+    1429,
+    317,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "ASSISTIR AULAS",
+   "regiao": "conteúdo",
+   "caixa": [
+    290,
+    1452,
+    315,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "CONTINUAR",
+   "regiao": "conteúdo",
+   "caixa": [
+    654,
+    1454,
+    317,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "ASSISTIR AULAS",
+   "regiao": "conteúdo",
+   "caixa": [
+    1018,
+    1454,
+    317,
+    42
+   ],
+   "linha": 0
+  }
+ ]
+}

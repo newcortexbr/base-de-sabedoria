@@ -46,18 +46,18 @@ você assiste às aulas na ordem do módulo.
 se uma aula abrir vazia ou com erro, abra um chamado em `Suporte` com o nome do módulo e da aula.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/page.tsx:119`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/page.tsx:122`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/page.tsx:130`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/page.tsx:138`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/CarrosselModulos.tsx:30`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/CarrosselModulos.tsx:37`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/CarrosselModulos.tsx:162`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/CarrosselModulos.tsx:174`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/CarrosselModulos.tsx:191`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/page.tsx:118`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/page.tsx:169`
-- `area-clientes/docs/PRODUCT.md:66`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/page.tsx:119`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/page.tsx:122`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/page.tsx:130`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/page.tsx:138`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/CarrosselModulos.tsx:30`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/CarrosselModulos.tsx:37`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/CarrosselModulos.tsx:162`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/CarrosselModulos.tsx:174`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/CarrosselModulos.tsx:191`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/page.tsx:118`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/page.tsx:169`
+- `docs/PRODUCT.md:66`
 
 ## lacunas
 o seletor `Ir para outro módulo` existe no código, mas a posição dele na tela da aula não foi conferida.

@@ -33,17 +33,17 @@ entender o que a área do cliente chama de "negócio" e por que você pode ter m
 você sabe que cada cidade comprada é um negócio próprio, com site e pagamentos próprios, mas com treinamento compartilhado.
 
 ## desvios
-- se você comprou uma cidade e ela não aparece em `Meus negócios`, veja o artigo sobre negócio que não aparece.
+- se você comprou uma cidade e ela não aparece em `Meus negócios`, veja `ac-negocio-nao-aparece`.
 
 ## quando pedir ajuda
 se algum negócio estiver com a cidade ou o produto errado, abra um chamado em `Suporte`.
 
 ## fontes
-- `area-clientes/docs/PRODUCT.md:48`
-- `area-clientes/docs/PRODUCT.md:53`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/labels.ts:174`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/labels.ts:185`
-- `area-clientes/src/ui/nav/clientMenu.ts:22`
+- `docs/PRODUCT.md:48`
+- `docs/PRODUCT.md:53`
+- `src/app/(cliente)/negocios/[licenseId]/labels.ts:174`
+- `src/app/(cliente)/negocios/[licenseId]/labels.ts:185`
+- `src/ui/nav/clientMenu.ts:22`
 
 ## lacunas
 não conferido em tela com uma conta real de dois negócios.

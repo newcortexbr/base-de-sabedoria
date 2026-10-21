@@ -38,11 +38,11 @@ você abre a aula que trata do assunto.
 se o assunto não existir em nenhuma aula, abra um chamado em `Suporte` com a sua dúvida.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/page.tsx:209`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/page.tsx:212`
-- `area-clientes/src/app/(cliente)/inicio/page.tsx:355`
-- `area-clientes/src/app/(cliente)/inicio/page.tsx:373`
-- `area-clientes/src/app/(cliente)/inicio/page.tsx:387`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/page.tsx:209`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/page.tsx:212`
+- `src/app/(cliente)/inicio/page.tsx:355`
+- `src/app/(cliente)/inicio/page.tsx:373`
+- `src/app/(cliente)/inicio/page.tsx:387`
 
 ## lacunas
 não foi conferido como a busca escolhe os resultados (por título ou por texto da aula).

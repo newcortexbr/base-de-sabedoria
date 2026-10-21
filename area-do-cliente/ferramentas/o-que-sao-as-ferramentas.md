@@ -44,16 +44,16 @@ você vê as ferramentas do seu produto. a tela diz: `Acesse suas ferramentas e 
 se uma ferramenta que você contratou não aparece, abra um chamado em `Suporte`.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/labels.ts:179`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:50`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:88`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:96`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:125`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:132`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:159`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:172`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:185`
-- `area-clientes/src/domain/conteudo/tools.ts:1`
+- `src/app/(cliente)/negocios/[licenseId]/labels.ts:179`
+- `src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:50`
+- `src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:88`
+- `src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:96`
+- `src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:125`
+- `src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:132`
+- `src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:159`
+- `src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:172`
+- `src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:185`
+- `src/domain/conteudo/tools.ts:1`
 
 ## lacunas
 - a lista de ferramentas é cadastrada pela equipe e pode mudar. no ambiente conferido (21/10/2026) havia `Extrator Google Maps`, `Extrator da Receita Federal` (Prospecção) e `Zap Plus` (Atendimento: `Organize conversas no WhatsApp.`). a lista em produção não foi conferida.

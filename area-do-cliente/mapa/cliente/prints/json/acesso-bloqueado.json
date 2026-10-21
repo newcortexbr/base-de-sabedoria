@@ -1,0 +1,106 @@
+{
+ "rota": "/inicio?bloqueado",
+ "url": "/inicio",
+ "titulo": "Área do Cliente New Córtex",
+ "status_http": 403,
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "Acesso não permitido.",
+   "regiao": "conteúdo",
+   "caixa": [
+    272,
+    100,
+    1132,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha Conta",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    110,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Suporte",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    151,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Suporte",
+   "regiao": "conteúdo",
+   "caixa": [
+    383,
+    175,
+    57,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha Conta",
+   "regiao": "conteúdo",
+   "caixa": [
+    651,
+    175,
+    92,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Acessar suporte",
+   "regiao": "menu lateral",
+   "caixa": [
+    26,
+    726,
+    130,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "CE Carlos Bloqueado Exemplo Minha conta",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    775,
+    207,
+    63
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    848,
+    207,
+    38
+   ],
+   "linha": 0
+  }
+ ]
+}

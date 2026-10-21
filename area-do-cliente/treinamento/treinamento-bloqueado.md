@@ -29,8 +29,9 @@ entender por que as aulas não aparecem e como voltar a vê-las.
 
 ## passos
 1. Na tela `Treinamentos`, clique em `Situação de <cidade>/<UF>`.
-2. Na `Visão geral` do negócio, veja o pagamento em aberto e clique para ver os pagamentos.
-3. Pague a pendência.
+2. Abre a `Visão geral` daquele negócio. No menu da esquerda, clique em `Pagamentos`.
+3. No cartão marcado `Suspenso` ou `Em atraso`, clique em `Regularizar pagamento` e pague na página que abre (veja `ac-pagar-cobranca-pendente`).
+4. Se tiver mais de uma cidade suspensa do mesmo produto, basta regularizar uma delas para as aulas voltarem.
 
 ## resultado
 quando o pagamento é confirmado, o negócio volta a ficar ativo e as aulas reaparecem, com o seu progresso.
@@ -42,12 +43,12 @@ quando o pagamento é confirmado, o negócio volta a ficar ativo e as aulas reap
 se você pagou e as aulas não voltaram, abra um chamado em `Suporte`.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/_conteudo/Regularizacao.tsx:30`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/_conteudo/Regularizacao.tsx:37`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/_conteudo/Regularizacao.tsx:61`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/CarrosselModulos.tsx:41`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/page.tsx:175`
-- `area-clientes/docs/REQUIREMENTS.md:348`
+- `src/app/(cliente)/negocios/[licenseId]/_conteudo/Regularizacao.tsx:30`
+- `src/app/(cliente)/negocios/[licenseId]/_conteudo/Regularizacao.tsx:37`
+- `src/app/(cliente)/negocios/[licenseId]/_conteudo/Regularizacao.tsx:61`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/CarrosselModulos.tsx:41`
+- `src/app/(cliente)/negocios/[licenseId]/page.tsx:175`
+- `docs/REQUIREMENTS.md:348`
 
 ## lacunas
 não foi conferido se o progresso fica guardado durante a suspensão (a lógica indica que sim, porque é gravado por aula).

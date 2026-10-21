@@ -41,12 +41,12 @@ o vídeo toca na página ou no YouTube.
 se o vídeo não abre nem pelo `Abrir no YouTube`, abra um chamado em `Suporte` com o nome do módulo e da aula.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/ClienteAula.tsx:18`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/ClienteAula.tsx:41`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/ClienteAula.tsx:44`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/ClienteAula.tsx:61`
-- `area-clientes/src/domain/conteudo/urls.ts:22`
-- `area-clientes/docs/PRODUCT.md:82`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/ClienteAula.tsx:18`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/ClienteAula.tsx:41`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/ClienteAula.tsx:44`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/ClienteAula.tsx:61`
+- `src/domain/conteudo/urls.ts:22`
+- `docs/PRODUCT.md:82`
 
 ## lacunas
 não testado em tela; a lista de navegadores suportados não está documentada.

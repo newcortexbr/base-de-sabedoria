@@ -44,12 +44,12 @@ você sabe qual opção escolher e o que cada etapa pede.
 se você não sabe onde registrou o seu domínio, ou se o domínio já tem e-mail funcionando, fale com o suporte antes de trocar os nameservers.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:363`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:880`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/page.tsx:240`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/etapa-real.ts:174`
-- `area-clientes/docs/PRODUCT.md:84`
-- `area-clientes/docs/PRODUCT.md:46`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:363`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:880`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/page.tsx:240`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/etapa-real.ts:174`
+- `docs/PRODUCT.md:84`
+- `docs/PRODUCT.md:46`
 
 ## lacunas
 as definições de DNS, nameserver, CNAME e propagação são explicação geral, não texto das telas.

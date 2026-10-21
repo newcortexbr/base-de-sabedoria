@@ -45,8 +45,8 @@ a sua conta fica ativa e você já consegue entrar na Área do Cliente.
 
 - "As senhas não coincidem.": os dois campos estão diferentes. Escreva a mesma senha nos dois.
 - "A senha precisa ter ao menos N caracteres.": a senha está curta. Use uma maior.
-- "Este link não é mais válido": o link expirou ou já foi usado. Cada link funciona uma vez só, e pedir um novo convite cancela o anterior. Clique em `Solicitar novo convite` (veja `ac-pedir-novo-convite`).
-- "Este link expirou. Solicite um novo.": passou do prazo. Peça um novo convite.
+- "Este link não é mais válido": o link passou do prazo, já foi usado ou foi trocado por um convite mais novo. A tela é a mesma nos três casos. Cada link funciona uma vez só, e pedir um novo convite cancela o anterior. Clique em `Solicitar novo convite` (veja `ac-pedir-novo-convite`).
+- "Não foi possível criar sua senha. Tente novamente.": falha de conexão. Tente de novo.
 - Apesar do nome do botão, depois de criar a senha você ainda precisa entrar pela tela de login.
 
 ## quando pedir ajuda
@@ -59,6 +59,8 @@ peça ajuda se o e-mail de boas-vindas não chegou mesmo depois de pedir um novo
 - `src/app/(public)/ativar/page.tsx:39` — título "Criar sua senha".
 - `src/app/(public)/ativar/AtivarForm.tsx:33` — "As senhas não coincidem."; `:57` — "Este link não é mais válido" e `Solicitar novo convite`; `:75` — "Senha criada com sucesso" e `Ir para o login`; `:97`, `:125`, `:129` — campos e dica de tamanho; `:150` — botão `Criar senha e entrar`.
 - `src/app/(public)/api/auth/criar-senha/route.ts:19` — mensagens de link inválido, expirado e senha curta.
+- `src/ui/auth/definir-senha.ts:40` — link expirado e link inválido mostram a mesma tela "Este link não é mais válido"; `:50` — "A senha precisa ter ao menos N caracteres.".
+- `src/app/(public)/ativar/AtivarForm.tsx:44` — "Não foi possível criar sua senha. Tente novamente.".
 - `src/domain/acesso/types.ts:91` — validade do convite (padrão 7 dias); `:121` — tamanho mínimo da senha (padrão 10). Ambos são configuráveis.
 - `src/domain/acesso/types.ts:66` — emitir um link novo invalida o anterior.
 

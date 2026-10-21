@@ -44,16 +44,16 @@ no Google Agenda aparece a agenda “Lives do Portal da Cidade”. lives novas, 
 se o calendário assinado parar de atualizar, gere um endereço novo; se ainda assim não funcionar, abra um chamado em `Suporte`.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:143`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:221`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:232`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:236`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:249`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:253`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:263`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:274`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:278`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/acoes.ts:33`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:143`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:221`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:232`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:236`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:249`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:253`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:263`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:274`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:278`
+- `src/app/(cliente)/negocios/[licenseId]/lives/acoes.ts:33`
 
 ## lacunas
 - o nome da agenda “Lives do Portal da Cidade” está fixo no texto da tela.

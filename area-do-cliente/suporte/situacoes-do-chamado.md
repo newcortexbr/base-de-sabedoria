@@ -36,6 +36,12 @@ selos na lista `Acompanhamento`:
 
 No filtro, `Resolvidos` junta `Resolvido` e `Fechado`; `Em andamento` mostra o resto.
 
+Na página do chamado (quando você clica nele), o selo pode ter outro nome que o da lista:
+
+- o que a lista chama de `Em análise` aparece como `Em andamento` no chamado. É a mesma situação: a equipe está cuidando;
+- `Equipe respondeu` existe só na lista. Dentro do chamado, o selo continua `Aberto` ou `Em andamento`; a resposta da equipe está no `Histórico do atendimento`.
+- `Aberto`, `Aguardando você`, `Resolvido` e `Fechado` têm o mesmo nome nos dois lugares.
+
 Fechamento: não existe fechamento automático por tempo. Um chamado só fica `Fechado` quando a equipe fecha.
 
 Prazo: a Área do Cliente não define prazo de resposta.

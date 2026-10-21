@@ -40,15 +40,15 @@ você sabe que precisa pagar dentro do prazo da reserva para garantir a cidade.
 se você pagou e a cidade não apareceu em `Meus negócios`, fale com o suporte com o comprovante.
 
 ## fontes
-- `area-clientes/docs/REQUIREMENTS.md:87`
-- `area-clientes/docs/REQUIREMENTS.md:88`
-- `area-clientes/docs/REQUIREMENTS.md:92`
-- `area-clientes/docs/REQUIREMENTS.md:96`
-- `area-clientes/docs/REQUIREMENTS.md:99`
-- `area-clientes/src/db/seeds/config.ts:19`
-- `area-clientes/src/app/(public)/comprar/page.tsx:17`
-- `area-clientes/src/app/(public)/comprar/page.tsx:19`
-- `area-clientes/src/app/(public)/indisponivel/page.tsx:89`
+- `docs/REQUIREMENTS.md:87`
+- `docs/REQUIREMENTS.md:88`
+- `docs/REQUIREMENTS.md:92`
+- `docs/REQUIREMENTS.md:96`
+- `docs/REQUIREMENTS.md:99`
+- `src/db/seeds/config.ts:19`
+- `src/app/(public)/comprar/page.tsx:17`
+- `src/app/(public)/comprar/page.tsx:19`
+- `src/app/(public)/indisponivel/page.tsx:89`
 
 ## lacunas
 - o prazo de 30 minutos é configurável pela equipe; o valor em produção não foi conferido.

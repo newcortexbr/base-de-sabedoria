@@ -1,0 +1,773 @@
+{
+ "rota": "/negocios",
+ "url": "/negocios",
+ "titulo": "Área do Cliente New Córtex",
+ "status_http": 200,
+ "itens": [
+  {
+   "tipo": "lista de opções",
+   "texto": "Negócio selecionado Linhares / ES Colatina / ES Aracruz / ES Ver meus negócios…",
+   "regiao": "topo",
+   "caixa": [
+    1182,
+    14,
+    176,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações",
+   "regiao": "topo",
+   "caixa": [
+    1368,
+    14,
+    36,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Meus negócios",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    100,
+    367,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    110,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Acompanhe e acesse os portais vinculados à sua conta.",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    140,
+    367,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus negócios",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    151,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Seus portais",
+   "regiao": "conteúdo",
+   "caixa": [
+    272,
+    189,
+    107,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Visão geral",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    192,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Selecione o negócio que deseja gerenciar.",
+   "regiao": "conteúdo",
+   "caixa": [
+    1144,
+    192,
+    248,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha plataforma",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    233,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Linhares / ES",
+   "regiao": "conteúdo",
+   "caixa": [
+    362,
+    255,
+    857,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Treinamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    274,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Portal da Cidade · seu território",
+   "regiao": "conteúdo",
+   "caixa": [
+    362,
+    285,
+    592,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ferramentas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    315,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Lives",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    356,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Suporte",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    397,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "ENDEREÇO DO PORTAL",
+   "regiao": "conteúdo",
+   "caixa": [
+    298,
+    403,
+    518,
+    17
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "SITUAÇÃO DOS PAGAMENTOS",
+   "regiao": "conteúdo",
+   "caixa": [
+    846,
+    403,
+    518,
+    17
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "portallinhares.com.br",
+   "regiao": "conteúdo",
+   "caixa": [
+    298,
+    430,
+    524,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Reserva territorial · anualR$ 4.970,00 Próximo vencimento: após a instalação Em dia",
+   "regiao": "conteúdo",
+   "caixa": [
+    846,
+    430,
+    524,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Reserva territorial · anualR$ 4.970,00",
+   "regiao": "conteúdo",
+   "caixa": [
+    846,
+    430,
+    233,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Pagamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    438,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Próximo vencimento: após a instalação",
+   "regiao": "conteúdo",
+   "caixa": [
+    846,
+    453,
+    233,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Troque os nameservers no painel onde você registrou o domínio. A instalação segue sozinha assim que a mudança propagar.",
+   "regiao": "conteúdo",
+   "caixa": [
+    298,
+    459,
+    524,
+    39
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Mensalidade · manutençãoR$ 197,00 Próximo vencimento: 31/10/2026 A vencer",
+   "regiao": "conteúdo",
+   "caixa": [
+    846,
+    483,
+    524,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Mensalidade · manutençãoR$ 197,00",
+   "regiao": "conteúdo",
+   "caixa": [
+    846,
+    483,
+    236,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Próximo vencimento: 31/10/2026",
+   "regiao": "conteúdo",
+   "caixa": [
+    846,
+    507,
+    236,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver o que fazer",
+   "regiao": "conteúdo",
+   "caixa": [
+    1209,
+    562,
+    160,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Troque os nameservers no painel onde você registrou o domínio. A instalação segue sozinha assim que a mudança propagar.",
+   "regiao": "conteúdo",
+   "caixa": [
+    298,
+    563,
+    592,
+    39
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Colatina / ES",
+   "regiao": "conteúdo",
+   "caixa": [
+    359,
+    663,
+    876,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Portal da Cidade · seu território",
+   "regiao": "conteúdo",
+   "caixa": [
+    359,
+    693,
+    592,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Acessar suporte",
+   "regiao": "menu lateral",
+   "caixa": [
+    26,
+    726,
+    130,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "ENDEREÇO DO PORTAL",
+   "regiao": "conteúdo",
+   "caixa": [
+    295,
+    748,
+    518,
+    17
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "SITUAÇÃO DOS PAGAMENTOS",
+   "regiao": "conteúdo",
+   "caixa": [
+    844,
+    748,
+    518,
+    17
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "ME Mariana Souza Exemplo Minha conta",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    775,
+    207,
+    63
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "portalcolatina.com.br",
+   "regiao": "conteúdo",
+   "caixa": [
+    295,
+    775,
+    525,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Reserva territorial · anualR$ 4.970,00 Próximo vencimento: após a instalação Em dia",
+   "regiao": "conteúdo",
+   "caixa": [
+    844,
+    775,
+    525,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Reserva territorial · anualR$ 4.970,00",
+   "regiao": "conteúdo",
+   "caixa": [
+    844,
+    775,
+    233,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Próximo vencimento: após a instalação",
+   "regiao": "conteúdo",
+   "caixa": [
+    844,
+    798,
+    233,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Instalação concluída e plataforma disponível.",
+   "regiao": "conteúdo",
+   "caixa": [
+    295,
+    804,
+    525,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Mensalidade · manutençãoR$ 197,00 Próximo vencimento: 31/10/2026 A vencer",
+   "regiao": "conteúdo",
+   "caixa": [
+    844,
+    829,
+    525,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Mensalidade · manutençãoR$ 197,00",
+   "regiao": "conteúdo",
+   "caixa": [
+    844,
+    829,
+    236,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    848,
+    207,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Próximo vencimento: 31/10/2026",
+   "regiao": "conteúdo",
+   "caixa": [
+    844,
+    852,
+    236,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir portal",
+   "regiao": "conteúdo",
+   "caixa": [
+    1022,
+    907,
+    136,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Acessar meu negócio",
+   "regiao": "conteúdo",
+   "caixa": [
+    1168,
+    907,
+    201,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Tudo pronto para gerenciar seu portal.",
+   "regiao": "conteúdo",
+   "caixa": [
+    295,
+    918,
+    227,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Aracruz / ES",
+   "regiao": "conteúdo",
+   "caixa": [
+    359,
+    1008,
+    884,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Portal da Cidade · seu território",
+   "regiao": "conteúdo",
+   "caixa": [
+    359,
+    1038,
+    592,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "ENDEREÇO DO PORTAL",
+   "regiao": "conteúdo",
+   "caixa": [
+    295,
+    1093,
+    518,
+    17
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "SITUAÇÃO DOS PAGAMENTOS",
+   "regiao": "conteúdo",
+   "caixa": [
+    844,
+    1093,
+    518,
+    17
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Domínio ainda não informado",
+   "regiao": "conteúdo",
+   "caixa": [
+    295,
+    1120,
+    525,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Reserva territorial · anualR$ 4.970,00 Próximo vencimento: após a instalação Em dia",
+   "regiao": "conteúdo",
+   "caixa": [
+    844,
+    1120,
+    525,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Reserva territorial · anualR$ 4.970,00",
+   "regiao": "conteúdo",
+   "caixa": [
+    844,
+    1120,
+    233,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Próximo vencimento: após a instalação",
+   "regiao": "conteúdo",
+   "caixa": [
+    844,
+    1143,
+    233,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Portal indisponível enquanto houver pendência.",
+   "regiao": "conteúdo",
+   "caixa": [
+    295,
+    1150,
+    525,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Mensalidade · manutençãoR$ 197,00 Próximo vencimento: 15/10/2026 Suspenso",
+   "regiao": "conteúdo",
+   "caixa": [
+    844,
+    1174,
+    525,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Mensalidade · manutençãoR$ 197,00",
+   "regiao": "conteúdo",
+   "caixa": [
+    844,
+    1174,
+    236,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Próximo vencimento: 15/10/2026",
+   "regiao": "conteúdo",
+   "caixa": [
+    844,
+    1197,
+    236,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Regularizar pagamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    972,
+    1252,
+    186,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Acessar meu negócio",
+   "regiao": "conteúdo",
+   "caixa": [
+    1168,
+    1252,
+    201,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Mensalidade vencida em 15/10/2026.",
+   "regiao": "conteúdo",
+   "caixa": [
+    295,
+    1263,
+    225,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "A reserva territorial e a mensalidade precisam estar em dia. Após mais de 5 dias de atraso em qualquer uma delas, o portal e as ferramentas ",
+   "regiao": "conteúdo",
+   "caixa": [
+    272,
+    1330,
+    592,
+    40
+   ],
+   "linha": 0
+  }
+ ]
+}

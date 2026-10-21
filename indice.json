@@ -1,10 +1,10 @@
 {
  "gerado_em": "2026-10-21",
  "produtos": {
-  "area-do-cliente": 76,
+  "area-do-cliente": 92,
   "portal-da-cidade": 163
  },
- "total": 239,
+ "total": 255,
  "artigos": [
   {
    "id": "ac-ativar-conta-pelo-convite",
@@ -727,7 +727,10 @@
     "buscar-empresas-cnpj",
     "prospeccao"
    ],
-   "videos": [],
+   "videos": [
+    "JXWDV_IiAWQ",
+    "IKdKLgi-e94"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
    "termos": [
@@ -763,7 +766,10 @@
     "creditos-do-extrator",
     "prospeccao"
    ],
-   "videos": [],
+   "videos": [
+    "F136_v1JyRY",
+    "R9FCgunNxFE"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
    "termos": [
@@ -946,6 +952,117 @@
    ],
    "base": "area-do-cliente",
    "caminho": "area-do-cliente/financeiro/cancelar-um-negocio.md"
+  },
+  {
+   "id": "ac-cobranca-pelo-asaas",
+   "titulo": "recebi uma cobrança do Asaas: é da New Córtex?",
+   "objetivo": "entender quem é o Asaas e conferir se uma cobrança é sua.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "financeiro",
+   "aba": "Pagamentos",
+   "tipos": [
+    "asaas",
+    "cobranca-desconhecida",
+    "boleto-estranho",
+    "golpe",
+    "e-confiavel"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "recebi",
+    "cobranca",
+    "asaas",
+    "new",
+    "cortex",
+    "financeiro",
+    "pagamentos",
+    "desconhecida",
+    "boleto",
+    "estranho",
+    "golpe",
+    "confiavel",
+    "entender",
+    "quem",
+    "conferir"
+   ],
+   "base": "area-do-cliente",
+   "caminho": "area-do-cliente/financeiro/cobranca-pelo-asaas.md"
+  },
+  {
+   "id": "ac-mudar-data-de-vencimento",
+   "titulo": "mudar o dia de vencimento das cobranças",
+   "objetivo": "saber onde ver o vencimento e como pedir para mudar o dia.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "financeiro",
+   "aba": "Pagamentos",
+   "tipos": [
+    "mudar-vencimento",
+    "dia-do-vencimento",
+    "data-de-pagamento"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "mudar",
+    "dia",
+    "vencimento",
+    "cobrancas",
+    "financeiro",
+    "pagamentos",
+    "data",
+    "pagamento",
+    "saber",
+    "ver",
+    "pedir"
+   ],
+   "base": "area-do-cliente",
+   "caminho": "area-do-cliente/financeiro/mudar-data-de-vencimento.md"
+  },
+  {
+   "id": "ac-nota-fiscal",
+   "titulo": "preciso de nota fiscal ou recibo",
+   "objetivo": "saber o que a Área do Cliente oferece de comprovante e como pedir nota fiscal.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "financeiro",
+   "aba": "Pagamentos",
+   "tipos": [
+    "nota-fiscal",
+    "nf",
+    "recibo",
+    "comprovante-para-contabilidade"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "preciso",
+    "nota",
+    "fiscal",
+    "recibo",
+    "financeiro",
+    "pagamentos",
+    "comprovante",
+    "contabilidade",
+    "saber",
+    "area",
+    "cliente",
+    "oferece",
+    "pedir"
+   ],
+   "base": "area-do-cliente",
+   "caminho": "area-do-cliente/financeiro/nota-fiscal.md"
   },
   {
    "id": "ac-onde-ver-pagamentos",
@@ -1221,6 +1338,45 @@
    "caminho": "area-do-cliente/financeiro/situacoes-das-cobrancas.md"
   },
   {
+   "id": "ac-trocar-forma-de-pagamento",
+   "titulo": "trocar o cartão ou a forma de pagamento",
+   "objetivo": "saber como pagar de outro jeito ou trocar o cartão de uma cobrança.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "financeiro",
+   "aba": "Pagamentos",
+   "tipos": [
+    "trocar-cartao",
+    "cartao-vencido",
+    "forma-de-pagamento",
+    "pix",
+    "boleto"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "trocar",
+    "cartao",
+    "forma",
+    "pagamento",
+    "financeiro",
+    "pagamentos",
+    "vencido",
+    "pix",
+    "boleto",
+    "saber",
+    "pagar",
+    "outro",
+    "jeito",
+    "cobranca"
+   ],
+   "base": "area-do-cliente",
+   "caminho": "area-do-cliente/financeiro/trocar-forma-de-pagamento.md"
+  },
+  {
    "id": "ac-ver-comprovante",
    "titulo": "ver o comprovante de uma cobrança paga",
    "objetivo": "abrir o comprovante de uma cobrança que já foi paga.",
@@ -1256,6 +1412,86 @@
    ],
    "base": "area-do-cliente",
    "caminho": "area-do-cliente/financeiro/ver-comprovante.md"
+  },
+  {
+   "id": "ac-emails-da-area-do-cliente",
+   "titulo": "quais e-mails a Área do Cliente me manda",
+   "objetivo": "reconhecer os e-mails que a Área do Cliente envia e saber o que fazer com cada um.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "geral",
+   "aba": "nao-se-aplica",
+   "tipos": [
+    "emails",
+    "avisos",
+    "notificacoes",
+    "recebi-um-email",
+    "e-golpe"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "mails",
+    "area",
+    "cliente",
+    "manda",
+    "geral",
+    "aplica",
+    "emails",
+    "avisos",
+    "notificacoes",
+    "recebi",
+    "email",
+    "golpe",
+    "reconhecer",
+    "envia",
+    "saber",
+    "cada"
+   ],
+   "base": "area-do-cliente",
+   "caminho": "area-do-cliente/geral/emails-da-area-do-cliente.md"
+  },
+  {
+   "id": "ac-falar-com-uma-pessoa",
+   "titulo": "quero falar com uma pessoa da equipe",
+   "objetivo": "saber como chegar à equipe da New Córtex.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "geral",
+   "aba": "Suporte",
+   "tipos": [
+    "falar-com-atendente",
+    "falar-com-humano",
+    "whatsapp",
+    "telefone",
+    "contato"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "falar",
+    "pessoa",
+    "equipe",
+    "geral",
+    "suporte",
+    "atendente",
+    "humano",
+    "whatsapp",
+    "telefone",
+    "contato",
+    "saber",
+    "chegar",
+    "new",
+    "cortex"
+   ],
+   "base": "area-do-cliente",
+   "caminho": "area-do-cliente/geral/falar-com-uma-pessoa.md"
   },
   {
    "id": "ac-glossario",
@@ -1486,6 +1722,85 @@
    "caminho": "area-do-cliente/geral/o-que-e-a-area-do-cliente.md"
   },
   {
+   "id": "ac-inicio-o-que-aparece",
+   "titulo": "o que aparece na página Início",
+   "objetivo": "entender cada parte da página `Início` e o que fazer a partir dela.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "geral",
+   "aba": "Início",
+   "tipos": [
+    "pagina-inicial",
+    "inicio",
+    "resumo",
+    "o-que-e-isso",
+    "painel"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "aparece",
+    "pagina",
+    "inicio",
+    "geral",
+    "inicial",
+    "resumo",
+    "painel",
+    "entender",
+    "cada",
+    "parte",
+    "partir",
+    "dela"
+   ],
+   "base": "area-do-cliente",
+   "caminho": "area-do-cliente/geral/pagina-inicio.md"
+  },
+  {
+   "id": "ac-primeiros-passos",
+   "titulo": "acabei de comprar: por onde começo",
+   "objetivo": "saber, na ordem, o que fazer depois da compra para colocar o seu portal no ar e começar a usar a Área do Cliente.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "geral",
+   "aba": "nao-se-aplica",
+   "tipos": [
+    "primeiro-acesso",
+    "acabei-de-comprar",
+    "por-onde-comecar",
+    "o-que-fazer-agora"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "acabei",
+    "comprar",
+    "comeco",
+    "geral",
+    "aplica",
+    "primeiro",
+    "acesso",
+    "comecar",
+    "agora",
+    "saber",
+    "ordem",
+    "depois",
+    "compra",
+    "colocar",
+    "portal",
+    "usar",
+    "area",
+    "cliente"
+   ],
+   "base": "area-do-cliente",
+   "caminho": "area-do-cliente/geral/primeiros-passos.md"
+  },
+  {
    "id": "ac-instalacao-confirmar-portal-no-ar",
    "titulo": "confirmar que o meu portal está no ar",
    "objetivo": "fazer a última etapa da instalação: conferir que você consegue entrar no portal e confirmar.",
@@ -1568,6 +1883,47 @@
    "caminho": "area-do-cliente/instalacao/dominio-dns-e-cloudflare-explicados.md"
   },
   {
+   "id": "ac-instalacao-dominio-ja-em-uso",
+   "titulo": "meu domínio já tem site ou e-mail: posso usar?",
+   "objetivo": "escolher a opção certa quando o domínio que você quer usar já tem outro site ou e-mail funcionando.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": "portal-da-cidade",
+   "modulo": "instalacao",
+   "aba": "Minha plataforma",
+   "tipos": [
+    "dominio-com-email",
+    "dominio-com-site",
+    "vou-perder-o-email",
+    "ja-uso-o-dominio"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "dominio",
+    "site",
+    "mail",
+    "usar",
+    "instalacao",
+    "plataforma",
+    "email",
+    "vou",
+    "perder",
+    "uso",
+    "escolher",
+    "opcao",
+    "certa",
+    "voce",
+    "quer",
+    "outro",
+    "funcionando"
+   ],
+   "base": "area-do-cliente",
+   "caminho": "area-do-cliente/instalacao/dominio-ja-em-uso.md"
+  },
+  {
    "id": "ac-instalacao-entrar-no-painel-do-portal",
    "titulo": "entrar no painel do meu portal com a conta da área do cliente",
    "objetivo": "entrar no painel administrativo do seu portal sem senha nova.",
@@ -1645,7 +2001,7 @@
   {
    "id": "ac-instalacao-falhou",
    "titulo": "a instalação falhou ou travou",
-   "objetivo": "entender o que fazer quando a instalação aparece como `Falhou`.",
+   "objetivo": "entender o que fazer quando a instalação aparece como `Sua instalação está em tratamento` ou `A instalação travou`.",
    "publico": [
     "cliente"
    ],
@@ -1667,14 +2023,15 @@
     "plataforma",
     "erro",
     "entender",
-    "aparece"
+    "aparece",
+    "tratamento"
    ],
    "base": "area-do-cliente",
    "caminho": "area-do-cliente/instalacao/instalacao-com-falha.md"
   },
   {
    "id": "ac-instalacao-em-andamento",
-   "titulo": "a instalação diz \"em andamento\": preciso fazer alguma coisa?",
+   "titulo": "a instalação diz \"Instalação em andamento\": preciso fazer alguma coisa?",
    "objetivo": "entender as etapas em que o sistema está trabalhando e você só precisa esperar.",
    "publico": [
     "cliente"
@@ -1720,8 +2077,8 @@
   },
   {
    "id": "ac-instalacao-em-atendimento-suporte",
-   "titulo": "a instalação está \"em atendimento do suporte\"",
-   "objetivo": "entender a situação `Em atendimento do suporte` e o que acontece depois.",
+   "titulo": "a instalação diz \"Chamado aberto com o suporte\"",
+   "objetivo": "entender a tela `Chamado aberto com o suporte` (no `Início`: `A instalação precisa do Suporte`) e o que acontece depois.",
    "publico": [
     "cliente"
    ],
@@ -1738,15 +2095,18 @@
    "revisado_em": "2026-10-21",
    "termos": [
     "instalacao",
-    "atendimento",
+    "diz",
+    "chamado",
+    "aberto",
     "suporte",
     "plataforma",
     "consigo",
     "acessar",
     "portal",
-    "chamado",
     "entender",
-    "situacao",
+    "tela",
+    "inicio",
+    "precisa",
     "acontece",
     "depois"
    ],
@@ -1829,6 +2189,79 @@
    "caminho": "area-do-cliente/instalacao/meu-site-nao-abre.md"
   },
   {
+   "id": "ac-instalacao-minha-plataforma-indisponivel",
+   "titulo": "clico em Minha plataforma e volto para a Visão geral",
+   "objetivo": "entender por que `Minha plataforma` não abre e como voltar a usá-la.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": "portal-da-cidade",
+   "modulo": "instalacao",
+   "aba": "Minha plataforma",
+   "tipos": [
+    "minha-plataforma-nao-abre",
+    "volta-para-visao-geral",
+    "instalacao-bloqueada"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "clico",
+    "plataforma",
+    "volto",
+    "visao",
+    "geral",
+    "instalacao",
+    "abre",
+    "volta",
+    "bloqueada",
+    "entender",
+    "voltar",
+    "usa"
+   ],
+   "base": "area-do-cliente",
+   "caminho": "area-do-cliente/instalacao/minha-plataforma-indisponivel.md"
+  },
+  {
+   "id": "ac-instalacao-nao-tenho-dominio",
+   "titulo": "ainda não tenho um domínio: o que faço?",
+   "objetivo": "saber como conseguir um domínio para o seu portal antes de começar a instalação.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": "portal-da-cidade",
+   "modulo": "instalacao",
+   "aba": "Minha plataforma",
+   "tipos": [
+    "nao-tenho-dominio",
+    "comprar-dominio",
+    "registrar-dominio",
+    "qual-endereco"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "ainda",
+    "tenho",
+    "dominio",
+    "faco",
+    "instalacao",
+    "plataforma",
+    "comprar",
+    "registrar",
+    "endereco",
+    "saber",
+    "conseguir",
+    "portal",
+    "antes",
+    "comecar"
+   ],
+   "base": "area-do-cliente",
+   "caminho": "area-do-cliente/instalacao/nao-tenho-dominio.md"
+  },
+  {
    "id": "ac-instalacao-concluida-acessos",
    "titulo": "meu portal está no ar: onde ficam o endereço, o painel e os links",
    "objetivo": "encontrar o endereço do seu site, o painel administrativo e os links úteis do portal depois da instalação.",
@@ -1870,7 +2303,7 @@
   {
    "id": "ac-instalacao-propagacao-dns",
    "titulo": "o que é a propagação do DNS e quanto tempo demora",
-   "objetivo": "entender a etapa `Aguardando propagação` e o tempo que ela pode levar.",
+   "objetivo": "entender a espera depois de apontar o domínio (etapa `Conexão DNS`, tela `Testando o acesso ao portal`) e o tempo que ela pode levar.",
    "publico": [
     "cliente"
    ],
@@ -1900,7 +2333,16 @@
     "ainda",
     "abre",
     "entender",
+    "espera",
+    "depois",
+    "apontar",
+    "dominio",
     "etapa",
+    "conexao",
+    "tela",
+    "testando",
+    "acesso",
+    "portal",
     "ela",
     "levar"
    ],
@@ -2468,6 +2910,82 @@
    "caminho": "area-do-cliente/negocios/situacao-do-negocio.md"
   },
   {
+   "id": "ac-negocio-transferir",
+   "titulo": "passar o negócio para outra pessoa ou outra conta",
+   "objetivo": "saber como pedir a troca do dono de um negócio.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "negocios",
+   "aba": "Meus negócios",
+   "tipos": [
+    "transferir-negocio",
+    "mudar-titular",
+    "vender-licenca",
+    "passar-para-socio"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "passar",
+    "negocio",
+    "outra",
+    "pessoa",
+    "conta",
+    "negocios",
+    "transferir",
+    "mudar",
+    "titular",
+    "vender",
+    "licenca",
+    "socio",
+    "saber",
+    "pedir",
+    "troca",
+    "dono"
+   ],
+   "base": "area-do-cliente",
+   "caminho": "area-do-cliente/negocios/transferir-negocio.md"
+  },
+  {
+   "id": "ac-negocio-trocar-de-cidade",
+   "titulo": "quero trocar a cidade do meu negócio",
+   "objetivo": "saber o que fazer quando você quer o negócio em outra cidade, no lugar da atual.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "negocios",
+   "aba": "Meus negócios",
+   "tipos": [
+    "trocar-cidade",
+    "mudar-cidade",
+    "cidade-errada",
+    "outra-cidade"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "trocar",
+    "cidade",
+    "negocio",
+    "negocios",
+    "mudar",
+    "errada",
+    "outra",
+    "saber",
+    "voce",
+    "quer",
+    "lugar",
+    "atual"
+   ],
+   "base": "area-do-cliente",
+   "caminho": "area-do-cliente/negocios/trocar-de-cidade.md"
+  },
+  {
    "id": "ac-negocios-ver-lista",
    "titulo": "ver meus negócios e entrar em um deles",
    "objetivo": "ver todos os seus negócios (cidades) e abrir o que você quer gerenciar.",
@@ -2762,6 +3280,79 @@
    "caminho": "area-do-cliente/suporte/chat-de-suporte-com-ia.md"
   },
   {
+   "id": "ac-suporte-fechar-chamado",
+   "titulo": "posso fechar ou cancelar o meu chamado?",
+   "objetivo": "saber o que fazer quando o problema do chamado já foi resolvido.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "suporte",
+   "aba": "Suporte",
+   "tipos": [
+    "fechar-chamado",
+    "cancelar-chamado",
+    "ja-resolvi",
+    "encerrar-chamado"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "fechar",
+    "cancelar",
+    "chamado",
+    "suporte",
+    "resolvi",
+    "encerrar",
+    "saber",
+    "problema",
+    "foi",
+    "resolvido"
+   ],
+   "base": "area-do-cliente",
+   "caminho": "area-do-cliente/suporte/fechar-meu-chamado.md"
+  },
+  {
+   "id": "ac-suporte-prazo-de-resposta",
+   "titulo": "quanto tempo o suporte demora para responder",
+   "objetivo": "saber como acompanhar a resposta do seu chamado e o que fazer enquanto espera.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "suporte",
+   "aba": "Suporte",
+   "tipos": [
+    "demora",
+    "prazo-de-resposta",
+    "ninguem-respondeu",
+    "quando-vao-responder"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "quanto",
+    "tempo",
+    "suporte",
+    "demora",
+    "responder",
+    "prazo",
+    "resposta",
+    "ninguem",
+    "respondeu",
+    "vao",
+    "saber",
+    "acompanhar",
+    "chamado",
+    "enquanto",
+    "espera"
+   ],
+   "base": "area-do-cliente",
+   "caminho": "area-do-cliente/suporte/prazo-de-resposta.md"
+  },
+  {
    "id": "ac-responder-chamado-fechado",
    "titulo": "responder um chamado que já está fechado",
    "objetivo": "continuar um assunto cujo chamado já foi fechado.",
@@ -3034,6 +3625,44 @@
    ],
    "base": "area-do-cliente",
    "caminho": "area-do-cliente/treinamento/onde-fica-o-treinamento.md"
+  },
+  {
+   "id": "ac-treinamento-start",
+   "titulo": "o que é o Start e o \"Comece aqui\"",
+   "objetivo": "saber qual é o primeiro conteúdo a assistir e onde ele fica.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "treinamento",
+   "aba": "Treinamentos",
+   "tipos": [
+    "start",
+    "comece-aqui",
+    "primeiro-modulo",
+    "tour",
+    "por-onde-comecar"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "start",
+    "comece",
+    "treinamento",
+    "treinamentos",
+    "primeiro",
+    "modulo",
+    "tour",
+    "comecar",
+    "saber",
+    "conteudo",
+    "assistir",
+    "ele",
+    "fica"
+   ],
+   "base": "area-do-cliente",
+   "caminho": "area-do-cliente/treinamento/start-comece-aqui.md"
   },
   {
    "id": "ac-treinamento-bloqueado",
@@ -3518,6 +4147,7 @@
    "aba": "nao-se-aplica",
    "tipos": [],
    "videos": [
+    "wukhVMFEHWg",
     "JdJr7pXVx98"
    ],
    "status": "rascunho-documental",
@@ -4691,6 +5321,7 @@
    "aba": "nao-se-aplica",
    "tipos": [],
    "videos": [
+    "wukhVMFEHWg",
     "JdJr7pXVx98"
    ],
    "status": "rascunho-documental",
@@ -5140,6 +5771,7 @@
    "aba": "nao-se-aplica",
    "tipos": [],
    "videos": [
+    "wukhVMFEHWg",
     "JdJr7pXVx98"
    ],
    "status": "rascunho-documental",
@@ -7677,7 +8309,9 @@
     "pedidos-delivery",
     "pedido-ausente"
    ],
-   "videos": [],
+   "videos": [
+    "viWXA8_mZf4"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-15",
    "termos": [
@@ -7759,7 +8393,9 @@
     "publicidade no portal",
     "colocar minha propaganda"
    ],
-   "videos": [],
+   "videos": [
+    "Mu5xmUB7w9o"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
    "termos": [
@@ -7839,7 +8475,9 @@
    "tipos": [
     "vagas-proprias"
    ],
-   "videos": [],
+   "videos": [
+    "525qfVrQ4iY"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-19",
    "termos": [
@@ -7873,7 +8511,7 @@
     "salvar evento"
    ],
    "videos": [
-    "Hyh3UxHW_jU"
+    "aNqs6gSprvs"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -7913,7 +8551,9 @@
     "editar-perfil-empresa",
     "contato-incorreto"
    ],
-   "videos": [],
+   "videos": [
+    "OInXMQlSWqw"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-15",
    "termos": [
@@ -7949,7 +8589,9 @@
     "editar-perfil-empresa",
     "contato-incorreto"
    ],
-   "videos": [],
+   "videos": [
+    "OInXMQlSWqw"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-15",
    "termos": [
@@ -7984,6 +8626,7 @@
     "status-do-anuncio"
    ],
    "videos": [
+    "S-YcDWiimEo",
     "4pc8AwOX0hA"
    ],
    "status": "rascunho-documental",
@@ -8023,7 +8666,9 @@
     "cupons-da-empresa",
     "cupom-nao-aparece"
    ],
-   "videos": [],
+   "videos": [
+    "v7uO6kjwVOA"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-15",
    "termos": [
@@ -8228,7 +8873,9 @@
     "quero um plano pago",
     "como pago o plano"
    ],
-   "videos": [],
+   "videos": [
+    "yuJhd0nadEE"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
    "termos": [
@@ -8455,7 +9102,9 @@
     "quando vence meu plano",
     "minha assinatura"
    ],
-   "videos": [],
+   "videos": [
+    "yuJhd0nadEE"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
    "termos": [
@@ -8504,7 +9153,9 @@
     "anuncios-proprios",
     "status-do-anuncio"
    ],
-   "videos": [],
+   "videos": [
+    "S-YcDWiimEo"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-19",
    "termos": [
@@ -8537,7 +9188,9 @@
     "contato-cliente-orcamento",
     "ver-pedidos-orcamento"
    ],
-   "videos": [],
+   "videos": [
+    "KiGU9vNKIwg"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-17",
    "termos": [
@@ -8628,7 +9281,9 @@
     "editar-perfil-empresa",
     "contato-incorreto"
    ],
-   "videos": [],
+   "videos": [
+    "OInXMQlSWqw"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-15",
    "termos": [
@@ -8660,7 +9315,9 @@
    "modulo": "acesso",
    "aba": "nao-se-aplica",
    "tipos": [],
-   "videos": [],
+   "videos": [
+    "Uv6Zt7V9YN0"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-19",
    "termos": [

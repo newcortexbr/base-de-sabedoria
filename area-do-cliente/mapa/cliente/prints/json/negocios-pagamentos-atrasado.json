@@ -1,0 +1,557 @@
+{
+ "rota": "/negocios/[licenseId]/pagamentos?atrasado",
+ "url": "/negocios/f7b0b395-b6c7-43bb-b7c7-cbb144f0338c/pagamentos",
+ "titulo": "Área do Cliente New Córtex",
+ "status_http": 200,
+ "itens": [
+  {
+   "tipo": "link",
+   "texto": "Meus negócios",
+   "regiao": "caminho no topo",
+   "caixa": [
+    272,
+    20,
+    97,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Portal da Cidade · Aracruz/ES",
+   "regiao": "caminho no topo",
+   "caixa": [
+    404,
+    20,
+    193,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "FINANCEIRO DO SEU PORTAL",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    100,
+    518,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    110,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Pagamentos",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    122,
+    1080,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus negócios",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    151,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Vencimentos e histórico da reserva territorial e da mensalidade de Aracruz/ES.",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    160,
+    666,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Visão geral",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    192,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "GUIA DOS PAGAMENTOS Entenda suas duas cobranças. Vídeo em breve",
+   "regiao": "conteúdo",
+   "caixa": [
+    283,
+    211,
+    424,
+    238
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha plataforma",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    233,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Treinamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    274,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Como funcionam seus pagamentos?",
+   "regiao": "conteúdo",
+   "caixa": [
+    729,
+    280,
+    600,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Saiba o que cobre a reserva territorial anual, o que está incluído na mensalidade e onde consultar vencimentos e comprovantes.",
+   "regiao": "conteúdo",
+   "caixa": [
+    729,
+    312,
+    592,
+    39
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ferramentas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    315,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Lives",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    356,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Suporte",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    397,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Pagamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    438,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Situação dos pagamentos",
+   "regiao": "conteúdo",
+   "caixa": [
+    272,
+    484,
+    1080,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "As duas obrigações precisam estar em dia para manter portal e ferramentas ativos.",
+   "regiao": "conteúdo",
+   "caixa": [
+    272,
+    512,
+    592,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Reserva territorial",
+   "regiao": "conteúdo",
+   "caixa": [
+    291,
+    618,
+    494,
+    21
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Mensalidade",
+   "regiao": "conteúdo",
+   "caixa": [
+    839,
+    618,
+    494,
+    21
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Pagamento anual para manter a reserva da sua cidade.",
+   "regiao": "conteúdo",
+   "caixa": [
+    291,
+    648,
+    494,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Manutenção, atualizações, suporte e ferramentas adicionais.",
+   "regiao": "conteúdo",
+   "caixa": [
+    839,
+    648,
+    494,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Portal e ferramentas aguardam a regularização desta cobrança.",
+   "regiao": "conteúdo",
+   "caixa": [
+    839,
+    675,
+    494,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Próximo vencimento",
+   "regiao": "conteúdo",
+   "caixa": [
+    291,
+    698,
+    121,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Ainda não disponível",
+   "regiao": "conteúdo",
+   "caixa": [
+    659,
+    698,
+    126,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Venceu em",
+   "regiao": "conteúdo",
+   "caixa": [
+    839,
+    725,
+    64,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "15/10/2026",
+   "regiao": "conteúdo",
+   "caixa": [
+    1259,
+    725,
+    74,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Acessar suporte",
+   "regiao": "menu lateral",
+   "caixa": [
+    26,
+    726,
+    130,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Último pagamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    291,
+    742,
+    108,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "11/09/2026",
+   "regiao": "conteúdo",
+   "caixa": [
+    711,
+    742,
+    74,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Valor em aberto",
+   "regiao": "conteúdo",
+   "caixa": [
+    839,
+    770,
+    94,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "R$ 197,00",
+   "regiao": "conteúdo",
+   "caixa": [
+    1271,
+    770,
+    62,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "ME Mariana Souza Exemplo Minha conta",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    775,
+    207,
+    63
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver detalhes da reserva",
+   "regiao": "conteúdo",
+   "caixa": [
+    291,
+    813,
+    494,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Regularizar pagamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    839,
+    813,
+    494,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    848,
+    207,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Atraso superior a 5 dias em qualquer uma das cobranças suspende o portal e as ferramentas até a regularização.",
+   "regiao": "conteúdo",
+   "caixa": [
+    272,
+    890,
+    592,
+    37
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Histórico de cobranças",
+   "regiao": "conteúdo",
+   "caixa": [
+    291,
+    964,
+    169,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Todas 3",
+   "regiao": "conteúdo",
+   "caixa": [
+    295,
+    1003,
+    74,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Reserva territorial 1",
+   "regiao": "conteúdo",
+   "caixa": [
+    373,
+    1003,
+    142,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Mensalidade 2",
+   "regiao": "conteúdo",
+   "caixa": [
+    519,
+    1003,
+    114,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Regularizar (abre em nova aba)",
+   "regiao": "conteúdo",
+   "caixa": [
+    1238,
+    1112,
+    91,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver comprovante (abre em nova aba)",
+   "regiao": "conteúdo",
+   "caixa": [
+    1202,
+    1178,
+    127,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver comprovante (abre em nova aba)",
+   "regiao": "conteúdo",
+   "caixa": [
+    1202,
+    1244,
+    127,
+    32
+   ],
+   "linha": 0
+  }
+ ]
+}

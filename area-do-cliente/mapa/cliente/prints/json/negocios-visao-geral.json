@@ -1,0 +1,461 @@
+{
+ "rota": "/negocios/[licenseId]",
+ "url": "/negocios/06bd6b46-cdf0-4daf-87da-b2401bf39242",
+ "titulo": "Área do Cliente New Córtex",
+ "status_http": 200,
+ "itens": [
+  {
+   "tipo": "link",
+   "texto": "Meus negócios",
+   "regiao": "caminho no topo",
+   "caixa": [
+    272,
+    20,
+    97,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Visão geral",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    100,
+    1120,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    110,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Portal da Cidade · Linhares / ES",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    138,
+    666,
+    21
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus negócios",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    151,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Visão geral",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    192,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha plataforma",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    233,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Treinamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    274,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Ferramentas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    315,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Lives",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    356,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Suporte",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    397,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Pagamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    438,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Acompanhe seu negócio por aqui",
+   "regiao": "conteúdo",
+   "caixa": [
+    694,
+    531,
+    275,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Entenda a situação do portal, os vencimentos e como continuar seu treinamento.",
+   "regiao": "conteúdo",
+   "caixa": [
+    587,
+    558,
+    490,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver o que fazer",
+   "regiao": "conteúdo",
+   "caixa": [
+    1208,
+    678,
+    160,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Linhares ainda não está no ar",
+   "regiao": "conteúdo",
+   "caixa": [
+    296,
+    682,
+    592,
+    26
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Troque os nameservers no painel onde você registrou o domínio. A instalação segue sozinha assim que a mudança propagar.",
+   "regiao": "conteúdo",
+   "caixa": [
+    296,
+    713,
+    592,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Acessar suporte",
+   "regiao": "menu lateral",
+   "caixa": [
+    26,
+    726,
+    130,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "ME Mariana Souza Exemplo Minha conta",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    775,
+    207,
+    63
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Seu próximo passo",
+   "regiao": "conteúdo",
+   "caixa": [
+    293,
+    816,
+    145,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Seus pagamentos",
+   "regiao": "conteúdo",
+   "caixa": [
+    862,
+    816,
+    138,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    848,
+    207,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Instalação do seu portal",
+   "regiao": "conteúdo",
+   "caixa": [
+    293,
+    852,
+    509,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Reserva territorial · anualR$ 4.970,00 Próximo vencimento: após a instalação Em dia",
+   "regiao": "conteúdo",
+   "caixa": [
+    862,
+    852,
+    509,
+    67
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Reserva territorial · anualR$ 4.970,00",
+   "regiao": "conteúdo",
+   "caixa": [
+    862,
+    864,
+    233,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Aprenda instalação do seu portal passo a passo.",
+   "regiao": "conteúdo",
+   "caixa": [
+    293,
+    880,
+    509,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Próximo vencimento: após a instalação",
+   "regiao": "conteúdo",
+   "caixa": [
+    862,
+    887,
+    233,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "3 aulas neste módulo",
+   "regiao": "conteúdo",
+   "caixa": [
+    293,
+    911,
+    509,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "3 aulas neste módulo",
+   "regiao": "conteúdo",
+   "caixa": [
+    293,
+    911,
+    509,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Mensalidade · manutençãoR$ 197,00 Próximo vencimento: 31/10/2026 A vencer",
+   "regiao": "conteúdo",
+   "caixa": [
+    862,
+    919,
+    509,
+    67
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Mensalidade · manutençãoR$ 197,00",
+   "regiao": "conteúdo",
+   "caixa": [
+    862,
+    931,
+    236,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Próximo vencimento: 31/10/2026",
+   "regiao": "conteúdo",
+   "caixa": [
+    862,
+    954,
+    236,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Continuar meu Start",
+   "regiao": "conteúdo",
+   "caixa": [
+    293,
+    969,
+    192,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver pagamentos",
+   "regiao": "conteúdo",
+   "caixa": [
+    862,
+    1004,
+    166,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Precisa de um link do seu portal?",
+   "regiao": "conteúdo",
+   "caixa": [
+    349,
+    1105,
+    1022,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Os links do seu portal ficam disponíveis assim que ele for publicado.",
+   "regiao": "conteúdo",
+   "caixa": [
+    349,
+    1128,
+    592,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Acessar suporte",
+   "regiao": "conteúdo",
+   "caixa": [
+    1265,
+    1186,
+    127,
+    24
+   ],
+   "linha": 0
+  }
+ ]
+}

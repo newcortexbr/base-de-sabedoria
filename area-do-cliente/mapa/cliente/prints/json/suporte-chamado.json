@@ -1,0 +1,425 @@
+{
+ "rota": "/suporte/[ticketId]",
+ "url": "/suporte/49e20f8b-64cd-4de0-b309-32970c5afdfd",
+ "titulo": "Área do Cliente New Córtex",
+ "status_http": 200,
+ "itens": [
+  {
+   "tipo": "link",
+   "texto": "Suporte",
+   "regiao": "caminho no topo",
+   "caixa": [
+    272,
+    20,
+    51,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Voltar aos chamados",
+   "regiao": "conteúdo",
+   "caixa": [
+    272,
+    100,
+    1132,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    110,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus negócios",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    151,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "#1 Dúvida sobre a troca dos nameservers",
+   "regiao": "conteúdo",
+   "caixa": [
+    272,
+    154,
+    1132,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Visão geral",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    192,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha plataforma",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    233,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Histórico do atendimento",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    273,
+    277,
+    29
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Dados do chamado",
+   "regiao": "conteúdo",
+   "caixa": [
+    1111,
+    273,
+    266,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Treinamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    274,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "selo",
+   "texto": "Aguardando você",
+   "regiao": "conteúdo",
+   "caixa": [
+    1111,
+    307,
+    156,
+    27
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ferramentas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    315,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "ME Mariana Souza Exemplo 20/10/2026, 11:45 Olá! Entrei no Registro.br mas não achei onde trocar os nameservers do meu domínio. Podem me ajud",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    320,
+    734,
+    118
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Olá! Entrei no Registro.br mas não achei onde trocar os nameservers do meu domínio. Podem me ajudar?",
+   "regiao": "conteúdo",
+   "caixa": [
+    349,
+    348,
+    666,
+    47
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "#1",
+   "regiao": "conteúdo",
+   "caixa": [
+    1223,
+    352,
+    20,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Protocolo",
+   "regiao": "conteúdo",
+   "caixa": [
+    1111,
+    354,
+    96,
+    21
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Lives",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    356,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Suporte",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    397,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Portal da Cidade — Linhares/ES",
+   "regiao": "conteúdo",
+   "caixa": [
+    1223,
+    400,
+    154,
+    47
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Negócio",
+   "regiao": "conteúdo",
+   "caixa": [
+    1111,
+    402,
+    96,
+    21
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Pagamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    438,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Equipe New Córtex 21/10/2026, 09:45 Oi, Mariana! No Registro.br, entre em Domínios > seu domínio > DNS > Alterar servidores DNS e cole os do",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    438,
+    734,
+    162
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "21/10/2026, 11:45",
+   "regiao": "conteúdo",
+   "caixa": [
+    1223,
+    472,
+    144,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Aberto em",
+   "regiao": "conteúdo",
+   "caixa": [
+    1111,
+    474,
+    96,
+    21
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Oi, Mariana! No Registro.br, entre em Domínios > seu domínio > DNS > Alterar servidores DNS e cole os dois nameservers que aparecem na tela ",
+   "regiao": "conteúdo",
+   "caixa": [
+    349,
+    488,
+    666,
+    70
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Responder",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    671,
+    99,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Acessar suporte",
+   "regiao": "menu lateral",
+   "caixa": [
+    26,
+    726,
+    130,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "envio de arquivo",
+   "texto": "Anexar arquivo",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    744,
+    734,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Até 100 MB por arquivo, no máximo 20 arquivos por chamado.",
+   "regiao": "conteúdo",
+   "caixa": [
+    481,
+    756,
+    404,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "ME Mariana Souza Exemplo Minha conta",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    775,
+    207,
+    63
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Sua resposta (aceita markdown)",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    839,
+    734,
+    102
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    848,
+    207,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "nada ainda",
+   "regiao": "conteúdo",
+   "caixa": [
+    314,
+    1001,
+    666,
+    21
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Enviar resposta",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    1051,
+    159,
+    46
+   ],
+   "linha": 0
+  }
+ ]
+}

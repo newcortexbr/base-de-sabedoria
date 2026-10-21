@@ -13,6 +13,8 @@ modulo: acesso
 status: rascunho-documental
 revisado_em: 2026-10-19
 validacao: docs-e-codigo
+videos:
+  - Uv6Zt7V9YN0
 ---
 
 ## objetivo

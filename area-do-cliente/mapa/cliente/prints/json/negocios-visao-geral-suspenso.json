@@ -1,0 +1,461 @@
+{
+ "rota": "/negocios/[licenseId]?suspenso",
+ "url": "/negocios/f7b0b395-b6c7-43bb-b7c7-cbb144f0338c",
+ "titulo": "Área do Cliente New Córtex",
+ "status_http": 200,
+ "itens": [
+  {
+   "tipo": "link",
+   "texto": "Meus negócios",
+   "regiao": "caminho no topo",
+   "caixa": [
+    272,
+    20,
+    97,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Visão geral",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    100,
+    1120,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    110,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Portal da Cidade · Aracruz / ES",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    138,
+    666,
+    21
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus negócios",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    151,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Visão geral",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    192,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha plataforma",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    233,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Treinamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    274,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Ferramentas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    315,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Lives",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    356,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Suporte",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    397,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Pagamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    438,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Acompanhe seu negócio por aqui",
+   "regiao": "conteúdo",
+   "caixa": [
+    694,
+    531,
+    275,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Entenda a situação do portal, os vencimentos e como continuar seu treinamento.",
+   "regiao": "conteúdo",
+   "caixa": [
+    587,
+    558,
+    490,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Regularizar pagamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    1156,
+    668,
+    212,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Aracruz está suspenso",
+   "regiao": "conteúdo",
+   "caixa": [
+    296,
+    682,
+    443,
+    26
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Portal e ferramentas ficam suspensos até a regularização do pagamento.",
+   "regiao": "conteúdo",
+   "caixa": [
+    296,
+    713,
+    443,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Acessar suporte",
+   "regiao": "menu lateral",
+   "caixa": [
+    26,
+    726,
+    130,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "ME Mariana Souza Exemplo Minha conta",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    775,
+    207,
+    63
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Seu próximo passo",
+   "regiao": "conteúdo",
+   "caixa": [
+    293,
+    796,
+    145,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Seus pagamentos",
+   "regiao": "conteúdo",
+   "caixa": [
+    862,
+    796,
+    138,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Instalação do seu portal",
+   "regiao": "conteúdo",
+   "caixa": [
+    293,
+    832,
+    509,
+    18
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Reserva territorial · anualR$ 4.970,00 Próximo vencimento: após a instalação Em dia",
+   "regiao": "conteúdo",
+   "caixa": [
+    862,
+    832,
+    509,
+    67
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Reserva territorial · anualR$ 4.970,00",
+   "regiao": "conteúdo",
+   "caixa": [
+    862,
+    844,
+    233,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    848,
+    207,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Aprenda instalação do seu portal passo a passo.",
+   "regiao": "conteúdo",
+   "caixa": [
+    293,
+    860,
+    509,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Próximo vencimento: após a instalação",
+   "regiao": "conteúdo",
+   "caixa": [
+    862,
+    867,
+    233,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "selo",
+   "texto": "3 aulas neste módulo",
+   "regiao": "conteúdo",
+   "caixa": [
+    293,
+    890,
+    509,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "3 aulas neste módulo",
+   "regiao": "conteúdo",
+   "caixa": [
+    293,
+    890,
+    509,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Mensalidade · manutençãoR$ 197,00 Próximo vencimento: 15/10/2026 Suspenso",
+   "regiao": "conteúdo",
+   "caixa": [
+    862,
+    899,
+    509,
+    67
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Mensalidade · manutençãoR$ 197,00",
+   "regiao": "conteúdo",
+   "caixa": [
+    862,
+    911,
+    236,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Próximo vencimento: 15/10/2026",
+   "regiao": "conteúdo",
+   "caixa": [
+    862,
+    934,
+    236,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Continuar meu Start",
+   "regiao": "conteúdo",
+   "caixa": [
+    293,
+    949,
+    192,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver pagamentos",
+   "regiao": "conteúdo",
+   "caixa": [
+    862,
+    984,
+    166,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Precisa de um link do seu portal?",
+   "regiao": "conteúdo",
+   "caixa": [
+    349,
+    1085,
+    1022,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Os links do seu portal ficam disponíveis assim que ele for publicado.",
+   "regiao": "conteúdo",
+   "caixa": [
+    349,
+    1108,
+    592,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Acessar suporte",
+   "regiao": "conteúdo",
+   "caixa": [
+    1265,
+    1166,
+    127,
+    24
+   ],
+   "linha": 0
+  }
+ ]
+}

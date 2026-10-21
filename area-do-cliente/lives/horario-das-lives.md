@@ -35,10 +35,10 @@ você sabe a hora certa de entrar.
 se o horário do cartão e o do seu calendário não baterem, abra um chamado em `Suporte`.
 
 ## fontes
-- `area-clientes/src/domain/lives/agenda.ts:7`
-- `area-clientes/src/domain/lives/agenda.ts:8`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/page.tsx:75`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:236`
+- `src/domain/lives/agenda.ts:7`
+- `src/domain/lives/agenda.ts:8`
+- `src/app/(cliente)/negocios/[licenseId]/lives/page.tsx:75`
+- `src/app/(cliente)/negocios/[licenseId]/lives/LivesCliente.tsx:236`
 
 ## lacunas
 a lista de estados com fuso diferente é conhecimento geral, não texto da tela.

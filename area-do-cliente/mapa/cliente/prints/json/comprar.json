@@ -1,0 +1,68 @@
+{
+ "rota": "/comprar",
+ "url": "/comprar",
+ "titulo": "Área do Cliente New Córtex",
+ "status_http": 200,
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "O portal da sua cidade, com exclusividade.",
+   "regiao": "conteúdo",
+   "caixa": [
+    48,
+    140,
+    496,
+    161
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Uma licença por município. Você opera o portal, vende os anúncios e fica com a receita.",
+   "regiao": "conteúdo",
+   "caixa": [
+    48,
+    357,
+    544,
+    56
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Comprar",
+   "regiao": "conteúdo",
+   "caixa": [
+    48,
+    444,
+    119,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "aviso",
+   "texto": "Escolha um produto pela página de vendas dele para continuar a compra.",
+   "regiao": "conteúdo",
+   "caixa": [
+    48,
+    488,
+    468,
+    73
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Escolha um produto pela página de vendas dele para continuar a compra.",
+   "regiao": "conteúdo",
+   "caixa": [
+    48,
+    488,
+    468,
+    73
+   ],
+   "linha": 0
+  }
+ ]
+}

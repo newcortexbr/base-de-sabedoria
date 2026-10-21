@@ -20,7 +20,7 @@ validacao: docs-e-codigo
 colocar o portal num subdomínio de um domínio que você já usa em outro site, sem mexer no site atual.
 
 ## pré-requisitos
-- instalação em `Aguardando domínio`.
+- o domínio ainda não foi informado (no cartão de `Meus negócios`: `Instalação pendente`, botão `Iniciar instalação`).
 - acesso ao painel onde o DNS do seu domínio é administrado (registrador ou Cloudflare).
 
 ## passos
@@ -52,16 +52,16 @@ a tela mostra `Conferindo o apontamento automaticamente, a cada minuto. Assim qu
 se já criou o registro há mais de 24 horas e a etapa não avançou, abra um chamado em `Suporte` com um print do registro criado.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:379`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/etapa-real.ts:451`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/page.tsx:179`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/page.tsx:188`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/page.tsx:200`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/page.tsx:220`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/page.tsx:229`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/page.tsx:240`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:686`
-- `area-clientes/src/domain/instalacao/declare-subdomain.ts:211`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:379`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/etapa-real.ts:451`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/page.tsx:179`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/page.tsx:188`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/page.tsx:200`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/page.tsx:220`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/page.tsx:229`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/page.tsx:240`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:686`
+- `src/domain/instalacao/declare-subdomain.ts:211`
 
 ## lacunas
 - o tipo de registro pode ser `CNAME`, `A` ou `AAAA`, conforme o destino configurado pela equipe; a tela mostra o certo.

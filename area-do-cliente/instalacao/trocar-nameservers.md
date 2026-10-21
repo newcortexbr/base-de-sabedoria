@@ -23,7 +23,7 @@ apontar o seu domínio próprio para o portal trocando os 2 nameservers (servido
 
 ## pré-requisitos
 - ter informado um domínio próprio.
-- a instalação estar em `Aguardando troca de nameservers` (no cartão: `Falta trocar os nameservers`).
+- no `Início` ou em `Meus negócios` aparecer `Falta trocar os nameservers`, com o botão `Ver o que fazer`.
 - ter o login do site onde registrou o domínio (Registro.br, Hostinger ou outro).
 
 ## passos
@@ -37,7 +37,7 @@ apontar o seu domínio próprio para o portal trocando os 2 nameservers (servido
 8. Volte à área do cliente e clique em `Já configurei`.
 
 ## resultado
-a tela mostra `Procurando o apontamento DNS`: `Se já salvou a alteração, agora é só aguardar. Vamos detectar o apontamento e avançar automaticamente para testar seu portal. Pode levar de alguns minutos até 24 horas, conforme o registrador.` você pode fechar a tela. quando a mudança for detectada, a instalação vai para `Aguardando propagação` e depois para a confirmação final.
+a tela mostra `Procurando o apontamento DNS`: `Se já salvou a alteração, agora é só aguardar. Vamos detectar o apontamento e avançar automaticamente para testar seu portal. Pode levar de alguns minutos até 24 horas, conforme o registrador.` você pode fechar a tela. quando a mudança for detectada, a instalação passa para a etapa `Conexão DNS` (`Testando o acesso ao portal`) e depois para a confirmação final.
 
 ## explicação
 - o que você faz: só a troca dos 2 nameservers no registrador.
@@ -53,16 +53,16 @@ a tela mostra `Procurando o apontamento DNS`: `Se já salvou a alteração, agor
 se passaram 24 horas da troca e a etapa não avançou, abra um chamado em `Suporte` com um print da tela de DNS do registrador.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/inicio/pendencia-instalacao.ts:1`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:759`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:790`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:813`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:820`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:850`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:857`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:884`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/etapa-real.ts:174`
-- `area-clientes/docs/DECISIONS.md:760`
+- `src/app/(cliente)/inicio/pendencia-instalacao.ts:1`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:759`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:790`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:813`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:820`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:850`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:857`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:884`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/etapa-real.ts:174`
+- `docs/DECISIONS.md:760`
 
 ## lacunas
 - o caminho exato de menus dentro do Registro.br e da Hostinger não está no código; os passos 4 e 5 são genéricos. a tela tem um vídeo (`Como trocar os DNS do domínio`) que pode ter o passo a passo.

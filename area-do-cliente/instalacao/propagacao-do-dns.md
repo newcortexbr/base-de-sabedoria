@@ -17,7 +17,7 @@ validacao: docs-e-codigo
 ---
 
 ## objetivo
-entender a etapa `Aguardando propagação` e o tempo que ela pode levar.
+entender a espera depois de apontar o domínio (etapa `Conexão DNS`, tela `Testando o acesso ao portal`) e o tempo que ela pode levar.
 
 ## pré-requisitos
 - ter trocado os nameservers (domínio próprio) ou criado o registro (subdomínio).
@@ -34,7 +34,7 @@ entender a etapa `Aguardando propagação` e o tempo que ela pode levar.
 2. Volte a `Minha plataforma` depois de algumas horas.
 
 ## resultado
-quando a propagação termina, a instalação vai para `Plataforma pronta` e aparece a pergunta final para você confirmar se o portal está no ar.
+quando a propagação termina, a instalação passa para a etapa `Portal no ar` e aparece a pergunta final para você confirmar se o portal está no ar.
 
 ## desvios
 - `Não foi possível consultar os servidores agora. Tentamos de novo em instantes.`: é só a consulta ao vivo que falhou; a instalação continua.
@@ -44,14 +44,14 @@ quando a propagação termina, a instalação vai para `Plataforma pronta` e apa
 se passarem mais de 24 horas e a etapa não avançar, abra um chamado em `Suporte`.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/inicio/pendencia-instalacao.ts:1`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:697`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:769`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:820`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PropagacaoAoVivo.tsx:22`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PropagacaoAoVivo.tsx:113`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PropagacaoAoVivo.tsx:133`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PropagacaoAoVivo.tsx:172`
+- `src/app/(cliente)/inicio/pendencia-instalacao.ts:1`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:697`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:769`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:820`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PropagacaoAoVivo.tsx:22`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PropagacaoAoVivo.tsx:113`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PropagacaoAoVivo.tsx:133`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PropagacaoAoVivo.tsx:172`
 
 ## lacunas
 - a frase sobre o site abrir em um aparelho e não em outro é explicação geral de DNS, não texto da tela.

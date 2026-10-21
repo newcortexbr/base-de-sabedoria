@@ -41,15 +41,15 @@ a aula aparece como `Aula concluída` e a tela diz `Você concluiu esta aula.`. 
 se você marca e a marcação some depois de recarregar, abra um chamado em `Suporte`.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/ClienteAula.tsx:92`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/ClienteAula.tsx:101`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/ClienteAula.tsx:105`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/page.tsx:128`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/page.tsx:153`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/treinamento/page.tsx:160`
-- `area-clientes/src/ui/primitives/ActionForm.tsx:70`
-- `area-clientes/docs/REQUIREMENTS.md:193`
-- `area-clientes/docs/DECISIONS.md:765`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/ClienteAula.tsx:92`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/ClienteAula.tsx:101`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]/ClienteAula.tsx:105`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/page.tsx:128`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/page.tsx:153`
+- `src/app/(cliente)/negocios/[licenseId]/treinamento/page.tsx:160`
+- `src/ui/primitives/ActionForm.tsx:70`
+- `docs/REQUIREMENTS.md:193`
+- `docs/DECISIONS.md:765`
 
 ## lacunas
 - o progresso ser compartilhado entre cidades do mesmo produto é dedução da regra "conteúdo por cliente + produto"; não testado em tela.

@@ -16,7 +16,7 @@ validacao: docs-e-codigo
 ---
 
 ## objetivo
-entender o que fazer quando a instalação aparece como `Falhou`.
+entender o que fazer quando a instalação aparece como `Sua instalação está em tratamento` ou `A instalação travou`.
 
 ## pré-requisitos
 - nenhum.
@@ -32,20 +32,20 @@ entender o que fazer quando a instalação aparece como `Falhou`.
 2. Se quiser acompanhar, clique em `Falar com o suporte` e abra um chamado.
 
 ## resultado
-a equipe corrige e a instalação volta para `Domínio declarado` e segue o caminho normal.
+a equipe corrige e a instalação volta para a preparação da plataforma (`Preparando sua plataforma`) e segue o caminho normal.
 
 ## desvios
 - os detalhes técnicos do erro não aparecem para o cliente, de propósito.
 
 ## quando pedir ajuda
-se a situação continuar `Falhou` por mais de um dia útil, abra um chamado em `Suporte`.
+se a tela continuar em `Sua instalação está em tratamento` por mais de um dia útil, abra um chamado em `Suporte`.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/inicio/pendencia-instalacao.ts:1`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:1156`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:1163`
-- `area-clientes/src/domain/instalacao/state-machine.ts:172`
-- `area-clientes/docs/REQUIREMENTS.md:230`
+- `src/app/(cliente)/inicio/pendencia-instalacao.ts:1`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:1156`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:1163`
+- `src/domain/instalacao/state-machine.ts:172`
+- `docs/REQUIREMENTS.md:230`
 
 ## lacunas
 - não há prazo de correção no código; "um dia útil" é orientação deste artigo.

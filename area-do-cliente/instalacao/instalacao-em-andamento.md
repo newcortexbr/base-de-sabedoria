@@ -1,6 +1,6 @@
 ---
 id: ac-instalacao-em-andamento
-titulo: 'a instalação diz "em andamento": preciso fazer alguma coisa?'
+titulo: 'a instalação diz "Instalação em andamento": preciso fazer alguma coisa?'
 publico:
   - cliente
 produto: portal-da-cidade
@@ -24,10 +24,12 @@ entender as etapas em que o sistema está trabalhando e você só precisa espera
 - ter informado o domínio ou subdomínio.
 
 ## explicação
-nestas situações a ação é do sistema, não sua:
-- `Domínio declarado`: `Recebemos o domínio e a instalação já está em andamento.`
-- `Em provisionamento`: `Estamos preparando a plataforma.` (montando o portal, a área administrativa, os dados iniciais e o certificado de segurança).
-- `Aguardando zona de DNS`: `Estamos preparando o DNS do seu domínio.`
+nestas situações a ação é do sistema, não sua. no `Início` e em `Meus negócios` aparece `Instalação em andamento` (ou `Em instalação`), com uma destas frases:
+- `Recebemos o domínio e a instalação já está em andamento.`
+- `Estamos preparando a plataforma.` (montando o portal, a área administrativa, os dados iniciais e o certificado de segurança).
+- `Estamos preparando o DNS do seu domínio.`
+- `A mudança de DNS está propagando. Isso pode levar algumas horas.` (veja `ac-instalacao-propagacao-dns`).
+- `A plataforma está pronta e estamos concluindo os últimos passos.`
 
 na tela `Minha plataforma` aparece `Preparando sua plataforma`: `Estamos organizando tudo para receber seu domínio. Os dados de DNS aparecerão aqui automaticamente quando estiverem prontos.` a página se atualiza sozinha.
 
@@ -40,17 +42,17 @@ a instalação avança sozinha para a etapa em que você precisa agir.
 
 ## desvios
 - no subdomínio, você já pode criar o registro mostrado na tela enquanto o portal é preparado: `Estamos preparando a sua plataforma. Você já pode criar o registro acima enquanto isso.`
-- se a situação virar `Falhou`, veja o artigo sobre instalação com falha.
+- se aparecer `A instalação travou` ou `Sua instalação está em tratamento`, veja `ac-instalacao-falhou`.
 
 ## quando pedir ajuda
 se ficar muitas horas na mesma situação sem mudar, abra um chamado em `Suporte`.
 
 ## fontes
-- `area-clientes/src/app/(cliente)/inicio/pendencia-instalacao.ts:1`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/labels.ts:28`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:759`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:880`
-- `area-clientes/src/domain/instalacao/state-machine.ts:74`
+- `src/app/(cliente)/inicio/pendencia-instalacao.ts:1`
+- `src/app/(cliente)/negocios/[licenseId]/labels.ts:28`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:759`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:880`
+- `src/domain/instalacao/state-machine.ts:74`
 
 ## lacunas
 não há prazo documentado para essas etapas; "muitas horas" é orientação deste artigo.

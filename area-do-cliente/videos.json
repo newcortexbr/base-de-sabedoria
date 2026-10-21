@@ -1,0 +1,25 @@
+{
+  "leia-me": "Catálogo de vídeos do YouTube da Área do Cliente (mesmo formato de portal-da-cidade/videos.json). Os artigos da área do cliente citam os ids em `videos:`; o mapeamento proposto fica em videos-por-artigo.json. Os vídeos-guia das páginas (src/ui/videos-guia.ts da Área do Cliente) estão todos sem link em 2026-10-21, exceto LIVES, que é um vídeo provisório de terceiros e não entra aqui.",
+  "videos": [
+    {
+      "id": "JXWDV_IiAWQ",
+      "titulo": "Vídeo Home Dados PJ - Regras de Uso da Plataforma"
+    },
+    {
+      "id": "IKdKLgi-e94",
+      "titulo": "Como fazer uma Extração - Dados PJ"
+    },
+    {
+      "id": "F136_v1JyRY",
+      "titulo": "Visão Geral - Como Funciona o Extrator GMaps"
+    },
+    {
+      "id": "R9FCgunNxFE",
+      "titulo": "Como realizar extração Maps - Direto ao ponto"
+    },
+    {
+      "id": "jl7GHmHVJcM",
+      "titulo": "Como extrair lista Maps e Importar no Portal"
+    }
+  ]
+}

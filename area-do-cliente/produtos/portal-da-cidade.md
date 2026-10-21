@@ -38,7 +38,7 @@ o que vem incluso em cada cidade:
 - suporte por chamados (`Suporte`).
 
 como é cobrado:
-- duas cobranças por cidade: a mensalidade e a reserva territorial (anual). as duas precisam estar em dia; atraso de mais de 5 dias em qualquer uma suspende o portal e as ferramentas até a regularização.
+- duas cobranças por cidade: a mensalidade e a reserva territorial (anual). as duas precisam estar em dia; atraso de mais de 5 dias (o prazo padrão; o número que vale aparece em `Pagamentos`) em qualquer uma suspende o portal e as ferramentas até a regularização (veja `ac-atraso-e-suspensao`).
 
 ## resultado
 você sabe o que o produto entrega e onde cada parte fica na área do cliente.
@@ -50,17 +50,17 @@ você sabe o que o produto entrega e onde cada parte fica na área do cliente.
 para dúvidas comerciais, fale com o comercial. para algo que deveria estar incluso e não aparece, abra um chamado em `Suporte`.
 
 ## fontes
-- `area-clientes/src/app/(public)/comprar/ComprarPage.tsx:54`
-- `area-clientes/src/app/(public)/comprar/ComprarPage.tsx:57`
-- `area-clientes/src/app/(cliente)/portal-entrada.ts:30`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:17`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:31`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:39`
-- `area-clientes/src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:880`
-- `area-clientes/src/app/(cliente)/negocios/page.tsx:277`
-- `area-clientes/src/app/(cliente)/inicio/page.tsx:71`
-- `area-clientes/docs/SSO-EXTRATOR.md:62`
-- `area-clientes/docs/PRODUCT.md:44`
+- `src/app/(public)/comprar/ComprarPage.tsx:54`
+- `src/app/(public)/comprar/ComprarPage.tsx:57`
+- `src/app/(cliente)/portal-entrada.ts:30`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:17`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:31`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaInstalada.tsx:39`
+- `src/app/(cliente)/negocios/[licenseId]/plataforma/PlataformaFlow.tsx:880`
+- `src/app/(cliente)/negocios/page.tsx:277`
+- `src/app/(cliente)/inicio/page.tsx:71`
+- `docs/SSO-EXTRATOR.md:62`
+- `docs/PRODUCT.md:44`
 
 ## lacunas
 - o slug `portal-da-cidade` e o código `PDC` foram conferidos no banco de staging em 21/10/2026, onde o Portal da Cidade era o único produto cadastrado. a descrição comercial cadastrada ali era de teste.

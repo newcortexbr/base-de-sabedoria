@@ -1,0 +1,353 @@
+{
+ "rota": "/minha-conta",
+ "url": "/minha-conta",
+ "titulo": "Área do Cliente New Córtex",
+ "status_http": 200,
+ "itens": [
+  {
+   "tipo": "texto",
+   "texto": "SEUS DADOS E SUA SEGURANÇA",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    100,
+    518,
+    16
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    110,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Minha conta",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    122,
+    1000,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus negócios",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    151,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Gerencie seu contato e a segurança de acesso à Área de Membros.",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    160,
+    666,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Visão geral",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    192,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Dados cadastrais",
+   "regiao": "conteúdo",
+   "caixa": [
+    343,
+    221,
+    327,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha plataforma",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    233,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Estas informações valem para todos os seus negócios.",
+   "regiao": "conteúdo",
+   "caixa": [
+    343,
+    245,
+    327,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Treinamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    274,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Mariana Souza Exemplo",
+   "regiao": "conteúdo",
+   "caixa": [
+    293,
+    312,
+    469,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "390.533.447-05",
+   "regiao": "conteúdo",
+   "caixa": [
+    782,
+    312,
+    469,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ferramentas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    315,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Lives",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    356,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Suporte",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    397,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "mariana.exemplo@exemplo.test",
+   "regiao": "conteúdo",
+   "caixa": [
+    293,
+    403,
+    469,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Telefone / WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    782,
+    404,
+    469,
+    48
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Pagamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    438,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Mantenha seu número de contato atualizado.",
+   "regiao": "conteúdo",
+   "caixa": [
+    782,
+    459,
+    469,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "solicite a alteração ao suporte",
+   "regiao": "conteúdo",
+   "caixa": [
+    334,
+    509,
+    537,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Cancelar",
+   "regiao": "conteúdo",
+   "caixa": [
+    967,
+    574,
+    97,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Salvar alterações",
+   "regiao": "conteúdo",
+   "caixa": [
+    1074,
+    574,
+    177,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Senha de acesso",
+   "regiao": "conteúdo",
+   "caixa": [
+    345,
+    678,
+    698,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Alterar minha senha",
+   "regiao": "conteúdo",
+   "caixa": [
+    1057,
+    700,
+    194,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Para trocar sua senha, confirme a senha atual. Depois, enviaremos um código para seu e-mail cadastrado.",
+   "regiao": "conteúdo",
+   "caixa": [
+    345,
+    704,
+    592,
+    39
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Acessar suporte",
+   "regiao": "menu lateral",
+   "caixa": [
+    26,
+    726,
+    130,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "ME Mariana Souza Exemplo Minha conta",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    775,
+    207,
+    63
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    848,
+    207,
+    38
+   ],
+   "linha": 0
+  }
+ ]
+}

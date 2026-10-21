@@ -27,7 +27,7 @@ a reativação é automática e acontece quando:
 1. o Asaas confirma o pagamento da cobrança vencida; e
 2. não sobra nenhuma outra cobrança vencida daquele negócio (reserva territorial ou mensalidade).
 
-Aí o negócio volta para `Ativa`, o portal, as ferramentas e o treinamento voltam, e você recebe o e-mail "Licença reativada". Não precisa abrir chamado.
+Aí o negócio volta a funcionar: o portal, as ferramentas e o treinamento voltam, e você recebe o e-mail "Licença reativada". Não precisa abrir chamado.
 
 O tempo depende da forma de pagamento: a reativação só acontece depois da confirmação do pagamento pelo Asaas.
 
@@ -41,7 +41,7 @@ Não reativa sozinho quando a suspensão não foi por atraso — por exemplo, po
 
 ## resultado
 
-o selo do negócio volta a `Em dia` / `Ativa`, e o aviso de suspensão some do `Início`.
+em `Meus negócios` o selo `Suspenso` some (volta a `Portal no ar` ou à etapa da instalação), em `Pagamentos` os cartões voltam a `Em dia` ou `A vencer`, e o aviso `Portal suspenso` some do `Início`.
 
 ## desvios
 
@@ -56,6 +56,7 @@ peça ajuda se o pagamento aparece como `Pago`, não há outra cobrança vencida
 
 - `src/domain/financeiro/handlers/reactivation.ts:1` — reativação depois da confirmação do pagamento; `:165` — só reativa suspensão por atraso.
 - `src/ui/emails/templates.ts:166` — e-mail "Licença reativada".
+- `src/app/(cliente)/negocios/page.tsx:42` — selos do cartão em `Meus negócios`; `src/app/(cliente)/inicio/page.tsx:215` — pílula `Portal suspenso`.
 - `src/app/(cliente)/inicio/page.tsx:235` — "Assim que o pagamento for confirmado, o acesso é reativado.".
 - `src/domain/financeiro/handlers/reactivation.ts:531` — caso de território revendido vai para análise da equipe.
 

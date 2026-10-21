@@ -1,0 +1,341 @@
+{
+ "rota": "/suporte/novo",
+ "url": "/suporte/novo",
+ "titulo": "Área do Cliente New Córtex",
+ "status_http": 200,
+ "itens": [
+  {
+   "tipo": "link",
+   "texto": "Suporte",
+   "regiao": "caminho no topo",
+   "caixa": [
+    272,
+    20,
+    51,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Novo chamado",
+   "regiao": "conteúdo",
+   "caixa": [
+    272,
+    100,
+    1132,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    110,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Conte o que aconteceu. Negócio, assunto, título e mensagem são obrigatórios.",
+   "regiao": "conteúdo",
+   "caixa": [
+    272,
+    138,
+    666,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus negócios",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    151,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Visão geral",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    192,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha plataforma",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    233,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "lista de opções",
+   "texto": "Negócio vinculado",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    243,
+    560,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Treinamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    274,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Você tem mais de um negócio: confira se este é o certo.",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    294,
+    560,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ferramentas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    315,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Lives",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    356,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "lista de opções",
+   "texto": "Assunto",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    360,
+    560,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Suporte",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    397,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Pagamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    438,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Título",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    451,
+    560,
+    48
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Resuma sua dúvida em uma frase.",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    506,
+    560,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Conte o que você tentou fazer, o que esperava e o que apareceu na tela.",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    573,
+    560,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Mensagem",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    599,
+    560,
+    140
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Acessar suporte",
+   "regiao": "menu lateral",
+   "caixa": [
+    26,
+    726,
+    130,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "envio de arquivo",
+   "texto": "Anexar arquivo",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    757,
+    560,
+    100
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "ME Mariana Souza Exemplo Minha conta",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    775,
+    207,
+    63
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Até 100 MB por arquivo, no máximo 20 arquivos por chamado.",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    837,
+    560,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    848,
+    207,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Não envie senhas, códigos de acesso ou chaves na mensagem nem nos anexos.",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    875,
+    560,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Enviar chamado",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    937,
+    164,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Cancelar",
+   "regiao": "conteúdo",
+   "caixa": [
+    479,
+    937,
+    112,
+    46
+   ],
+   "linha": 0
+  }
+ ]
+}
