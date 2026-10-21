@@ -48,6 +48,8 @@ O administrador usa o painel. O jornalista não usa o painel: entra pela área d
 A lista reflete o estado do conteúdo. Uma notícia marcada como publicada, mas com data futura, aparece como `agendado` e fica escondida do público até a data chegar.
 
 ## desvios
+
+- Com várias notícias em `Destaque na janela principal`, a página inicial mostra primeiro a de publicação mais recente.
 - Não existe opção funcional para restringir uma notícia a leitores conectados; o antigo `ver_apenas_logado` foi removido.
 - Comentários de notícia e publieditorial não fazem parte do fluxo disponível no código.
 - Busca global não procura notícias.
@@ -57,6 +59,8 @@ A lista reflete o estado do conteúdo. Uma notícia marcada como publicada, mas 
 peça ajuda ao responsável pelo portal se a publicação não estiver visível após a data prevista, se categoria/subcategoria não aparecerem, ou se a API recusar a ação. Informe a rota e o texto do erro, sem enviar dados de leitores.
 
 ## fontes
+
+- `portal-cidade/backend/noticias/views.py:179-198` e `backend/noticias/models.py:745` — destaques filtrados por `destaque_janela_principal` e ordenados por `-publicado_em`; `frontend/src/app/page.tsx:273-292` usa o primeiro como principal.
 - `portal-cidade/frontend/src/app/painel/noticias/page.tsx:12` — estado agendado e visibilidade.
 - `portal-cidade/frontend/src/app/painel/noticias/page.tsx:126` — filtros da listagem.
 - `portal-cidade/frontend/src/app/painel/noticias/cadastrar/page.tsx:1` — rota de cadastro.
