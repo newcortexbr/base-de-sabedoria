@@ -15,7 +15,7 @@ tipo_problema:
   - troco minha senha
 modulo: acesso
 status: rascunho-documental
-revisado_em: 2026-10-17
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 ---
 
@@ -34,7 +34,7 @@ trocar a senha de uma conta que já está conectada na área do cliente.
 2. No quadro `Senha`, escreva a senha que você usa hoje em `Senha atual`. [guia=seguranca:senha-atual]
 3. Escreva a senha nova em `Nova senha`. [guia=seguranca:nova-senha]
 4. Repita a senha nova em `Confirmar nova senha`. Para ver o que digitou, clique em `Mostrar senhas`. [guia=seguranca:nova-senha]
-5. Clique em `Salvar nova senha`. Depois disso, você precisa entrar de novo com a senha nova, e os outros aparelhos em que você entrou saem da conta. [guia=seguranca.salvar]
+5. Clique em `Salvar nova senha`. Aparece "Senha alterada. Você continua conectado neste aparelho." [guia=seguranca.salvar]
 
 ## resultado
 
@@ -48,7 +48,7 @@ jornalista: a sessão é encerrada. A tela mostra “Senha trocada” e o botão
 - Confirmação diferente: a tela mostra “As senhas não conferem.” e nada é salvo.
 - A nova senha precisa atender à regra mostrada abaixo do campo “Nova senha”; o servidor pode recusar a senha se ela for considerada fraca.
 - Aviso de muitas tentativas: aguarde alguns minutos e tente de novo.
-- Administrador do painel não troca a senha aqui: use “Alterar Senha” dentro do painel.
+- Administrador do painel não troca a senha aqui. Veja "trocar a minha senha do painel".
 
 ## quando pedir ajuda
 
@@ -59,6 +59,7 @@ se não souber a senha atual, esta tela não resolve. Use “Esqueci minha senha
 - `portal-cidade/frontend/src/app/minha-conta/seguranca/page.tsx:30-75,94-135`
 - `portal-cidade/frontend/src/app/minha-conta/perfil-da-area.ts:46,56,67`
 - `portal-cidade/frontend/src/lib/painel-menu.ts:121`
+- `portal-cidade/frontend/src/app/minha-conta/seguranca/page.tsx:95,123` — textos de sucesso do jornalista e do cliente.
 
 ## lacunas
 
