@@ -2,7 +2,7 @@
 
 status geral: rascunhos documentais. nenhum artigo está pronto para ingestão. não houve validação de interface, navegação, comportamento ou produção.
 
-contagens por público: usuario — 10 artigos; cliente — 16 artigos, dos quais 2 exclusivos para `parceiro-comercial`; admin — 107 artigos. total: 133 artigos. arquivos em `interno/` são relatórios e proposta, não artigos de atendimento. nunca carregar conteúdo de `interno/` no chat.
+contagens por público: usuario — 10 artigos; cliente — 30 artigos, dos quais 2 exclusivos para `parceiro-comercial`; admin — 123 artigos. total: 163 artigos. arquivos em `interno/` são relatórios e proposta, não artigos de atendimento. nunca carregar conteúdo de `interno/` no chat.
 
 escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem mandar o cliente seguir instruções da tela; o chat guia uma ação por vez. vídeos ficam em `videos.json` e só aparecem no chat quando vinculados no campo `videos:` de um artigo (primeiro da lista = mais específico da tarefa).
 
@@ -22,7 +22,7 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 ### acesso
 - [criar conta para empresa](usuario/acesso/criar-conta-empresa.md)
 
-## cliente (16)
+## cliente (30)
 
 ### tarefas da conta
 - [consultar pedidos de Delivery](cliente/consultar-pedidos-delivery.md)
@@ -36,6 +36,22 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [gerenciar vagas da empresa](cliente/gerenciar-vagas-da-empresa.md)
 - [criar uma vaga nova na área do cliente](cliente/criar-vaga-nova.md)
 - [responder pedidos de orçamento pelo WhatsApp](cliente/responder-pedidos-de-orcamento.md)
+- [contratar um banner publicitário](cliente/contratar-banner-publicitario.md)
+- [parar a renovação de um banner](cliente/parar-renovacao-de-banner.md)
+- [divulgar um evento na agenda do portal](cliente/divulgar-evento.md)
+- [contratar uma matéria patrocinada](cliente/contratar-materia-patrocinada.md)
+- [atualizar meus dados de contato (anunciante pessoa física)](cliente/conta/atualizar-meus-dados.md)
+- [salvei, mas o site ainda mostra o antigo](cliente/salvei-e-ainda-aparece-o-antigo.md) — vale também para o admin.
+- [o que o portal não faz (área do cliente)](cliente/o-que-o-portal-nao-faz.md)
+
+### planos e pagamento
+- [ver meus planos, preços e assinaturas](cliente/planos/ver-planos-e-assinaturas.md)
+- [contratar um plano](cliente/planos/contratar-plano.md)
+- [pagar uma cobrança que ficou pendente](cliente/planos/pagar-cobranca-pendente.md)
+- [subir para um plano mais completo](cliente/planos/subir-de-plano.md)
+- [mudar para um plano mais simples](cliente/planos/descer-de-plano.md)
+- [cancelar o plano e voltar ao grátis](cliente/planos/cancelar-plano.md)
+- [o que cada plano do Guia Comercial libera](cliente/planos/o-que-cada-plano-do-guia-libera.md)
 
 ### acesso
 - [entrar na área do cliente](cliente/acesso/entrar-area-cliente.md)
@@ -44,12 +60,18 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [entrar na área de parceiro comercial](cliente/acesso/entrar-recuperar-parceiro.md) — exclusivo a `parceiro-comercial`; não carregar para cliente comum.
 - [recuperar a senha da área de parceiro comercial](cliente/acesso/recuperar-senha-parceiro.md) — exclusivo a `parceiro-comercial`; não carregar para cliente comum.
 
-## admin (107)
+## admin (123)
 
 ### acesso
 - [entrar no painel](admin/acesso/entrar-painel.md)
+- [trocar a minha senha do painel](admin/acesso/trocar-a-propria-senha.md)
+- [esqueci a senha do painel](admin/acesso/esqueci-a-senha-do-painel.md)
 
 ### editorial
+- [cadastrar um colunista](admin/editorial/colunistas.md)
+- [criar subcategorias de notícias](admin/editorial/subcategorias-de-noticias.md)
+- [criar categorias de eventos](admin/editorial/eventos-categorias.md)
+- [cadastrar um organizador de eventos](admin/editorial/eventos-organizadores.md)
 - [artigos](admin/editorial/artigos.md)
 - [editar um artigo](admin/editorial/artigos-editar.md)
 - [categorias editoriais](admin/editorial/categorias-editoriais.md)
@@ -140,6 +162,12 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [cadastrar a empresa contratante de uma vaga](admin/comercial/cadastrar-contratante-de-vagas.md)
 - [receber por Pix na sua chave](admin/comercial/receber-por-pix-na-sua-chave.md)
 - [definir o WhatsApp que recebe os comprovantes do Pix](admin/comercial/whatsapp-de-comprovantes-pix.md)
+- [mudar as cores do portal](admin/comercial/configurar-cores-do-portal.md)
+- [mudar o rodapé do portal](admin/comercial/configurar-rodape-do-portal.md)
+- [criar categorias de classificados](admin/comercial/categorias-de-classificados.md)
+- [cadastrar um anunciante de classificados](admin/comercial/anunciantes-de-classificados.md)
+- [ver quantas pessoas viram uma vaga](admin/comercial/insights-de-vaga.md)
+- [publicar uma vaga que eu recusei](admin/comercial/publicar-vaga-recusada.md)
 
 ### portal
 - [aprovações e denúncias](admin/portal/aprovacoes-e-denuncias.md)
@@ -160,6 +188,10 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [ler um relato completo da Voz do Povo](admin/portal/voz-do-povo-ler-relato.md)
 - [sorteios](admin/portal/sorteios.md)
 - [realizar o sorteio ao vivo e entregar o prêmio](admin/portal/realizar-sorteio-ao-vivo.md)
+- [cadastrar telefones úteis](admin/portal/utilidade-telefones-uteis.md)
+- [cadastrar linhas de ônibus](admin/portal/utilidade-linhas-de-onibus.md)
+- [pedir uma função nova (Sugestões de Funções)](admin/portal/sugestoes-de-funcoes.md)
+- [o que o portal não faz (painel)](admin/portal/o-que-o-portal-nao-faz.md)
 - [revisão por transcrições (2026-10-19)](interno/transcricoes/REVISAO.md) — interno, não carregar no chat.
 
 ## material interno — não carregar no chat
