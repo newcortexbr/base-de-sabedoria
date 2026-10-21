@@ -1,0 +1,66 @@
+---
+id: ac-ferramentas-extrator-maps
+titulo: "Extrator Maps (Extrator Google Maps): o que é e como acessar"
+publico:
+  - cliente
+modulo: ferramentas
+aba: Ferramentas
+tipo_problema:
+  - extrator-maps
+  - extrator-google
+  - creditos-do-extrator
+  - prospeccao
+status: rascunho-documental
+revisado_em: 2026-10-21
+validacao: docs-e-codigo
+---
+
+## objetivo
+entender o Extrator Maps, os créditos de boas-vindas e como entrar.
+
+## pré-requisitos
+- ter um negócio (licença) na área do cliente.
+
+## explicação
+- o Extrator Maps localiza negócios no mapa do Google e monta listas para as suas ações comerciais (prospecção). no cartão de ferramentas ele aparece como `Extrator Google Maps`.
+- a sua conta no Extrator é criada automaticamente quando a sua licença nasce, e já vem com 500 créditos de boas-vindas.
+- cada crédito corresponde a um registro extraído. quando os créditos acabarem, você compra mais dentro do próprio Extrator.
+- a entrada é pelo login único da área do cliente: sem senha nova.
+- se o seu negócio estiver suspenso, a sua conta e os seus créditos no Extrator não são apagados.
+
+## passos
+1. No menu do negócio, clique em `Ferramentas`.
+2. No cartão `Extrator Google Maps`, clique em `Acessar ferramenta`.
+3. Aguarde a tela `Entrando no Extrator Maps…`.
+4. Para aprender a usar, clique em `Ver treinamento` no mesmo cartão.
+
+## resultado
+você entra no Extrator com a sua conta e os seus créditos.
+
+## desvios
+- `Nenhuma licença sua dá direito ao Extrator Maps.`: a conta não tem licença válida. fale com o suporte.
+- `A licença que dava direito ao Extrator Maps foi cancelada.`
+- `Sua conta está bloqueada. Regularize a pendência na Central para voltar a acessar o Extrator Maps.`
+- `Acesso ainda não configurado` no cartão: a ligação com o Extrator ainda não foi configurada pela equipe.
+- com o negócio suspenso, o cartão mostra `Suspenso` e `Regularizar pagamento`.
+
+## quando pedir ajuda
+se você entrou e não recebeu os 500 créditos de boas-vindas, abra um chamado em `Suporte`. a equipe tem uma lista de contas sem os créditos de boas-vindas.
+
+## fontes
+- `area-clientes/src/domain/acesso/sso-rps.ts:18`
+- `area-clientes/src/domain/acesso/sso-rps.ts:140`
+- `area-clientes/docs/SSO-EXTRATOR.md:49`
+- `area-clientes/docs/SSO-EXTRATOR.md:62`
+- `area-clientes/docs/SSO-EXTRATOR.md:66`
+- `area-clientes/docs/SSO-EXTRATOR.md:238`
+- `area-clientes/src/app/(cliente)/sso/autorizar/route.ts:122`
+- `area-clientes/src/app/(cliente)/sso/autorizar/route.ts:123`
+- `area-clientes/src/app/(cliente)/sso/autorizar/route.ts:124`
+- `area-clientes/src/app/(cliente)/negocios/[licenseId]/ferramentas/page.tsx:167`
+
+## lacunas
+- o Extrator vale para licença de qualquer produto (DEC-517), por isso este artigo não tem `produto`. o cartão, porém, só aparece se a equipe cadastrou a ferramenta no seu produto.
+- regra do sistema: com a licença suspensa, o Extrator ainda permite o login (para não confiscar créditos pagos), mas o cartão da área do cliente mostra `Suspenso` sem o botão de acesso. o comportamento real ao abrir o Extrator direto nessa situação não foi testado.
+- o nome no cartão (`Extrator Google Maps`) é cadastrado pela equipe e pode mudar.
+- regras de compra e preço de créditos são do Extrator, não da área do cliente.
