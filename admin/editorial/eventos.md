@@ -8,7 +8,7 @@ categoria: conteúdo
 aba: Eventos
 tipo_problema: publicação
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - Hyh3UxHW_jU
@@ -33,15 +33,14 @@ Entrar no painel como administrador, com o módulo de eventos ativo no portal.
 5. Escreva o `Horário`, por exemplo "19h00 às 23h00". [guia=eventos.horario]
 6. Preencha o local, o CEP, a cidade, a categoria, o `Organizador` e os outros campos que aparecem. [guia=eventos.local]
 7. Na parte `Galeria de fotos e vídeos`, clique em `+ Adicionar fotos` para enviar as fotos. [guia=galeria.adicionar-fotos]
-8. Para colocar um vídeo, clique em `Vídeo do YouTube`. [guia=galeria.modo-video]
-9. Cole o link do vídeo no campo `Link do vídeo no YouTube`. [guia=galeria.link-video]
-10. Clique em `Adicionar vídeo`. [guia=galeria.enviar-video]
-11. Role a página até o fim e clique em `Salvar`. [guia=eventos.salvar]
+8. Role a página até o fim e clique em `Salvar`. Sem este clique, o evento não é gravado. [guia=eventos.salvar]
 
 ## resultado
 evento ativo permanece no ar segundo as datas reconhecidas pelo servidor; depois de vencido, sai do ar. Destaques e filtros públicos fazem parte do produto, mas a exibição depende também da configuração e da vigência.
 
 ## desvios
+
+- Para pôr um vídeo do YouTube na galeria, veja "colocar um vídeo do YouTube na galeria".
 - Ativo não significa necessariamente no ar: a data pode ter encerrado a vigência.
 - Inativo é diferente de encerrado.
 - Falha de upload: confirme que o evento foi salvo e que está editando o registro certo; não reenvie repetidamente.

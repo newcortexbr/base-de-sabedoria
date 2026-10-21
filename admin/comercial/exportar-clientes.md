@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - -FASO6flcCw
@@ -25,10 +25,10 @@ aqui você baixa a lista de clientes em CSV, Excel ou PDF.
 
 1. No menu da esquerda, na parte `Comercial`, clique em `Meus Clientes`. [guia=menu:/painel/clientes]
 2. Clique em `Exportar`. [guia=clientes.exportar]
-3. Escolha o formato: `CSV`, `Excel` ou `PDF`. [guia=clientes.exportar-menu]
+3. Escolha o formato: `Excel`, `CSV` ou `PDF`. Para baixar todos os cadastros, inclusive os do plano grátis e sem os filtros da tela, escolha `Todos os cadastros (CSV)`. [guia=clientes.exportar-menu]
 
 ## resultado
-O arquivo com os clientes é baixado.
+O arquivo é baixado com as colunas Cliente, Documento, WhatsApp, E-mail, Planos, Vencimento e Receita. Excel, CSV e PDF levam só os clientes que a tela está mostrando, com a busca e o filtro aplicados.
 
 ## desvios
 
@@ -41,7 +41,8 @@ peça ajuda se a página não carregar, se o salvamento der erro ou se a opção
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/clientes/page.tsx`
+- `portal-cidade/frontend/src/app/painel/clientes/page.tsx:436-470,583-621` — formatos e "Todos os cadastros (CSV)".
+- `portal-cidade/frontend/src/app/painel/clientes/exportar.ts:38` — colunas.
 - `suporte-kb/mapa/admin/telas/painel-clientes.md`
 
 ## lacunas
