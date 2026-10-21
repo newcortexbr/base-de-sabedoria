@@ -1,0 +1,32 @@
+{
+ "rota": "/negocios/[licenseId]?inexistente",
+ "url": "/negocios/00000000-0000-4000-8000-000000000000",
+ "titulo": "Área do Cliente New Córtex",
+ "status_http": 404,
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "Página não encontrada",
+   "regiao": "conteúdo",
+   "caixa": [
+    573,
+    463,
+    293,
+    31
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Voltar para o início",
+   "regiao": "conteúdo",
+   "caixa": [
+    644,
+    577,
+    152,
+    44
+   ],
+   "linha": 0
+  }
+ ]
+}

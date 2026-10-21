@@ -1,0 +1,176 @@
+[
+ {
+  "perfil": "cliente",
+  "ficha": "login",
+  "rota": "/login",
+  "print": "mapa/cliente/prints/login.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "recuperar",
+  "rota": "/recuperar",
+  "print": "mapa/cliente/prints/recuperar.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "recuperar-nova-senha",
+  "rota": "/recuperar?token",
+  "print": "mapa/cliente/prints/recuperar-nova-senha.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "ativar",
+  "rota": "/ativar",
+  "print": "mapa/cliente/prints/ativar.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "reenviar-convite",
+  "rota": "/reenviar-convite",
+  "print": "mapa/cliente/prints/reenviar-convite.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "comprar",
+  "rota": "/comprar",
+  "print": "mapa/cliente/prints/comprar.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "inicio",
+  "rota": "/inicio",
+  "print": "mapa/cliente/prints/inicio.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "negocios",
+  "rota": "/negocios",
+  "print": "mapa/cliente/prints/negocios.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "negocios-visao-geral",
+  "rota": "/negocios/[licenseId]",
+  "print": "mapa/cliente/prints/negocios-visao-geral.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "negocios-visao-geral-suspenso",
+  "rota": "/negocios/[licenseId]?suspenso",
+  "print": "mapa/cliente/prints/negocios-visao-geral-suspenso.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "negocios-plataforma",
+  "rota": "/negocios/[licenseId]/plataforma",
+  "print": "mapa/cliente/prints/negocios-plataforma.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "negocios-plataforma-dominio",
+  "rota": "/negocios/[licenseId]/plataforma?dominio",
+  "print": "mapa/cliente/prints/negocios-plataforma-dominio.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "negocios-plataforma-propagacao",
+  "rota": "/negocios/[licenseId]/plataforma?propagacao",
+  "print": "mapa/cliente/prints/negocios-plataforma-propagacao.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "negocios-plataforma-preparando",
+  "rota": "/negocios/[licenseId]/plataforma?preparando",
+  "print": "mapa/cliente/prints/negocios-plataforma-preparando.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "negocios-plataforma-acesso",
+  "rota": "/negocios/[licenseId]/plataforma?acesso",
+  "print": "mapa/cliente/prints/negocios-plataforma-acesso.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "negocios-plataforma-falha",
+  "rota": "/negocios/[licenseId]/plataforma?falha",
+  "print": "mapa/cliente/prints/negocios-plataforma-falha.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "negocios-plataforma-instalada",
+  "rota": "/negocios/[licenseId]/plataforma?instalada",
+  "print": "mapa/cliente/prints/negocios-plataforma-instalada.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "negocios-treinamento",
+  "rota": "/negocios/[licenseId]/treinamento",
+  "print": "mapa/cliente/prints/negocios-treinamento.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "negocios-treinamento-aula",
+  "rota": "/negocios/[licenseId]/treinamento/[moduleId]/[lessonId]",
+  "print": "mapa/cliente/prints/negocios-treinamento-aula.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "negocios-ferramentas",
+  "rota": "/negocios/[licenseId]/ferramentas",
+  "print": "mapa/cliente/prints/negocios-ferramentas.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "negocios-lives",
+  "rota": "/negocios/[licenseId]/lives",
+  "print": "mapa/cliente/prints/negocios-lives.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "negocios-pagamentos",
+  "rota": "/negocios/[licenseId]/pagamentos",
+  "print": "mapa/cliente/prints/negocios-pagamentos.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "negocios-pagamentos-atrasado",
+  "rota": "/negocios/[licenseId]/pagamentos?atrasado",
+  "print": "mapa/cliente/prints/negocios-pagamentos-atrasado.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "suporte",
+  "rota": "/suporte",
+  "print": "mapa/cliente/prints/suporte.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "suporte-novo",
+  "rota": "/suporte/novo",
+  "print": "mapa/cliente/prints/suporte-novo.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "suporte-chamado",
+  "rota": "/suporte/[ticketId]",
+  "print": "mapa/cliente/prints/suporte-chamado.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "minha-conta",
+  "rota": "/minha-conta",
+  "print": "mapa/cliente/prints/minha-conta.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "acesso-bloqueado",
+  "rota": "/inicio?bloqueado",
+  "print": "mapa/cliente/prints/acesso-bloqueado.png"
+ },
+ {
+  "perfil": "cliente",
+  "ficha": "nao-encontrado",
+  "rota": "/negocios/[licenseId]?inexistente",
+  "print": "mapa/cliente/prints/nao-encontrado.png"
+ }
+]

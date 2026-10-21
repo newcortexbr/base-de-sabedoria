@@ -1,0 +1,116 @@
+{
+ "rota": "/login",
+ "url": "/login",
+ "titulo": "Área do Cliente New Córtex",
+ "status_http": 200,
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "Entrar na sua conta",
+   "regiao": "conteúdo",
+   "caixa": [
+    977,
+    217,
+    366,
+    31
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Informe o e-mail e a senha cadastrados para você.",
+   "regiao": "conteúdo",
+   "caixa": [
+    977,
+    258,
+    366,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "E-mail",
+   "regiao": "conteúdo",
+   "caixa": [
+    977,
+    340,
+    366,
+    48
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Senha",
+   "regiao": "conteúdo",
+   "caixa": [
+    977,
+    436,
+    366,
+    48
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Mostrar senha",
+   "regiao": "conteúdo",
+   "caixa": [
+    1295,
+    438,
+    44,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Esqueci minha senha",
+   "regiao": "conteúdo",
+   "caixa": [
+    1196,
+    504,
+    147,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Entrar",
+   "regiao": "conteúdo",
+   "caixa": [
+    977,
+    568,
+    366,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Central de Negócios",
+   "regiao": "conteúdo",
+   "caixa": [
+    56,
+    600,
+    508,
+    129
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "O acesso é criado pela New Córtex após a contratação. Não há cadastro aberto.",
+   "regiao": "conteúdo",
+   "caixa": [
+    977,
+    624,
+    366,
+    65
+   ],
+   "linha": 0
+  }
+ ]
+}

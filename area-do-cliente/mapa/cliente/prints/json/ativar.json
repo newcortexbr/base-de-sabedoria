@@ -1,0 +1,104 @@
+{
+ "rota": "/ativar",
+ "url": "/ativar?token=exemplo",
+ "titulo": "Área do Cliente New Córtex",
+ "status_http": 200,
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "Criar sua senha",
+   "regiao": "conteúdo",
+   "caixa": [
+    977,
+    260,
+    366,
+    31
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Defina a senha que você vai usar para entrar na sua conta.",
+   "regiao": "conteúdo",
+   "caixa": [
+    977,
+    301,
+    366,
+    47
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Nova senha",
+   "regiao": "conteúdo",
+   "caixa": [
+    977,
+    407,
+    366,
+    48
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Mostrar senha",
+   "regiao": "conteúdo",
+   "caixa": [
+    1295,
+    409,
+    44,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Mínimo de 10 caracteres.",
+   "regiao": "conteúdo",
+   "caixa": [
+    977,
+    464,
+    366,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Confirmar senha",
+   "regiao": "conteúdo",
+   "caixa": [
+    977,
+    532,
+    366,
+    48
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Bem-vindo à New Córtex",
+   "regiao": "conteúdo",
+   "caixa": [
+    56,
+    600,
+    508,
+    129
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Criar senha e entrar",
+   "regiao": "conteúdo",
+   "caixa": [
+    977,
+    600,
+    366,
+    46
+   ],
+   "linha": 0
+  }
+ ]
+}

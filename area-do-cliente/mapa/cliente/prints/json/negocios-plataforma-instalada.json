@@ -1,0 +1,821 @@
+{
+ "rota": "/negocios/[licenseId]/plataforma?instalada",
+ "url": "/negocios/b9552321-751e-48ac-a902-ab70e016b6a9/plataforma",
+ "titulo": "Área do Cliente New Córtex",
+ "status_http": 200,
+ "itens": [
+  {
+   "tipo": "link",
+   "texto": "Meus negócios",
+   "regiao": "caminho no topo",
+   "caixa": [
+    272,
+    20,
+    97,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Portal da Cidade · Colatina/ES",
+   "regiao": "caminho no topo",
+   "caixa": [
+    404,
+    20,
+    194,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Seu domínio",
+   "regiao": "conteúdo",
+   "caixa": [
+    272,
+    100,
+    320,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Conexão DNS",
+   "regiao": "conteúdo",
+   "caixa": [
+    602,
+    100,
+    320,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Portal no ar",
+   "regiao": "conteúdo",
+   "caixa": [
+    932,
+    100,
+    320,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    110,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus negócios",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    151,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Seu portal está no ar!",
+   "regiao": "topo",
+   "caixa": [
+    332,
+    186,
+    515,
+    31
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Visão geral",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    192,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Instalação concluída. Seus acessos e links continuam aqui sempre que precisar.",
+   "regiao": "topo",
+   "caixa": [
+    332,
+    224,
+    515,
+    21
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha plataforma",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    233,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Treinamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    274,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "BOAS-VINDAS AO SEU PORTAL Seu portal está pronto. E agora? Vídeo disponível em breve",
+   "regiao": "conteúdo",
+   "caixa": [
+    514,
+    290,
+    496,
+    277
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ferramentas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    315,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Lives",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    356,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Suporte",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    397,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Pagamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    438,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Conheça os acessos do seu portal",
+   "regiao": "conteúdo",
+   "caixa": [
+    633,
+    587,
+    258,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Uma orientação rápida para abrir seu site, entrar no painel e encontrar as URLs úteis.",
+   "regiao": "conteúdo",
+   "caixa": [
+    506,
+    615,
+    513,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "SEU PRÓXIMO PASSO · MÓDULO START",
+   "regiao": "conteúdo",
+   "caixa": [
+    296,
+    702,
+    518,
+    17
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Comece pelo onboarding.",
+   "regiao": "conteúdo",
+   "caixa": [
+    296,
+    725,
+    648,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Acessar suporte",
+   "regiao": "menu lateral",
+   "caixa": [
+    26,
+    726,
+    130,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "INICIAR MEU TREINAMENTO",
+   "regiao": "conteúdo",
+   "caixa": [
+    962,
+    726,
+    266,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Aprenda a navegar na Área de Membros e descubra a sequência dos treinamentos para colocar seu portal em movimento.",
+   "regiao": "conteúdo",
+   "caixa": [
+    296,
+    755,
+    592,
+    40
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "ME Mariana Souza Exemplo Minha conta",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    775,
+    207,
+    63
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Acessos principais",
+   "regiao": "conteúdo",
+   "caixa": [
+    272,
+    838,
+    980,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    848,
+    207,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Seu portal",
+   "regiao": "conteúdo",
+   "caixa": [
+    293,
+    889,
+    440,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Painel administrativo",
+   "regiao": "conteúdo",
+   "caixa": [
+    791,
+    889,
+    440,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "A página pública que seus visitantes acessam.",
+   "regiao": "conteúdo",
+   "caixa": [
+    293,
+    919,
+    440,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Gerencie os conteúdos e as configurações do portal.",
+   "regiao": "conteúdo",
+   "caixa": [
+    791,
+    919,
+    440,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Acesse seu portal",
+   "regiao": "conteúdo",
+   "caixa": [
+    293,
+    948,
+    440,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Acesse seu painel",
+   "regiao": "conteúdo",
+   "caixa": [
+    791,
+    948,
+    440,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar endereço do portal",
+   "regiao": "conteúdo",
+   "caixa": [
+    583,
+    1002,
+    36,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar endereço do painel",
+   "regiao": "conteúdo",
+   "caixa": [
+    1117,
+    1002,
+    36,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "https://portalcolatina.com.br/",
+   "regiao": "conteúdo",
+   "caixa": [
+    293,
+    1011,
+    176,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "https://portalcolatina.com.br/painel/login",
+   "regiao": "conteúdo",
+   "caixa": [
+    791,
+    1011,
+    247,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Guia de links do seu portal",
+   "regiao": "conteúdo",
+   "caixa": [
+    295,
+    1098,
+    934,
+    20
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Copie e compartilhe o endereço certo para cada finalidade.",
+   "regiao": "conteúdo",
+   "caixa": [
+    295,
+    1121,
+    592,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Páginas de vendas 8",
+   "regiao": "conteúdo",
+   "caixa": [
+    295,
+    1154,
+    173,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Áreas de login 2",
+   "regiao": "conteúdo",
+   "caixa": [
+    476,
+    1154,
+    145,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recursos do portal 2",
+   "regiao": "conteúdo",
+   "caixa": [
+    629,
+    1154,
+    174,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar URL de Seja parceiro",
+   "regiao": "conteúdo",
+   "caixa": [
+    1151,
+    1212,
+    36,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir página Seja parceiro",
+   "regiao": "conteúdo",
+   "caixa": [
+    1193,
+    1212,
+    36,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "https://portalcolatina.com.br/seja-parceiro",
+   "regiao": "conteúdo",
+   "caixa": [
+    295,
+    1232,
+    258,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar URL de Guia Comercial",
+   "regiao": "conteúdo",
+   "caixa": [
+    1151,
+    1280,
+    36,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir página Guia Comercial",
+   "regiao": "conteúdo",
+   "caixa": [
+    1193,
+    1280,
+    36,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "https://portalcolatina.com.br/anuncie",
+   "regiao": "conteúdo",
+   "caixa": [
+    295,
+    1300,
+    224,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar URL de Vagas de emprego",
+   "regiao": "conteúdo",
+   "caixa": [
+    1151,
+    1348,
+    36,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir página Vagas de emprego",
+   "regiao": "conteúdo",
+   "caixa": [
+    1193,
+    1348,
+    36,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "https://portalcolatina.com.br/anuncie/vagas",
+   "regiao": "conteúdo",
+   "caixa": [
+    295,
+    1369,
+    265,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar URL de Classificados",
+   "regiao": "conteúdo",
+   "caixa": [
+    1151,
+    1417,
+    36,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir página Classificados",
+   "regiao": "conteúdo",
+   "caixa": [
+    1193,
+    1417,
+    36,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "https://portalcolatina.com.br/anuncie/classificados",
+   "regiao": "conteúdo",
+   "caixa": [
+    295,
+    1437,
+    308,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar URL de Eventos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1151,
+    1485,
+    36,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir página Eventos",
+   "regiao": "conteúdo",
+   "caixa": [
+    1193,
+    1485,
+    36,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "https://portalcolatina.com.br/anuncie/eventos",
+   "regiao": "conteúdo",
+   "caixa": [
+    295,
+    1505,
+    277,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar URL de Banner publicitário",
+   "regiao": "conteúdo",
+   "caixa": [
+    1151,
+    1553,
+    36,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir página Banner publicitário",
+   "regiao": "conteúdo",
+   "caixa": [
+    1193,
+    1553,
+    36,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "https://portalcolatina.com.br/anuncie/publicidade",
+   "regiao": "conteúdo",
+   "caixa": [
+    295,
+    1574,
+    299,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar URL de Matéria patrocinada / notícias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1151,
+    1622,
+    36,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir página Matéria patrocinada / notícias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1193,
+    1622,
+    36,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "https://portalcolatina.com.br/anuncie/noticias",
+   "regiao": "conteúdo",
+   "caixa": [
+    295,
+    1642,
+    276,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar URL de Especialista / colunista",
+   "regiao": "conteúdo",
+   "caixa": [
+    1151,
+    1690,
+    36,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir página Especialista / colunista",
+   "regiao": "conteúdo",
+   "caixa": [
+    1193,
+    1690,
+    36,
+    36
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "https://portalcolatina.com.br/anuncie/colunista",
+   "regiao": "conteúdo",
+   "caixa": [
+    295,
+    1710,
+    284,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Falar com o suporte",
+   "regiao": "conteúdo",
+   "caixa": [
+    1102,
+    1796,
+    150,
+    24
+   ],
+   "linha": 0
+  }
+ ]
+}

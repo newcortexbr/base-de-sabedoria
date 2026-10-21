@@ -1,0 +1,317 @@
+{
+  "leia-me": "Catálogo de vídeos do YouTube. Cada artigo cita os ids que usa no frontmatter (campo 'videos:', lista de ids de 11 caracteres [A-Za-z0-9_-]). O chat só mostra vídeos listados no artigo; o título abaixo é opcional.",
+  "videos": [
+    {
+      "id": "jl7GHmHVJcM",
+      "titulo": "Extrator Google Maps > Como extrair lista Maps e Importar no Portal"
+    },
+    {
+      "id": "JYDoZB_vyX8",
+      "titulo": "Aprovações / Denuncias"
+    },
+    {
+      "id": "gAa2NdnitZU",
+      "titulo": "Notícias > Geral"
+    },
+    {
+      "id": "r5rFCgAV0mg",
+      "titulo": "Notícias Automáticas > Fontes de RSS"
+    },
+    {
+      "id": "pBHdF3bd1QI",
+      "titulo": "Cupons de Desconto"
+    },
+    {
+      "id": "ufB3QTKfPsM",
+      "titulo": "Vagas de Emprego > Geral"
+    },
+    {
+      "id": "Ps1cgdLQ1FI",
+      "titulo": "Classificados > Geral"
+    },
+    {
+      "id": "QrkL_nJEa-c",
+      "titulo": "Guia Turístico > Pontos Turísticos - Geral"
+    },
+    {
+      "id": "CMEOWthwqtI",
+      "titulo": "Guia Turístico > Roteiros"
+    },
+    {
+      "id": "Hyh3UxHW_jU",
+      "titulo": "Eventos"
+    },
+    {
+      "id": "CRiUbh7wHdc",
+      "titulo": "Artigos > Geral"
+    },
+    {
+      "id": "Ru3949-VUX4",
+      "titulo": "Orçamentos Online > Todas as Solicitações [refazendo]"
+    },
+    {
+      "id": "1a0wZmdXDLk",
+      "titulo": "A Voz do Povo > Geral"
+    },
+    {
+      "id": "8gIDPdapN0E",
+      "titulo": "Parceiros"
+    },
+    {
+      "id": "8M4kdEfP7Eg",
+      "titulo": "Configurações > Configurações Gerais"
+    },
+    {
+      "id": "XekThBh1ygU",
+      "titulo": "Configurações > Layout > Geral"
+    },
+    {
+      "id": "He7XF-kolwk",
+      "titulo": "Configurações > Layout > Topo"
+    },
+    {
+      "id": "_YSN9di_ZOU",
+      "titulo": "Configurações > Layout > Tela Inicio"
+    },
+    {
+      "id": "vPnHq9kRWW8",
+      "titulo": "Configurações > Layout > Rodape"
+    },
+    {
+      "id": "lrTaEV5JnVM",
+      "titulo": "Configurações > Layout > Cores"
+    },
+    {
+      "id": "lwaG-T87hJI",
+      "titulo": "Configurações > Cobrança"
+    },
+    {
+      "id": "-ZLL7Cqwcok",
+      "titulo": "Notificações Push"
+    },
+    {
+      "id": "0nkWIgiQfwM",
+      "titulo": "Assistente de IA do Portal"
+    },
+    {
+      "id": "BqIfSq7bVXM",
+      "titulo": "Banners Publicitários"
+    },
+    {
+      "id": "-FASO6flcCw",
+      "titulo": "Meus Clientes"
+    },
+    {
+      "id": "1RHf0fcXgyE",
+      "titulo": "Financeiro"
+    },
+    {
+      "id": "31ftVMQ_yr4",
+      "titulo": "Planos > Todos"
+    },
+    {
+      "id": "MbMNv59z7Bg",
+      "titulo": "Planos > Publicidade/Banners"
+    },
+    {
+      "id": "D21vBBhzlhg",
+      "titulo": "Vídeo Externo LP> Vagas"
+    },
+    {
+      "id": "zHOxx6KFIrk",
+      "titulo": "Vídeo Externo LP> Classificados"
+    },
+    {
+      "id": "VmEwdNZd7pw",
+      "titulo": "Vídeo Externo LP> Orçamentos"
+    },
+    {
+      "id": "d2EweodukHg",
+      "titulo": "Vídeo Externo LP> Guia"
+    },
+    {
+      "id": "G1B9mAWbCk4",
+      "titulo": "Vídeo Externo LP> A Voz do Povo"
+    },
+    {
+      "id": "TWKsO_iuxGE",
+      "titulo": "Vídeo Externo LP> Eventos"
+    },
+    {
+      "id": "DFVw9nSAZAQ",
+      "titulo": "Vídeo Externo LP> Parceiro"
+    },
+    {
+      "id": "-Islw_h8OhU",
+      "titulo": "Vídeo Externo LP> Noticias"
+    },
+    {
+      "id": "NELLwm_ClmA",
+      "titulo": "Vídeo Externo LP> Artigos"
+    },
+    {
+      "id": "bDAKcYvx4wo",
+      "titulo": "Vídeo Externo LP> Banner Publicitarios"
+    },
+    {
+      "id": "4pc8AwOX0hA",
+      "titulo": "Vídeo Uso Cliente > Formas de Anunciar em nosso Portal"
+    },
+    {
+      "id": "JdJr7pXVx98",
+      "titulo": "Guia Comercial > Listar Empresas"
+    },
+    {
+      "id": "VV8BxCbIfz4",
+      "titulo": "Guia Comercial > Gerenciar Cardápio"
+    },
+    {
+      "id": "2ShbACG2mHE",
+      "titulo": "Guia Comercial > Gerenciar Cardapio do Delivery"
+    },
+    {
+      "id": "TgIUmqrRuBY",
+      "titulo": "Guia Comercial > Gerenciar Filas de Pedidos e Configurações do Delivery"
+    },
+    {
+      "id": "aE3QL3ErK0k",
+      "titulo": "Guia Comercial > Gerenciar Serviços"
+    },
+    {
+      "id": "okWcwnwq5Bk",
+      "titulo": "Guia Comercial > Gerenciar Equipes"
+    },
+    {
+      "id": "Z45xwGT8U38",
+      "titulo": "Guia Comercial > Gerenciar Catalogo de Produtos"
+    },
+    {
+      "id": "reZ3e1a4o-o",
+      "titulo": "Guia Comercial > Acomodações / Quartos"
+    },
+    {
+      "id": "09n3Eiwn418",
+      "titulo": "Guia Comercial > Gerenciar Categorias e Subcategorias"
+    },
+    {
+      "id": "uN4FHHHGgEs",
+      "titulo": "Sorteios > Configurações"
+    },
+    {
+      "id": "REgRSXekqpA",
+      "titulo": "Sorteios [Animado Página Externa]"
+    },
+    {
+      "id": "F136_v1JyRY",
+      "titulo": "Visão Geral - Como Funciona o Extrator GMaps"
+    },
+    {
+      "id": "R9FCgunNxFE",
+      "titulo": "Como realizar extração Maps - Direto ao ponto"
+    },
+    {
+      "id": "wukhVMFEHWg",
+      "titulo": "Guia Comercial > Listar Empresas"
+    },
+    {
+      "id": "ajzmuupRJMM",
+      "titulo": "Melhor da Cidade > Configurações"
+    },
+    {
+      "id": "grm3bUrPBxM",
+      "titulo": "Projetos Sociais > Configurações"
+    },
+    {
+      "id": "Be_8j63JLwI",
+      "titulo": "Melhor da Cidade [Animado Página Externa]"
+    },
+    {
+      "id": "8v1W-gtTRow",
+      "titulo": "Projetos Sociais [Animado Página Externa]"
+    },
+    {
+      "id": "UwPhKSt-mvM",
+      "titulo": "Vídeo p/ Area do Cliente [GERAL]"
+    },
+    {
+      "id": "v7uO6kjwVOA",
+      "titulo": "Vídeo p/ Cupons"
+    },
+    {
+      "id": "aNqs6gSprvs",
+      "titulo": "Vídeo p/ Agenda de Eventos"
+    },
+    {
+      "id": "525qfVrQ4iY",
+      "titulo": "Vídeo p/ Vagas de Emprego"
+    },
+    {
+      "id": "Mu5xmUB7w9o",
+      "titulo": "Vídeo p/ Banner Publicitário"
+    },
+    {
+      "id": "S-YcDWiimEo",
+      "titulo": "Vídeo p/ Classificados"
+    },
+    {
+      "id": "KiGU9vNKIwg",
+      "titulo": "Vídeo p/ Orçamentos [Pedidos Recebidos]"
+    },
+    {
+      "id": "Uv6Zt7V9YN0",
+      "titulo": "Guia > Cadastrando sua Empresa no Guia"
+    },
+    {
+      "id": "8EwkE_ascEw",
+      "titulo": "Guia > Completando sua ficha"
+    },
+    {
+      "id": "OInXMQlSWqw",
+      "titulo": "Guia > Minha empresa"
+    },
+    {
+      "id": "FwKU_0GF6iU",
+      "titulo": "Guia > Página de Serviços"
+    },
+    {
+      "id": "-cq2YnG0vis",
+      "titulo": "Guia > Página da Equipe"
+    },
+    {
+      "id": "X2BpMhoYKiA",
+      "titulo": "Guia > Catálogo de produtos"
+    },
+    {
+      "id": "gmYWNfgX8LM",
+      "titulo": "Guia > Cardápio"
+    },
+    {
+      "id": "viWXA8_mZf4",
+      "titulo": "Guia > Delivery: configuração e cardápio"
+    },
+    {
+      "id": "aSRf0hwUrrc",
+      "titulo": "Guia > Quartos e suítes"
+    },
+    {
+      "id": "by3tA7GUa88",
+      "titulo": "Vídeo Area Jornalista - Publicar Noticia"
+    },
+    {
+      "id": "8VRaUwhuhO0",
+      "titulo": "Vídeo Area Especialista - Publicar Artigo"
+    },
+    {
+      "id": "yuJhd0nadEE",
+      "titulo": "Vídeo p/ Planos e Assinaturas"
+    },
+    {
+      "id": "-Krm1tXfeig",
+      "titulo": "[Parceiro] - Visão Geral Home"
+    },
+    {
+      "id": "J7njZgIoVes",
+      "titulo": "[Parceiro] - Cadastrar Chave Asaas"
+    }
+  ]
+}

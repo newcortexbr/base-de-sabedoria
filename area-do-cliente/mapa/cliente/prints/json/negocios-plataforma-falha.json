@@ -1,0 +1,353 @@
+{
+ "rota": "/negocios/[licenseId]/plataforma?falha",
+ "url": "/negocios/06bd6b46-cdf0-4daf-87da-b2401bf39242/plataforma?simular=FAILED",
+ "titulo": "Área do Cliente New Córtex",
+ "status_http": 200,
+ "itens": [
+  {
+   "tipo": "link",
+   "texto": "Meus negócios",
+   "regiao": "caminho no topo",
+   "caixa": [
+    272,
+    20,
+    97,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Portal da Cidade · Linhares/ES",
+   "regiao": "caminho no topo",
+   "caixa": [
+    404,
+    20,
+    196,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Seu domínio",
+   "regiao": "conteúdo",
+   "caixa": [
+    272,
+    100,
+    320,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Conexão DNS",
+   "regiao": "conteúdo",
+   "caixa": [
+    602,
+    100,
+    320,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Portal no ar",
+   "regiao": "conteúdo",
+   "caixa": [
+    932,
+    100,
+    320,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Início",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    110,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus negócios",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    151,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "INSTALAÇÃO EM TRATAMENTO",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    180,
+    518,
+    17
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Visão geral",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    192,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Identificamos um problema na instalação.",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    203,
+    980,
+    31
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Minha plataforma",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    233,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Nossa equipe já foi notificada e acompanha a correção.",
+   "regiao": "topo",
+   "caixa": [
+    272,
+    241,
+    666,
+    21
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Treinamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    274,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Sua instalação está em tratamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    307,
+    926,
+    29
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ferramentas",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    315,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "aviso",
+   "texto": "Identificamos um problema no provisionamento Nossa equipe técnica já foi notificada e está tratando o caso. Você não precisa fazer nada agor",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    335,
+    926,
+    100
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Identificamos um problema no provisionamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    350,
+    352,
+    666,
+    21
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Lives",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    356,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "texto",
+   "texto": "Nossa equipe técnica já foi notificada e está tratando o caso. Você não precisa fazer nada agora — avisamos assim que a instalação for retom",
+   "regiao": "conteúdo",
+   "caixa": [
+    350,
+    373,
+    666,
+    45
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Suporte",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    397,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Pagamentos",
+   "regiao": "menu",
+   "caixa": [
+    14,
+    438,
+    207,
+    38
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Enquanto isso",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    505,
+    128,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Você não precisa ficar nesta tela: o treinamento do produto já está liberado.",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    547,
+    666,
+    22
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Acessar treinamento",
+   "regiao": "conteúdo",
+   "caixa": [
+    299,
+    585,
+    198,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "suporte",
+   "regiao": "conteúdo",
+   "caixa": [
+    546,
+    677,
+    44,
+    15
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Acessar suporte",
+   "regiao": "menu lateral",
+   "caixa": [
+    26,
+    726,
+    130,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "ME Mariana Souza Exemplo Minha conta",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    775,
+    207,
+    63
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    14,
+    848,
+    207,
+    38
+   ],
+   "linha": 0
+  }
+ ]
+}

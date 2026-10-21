@@ -1,0 +1,68 @@
+{
+ "rota": "/recuperar",
+ "url": "/recuperar",
+ "titulo": "Área do Cliente New Córtex",
+ "status_http": 200,
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "Esqueci minha senha",
+   "regiao": "conteúdo",
+   "caixa": [
+    977,
+    323,
+    366,
+    31
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "texto",
+   "texto": "Enviaremos um link para você criar uma nova senha.",
+   "regiao": "conteúdo",
+   "caixa": [
+    977,
+    364,
+    366,
+    47
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "E-mail",
+   "regiao": "conteúdo",
+   "caixa": [
+    977,
+    469,
+    366,
+    48
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Enviar link de recuperação",
+   "regiao": "conteúdo",
+   "caixa": [
+    977,
+    537,
+    366,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Recuperar o acesso",
+   "regiao": "conteúdo",
+   "caixa": [
+    56,
+    600,
+    508,
+    129
+   ],
+   "linha": 0
+  }
+ ]
+}
