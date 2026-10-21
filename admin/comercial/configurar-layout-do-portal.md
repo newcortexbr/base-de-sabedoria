@@ -11,12 +11,11 @@ status: rascunho-documental
 revisado_em: 2026-10-19
 validacao: docs-e-codigo
 videos:
-  - 8M4kdEfP7Eg
   - XekThBh1ygU
   - He7XF-kolwk
   - _YSN9di_ZOU
-  - vPnHq9kRWW8
   - lrTaEV5JnVM
+  - vPnHq9kRWW8
 ---
 
 ## objetivo
