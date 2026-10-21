@@ -22,11 +22,11 @@ descobrir por que uma ferramenta não abre e o que fazer.
 - ter entrado na área do cliente.
 
 ## passos
-1. Em `Ferramentas` (`/negocios/<negócio>/ferramentas`), leia a etiqueta e o texto do cartão.
-2. Se for `Suspenso`, clique em `Regularizar pagamento` e pague a pendência.
-3. Se for `Em breve` com `Disponível em breve` ou `Acesso ainda não configurado`, a ferramenta ainda não foi liberada. Aguarde.
-4. Se for `Disponível` e, ao clicar em `Acessar ferramenta`, aparecer `Não foi possível entrar no <ferramenta>`, leia o motivo na tela e clique em `Voltar para a Central`.
-5. Se a nova aba não abrir, permita janelas (pop-ups) para a área do cliente no navegador e tente de novo.
+1. Em `Ferramentas` (`/negocios/<negócio>/ferramentas`), leia a etiqueta e o texto do cartão. [guia=menu:/negocios/[licenseId]/ferramentas]
+2. Se for `Suspenso`, clique em `Regularizar pagamento` e pague a pendência. [guia=pagamentos.pagar]
+3. Se for `Em breve` com `Disponível em breve` ou `Acesso ainda não configurado`, a ferramenta ainda não foi liberada. Aguarde. [guia=fora]
+4. Se for `Disponível` e, ao clicar em `Acessar ferramenta`, aparecer `Não foi possível entrar no <ferramenta>`, leia o motivo na tela e clique em `Voltar para a Central`. [guia=ferramentas.acessar]
+5. Se a nova aba não abrir, permita janelas (pop-ups) para a área do cliente no navegador e tente de novo. [guia=fora]
 
 ## resultado
 você identifica se é pagamento, liberação pendente ou algo para o suporte.

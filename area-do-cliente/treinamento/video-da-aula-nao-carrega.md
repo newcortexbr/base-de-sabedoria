@@ -21,11 +21,11 @@ resolver quando o vídeo de uma aula não aparece ou não toca.
 - estar dentro de uma aula, em `Treinamentos`.
 
 ## passos
-1. No quadro `Vídeo da aula`, clique na imagem (`Clique para assistir`). O vídeo só começa a carregar depois do clique.
-2. Se aparecer o botão `Abrir no YouTube`, clique nele para assistir direto no YouTube.
-3. Se não tocar, recarregue a página.
-4. Teste em outro navegador ou aparelho e confira a sua internet.
-5. Se você usa bloqueador de anúncios ou rede de empresa, tente sem eles: os vídeos vêm do YouTube.
+1. No quadro `Vídeo da aula`, clique na imagem (`Clique para assistir`). O vídeo só começa a carregar depois do clique. [guia=fora]
+2. Se aparecer o botão `Abrir no YouTube`, clique nele para assistir direto no YouTube. [guia=fora]
+3. Se não tocar, recarregue a página. [guia=fora]
+4. Teste em outro navegador ou aparelho e confira a sua internet. [guia=fora]
+5. Se você usa bloqueador de anúncios ou rede de empresa, tente sem eles: os vídeos vêm do YouTube. [guia=fora]
 
 ## resultado
 o vídeo toca na página ou no YouTube.

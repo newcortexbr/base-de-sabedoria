@@ -22,9 +22,9 @@ abrir uma ferramenta a partir da área do cliente.
 - a ferramenta com a etiqueta `Disponível`.
 
 ## passos
-1. No menu do negócio, clique em `Ferramentas` (`/negocios/<negócio>/ferramentas`).
-2. No cartão da ferramenta, clique em `Acessar ferramenta`. Ela abre em uma nova aba.
-3. Se a ferramenta usar o login da área do cliente, aparece rapidamente a tela `Entrando no <ferramenta>…` (`Estamos confirmando seu acesso. Você será levado ao <ferramenta> em instantes.`).
+1. No menu do negócio, clique em `Ferramentas` (`/negocios/<negócio>/ferramentas`). [guia=menu:/negocios/[licenseId]/ferramentas]
+2. No cartão da ferramenta, clique em `Acessar ferramenta`. Ela abre em uma nova aba. [guia=ferramentas.acessar]
+3. Se a ferramenta usar o login da área do cliente, aparece rapidamente a tela `Entrando no <ferramenta>…` (`Estamos confirmando seu acesso. Você será levado ao <ferramenta> em instantes.`). [guia=fora]
 
 ## resultado
 você entra na ferramenta já identificado, com a mesma conta da área do cliente.

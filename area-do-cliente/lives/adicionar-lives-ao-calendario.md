@@ -23,13 +23,13 @@ receber as lives no seu calendário, uma de cada vez ou todas automaticamente.
 
 ## passos
 para guardar só uma live:
-1. Em `Lives` (`/negocios/<negócio>/lives`), no cartão da live, clique em `Adicionar à agenda`.
-2. No Google Agenda, salve o evento.
+1. Em `Lives` (`/negocios/<negócio>/lives`), no cartão da live, clique em `Adicionar à agenda`. [guia=menu:/negocios/[licenseId]/lives]
+2. No Google Agenda, salve o evento. [guia=fora]
 
 para assinar todas as lives:
-1. No quadro `Inscreva-se e acompanhe as próximas lives`, clique em `Inscrever-se nas lives`.
-2. Aparece `Sua agenda de lives está pronta`. Clique em `Abrir no Google Agenda` e confirme.
-3. Se usa Outlook, Apple ou outro, clique em `Copiar endereço (Outlook, Apple e outros)` e cole esse endereço na opção de assinar calendário por link do seu aplicativo.
+1. No quadro `Inscreva-se e acompanhe as próximas lives`, clique em `Inscrever-se nas lives`. [guia=fora]
+2. Aparece `Sua agenda de lives está pronta`. Clique em `Abrir no Google Agenda` e confirme. [guia=fora]
+3. Se usa Outlook, Apple ou outro, clique em `Copiar endereço (Outlook, Apple e outros)` e cole esse endereço na opção de assinar calendário por link do seu aplicativo. [guia=fora]
 
 ## resultado
 no Google Agenda aparece a agenda “Lives do Portal da Cidade”. lives novas, mudanças de horário e cancelamentos chegam sozinhos. o Google atualiza algumas vezes por dia.

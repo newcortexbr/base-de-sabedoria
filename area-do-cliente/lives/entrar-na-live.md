@@ -21,9 +21,9 @@ assistir a uma live ao vivo.
 - ter um negócio com licença ativa.
 
 ## passos
-1. No menu do negócio, clique em `Lives` (`/negocios/<negócio>/lives`).
-2. No cartão da live, clique em `Acessar live`. Durante a transmissão, o destaque mostra `Ao vivo agora` e o botão vira `Assistir agora`.
-3. A live abre no YouTube em uma nova aba.
+1. No menu do negócio, clique em `Lives` (`/negocios/<negócio>/lives`). [guia=menu:/negocios/[licenseId]/lives]
+2. No cartão da live, clique em `Acessar live`. Durante a transmissão, o destaque mostra `Ao vivo agora` e o botão vira `Assistir agora`. [guia=fora]
+3. A live abre no YouTube em uma nova aba. [guia=fora]
 
 ## resultado
 você assiste à live no YouTube. as lives são `Treinamento ao vivo no YouTube`.

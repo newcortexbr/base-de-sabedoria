@@ -26,10 +26,10 @@ entender por que `Minha plataforma` não abre e como voltar a usá-la.
 - na `Visão geral` aparece a situação (`Portal suspenso`) e o caminho para regularizar.
 
 ## passos
-1. Em `Meus negócios`, veja a etiqueta do cartão da cidade.
-2. Se for `Suspenso`, clique em `Regularizar pagamento` e pague a pendência (veja `ac-pagar-cobranca-pendente`).
-3. Depois que o pagamento for confirmado, clique de novo em `Minha plataforma`.
-4. Se for `Inativo`, o negócio foi cancelado: fale com o suporte.
+1. Em `Meus negócios`, veja a etiqueta do cartão da cidade. [guia=menu:/negocios]
+2. Se for `Suspenso`, clique em `Regularizar pagamento` e pague a pendência (veja `ac-pagar-cobranca-pendente`). [guia=pagamentos.pagar]
+3. Depois que o pagamento for confirmado, clique de novo em `Minha plataforma`. [guia=menu:/negocios/[licenseId]/plataforma]
+4. Se for `Inativo`, o negócio foi cancelado: fale com o suporte. [guia=fora]
 
 ## resultado
 com o negócio funcionando, `Minha plataforma` volta a abrir normalmente, na etapa em que a instalação estava.

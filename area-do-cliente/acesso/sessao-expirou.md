@@ -35,8 +35,8 @@ Se aparecer "Sua sessão expirou. Atualize a página e entre novamente." ao envi
 
 ## passos
 
-1. Na tela de login, escreva o `E-mail` e a `Senha`.
-2. Clique em `Entrar`.
+1. Na tela de login, escreva o `E-mail` e a `Senha`. [guia=fora]
+2. Clique em `Entrar`. [guia=fora]
 
 ## resultado
 

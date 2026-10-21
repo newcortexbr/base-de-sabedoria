@@ -47,10 +47,10 @@ A equipe responde no chamado, e a resposta também aparece na conversa do chat, 
 
 ## passos
 
-1. Clique no balão do chat no canto da tela.
-2. Escreva a sua dúvida com as suas palavras e envie.
-3. Se vier um passo a passo, faça cada passo e clique em `Consegui` ou `Não consegui`.
-4. Se a resposta não resolver, responda `Não` e conte o que aconteceu, ou peça para falar com a equipe.
+1. Clique no balão do chat no canto da tela. [guia=fora]
+2. Escreva a sua dúvida com as suas palavras e envie. [guia=fora]
+3. Se vier um passo a passo, faça cada passo e clique em `Consegui` ou `Não consegui`. [guia=fora]
+4. Se a resposta não resolver, responda `Não` e conte o que aconteceu, ou peça para falar com a equipe. [guia=fora]
 
 ## resultado
 

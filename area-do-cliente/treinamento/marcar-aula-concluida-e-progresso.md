@@ -22,9 +22,9 @@ registrar as aulas que você terminou e acompanhar quanto falta.
 - estar dentro de uma aula, em `Treinamentos`.
 
 ## passos
-1. No fim da aula, onde está escrito `Quando terminar, marque esta aula como concluída.`, clique em `Marcar como concluída`.
-2. Para desfazer, clique em `Desmarcar`.
-3. Para ver o total, volte a `Treinamentos`: o quadro `Seu progresso` mostra a porcentagem e `<x> de <y> aulas concluídas`.
+1. No fim da aula, onde está escrito `Quando terminar, marque esta aula como concluída.`, clique em `Marcar como concluída`. [guia=aula.marcar-concluida]
+2. Para desfazer, clique em `Desmarcar`. [guia=fora]
+3. Para ver o total, volte a `Treinamentos`: o quadro `Seu progresso` mostra a porcentagem e `<x> de <y> aulas concluídas`. [guia=menu:/negocios/[licenseId]/treinamento]
 
 ## resultado
 a aula aparece como `Aula concluída` e a tela diz `Você concluiu esta aula.`. o progresso do módulo e o geral são atualizados. ao terminar tudo: `Parabéns, você concluiu todas as aulas!`.

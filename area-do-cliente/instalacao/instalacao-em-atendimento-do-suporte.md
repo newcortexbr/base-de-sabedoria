@@ -28,9 +28,9 @@ entender a tela `Chamado aberto com o suporte` (no `Início`: `A instalação pr
 - quando a equipe resolve, a instalação volta para a confirmação final e a pergunta reaparece para você. se o problema era o domínio, a equipe pode refazer a configuração de DNS e você talvez precise trocar os nameservers de novo.
 
 ## passos
-1. Clique em `Falar com o suporte` (ou `Falar com o suporte agora`, que abre o WhatsApp do suporte).
-2. Acompanhe a resposta no chamado, em `Suporte`.
-3. Quando a pergunta final voltar a aparecer em `Minha plataforma`, entre no painel e confirme.
+1. Clique em `Falar com o suporte` (ou `Falar com o suporte agora`, que abre o WhatsApp do suporte). [guia=fora]
+2. Acompanhe a resposta no chamado, em `Suporte`. [guia=fora]
+3. Quando a pergunta final voltar a aparecer em `Minha plataforma`, entre no painel e confirme. [guia=menu:/negocios/[licenseId]/plataforma]
 
 ## resultado
 o suporte resolve e você conclui a instalação.

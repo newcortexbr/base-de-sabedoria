@@ -28,10 +28,10 @@ escolher a opção certa quando o domínio que você quer usar já tem outro sit
 - se o domínio tem e-mail funcionando (por exemplo, `contato@seusite.com.br`), fale com o suporte antes de trocar os nameservers.
 
 ## passos
-1. Decida: o portal vai ocupar o domínio inteiro ou um subdomínio?
-2. Se o domínio já tem site e você quer mantê-lo, escolha `Subdomínio` em `Minha plataforma` (veja `ac-instalacao-usar-subdominio`).
-3. Se o domínio tem e-mail e você quer usar `Domínio próprio`, abra um chamado em `Suporte` antes de trocar os nameservers.
-4. Se o domínio não tem uso nenhum, siga com `Domínio próprio` (veja `ac-instalacao-informar-dominio`).
+1. Decida: o portal vai ocupar o domínio inteiro ou um subdomínio? [guia=fora]
+2. Se o domínio já tem site e você quer mantê-lo, escolha `Subdomínio` em `Minha plataforma` (veja `ac-instalacao-usar-subdominio`). [guia=plataforma.subdominio]
+3. Se o domínio tem e-mail e você quer usar `Domínio próprio`, abra um chamado em `Suporte` antes de trocar os nameservers. [guia=menu:/suporte]
+4. Se o domínio não tem uso nenhum, siga com `Domínio próprio` (veja `ac-instalacao-informar-dominio`). [guia=plataforma.dominio-proprio]
 
 ## resultado
 o portal vai para o ar sem derrubar o que já funcionava no domínio.

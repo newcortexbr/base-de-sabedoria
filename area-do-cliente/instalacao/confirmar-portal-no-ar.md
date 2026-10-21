@@ -23,11 +23,11 @@ fazer a última etapa da instalação: conferir que você consegue entrar no por
 - em `Minha plataforma` aparecer `Sua plataforma está no ar!` (no `Início`: `Falta a sua confirmação`, botão `Conferir e confirmar`).
 
 ## passos
-1. Em `Meus negócios` (`/negocios`), clique em `Conferir e confirmar` (ou abra `Minha plataforma`).
-2. Na tela `Sua plataforma está no ar!`, veja o quadro `Seus acessos` (`Endereço`, `Painel` e `Login`).
-3. Clique em `Acessar meu portal` (abre em nova aba).
-4. No painel do portal, clique no botão `Entrar com a Área do Cliente`. É a mesma conta que você usa aqui, sem senha nova.
-5. Depois de ter entrado de verdade, volte à área do cliente e clique em `Sim, já está no ar`.
+1. Em `Meus negócios` (`/negocios`), clique em `Conferir e confirmar` (ou abra `Minha plataforma`). [guia=menu:/negocios/[licenseId]/plataforma]
+2. Na tela `Sua plataforma está no ar!`, veja o quadro `Seus acessos` (`Endereço`, `Painel` e `Login`). [guia=fora]
+3. Clique em `Acessar meu portal` (abre em nova aba). [guia=plataforma.acessar-portal]
+4. No painel do portal, clique no botão `Entrar com a Área do Cliente`. É a mesma conta que você usa aqui, sem senha nova. [guia=fora]
+5. Depois de ter entrado de verdade, volte à área do cliente e clique em `Sim, já está no ar`. [guia=plataforma.sim-no-ar]
 
 ## resultado
 a tela mostra `Instalação concluída` e `Confirmação registrada. Obrigado!`. a página `Minha plataforma` vira `Seu portal está no ar!`, com seus acessos e links. o próximo passo sugerido é o treinamento.

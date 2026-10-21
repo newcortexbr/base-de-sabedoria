@@ -28,10 +28,10 @@ saber qual é o primeiro conteúdo a assistir e onde ele fica.
 - é uma sugestão de começo, não uma obrigação: você pode abrir qualquer módulo em qualquer ordem.
 
 ## passos
-1. No menu da esquerda, clique em `Início`.
-2. No quadro `Comece por aqui · Start`, clique em `Assistir ao tour` para ver o vídeo de apresentação.
-3. Clique em `Ver todas as aulas do Start` para abrir as aulas.
-4. Ao terminar cada aula, se quiser, clique em `Marcar como concluída` (veja `ac-treinamento-marcar-concluida-progresso`).
+1. No menu da esquerda, clique em `Início`. [guia=menu:/inicio]
+2. No quadro `Comece por aqui · Start`, clique em `Assistir ao tour` para ver o vídeo de apresentação. [guia=inicio.assistir-tour]
+3. Clique em `Ver todas as aulas do Start` para abrir as aulas. [guia=inicio.aulas-start]
+4. Ao terminar cada aula, se quiser, clique em `Marcar como concluída` (veja `ac-treinamento-marcar-concluida-progresso`). [guia=aula.marcar-concluida]
 
 ## resultado
 você conhece a Área do Cliente e começa o treinamento pelo módulo sugerido.

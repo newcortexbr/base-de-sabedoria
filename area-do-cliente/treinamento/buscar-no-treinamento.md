@@ -21,10 +21,10 @@ achar a aula que fala do que você precisa, sem abrir módulo por módulo.
 - ter acesso a `Treinamentos`.
 
 ## passos
-1. Em `Treinamentos` (`/negocios/<negócio>/treinamento`), vá ao quadro `Busca no treinamento` (`Qual é a sua dúvida?`).
-2. Digite a dúvida (exemplo: `como encontrar empresas no Google Maps?`).
-3. Clique em `Encontrar conteúdo`.
-4. Clique na aula que aparecer na lista.
+1. Em `Treinamentos` (`/negocios/<negócio>/treinamento`), vá ao quadro `Busca no treinamento` (`Qual é a sua dúvida?`). [guia=treinamento.busca]
+2. Digite a dúvida (exemplo: `como encontrar empresas no Google Maps?`). [guia=fora]
+3. Clique em `Encontrar conteúdo`. [guia=treinamento.busca]
+4. Clique na aula que aparecer na lista. [guia=fora]
 
 ## resultado
 você abre a aula que trata do assunto.

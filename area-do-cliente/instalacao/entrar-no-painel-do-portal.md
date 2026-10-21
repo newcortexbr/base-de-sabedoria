@@ -24,10 +24,10 @@ entrar no painel administrativo do seu portal sem senha nova.
 - licença ativa (não suspensa).
 
 ## passos
-1. Em `Meus negócios` (`/negocios`), clique em `Acessar meu negócio` no cartão da cidade.
-2. Clique em `Minha plataforma`.
-3. Clique em `Acessar meu portal` (na confirmação final) ou em `Acesse seu painel` (depois da instalação concluída). Abre em nova aba.
-4. Na tela de login do painel, clique em `Entrar com a Área do Cliente`.
+1. Em `Meus negócios` (`/negocios`), clique em `Acessar meu negócio` no cartão da cidade. [guia=negocios.acessar-negocio]
+2. Clique em `Minha plataforma`. [guia=menu:/negocios/[licenseId]/plataforma]
+3. Clique em `Acessar meu portal` (na confirmação final) ou em `Acesse seu painel` (depois da instalação concluída). Abre em nova aba. [guia=plataforma.acessar-portal]
+4. Na tela de login do painel, clique em `Entrar com a Área do Cliente`. [guia=fora]
 
 ## resultado
 você entra no painel com a mesma conta que usa na área do cliente. não existe senha separada para o painel.

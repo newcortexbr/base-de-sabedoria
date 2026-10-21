@@ -24,18 +24,18 @@ colocar o portal num subdomínio de um domínio que você já usa em outro site,
 - acesso ao painel onde o DNS do seu domínio é administrado (registrador ou Cloudflare).
 
 ## passos
-1. Em `Meus negócios` (`/negocios`), clique em `Iniciar instalação` no cartão da cidade.
-2. Em `Qual endereço sua plataforma vai ter?`, escolha `Subdomínio` (exemplo: `portal.minhaempresa.com.br`).
-3. No campo `Seu subdomínio`, digite o endereço completo.
-4. Digite de novo no campo de confirmação, sem colar.
-5. Marque a caixa `Confirmo que ... é meu, está registrado e pago.`
-6. Clique em `Continuar`.
-7. Na tela `Apontamento do subdomínio`, anote os três campos: `Tipo`, `Nome` e `Aponta para`.
-8. Entre no painel onde o DNS deste domínio é administrado (o registrador ou a Cloudflare).
-9. Abra a área de DNS ou Zona DNS e clique em adicionar registro.
-10. Escolha o tipo mostrado e preencha com os valores da tela. Se o campo "Nome" já mostrar o domínio ao lado, escreva só a primeira parte (em `portal.exemplo.com.br`, apenas `portal`).
-11. Deixe o TTL no automático (ou 3600) e salve.
-12. Volte à área do cliente. Não é preciso avisar ninguém: a verificação é automática.
+1. Em `Meus negócios` (`/negocios`), clique em `Iniciar instalação` no cartão da cidade. [guia=negocios.instalacao]
+2. Em `Qual endereço sua plataforma vai ter?`, escolha `Subdomínio` (exemplo: `portal.minhaempresa.com.br`). [guia=plataforma.subdominio]
+3. No campo `Seu subdomínio`, digite o endereço completo. [guia=plataforma.campo-dominio]
+4. Digite de novo no campo de confirmação, sem colar. [guia=plataforma.repetir-dominio]
+5. Marque a caixa `Confirmo que ... é meu, está registrado e pago.` [guia=plataforma.confirmo-registro]
+6. Clique em `Continuar`. [guia=plataforma.continuar]
+7. Na tela `Apontamento do subdomínio`, anote os três campos: `Tipo`, `Nome` e `Aponta para`. [guia=fora]
+8. Entre no painel onde o DNS deste domínio é administrado (o registrador ou a Cloudflare). [guia=fora]
+9. Abra a área de DNS ou Zona DNS e clique em adicionar registro. [guia=fora]
+10. Escolha o tipo mostrado e preencha com os valores da tela. Se o campo "Nome" já mostrar o domínio ao lado, escreva só a primeira parte (em `portal.exemplo.com.br`, apenas `portal`). [guia=fora]
+11. Deixe o TTL no automático (ou 3600) e salve. [guia=fora]
+12. Volte à área do cliente. Não é preciso avisar ninguém: a verificação é automática. [guia=fora]
 
 ## resultado
 a tela mostra `Conferindo o apontamento automaticamente, a cada minuto. Assim que ele chegar até nós, esta etapa avança sozinha.` quando o apontamento é encontrado, a instalação segue para a confirmação final.

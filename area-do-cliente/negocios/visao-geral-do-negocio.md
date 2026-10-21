@@ -21,9 +21,9 @@ usar a `Visão geral` para saber como está o negócio e qual é o próximo pass
 - ter pelo menos um negócio em `Meus negócios`.
 
 ## passos
-1. No menu da esquerda, clique em `Meus negócios` (`/negocios`).
-2. No cartão da cidade, clique em `Acessar meu negócio`.
-3. No menu do negócio, clique em `Visão geral` (`/negocios/<negócio>`).
+1. No menu da esquerda, clique em `Meus negócios` (`/negocios`). [guia=menu:/negocios]
+2. No cartão da cidade, clique em `Acessar meu negócio`. [guia=negocios.acessar-negocio]
+3. No menu do negócio, clique em `Visão geral` (`/negocios/<negócio>`). [guia=menu:/negocios/[licenseId]]
 
 ## resultado
 a tela mostra:

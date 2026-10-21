@@ -28,9 +28,9 @@ saber como mudar o endereço do seu portal depois que o domínio foi informado.
 - depois, a instalação volta para a etapa de DNS e você precisa trocar os nameservers do domínio novo (ou criar o registro, se for subdomínio), como na primeira vez.
 
 ## passos
-1. No menu, clique em `Suporte` e abra um chamado pedindo a troca de domínio.
-2. Informe o domínio atual e o domínio novo, e confirme que o novo já está registrado no seu nome.
-3. Quando o suporte avisar, abra `Minha plataforma` e siga a etapa de DNS que aparecer.
+1. No menu, clique em `Suporte` e abra um chamado pedindo a troca de domínio. [guia=menu:/suporte]
+2. Informe o domínio atual e o domínio novo, e confirme que o novo já está registrado no seu nome. [guia=fora]
+3. Quando o suporte avisar, abra `Minha plataforma` e siga a etapa de DNS que aparecer. [guia=menu:/negocios/[licenseId]/plataforma]
 
 ## resultado
 o portal passa a responder no domínio novo depois da propagação.

@@ -31,10 +31,10 @@ o atendimento da equipe é por chamado. Existem três caminhos até ele:
 a Área do Cliente não mostra telefone nem chat ao vivo com atendente. Para dúvidas de compra (antes de ser cliente), a página de cidade indisponível tem `Falar com o comercial`.
 
 ## passos
-1. No menu da esquerda, clique em `Suporte`.
-2. Clique em `Abrir novo chamado`.
-3. Escolha o `Assunto` e o `Negócio vinculado`, escreva o `Título` e a `Mensagem`.
-4. Clique em `Enviar chamado`.
+1. No menu da esquerda, clique em `Suporte`. [guia=menu:/suporte]
+2. Clique em `Abrir novo chamado`. [guia=suporte.novo-chamado]
+3. Escolha o `Assunto` e o `Negócio vinculado`, escreva o `Título` e a `Mensagem`. [guia=chamado-novo.negocio]
+4. Clique em `Enviar chamado`. [guia=chamado-novo.enviar]
 
 ## resultado
 o chamado fica registrado com número, e a resposta da equipe chega na página do chamado e por e-mail.

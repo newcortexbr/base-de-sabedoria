@@ -21,9 +21,9 @@ conhecer as ferramentas que vêm com o seu negócio e onde encontrá-las.
 - ter um negócio com licença ativa.
 
 ## passos
-1. No menu da esquerda, clique em `Meus negócios` (`/negocios`) e depois em `Acessar meu negócio`.
-2. No menu do negócio, clique em `Ferramentas` (`/negocios/<negócio>/ferramentas`).
-3. Em `Suas ferramentas`, veja os cartões. Cada um tem nome, descrição, uma etiqueta de situação e os botões.
+1. No menu da esquerda, clique em `Meus negócios` (`/negocios`) e depois em `Acessar meu negócio`. [guia=negocios.acessar-negocio]
+2. No menu do negócio, clique em `Ferramentas` (`/negocios/<negócio>/ferramentas`). [guia=menu:/negocios/[licenseId]/ferramentas]
+3. Em `Suas ferramentas`, veja os cartões. Cada um tem nome, descrição, uma etiqueta de situação e os botões. [guia=fora]
 
 ## resultado
 você vê as ferramentas do seu produto. a tela diz: `Acesse suas ferramentas e aprenda a usar cada uma delas.`

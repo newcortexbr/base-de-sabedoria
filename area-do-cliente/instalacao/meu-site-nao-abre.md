@@ -23,12 +23,12 @@ descobrir por que o seu portal não abre e o que fazer.
 - ter entrado na área do cliente.
 
 ## passos
-1. Em `Meus negócios` (`/negocios`), veja a etiqueta do cartão da cidade.
-2. Se for `Suspenso`: o portal sai do ar enquanto houver pagamento em atraso. Clique em `Regularizar pagamento`.
-3. Se for `Instalação pendente` ou `Em instalação`: o portal ainda não foi publicado. Clique no botão do cartão (por exemplo `Ver o que fazer`) e siga a etapa indicada.
-4. Se a tela mostrar `Testando o acesso ao portal` (etapa `Conexão DNS`): aguarde; pode levar de alguns minutos até 24 horas.
-5. Se for `Portal no ar`: abra `Minha plataforma` e clique em `Acesse seu portal` para ter certeza de que está usando o endereço certo.
-6. Tente abrir o site em outro aparelho ou em outra rede (por exemplo, no celular com dados móveis).
+1. Em `Meus negócios` (`/negocios`), veja a etiqueta do cartão da cidade. [guia=menu:/negocios]
+2. Se for `Suspenso`: o portal sai do ar enquanto houver pagamento em atraso. Clique em `Regularizar pagamento`. [guia=pagamentos.pagar]
+3. Se for `Instalação pendente` ou `Em instalação`: o portal ainda não foi publicado. Clique no botão do cartão (por exemplo `Ver o que fazer`) e siga a etapa indicada. [guia=fora]
+4. Se a tela mostrar `Testando o acesso ao portal` (etapa `Conexão DNS`): aguarde; pode levar de alguns minutos até 24 horas. [guia=fora]
+5. Se for `Portal no ar`: abra `Minha plataforma` e clique em `Acesse seu portal` para ter certeza de que está usando o endereço certo. [guia=plataforma.acessar-portal]
+6. Tente abrir o site em outro aparelho ou em outra rede (por exemplo, no celular com dados móveis). [guia=fora]
 
 ## resultado
 você identifica se o problema é pagamento, instalação em andamento ou algo que precisa do suporte.

@@ -21,10 +21,10 @@ ver todos os seus negócios (cidades) e abrir o que você quer gerenciar.
 - ter entrado na área do cliente.
 
 ## passos
-1. No menu da esquerda, em `Seu espaço`, clique em `Meus negócios` (`/negocios`).
-2. Na seção `Seus portais`, encontre o cartão da cidade que você quer.
-3. Leia a etiqueta de situação do cartão (por exemplo `Portal no ar` ou `Instalação pendente`) e o campo `Endereço do portal`.
-4. Clique em `Acessar meu negócio` para abrir a `Visão geral` daquele negócio.
+1. No menu da esquerda, em `Seu espaço`, clique em `Meus negócios` (`/negocios`). [guia=menu:/negocios]
+2. Na seção `Seus portais`, encontre o cartão da cidade que você quer. [guia=fora]
+3. Leia a etiqueta de situação do cartão (por exemplo `Portal no ar` ou `Instalação pendente`) e o campo `Endereço do portal`. [guia=fora]
+4. Clique em `Acessar meu negócio` para abrir a `Visão geral` daquele negócio. [guia=negocios.acessar-negocio]
 
 ## resultado
 você entra no negócio escolhido e o menu da esquerda passa a mostrar as áreas dele: `Visão geral`, `Minha plataforma`, `Treinamentos`, `Ferramentas`, `Lives` e `Pagamentos`.

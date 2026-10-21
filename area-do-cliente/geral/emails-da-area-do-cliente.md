@@ -38,9 +38,9 @@ os e-mails da Área do Cliente, pelo assunto:
 o boleto, o Pix e o recibo de pagamento vêm da página de pagamento do Asaas, empresa que processa as cobranças da New Córtex (veja `ac-cobranca-pelo-asaas`).
 
 ## passos
-1. Se recebeu um e-mail e ficou em dúvida, não clique no link.
-2. Entre na Área do Cliente digitando o endereço no navegador.
-3. Confira a mesma informação lá dentro: cobranças em `Pagamentos`, chamados em `Suporte`, situação em `Meus negócios`.
+1. Se recebeu um e-mail e ficou em dúvida, não clique no link. [guia=fora]
+2. Entre na Área do Cliente digitando o endereço no navegador. [guia=fora]
+3. Confira a mesma informação lá dentro: cobranças em `Pagamentos`, chamados em `Suporte`, situação em `Meus negócios`. [guia=fora]
 
 ## resultado
 você sabe se o e-mail é verdadeiro e o que ele pede.

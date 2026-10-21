@@ -24,11 +24,11 @@ encontrar o endereço do seu site, o painel administrativo e os links úteis do 
 - instalação concluída: você respondeu `Sim, já está no ar` (cartão com `Portal no ar`).
 
 ## passos
-1. Em `Meus negócios` (`/negocios`), clique em `Acessar meu negócio` no cartão da cidade.
-2. No menu do negócio, clique em `Minha plataforma` (`/negocios/<negócio>/plataforma`).
-3. Em `Acessos principais`, clique em `Acesse seu portal` para abrir o site público, ou em `Acesse seu painel` para gerenciar conteúdos e configurações.
-4. Para copiar um endereço, use o botão de copiar ao lado dele.
-5. Em `Guia de links do seu portal`, escolha a aba da categoria (`Páginas de vendas`, `Áreas de login`, `Recursos do portal`) e copie o link que quer compartilhar.
+1. Em `Meus negócios` (`/negocios`), clique em `Acessar meu negócio` no cartão da cidade. [guia=negocios.acessar-negocio]
+2. No menu do negócio, clique em `Minha plataforma` (`/negocios/<negócio>/plataforma`). [guia=menu:/negocios/[licenseId]/plataforma]
+3. Em `Acessos principais`, clique em `Acesse seu portal` para abrir o site público, ou em `Acesse seu painel` para gerenciar conteúdos e configurações. [guia=plataforma.acessar-portal]
+4. Para copiar um endereço, use o botão de copiar ao lado dele. [guia=fora]
+5. Em `Guia de links do seu portal`, escolha a aba da categoria (`Páginas de vendas`, `Áreas de login`, `Recursos do portal`) e copie o link que quer compartilhar. [guia=fora]
 
 ## resultado
 você abre o site, o painel e tem à mão os links para divulgar, como `Seja parceiro`, `Guia Comercial`, `Vagas de emprego`, `Classificados`, `Banner publicitário`, `Matéria patrocinada / notícias`, `Especialista / colunista`, `Área do parceiro`, `Ferramenta de orçamento` e `Voz do Povo`.

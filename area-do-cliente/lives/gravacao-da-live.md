@@ -21,9 +21,9 @@ ver uma live que você perdeu.
 - ter um negócio com licença ativa.
 
 ## passos
-1. No menu do negócio, clique em `Lives` (`/negocios/<negócio>/lives`).
-2. Em `Agenda de lives`, volte ao mês da live com `Mês anterior` e clique no dia dela.
-3. No cartão da live, clique em `Assistir à gravação`.
+1. No menu do negócio, clique em `Lives` (`/negocios/<negócio>/lives`). [guia=menu:/negocios/[licenseId]/lives]
+2. Em `Agenda de lives`, volte ao mês da live com `Mês anterior` e clique no dia dela. [guia=fora]
+3. No cartão da live, clique em `Assistir à gravação`. [guia=fora]
 
 ## resultado
 a gravação abre no YouTube, em uma nova aba.
