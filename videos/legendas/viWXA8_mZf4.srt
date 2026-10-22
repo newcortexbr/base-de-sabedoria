@@ -1,0 +1,405 @@
+1
+00:00:00,000 --> 00:00:02,470
+ 
+Neste vídeo, você vai ver como receber e
+
+2
+00:00:02,470 --> 00:00:02,480
+Neste vídeo, você vai ver como receber e
+ 
+
+3
+00:00:02,480 --> 00:00:04,790
+Neste vídeo, você vai ver como receber e
+acompanhar os pedidos do delivery feitos
+
+4
+00:00:04,790 --> 00:00:04,800
+acompanhar os pedidos do delivery feitos
+ 
+
+5
+00:00:04,800 --> 00:00:05,870
+acompanhar os pedidos do delivery feitos
+pelo portal.
+
+6
+00:00:05,870 --> 00:00:05,880
+pelo portal.
+ 
+
+7
+00:00:05,880 --> 00:00:08,110
+pelo portal.
+Primeiro, veja como o cliente faz o
+
+8
+00:00:08,110 --> 00:00:08,120
+Primeiro, veja como o cliente faz o
+ 
+
+9
+00:00:08,120 --> 00:00:10,430
+Primeiro, veja como o cliente faz o
+pedido. No celular, ele confere o
+
+10
+00:00:10,430 --> 00:00:10,440
+pedido. No celular, ele confere o
+ 
+
+11
+00:00:10,440 --> 00:00:13,190
+pedido. No celular, ele confere o
+carrinho e toca em finalizar pedido.
+
+12
+00:00:13,190 --> 00:00:13,200
+carrinho e toca em finalizar pedido.
+ 
+
+13
+00:00:13,200 --> 00:00:15,870
+carrinho e toca em finalizar pedido.
+Depois, informa o nome, o telefone e o
+
+14
+00:00:15,870 --> 00:00:15,880
+Depois, informa o nome, o telefone e o
+ 
+
+15
+00:00:15,880 --> 00:00:18,190
+Depois, informa o nome, o telefone e o
+endereço. Repare que, no bairro,
+
+16
+00:00:18,190 --> 00:00:18,200
+endereço. Repare que, no bairro,
+ 
+
+17
+00:00:18,200 --> 00:00:20,710
+endereço. Repare que, no bairro,
+aparecem só os bairros que você atende.
+
+18
+00:00:20,710 --> 00:00:20,720
+aparecem só os bairros que você atende.
+ 
+
+19
+00:00:20,720 --> 00:00:23,190
+aparecem só os bairros que você atende.
+Por fim, escolhe a forma de pagamento e
+
+20
+00:00:23,190 --> 00:00:23,200
+Por fim, escolhe a forma de pagamento e
+ 
+
+21
+00:00:23,200 --> 00:00:25,990
+Por fim, escolhe a forma de pagamento e
+toca em confirmar pedido. O pedido ganha
+
+22
+00:00:25,990 --> 00:00:26,000
+toca em confirmar pedido. O pedido ganha
+ 
+
+23
+00:00:26,000 --> 00:00:28,310
+toca em confirmar pedido. O pedido ganha
+um código e o resumo é enviado para o
+
+24
+00:00:28,310 --> 00:00:28,320
+um código e o resumo é enviado para o
+ 
+
+25
+00:00:28,320 --> 00:00:30,350
+um código e o resumo é enviado para o
+WhatsApp da loja. Se o pagamento for
+
+26
+00:00:30,350 --> 00:00:30,360
+WhatsApp da loja. Se o pagamento for
+ 
+
+27
+00:00:30,360 --> 00:00:33,430
+WhatsApp da loja. Se o pagamento for
+Pix, o cliente já vê a sua chave. Na sua
+
+28
+00:00:33,430 --> 00:00:33,440
+Pix, o cliente já vê a sua chave. Na sua
+ 
+
+29
+00:00:33,440 --> 00:00:35,750
+Pix, o cliente já vê a sua chave. Na sua
+área, os pedidos ficam em delivery,
+
+30
+00:00:35,750 --> 00:00:35,760
+área, os pedidos ficam em delivery,
+ 
+
+31
+00:00:35,760 --> 00:00:38,070
+área, os pedidos ficam em delivery,
+pedidos, no menu da esquerda. A bolinha
+
+32
+00:00:38,070 --> 00:00:38,080
+pedidos, no menu da esquerda. A bolinha
+ 
+
+33
+00:00:38,080 --> 00:00:40,230
+pedidos, no menu da esquerda. A bolinha
+vermelha mostra quantos estão aguardando
+
+34
+00:00:40,230 --> 00:00:40,240
+vermelha mostra quantos estão aguardando
+ 
+
+35
+00:00:40,240 --> 00:00:43,110
+vermelha mostra quantos estão aguardando
+você. No topo, filtre pelo período:
+
+36
+00:00:43,110 --> 00:00:43,120
+você. No topo, filtre pelo período:
+ 
+
+37
+00:00:43,120 --> 00:00:47,030
+você. No topo, filtre pelo período:
+hoje, ontem, 7 dias, 30 dias ou escolha
+
+38
+00:00:47,030 --> 00:00:47,040
+hoje, ontem, 7 dias, 30 dias ou escolha
+ 
+
+39
+00:00:47,040 --> 00:00:49,830
+hoje, ontem, 7 dias, 30 dias ou escolha
+as datas. E pela situação: todos,
+
+40
+00:00:49,830 --> 00:00:49,840
+as datas. E pela situação: todos,
+ 
+
+41
+00:00:49,840 --> 00:00:53,110
+as datas. E pela situação: todos,
+aguardando, concluídos ou cancelados. Os
+
+42
+00:00:53,110 --> 00:00:53,120
+aguardando, concluídos ou cancelados. Os
+ 
+
+43
+00:00:53,120 --> 00:00:55,470
+aguardando, concluídos ou cancelados. Os
+quadros mostram o total de pedidos, o
+
+44
+00:00:55,470 --> 00:00:55,480
+quadros mostram o total de pedidos, o
+ 
+
+45
+00:00:55,480 --> 00:00:57,830
+quadros mostram o total de pedidos, o
+valor vendido e quantos pedidos estão
+
+46
+00:00:57,830 --> 00:00:57,840
+valor vendido e quantos pedidos estão
+ 
+
+47
+00:00:57,840 --> 00:01:00,030
+valor vendido e quantos pedidos estão
+aguardando você. Cada pedido mostra o
+
+48
+00:01:00,030 --> 00:01:00,040
+aguardando você. Cada pedido mostra o
+ 
+
+49
+00:01:00,040 --> 00:01:03,590
+aguardando você. Cada pedido mostra o
+código, a situação, a hora, os itens, a
+
+50
+00:01:03,590 --> 00:01:03,600
+código, a situação, a hora, os itens, a
+ 
+
+51
+00:01:03,600 --> 00:01:06,030
+código, a situação, a hora, os itens, a
+observação do cliente, o nome, o
+
+52
+00:01:06,030 --> 00:01:06,040
+observação do cliente, o nome, o
+ 
+
+53
+00:01:06,040 --> 00:01:08,750
+observação do cliente, o nome, o
+telefone, o endereço completo, a forma
+
+54
+00:01:08,750 --> 00:01:08,760
+telefone, o endereço completo, a forma
+ 
+
+55
+00:01:08,760 --> 00:01:11,430
+telefone, o endereço completo, a forma
+de pagamento e o total. Use chamar
+
+56
+00:01:11,430 --> 00:01:11,440
+de pagamento e o total. Use chamar
+ 
+
+57
+00:01:11,440 --> 00:01:14,030
+de pagamento e o total. Use chamar
+cliente para falar com ele no WhatsApp e
+
+58
+00:01:14,030 --> 00:01:14,040
+cliente para falar com ele no WhatsApp e
+ 
+
+59
+00:01:14,040 --> 00:01:16,710
+cliente para falar com ele no WhatsApp e
+ver pedido para abrir a página do pedido
+
+60
+00:01:16,710 --> 00:01:16,720
+ver pedido para abrir a página do pedido
+ 
+
+61
+00:01:16,720 --> 00:01:18,550
+ver pedido para abrir a página do pedido
+do jeito que o cliente vê. Quando o
+
+62
+00:01:18,550 --> 00:01:18,560
+do jeito que o cliente vê. Quando o
+ 
+
+63
+00:01:18,560 --> 00:01:21,230
+do jeito que o cliente vê. Quando o
+pedido for entregue, clique em concluir.
+
+64
+00:01:21,230 --> 00:01:21,240
+pedido for entregue, clique em concluir.
+ 
+
+65
+00:01:21,240 --> 00:01:23,670
+pedido for entregue, clique em concluir.
+Ele passa para concluído e o contador de
+
+66
+00:01:23,670 --> 00:01:23,680
+Ele passa para concluído e o contador de
+ 
+
+67
+00:01:23,680 --> 00:01:26,230
+Ele passa para concluído e o contador de
+pedidos aguardando diminui. Se precisar
+
+68
+00:01:26,230 --> 00:01:26,240
+pedidos aguardando diminui. Se precisar
+ 
+
+69
+00:01:26,240 --> 00:01:28,830
+pedidos aguardando diminui. Se precisar
+cancelar, clique em cancelar e escreva o
+
+70
+00:01:28,830 --> 00:01:28,840
+cancelar, clique em cancelar e escreva o
+ 
+
+71
+00:01:28,840 --> 00:01:31,950
+cancelar, clique em cancelar e escreva o
+motivo. Atenção: o cancelamento não pode
+
+72
+00:01:31,950 --> 00:01:31,960
+motivo. Atenção: o cancelamento não pode
+ 
+
+73
+00:01:31,960 --> 00:01:34,070
+motivo. Atenção: o cancelamento não pode
+ser desfeito. Os pedidos cancelados
+
+74
+00:01:34,070 --> 00:01:34,080
+ser desfeito. Os pedidos cancelados
+ 
+
+75
+00:01:34,080 --> 00:01:36,510
+ser desfeito. Os pedidos cancelados
+ficam no filtro cancelados, com o motivo
+
+76
+00:01:36,510 --> 00:01:36,520
+ficam no filtro cancelados, com o motivo
+ 
+
+77
+00:01:36,520 --> 00:01:39,350
+ficam no filtro cancelados, com o motivo
+registrado. Dica: deixe esta tela aberta
+
+78
+00:01:39,350 --> 00:01:39,360
+registrado. Dica: deixe esta tela aberta
+ 
+
+79
+00:01:39,360 --> 00:01:41,310
+registrado. Dica: deixe esta tela aberta
+durante o expediente e clique em
+
+80
+00:01:41,310 --> 00:01:41,320
+durante o expediente e clique em
+ 
+
+81
+00:01:41,320 --> 00:01:45,520
+durante o expediente e clique em
+atualizar para ver os pedidos novos.
+

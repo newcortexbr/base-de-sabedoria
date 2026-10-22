@@ -1,0 +1,1695 @@
+1
+00:00:00,000 --> 00:00:02,550
+ 
+Meus planos é a tela onde você decide o
+
+2
+00:00:02,550 --> 00:00:02,560
+Meus planos é a tela onde você decide o
+ 
+
+3
+00:00:02,560 --> 00:00:04,870
+Meus planos é a tela onde você decide o
+que o seu portal vende e por quanto.
+
+4
+00:00:04,870 --> 00:00:04,880
+que o seu portal vende e por quanto.
+ 
+
+5
+00:00:04,880 --> 00:00:07,430
+que o seu portal vende e por quanto.
+Vamos ver tudo, seção por seção. No
+
+6
+00:00:07,430 --> 00:00:07,440
+Vamos ver tudo, seção por seção. No
+ 
+
+7
+00:00:07,440 --> 00:00:09,910
+Vamos ver tudo, seção por seção. No
+painel, clique em Meus Planos no grupo
+
+8
+00:00:09,910 --> 00:00:09,920
+painel, clique em Meus Planos no grupo
+ 
+
+9
+00:00:09,920 --> 00:00:12,870
+painel, clique em Meus Planos no grupo
+comercial. No topo, quatro números:
+
+10
+00:00:12,870 --> 00:00:12,880
+comercial. No topo, quatro números:
+ 
+
+11
+00:00:12,880 --> 00:00:14,990
+comercial. No topo, quatro números:
+quantos planos estão à venda, quantas
+
+12
+00:00:14,990 --> 00:00:15,000
+quantos planos estão à venda, quantas
+ 
+
+13
+00:00:15,000 --> 00:00:17,310
+quantos planos estão à venda, quantas
+seções estão vendendo, quantas seções
+
+14
+00:00:17,310 --> 00:00:17,320
+seções estão vendendo, quantas seções
+ 
+
+15
+00:00:17,320 --> 00:00:20,030
+seções estão vendendo, quantas seções
+estão sem nada à venda e quantos espaços
+
+16
+00:00:20,030 --> 00:00:20,040
+estão sem nada à venda e quantos espaços
+ 
+
+17
+00:00:20,040 --> 00:00:22,630
+estão sem nada à venda e quantos espaços
+de banner já tem preço. Abaixo, um
+
+18
+00:00:22,630 --> 00:00:22,640
+de banner já tem preço. Abaixo, um
+ 
+
+19
+00:00:22,640 --> 00:00:25,310
+de banner já tem preço. Abaixo, um
+cartão por seção do portal: notícias,
+
+20
+00:00:25,310 --> 00:00:25,320
+cartão por seção do portal: notícias,
+ 
+
+21
+00:00:25,320 --> 00:00:27,790
+cartão por seção do portal: notícias,
+vagas de emprego, classificados, guia
+
+22
+00:00:27,790 --> 00:00:27,800
+vagas de emprego, classificados, guia
+ 
+
+23
+00:00:27,800 --> 00:00:30,710
+vagas de emprego, classificados, guia
+comercial, agenda de eventos e artigos,
+
+24
+00:00:30,710 --> 00:00:30,720
+comercial, agenda de eventos e artigos,
+ 
+
+25
+00:00:30,720 --> 00:00:33,310
+comercial, agenda de eventos e artigos,
+com cada plano e o preço. No fim, o
+
+26
+00:00:33,310 --> 00:00:33,320
+com cada plano e o preço. No fim, o
+ 
+
+27
+00:00:33,320 --> 00:00:35,150
+com cada plano e o preço. No fim, o
+espaço de publicidade, que são os
+
+28
+00:00:35,150 --> 00:00:35,160
+espaço de publicidade, que são os
+ 
+
+29
+00:00:35,160 --> 00:00:37,590
+espaço de publicidade, que são os
+banners. Antes de entrar nas seções, a
+
+30
+00:00:37,590 --> 00:00:37,600
+banners. Antes de entrar nas seções, a
+ 
+
+31
+00:00:37,600 --> 00:00:40,190
+banners. Antes de entrar nas seções, a
+regra mais importante desta tela: cada
+
+32
+00:00:40,190 --> 00:00:40,200
+regra mais importante desta tela: cada
+ 
+
+33
+00:00:40,200 --> 00:00:42,830
+regra mais importante desta tela: cada
+plano já vem com quantidades, limites e
+
+34
+00:00:42,830 --> 00:00:42,840
+plano já vem com quantidades, limites e
+ 
+
+35
+00:00:42,840 --> 00:00:44,790
+plano já vem com quantidades, limites e
+benefícios pré-estabelecidos pela
+
+36
+00:00:44,790 --> 00:00:44,800
+benefícios pré-estabelecidos pela
+ 
+
+37
+00:00:44,800 --> 00:00:47,910
+benefícios pré-estabelecidos pela
+plataforma e isso não pode ser alterado.
+
+38
+00:00:47,910 --> 00:00:47,920
+plataforma e isso não pode ser alterado.
+ 
+
+39
+00:00:47,920 --> 00:00:49,790
+plataforma e isso não pode ser alterado.
+Por exemplo, quantas vagas o cliente
+
+40
+00:00:49,790 --> 00:00:49,800
+Por exemplo, quantas vagas o cliente
+ 
+
+41
+00:00:49,800 --> 00:00:52,110
+Por exemplo, quantas vagas o cliente
+publica, quantos dias cada anúncio fica
+
+42
+00:00:52,110 --> 00:00:52,120
+publica, quantos dias cada anúncio fica
+ 
+
+43
+00:00:52,120 --> 00:00:54,750
+publica, quantos dias cada anúncio fica
+no ar, quantas fotos ele envia e quais
+
+44
+00:00:54,750 --> 00:00:54,760
+no ar, quantas fotos ele envia e quais
+ 
+
+45
+00:00:54,760 --> 00:00:57,310
+no ar, quantas fotos ele envia e quais
+destaques ele ganha. Isso é fixo, para
+
+46
+00:00:57,310 --> 00:00:57,320
+destaques ele ganha. Isso é fixo, para
+ 
+
+47
+00:00:57,320 --> 00:00:59,310
+destaques ele ganha. Isso é fixo, para
+que o cliente receba exatamente o que
+
+48
+00:00:59,310 --> 00:00:59,320
+que o cliente receba exatamente o que
+ 
+
+49
+00:00:59,320 --> 00:01:02,430
+que o cliente receba exatamente o que
+comprou. O que você pode fazer é: mudar
+
+50
+00:01:02,430 --> 00:01:02,440
+comprou. O que você pode fazer é: mudar
+ 
+
+51
+00:01:02,440 --> 00:01:04,710
+comprou. O que você pode fazer é: mudar
+o nome do plano, definir o preço,
+
+52
+00:01:04,710 --> 00:01:04,720
+o nome do plano, definir o preço,
+ 
+
+53
+00:01:04,720 --> 00:01:06,990
+o nome do plano, definir o preço,
+colocar ou tirar o plano de venda e
+
+54
+00:01:06,990 --> 00:01:07,000
+colocar ou tirar o plano de venda e
+ 
+
+55
+00:01:07,000 --> 00:01:08,710
+colocar ou tirar o plano de venda e
+criar novos planos em outras
+
+56
+00:01:08,710 --> 00:01:08,720
+criar novos planos em outras
+ 
+
+57
+00:01:08,720 --> 00:01:11,510
+criar novos planos em outras
+periodicidades, como semestral ou anual,
+
+58
+00:01:11,510 --> 00:01:11,520
+periodicidades, como semestral ou anual,
+ 
+
+59
+00:01:11,520 --> 00:01:13,870
+periodicidades, como semestral ou anual,
+com o preço que quiser. E há dois jeitos
+
+60
+00:01:13,870 --> 00:01:13,880
+com o preço que quiser. E há dois jeitos
+ 
+
+61
+00:01:13,880 --> 00:01:16,270
+com o preço que quiser. E há dois jeitos
+de cobrar. Na recorrência, mensal,
+
+62
+00:01:16,270 --> 00:01:16,280
+de cobrar. Na recorrência, mensal,
+ 
+
+63
+00:01:16,280 --> 00:01:18,710
+de cobrar. Na recorrência, mensal,
+semestral ou anual, o cliente é cobrado
+
+64
+00:01:18,710 --> 00:01:18,720
+semestral ou anual, o cliente é cobrado
+ 
+
+65
+00:01:18,720 --> 00:01:21,190
+semestral ou anual, o cliente é cobrado
+de novo a cada período enquanto mantiver
+
+66
+00:01:21,190 --> 00:01:21,200
+de novo a cada período enquanto mantiver
+ 
+
+67
+00:01:21,200 --> 00:01:23,590
+de novo a cada período enquanto mantiver
+o plano. No pagamento único, ele paga
+
+68
+00:01:23,590 --> 00:01:23,600
+o plano. No pagamento único, ele paga
+ 
+
+69
+00:01:23,600 --> 00:01:26,470
+o plano. No pagamento único, ele paga
+uma vez só, sem renovação. Vamos começar
+
+70
+00:01:26,470 --> 00:01:26,480
+uma vez só, sem renovação. Vamos começar
+ 
+
+71
+00:01:26,480 --> 00:01:28,390
+uma vez só, sem renovação. Vamos começar
+por Vagas de Emprego. Clique em
+
+72
+00:01:28,390 --> 00:01:28,400
+por Vagas de Emprego. Clique em
+ 
+
+73
+00:01:28,400 --> 00:01:31,030
+por Vagas de Emprego. Clique em
+Gerenciar. Esta é a mesma escada de
+
+74
+00:01:31,030 --> 00:01:31,040
+Gerenciar. Esta é a mesma escada de
+ 
+
+75
+00:01:31,040 --> 00:01:32,470
+Gerenciar. Esta é a mesma escada de
+planos que o cliente vê na hora de
+
+76
+00:01:32,470 --> 00:01:32,480
+planos que o cliente vê na hora de
+ 
+
+77
+00:01:32,480 --> 00:01:35,230
+planos que o cliente vê na hora de
+contratar. Repare nas abas Mensal,
+
+78
+00:01:35,230 --> 00:01:35,240
+contratar. Repare nas abas Mensal,
+ 
+
+79
+00:01:35,240 --> 00:01:38,070
+contratar. Repare nas abas Mensal,
+Semestral e Pagamento Único. Cada forma
+
+80
+00:01:38,070 --> 00:01:38,080
+Semestral e Pagamento Único. Cada forma
+ 
+
+81
+00:01:38,080 --> 00:01:40,230
+Semestral e Pagamento Único. Cada forma
+de pagamento que você cria vira uma aba
+
+82
+00:01:40,230 --> 00:01:40,240
+de pagamento que você cria vira uma aba
+ 
+
+83
+00:01:40,240 --> 00:01:42,350
+de pagamento que você cria vira uma aba
+aqui. O primeiro cartão é o plano de
+
+84
+00:01:42,350 --> 00:01:42,360
+aqui. O primeiro cartão é o plano de
+ 
+
+85
+00:01:42,360 --> 00:01:45,350
+aqui. O primeiro cartão é o plano de
+entrada, o grátis. Ele não é vendido, é
+
+86
+00:01:45,350 --> 00:01:45,360
+entrada, o grátis. Ele não é vendido, é
+ 
+
+87
+00:01:45,360 --> 00:01:47,190
+entrada, o grátis. Ele não é vendido, é
+o ponto de partida de quem ainda não
+
+88
+00:01:47,190 --> 00:01:47,200
+o ponto de partida de quem ainda não
+ 
+
+89
+00:01:47,200 --> 00:01:49,830
+o ponto de partida de quem ainda não
+contratou nada. Dá direito a uma vaga no
+
+90
+00:01:49,830 --> 00:01:49,840
+contratou nada. Dá direito a uma vaga no
+ 
+
+91
+00:01:49,840 --> 00:01:52,630
+contratou nada. Dá direito a uma vaga no
+ar por vez e cada vaga fica 30 dias no
+
+92
+00:01:52,630 --> 00:01:52,640
+ar por vez e cada vaga fica 30 dias no
+ 
+
+93
+00:01:52,640 --> 00:01:55,990
+ar por vez e cada vaga fica 30 dias no
+ar. Na aba Mensal está Vagas Ilimitadas,
+
+94
+00:01:55,990 --> 00:01:56,000
+ar. Na aba Mensal está Vagas Ilimitadas,
+ 
+
+95
+00:01:56,000 --> 00:01:58,110
+ar. Na aba Mensal está Vagas Ilimitadas,
+uma assinatura recorrente. O cliente
+
+96
+00:01:58,110 --> 00:01:58,120
+uma assinatura recorrente. O cliente
+ 
+
+97
+00:01:58,120 --> 00:02:00,830
+uma assinatura recorrente. O cliente
+publica vagas sem limite. Cada vaga fica
+
+98
+00:02:00,830 --> 00:02:00,840
+publica vagas sem limite. Cada vaga fica
+ 
+
+99
+00:02:00,840 --> 00:02:03,469
+publica vagas sem limite. Cada vaga fica
+90 dias no ar com destaque e selo de
+
+100
+00:02:03,469 --> 00:02:03,479
+90 dias no ar com destaque e selo de
+ 
+
+101
+00:02:03,479 --> 00:02:05,590
+90 dias no ar com destaque e selo de
+empresa verificada. E os itens com
+
+102
+00:02:05,590 --> 00:02:05,600
+empresa verificada. E os itens com
+ 
+
+103
+00:02:05,600 --> 00:02:08,190
+empresa verificada. E os itens com
+estrela, o carrossel no topo da seção e
+
+104
+00:02:08,190 --> 00:02:08,200
+estrela, o carrossel no topo da seção e
+ 
+
+105
+00:02:08,200 --> 00:02:10,469
+estrela, o carrossel no topo da seção e
+o topo da listagem valem nos primeiros
+
+106
+00:02:10,469 --> 00:02:10,479
+o topo da listagem valem nos primeiros
+ 
+
+107
+00:02:10,479 --> 00:02:13,030
+o topo da listagem valem nos primeiros
+10 dias de cada mês pago. Na aba
+
+108
+00:02:13,030 --> 00:02:13,040
+10 dias de cada mês pago. Na aba
+ 
+
+109
+00:02:13,040 --> 00:02:15,990
+10 dias de cada mês pago. Na aba
+semestral está a mesma vagas ilimitadas,
+
+110
+00:02:15,990 --> 00:02:16,000
+semestral está a mesma vagas ilimitadas,
+ 
+
+111
+00:02:16,000 --> 00:02:18,550
+semestral está a mesma vagas ilimitadas,
+só que cobrada a cada 6 meses. Ela foi
+
+112
+00:02:18,550 --> 00:02:18,560
+só que cobrada a cada 6 meses. Ela foi
+ 
+
+113
+00:02:18,560 --> 00:02:21,150
+só que cobrada a cada 6 meses. Ela foi
+criada pelo botão mais planos, com nome
+
+114
+00:02:21,150 --> 00:02:21,160
+criada pelo botão mais planos, com nome
+ 
+
+115
+00:02:21,160 --> 00:02:24,070
+criada pelo botão mais planos, com nome
+e preço próprios. Na aba pagamento único
+
+116
+00:02:24,070 --> 00:02:24,080
+e preço próprios. Na aba pagamento único
+ 
+
+117
+00:02:24,080 --> 00:02:26,510
+e preço próprios. Na aba pagamento único
+está o pacote cinco vagas. O cliente
+
+118
+00:02:26,510 --> 00:02:26,520
+está o pacote cinco vagas. O cliente
+ 
+
+119
+00:02:26,520 --> 00:02:28,990
+está o pacote cinco vagas. O cliente
+paga uma vez e recebe cinco vagas no
+
+120
+00:02:28,990 --> 00:02:29,000
+paga uma vez e recebe cinco vagas no
+ 
+
+121
+00:02:29,000 --> 00:02:32,110
+paga uma vez e recebe cinco vagas no
+total, cada uma com 90 dias no ar. Usou
+
+122
+00:02:32,110 --> 00:02:32,120
+total, cada uma com 90 dias no ar. Usou
+ 
+
+123
+00:02:32,120 --> 00:02:34,470
+total, cada uma com 90 dias no ar. Usou
+as cinco, precisa comprar de novo. Para
+
+124
+00:02:34,470 --> 00:02:34,480
+as cinco, precisa comprar de novo. Para
+ 
+
+125
+00:02:34,480 --> 00:02:37,030
+as cinco, precisa comprar de novo. Para
+mudar um plano, clique em editar. Você
+
+126
+00:02:37,030 --> 00:02:37,040
+mudar um plano, clique em editar. Você
+ 
+
+127
+00:02:37,040 --> 00:02:39,470
+mudar um plano, clique em editar. Você
+altera o nome e o preço e liga ou
+
+128
+00:02:39,470 --> 00:02:39,480
+altera o nome e o preço e liga ou
+ 
+
+129
+00:02:39,480 --> 00:02:41,870
+altera o nome e o preço e liga ou
+desliga colocar este plano à venda.
+
+130
+00:02:41,870 --> 00:02:41,880
+desliga colocar este plano à venda.
+ 
+
+131
+00:02:41,880 --> 00:02:44,030
+desliga colocar este plano à venda.
+Repare no cadeado em como o cliente
+
+132
+00:02:44,030 --> 00:02:44,040
+Repare no cadeado em como o cliente
+ 
+
+133
+00:02:44,040 --> 00:02:46,670
+Repare no cadeado em como o cliente
+paga. A periodicidade de um plano que já
+
+134
+00:02:46,670 --> 00:02:46,680
+paga. A periodicidade de um plano que já
+ 
+
+135
+00:02:46,680 --> 00:02:49,790
+paga. A periodicidade de um plano que já
+existe fica travada. E no quadro limites
+
+136
+00:02:49,790 --> 00:02:49,800
+existe fica travada. E no quadro limites
+ 
+
+137
+00:02:49,800 --> 00:02:52,070
+existe fica travada. E no quadro limites
+e benefícios fixos estão as regras que
+
+138
+00:02:52,070 --> 00:02:52,080
+e benefícios fixos estão as regras que
+ 
+
+139
+00:02:52,080 --> 00:02:54,390
+e benefícios fixos estão as regras que
+não mudam. Se quiser vender o mesmo
+
+140
+00:02:54,390 --> 00:02:54,400
+não mudam. Se quiser vender o mesmo
+ 
+
+141
+00:02:54,400 --> 00:02:56,830
+não mudam. Se quiser vender o mesmo
+plano em outra periodicidade, clique em
+
+142
+00:02:56,830 --> 00:02:56,840
+plano em outra periodicidade, clique em
+ 
+
+143
+00:02:56,840 --> 00:02:59,470
+plano em outra periodicidade, clique em
+mais planos. Primeiro você escolhe quais
+
+144
+00:02:59,470 --> 00:02:59,480
+mais planos. Primeiro você escolhe quais
+ 
+
+145
+00:02:59,480 --> 00:03:02,070
+mais planos. Primeiro você escolhe quais
+benefícios deseja replicar. Logo abaixo
+
+146
+00:03:02,070 --> 00:03:02,080
+benefícios deseja replicar. Logo abaixo
+ 
+
+147
+00:03:02,080 --> 00:03:04,670
+benefícios deseja replicar. Logo abaixo
+aparece tudo que vem junto, exatamente
+
+148
+00:03:04,670 --> 00:03:04,680
+aparece tudo que vem junto, exatamente
+ 
+
+149
+00:03:04,680 --> 00:03:06,949
+aparece tudo que vem junto, exatamente
+igual ao plano original. Depois, dê um
+
+150
+00:03:06,949 --> 00:03:06,959
+igual ao plano original. Depois, dê um
+ 
+
+151
+00:03:06,959 --> 00:03:09,590
+igual ao plano original. Depois, dê um
+nome, defina o valor e escolha como o
+
+152
+00:03:09,590 --> 00:03:09,600
+nome, defina o valor e escolha como o
+ 
+
+153
+00:03:09,600 --> 00:03:12,870
+nome, defina o valor e escolha como o
+cliente paga: mensal, semestral, anual
+
+154
+00:03:12,870 --> 00:03:12,880
+cliente paga: mensal, semestral, anual
+ 
+
+155
+00:03:12,880 --> 00:03:15,030
+cliente paga: mensal, semestral, anual
+ou pagamento único. A forma que já
+
+156
+00:03:15,030 --> 00:03:15,040
+ou pagamento único. A forma que já
+ 
+
+157
+00:03:15,040 --> 00:03:17,630
+ou pagamento único. A forma que já
+existe aparece bloqueada, com o nome de
+
+158
+00:03:17,630 --> 00:03:17,640
+existe aparece bloqueada, com o nome de
+ 
+
+159
+00:03:17,640 --> 00:03:20,310
+existe aparece bloqueada, com o nome de
+quem já ocupa. O plano gratuito nunca
+
+160
+00:03:20,310 --> 00:03:20,320
+quem já ocupa. O plano gratuito nunca
+ 
+
+161
+00:03:20,320 --> 00:03:23,270
+quem já ocupa. O plano gratuito nunca
+pode ser replicado. E o botão excluir só
+
+162
+00:03:23,270 --> 00:03:23,280
+pode ser replicado. E o botão excluir só
+ 
+
+163
+00:03:23,280 --> 00:03:25,550
+pode ser replicado. E o botão excluir só
+aparece quando o mesmo plano existe em
+
+164
+00:03:25,550 --> 00:03:25,560
+aparece quando o mesmo plano existe em
+ 
+
+165
+00:03:25,560 --> 00:03:28,030
+aparece quando o mesmo plano existe em
+mais de uma forma de pagamento. O último
+
+166
+00:03:28,030 --> 00:03:28,040
+mais de uma forma de pagamento. O último
+ 
+
+167
+00:03:28,040 --> 00:03:30,550
+mais de uma forma de pagamento. O último
+só sai de venda pela chave. Clique em
+
+168
+00:03:30,550 --> 00:03:30,560
+só sai de venda pela chave. Clique em
+ 
+
+169
+00:03:30,560 --> 00:03:33,190
+só sai de venda pela chave. Clique em
+comparar todos os planos para ver lado a
+
+170
+00:03:33,190 --> 00:03:33,200
+comparar todos os planos para ver lado a
+ 
+
+171
+00:03:33,200 --> 00:03:36,070
+comparar todos os planos para ver lado a
+lado o que cada plano tem e o que falta.
+
+172
+00:03:36,070 --> 00:03:36,080
+lado o que cada plano tem e o que falta.
+ 
+
+173
+00:03:36,080 --> 00:03:39,030
+lado o que cada plano tem e o que falta.
+Agora, classificados. O grátis permite
+
+174
+00:03:39,030 --> 00:03:39,040
+Agora, classificados. O grátis permite
+ 
+
+175
+00:03:39,040 --> 00:03:41,550
+Agora, classificados. O grátis permite
+três anúncios no ar, até três fotos por
+
+176
+00:03:41,550 --> 00:03:41,560
+três anúncios no ar, até três fotos por
+ 
+
+177
+00:03:41,560 --> 00:03:44,470
+três anúncios no ar, até três fotos por
+anúncio, 30 dias cada. O plano start é
+
+178
+00:03:44,470 --> 00:03:44,480
+anúncio, 30 dias cada. O plano start é
+ 
+
+179
+00:03:44,480 --> 00:03:46,830
+anúncio, 30 dias cada. O plano start é
+uma assinatura mensal, 10 anúncios no
+
+180
+00:03:46,830 --> 00:03:46,840
+uma assinatura mensal, 10 anúncios no
+ 
+
+181
+00:03:46,840 --> 00:03:50,150
+uma assinatura mensal, 10 anúncios no
+ar, 10 fotos, 180 dias por anúncio,
+
+182
+00:03:50,150 --> 00:03:50,160
+ar, 10 fotos, 180 dias por anúncio,
+ 
+
+183
+00:03:50,160 --> 00:03:51,990
+ar, 10 fotos, 180 dias por anúncio,
+destaque e selo de anunciante
+
+184
+00:03:51,990 --> 00:03:52,000
+destaque e selo de anunciante
+ 
+
+185
+00:03:52,000 --> 00:03:54,550
+destaque e selo de anunciante
+verificado. O plano premium é a mesma
+
+186
+00:03:54,550 --> 00:03:54,560
+verificado. O plano premium é a mesma
+ 
+
+187
+00:03:54,560 --> 00:03:57,150
+verificado. O plano premium é a mesma
+assinatura com 50 anúncios no ar. Os
+
+188
+00:03:57,150 --> 00:03:57,160
+assinatura com 50 anúncios no ar. Os
+ 
+
+189
+00:03:57,160 --> 00:03:59,510
+assinatura com 50 anúncios no ar. Os
+itens com estrela, topo da categoria e
+
+190
+00:03:59,510 --> 00:03:59,520
+itens com estrela, topo da categoria e
+ 
+
+191
+00:03:59,520 --> 00:04:02,030
+itens com estrela, topo da categoria e
+carrossel da home valem por alguns dias
+
+192
+00:04:02,030 --> 00:04:02,040
+carrossel da home valem por alguns dias
+ 
+
+193
+00:04:02,040 --> 00:04:04,110
+carrossel da home valem por alguns dias
+a cada pagamento. Veja a edição do
+
+194
+00:04:04,110 --> 00:04:04,120
+a cada pagamento. Veja a edição do
+ 
+
+195
+00:04:04,120 --> 00:04:06,830
+a cada pagamento. Veja a edição do
+grátis. Você muda o nome, mas os limites
+
+196
+00:04:06,830 --> 00:04:06,840
+grátis. Você muda o nome, mas os limites
+ 
+
+197
+00:04:06,840 --> 00:04:09,390
+grátis. Você muda o nome, mas os limites
+ficam travados. Em classificados, você
+
+198
+00:04:09,390 --> 00:04:09,400
+ficam travados. Em classificados, você
+ 
+
+199
+00:04:09,400 --> 00:04:11,630
+ficam travados. Em classificados, você
+também pode criar versões semestrais,
+
+200
+00:04:11,630 --> 00:04:11,640
+também pode criar versões semestrais,
+ 
+
+201
+00:04:11,640 --> 00:04:14,150
+também pode criar versões semestrais,
+anuais ou de pagamento único. No guia
+
+202
+00:04:14,150 --> 00:04:14,160
+anuais ou de pagamento único. No guia
+ 
+
+203
+00:04:14,160 --> 00:04:16,710
+anuais ou de pagamento único. No guia
+comercial, o grátis é a ficha básica da
+
+204
+00:04:16,710 --> 00:04:16,720
+comercial, o grátis é a ficha básica da
+ 
+
+205
+00:04:16,720 --> 00:04:19,550
+comercial, o grátis é a ficha básica da
+empresa. Logo, nome, descrição,
+
+206
+00:04:19,550 --> 00:04:19,560
+empresa. Logo, nome, descrição,
+ 
+
+207
+00:04:19,560 --> 00:04:22,710
+empresa. Logo, nome, descrição,
+categoria, endereço, mapa e horário. O
+
+208
+00:04:22,710 --> 00:04:22,720
+categoria, endereço, mapa e horário. O
+ 
+
+209
+00:04:22,720 --> 00:04:25,030
+categoria, endereço, mapa e horário. O
+plano start libera galeria de fotos,
+
+210
+00:04:25,030 --> 00:04:25,040
+plano start libera galeria de fotos,
+ 
+
+211
+00:04:25,040 --> 00:04:27,870
+plano start libera galeria de fotos,
+botão de WhatsApp, redes sociais e site,
+
+212
+00:04:27,870 --> 00:04:27,880
+botão de WhatsApp, redes sociais e site,
+ 
+
+213
+00:04:27,880 --> 00:04:30,550
+botão de WhatsApp, redes sociais e site,
+links externos, telefone e não exibir
+
+214
+00:04:30,550 --> 00:04:30,560
+links externos, telefone e não exibir
+ 
+
+215
+00:04:30,560 --> 00:04:32,390
+links externos, telefone e não exibir
+concorrentes na página. E o plano
+
+216
+00:04:32,390 --> 00:04:32,400
+concorrentes na página. E o plano
+ 
+
+217
+00:04:32,400 --> 00:04:34,790
+concorrentes na página. E o plano
+premium tem tudo, inclusive os recursos
+
+218
+00:04:34,790 --> 00:04:34,800
+premium tem tudo, inclusive os recursos
+ 
+
+219
+00:04:34,800 --> 00:04:36,909
+premium tem tudo, inclusive os recursos
+com estrela. Destaque na listagem,
+
+220
+00:04:36,909 --> 00:04:36,919
+com estrela. Destaque na listagem,
+ 
+
+221
+00:04:36,919 --> 00:04:39,550
+com estrela. Destaque na listagem,
+receber orçamentos, cupom de desconto e
+
+222
+00:04:39,550 --> 00:04:39,560
+receber orçamentos, cupom de desconto e
+ 
+
+223
+00:04:39,560 --> 00:04:42,070
+receber orçamentos, cupom de desconto e
+páginas personalizadas, como cardápio e
+
+224
+00:04:42,070 --> 00:04:42,080
+páginas personalizadas, como cardápio e
+ 
+
+225
+00:04:42,080 --> 00:04:44,750
+páginas personalizadas, como cardápio e
+catálogo. No guia, os planos são sempre
+
+226
+00:04:44,750 --> 00:04:44,760
+catálogo. No guia, os planos são sempre
+ 
+
+227
+00:04:44,760 --> 00:04:47,670
+catálogo. No guia, os planos são sempre
+recorrentes. Em mais planos, aparecem só
+
+228
+00:04:47,670 --> 00:04:47,680
+recorrentes. Em mais planos, aparecem só
+ 
+
+229
+00:04:47,680 --> 00:04:50,830
+recorrentes. Em mais planos, aparecem só
+mensal, semestral e anual, sem pagamento
+
+230
+00:04:50,830 --> 00:04:50,840
+mensal, semestral e anual, sem pagamento
+ 
+
+231
+00:04:50,840 --> 00:04:53,430
+mensal, semestral e anual, sem pagamento
+único. Na agenda de eventos, a lógica é
+
+232
+00:04:53,430 --> 00:04:53,440
+único. Na agenda de eventos, a lógica é
+ 
+
+233
+00:04:53,440 --> 00:04:56,190
+único. Na agenda de eventos, a lógica é
+por evento. Na aba pagamento único, a
+
+234
+00:04:56,190 --> 00:04:56,200
+por evento. Na aba pagamento único, a
+ 
+
+235
+00:04:56,200 --> 00:04:58,430
+por evento. Na aba pagamento único, a
+divulgação simples publica um evento sem
+
+236
+00:04:58,430 --> 00:04:58,440
+divulgação simples publica um evento sem
+ 
+
+237
+00:04:58,440 --> 00:05:00,550
+divulgação simples publica um evento sem
+destaque. Repare que ela está fora de
+
+238
+00:05:00,550 --> 00:05:00,560
+destaque. Repare que ela está fora de
+ 
+
+239
+00:05:00,560 --> 00:05:02,670
+destaque. Repare que ela está fora de
+venda, com a chave desligada. A
+
+240
+00:05:02,670 --> 00:05:02,680
+venda, com a chave desligada. A
+ 
+
+241
+00:05:02,680 --> 00:05:04,670
+venda, com a chave desligada. A
+divulgação com destaque também é
+
+242
+00:05:04,670 --> 00:05:04,680
+divulgação com destaque também é
+ 
+
+243
+00:05:04,680 --> 00:05:06,510
+divulgação com destaque também é
+pagamento único. Um evento por
+
+244
+00:05:06,510 --> 00:05:06,520
+pagamento único. Um evento por
+ 
+
+245
+00:05:06,520 --> 00:05:08,350
+pagamento único. Um evento por
+pagamento, com destaque na home de
+
+246
+00:05:08,350 --> 00:05:08,360
+pagamento, com destaque na home de
+ 
+
+247
+00:05:08,360 --> 00:05:10,150
+pagamento, com destaque na home de
+eventos e na página de eventos da
+
+248
+00:05:10,150 --> 00:05:10,160
+eventos e na página de eventos da
+ 
+
+249
+00:05:10,160 --> 00:05:12,590
+eventos e na página de eventos da
+cidade. O evento passou, para divulgar
+
+250
+00:05:12,590 --> 00:05:12,600
+cidade. O evento passou, para divulgar
+ 
+
+251
+00:05:12,600 --> 00:05:15,390
+cidade. O evento passou, para divulgar
+outro, paga de novo. Na aba mensal, está
+
+252
+00:05:15,390 --> 00:05:15,400
+outro, paga de novo. Na aba mensal, está
+ 
+
+253
+00:05:15,400 --> 00:05:18,030
+outro, paga de novo. Na aba mensal, está
+o pacote cinco eventos, recorrente. A
+
+254
+00:05:18,030 --> 00:05:18,040
+o pacote cinco eventos, recorrente. A
+ 
+
+255
+00:05:18,040 --> 00:05:20,190
+o pacote cinco eventos, recorrente. A
+cada mês pago, o cliente pode divulgar
+
+256
+00:05:20,190 --> 00:05:20,200
+cada mês pago, o cliente pode divulgar
+ 
+
+257
+00:05:20,200 --> 00:05:22,630
+cada mês pago, o cliente pode divulgar
+até cinco eventos em destaque. Apagar um
+
+258
+00:05:22,630 --> 00:05:22,640
+até cinco eventos em destaque. Apagar um
+ 
+
+259
+00:05:22,640 --> 00:05:25,550
+até cinco eventos em destaque. Apagar um
+evento não devolve o uso. Notícias tem
+
+260
+00:05:25,550 --> 00:05:25,560
+evento não devolve o uso. Notícias tem
+ 
+
+261
+00:05:25,560 --> 00:05:28,110
+evento não devolve o uso. Notícias tem
+um plano único, de pagamento único. O
+
+262
+00:05:28,110 --> 00:05:28,120
+um plano único, de pagamento único. O
+ 
+
+263
+00:05:28,120 --> 00:05:30,110
+um plano único, de pagamento único. O
+cliente compra uma matéria patrocinada
+
+264
+00:05:30,110 --> 00:05:30,120
+cliente compra uma matéria patrocinada
+ 
+
+265
+00:05:30,120 --> 00:05:32,390
+cliente compra uma matéria patrocinada
+em destaque e a publicação é feita pela
+
+266
+00:05:32,390 --> 00:05:32,400
+em destaque e a publicação é feita pela
+ 
+
+267
+00:05:32,400 --> 00:05:34,390
+em destaque e a publicação é feita pela
+equipe do portal. Aqui, você define
+
+268
+00:05:34,390 --> 00:05:34,400
+equipe do portal. Aqui, você define
+ 
+
+269
+00:05:34,400 --> 00:05:36,670
+equipe do portal. Aqui, você define
+apenas o nome, o preço e se está à
+
+270
+00:05:36,670 --> 00:05:36,680
+apenas o nome, o preço e se está à
+ 
+
+271
+00:05:36,680 --> 00:05:39,350
+apenas o nome, o preço e se está à
+venda. Notícias não tem o botão mais
+
+272
+00:05:39,350 --> 00:05:39,360
+venda. Notícias não tem o botão mais
+ 
+
+273
+00:05:39,360 --> 00:05:42,310
+venda. Notícias não tem o botão mais
+planos. Artigos também tem um plano só,
+
+274
+00:05:42,310 --> 00:05:42,320
+planos. Artigos também tem um plano só,
+ 
+
+275
+00:05:42,320 --> 00:05:45,190
+planos. Artigos também tem um plano só,
+mensal e recorrente, para colunistas. Um
+
+276
+00:05:45,190 --> 00:05:45,200
+mensal e recorrente, para colunistas. Um
+ 
+
+277
+00:05:45,200 --> 00:05:47,430
+mensal e recorrente, para colunistas. Um
+artigo por semana, coluna com página
+
+278
+00:05:47,430 --> 00:05:47,440
+artigo por semana, coluna com página
+ 
+
+279
+00:05:47,440 --> 00:05:50,750
+artigo por semana, coluna com página
+própria, artigo em destaque, foto e bio.
+
+280
+00:05:50,750 --> 00:05:50,760
+própria, artigo em destaque, foto e bio.
+ 
+
+281
+00:05:50,760 --> 00:05:53,630
+própria, artigo em destaque, foto e bio.
+Você ajusta o nome, o preço e a venda.
+
+282
+00:05:53,630 --> 00:05:53,640
+Você ajusta o nome, o preço e a venda.
+ 
+
+283
+00:05:53,640 --> 00:05:56,550
+Você ajusta o nome, o preço e a venda.
+Por fim, publicidade. Aqui você vende os
+
+284
+00:05:56,550 --> 00:05:56,560
+Por fim, publicidade. Aqui você vende os
+ 
+
+285
+00:05:56,560 --> 00:05:58,870
+Por fim, publicidade. Aqui você vende os
+espaços de banner. À esquerda estão as
+
+286
+00:05:58,870 --> 00:05:58,880
+espaços de banner. À esquerda estão as
+ 
+
+287
+00:05:58,880 --> 00:06:01,350
+espaços de banner. À esquerda estão as
+páginas do portal com quantos espaços já
+
+288
+00:06:01,350 --> 00:06:01,360
+páginas do portal com quantos espaços já
+ 
+
+289
+00:06:01,360 --> 00:06:03,550
+páginas do portal com quantos espaços já
+tem preço. Ao escolher uma página,
+
+290
+00:06:03,550 --> 00:06:03,560
+tem preço. Ao escolher uma página,
+ 
+
+291
+00:06:03,560 --> 00:06:05,870
+tem preço. Ao escolher uma página,
+aparecem os espaços dela e o desenho ao
+
+292
+00:06:05,870 --> 00:06:05,880
+aparecem os espaços dela e o desenho ao
+ 
+
+293
+00:06:05,880 --> 00:06:08,310
+aparecem os espaços dela e o desenho ao
+lado mostra onde cada um fica. Os
+
+294
+00:06:08,310 --> 00:06:08,320
+lado mostra onde cada um fica. Os
+ 
+
+295
+00:06:08,320 --> 00:06:10,390
+lado mostra onde cada um fica. Os
+espaços em verde estão à venda e os
+
+296
+00:06:10,390 --> 00:06:10,400
+espaços em verde estão à venda e os
+ 
+
+297
+00:06:10,400 --> 00:06:12,750
+espaços em verde estão à venda e os
+pontilhados estão fora de venda. Em
+
+298
+00:06:12,750 --> 00:06:12,760
+pontilhados estão fora de venda. Em
+ 
+
+299
+00:06:12,760 --> 00:06:15,110
+pontilhados estão fora de venda. Em
+turismo, cada espaço explica a regra.
+
+300
+00:06:15,110 --> 00:06:15,120
+turismo, cada espaço explica a regra.
+ 
+
+301
+00:06:15,120 --> 00:06:17,110
+turismo, cada espaço explica a regra.
+Por exemplo, dentro da página de um
+
+302
+00:06:17,110 --> 00:06:17,120
+Por exemplo, dentro da página de um
+ 
+
+303
+00:06:17,120 --> 00:06:19,510
+Por exemplo, dentro da página de um
+ponto turístico, até três anunciantes
+
+304
+00:06:19,510 --> 00:06:19,520
+ponto turístico, até três anunciantes
+ 
+
+305
+00:06:19,520 --> 00:06:21,909
+ponto turístico, até três anunciantes
+por ponto. Para vender um espaço, clique
+
+306
+00:06:21,909 --> 00:06:21,919
+por ponto. Para vender um espaço, clique
+ 
+
+307
+00:06:21,919 --> 00:06:24,590
+por ponto. Para vender um espaço, clique
+em definir preço. Dê um nome, escolha
+
+308
+00:06:24,590 --> 00:06:24,600
+em definir preço. Dê um nome, escolha
+ 
+
+309
+00:06:24,600 --> 00:06:27,550
+em definir preço. Dê um nome, escolha
+periodicidade e o preço. A periodicidade
+
+310
+00:06:27,550 --> 00:06:27,560
+periodicidade e o preço. A periodicidade
+ 
+
+311
+00:06:27,560 --> 00:06:30,510
+periodicidade e o preço. A periodicidade
+pode ser semanal, mensal, semestral ou
+
+312
+00:06:30,510 --> 00:06:30,520
+pode ser semanal, mensal, semestral ou
+ 
+
+313
+00:06:30,520 --> 00:06:32,870
+pode ser semanal, mensal, semestral ou
+anual. Cada espaço aceita até três
+
+314
+00:06:32,870 --> 00:06:32,880
+anual. Cada espaço aceita até três
+ 
+
+315
+00:06:32,880 --> 00:06:35,470
+anual. Cada espaço aceita até três
+preços, um por periodicidade. Clique num
+
+316
+00:06:35,470 --> 00:06:35,480
+preços, um por periodicidade. Clique num
+ 
+
+317
+00:06:35,480 --> 00:06:37,790
+preços, um por periodicidade. Clique num
+espaço que já tem preço para editar,
+
+318
+00:06:37,790 --> 00:06:37,800
+espaço que já tem preço para editar,
+ 
+
+319
+00:06:37,800 --> 00:06:40,590
+espaço que já tem preço para editar,
+excluir ou adicionar outro preço. Espaço
+
+320
+00:06:40,590 --> 00:06:40,600
+excluir ou adicionar outro preço. Espaço
+ 
+
+321
+00:06:40,600 --> 00:06:43,190
+excluir ou adicionar outro preço. Espaço
+sem preço fica fora de venda e o cliente
+
+322
+00:06:43,190 --> 00:06:43,200
+sem preço fica fora de venda e o cliente
+ 
+
+323
+00:06:43,200 --> 00:06:45,070
+sem preço fica fora de venda e o cliente
+não consegue contratá-lo pelo painel
+
+324
+00:06:45,070 --> 00:06:45,080
+não consegue contratá-lo pelo painel
+ 
+
+325
+00:06:45,080 --> 00:06:47,710
+não consegue contratá-lo pelo painel
+dele. E é isso que o cliente vê. A mesma
+
+326
+00:06:47,710 --> 00:06:47,720
+dele. E é isso que o cliente vê. A mesma
+ 
+
+327
+00:06:47,720 --> 00:06:49,830
+dele. E é isso que o cliente vê. A mesma
+escada com os nomes e preços que você
+
+328
+00:06:49,830 --> 00:06:49,840
+escada com os nomes e preços que você
+ 
+
+329
+00:06:49,840 --> 00:06:52,070
+escada com os nomes e preços que você
+definiu e o botão quero este para
+
+330
+00:06:52,070 --> 00:06:52,080
+definiu e o botão quero este para
+ 
+
+331
+00:06:52,080 --> 00:06:54,470
+definiu e o botão quero este para
+contratar. Resumindo, limites e
+
+332
+00:06:54,470 --> 00:06:54,480
+contratar. Resumindo, limites e
+ 
+
+333
+00:06:54,480 --> 00:06:57,510
+contratar. Resumindo, limites e
+benefícios são fixos. Você define nomes,
+
+334
+00:06:57,510 --> 00:06:57,520
+benefícios são fixos. Você define nomes,
+ 
+
+335
+00:06:57,520 --> 00:06:59,470
+benefícios são fixos. Você define nomes,
+preços, o que está à venda e as
+
+336
+00:06:59,470 --> 00:06:59,480
+preços, o que está à venda e as
+ 
+
+337
+00:06:59,480 --> 00:07:01,870
+preços, o que está à venda e as
+periodicidades. Monte seus planos e
+
+338
+00:07:01,870 --> 00:07:01,880
+periodicidades. Monte seus planos e
+ 
+
+339
+00:07:01,880 --> 00:07:05,720
+periodicidades. Monte seus planos e
+deixe o portal vendendo por você.
+

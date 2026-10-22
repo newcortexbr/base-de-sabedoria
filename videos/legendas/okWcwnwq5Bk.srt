@@ -1,0 +1,365 @@
+1
+00:00:00,000 --> 00:00:02,070
+ 
+O recurso equipe apresenta os
+
+2
+00:00:02,070 --> 00:00:02,080
+O recurso equipe apresenta os
+ 
+
+3
+00:00:02,080 --> 00:00:04,670
+O recurso equipe apresenta os
+profissionais da empresa com foto, nome
+
+4
+00:00:04,670 --> 00:00:04,680
+profissionais da empresa com foto, nome
+ 
+
+5
+00:00:04,680 --> 00:00:07,270
+profissionais da empresa com foto, nome
+e especialidade. Passa confiança,
+
+6
+00:00:07,270 --> 00:00:07,280
+e especialidade. Passa confiança,
+ 
+
+7
+00:00:07,280 --> 00:00:09,390
+e especialidade. Passa confiança,
+principalmente em clínicas, salões,
+
+8
+00:00:09,390 --> 00:00:09,400
+principalmente em clínicas, salões,
+ 
+
+9
+00:00:09,400 --> 00:00:11,670
+principalmente em clínicas, salões,
+escritórios e consultórios.
+
+10
+00:00:11,670 --> 00:00:11,680
+escritórios e consultórios.
+ 
+
+11
+00:00:11,680 --> 00:00:13,510
+escritórios e consultórios.
+Ele vale para todas as categorias do
+
+12
+00:00:13,510 --> 00:00:13,520
+Ele vale para todas as categorias do
+ 
+
+13
+00:00:13,520 --> 00:00:15,950
+Ele vale para todas as categorias do
+guia e depende do plano da empresa. No
+
+14
+00:00:15,950 --> 00:00:15,960
+guia e depende do plano da empresa. No
+ 
+
+15
+00:00:15,960 --> 00:00:17,990
+guia e depende do plano da empresa. No
+grátis não aparece.
+
+16
+00:00:17,990 --> 00:00:18,000
+grátis não aparece.
+ 
+
+17
+00:00:18,000 --> 00:00:20,310
+grátis não aparece.
+Para abrir, edite a empresa e em
+
+18
+00:00:20,310 --> 00:00:20,320
+Para abrir, edite a empresa e em
+ 
+
+19
+00:00:20,320 --> 00:00:22,990
+Para abrir, edite a empresa e em
+conteúdo da ficha, clique em gerenciar
+
+20
+00:00:22,990 --> 00:00:23,000
+conteúdo da ficha, clique em gerenciar
+ 
+
+21
+00:00:23,000 --> 00:00:24,710
+conteúdo da ficha, clique em gerenciar
+no cartão equipe.
+
+22
+00:00:24,710 --> 00:00:24,720
+no cartão equipe.
+ 
+
+23
+00:00:24,720 --> 00:00:26,710
+no cartão equipe.
+A empresa também gerencia pelo painel do
+
+24
+00:00:26,710 --> 00:00:26,720
+A empresa também gerencia pelo painel do
+ 
+
+25
+00:00:26,720 --> 00:00:27,870
+A empresa também gerencia pelo painel do
+cliente.
+
+26
+00:00:27,870 --> 00:00:27,880
+cliente.
+ 
+
+27
+00:00:27,880 --> 00:00:30,150
+cliente.
+A tela nossa equipe mostra quantos
+
+28
+00:00:30,150 --> 00:00:30,160
+A tela nossa equipe mostra quantos
+ 
+
+29
+00:00:30,160 --> 00:00:32,630
+A tela nossa equipe mostra quantos
+membros estão publicados. Cada membro
+
+30
+00:00:32,630 --> 00:00:32,640
+membros estão publicados. Cada membro
+ 
+
+31
+00:00:32,640 --> 00:00:35,870
+membros estão publicados. Cada membro
+tem a foto, o nome e o cargo, a chave no
+
+32
+00:00:35,870 --> 00:00:35,880
+tem a foto, o nome e o cargo, a chave no
+ 
+
+33
+00:00:35,880 --> 00:00:38,910
+tem a foto, o nome e o cargo, a chave no
+ar, o botão editar e a lixeira.
+
+34
+00:00:38,910 --> 00:00:38,920
+ar, o botão editar e a lixeira.
+ 
+
+35
+00:00:38,920 --> 00:00:41,150
+ar, o botão editar e a lixeira.
+Use a chave no ar para esconder alguém
+
+36
+00:00:41,150 --> 00:00:41,160
+Use a chave no ar para esconder alguém
+ 
+
+37
+00:00:41,160 --> 00:00:43,430
+Use a chave no ar para esconder alguém
+sem apagar o cadastro, por exemplo, um
+
+38
+00:00:43,430 --> 00:00:43,440
+sem apagar o cadastro, por exemplo, um
+ 
+
+39
+00:00:43,440 --> 00:00:45,070
+sem apagar o cadastro, por exemplo, um
+profissional de férias.
+
+40
+00:00:45,070 --> 00:00:45,080
+profissional de férias.
+ 
+
+41
+00:00:45,080 --> 00:00:47,190
+profissional de férias.
+Para cadastrar, clique em adicionar
+
+42
+00:00:47,190 --> 00:00:47,200
+Para cadastrar, clique em adicionar
+ 
+
+43
+00:00:47,200 --> 00:00:49,830
+Para cadastrar, clique em adicionar
+membro. Envie a foto, que é opcional,
+
+44
+00:00:49,830 --> 00:00:49,840
+membro. Envie a foto, que é opcional,
+ 
+
+45
+00:00:49,840 --> 00:00:52,150
+membro. Envie a foto, que é opcional,
+mas faz muita diferença. Preencha o
+
+46
+00:00:52,150 --> 00:00:52,160
+mas faz muita diferença. Preencha o
+ 
+
+47
+00:00:52,160 --> 00:00:55,070
+mas faz muita diferença. Preencha o
+nome, por exemplo, doutor João Silva e o
+
+48
+00:00:55,070 --> 00:00:55,080
+nome, por exemplo, doutor João Silva e o
+ 
+
+49
+00:00:55,080 --> 00:00:56,950
+nome, por exemplo, doutor João Silva e o
+cargo ou especialidade, como
+
+50
+00:00:56,950 --> 00:00:56,960
+cargo ou especialidade, como
+ 
+
+51
+00:00:56,960 --> 00:00:59,390
+cargo ou especialidade, como
+cardiologista ou cabeleireiro.
+
+52
+00:00:59,390 --> 00:00:59,400
+cardiologista ou cabeleireiro.
+ 
+
+53
+00:00:59,400 --> 00:01:00,950
+cardiologista ou cabeleireiro.
+Se o profissional tiver registro no
+
+54
+00:01:00,950 --> 00:01:00,960
+Se o profissional tiver registro no
+ 
+
+55
+00:01:00,960 --> 00:01:02,950
+Se o profissional tiver registro no
+conselho, informe em registro
+
+56
+00:01:02,950 --> 00:01:02,960
+conselho, informe em registro
+ 
+
+57
+00:01:02,960 --> 00:01:07,430
+conselho, informe em registro
+profissional, como CRM, CREA ou OAB.
+
+58
+00:01:07,430 --> 00:01:07,440
+profissional, como CRM, CREA ou OAB.
+ 
+
+59
+00:01:07,440 --> 00:01:09,750
+profissional, como CRM, CREA ou OAB.
+Clique em salvar membro. Para mudar os
+
+60
+00:01:09,750 --> 00:01:09,760
+Clique em salvar membro. Para mudar os
+ 
+
+61
+00:01:09,760 --> 00:01:12,590
+Clique em salvar membro. Para mudar os
+dados, clique em editar no membro.
+
+62
+00:01:12,590 --> 00:01:12,600
+dados, clique em editar no membro.
+ 
+
+63
+00:01:12,600 --> 00:01:14,750
+dados, clique em editar no membro.
+No portal, a página da empresa ganha o
+
+64
+00:01:14,750 --> 00:01:14,760
+No portal, a página da empresa ganha o
+ 
+
+65
+00:01:14,760 --> 00:01:17,430
+No portal, a página da empresa ganha o
+bloco nossa equipe, com a foto redonda,
+
+66
+00:01:17,430 --> 00:01:17,440
+bloco nossa equipe, com a foto redonda,
+ 
+
+67
+00:01:17,440 --> 00:01:19,390
+bloco nossa equipe, com a foto redonda,
+o nome e a especialidade de cada
+
+68
+00:01:19,390 --> 00:01:19,400
+o nome e a especialidade de cada
+ 
+
+69
+00:01:19,400 --> 00:01:21,830
+o nome e a especialidade de cada
+profissional. Pronto. Mostrar quem
+
+70
+00:01:21,830 --> 00:01:21,840
+profissional. Pronto. Mostrar quem
+ 
+
+71
+00:01:21,840 --> 00:01:24,310
+profissional. Pronto. Mostrar quem
+atende aproxima o cliente e valoriza a
+
+72
+00:01:24,310 --> 00:01:24,320
+atende aproxima o cliente e valoriza a
+ 
+
+73
+00:01:24,320 --> 00:01:27,120
+atende aproxima o cliente e valoriza a
+empresa no guia.
+

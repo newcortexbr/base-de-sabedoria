@@ -8,7 +8,7 @@ categoria: conteúdo
 aba: Roteiros
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - CMEOWthwqtI
@@ -33,14 +33,16 @@ Entrar no painel como administrador, com o módulo de turismo ativo no portal.
 6. Preencha a `Duração`. [guia=roteiros.duracao] [t=23]
 7. Escreva a `Descrição`. [guia=roteiros.descricao] [t=23]
 8. Preencha o `Ponto de partida`. [guia=roteiros.partida] [t=25]
-9. Em `Paradas do roteiro`, clique em `+ Adicionar parada`. [guia=roteiros.adicionar-parada] [t=28]
-10. Escreva o `Nome da parada *`. [guia=roteiros.parada-nome] [t=31]
-11. Escreva a `Descrição` da parada. [guia=roteiros.parada-descricao] [t=32]
-12. Preencha o `Tempo sugerido`. [guia=roteiros.parada-tempo] [t=33]
-13. Clique em `Adicionar` para guardar a parada. Para cada nova parada, repita os quatro passos anteriores. [guia=roteiros.parada-confirmar]
-14. Se quiser, adicione fotos em `Galeria de fotos e vídeos`. [guia=galeria.adicionar-fotos]
-15. Clique em `Salvar`. [guia=roteiros.salvar] [t=43]
-16. Confira o roteiro na lista. [guia=roteiros.editar]
+9. Se tiver, cole o link do YouTube no campo `Vídeo do roteiro (YouTube)`, que é separado da galeria.
+10. Em `Paradas do roteiro`, clique em `+ Adicionar parada`. [guia=roteiros.adicionar-parada] [t=28]
+11. Escreva o `Nome da parada *`. [guia=roteiros.parada-nome] [t=31]
+12. Escreva a `Descrição` da parada. [guia=roteiros.parada-descricao] [t=32]
+13. Preencha o `Tempo sugerido`. [guia=roteiros.parada-tempo] [t=33]
+14. Se quiser, marque a parada como destaque.
+15. Clique em `Adicionar` para guardar a parada. Para cada nova parada, repita os passos anteriores. [guia=roteiros.parada-confirmar]
+16. Se quiser, adicione fotos em `Galeria de fotos e vídeos`. [guia=galeria.adicionar-fotos]
+17. Deixe `Ativo` marcado e clique em `Salvar`. [guia=roteiros.salvar] [t=43]
+18. Confira o roteiro na lista, que mostra o selo, a duração, o número de paradas e se o roteiro está ativo. [guia=roteiros.editar]
 
 ## resultado
 roteiros e dicas ficam em suas áreas próprias de Turismo. Galerias são ligadas ao registro e sua apresentação pública é determinada pelo conteúdo e pelas regras do produto.

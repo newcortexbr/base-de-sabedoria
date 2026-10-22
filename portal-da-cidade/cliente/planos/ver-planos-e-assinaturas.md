@@ -30,7 +30,9 @@ aqui você vê o que assina hoje, quando renova e quanto custa cada plano deste 
 
 1. No menu da esquerda da sua área, clique em `Planos e assinaturas`. [guia=menu:/minha-conta/planos]
 2. Em `Suas assinaturas`, veja cada plano que você tem, o valor e a data em que renova. [guia=fora]
-3. Em `Disponível para assinar`, veja o que mais o portal vende. Clique numa linha para ver os planos e os preços dela. [guia=fora]
+3. Em `Disponível para assinar`, veja as áreas do portal que você ainda não usa e o que mais o portal vende. Clique numa linha para ver os planos e os preços dela. [guia=fora]
+4. Dentro da seção, o topo confirma sua assinatura e até quando ela vale. Os planos aparecem lado a lado e o seu vem marcado como `Seu Plano`. [guia=fora]
+5. Em cada cartão, os itens com visto são o que o plano inclui e os itens em vermelho são o que ele não tem. As estrelas marcam os recursos de destaque. [guia=fora]
 
 ## resultado
 você vê seus planos e a situação de cada um: `Ativo`, `Aguardando pagamento`, `Vencido` ou `Cancelado`.
@@ -38,7 +40,10 @@ você vê seus planos e a situação de cada um: `Ativo`, `Aguardando pagamento`
 ## desvios
 
 - Aparece "Este portal não tem planos à venda no momento.": o portal ainda não pôs planos à venda.
-- Dentro de uma seção, clique em `Comparar todos os planos` para ver lado a lado o que cada plano tem.
+- Dentro de uma seção, clique em `Comparar todos os planos` para ver uma tabela com cada recurso, plano por plano.
+- Para trocar de plano, use o botão no cartão do plano que você quer. Subir para um plano mais completo vale assim que o pagamento é confirmado. Descer vale só no fim do período já pago (botão `Mudar para este plano` e depois `Confirmar descida`; `Cancelar` desfaz).
+- `Voltar ao Grátis` mostra tudo o que se perde quando o período pago termina; leia antes de confirmar. até lá você continua com o plano atual.
+- o plano de cada seção também aparece no menu da esquerda, ao lado do nome, e na tela início; o botão `Mudar plano` leva direto para `Planos e assinaturas`.
 - Eventos, Banners Publicitários e Notícias não têm plano mensal: você paga por item, na tela de cada um.
 
 ## quando pedir ajuda

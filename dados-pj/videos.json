@@ -1,0 +1,13 @@
+{
+  "leia-me": "Vídeos do YouTube do Dados PJ (mesmo formato de area-do-cliente/videos.json). Os artigos citam os ids em `videos:`. Transcrições automáticas em videos/conteudo/<id>.md; títulos como estão no YouTube.",
+  "videos": [
+    {
+      "id": "JXWDV_IiAWQ",
+      "titulo": "Regras de uso - Plataforma Dados PJ"
+    },
+    {
+      "id": "IKdKLgi-e94",
+      "titulo": "Como extrair listas - Dados PJ"
+    }
+  ]
+}

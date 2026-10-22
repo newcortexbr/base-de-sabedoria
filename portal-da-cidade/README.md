@@ -2,13 +2,15 @@
 
 status geral: rascunhos documentais. nenhum artigo está pronto para ingestão. não houve validação de interface, navegação, comportamento ou produção.
 
-contagens por público: usuario — 10 artigos; cliente — 30 artigos, dos quais 2 exclusivos para `parceiro-comercial`; admin — 123 artigos. total: 163 artigos. arquivos em `interno/` são relatórios e proposta, não artigos de atendimento. nunca carregar conteúdo de `interno/` no chat.
+contagens por público: usuario — 12 artigos; cliente — 40 artigos, dos quais 4 exclusivos para `parceiro-comercial`; admin — 125 artigos. total: 177 artigos. arquivos em `interno/` são relatórios e proposta, não artigos de atendimento. nunca carregar conteúdo de `interno/` no chat.
 
 escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem mandar o cliente seguir instruções da tela; o chat guia uma ação por vez. vídeos ficam em `videos.json` e só aparecem no chat quando vinculados no campo `videos:` de um artigo (primeiro da lista = mais específico da tarefa).
 
-## usuario (10)
+## usuario (12)
 
 ### tarefas públicas
+- [votar em Melhores da Cidade](usuario/votar-melhores-da-cidade.md)
+- [conhecer e ajudar instituições de caridade (doações)](usuario/conhecer-instituicoes-de-caridade-doacoes.md)
 - [buscar anúncios classificados](usuario/buscar-anuncios-classificados.md)
 - [consultar contato de empresa](usuario/consultar-contato-de-empresa.md)
 - [encontrar e usar cupom](usuario/encontrar-e-usar-cupom.md)
@@ -22,9 +24,19 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 ### acesso
 - [criar conta para empresa](usuario/acesso/criar-conta-empresa.md)
 
-## cliente (30)
+## cliente (40)
 
 ### tarefas da conta
+- [visão geral da Área do Cliente do Portal](cliente/geral/visao-geral-area-do-cliente.md)
+- [formas de anunciar no portal](cliente/formas-de-anunciar-no-portal.md)
+- [cadastrar sua empresa no Guia Comercial](cliente/guia-comercial/cadastrar-empresa-no-guia.md)
+- [completar a ficha da empresa no Guia Comercial](cliente/guia-comercial/completar-ficha-da-empresa-no-guia.md)
+- [publicar uma notícia como jornalista](cliente/jornalista/publicar-noticia-como-jornalista.md)
+- [virar colunista e publicar artigos](cliente/colunista/virar-colunista.md)
+- [publicar um artigo como colunista](cliente/colunista/publicar-artigo-como-colunista.md)
+- [virar representante parceiro](cliente/parceiro/virar-representante-parceiro.md)
+- [visão geral do painel do parceiro](cliente/parceiro/visao-geral-painel-do-parceiro.md) — exclusivo a `parceiro-comercial`.
+- [cadastrar a carteira Asaas do parceiro](cliente/parceiro/cadastrar-carteira-asaas-do-parceiro.md) — exclusivo a `parceiro-comercial`.
 - [consultar pedidos de Delivery](cliente/consultar-pedidos-delivery.md)
 - [cancelar um pedido de delivery da empresa](cliente/cancelar-pedido-delivery.md)
 - [atualizar os contatos da empresa](cliente/editar-perfil-publico-da-empresa.md)
@@ -60,7 +72,7 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [entrar na área de parceiro comercial](cliente/acesso/entrar-recuperar-parceiro.md) — exclusivo a `parceiro-comercial`; não carregar para cliente comum.
 - [recuperar a senha da área de parceiro comercial](cliente/acesso/recuperar-senha-parceiro.md) — exclusivo a `parceiro-comercial`; não carregar para cliente comum.
 
-## admin (123)
+## admin (125)
 
 ### acesso
 - [entrar no painel](admin/acesso/entrar-painel.md)
@@ -103,6 +115,7 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [turismo: dicas para visitantes](admin/editorial/turismo-dicas.md)
 
 ### comercial
+- [montar e acompanhar uma votação Melhores da Cidade](admin/comercial/montar-e-acompanhar-votacao-melhores-da-cidade.md)
 - [acompanhar faturas e pagamentos](admin/comercial/acompanhar-faturas-e-pagamentos.md)
 - [copiar o link de pagamento de uma fatura](admin/comercial/copiar-link-de-pagamento.md)
 - [cobrar uma fatura pelo WhatsApp](admin/comercial/cobrar-fatura-pelo-whatsapp.md)
@@ -170,6 +183,7 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [publicar uma vaga que eu recusei](admin/comercial/publicar-vaga-recusada.md)
 
 ### portal
+- [cadastrar instituições e causas na área de doações](admin/portal/cadastrar-instituicoes-e-causas-doacoes.md)
 - [aprovações e denúncias](admin/portal/aprovacoes-e-denuncias.md)
 - [recusar um envio que aguarda aprovação](admin/portal/recusar-envio-para-aprovacao.md)
 - [escolher as regras de aprovação e denúncias do portal](admin/portal/regras-de-aprovacao-e-denuncias.md)

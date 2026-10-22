@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - JYDoZB_vyX8
@@ -35,6 +35,14 @@ aqui você decide o que os clientes enviam antes de ir ao ar e acompanha as den�
 1. No menu da esquerda, logo no começo, clique em `Aprovações e Denúncias`. [guia=menu:/painel/aprovacoes]
 2. Na aba `Aprovações`, clique em `Ver detalhe` na linha do envio que você quer conferir. [guia=aprovacoes.ver-detalhe] [t=56]
 3. Se estiver tudo certo, clique em `Aprovar` para colocar no ar. [guia=aprovacoes.aprovar] [t=64]
+4. Para não publicar, clique em `Recusar` direto no envio; o item não vai ao ar.
+
+## explicação
+- o número ao lado do item no menu avisa que há itens novos pendentes.
+- a aba `Aprovações` mostra há quanto tempo cada envio espera.
+- o detalhe do envio mostra descrição, salário, local e contato, conforme o tipo.
+- o visitante denuncia pelo botão `Denunciar`, escolhendo o motivo e descrevendo o ocorrido; a denúncia chega na aba `Denúncias`.
+- todas as ações sobre denúncias pedem confirmação.
 
 ## resultado
 

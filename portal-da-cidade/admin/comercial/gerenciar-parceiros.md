@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - 8gIDPdapN0E
@@ -28,7 +28,7 @@ aqui você cadastra quem vende o portal por você. Ele recebe acesso à área pr
 
 ## passos
 
-1. No menu da esquerda, na parte `Comercial`, clique em `Parceiros`. [guia=menu:/painel/parceiros] [t=6]
+1. No menu da esquerda, na parte `Comercial`, clique em `Parceiros`. [guia=menu:/painel/parceiros] [t=6] No topo, uma chave liga ou desliga o programa de parceiros.
 2. Para cadastrar, clique em `Novo parceiro`. [guia=parceiros.novo] [t=73]
 3. Escreva o `Nome *`. [guia=parceiros.nome] [t=75]
 4. Escreva o `E-mail (login) *`, que o parceiro usa para entrar. [guia=parceiros.email] [t=75]
@@ -45,7 +45,8 @@ o parceiro recebe acesso à área dele.
 ## desvios
 
 - Para pagar comissões, veja os artigos "pagar a comissão de um parceiro por fora do portal" e "mandar a comissão do parceiro direto pelo Asaas".
-- Na lista `Seus parceiros`, os ícones editam dados e plano, trocam a senha ou excluem.
+- Na lista `Seus parceiros` há busca por nome, e-mail ou número e filtros por plano, forma de recebimento e situação. Os ícones da linha editam dados e plano, trocam a senha, desativam ou excluem o parceiro.
+- Existem três planos de parceiro: Start (gratuito e opcional), Pro e Premium (pagos). Em editar o plano você ajusta nome, periodicidade, valor, o percentual de venda e o percentual residual (o que o parceiro recebe todo mês enquanto o cliente renovar). Você pode mudar o plano de um parceiro a qualquer momento.
 - Ligar ou desligar o programa inteiro é outra tarefa; veja o artigo de módulos.
 
 ## quando pedir ajuda

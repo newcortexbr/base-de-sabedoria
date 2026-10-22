@@ -10,7 +10,7 @@ tipo_problema:
   - anuncios-proprios
   - status-do-anuncio
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - S-YcDWiimEo
@@ -31,6 +31,7 @@ Para publicar um anúncio novo, veja o artigo "publicar um anúncio novo na áre
 
 1. No menu da esquerda da sua área, na parte `O que eu publico`, clique em `Classificados` (`/minha-conta/classificados`). [guia=menu:/minha-conta/classificados]
 2. Em `Meus anúncios`, procure o anúncio. Use as abas no topo da lista para ver só um tipo (`Todos`, `Ativo`, `Pausado`, `Aguardando aprovação`, `Reprovado`, `Vendido`, `Encerrado`). [guia=meus-anuncios.filtros]
+   no topo, contadores mostram os anúncios no ar, em análise e vendidos. Os botões à direita de cada anúncio são ver, editar, pausar, marcar como vendido e excluir.
 3. Clique no anúncio para abrir a página `Editar anúncio`. [guia=meus-anuncios.editar]
 4. Faça as mudanças no anúncio. [guia=meus-anuncios.editar]
 5. Clique em `Salvar alterações`. Aparece a mensagem `Anúncio salvo`. [guia=anuncio-form.salvar]
@@ -39,6 +40,9 @@ Para publicar um anúncio novo, veja o artigo "publicar um anúncio novo na áre
 você vê os anúncios associados ao próprio perfil e os estados exibidos, como `Ativo`, `Pausado`, `Aguardando aprovação`, `Reprovado`, `Vendido` ou `Encerrado`.
 
 ## desvios
+- para sair do plano grátis, use o botão `sair do grátis` ou `ver planos de classificados`; a tela compara os planos. Os planos pagos dão mais anúncios no ar, mais tempo de publicação, mais fotos, destaque, selo de anunciante verificado, topo da categoria e carrossel. Para assinar, escolha `quero este` no plano e pague; o limite de anúncios no ar aumenta depois do plano pago.
+- na página do anúncio aparecem a foto, o preço em destaque, o selo de empresa confiável e o botão para chamar no WhatsApp.
+- o artigo [formas de anunciar no portal](formas-de-anunciar-no-portal.md) (vídeo 4pc8AwOX0hA) é uma visão geral das oito formas de anunciar (guia comercial, orçamentos, vagas, classificados, eventos, banners, matéria patrocinada e coluna de especialista); só os classificados são tratados neste artigo.
 - um anúncio ativo pode não aparecer publicamente se estiver sem foto ou fora da validade.
 - quanto tempo o anúncio fica no ar depende do plano: no plano Grátis são 30 dias e nas assinaturas são 180 dias, contados do dia em que ele é publicado (se o portal pede aprovação, do dia em que é aprovado). Passado o prazo, o anúncio é encerrado sozinho. Editar o anúncio não renova o prazo.
 - publicação e destaque obedecem condições e limites comerciais; a área do cliente apresenta eventuais bloqueios.

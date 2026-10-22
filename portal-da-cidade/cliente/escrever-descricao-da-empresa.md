@@ -10,14 +10,14 @@ tipo_problema:
   - editar-perfil-empresa
   - contato-incorreto
 status: rascunho-documental
-revisado_em: 2026-10-15
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - OInXMQlSWqw
 ---
 
 ## objetivo
-aqui você escreve o que sua empresa faz.
+aqui você escreve o que sua empresa faz, em poucas linhas.
 
 ## pré-requisitos
 - ter vínculo ativo com a empresa no portal.
@@ -30,7 +30,7 @@ aqui você escreve o que sua empresa faz.
 3. Clique em `Salvar`. Aparece a mensagem `Dados atualizados em todas as suas seções.` [guia=empresa.salvar]
 
 ## resultado
-A descrição fica salva.
+A descrição fica salva e aparece em todas as seções onde a empresa publica (Guia Comercial, vagas, anúncios e eventos). o quadro `Onde isso aparece` mostra o que será atualizado.
 
 ## desvios
 - os campos disponíveis dependem do tipo de cadastro de empresa.

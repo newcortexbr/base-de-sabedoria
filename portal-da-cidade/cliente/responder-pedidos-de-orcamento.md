@@ -11,7 +11,7 @@ tipo_problema:
   - contato-cliente-orcamento
   - ver-pedidos-orcamento
 status: rascunho-documental
-revisado_em: 2026-10-17
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - KiGU9vNKIwg
@@ -27,13 +27,15 @@ ver os pedidos de orçamento que visitantes enviaram para a empresa e falar com 
 
 ## passos
 
-1. No menu da esquerda da sua área, na parte `Orçamentos`, clique em `Pedidos recebidos` (`/minha-conta/orcamentos`). [guia=menu:/minha-conta/orcamentos]
-2. Procure o pedido. Cada cartão mostra o título, a data e a hora, o nome e o telefone de quem pediu. Se forem muitos, use o campo `Buscar por nome, número ou cidade`. [guia=pedidos-orcamento.busca]
+1. No menu da esquerda da sua área, na parte `Orçamentos`, clique em `Pedidos recebidos` (`/minha-conta/orcamentos`). A bolinha vermelha no menu mostra quantos pedidos novos chegaram. No topo, a tela mostra para qual serviço os pedidos chegam (por exemplo, eletricista). [guia=menu:/minha-conta/orcamentos]
+   os quadros mostram os pedidos novos, o total recebido e os já vistos. As abas `Todos`, `Novos` e `Já vistos` filtram a lista.
+2. Procure o pedido. Cada cartão mostra o título, a data e a hora, o nome e o telefone de quem pediu. O cartão tem o selo `Novo` e as fotos enviadas pelo cliente. Se forem muitos, use o campo `Buscar por nome, número ou cidade`. [guia=pedidos-orcamento.busca]
 3. Para ver a descrição, as fotos e o link que a pessoa mandou, clique em `Ver pedido completo`. [guia=pedidos-orcamento.ver-completo]
-4. Clique em `Responder no WhatsApp`. O WhatsApp abre a conversa com quem pediu, com uma mensagem já escrita. [guia=pedidos-orcamento.whatsapp]
+4. Clique em `Responder no WhatsApp`. O WhatsApp abre a conversa com quem pediu, com uma mensagem pronta dizendo que você viu o pedido e pode atender. Complete e envie. [guia=pedidos-orcamento.whatsapp]
+5. Para organizar o que já leu, clique em `Marcar como visto`. [guia=fora]
 
 ## resultado esperado
-o WhatsApp abre com a conversa de quem pediu o orçamento. ao clicar em `Responder no WhatsApp`, o pedido fica marcado como `Visto`.
+o WhatsApp abre com a conversa de quem pediu o orçamento. o pedido passa a `Visto` ao abrir o pedido, ao clicar em `Responder no WhatsApp` ou em `Marcar como visto`. os pedidos lidos ficam na aba `Já vistos`.
 
 ## desvios
 - se o cartão não tiver o botão `Responder no WhatsApp`, o telefone do pedido não serve para WhatsApp. use o telefone que aparece no cartão.

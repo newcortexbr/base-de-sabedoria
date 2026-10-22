@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: configuracao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - 8M4kdEfP7Eg
@@ -38,10 +38,15 @@ aqui você muda o nome, a logo, os contatos e a aparência do portal.
 2. No quadro `Identidade`, escreva o `Nome do portal`. [guia=configuracoes.nome] [t=9]
 3. Clique em `Salvar` ao lado do nome. [guia=configuracoes.salvar-nome] [t=12]
 4. Para a `Logo do portal`, clique em `Enviar logo` (ou `Trocar logo`) e escolha a imagem. O envio é imediato. [guia=configuracoes.logo] [t=17]
+5. Logo abaixo, envie também o favicon, que é o ícone que aparece na aba do navegador.
+6. Em `Cidades do portal` ficam as cidades da cobertura. Para adicionar uma nova, chame o time comercial no WhatsApp.
+7. Em `Pixels de rastreamento`, cole o código do Google Analytics, do Meta ou de outra plataforma e clique em identificar pixel. Os pixels ativos aparecem logo abaixo.
+8. Em `Aplicativo do portal`, ligue o aviso `Baixar app`. Ele convida o visitante a instalar o portal no celular, com um ícone na tela inicial com a logo e o nome do portal.
+9. Em `Grupo de WhatsApp`, cole o link de convite do grupo ou canal, marque a opção de exibir o convite no site e salve. No site aparece o convite com o botão `Entrar no grupo`.
 
 ## resultado
 
-as informações ou opções de aparência salvas ficam associadas ao portal.
+as informações ou opções de aparência salvas ficam associadas ao portal. O nome aparece no topo quando não há logo.
 
 ## desvios
 

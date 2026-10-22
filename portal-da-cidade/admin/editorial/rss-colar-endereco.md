@@ -8,7 +8,7 @@ categoria: conteúdo
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - r5rFCgAV0mg
@@ -36,6 +36,7 @@ aqui você cadastra um site de notícias que não está na lista pronta, colando
 A fonte aparece na lista de fontes.
 
 ## desvios
+- prefira sempre as fontes da lista pronta. Endereços de RSS de outros sites podem dar problema na importação.
 
 - Fonte desativada para de trazer notícias.
 - Se a verificação do endereço falhar, confira o link do RSS.

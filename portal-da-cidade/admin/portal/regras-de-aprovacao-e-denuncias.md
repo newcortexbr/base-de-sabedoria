@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - JYDoZB_vyX8
@@ -24,8 +24,8 @@ aqui você escolhe se o que os clientes enviam precisa da sua aprovação e se o
 ## passos
 
 1. No menu da esquerda, logo no começo, clique em `Aprovações e Denúncias`. [guia=menu:/painel/aprovacoes]
-2. No topo da página, no quadro `Como funciona neste portal`, marque ou desmarque `Exigir minha aprovação antes de publicar`. Marcado, o que os clientes enviam só vai ao ar depois que você aprovar. [guia=aprovacoes-config:aprovacao]
-3. No mesmo quadro, marque ou desmarque `Permitir que visitantes denunciem conteúdo`. Desmarcado, o botão "Denunciar" some do site. [guia=aprovacoes-config:denuncias]
+2. No topo da página, no quadro `Como funciona neste portal`, marque ou desmarque `Exigir minha aprovação antes de publicar`. Marcado, o que os clientes enviam só vai ao ar depois que você aprovar: ficam pendentes as vagas, as empresas do guia, os classificados e os demais envios de clientes. Só os artigos são publicados direto. [guia=aprovacoes-config:aprovacao]
+3. No mesmo quadro, marque ou desmarque `Permitir que visitantes denunciem conteúdo`. Desmarcado, o botão "Denunciar" some do site. Quando ligado, ele aparece nas páginas de empresa, vaga, classificado e evento. [guia=aprovacoes-config:denuncias]
 
 ## resultado
 As duas opções mudam na hora, conforme o que você marcou.

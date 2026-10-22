@@ -1,0 +1,645 @@
+1
+00:00:00,000 --> 00:00:02,830
+ 
+Seja bem-vindo à sua área do cliente.
+
+2
+00:00:02,830 --> 00:00:02,840
+Seja bem-vindo à sua área do cliente.
+ 
+
+3
+00:00:02,840 --> 00:00:04,910
+Seja bem-vindo à sua área do cliente.
+Neste vídeo rápido, você vai conhecer
+
+4
+00:00:04,910 --> 00:00:04,920
+Neste vídeo rápido, você vai conhecer
+ 
+
+5
+00:00:04,920 --> 00:00:07,510
+Neste vídeo rápido, você vai conhecer
+onde fica cada coisa no seu painel. Os
+
+6
+00:00:07,510 --> 00:00:07,520
+onde fica cada coisa no seu painel. Os
+ 
+
+7
+00:00:07,520 --> 00:00:09,630
+onde fica cada coisa no seu painel. Os
+detalhes de cada tela estão nos outros
+
+8
+00:00:09,630 --> 00:00:09,640
+detalhes de cada tela estão nos outros
+ 
+
+9
+00:00:09,640 --> 00:00:10,590
+detalhes de cada tela estão nos outros
+vídeos.
+
+10
+00:00:10,590 --> 00:00:10,600
+vídeos.
+ 
+
+11
+00:00:10,600 --> 00:00:13,550
+vídeos.
+Ao entrar, você cai na tela início. Ela
+
+12
+00:00:13,550 --> 00:00:13,560
+Ao entrar, você cai na tela início. Ela
+ 
+
+13
+00:00:13,560 --> 00:00:15,310
+Ao entrar, você cai na tela início. Ela
+mostra um resumo de tudo que você
+
+14
+00:00:15,310 --> 00:00:15,320
+mostra um resumo de tudo que você
+ 
+
+15
+00:00:15,320 --> 00:00:18,110
+mostra um resumo de tudo que você
+publica, cada área contratada, quantos
+
+16
+00:00:18,110 --> 00:00:18,120
+publica, cada área contratada, quantos
+ 
+
+17
+00:00:18,120 --> 00:00:20,270
+publica, cada área contratada, quantos
+itens estão no ar e quantos aguardam
+
+18
+00:00:20,270 --> 00:00:20,280
+itens estão no ar e quantos aguardam
+ 
+
+19
+00:00:20,280 --> 00:00:22,870
+itens estão no ar e quantos aguardam
+aprovação. Em cada cartão, o botão
+
+20
+00:00:22,870 --> 00:00:22,880
+aprovação. Em cada cartão, o botão
+ 
+
+21
+00:00:22,880 --> 00:00:25,670
+aprovação. Em cada cartão, o botão
+gerenciar leva direto para a área e
+
+22
+00:00:25,670 --> 00:00:25,680
+gerenciar leva direto para a área e
+ 
+
+23
+00:00:25,680 --> 00:00:28,070
+gerenciar leva direto para a área e
+mudar plano mostra as outras opções do
+
+24
+00:00:28,070 --> 00:00:28,080
+mudar plano mostra as outras opções do
+ 
+
+25
+00:00:28,080 --> 00:00:30,830
+mudar plano mostra as outras opções do
+portal. Avisos importantes, como pedidos
+
+26
+00:00:30,830 --> 00:00:30,840
+portal. Avisos importantes, como pedidos
+ 
+
+27
+00:00:30,840 --> 00:00:33,590
+portal. Avisos importantes, como pedidos
+de orçamento novos, aparecem no topo. O
+
+28
+00:00:33,590 --> 00:00:33,600
+de orçamento novos, aparecem no topo. O
+ 
+
+29
+00:00:33,600 --> 00:00:36,430
+de orçamento novos, aparecem no topo. O
+menu da esquerda é o seu mapa. No grupo
+
+30
+00:00:36,430 --> 00:00:36,440
+menu da esquerda é o seu mapa. No grupo
+ 
+
+31
+00:00:36,440 --> 00:00:38,470
+menu da esquerda é o seu mapa. No grupo
+o que eu publico, ficam as áreas que
+
+32
+00:00:38,470 --> 00:00:38,480
+o que eu publico, ficam as áreas que
+ 
+
+33
+00:00:38,480 --> 00:00:41,350
+o que eu publico, ficam as áreas que
+você pode usar. Guia comercial é a ficha
+
+34
+00:00:41,350 --> 00:00:41,360
+você pode usar. Guia comercial é a ficha
+ 
+
+35
+00:00:41,360 --> 00:00:43,430
+você pode usar. Guia comercial é a ficha
+da sua empresa no guia da cidade, com
+
+36
+00:00:43,430 --> 00:00:43,440
+da sua empresa no guia da cidade, com
+ 
+
+37
+00:00:43,440 --> 00:00:45,910
+da sua empresa no guia da cidade, com
+contatos, fotos e as páginas de
+
+38
+00:00:45,910 --> 00:00:45,920
+contatos, fotos e as páginas de
+ 
+
+39
+00:00:45,920 --> 00:00:48,510
+contatos, fotos e as páginas de
+serviços, cardápio ou catálogo. Em
+
+40
+00:00:48,510 --> 00:00:48,520
+serviços, cardápio ou catálogo. Em
+ 
+
+41
+00:00:48,520 --> 00:00:50,830
+serviços, cardápio ou catálogo. Em
+cupons, você cria o cupom de desconto
+
+42
+00:00:50,830 --> 00:00:50,840
+cupons, você cria o cupom de desconto
+ 
+
+43
+00:00:50,840 --> 00:00:52,590
+cupons, você cria o cupom de desconto
+que aparece na vitrine de cupons do
+
+44
+00:00:52,590 --> 00:00:52,600
+que aparece na vitrine de cupons do
+ 
+
+45
+00:00:52,600 --> 00:00:54,910
+que aparece na vitrine de cupons do
+portal. Em agenda de eventos, você
+
+46
+00:00:54,910 --> 00:00:54,920
+portal. Em agenda de eventos, você
+ 
+
+47
+00:00:54,920 --> 00:00:58,110
+portal. Em agenda de eventos, você
+divulga shows, festas, cursos e qualquer
+
+48
+00:00:58,110 --> 00:00:58,120
+divulga shows, festas, cursos e qualquer
+ 
+
+49
+00:00:58,120 --> 00:01:00,550
+divulga shows, festas, cursos e qualquer
+evento da sua empresa. Vagas de emprego
+
+50
+00:01:00,550 --> 00:01:00,560
+evento da sua empresa. Vagas de emprego
+ 
+
+51
+00:01:00,560 --> 00:01:02,390
+evento da sua empresa. Vagas de emprego
+é onde você publica as suas vagas e
+
+52
+00:01:02,390 --> 00:01:02,400
+é onde você publica as suas vagas e
+ 
+
+53
+00:01:02,400 --> 00:01:04,430
+é onde você publica as suas vagas e
+recebe candidatos. Em banners
+
+54
+00:01:04,430 --> 00:01:04,440
+recebe candidatos. Em banners
+ 
+
+55
+00:01:04,440 --> 00:01:07,110
+recebe candidatos. Em banners
+publicitários, você contrata e acompanha
+
+56
+00:01:07,110 --> 00:01:07,120
+publicitários, você contrata e acompanha
+ 
+
+57
+00:01:07,120 --> 00:01:09,390
+publicitários, você contrata e acompanha
+os seus anúncios nos espaços do portal.
+
+58
+00:01:09,390 --> 00:01:09,400
+os seus anúncios nos espaços do portal.
+ 
+
+59
+00:01:09,400 --> 00:01:11,470
+os seus anúncios nos espaços do portal.
+Em notícias, você pode contratar uma
+
+60
+00:01:11,470 --> 00:01:11,480
+Em notícias, você pode contratar uma
+ 
+
+61
+00:01:11,480 --> 00:01:13,870
+Em notícias, você pode contratar uma
+matéria patrocinada sobre a sua empresa.
+
+62
+00:01:13,870 --> 00:01:13,880
+matéria patrocinada sobre a sua empresa.
+ 
+
+63
+00:01:13,880 --> 00:01:16,190
+matéria patrocinada sobre a sua empresa.
+Classificados é para anunciar produtos e
+
+64
+00:01:16,190 --> 00:01:16,200
+Classificados é para anunciar produtos e
+ 
+
+65
+00:01:16,200 --> 00:01:18,270
+Classificados é para anunciar produtos e
+serviços, como venda de imóveis,
+
+66
+00:01:18,270 --> 00:01:18,280
+serviços, como venda de imóveis,
+ 
+
+67
+00:01:18,280 --> 00:01:21,110
+serviços, como venda de imóveis,
+veículos e equipamentos. E em artigos,
+
+68
+00:01:21,110 --> 00:01:21,120
+veículos e equipamentos. E em artigos,
+ 
+
+69
+00:01:21,120 --> 00:01:23,510
+veículos e equipamentos. E em artigos,
+você publica textos como especialista
+
+70
+00:01:23,510 --> 00:01:23,520
+você publica textos como especialista
+ 
+
+71
+00:01:23,520 --> 00:01:25,870
+você publica textos como especialista
+para mostrar o que sabe aos leitores. Ao
+
+72
+00:01:25,870 --> 00:01:25,880
+para mostrar o que sabe aos leitores. Ao
+ 
+
+73
+00:01:25,880 --> 00:01:28,150
+para mostrar o que sabe aos leitores. Ao
+lado de cada item, a etiqueta mostra o
+
+74
+00:01:28,150 --> 00:01:28,160
+lado de cada item, a etiqueta mostra o
+ 
+
+75
+00:01:28,160 --> 00:01:30,350
+lado de cada item, a etiqueta mostra o
+plano que você tem naquela área. No
+
+76
+00:01:30,350 --> 00:01:30,360
+plano que você tem naquela área. No
+ 
+
+77
+00:01:30,360 --> 00:01:33,110
+plano que você tem naquela área. No
+grupo orçamentos, em pedidos recebidos,
+
+78
+00:01:33,110 --> 00:01:33,120
+grupo orçamentos, em pedidos recebidos,
+ 
+
+79
+00:01:33,120 --> 00:01:35,030
+grupo orçamentos, em pedidos recebidos,
+chegam os pedidos de quem procura o seu
+
+80
+00:01:35,030 --> 00:01:35,040
+chegam os pedidos de quem procura o seu
+ 
+
+81
+00:01:35,040 --> 00:01:37,230
+chegam os pedidos de quem procura o seu
+serviço. A bolinha vermelha mostra
+
+82
+00:01:37,230 --> 00:01:37,240
+serviço. A bolinha vermelha mostra
+ 
+
+83
+00:01:37,240 --> 00:01:39,590
+serviço. A bolinha vermelha mostra
+quantos são novos. Se a sua empresa tem
+
+84
+00:01:39,590 --> 00:01:39,600
+quantos são novos. Se a sua empresa tem
+ 
+
+85
+00:01:39,600 --> 00:01:41,590
+quantos são novos. Se a sua empresa tem
+delivery, aparece também o grupo
+
+86
+00:01:41,590 --> 00:01:41,600
+delivery, aparece também o grupo
+ 
+
+87
+00:01:41,600 --> 00:01:43,870
+delivery, aparece também o grupo
+delivery com a fila de pedidos da sua
+
+88
+00:01:43,870 --> 00:01:43,880
+delivery com a fila de pedidos da sua
+ 
+
+89
+00:01:43,880 --> 00:01:46,470
+delivery com a fila de pedidos da sua
+loja. Em minha conta, a tela minha
+
+90
+00:01:46,470 --> 00:01:46,480
+loja. Em minha conta, a tela minha
+ 
+
+91
+00:01:46,480 --> 00:01:49,430
+loja. Em minha conta, a tela minha
+empresa guarda logo, a descrição e os
+
+92
+00:01:49,430 --> 00:01:49,440
+empresa guarda logo, a descrição e os
+ 
+
+93
+00:01:49,440 --> 00:01:51,550
+empresa guarda logo, a descrição e os
+contatos que valem para tudo que você
+
+94
+00:01:51,550 --> 00:01:51,560
+contatos que valem para tudo que você
+ 
+
+95
+00:01:51,560 --> 00:01:54,030
+contatos que valem para tudo que você
+publica. Planos e assinaturas mostra
+
+96
+00:01:54,030 --> 00:01:54,040
+publica. Planos e assinaturas mostra
+ 
+
+97
+00:01:54,040 --> 00:01:55,950
+publica. Planos e assinaturas mostra
+todos os seus planos, a data de
+
+98
+00:01:55,950 --> 00:01:55,960
+todos os seus planos, a data de
+ 
+
+99
+00:01:55,960 --> 00:01:58,030
+todos os seus planos, a data de
+renovação e o que mais você pode
+
+100
+00:01:58,030 --> 00:01:58,040
+renovação e o que mais você pode
+ 
+
+101
+00:01:58,040 --> 00:02:00,590
+renovação e o que mais você pode
+contratar. E em segurança, você troca
+
+102
+00:02:00,590 --> 00:02:00,600
+contratar. E em segurança, você troca
+ 
+
+103
+00:02:00,600 --> 00:02:02,790
+contratar. E em segurança, você troca
+sua senha quando quiser. Precisa de
+
+104
+00:02:02,790 --> 00:02:02,800
+sua senha quando quiser. Precisa de
+ 
+
+105
+00:02:02,800 --> 00:02:05,550
+sua senha quando quiser. Precisa de
+ajuda? As opções de suporte ficam sempre
+
+106
+00:02:05,550 --> 00:02:05,560
+ajuda? As opções de suporte ficam sempre
+ 
+
+107
+00:02:05,560 --> 00:02:07,750
+ajuda? As opções de suporte ficam sempre
+no canto inferior direito da tela, em
+
+108
+00:02:07,750 --> 00:02:07,760
+no canto inferior direito da tela, em
+ 
+
+109
+00:02:07,760 --> 00:02:10,350
+no canto inferior direito da tela, em
+qualquer página do seu painel. Lá, um
+
+110
+00:02:10,350 --> 00:02:10,360
+qualquer página do seu painel. Lá, um
+ 
+
+111
+00:02:10,360 --> 00:02:12,310
+qualquer página do seu painel. Lá, um
+assistente de inteligência artificial
+
+112
+00:02:12,310 --> 00:02:12,320
+assistente de inteligência artificial
+ 
+
+113
+00:02:12,320 --> 00:02:14,949
+assistente de inteligência artificial
+responde na hora e resolve a maioria das
+
+114
+00:02:14,949 --> 00:02:14,959
+responde na hora e resolve a maioria das
+ 
+
+115
+00:02:14,959 --> 00:02:16,790
+responde na hora e resolve a maioria das
+dúvidas. E se ele não conseguir
+
+116
+00:02:16,790 --> 00:02:16,800
+dúvidas. E se ele não conseguir
+ 
+
+117
+00:02:16,800 --> 00:02:18,670
+dúvidas. E se ele não conseguir
+resolver, você é encaminhado para o
+
+118
+00:02:18,670 --> 00:02:18,680
+resolver, você é encaminhado para o
+ 
+
+119
+00:02:18,680 --> 00:02:20,750
+resolver, você é encaminhado para o
+WhatsApp do suporte do portal, com
+
+120
+00:02:20,750 --> 00:02:20,760
+WhatsApp do suporte do portal, com
+ 
+
+121
+00:02:20,760 --> 00:02:23,430
+WhatsApp do suporte do portal, com
+atendimento humano. Pronto, agora você
+
+122
+00:02:23,430 --> 00:02:23,440
+atendimento humano. Pronto, agora você
+ 
+
+123
+00:02:23,440 --> 00:02:25,790
+atendimento humano. Pronto, agora você
+já sabe onde encontrar cada coisa.
+
+124
+00:02:25,790 --> 00:02:25,800
+já sabe onde encontrar cada coisa.
+ 
+
+125
+00:02:25,800 --> 00:02:27,870
+já sabe onde encontrar cada coisa.
+Escolha a área que quer usar e assista o
+
+126
+00:02:27,870 --> 00:02:27,880
+Escolha a área que quer usar e assista o
+ 
+
+127
+00:02:27,880 --> 00:02:29,510
+Escolha a área que quer usar e assista o
+vídeo dela para o passo a passo
+
+128
+00:02:29,510 --> 00:02:29,520
+vídeo dela para o passo a passo
+ 
+
+129
+00:02:29,520 --> 00:02:32,200
+vídeo dela para o passo a passo
+completo.
+

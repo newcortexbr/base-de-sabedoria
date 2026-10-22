@@ -10,14 +10,14 @@ tipo_problema:
   - pedidos-delivery
   - pedido-ausente
 status: rascunho-documental
-revisado_em: 2026-10-15
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - viWXA8_mZf4
 ---
 
 ## objetivo
-abrir a área de pedidos de delivery associada à empresa.
+abrir a área de pedidos de delivery associada à empresa, acompanhar os pedidos e contatar o cliente.
 
 Para cancelar um pedido, veja o artigo "cancelar um pedido de delivery da empresa".
 
@@ -27,12 +27,16 @@ Para cancelar um pedido, veja o artigo "cancelar um pedido de delivery da empres
 
 ## passos
 
-1. No menu da esquerda da sua área, na parte `Delivery`, clique em `Pedidos` (`/minha-conta/delivery/pedidos`). A página se chama `Pedidos do delivery`. [guia=menu:/minha-conta/delivery/pedidos]
-2. No topo, escolha o período (`Hoje`, `Ontem`, `7 dias` ou `30 dias`). [guia=delivery-pedidos.periodo]
+1. No menu da esquerda da sua área, na parte `Delivery`, clique em `Pedidos` (`/minha-conta/delivery/pedidos`). A página se chama `Pedidos do delivery`. a bolinha vermelha no menu `Delivery` mostra quantos pedidos estão aguardando. [guia=menu:/minha-conta/delivery/pedidos]
+2. No topo, escolha o período (`Hoje`, `Ontem`, `7 dias` ou `30 dias`) ou escolha um intervalo de datas. [guia=delivery-pedidos.periodo]
+   no topo, quadros mostram o total de pedidos, o valor vendido e os pedidos aguardando.
 3. Escolha quais pedidos quer ver (`Todos`, `Aguardando`, `Concluídos` ou `Cancelados`). [guia=delivery-pedidos.periodo]
-4. Em cada pedido, veja os itens, o endereço de entrega e a situação. [guia=delivery-pedidos.pedido]
+4. Em cada pedido, veja o código, a hora, a observação do cliente, o nome, o telefone, o endereço completo, os itens, a forma de pagamento, o total e a situação. [guia=delivery-pedidos.pedido]
+   use `chamar cliente` para abrir o WhatsApp com o cliente e `ver pedido` para abrir a página como o cliente a vê.
 5. Quando entregar um pedido que está `Aguardando`, clique em `Concluir`. [guia=delivery-pedidos.concluir]
-6. Confirme. Atenção: depois de concluído, o pedido não volta para `Aguardando`. [guia=delivery-pedidos.concluir]
+6. Confirme. Atenção: depois de concluído, o pedido não volta para `Aguardando`, e o contador de pedidos aguardando diminui. [guia=delivery-pedidos.concluir]
+
+dica: deixe a tela aberta durante o expediente e clique em `atualizar` para ver pedidos novos.
 
 ## resultado esperado
 a lista mostra os pedidos conforme período e situação. concluir ou cancelar altera o estado do pedido; cancelar não pode ser desfeito.

@@ -1,0 +1,375 @@
+1
+00:00:00,000 --> 00:00:01,790
+ 
+O financeiro responde a uma pergunta
+
+2
+00:00:01,790 --> 00:00:01,800
+O financeiro responde a uma pergunta
+ 
+
+3
+00:00:01,800 --> 00:00:04,870
+O financeiro responde a uma pergunta
+simples: "Quem eu preciso cobrar hoje?".
+
+4
+00:00:04,870 --> 00:00:04,880
+simples: "Quem eu preciso cobrar hoje?".
+ 
+
+5
+00:00:04,880 --> 00:00:06,910
+simples: "Quem eu preciso cobrar hoje?".
+Aqui ficam todas as faturas dos seus
+
+6
+00:00:06,910 --> 00:00:06,920
+Aqui ficam todas as faturas dos seus
+ 
+
+7
+00:00:06,920 --> 00:00:09,430
+Aqui ficam todas as faturas dos seus
+clientes em ordem de vencimento. No menu
+
+8
+00:00:09,430 --> 00:00:09,440
+clientes em ordem de vencimento. No menu
+ 
+
+9
+00:00:09,440 --> 00:00:11,790
+clientes em ordem de vencimento. No menu
+lateral, em comercial, clique em
+
+10
+00:00:11,790 --> 00:00:11,800
+lateral, em comercial, clique em
+ 
+
+11
+00:00:11,800 --> 00:00:14,670
+lateral, em comercial, clique em
+financeiro. No canto, o selo mostra se a
+
+12
+00:00:14,670 --> 00:00:14,680
+financeiro. No canto, o selo mostra se a
+ 
+
+13
+00:00:14,680 --> 00:00:16,910
+financeiro. No canto, o selo mostra se a
+cobrança automática está ligada. Com o
+
+14
+00:00:16,910 --> 00:00:16,920
+cobrança automática está ligada. Com o
+ 
+
+15
+00:00:16,920 --> 00:00:19,190
+cobrança automática está ligada. Com o
+Asaas conectado, a fatura vai sozinha
+
+16
+00:00:19,190 --> 00:00:19,200
+Asaas conectado, a fatura vai sozinha
+ 
+
+17
+00:00:19,200 --> 00:00:21,470
+Asaas conectado, a fatura vai sozinha
+para o cliente com o link de pagamento.
+
+18
+00:00:21,470 --> 00:00:21,480
+para o cliente com o link de pagamento.
+ 
+
+19
+00:00:21,480 --> 00:00:23,870
+para o cliente com o link de pagamento.
+Os cartões de a receber mostram quanto
+
+20
+00:00:23,870 --> 00:00:23,880
+Os cartões de a receber mostram quanto
+ 
+
+21
+00:00:23,880 --> 00:00:26,430
+Os cartões de a receber mostram quanto
+está vencido, quanto ainda vai vencer e
+
+22
+00:00:26,430 --> 00:00:26,440
+está vencido, quanto ainda vai vencer e
+ 
+
+23
+00:00:26,440 --> 00:00:29,110
+está vencido, quanto ainda vai vencer e
+quanto já foi recebido neste mês. Em
+
+24
+00:00:29,110 --> 00:00:29,120
+quanto já foi recebido neste mês. Em
+ 
+
+25
+00:00:29,120 --> 00:00:31,190
+quanto já foi recebido neste mês. Em
+apagar, você vê quanto deve aos
+
+26
+00:00:31,190 --> 00:00:31,200
+apagar, você vê quanto deve aos
+ 
+
+27
+00:00:31,200 --> 00:00:33,390
+apagar, você vê quanto deve aos
+parceiros, as comissões de quem vendeu
+
+28
+00:00:33,390 --> 00:00:33,400
+parceiros, as comissões de quem vendeu
+ 
+
+29
+00:00:33,400 --> 00:00:35,510
+parceiros, as comissões de quem vendeu
+planos para o seu portal, com o atalho
+
+30
+00:00:35,510 --> 00:00:35,520
+planos para o seu portal, com o atalho
+ 
+
+31
+00:00:35,520 --> 00:00:38,830
+planos para o seu portal, com o atalho
+ver e pagar. As abas separam as faturas:
+
+32
+00:00:38,830 --> 00:00:38,840
+ver e pagar. As abas separam as faturas:
+ 
+
+33
+00:00:38,840 --> 00:00:42,510
+ver e pagar. As abas separam as faturas:
+a vencer, vencidas, pagas e canceladas.
+
+34
+00:00:42,510 --> 00:00:42,520
+a vencer, vencidas, pagas e canceladas.
+ 
+
+35
+00:00:42,520 --> 00:00:45,190
+a vencer, vencidas, pagas e canceladas.
+Ao lado, como paga filtra pela forma de
+
+36
+00:00:45,190 --> 00:00:45,200
+Ao lado, como paga filtra pela forma de
+ 
+
+37
+00:00:45,200 --> 00:00:48,230
+Ao lado, como paga filtra pela forma de
+cobrança: Pix manual ou link do Asaas.
+
+38
+00:00:48,230 --> 00:00:48,240
+cobrança: Pix manual ou link do Asaas.
+ 
+
+39
+00:00:48,240 --> 00:00:50,430
+cobrança: Pix manual ou link do Asaas.
+Você também pode buscar pelo cliente,
+
+40
+00:00:50,430 --> 00:00:50,440
+Você também pode buscar pelo cliente,
+ 
+
+41
+00:00:50,440 --> 00:00:52,910
+Você também pode buscar pelo cliente,
+filtrar por módulo, como guia comercial
+
+42
+00:00:52,910 --> 00:00:52,920
+filtrar por módulo, como guia comercial
+ 
+
+43
+00:00:52,920 --> 00:00:55,150
+filtrar por módulo, como guia comercial
+ou classificados, e escolher um período
+
+44
+00:00:55,150 --> 00:00:55,160
+ou classificados, e escolher um período
+ 
+
+45
+00:00:55,160 --> 00:00:57,910
+ou classificados, e escolher um período
+de datas. Cada fatura mostra o cliente,
+
+46
+00:00:57,910 --> 00:00:57,920
+de datas. Cada fatura mostra o cliente,
+ 
+
+47
+00:00:57,920 --> 00:01:00,390
+de datas. Cada fatura mostra o cliente,
+o plano contratado, se a cobrança já foi
+
+48
+00:01:00,390 --> 00:01:00,400
+o plano contratado, se a cobrança já foi
+ 
+
+49
+00:01:00,400 --> 00:01:03,310
+o plano contratado, se a cobrança já foi
+enviada, o vencimento e o valor. Use
+
+50
+00:01:03,310 --> 00:01:03,320
+enviada, o vencimento e o valor. Use
+ 
+
+51
+00:01:03,320 --> 00:01:05,710
+enviada, o vencimento e o valor. Use
+copiar link de pagamento para reenviar o
+
+52
+00:01:05,710 --> 00:01:05,720
+copiar link de pagamento para reenviar o
+ 
+
+53
+00:01:05,720 --> 00:01:08,190
+copiar link de pagamento para reenviar o
+link ou o botão cobrar, que abre o
+
+54
+00:01:08,190 --> 00:01:08,200
+link ou o botão cobrar, que abre o
+ 
+
+55
+00:01:08,200 --> 00:01:09,870
+link ou o botão cobrar, que abre o
+WhatsApp do cliente com a mensagem
+
+56
+00:01:09,870 --> 00:01:09,880
+WhatsApp do cliente com a mensagem
+ 
+
+57
+00:01:09,880 --> 00:01:12,190
+WhatsApp do cliente com a mensagem
+pronta. Se o cliente pagou por fora, em
+
+58
+00:01:12,190 --> 00:01:12,200
+pronta. Se o cliente pagou por fora, em
+ 
+
+59
+00:01:12,200 --> 00:01:14,550
+pronta. Se o cliente pagou por fora, em
+dinheiro ou transferência, clique em já
+
+60
+00:01:14,550 --> 00:01:14,560
+dinheiro ou transferência, clique em já
+ 
+
+61
+00:01:14,560 --> 00:01:17,110
+dinheiro ou transferência, clique em já
+recebi e registre o pagamento. O plano
+
+62
+00:01:17,110 --> 00:01:17,120
+recebi e registre o pagamento. O plano
+ 
+
+63
+00:01:17,120 --> 00:01:19,870
+recebi e registre o pagamento. O plano
+continua ativo, sem interrupção. Na aba
+
+64
+00:01:19,870 --> 00:01:19,880
+continua ativo, sem interrupção. Na aba
+ 
+
+65
+00:01:19,880 --> 00:01:22,230
+continua ativo, sem interrupção. Na aba
+vencidas ficam as faturas em atraso,
+
+66
+00:01:22,230 --> 00:01:22,240
+vencidas ficam as faturas em atraso,
+ 
+
+67
+00:01:22,240 --> 00:01:24,630
+vencidas ficam as faturas em atraso,
+para você priorizar a cobrança. E na aba
+
+68
+00:01:24,630 --> 00:01:24,640
+para você priorizar a cobrança. E na aba
+ 
+
+69
+00:01:24,640 --> 00:01:27,070
+para você priorizar a cobrança. E na aba
+pagas, o histórico de tudo que já entrou
+
+70
+00:01:27,070 --> 00:01:27,080
+pagas, o histórico de tudo que já entrou
+ 
+
+71
+00:01:27,080 --> 00:01:29,870
+pagas, o histórico de tudo que já entrou
+no caixa. Pronto! Com o financeiro, você
+
+72
+00:01:29,870 --> 00:01:29,880
+no caixa. Pronto! Com o financeiro, você
+ 
+
+73
+00:01:29,880 --> 00:01:32,630
+no caixa. Pronto! Com o financeiro, você
+sabe exatamente quem cobrar e quanto vai
+
+74
+00:01:32,630 --> 00:01:32,640
+sabe exatamente quem cobrar e quanto vai
+ 
+
+75
+00:01:32,640 --> 00:01:35,160
+sabe exatamente quem cobrar e quanto vai
+receber.
+

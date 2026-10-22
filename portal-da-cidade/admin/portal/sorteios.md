@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - uN4FHHHGgEs
@@ -44,6 +44,14 @@ aqui você cria um sorteio com prêmio de uma empresa parceira, sorteia ao vivo 
 13. Em `Oferecido por`, escolha a empresa do Guia que dá o prêmio. [guia=sorteios.oferecido-por]
 14. Em `A roleta mostra`, escolha nomes ou números da sorte. [guia=sorteios.roleta]
 15. Clique em `Publicar` para colocar o sorteio no ar. [guia=sorteios.publicar]
+
+## explicação
+- no topo do painel há contadores (abertos, participantes, aguardando sorteio e ganhadores), as abas `Abertos`, `Para sortear`, `Sorteados` e `Rascunhos`, e a busca pelo título.
+- cada linha mostra a capa, a situação, as datas, os inscritos e os ganhadores, com os botões de participantes ou ganhadores, editar e excluir.
+- na capa, deixe o principal no centro: no celular as bordas podem ser cortadas.
+- as regras (por exemplo, idade mínima e cidade) aparecem na página do sorteio.
+- há uma opção para mostrar no site a contagem de participantes.
+- a página pública do sorteio mostra a capa, a empresa que oferece o prêmio (com ver no guia e WhatsApp), o prêmio, as regras e a contagem regressiva para o fim das inscrições.
 
 ## resultado
 

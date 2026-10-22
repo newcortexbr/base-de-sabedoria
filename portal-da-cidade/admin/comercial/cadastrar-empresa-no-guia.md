@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-20
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - wukhVMFEHWg
@@ -18,6 +18,10 @@ videos:
 ## objetivo
 
 aqui você cadastra uma empresa nova no Guia, pelo painel. Você preenche o essencial e salva; o resto dá para completar depois, editando a empresa.
+
+## explicação
+
+normalmente você não precisa cadastrar empresas por aqui: a própria empresa cria a conta no portal e monta o perfil pela área do cliente. o botão `+ Cadastrar Empresa` serve para casos especiais, como montar a página de um parceiro ou de um cliente que pediu ajuda.
 
 ## pré-requisitos
 
@@ -42,7 +46,9 @@ A empresa é criada e passa a aparecer na lista de empresas do Guia. Para comple
 ## desvios
 
 - Os campos com `*` são obrigatórios. Se algum faltar, o painel mostra o aviso `Não foi possível salvar` com o motivo.
-- O campo `Plano` só aparece quando o portal tem planos; sem escolher, vale a cortesia do portal.
+- O campo `Plano` só aparece quando o portal tem planos; sem escolher, vale a cortesia do portal, que não gera contratação nem fatura.
+- Plano pago gera uma contratação ativa para o cliente da empresa, com fatura em aberto no financeiro até você confirmar o pagamento. Plano grátis não gera contratação.
+- Trocar de plano depois cancela a contratação anterior e as faturas abertas dela.
 - Quem quer trazer várias empresas de uma vez deve usar `Importar do Google Maps`, que tem artigo próprio.
 
 ## quando pedir ajuda

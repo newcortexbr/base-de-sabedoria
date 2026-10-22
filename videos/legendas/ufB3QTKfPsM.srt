@@ -1,0 +1,505 @@
+1
+00:00:00,000 --> 00:00:02,270
+ 
+As vagas de emprego têm cinco frentes no
+
+2
+00:00:02,270 --> 00:00:02,280
+As vagas de emprego têm cinco frentes no
+ 
+
+3
+00:00:02,280 --> 00:00:04,350
+As vagas de emprego têm cinco frentes no
+seu painel. Neste vídeo, você vai
+
+4
+00:00:04,350 --> 00:00:04,360
+seu painel. Neste vídeo, você vai
+ 
+
+5
+00:00:04,360 --> 00:00:07,110
+seu painel. Neste vídeo, você vai
+conhecer todas elas. No menu lateral,
+
+6
+00:00:07,110 --> 00:00:07,120
+conhecer todas elas. No menu lateral,
+ 
+
+7
+00:00:07,120 --> 00:00:10,190
+conhecer todas elas. No menu lateral,
+abra vagas de emprego. Ali estão listar
+
+8
+00:00:10,190 --> 00:00:10,200
+abra vagas de emprego. Ali estão listar
+ 
+
+9
+00:00:10,200 --> 00:00:13,190
+abra vagas de emprego. Ali estão listar
+vagas, nova vaga, áreas de vagas e
+
+10
+00:00:13,190 --> 00:00:13,200
+vagas, nova vaga, áreas de vagas e
+ 
+
+11
+00:00:13,200 --> 00:00:16,150
+vagas, nova vaga, áreas de vagas e
+contratantes. A quinta frente é a página
+
+12
+00:00:16,150 --> 00:00:16,160
+contratantes. A quinta frente é a página
+ 
+
+13
+00:00:16,160 --> 00:00:18,710
+contratantes. A quinta frente é a página
+pública do portal. Comece por listar
+
+14
+00:00:18,710 --> 00:00:18,720
+pública do portal. Comece por listar
+ 
+
+15
+00:00:18,720 --> 00:00:21,670
+pública do portal. Comece por listar
+vagas. Aqui aparecem todas as vagas do
+
+16
+00:00:21,670 --> 00:00:21,680
+vagas. Aqui aparecem todas as vagas do
+ 
+
+17
+00:00:21,680 --> 00:00:23,830
+vagas. Aqui aparecem todas as vagas do
+portal com o total logo abaixo do
+
+18
+00:00:23,830 --> 00:00:23,840
+portal com o total logo abaixo do
+ 
+
+19
+00:00:23,840 --> 00:00:26,270
+portal com o total logo abaixo do
+título. Cada linha mostra o cargo e a
+
+20
+00:00:26,270 --> 00:00:26,280
+título. Cada linha mostra o cargo e a
+ 
+
+21
+00:00:26,280 --> 00:00:29,270
+título. Cada linha mostra o cargo e a
+empresa, a área, o local, o tipo de
+
+22
+00:00:29,270 --> 00:00:29,280
+empresa, a área, o local, o tipo de
+ 
+
+23
+00:00:29,280 --> 00:00:31,670
+empresa, a área, o local, o tipo de
+contrato, os cliques no WhatsApp e o
+
+24
+00:00:31,670 --> 00:00:31,680
+contrato, os cliques no WhatsApp e o
+ 
+
+25
+00:00:31,680 --> 00:00:34,270
+contrato, os cliques no WhatsApp e o
+status. Para achar uma vaga, digite o
+
+26
+00:00:34,270 --> 00:00:34,280
+status. Para achar uma vaga, digite o
+ 
+
+27
+00:00:34,280 --> 00:00:36,710
+status. Para achar uma vaga, digite o
+cargo na busca ou filtre por área e por
+
+28
+00:00:36,710 --> 00:00:36,720
+cargo na busca ou filtre por área e por
+ 
+
+29
+00:00:36,720 --> 00:00:39,670
+cargo na busca ou filtre por área e por
+status e clique em filtrar. A pílula de
+
+30
+00:00:39,670 --> 00:00:39,680
+status e clique em filtrar. A pílula de
+ 
+
+31
+00:00:39,680 --> 00:00:42,390
+status e clique em filtrar. A pílula de
+status encerra ou reativa a vaga com um
+
+32
+00:00:42,390 --> 00:00:42,400
+status encerra ou reativa a vaga com um
+ 
+
+33
+00:00:42,400 --> 00:00:45,710
+status encerra ou reativa a vaga com um
+clique. Ao lado ficam insights, editar e
+
+34
+00:00:45,710 --> 00:00:45,720
+clique. Ao lado ficam insights, editar e
+ 
+
+35
+00:00:45,720 --> 00:00:48,910
+clique. Ao lado ficam insights, editar e
+excluir. Agora, nova vaga. Primeiro,
+
+36
+00:00:48,910 --> 00:00:48,920
+excluir. Agora, nova vaga. Primeiro,
+ 
+
+37
+00:00:48,920 --> 00:00:50,910
+excluir. Agora, nova vaga. Primeiro,
+escolha a empresa contratante e dê um
+
+38
+00:00:50,910 --> 00:00:50,920
+escolha a empresa contratante e dê um
+ 
+
+39
+00:00:50,920 --> 00:00:53,710
+escolha a empresa contratante e dê um
+título para a vaga. Depois, a área, o
+
+40
+00:00:53,710 --> 00:00:53,720
+título para a vaga. Depois, a área, o
+ 
+
+41
+00:00:53,720 --> 00:00:55,990
+título para a vaga. Depois, a área, o
+tipo de contrato, a carga horária, a
+
+42
+00:00:55,990 --> 00:00:56,000
+tipo de contrato, a carga horária, a
+ 
+
+43
+00:00:56,000 --> 00:00:58,150
+tipo de contrato, a carga horária, a
+cidade e o modelo de trabalho,
+
+44
+00:00:58,150 --> 00:00:58,160
+cidade e o modelo de trabalho,
+ 
+
+45
+00:00:58,160 --> 00:01:00,750
+cidade e o modelo de trabalho,
+presencial, home office ou híbrido.
+
+46
+00:01:00,750 --> 00:01:00,760
+presencial, home office ou híbrido.
+ 
+
+47
+00:01:00,760 --> 00:01:03,070
+presencial, home office ou híbrido.
+Marque se a vaga é PCD, primeiro
+
+48
+00:01:03,070 --> 00:01:03,080
+Marque se a vaga é PCD, primeiro
+ 
+
+49
+00:01:03,080 --> 00:01:05,830
+Marque se a vaga é PCD, primeiro
+emprego, urgente ou destaque e informe o
+
+50
+00:01:05,830 --> 00:01:05,840
+emprego, urgente ou destaque e informe o
+ 
+
+51
+00:01:05,840 --> 00:01:08,390
+emprego, urgente ou destaque e informe o
+salário ou marque a combinar. Em
+
+52
+00:01:08,390 --> 00:01:08,400
+salário ou marque a combinar. Em
+ 
+
+53
+00:01:08,400 --> 00:01:11,070
+salário ou marque a combinar. Em
+contato, coloque o WhatsApp, o e-mail ou
+
+54
+00:01:11,070 --> 00:01:11,080
+contato, coloque o WhatsApp, o e-mail ou
+ 
+
+55
+00:01:11,080 --> 00:01:13,270
+contato, coloque o WhatsApp, o e-mail ou
+um link de candidatura. É por ali que o
+
+56
+00:01:13,270 --> 00:01:13,280
+um link de candidatura. É por ali que o
+ 
+
+57
+00:01:13,280 --> 00:01:15,630
+um link de candidatura. É por ali que o
+candidato chega até a empresa. Escreva a
+
+58
+00:01:15,630 --> 00:01:15,640
+candidato chega até a empresa. Escreva a
+ 
+
+59
+00:01:15,640 --> 00:01:17,590
+candidato chega até a empresa. Escreva a
+descrição, os requisitos e os
+
+60
+00:01:17,590 --> 00:01:17,600
+descrição, os requisitos e os
+ 
+
+61
+00:01:17,600 --> 00:01:20,110
+descrição, os requisitos e os
+benefícios, um por linha. Por fim,
+
+62
+00:01:20,110 --> 00:01:20,120
+benefícios, um por linha. Por fim,
+ 
+
+63
+00:01:20,120 --> 00:01:22,550
+benefícios, um por linha. Por fim,
+confirme o status e a data de expiração
+
+64
+00:01:22,550 --> 00:01:22,560
+confirme o status e a data de expiração
+ 
+
+65
+00:01:22,560 --> 00:01:25,230
+confirme o status e a data de expiração
+e clique em publicar vaga. Pronto, a
+
+66
+00:01:25,230 --> 00:01:25,240
+e clique em publicar vaga. Pronto, a
+ 
+
+67
+00:01:25,240 --> 00:01:27,830
+e clique em publicar vaga. Pronto, a
+vaga já aparece na lista. Em áreas de
+
+68
+00:01:27,830 --> 00:01:27,840
+vaga já aparece na lista. Em áreas de
+ 
+
+69
+00:01:27,840 --> 00:01:30,190
+vaga já aparece na lista. Em áreas de
+vagas ficam as categorias com quantas
+
+70
+00:01:30,190 --> 00:01:30,200
+vagas ficam as categorias com quantas
+ 
+
+71
+00:01:30,200 --> 00:01:33,150
+vagas ficam as categorias com quantas
+vagas cada uma tem. Clique em nova área,
+
+72
+00:01:33,150 --> 00:01:33,160
+vagas cada uma tem. Clique em nova área,
+ 
+
+73
+00:01:33,160 --> 00:01:35,950
+vagas cada uma tem. Clique em nova área,
+dê um nome, escolha um ícone e uma cor e
+
+74
+00:01:35,950 --> 00:01:35,960
+dê um nome, escolha um ícone e uma cor e
+ 
+
+75
+00:01:35,960 --> 00:01:38,590
+dê um nome, escolha um ícone e uma cor e
+salve. Em contratantes ficam as empresas
+
+76
+00:01:38,590 --> 00:01:38,600
+salve. Em contratantes ficam as empresas
+ 
+
+77
+00:01:38,600 --> 00:01:40,430
+salve. Em contratantes ficam as empresas
+que oferecem vagas com o selo de
+
+78
+00:01:40,430 --> 00:01:40,440
+que oferecem vagas com o selo de
+ 
+
+79
+00:01:40,440 --> 00:01:43,390
+que oferecem vagas com o selo de
+verificada e quem tem acesso a elas. Use
+
+80
+00:01:43,390 --> 00:01:43,400
+verificada e quem tem acesso a elas. Use
+ 
+
+81
+00:01:43,400 --> 00:01:45,430
+verificada e quem tem acesso a elas. Use
+criar contratante para cadastrar uma
+
+82
+00:01:45,430 --> 00:01:45,440
+criar contratante para cadastrar uma
+ 
+
+83
+00:01:45,440 --> 00:01:48,110
+criar contratante para cadastrar uma
+empresa nova com logo, localização e
+
+84
+00:01:48,110 --> 00:01:48,120
+empresa nova com logo, localização e
+ 
+
+85
+00:01:48,120 --> 00:01:50,590
+empresa nova com logo, localização e
+redes sociais. E a quinta frente é a
+
+86
+00:01:50,590 --> 00:01:50,600
+redes sociais. E a quinta frente é a
+ 
+
+87
+00:01:50,600 --> 00:01:53,270
+redes sociais. E a quinta frente é a
+página pública. Ali, o visitante busca
+
+88
+00:01:53,270 --> 00:01:53,280
+página pública. Ali, o visitante busca
+ 
+
+89
+00:01:53,280 --> 00:01:55,550
+página pública. Ali, o visitante busca
+por cargo, filtra por área e tipo de
+
+90
+00:01:55,550 --> 00:01:55,560
+por cargo, filtra por área e tipo de
+ 
+
+91
+00:01:55,560 --> 00:01:58,230
+por cargo, filtra por área e tipo de
+contrato e vê as vagas em destaque. Ao
+
+92
+00:01:58,230 --> 00:01:58,240
+contrato e vê as vagas em destaque. Ao
+ 
+
+93
+00:01:58,240 --> 00:02:00,710
+contrato e vê as vagas em destaque. Ao
+abrir uma vaga, ele vê a descrição, os
+
+94
+00:02:00,710 --> 00:02:00,720
+abrir uma vaga, ele vê a descrição, os
+ 
+
+95
+00:02:00,720 --> 00:02:03,350
+abrir uma vaga, ele vê a descrição, os
+benefícios e o botão para se candidatar.
+
+96
+00:02:03,350 --> 00:02:03,360
+benefícios e o botão para se candidatar.
+ 
+
+97
+00:02:03,360 --> 00:02:05,590
+benefícios e o botão para se candidatar.
+Pronto, agora você conhece as cinco
+
+98
+00:02:05,590 --> 00:02:05,600
+Pronto, agora você conhece as cinco
+ 
+
+99
+00:02:05,600 --> 00:02:07,310
+Pronto, agora você conhece as cinco
+frentes das vagas de emprego do seu
+
+100
+00:02:07,310 --> 00:02:07,320
+frentes das vagas de emprego do seu
+ 
+
+101
+00:02:07,320 --> 00:02:09,800
+frentes das vagas de emprego do seu
+portal.
+

@@ -1,0 +1,455 @@
+1
+00:00:00,000 --> 00:00:02,110
+ 
+Neste vídeo, você vai montar o catálogo
+
+2
+00:00:02,110 --> 00:00:02,120
+Neste vídeo, você vai montar o catálogo
+ 
+
+3
+00:00:02,120 --> 00:00:04,430
+Neste vídeo, você vai montar o catálogo
+de produtos da sua empresa. Uma vitrine
+
+4
+00:00:04,430 --> 00:00:04,440
+de produtos da sua empresa. Uma vitrine
+ 
+
+5
+00:00:04,440 --> 00:00:07,190
+de produtos da sua empresa. Uma vitrine
+com fotos, preço e ficha técnica e um
+
+6
+00:00:07,190 --> 00:00:07,200
+com fotos, preço e ficha técnica e um
+ 
+
+7
+00:00:07,200 --> 00:00:09,110
+com fotos, preço e ficha técnica e um
+botão que leva o cliente direto ao seu
+
+8
+00:00:09,110 --> 00:00:09,120
+botão que leva o cliente direto ao seu
+ 
+
+9
+00:00:09,120 --> 00:00:11,630
+botão que leva o cliente direto ao seu
+WhatsApp. O catálogo vale para qualquer
+
+10
+00:00:11,630 --> 00:00:11,640
+WhatsApp. O catálogo vale para qualquer
+ 
+
+11
+00:00:11,640 --> 00:00:14,230
+WhatsApp. O catálogo vale para qualquer
+categoria: lojas de roupa, móveis,
+
+12
+00:00:14,230 --> 00:00:14,240
+categoria: lojas de roupa, móveis,
+ 
+
+13
+00:00:14,240 --> 00:00:17,350
+categoria: lojas de roupa, móveis,
+eletrônicos, veículos e muito mais.
+
+14
+00:00:17,350 --> 00:00:17,360
+eletrônicos, veículos e muito mais.
+ 
+
+15
+00:00:17,360 --> 00:00:19,870
+eletrônicos, veículos e muito mais.
+Na sua área, clique em guia comercial e
+
+16
+00:00:19,870 --> 00:00:19,880
+Na sua área, clique em guia comercial e
+ 
+
+17
+00:00:19,880 --> 00:00:22,270
+Na sua área, clique em guia comercial e
+role até páginas da sua empresa. No
+
+18
+00:00:22,270 --> 00:00:22,280
+role até páginas da sua empresa. No
+ 
+
+19
+00:00:22,280 --> 00:00:24,670
+role até páginas da sua empresa. No
+cartão catálogo de produtos, clique em
+
+20
+00:00:24,670 --> 00:00:24,680
+cartão catálogo de produtos, clique em
+ 
+
+21
+00:00:24,680 --> 00:00:27,670
+cartão catálogo de produtos, clique em
+começar ou gerenciar. Abre a tela
+
+22
+00:00:27,670 --> 00:00:27,680
+começar ou gerenciar. Abre a tela
+ 
+
+23
+00:00:27,680 --> 00:00:30,230
+começar ou gerenciar. Abre a tela
+gerenciar catálogo de produtos. Os
+
+24
+00:00:30,230 --> 00:00:30,240
+gerenciar catálogo de produtos. Os
+ 
+
+25
+00:00:30,240 --> 00:00:32,429
+gerenciar catálogo de produtos. Os
+produtos ficam organizados em seções,
+
+26
+00:00:32,429 --> 00:00:32,439
+produtos ficam organizados em seções,
+ 
+
+27
+00:00:32,439 --> 00:00:35,670
+produtos ficam organizados em seções,
+como feminino, masculino e calçados.
+
+28
+00:00:35,670 --> 00:00:35,680
+como feminino, masculino e calçados.
+ 
+
+29
+00:00:35,680 --> 00:00:37,870
+como feminino, masculino e calçados.
+Para criar uma seção, clique em nova
+
+30
+00:00:37,870 --> 00:00:37,880
+Para criar uma seção, clique em nova
+ 
+
+31
+00:00:37,880 --> 00:00:40,310
+Para criar uma seção, clique em nova
+seção, digite o nome, por exemplo,
+
+32
+00:00:40,310 --> 00:00:40,320
+seção, digite o nome, por exemplo,
+ 
+
+33
+00:00:40,320 --> 00:00:43,230
+seção, digite o nome, por exemplo,
+acessórios, e clique em salvar. A nova
+
+34
+00:00:43,230 --> 00:00:43,240
+acessórios, e clique em salvar. A nova
+ 
+
+35
+00:00:43,240 --> 00:00:46,030
+acessórios, e clique em salvar. A nova
+seção aparece no fim da lista. Clique em
+
+36
+00:00:46,030 --> 00:00:46,040
+seção aparece no fim da lista. Clique em
+ 
+
+37
+00:00:46,040 --> 00:00:49,150
+seção aparece no fim da lista. Clique em
+novo na seção para cadastrar um produto.
+
+38
+00:00:49,150 --> 00:00:49,160
+novo na seção para cadastrar um produto.
+ 
+
+39
+00:00:49,160 --> 00:00:51,550
+novo na seção para cadastrar um produto.
+Escreva o nome do produto e a marca.
+
+40
+00:00:51,550 --> 00:00:51,560
+Escreva o nome do produto e a marca.
+ 
+
+41
+00:00:51,560 --> 00:00:53,830
+Escreva o nome do produto e a marca.
+Depois, uma descrição curta com o que o
+
+42
+00:00:53,830 --> 00:00:53,840
+Depois, uma descrição curta com o que o
+ 
+
+43
+00:00:53,840 --> 00:00:56,470
+Depois, uma descrição curta com o que o
+cliente precisa saber. Informe o preço
+
+44
+00:00:56,470 --> 00:00:56,480
+cliente precisa saber. Informe o preço
+ 
+
+45
+00:00:56,480 --> 00:00:58,430
+cliente precisa saber. Informe o preço
+e, se quiser, escolha um selo de
+
+46
+00:00:58,430 --> 00:00:58,440
+e, se quiser, escolha um selo de
+ 
+
+47
+00:00:58,440 --> 00:01:01,990
+e, se quiser, escolha um selo de
+destaque: top vendido, oferta, novo ou
+
+48
+00:01:01,990 --> 00:01:02,000
+destaque: top vendido, oferta, novo ou
+ 
+
+49
+00:01:02,000 --> 00:01:04,910
+destaque: top vendido, oferta, novo ou
+recente. Em ficha técnica, digite cada
+
+50
+00:01:04,910 --> 00:01:04,920
+recente. Em ficha técnica, digite cada
+ 
+
+51
+00:01:04,920 --> 00:01:07,310
+recente. Em ficha técnica, digite cada
+característica e clique em adicionar,
+
+52
+00:01:07,310 --> 00:01:07,320
+característica e clique em adicionar,
+ 
+
+53
+00:01:07,320 --> 00:01:10,110
+característica e clique em adicionar,
+como material, medidas e cor. Elas
+
+54
+00:01:10,110 --> 00:01:10,120
+como material, medidas e cor. Elas
+ 
+
+55
+00:01:10,120 --> 00:01:12,750
+como material, medidas e cor. Elas
+aparecem como etiquetas no produto. Em
+
+56
+00:01:12,750 --> 00:01:12,760
+aparecem como etiquetas no produto. Em
+ 
+
+57
+00:01:12,760 --> 00:01:15,390
+aparecem como etiquetas no produto. Em
+fotos, envie até oito imagens. A
+
+58
+00:01:15,390 --> 00:01:15,400
+fotos, envie até oito imagens. A
+ 
+
+59
+00:01:15,400 --> 00:01:17,830
+fotos, envie até oito imagens. A
+primeira é a capa do produto e as outras
+
+60
+00:01:17,830 --> 00:01:17,840
+primeira é a capa do produto e as outras
+ 
+
+61
+00:01:17,840 --> 00:01:20,190
+primeira é a capa do produto e as outras
+aparecem ao passar as fotos. Confira a
+
+62
+00:01:20,190 --> 00:01:20,200
+aparecem ao passar as fotos. Confira a
+ 
+
+63
+00:01:20,200 --> 00:01:23,230
+aparecem ao passar as fotos. Confira a
+seção, deixe publicado no site ligado e
+
+64
+00:01:23,230 --> 00:01:23,240
+seção, deixe publicado no site ligado e
+ 
+
+65
+00:01:23,240 --> 00:01:26,070
+seção, deixe publicado no site ligado e
+clique em salvar. Pronto. A bolsa já
+
+66
+00:01:26,070 --> 00:01:26,080
+clique em salvar. Pronto. A bolsa já
+ 
+
+67
+00:01:26,080 --> 00:01:28,550
+clique em salvar. Pronto. A bolsa já
+aparece na seção acessórios. Cada
+
+68
+00:01:28,550 --> 00:01:28,560
+aparece na seção acessórios. Cada
+ 
+
+69
+00:01:28,560 --> 00:01:30,830
+aparece na seção acessórios. Cada
+produto tem a chave para tirar do ar sem
+
+70
+00:01:30,830 --> 00:01:30,840
+produto tem a chave para tirar do ar sem
+ 
+
+71
+00:01:30,840 --> 00:01:34,270
+produto tem a chave para tirar do ar sem
+apagar e os botões editar e excluir. No
+
+72
+00:01:34,270 --> 00:01:34,280
+apagar e os botões editar e excluir. No
+ 
+
+73
+00:01:34,280 --> 00:01:36,590
+apagar e os botões editar e excluir. No
+portal, o catálogo mostra os filtros por
+
+74
+00:01:36,590 --> 00:01:36,600
+portal, o catálogo mostra os filtros por
+ 
+
+75
+00:01:36,600 --> 00:01:39,550
+portal, o catálogo mostra os filtros por
+seção no topo e cada produto com foto,
+
+76
+00:01:39,550 --> 00:01:39,560
+seção no topo e cada produto com foto,
+ 
+
+77
+00:01:39,560 --> 00:01:43,110
+seção no topo e cada produto com foto,
+selo, marca, ficha técnica e preço. O
+
+78
+00:01:43,110 --> 00:01:43,120
+selo, marca, ficha técnica e preço. O
+ 
+
+79
+00:01:43,120 --> 00:01:45,630
+selo, marca, ficha técnica e preço. O
+botão tenho interesse abre uma conversa
+
+80
+00:01:45,630 --> 00:01:45,640
+botão tenho interesse abre uma conversa
+ 
+
+81
+00:01:45,640 --> 00:01:47,830
+botão tenho interesse abre uma conversa
+com a sua loja no WhatsApp já falando do
+
+82
+00:01:47,830 --> 00:01:47,840
+com a sua loja no WhatsApp já falando do
+ 
+
+83
+00:01:47,840 --> 00:01:50,270
+com a sua loja no WhatsApp já falando do
+produto escolhido. No celular, o cliente
+
+84
+00:01:50,270 --> 00:01:50,280
+produto escolhido. No celular, o cliente
+ 
+
+85
+00:01:50,280 --> 00:01:52,590
+produto escolhido. No celular, o cliente
+passa as fotos com o dedo e filtra pelas
+
+86
+00:01:52,590 --> 00:01:52,600
+passa as fotos com o dedo e filtra pelas
+ 
+
+87
+00:01:52,600 --> 00:01:55,390
+passa as fotos com o dedo e filtra pelas
+seções com um toque. Pronto. Mantenha o
+
+88
+00:01:55,390 --> 00:01:55,400
+seções com um toque. Pronto. Mantenha o
+ 
+
+89
+00:01:55,400 --> 00:01:57,670
+seções com um toque. Pronto. Mantenha o
+catálogo atualizado com boas fotos e
+
+90
+00:01:57,670 --> 00:01:57,680
+catálogo atualizado com boas fotos e
+ 
+
+91
+00:01:57,680 --> 00:02:02,360
+catálogo atualizado com boas fotos e
+preços e transforme visitas em vendas.
+

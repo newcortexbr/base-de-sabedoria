@@ -1,0 +1,985 @@
+1
+00:00:00,000 --> 00:00:02,150
+ 
+Neste vídeo, você vai aprender, passo a
+
+2
+00:00:02,150 --> 00:00:02,160
+Neste vídeo, você vai aprender, passo a
+ 
+
+3
+00:00:02,160 --> 00:00:04,390
+Neste vídeo, você vai aprender, passo a
+passo, a divulgar o seu evento na agenda
+
+4
+00:00:04,390 --> 00:00:04,400
+passo, a divulgar o seu evento na agenda
+ 
+
+5
+00:00:04,400 --> 00:00:06,910
+passo, a divulgar o seu evento na agenda
+da cidade, pelo seu próprio painel.
+
+6
+00:00:06,910 --> 00:00:06,920
+da cidade, pelo seu próprio painel.
+ 
+
+7
+00:00:06,920 --> 00:00:09,070
+da cidade, pelo seu próprio painel.
+Depois de entrar na sua conta, clique em
+
+8
+00:00:09,070 --> 00:00:09,080
+Depois de entrar na sua conta, clique em
+ 
+
+9
+00:00:09,080 --> 00:00:11,590
+Depois de entrar na sua conta, clique em
+agenda de eventos no menu da esquerda.
+
+10
+00:00:11,590 --> 00:00:11,600
+agenda de eventos no menu da esquerda.
+ 
+
+11
+00:00:11,600 --> 00:00:14,270
+agenda de eventos no menu da esquerda.
+Esta é a sua tela de eventos. Logo no
+
+12
+00:00:14,270 --> 00:00:14,280
+Esta é a sua tela de eventos. Logo no
+ 
+
+13
+00:00:14,280 --> 00:00:16,670
+Esta é a sua tela de eventos. Logo no
+topo, você vê como funciona a divulgação
+
+14
+00:00:16,670 --> 00:00:16,680
+topo, você vê como funciona a divulgação
+ 
+
+15
+00:00:16,680 --> 00:00:19,150
+topo, você vê como funciona a divulgação
+dos eventos no portal. Os três quadros
+
+16
+00:00:19,150 --> 00:00:19,160
+dos eventos no portal. Os três quadros
+ 
+
+17
+00:00:19,160 --> 00:00:21,230
+dos eventos no portal. Os três quadros
+mostram quantos eventos seus estão no
+
+18
+00:00:21,230 --> 00:00:21,240
+mostram quantos eventos seus estão no
+ 
+
+19
+00:00:21,240 --> 00:00:23,790
+mostram quantos eventos seus estão no
+ar, quantos estão aguardando o pagamento
+
+20
+00:00:23,790 --> 00:00:23,800
+ar, quantos estão aguardando o pagamento
+ 
+
+21
+00:00:23,800 --> 00:00:25,910
+ar, quantos estão aguardando o pagamento
+e quantos estão em análise.
+
+22
+00:00:25,910 --> 00:00:25,920
+e quantos estão em análise.
+ 
+
+23
+00:00:25,920 --> 00:00:28,070
+e quantos estão em análise.
+Para começar, clique no botão novo
+
+24
+00:00:28,070 --> 00:00:28,080
+Para começar, clique no botão novo
+ 
+
+25
+00:00:28,080 --> 00:00:31,030
+Para começar, clique no botão novo
+evento. O formulário tem três partes:
+
+26
+00:00:31,030 --> 00:00:31,040
+evento. O formulário tem três partes:
+ 
+
+27
+00:00:31,040 --> 00:00:33,790
+evento. O formulário tem três partes:
+sobre o evento, fotos e ingressos e a
+
+28
+00:00:33,790 --> 00:00:33,800
+sobre o evento, fotos e ingressos e a
+ 
+
+29
+00:00:33,800 --> 00:00:36,390
+sobre o evento, fotos e ingressos e a
+forma de divulgação. Do lado direito, o
+
+30
+00:00:36,390 --> 00:00:36,400
+forma de divulgação. Do lado direito, o
+ 
+
+31
+00:00:36,400 --> 00:00:38,870
+forma de divulgação. Do lado direito, o
+quadro como vai aparecer mostra uma
+
+32
+00:00:38,870 --> 00:00:38,880
+quadro como vai aparecer mostra uma
+ 
+
+33
+00:00:38,880 --> 00:00:40,710
+quadro como vai aparecer mostra uma
+prévia do seu evento enquanto você
+
+34
+00:00:40,710 --> 00:00:40,720
+prévia do seu evento enquanto você
+ 
+
+35
+00:00:40,720 --> 00:00:42,830
+prévia do seu evento enquanto você
+preenche. Vamos começar.
+
+36
+00:00:42,830 --> 00:00:42,840
+preenche. Vamos começar.
+ 
+
+37
+00:00:42,840 --> 00:00:45,190
+preenche. Vamos começar.
+Em título do evento, escreva o nome do
+
+38
+00:00:45,190 --> 00:00:45,200
+Em título do evento, escreva o nome do
+ 
+
+39
+00:00:45,200 --> 00:00:47,950
+Em título do evento, escreva o nome do
+seu evento. Aqui, Festival de Jazz e
+
+40
+00:00:47,950 --> 00:00:47,960
+seu evento. Aqui, Festival de Jazz e
+ 
+
+41
+00:00:47,960 --> 00:00:49,270
+seu evento. Aqui, Festival de Jazz e
+Blues na praia.
+
+42
+00:00:49,270 --> 00:00:49,280
+Blues na praia.
+ 
+
+43
+00:00:49,280 --> 00:00:51,470
+Blues na praia.
+Em categoria, clique e escolha a que
+
+44
+00:00:51,470 --> 00:00:51,480
+Em categoria, clique e escolha a que
+ 
+
+45
+00:00:51,480 --> 00:00:53,670
+Em categoria, clique e escolha a que
+combina com o seu evento, como shows e
+
+46
+00:00:53,670 --> 00:00:53,680
+combina com o seu evento, como shows e
+ 
+
+47
+00:00:53,680 --> 00:00:56,630
+combina com o seu evento, como shows e
+música, festivais ou gastronomia. O
+
+48
+00:00:56,630 --> 00:00:56,640
+música, festivais ou gastronomia. O
+ 
+
+49
+00:00:56,640 --> 00:00:59,150
+música, festivais ou gastronomia. O
+campo organizador já vem preenchido com
+
+50
+00:00:59,150 --> 00:00:59,160
+campo organizador já vem preenchido com
+ 
+
+51
+00:00:59,160 --> 00:01:01,670
+campo organizador já vem preenchido com
+o nome da sua empresa. Em descrição,
+
+52
+00:01:01,670 --> 00:01:01,680
+o nome da sua empresa. Em descrição,
+ 
+
+53
+00:01:01,680 --> 00:01:03,710
+o nome da sua empresa. Em descrição,
+conte do que se trata o evento, as
+
+54
+00:01:03,710 --> 00:01:03,720
+conte do que se trata o evento, as
+ 
+
+55
+00:01:03,720 --> 00:01:06,270
+conte do que se trata o evento, as
+atrações, o que o público vai encontrar
+
+56
+00:01:06,270 --> 00:01:06,280
+atrações, o que o público vai encontrar
+ 
+
+57
+00:01:06,280 --> 00:01:07,710
+atrações, o que o público vai encontrar
+e o que deve levar.
+
+58
+00:01:07,710 --> 00:01:07,720
+e o que deve levar.
+ 
+
+59
+00:01:07,720 --> 00:01:10,750
+e o que deve levar.
+Agora as datas. Em data, informe o dia
+
+60
+00:01:10,750 --> 00:01:10,760
+Agora as datas. Em data, informe o dia
+ 
+
+61
+00:01:10,760 --> 00:01:13,190
+Agora as datas. Em data, informe o dia
+do evento. Se ele durar mais de um dia,
+
+62
+00:01:13,190 --> 00:01:13,200
+do evento. Se ele durar mais de um dia,
+ 
+
+63
+00:01:13,200 --> 00:01:15,790
+do evento. Se ele durar mais de um dia,
+preencha também a data de término. Em
+
+64
+00:01:15,790 --> 00:01:15,800
+preencha também a data de término. Em
+ 
+
+65
+00:01:15,800 --> 00:01:17,790
+preencha também a data de término. Em
+horário, escreva do seu jeito. Por
+
+66
+00:01:17,790 --> 00:01:17,800
+horário, escreva do seu jeito. Por
+ 
+
+67
+00:01:17,800 --> 00:01:21,790
+horário, escreva do seu jeito. Por
+exemplo, sábado das 16h às 23h e domingo
+
+68
+00:01:21,790 --> 00:01:21,800
+exemplo, sábado das 16h às 23h e domingo
+ 
+
+69
+00:01:21,800 --> 00:01:25,470
+exemplo, sábado das 16h às 23h e domingo
+das 15h às 21h. Agora o lugar. Digite o
+
+70
+00:01:25,470 --> 00:01:25,480
+das 15h às 21h. Agora o lugar. Digite o
+ 
+
+71
+00:01:25,480 --> 00:01:28,070
+das 15h às 21h. Agora o lugar. Digite o
+CEP e o endereço é preenchido sozinho.
+
+72
+00:01:28,070 --> 00:01:28,080
+CEP e o endereço é preenchido sozinho.
+ 
+
+73
+00:01:28,080 --> 00:01:30,470
+CEP e o endereço é preenchido sozinho.
+Complete com o número. A cidade já vem
+
+74
+00:01:30,470 --> 00:01:30,480
+Complete com o número. A cidade já vem
+ 
+
+75
+00:01:30,480 --> 00:01:33,110
+Complete com o número. A cidade já vem
+escolhida. Em local, escreva o nome do
+
+76
+00:01:33,110 --> 00:01:33,120
+escolhida. Em local, escreva o nome do
+ 
+
+77
+00:01:33,120 --> 00:01:35,630
+escolhida. Em local, escreva o nome do
+lugar, como Praça dos Namorados. Ele
+
+78
+00:01:35,630 --> 00:01:35,640
+lugar, como Praça dos Namorados. Ele
+ 
+
+79
+00:01:35,640 --> 00:01:37,790
+lugar, como Praça dos Namorados. Ele
+aparece em destaque na página do evento
+
+80
+00:01:37,790 --> 00:01:37,800
+aparece em destaque na página do evento
+ 
+
+81
+00:01:37,800 --> 00:01:40,510
+aparece em destaque na página do evento
+junto do botão como chegar. Agora a
+
+82
+00:01:40,510 --> 00:01:40,520
+junto do botão como chegar. Agora a
+ 
+
+83
+00:01:40,520 --> 00:01:44,070
+junto do botão como chegar. Agora a
+segunda parte: fotos, vídeo e ingressos.
+
+84
+00:01:44,070 --> 00:01:44,080
+segunda parte: fotos, vídeo e ingressos.
+ 
+
+85
+00:01:44,080 --> 00:01:46,110
+segunda parte: fotos, vídeo e ingressos.
+Evento com foto recebe muito mais
+
+86
+00:01:46,110 --> 00:01:46,120
+Evento com foto recebe muito mais
+ 
+
+87
+00:01:46,120 --> 00:01:49,190
+Evento com foto recebe muito mais
+visitas. Clique em enviar foto de capa e
+
+88
+00:01:49,190 --> 00:01:49,200
+visitas. Clique em enviar foto de capa e
+ 
+
+89
+00:01:49,200 --> 00:01:51,550
+visitas. Clique em enviar foto de capa e
+escolha a imagem principal. Ela aparece
+
+90
+00:01:51,550 --> 00:01:51,560
+escolha a imagem principal. Ela aparece
+ 
+
+91
+00:01:51,560 --> 00:01:53,830
+escolha a imagem principal. Ela aparece
+no cartão da agenda e no topo da página
+
+92
+00:01:53,830 --> 00:01:53,840
+no cartão da agenda e no topo da página
+ 
+
+93
+00:01:53,840 --> 00:01:57,470
+no cartão da agenda e no topo da página
+do evento. Use uma uma deitada de 1280
+
+94
+00:01:57,470 --> 00:01:57,480
+do evento. Use uma uma deitada de 1280
+ 
+
+95
+00:01:57,480 --> 00:02:00,790
+do evento. Use uma uma deitada de 1280
+por 720 pixels. Logo abaixo fica a
+
+96
+00:02:00,790 --> 00:02:00,800
+por 720 pixels. Logo abaixo fica a
+ 
+
+97
+00:02:00,800 --> 00:02:03,630
+por 720 pixels. Logo abaixo fica a
+galeria. Clique em adicionar fotos e
+
+98
+00:02:03,630 --> 00:02:03,640
+galeria. Clique em adicionar fotos e
+ 
+
+99
+00:02:03,640 --> 00:02:05,910
+galeria. Clique em adicionar fotos e
+escolha as imagens. Você pode colocar
+
+100
+00:02:05,910 --> 00:02:05,920
+escolha as imagens. Você pode colocar
+ 
+
+101
+00:02:05,920 --> 00:02:08,790
+escolha as imagens. Você pode colocar
+até 10 itens e pelo menos uma foto é
+
+102
+00:02:08,790 --> 00:02:08,800
+até 10 itens e pelo menos uma foto é
+ 
+
+103
+00:02:08,800 --> 00:02:11,350
+até 10 itens e pelo menos uma foto é
+obrigatória. Cada item da galeria pode
+
+104
+00:02:11,350 --> 00:02:11,360
+obrigatória. Cada item da galeria pode
+ 
+
+105
+00:02:11,360 --> 00:02:13,830
+obrigatória. Cada item da galeria pode
+ser uma foto ou um vídeo do YouTube.
+
+106
+00:02:13,830 --> 00:02:13,840
+ser uma foto ou um vídeo do YouTube.
+ 
+
+107
+00:02:13,840 --> 00:02:16,230
+ser uma foto ou um vídeo do YouTube.
+Para remover uma foto, clique no X em
+
+108
+00:02:16,230 --> 00:02:16,240
+Para remover uma foto, clique no X em
+ 
+
+109
+00:02:16,240 --> 00:02:18,190
+Para remover uma foto, clique no X em
+cima dela. Se tiver um vídeo de
+
+110
+00:02:18,190 --> 00:02:18,200
+cima dela. Se tiver um vídeo de
+ 
+
+111
+00:02:18,200 --> 00:02:20,470
+cima dela. Se tiver um vídeo de
+divulgação, cole o link do YouTube no
+
+112
+00:02:20,470 --> 00:02:20,480
+divulgação, cole o link do YouTube no
+ 
+
+113
+00:02:20,480 --> 00:02:22,910
+divulgação, cole o link do YouTube no
+campo link de vídeo do YouTube. Em
+
+114
+00:02:22,910 --> 00:02:22,920
+campo link de vídeo do YouTube. Em
+ 
+
+115
+00:02:22,920 --> 00:02:25,230
+campo link de vídeo do YouTube. Em
+preço, escreva como é a entrada. Por
+
+116
+00:02:25,230 --> 00:02:25,240
+preço, escreva como é a entrada. Por
+ 
+
+117
+00:02:25,240 --> 00:02:27,870
+preço, escreva como é a entrada. Por
+exemplo, entrada gratuita ou o valor do
+
+118
+00:02:27,870 --> 00:02:27,880
+exemplo, entrada gratuita ou o valor do
+ 
+
+119
+00:02:27,880 --> 00:02:29,990
+exemplo, entrada gratuita ou o valor do
+ingresso. Se você vende ingressos por
+
+120
+00:02:29,990 --> 00:02:30,000
+ingresso. Se você vende ingressos por
+ 
+
+121
+00:02:30,000 --> 00:02:32,590
+ingresso. Se você vende ingressos por
+algum site, cole o endereço em link de
+
+122
+00:02:32,590 --> 00:02:32,600
+algum site, cole o endereço em link de
+ 
+
+123
+00:02:32,600 --> 00:02:34,830
+algum site, cole o endereço em link de
+ingresso. Ele vira um botão na página do
+
+124
+00:02:34,830 --> 00:02:34,840
+ingresso. Ele vira um botão na página do
+ 
+
+125
+00:02:34,840 --> 00:02:37,270
+ingresso. Ele vira um botão na página do
+evento. Em WhatsApp para contato,
+
+126
+00:02:37,270 --> 00:02:37,280
+evento. Em WhatsApp para contato,
+ 
+
+127
+00:02:37,280 --> 00:02:38,949
+evento. Em WhatsApp para contato,
+coloque o número para o público tirar
+
+128
+00:02:38,949 --> 00:02:38,959
+coloque o número para o público tirar
+ 
+
+129
+00:02:38,959 --> 00:02:41,230
+coloque o número para o público tirar
+dúvidas. Marque mostrar telefone na
+
+130
+00:02:41,230 --> 00:02:41,240
+dúvidas. Marque mostrar telefone na
+ 
+
+131
+00:02:41,240 --> 00:02:43,870
+dúvidas. Marque mostrar telefone na
+página para o número aparecer. Agora a
+
+132
+00:02:43,870 --> 00:02:43,880
+página para o número aparecer. Agora a
+ 
+
+133
+00:02:43,880 --> 00:02:46,949
+página para o número aparecer. Agora a
+terceira parte. Como você quer divulgar?
+
+134
+00:02:46,949 --> 00:02:46,959
+terceira parte. Como você quer divulgar?
+ 
+
+135
+00:02:46,959 --> 00:02:49,270
+terceira parte. Como você quer divulgar?
+Aqui aparecem as opções de divulgação
+
+136
+00:02:49,270 --> 00:02:49,280
+Aqui aparecem as opções de divulgação
+ 
+
+137
+00:02:49,280 --> 00:02:51,470
+Aqui aparecem as opções de divulgação
+que o portal oferece. Leia o que cada
+
+138
+00:02:51,470 --> 00:02:51,480
+que o portal oferece. Leia o que cada
+ 
+
+139
+00:02:51,480 --> 00:02:53,790
+que o portal oferece. Leia o que cada
+uma inclui, como destaque do evento e
+
+140
+00:02:53,790 --> 00:02:53,800
+uma inclui, como destaque do evento e
+ 
+
+141
+00:02:53,800 --> 00:02:56,310
+uma inclui, como destaque do evento e
+destaque na página inicial de eventos.
+
+142
+00:02:56,310 --> 00:02:56,320
+destaque na página inicial de eventos.
+ 
+
+143
+00:02:56,320 --> 00:02:58,350
+destaque na página inicial de eventos.
+Clique na opção que você quer. Ela fica
+
+144
+00:02:58,350 --> 00:02:58,360
+Clique na opção que você quer. Ela fica
+ 
+
+145
+00:02:58,360 --> 00:03:00,870
+Clique na opção que você quer. Ela fica
+marcada e a prévia do lado direito já
+
+146
+00:03:00,870 --> 00:03:00,880
+marcada e a prévia do lado direito já
+ 
+
+147
+00:03:00,880 --> 00:03:02,949
+marcada e a prévia do lado direito já
+mostra o seu evento com a foto e as
+
+148
+00:03:02,949 --> 00:03:02,959
+mostra o seu evento com a foto e as
+ 
+
+149
+00:03:02,959 --> 00:03:05,710
+mostra o seu evento com a foto e as
+informações. Confira tudo no quadro como
+
+150
+00:03:05,710 --> 00:03:05,720
+informações. Confira tudo no quadro como
+ 
+
+151
+00:03:05,720 --> 00:03:08,070
+informações. Confira tudo no quadro como
+vai aparecer e clique em pagar e
+
+152
+00:03:08,070 --> 00:03:08,080
+vai aparecer e clique em pagar e
+ 
+
+153
+00:03:08,080 --> 00:03:11,229
+vai aparecer e clique em pagar e
+publicar. Pronto, o evento foi criado.
+
+154
+00:03:11,229 --> 00:03:11,239
+publicar. Pronto, o evento foi criado.
+ 
+
+155
+00:03:11,239 --> 00:03:13,509
+publicar. Pronto, o evento foi criado.
+Agora é só fazer o pagamento pela forma
+
+156
+00:03:13,509 --> 00:03:13,519
+Agora é só fazer o pagamento pela forma
+ 
+
+157
+00:03:13,519 --> 00:03:15,310
+Agora é só fazer o pagamento pela forma
+indicada nesta tela. Assim que o
+
+158
+00:03:15,310 --> 00:03:15,320
+indicada nesta tela. Assim que o
+ 
+
+159
+00:03:15,320 --> 00:03:17,830
+indicada nesta tela. Assim que o
+pagamento for confirmado, o evento entra
+
+160
+00:03:17,830 --> 00:03:17,840
+pagamento for confirmado, o evento entra
+ 
+
+161
+00:03:17,840 --> 00:03:20,150
+pagamento for confirmado, o evento entra
+na análise do portal. De volta à lista
+
+162
+00:03:20,150 --> 00:03:20,160
+na análise do portal. De volta à lista
+ 
+
+163
+00:03:20,160 --> 00:03:22,470
+na análise do portal. De volta à lista
+meus eventos, o seu evento aparece com a
+
+164
+00:03:22,470 --> 00:03:22,480
+meus eventos, o seu evento aparece com a
+ 
+
+165
+00:03:22,480 --> 00:03:25,430
+meus eventos, o seu evento aparece com a
+situação aguardando pagamento e botão
+
+166
+00:03:25,430 --> 00:03:25,440
+situação aguardando pagamento e botão
+ 
+
+167
+00:03:25,440 --> 00:03:27,990
+situação aguardando pagamento e botão
+continuar pagamento, se precisar. Depois
+
+168
+00:03:27,990 --> 00:03:28,000
+continuar pagamento, se precisar. Depois
+ 
+
+169
+00:03:28,000 --> 00:03:30,110
+continuar pagamento, se precisar. Depois
+de pago, a situação muda para em
+
+170
+00:03:30,110 --> 00:03:30,120
+de pago, a situação muda para em
+ 
+
+171
+00:03:30,120 --> 00:03:32,949
+de pago, a situação muda para em
+análise. O portal confere as informações
+
+172
+00:03:32,949 --> 00:03:32,959
+análise. O portal confere as informações
+ 
+
+173
+00:03:32,959 --> 00:03:34,910
+análise. O portal confere as informações
+antes de colocar no ar. E quando for
+
+174
+00:03:34,910 --> 00:03:34,920
+antes de colocar no ar. E quando for
+ 
+
+175
+00:03:34,920 --> 00:03:37,750
+antes de colocar no ar. E quando for
+aprovado, aparece como publicado. Use o
+
+176
+00:03:37,750 --> 00:03:37,760
+aprovado, aparece como publicado. Use o
+ 
+
+177
+00:03:37,760 --> 00:03:40,830
+aprovado, aparece como publicado. Use o
+botão editar para ajustar as informações
+
+178
+00:03:40,830 --> 00:03:40,840
+botão editar para ajustar as informações
+ 
+
+179
+00:03:40,840 --> 00:03:42,949
+botão editar para ajustar as informações
+e a setinha ao lado para abrir a página
+
+180
+00:03:42,949 --> 00:03:42,959
+e a setinha ao lado para abrir a página
+ 
+
+181
+00:03:42,959 --> 00:03:45,430
+e a setinha ao lado para abrir a página
+do evento. E este é o seu evento no
+
+182
+00:03:45,430 --> 00:03:45,440
+do evento. E este é o seu evento no
+ 
+
+183
+00:03:45,440 --> 00:03:48,350
+do evento. E este é o seu evento no
+portal. A foto de capa no topo, a data
+
+184
+00:03:48,350 --> 00:03:48,360
+portal. A foto de capa no topo, a data
+ 
+
+185
+00:03:48,360 --> 00:03:50,710
+portal. A foto de capa no topo, a data
+em destaque, o local e os botões de
+
+186
+00:03:50,710 --> 00:03:50,720
+em destaque, o local e os botões de
+ 
+
+187
+00:03:50,720 --> 00:03:53,590
+em destaque, o local e os botões de
+ingresso, WhatsApp e como chegar. Mais
+
+188
+00:03:53,590 --> 00:03:53,600
+ingresso, WhatsApp e como chegar. Mais
+ 
+
+189
+00:03:53,600 --> 00:03:56,550
+ingresso, WhatsApp e como chegar. Mais
+abaixo, a descrição, a galeria de fotos,
+
+190
+00:03:56,550 --> 00:03:56,560
+abaixo, a descrição, a galeria de fotos,
+ 
+
+191
+00:03:56,560 --> 00:03:59,270
+abaixo, a descrição, a galeria de fotos,
+o vídeo, as informações e o mapa com a
+
+192
+00:03:59,270 --> 00:03:59,280
+o vídeo, as informações e o mapa com a
+ 
+
+193
+00:03:59,280 --> 00:04:01,710
+o vídeo, as informações e o mapa com a
+localização. Pronto, agora é só
+
+194
+00:04:01,710 --> 00:04:01,720
+localização. Pronto, agora é só
+ 
+
+195
+00:04:01,720 --> 00:04:03,750
+localização. Pronto, agora é só
+compartilhar a página do seu evento e
+
+196
+00:04:03,750 --> 00:04:03,760
+compartilhar a página do seu evento e
+ 
+
+197
+00:04:03,760 --> 00:04:07,080
+compartilhar a página do seu evento e
+esperar o público chegar.
+

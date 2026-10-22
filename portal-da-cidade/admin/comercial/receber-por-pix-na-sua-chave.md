@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: pagamento
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - lwaG-T87hJI
@@ -48,7 +48,11 @@ quando a empresa contrata um plano, ela vê a sua chave Pix, o botão de copiar 
 
 ## desvios
 
-- Para dar baixa quando o comprovante chegar, use `Já recebi` na fatura do `Financeiro` (veja o artigo de faturas e pagamentos).
+- A mensagem pronta do WhatsApp de comprovante traz o nome do cliente, o plano, o número da fatura e o valor.
+- No `Financeiro`, um cartão mostra quantas faturas aguardam o Pix.
+- Para dar baixa quando o comprovante chegar, use `Já recebi` na fatura do `Financeiro` (veja o artigo de faturas e pagamentos): escolha como o cliente pagou, confira a data e o valor, escreva uma observação se quiser, marque a caixa de confirmação e clique em `Sim, já recebi`. A fatura vai para paga, a contratação é ativada e a próxima fatura do ciclo é gerada.
+- Também dá para dar baixa pela ficha do cliente, em `Meus Clientes`, aba `Financeiro`, com o botão `Confirmar pagamento`.
+- Os dois caminhos convivem: mesmo com o Asaas, se o cliente pagar por fora, use o `Já recebi`. Uma fatura que já mostrou a chave Pix segue por Pix, mesmo se o Asaas for ligado depois.
 - Perdeu o celular: na janela `Trocar a chave Pix`, clique em `Usar um código de reserva` e digite um dos códigos guardados.
 - Sem celular e sem código de reserva, só a plataforma (Master) zera o autenticador.
 - O WhatsApp dos comprovantes é um campo próprio: não é o WhatsApp de contato do portal.

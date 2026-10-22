@@ -1,0 +1,465 @@
+1
+00:00:00,000 --> 00:00:02,070
+ 
+A tabela de serviços mostra o que a
+
+2
+00:00:02,070 --> 00:00:02,080
+A tabela de serviços mostra o que a
+ 
+
+3
+00:00:02,080 --> 00:00:04,950
+A tabela de serviços mostra o que a
+empresa faz e quanto custa. É ideal para
+
+4
+00:00:04,950 --> 00:00:04,960
+empresa faz e quanto custa. É ideal para
+ 
+
+5
+00:00:04,960 --> 00:00:07,990
+empresa faz e quanto custa. É ideal para
+clínicas, salões, oficinas, escritórios
+
+6
+00:00:07,990 --> 00:00:08,000
+clínicas, salões, oficinas, escritórios
+ 
+
+7
+00:00:08,000 --> 00:00:10,590
+clínicas, salões, oficinas, escritórios
+e prestadores de serviço. Esse recurso
+
+8
+00:00:10,590 --> 00:00:10,600
+e prestadores de serviço. Esse recurso
+ 
+
+9
+00:00:10,600 --> 00:00:12,750
+e prestadores de serviço. Esse recurso
+vale para todas as categorias do guia,
+
+10
+00:00:12,750 --> 00:00:12,760
+vale para todas as categorias do guia,
+ 
+
+11
+00:00:12,760 --> 00:00:14,870
+vale para todas as categorias do guia,
+mas depende do plano da empresa. No
+
+12
+00:00:14,870 --> 00:00:14,880
+mas depende do plano da empresa. No
+ 
+
+13
+00:00:14,880 --> 00:00:17,270
+mas depende do plano da empresa. No
+plano grátis, ele não aparece. Para
+
+14
+00:00:17,270 --> 00:00:17,280
+plano grátis, ele não aparece. Para
+ 
+
+15
+00:00:17,280 --> 00:00:20,030
+plano grátis, ele não aparece. Para
+abrir, edite a empresa e, em conteúdo da
+
+16
+00:00:20,030 --> 00:00:20,040
+abrir, edite a empresa e, em conteúdo da
+ 
+
+17
+00:00:20,040 --> 00:00:22,510
+abrir, edite a empresa e, em conteúdo da
+ficha, clique em gerenciar no cartão
+
+18
+00:00:22,510 --> 00:00:22,520
+ficha, clique em gerenciar no cartão
+ 
+
+19
+00:00:22,520 --> 00:00:25,310
+ficha, clique em gerenciar no cartão
+serviços. A empresa também faz isso pelo
+
+20
+00:00:25,310 --> 00:00:25,320
+serviços. A empresa também faz isso pelo
+ 
+
+21
+00:00:25,320 --> 00:00:27,470
+serviços. A empresa também faz isso pelo
+painel do cliente. Os serviços são
+
+22
+00:00:27,470 --> 00:00:27,480
+painel do cliente. Os serviços são
+ 
+
+23
+00:00:27,480 --> 00:00:30,230
+painel do cliente. Os serviços são
+organizados em seções, como consultas,
+
+24
+00:00:30,230 --> 00:00:30,240
+organizados em seções, como consultas,
+ 
+
+25
+00:00:30,240 --> 00:00:33,310
+organizados em seções, como consultas,
+exames, procedimentos ou pacotes. Para
+
+26
+00:00:33,310 --> 00:00:33,320
+exames, procedimentos ou pacotes. Para
+ 
+
+27
+00:00:33,320 --> 00:00:36,310
+exames, procedimentos ou pacotes. Para
+criar uma, digite o nome em criar seção
+
+28
+00:00:36,310 --> 00:00:36,320
+criar uma, digite o nome em criar seção
+ 
+
+29
+00:00:36,320 --> 00:00:38,590
+criar uma, digite o nome em criar seção
+e clique no botão. Cada seção tem a
+
+30
+00:00:38,590 --> 00:00:38,600
+e clique no botão. Cada seção tem a
+ 
+
+31
+00:00:38,600 --> 00:00:41,590
+e clique no botão. Cada seção tem a
+chave no ar para publicar ou esconder, o
+
+32
+00:00:41,590 --> 00:00:41,600
+chave no ar para publicar ou esconder, o
+ 
+
+33
+00:00:41,600 --> 00:00:44,030
+chave no ar para publicar ou esconder, o
+contador de serviços publicados, as
+
+34
+00:00:44,030 --> 00:00:44,040
+contador de serviços publicados, as
+ 
+
+35
+00:00:44,040 --> 00:00:46,750
+contador de serviços publicados, as
+setas para mudar a ordem, renomear e
+
+36
+00:00:46,750 --> 00:00:46,760
+setas para mudar a ordem, renomear e
+ 
+
+37
+00:00:46,760 --> 00:00:49,510
+setas para mudar a ordem, renomear e
+excluir seção. Dentro da seção ficam os
+
+38
+00:00:49,510 --> 00:00:49,520
+excluir seção. Dentro da seção ficam os
+ 
+
+39
+00:00:49,520 --> 00:00:52,350
+excluir seção. Dentro da seção ficam os
+serviços, cada um com a sua chave no ar,
+
+40
+00:00:52,350 --> 00:00:52,360
+serviços, cada um com a sua chave no ar,
+ 
+
+41
+00:00:52,360 --> 00:00:54,910
+serviços, cada um com a sua chave no ar,
+o botão editar e a lixeira. Para
+
+42
+00:00:54,910 --> 00:00:54,920
+o botão editar e a lixeira. Para
+ 
+
+43
+00:00:54,920 --> 00:00:57,710
+o botão editar e a lixeira. Para
+adicionar, clique em adicionar serviço.
+
+44
+00:00:57,710 --> 00:00:57,720
+adicionar, clique em adicionar serviço.
+ 
+
+45
+00:00:57,720 --> 00:01:00,070
+adicionar, clique em adicionar serviço.
+Preencha o nome, por exemplo, consulta
+
+46
+00:01:00,070 --> 00:01:00,080
+Preencha o nome, por exemplo, consulta
+ 
+
+47
+00:01:00,080 --> 00:01:02,870
+Preencha o nome, por exemplo, consulta
+médica e uma breve descrição. Em valor,
+
+48
+00:01:02,870 --> 00:01:02,880
+médica e uma breve descrição. Em valor,
+ 
+
+49
+00:01:02,880 --> 00:01:05,550
+médica e uma breve descrição. Em valor,
+informe o preço. Se o preço varia, use o
+
+50
+00:01:05,550 --> 00:01:05,560
+informe o preço. Se o preço varia, use o
+ 
+
+51
+00:01:05,560 --> 00:01:08,110
+informe o preço. Se o preço varia, use o
+texto de valor, por exemplo, a partir de
+
+52
+00:01:08,110 --> 00:01:08,120
+texto de valor, por exemplo, a partir de
+ 
+
+53
+00:01:08,120 --> 00:01:10,990
+texto de valor, por exemplo, a partir de
+1.800 reais o metro quadrado. Quando
+
+54
+00:01:10,990 --> 00:01:11,000
+1.800 reais o metro quadrado. Quando
+ 
+
+55
+00:01:11,000 --> 00:01:13,630
+1.800 reais o metro quadrado. Quando
+preenchido, é ele que aparece no site.
+
+56
+00:01:13,630 --> 00:01:13,640
+preenchido, é ele que aparece no site.
+ 
+
+57
+00:01:13,640 --> 00:01:16,630
+preenchido, é ele que aparece no site.
+Há ainda dois campos opcionais: duração,
+
+58
+00:01:16,630 --> 00:01:16,640
+Há ainda dois campos opcionais: duração,
+ 
+
+59
+00:01:16,640 --> 00:01:19,950
+Há ainda dois campos opcionais: duração,
+como 30 a 90 dias, e detalhe, como a
+
+60
+00:01:19,950 --> 00:01:19,960
+como 30 a 90 dias, e detalhe, como a
+ 
+
+61
+00:01:19,960 --> 00:01:22,590
+como 30 a 90 dias, e detalhe, como a
+partir de 30 metros quadrados. E você
+
+62
+00:01:22,590 --> 00:01:22,600
+partir de 30 metros quadrados. E você
+ 
+
+63
+00:01:22,600 --> 00:01:24,790
+partir de 30 metros quadrados. E você
+pode escolher um ícone para o serviço.
+
+64
+00:01:24,790 --> 00:01:24,800
+pode escolher um ícone para o serviço.
+ 
+
+65
+00:01:24,800 --> 00:01:27,270
+pode escolher um ícone para o serviço.
+Clique em salvar serviço. Para mudar um
+
+66
+00:01:27,270 --> 00:01:27,280
+Clique em salvar serviço. Para mudar um
+ 
+
+67
+00:01:27,280 --> 00:01:29,910
+Clique em salvar serviço. Para mudar um
+serviço existente, clique em editar.
+
+68
+00:01:29,910 --> 00:01:29,920
+serviço existente, clique em editar.
+ 
+
+69
+00:01:29,920 --> 00:01:32,390
+serviço existente, clique em editar.
+Veja a consulta cardiologista, com valor
+
+70
+00:01:32,390 --> 00:01:32,400
+Veja a consulta cardiologista, com valor
+ 
+
+71
+00:01:32,400 --> 00:01:35,230
+Veja a consulta cardiologista, com valor
+de 70 reais. No portal, a página da
+
+72
+00:01:35,230 --> 00:01:35,240
+de 70 reais. No portal, a página da
+ 
+
+73
+00:01:35,240 --> 00:01:37,030
+de 70 reais. No portal, a página da
+empresa ganha o bloco serviços
+
+74
+00:01:37,030 --> 00:01:37,040
+empresa ganha o bloco serviços
+ 
+
+75
+00:01:37,040 --> 00:01:39,710
+empresa ganha o bloco serviços
+oferecidos, organizado pelas seções, com
+
+76
+00:01:39,710 --> 00:01:39,720
+oferecidos, organizado pelas seções, com
+ 
+
+77
+00:01:39,720 --> 00:01:41,830
+oferecidos, organizado pelas seções, com
+o preço de cada serviço e o botão
+
+78
+00:01:41,830 --> 00:01:41,840
+o preço de cada serviço e o botão
+ 
+
+79
+00:01:41,840 --> 00:01:44,430
+o preço de cada serviço e o botão
+agendar, que abre o WhatsApp da empresa.
+
+80
+00:01:44,430 --> 00:01:44,440
+agendar, que abre o WhatsApp da empresa.
+ 
+
+81
+00:01:44,440 --> 00:01:46,350
+agendar, que abre o WhatsApp da empresa.
+E o botão ver tabela completa de
+
+82
+00:01:46,350 --> 00:01:46,360
+E o botão ver tabela completa de
+ 
+
+83
+00:01:46,360 --> 00:01:48,550
+E o botão ver tabela completa de
+serviços abre uma página só com os
+
+84
+00:01:48,550 --> 00:01:48,560
+serviços abre uma página só com os
+ 
+
+85
+00:01:48,560 --> 00:01:50,750
+serviços abre uma página só com os
+serviços, ao lado do contato, do
+
+86
+00:01:50,750 --> 00:01:50,760
+serviços, ao lado do contato, do
+ 
+
+87
+00:01:50,760 --> 00:01:53,230
+serviços, ao lado do contato, do
+endereço e do horário de funcionamento.
+
+88
+00:01:53,230 --> 00:01:53,240
+endereço e do horário de funcionamento.
+ 
+
+89
+00:01:53,240 --> 00:01:55,670
+endereço e do horário de funcionamento.
+Pronto. Com os serviços e preços claros,
+
+90
+00:01:55,670 --> 00:01:55,680
+Pronto. Com os serviços e preços claros,
+ 
+
+91
+00:01:55,680 --> 00:01:57,950
+Pronto. Com os serviços e preços claros,
+o cliente já chega sabendo o que quer e
+
+92
+00:01:57,950 --> 00:01:57,960
+o cliente já chega sabendo o que quer e
+ 
+
+93
+00:01:57,960 --> 00:02:01,680
+o cliente já chega sabendo o que quer e
+agenda direto pelo WhatsApp.
+

@@ -1,0 +1,385 @@
+1
+00:00:00,000 --> 00:00:02,110
+ 
+Neste vídeo, você vai criar a página de
+
+2
+00:00:02,110 --> 00:00:02,120
+Neste vídeo, você vai criar a página de
+ 
+
+3
+00:00:02,120 --> 00:00:04,790
+Neste vídeo, você vai criar a página de
+serviços da sua empresa. O que você faz,
+
+4
+00:00:04,790 --> 00:00:04,800
+serviços da sua empresa. O que você faz,
+ 
+
+5
+00:00:04,800 --> 00:00:07,430
+serviços da sua empresa. O que você faz,
+quanto custa e quanto tempo leva. Ela
+
+6
+00:00:07,430 --> 00:00:07,440
+quanto custa e quanto tempo leva. Ela
+ 
+
+7
+00:00:07,440 --> 00:00:10,070
+quanto custa e quanto tempo leva. Ela
+vale para qualquer categoria do guia. Na
+
+8
+00:00:10,070 --> 00:00:10,080
+vale para qualquer categoria do guia. Na
+ 
+
+9
+00:00:10,080 --> 00:00:12,470
+vale para qualquer categoria do guia. Na
+sua área, clique em guia comercial e
+
+10
+00:00:12,470 --> 00:00:12,480
+sua área, clique em guia comercial e
+ 
+
+11
+00:00:12,480 --> 00:00:14,910
+sua área, clique em guia comercial e
+role até páginas da sua empresa. No
+
+12
+00:00:14,910 --> 00:00:14,920
+role até páginas da sua empresa. No
+ 
+
+13
+00:00:14,920 --> 00:00:18,030
+role até páginas da sua empresa. No
+cartão serviços, clique em começar. Abre
+
+14
+00:00:18,030 --> 00:00:18,040
+cartão serviços, clique em começar. Abre
+ 
+
+15
+00:00:18,040 --> 00:00:21,070
+cartão serviços, clique em começar. Abre
+a tela gerenciar serviços. Os serviços
+
+16
+00:00:21,070 --> 00:00:21,080
+a tela gerenciar serviços. Os serviços
+ 
+
+17
+00:00:21,080 --> 00:00:23,670
+a tela gerenciar serviços. Os serviços
+ficam organizados em seções. Clique em
+
+18
+00:00:23,670 --> 00:00:23,680
+ficam organizados em seções. Clique em
+ 
+
+19
+00:00:23,680 --> 00:00:26,670
+ficam organizados em seções. Clique em
+nova seção. Digite o nome da seção, como
+
+20
+00:00:26,670 --> 00:00:26,680
+nova seção. Digite o nome da seção, como
+ 
+
+21
+00:00:26,680 --> 00:00:29,270
+nova seção. Digite o nome da seção, como
+instalações ou manutenção e clique em
+
+22
+00:00:29,270 --> 00:00:29,280
+instalações ou manutenção e clique em
+ 
+
+23
+00:00:29,280 --> 00:00:32,390
+instalações ou manutenção e clique em
+salvar. Agora, clique em novo serviço.
+
+24
+00:00:32,390 --> 00:00:32,400
+salvar. Agora, clique em novo serviço.
+ 
+
+25
+00:00:32,400 --> 00:00:34,230
+salvar. Agora, clique em novo serviço.
+Escreva o nome do serviço e uma
+
+26
+00:00:34,230 --> 00:00:34,240
+Escreva o nome do serviço e uma
+ 
+
+27
+00:00:34,240 --> 00:00:36,230
+Escreva o nome do serviço e uma
+descrição do que está incluído. Em
+
+28
+00:00:36,230 --> 00:00:36,240
+descrição do que está incluído. Em
+ 
+
+29
+00:00:36,240 --> 00:00:38,910
+descrição do que está incluído. Em
+preço, coloque o valor fixo. Se o preço
+
+30
+00:00:38,910 --> 00:00:38,920
+preço, coloque o valor fixo. Se o preço
+ 
+
+31
+00:00:38,920 --> 00:00:41,830
+preço, coloque o valor fixo. Se o preço
+varia, use preço em texto, por exemplo,
+
+32
+00:00:41,830 --> 00:00:41,840
+varia, use preço em texto, por exemplo,
+ 
+
+33
+00:00:41,840 --> 00:00:44,710
+varia, use preço em texto, por exemplo,
+a partir de 150 reais ou sobre
+
+34
+00:00:44,710 --> 00:00:44,720
+a partir de 150 reais ou sobre
+ 
+
+35
+00:00:44,720 --> 00:00:47,430
+a partir de 150 reais ou sobre
+orçamento. Em duração, informe quanto
+
+36
+00:00:47,430 --> 00:00:47,440
+orçamento. Em duração, informe quanto
+ 
+
+37
+00:00:47,440 --> 00:00:49,910
+orçamento. Em duração, informe quanto
+tempo o serviço leva e em detalhe, uma
+
+38
+00:00:49,910 --> 00:00:49,920
+tempo o serviço leva e em detalhe, uma
+ 
+
+39
+00:00:49,920 --> 00:00:51,870
+tempo o serviço leva e em detalhe, uma
+informação extra, como o teste de
+
+40
+00:00:51,870 --> 00:00:51,880
+informação extra, como o teste de
+ 
+
+41
+00:00:51,880 --> 00:00:54,310
+informação extra, como o teste de
+segurança incluso. Em ícone, clique no
+
+42
+00:00:54,310 --> 00:00:54,320
+segurança incluso. Em ícone, clique no
+ 
+
+43
+00:00:54,320 --> 00:00:56,590
+segurança incluso. Em ícone, clique no
+quadrado e busque um ícone pelo nome,
+
+44
+00:00:56,590 --> 00:00:56,600
+quadrado e busque um ícone pelo nome,
+ 
+
+45
+00:00:56,600 --> 00:00:59,150
+quadrado e busque um ícone pelo nome,
+como raio, tomada ou lâmpada. Ele
+
+46
+00:00:59,150 --> 00:00:59,160
+como raio, tomada ou lâmpada. Ele
+ 
+
+47
+00:00:59,160 --> 00:01:01,430
+como raio, tomada ou lâmpada. Ele
+aparece ao lado do serviço. Confira a
+
+48
+00:01:01,430 --> 00:01:01,440
+aparece ao lado do serviço. Confira a
+ 
+
+49
+00:01:01,440 --> 00:01:04,430
+aparece ao lado do serviço. Confira a
+seção, deixe publicado no site ligado e
+
+50
+00:01:04,430 --> 00:01:04,440
+seção, deixe publicado no site ligado e
+ 
+
+51
+00:01:04,440 --> 00:01:07,150
+seção, deixe publicado no site ligado e
+clique em salvar. Pronto. Cada seção
+
+52
+00:01:07,150 --> 00:01:07,160
+clique em salvar. Pronto. Cada seção
+ 
+
+53
+00:01:07,160 --> 00:01:09,670
+clique em salvar. Pronto. Cada seção
+mostra os seus serviços com o preço, a
+
+54
+00:01:09,670 --> 00:01:09,680
+mostra os seus serviços com o preço, a
+ 
+
+55
+00:01:09,680 --> 00:01:12,190
+mostra os seus serviços com o preço, a
+chave para publicar ou tirar do ar e os
+
+56
+00:01:12,190 --> 00:01:12,200
+chave para publicar ou tirar do ar e os
+ 
+
+57
+00:01:12,200 --> 00:01:15,390
+chave para publicar ou tirar do ar e os
+botões editar e excluir. No portal, a
+
+58
+00:01:15,390 --> 00:01:15,400
+botões editar e excluir. No portal, a
+ 
+
+59
+00:01:15,400 --> 00:01:17,870
+botões editar e excluir. No portal, a
+página de serviços mostra cada seção com
+
+60
+00:01:17,870 --> 00:01:17,880
+página de serviços mostra cada seção com
+ 
+
+61
+00:01:17,880 --> 00:01:21,190
+página de serviços mostra cada seção com
+os serviços, o ícone, o preço, a duração
+
+62
+00:01:21,190 --> 00:01:21,200
+os serviços, o ícone, o preço, a duração
+ 
+
+63
+00:01:21,200 --> 00:01:23,430
+os serviços, o ícone, o preço, a duração
+e os detalhes. E cada serviço tem o
+
+64
+00:01:23,430 --> 00:01:23,440
+e os detalhes. E cada serviço tem o
+ 
+
+65
+00:01:23,440 --> 00:01:25,830
+e os detalhes. E cada serviço tem o
+botão agendar, que abre uma conversa com
+
+66
+00:01:25,830 --> 00:01:25,840
+botão agendar, que abre uma conversa com
+ 
+
+67
+00:01:25,840 --> 00:01:28,590
+botão agendar, que abre uma conversa com
+você pelo WhatsApp. No celular, a ficha
+
+68
+00:01:28,590 --> 00:01:28,600
+você pelo WhatsApp. No celular, a ficha
+ 
+
+69
+00:01:28,600 --> 00:01:31,230
+você pelo WhatsApp. No celular, a ficha
+ganha aba serviços e o cliente vê tudo
+
+70
+00:01:31,230 --> 00:01:31,240
+ganha aba serviços e o cliente vê tudo
+ 
+
+71
+00:01:31,240 --> 00:01:33,430
+ganha aba serviços e o cliente vê tudo
+com um toque. Pronto. Mantenha os
+
+72
+00:01:33,430 --> 00:01:33,440
+com um toque. Pronto. Mantenha os
+ 
+
+73
+00:01:33,440 --> 00:01:35,590
+com um toque. Pronto. Mantenha os
+serviços e os preços atualizados para
+
+74
+00:01:35,590 --> 00:01:35,600
+serviços e os preços atualizados para
+ 
+
+75
+00:01:35,600 --> 00:01:37,550
+serviços e os preços atualizados para
+receber clientes que já sabem o que
+
+76
+00:01:37,550 --> 00:01:37,560
+receber clientes que já sabem o que
+ 
+
+77
+00:01:37,560 --> 00:01:40,360
+receber clientes que já sabem o que
+querem contratar.
+

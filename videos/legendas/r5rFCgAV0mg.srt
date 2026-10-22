@@ -1,0 +1,475 @@
+1
+00:00:00,000 --> 00:00:01,990
+ 
+Com as notícias automáticas, o seu
+
+2
+00:00:01,990 --> 00:00:02,000
+Com as notícias automáticas, o seu
+ 
+
+3
+00:00:02,000 --> 00:00:04,310
+Com as notícias automáticas, o seu
+portal publica notícias novas todos os
+
+4
+00:00:04,310 --> 00:00:04,320
+portal publica notícias novas todos os
+ 
+
+5
+00:00:04,320 --> 00:00:06,710
+portal publica notícias novas todos os
+dias, sozinho, sem você precisar
+
+6
+00:00:06,710 --> 00:00:06,720
+dias, sozinho, sem você precisar
+ 
+
+7
+00:00:06,720 --> 00:00:09,750
+dias, sozinho, sem você precisar
+escrever nada. No painel, abra notícias
+
+8
+00:00:09,750 --> 00:00:09,760
+escrever nada. No painel, abra notícias
+ 
+
+9
+00:00:09,760 --> 00:00:13,190
+escrever nada. No painel, abra notícias
+automáticas e clique em fontes de RSS.
+
+10
+00:00:13,190 --> 00:00:13,200
+automáticas e clique em fontes de RSS.
+ 
+
+11
+00:00:13,200 --> 00:00:15,430
+automáticas e clique em fontes de RSS.
+Aqui ficam todas as fontes ligadas ao
+
+12
+00:00:15,430 --> 00:00:15,440
+Aqui ficam todas as fontes ligadas ao
+ 
+
+13
+00:00:15,440 --> 00:00:17,790
+Aqui ficam todas as fontes ligadas ao
+seu portal, com a última atualização e o
+
+14
+00:00:17,790 --> 00:00:17,800
+seu portal, com a última atualização e o
+ 
+
+15
+00:00:17,800 --> 00:00:20,070
+seu portal, com a última atualização e o
+botão de ligar ou desligar. Para
+
+16
+00:00:20,070 --> 00:00:20,080
+botão de ligar ou desligar. Para
+ 
+
+17
+00:00:20,080 --> 00:00:22,670
+botão de ligar ou desligar. Para
+adicionar uma fonte, clique em cadastrar
+
+18
+00:00:22,670 --> 00:00:22,680
+adicionar uma fonte, clique em cadastrar
+ 
+
+19
+00:00:22,680 --> 00:00:25,910
+adicionar uma fonte, clique em cadastrar
+RSS. Repare no aviso: as automações
+
+20
+00:00:25,910 --> 00:00:25,920
+RSS. Repare no aviso: as automações
+ 
+
+21
+00:00:25,920 --> 00:00:28,470
+RSS. Repare no aviso: as automações
+padrão são as do portal G1, o maior
+
+22
+00:00:28,470 --> 00:00:28,480
+padrão são as do portal G1, o maior
+ 
+
+23
+00:00:28,480 --> 00:00:30,390
+padrão são as do portal G1, o maior
+portal de notícias do Brasil. As
+
+24
+00:00:30,390 --> 00:00:30,400
+portal de notícias do Brasil. As
+ 
+
+25
+00:00:30,400 --> 00:00:33,030
+portal de notícias do Brasil. As
+conexões já estão prontas, é só marcar.
+
+26
+00:00:33,030 --> 00:00:33,040
+conexões já estão prontas, é só marcar.
+ 
+
+27
+00:00:33,040 --> 00:00:35,470
+conexões já estão prontas, é só marcar.
+Atenção a este ponto importante: as
+
+28
+00:00:35,470 --> 00:00:35,480
+Atenção a este ponto importante: as
+ 
+
+29
+00:00:35,480 --> 00:00:37,950
+Atenção a este ponto importante: as
+primeiras opções, as categorias globais,
+
+30
+00:00:37,950 --> 00:00:37,960
+primeiras opções, as categorias globais,
+ 
+
+31
+00:00:37,960 --> 00:00:40,830
+primeiras opções, as categorias globais,
+não pegam notícias por região. Brasil,
+
+32
+00:00:40,830 --> 00:00:40,840
+não pegam notícias por região. Brasil,
+ 
+
+33
+00:00:40,840 --> 00:00:44,270
+não pegam notícias por região. Brasil,
+economia, política, tecnologia, carros,
+
+34
+00:00:44,270 --> 00:00:44,280
+economia, política, tecnologia, carros,
+ 
+
+35
+00:00:44,280 --> 00:00:46,630
+economia, política, tecnologia, carros,
+são notícias nacionais ou do mundo,
+
+36
+00:00:46,630 --> 00:00:46,640
+são notícias nacionais ou do mundo,
+ 
+
+37
+00:00:46,640 --> 00:00:48,990
+são notícias nacionais ou do mundo,
+iguais para qualquer cidade. Se você
+
+38
+00:00:48,990 --> 00:00:49,000
+iguais para qualquer cidade. Se você
+ 
+
+39
+00:00:49,000 --> 00:00:51,510
+iguais para qualquer cidade. Se você
+quer notícias da sua região, desça até
+
+40
+00:00:51,510 --> 00:00:51,520
+quer notícias da sua região, desça até
+ 
+
+41
+00:00:51,520 --> 00:00:54,110
+quer notícias da sua região, desça até
+notícias regionais. Aqui você escolhe o
+
+42
+00:00:54,110 --> 00:00:54,120
+notícias regionais. Aqui você escolhe o
+ 
+
+43
+00:00:54,120 --> 00:00:56,710
+notícias regionais. Aqui você escolhe o
+seu estado ou uma região dentro dele e o
+
+44
+00:00:56,710 --> 00:00:56,720
+seu estado ou uma região dentro dele e o
+ 
+
+45
+00:00:56,720 --> 00:00:58,670
+seu estado ou uma região dentro dele e o
+sistema busca as notícias publicadas
+
+46
+00:00:58,670 --> 00:00:58,680
+sistema busca as notícias publicadas
+ 
+
+47
+00:00:58,680 --> 00:01:00,990
+sistema busca as notícias publicadas
+pelo G1 daquela região. No nosso
+
+48
+00:01:00,990 --> 00:01:01,000
+pelo G1 daquela região. No nosso
+ 
+
+49
+00:01:01,000 --> 00:01:02,990
+pelo G1 daquela região. No nosso
+exemplo, o Espírito Santo já está
+
+50
+00:01:02,990 --> 00:01:03,000
+exemplo, o Espírito Santo já está
+ 
+
+51
+00:01:03,000 --> 00:01:05,630
+exemplo, o Espírito Santo já está
+cadastrado. Marque as opções desejadas e
+
+52
+00:01:05,630 --> 00:01:05,640
+cadastrado. Marque as opções desejadas e
+ 
+
+53
+00:01:05,640 --> 00:01:08,590
+cadastrado. Marque as opções desejadas e
+confirme. Uma dica: use sempre as fontes
+
+54
+00:01:08,590 --> 00:01:08,600
+confirme. Uma dica: use sempre as fontes
+ 
+
+55
+00:01:08,600 --> 00:01:10,910
+confirme. Uma dica: use sempre as fontes
+da lista. Evite colar endereços de
+
+56
+00:01:10,910 --> 00:01:10,920
+da lista. Evite colar endereços de
+ 
+
+57
+00:01:10,920 --> 00:01:13,350
+da lista. Evite colar endereços de
+outros sites de RSS, porque eles podem
+
+58
+00:01:13,350 --> 00:01:13,360
+outros sites de RSS, porque eles podem
+ 
+
+59
+00:01:13,360 --> 00:01:15,830
+outros sites de RSS, porque eles podem
+dar problema na importação. Depois,
+
+60
+00:01:15,830 --> 00:01:15,840
+dar problema na importação. Depois,
+ 
+
+61
+00:01:15,840 --> 00:01:18,310
+dar problema na importação. Depois,
+clique no lápis para ajustar a fonte. Em
+
+62
+00:01:18,310 --> 00:01:18,320
+clique no lápis para ajustar a fonte. Em
+ 
+
+63
+00:01:18,320 --> 00:01:20,830
+clique no lápis para ajustar a fonte. Em
+status, ligue a fonte para ela começar a
+
+64
+00:01:20,830 --> 00:01:20,840
+status, ligue a fonte para ela começar a
+ 
+
+65
+00:01:20,840 --> 00:01:22,990
+status, ligue a fonte para ela começar a
+trabalhar. Escolha quantas notícias
+
+66
+00:01:22,990 --> 00:01:23,000
+trabalhar. Escolha quantas notícias
+ 
+
+67
+00:01:23,000 --> 00:01:25,670
+trabalhar. Escolha quantas notícias
+entram por vez e marque publicar direto
+
+68
+00:01:25,670 --> 00:01:25,680
+entram por vez e marque publicar direto
+ 
+
+69
+00:01:25,680 --> 00:01:28,310
+entram por vez e marque publicar direto
+no site para elas irem ao ar sozinhas.
+
+70
+00:01:28,310 --> 00:01:28,320
+no site para elas irem ao ar sozinhas.
+ 
+
+71
+00:01:28,320 --> 00:01:30,510
+no site para elas irem ao ar sozinhas.
+Desmarcado, elas ficam como rascunho
+
+72
+00:01:30,510 --> 00:01:30,520
+Desmarcado, elas ficam como rascunho
+ 
+
+73
+00:01:30,520 --> 00:01:32,590
+Desmarcado, elas ficam como rascunho
+para você revisar. O portal busca
+
+74
+00:01:32,590 --> 00:01:32,600
+para você revisar. O portal busca
+ 
+
+75
+00:01:32,600 --> 00:01:34,830
+para você revisar. O portal busca
+novidades às 7:00 da manhã e às 7:00 da
+
+76
+00:01:34,830 --> 00:01:34,840
+novidades às 7:00 da manhã e às 7:00 da
+ 
+
+77
+00:01:34,840 --> 00:01:37,350
+novidades às 7:00 da manhã e às 7:00 da
+noite todos os dias. E o resultado
+
+78
+00:01:37,350 --> 00:01:37,360
+noite todos os dias. E o resultado
+ 
+
+79
+00:01:37,360 --> 00:01:39,790
+noite todos os dias. E o resultado
+aparece no site. Veja no nosso portal de
+
+80
+00:01:39,790 --> 00:01:39,800
+aparece no site. Veja no nosso portal de
+ 
+
+81
+00:01:39,800 --> 00:01:42,350
+aparece no site. Veja no nosso portal de
+exemplo, a página de notícias já cheia
+
+82
+00:01:42,350 --> 00:01:42,360
+exemplo, a página de notícias já cheia
+ 
+
+83
+00:01:42,360 --> 00:01:44,910
+exemplo, a página de notícias já cheia
+de matérias importadas automaticamente.
+
+84
+00:01:44,910 --> 00:01:44,920
+de matérias importadas automaticamente.
+ 
+
+85
+00:01:44,920 --> 00:01:47,230
+de matérias importadas automaticamente.
+Cada notícia ganha sua própria página,
+
+86
+00:01:47,230 --> 00:01:47,240
+Cada notícia ganha sua própria página,
+ 
+
+87
+00:01:47,240 --> 00:01:50,470
+Cada notícia ganha sua própria página,
+com título, resumo, foto e as últimas e
+
+88
+00:01:50,470 --> 00:01:50,480
+com título, resumo, foto e as últimas e
+ 
+
+89
+00:01:50,480 --> 00:01:52,750
+com título, resumo, foto e as últimas e
+destaques ao lado. Pronto, escolha as
+
+90
+00:01:52,750 --> 00:01:52,760
+destaques ao lado. Pronto, escolha as
+ 
+
+91
+00:01:52,760 --> 00:01:55,110
+destaques ao lado. Pronto, escolha as
+categorias, adicione a sua região e
+
+92
+00:01:55,110 --> 00:01:55,120
+categorias, adicione a sua região e
+ 
+
+93
+00:01:55,120 --> 00:01:57,430
+categorias, adicione a sua região e
+deixe o portal sempre atualizado sem
+
+94
+00:01:57,430 --> 00:01:57,440
+deixe o portal sempre atualizado sem
+ 
+
+95
+00:01:57,440 --> 00:02:00,000
+deixe o portal sempre atualizado sem
+esforço.
+

@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - wukhVMFEHWg
@@ -33,7 +33,7 @@ aqui você muda a situação de uma empresa do Guia: pendente, ativo, inativo, b
 6. Confira na lista se a situação mudou. [guia=guia-empresas.status-linha]
 
 ## resultado
-A nova situação aparece na lista.
+A nova situação aparece na lista. só empresas ativas aparecem no site.
 
 ## desvios
 

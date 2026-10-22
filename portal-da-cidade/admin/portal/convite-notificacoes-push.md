@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - -ZLL7Cqwcok
@@ -24,7 +24,7 @@ aqui você escolhe se o site pergunta aos visitantes se eles querem receber avis
 ## passos
 
 1. No menu da esquerda, na parte `Sistema`, clique em `Notificações Push`. [guia=menu:/painel/notificacoes]
-2. Para o site perguntar aos visitantes se querem receber avisos, marque a opção `Convidar visitantes a receber notificações`. Não precisa salvar: muda na hora. [guia=notificacoes.convidar]
+2. Para o site perguntar aos visitantes se querem receber avisos, marque a opção `Convidar visitantes a receber notificações`. Não precisa salvar: muda na hora. O convite pode aparecer já na primeira página que o visitante abre, depois dos convites do aplicativo e do WhatsApp, e nunca nas áreas logadas (painel, minha conta). Se ele recusar, o convite volta depois de 5 dias. [guia=notificacoes.convidar]
 
 ## resultado
 O site passa a convidar (ou deixa de convidar) os visitantes. Não precisa salvar.

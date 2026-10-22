@@ -1,0 +1,165 @@
+1
+00:00:00,000 --> 00:00:01,830
+ 
+No topo, você escolhe a cara do
+
+2
+00:00:01,830 --> 00:00:01,840
+No topo, você escolhe a cara do
+ 
+
+3
+00:00:01,840 --> 00:00:04,630
+No topo, você escolhe a cara do
+cabeçalho do seu portal. Veja como: no
+
+4
+00:00:04,630 --> 00:00:04,640
+cabeçalho do seu portal. Veja como: no
+ 
+
+5
+00:00:04,640 --> 00:00:07,550
+cabeçalho do seu portal. Veja como: no
+menu lateral, abra configurações, clique
+
+6
+00:00:07,550 --> 00:00:07,560
+menu lateral, abra configurações, clique
+ 
+
+7
+00:00:07,560 --> 00:00:10,830
+menu lateral, abra configurações, clique
+em layout e depois em topo. Primeiro,
+
+8
+00:00:10,830 --> 00:00:10,840
+em layout e depois em topo. Primeiro,
+ 
+
+9
+00:00:10,840 --> 00:00:13,310
+em layout e depois em topo. Primeiro,
+escolha o modelo do cabeçalho. São cinco
+
+10
+00:00:13,310 --> 00:00:13,320
+escolha o modelo do cabeçalho. São cinco
+ 
+
+11
+00:00:13,320 --> 00:00:15,550
+escolha o modelo do cabeçalho. São cinco
+opções, inclusive uma com a previsão do
+
+12
+00:00:15,550 --> 00:00:15,560
+opções, inclusive uma com a previsão do
+ 
+
+13
+00:00:15,560 --> 00:00:18,310
+opções, inclusive uma com a previsão do
+tempo. Depois, o tamanho da logo:
+
+14
+00:00:18,310 --> 00:00:18,320
+tempo. Depois, o tamanho da logo:
+ 
+
+15
+00:00:18,320 --> 00:00:21,470
+tempo. Depois, o tamanho da logo:
+pequena, média ou grande. Em cores,
+
+16
+00:00:21,470 --> 00:00:21,480
+pequena, média ou grande. Em cores,
+ 
+
+17
+00:00:21,480 --> 00:00:23,590
+pequena, média ou grande. Em cores,
+defina a barra superior, a barra de
+
+18
+00:00:23,590 --> 00:00:23,600
+defina a barra superior, a barra de
+ 
+
+19
+00:00:23,600 --> 00:00:26,470
+defina a barra superior, a barra de
+navegação e os links com cor sólida ou
+
+20
+00:00:26,470 --> 00:00:26,480
+navegação e os links com cor sólida ou
+ 
+
+21
+00:00:26,480 --> 00:00:28,750
+navegação e os links com cor sólida ou
+gradiente. A prévia ao lado mostra o
+
+22
+00:00:28,750 --> 00:00:28,760
+gradiente. A prévia ao lado mostra o
+ 
+
+23
+00:00:28,760 --> 00:00:31,510
+gradiente. A prévia ao lado mostra o
+resultado na hora. Antes de publicar. Em
+
+24
+00:00:31,510 --> 00:00:31,520
+resultado na hora. Antes de publicar. Em
+ 
+
+25
+00:00:31,520 --> 00:00:34,070
+resultado na hora. Antes de publicar. Em
+ordem do menu, arraste ou use as setas
+
+26
+00:00:34,070 --> 00:00:34,080
+ordem do menu, arraste ou use as setas
+ 
+
+27
+00:00:34,080 --> 00:00:36,390
+ordem do menu, arraste ou use as setas
+para mudar a posição de cada seção.
+
+28
+00:00:36,390 --> 00:00:36,400
+para mudar a posição de cada seção.
+ 
+
+29
+00:00:36,400 --> 00:00:39,150
+para mudar a posição de cada seção.
+Clique em salvar topo e o novo cabeçalho
+
+30
+00:00:39,150 --> 00:00:39,160
+Clique em salvar topo e o novo cabeçalho
+ 
+
+31
+00:00:39,160 --> 00:00:41,990
+Clique em salvar topo e o novo cabeçalho
+aparece em todo o site. Pronto, o topo
+
+32
+00:00:41,990 --> 00:00:42,000
+aparece em todo o site. Pronto, o topo
+ 
+
+33
+00:00:42,000 --> 00:00:45,840
+aparece em todo o site. Pronto, o topo
+do seu portal está com a sua cara.
+

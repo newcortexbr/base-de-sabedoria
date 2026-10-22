@@ -31,14 +31,19 @@ Entrar no painel como administrador, com o módulo de eventos ativo no portal.
 3. Escreva o `Título *` do evento. [guia=eventos.titulo]
 4. Escolha a `Data *` do evento. [guia=eventos.data]
 5. Escreva o `Horário`, por exemplo "19h00 às 23h00". [guia=eventos.horario]
-6. Preencha o local, o CEP, a cidade, a categoria, o `Organizador` e os outros campos que aparecem. [guia=eventos.local]
-7. Na parte `Galeria de fotos e vídeos`, clique em `+ Adicionar fotos` para enviar as fotos. [guia=galeria.adicionar-fotos]
-8. Role a página até o fim e clique em `Salvar`. Sem este clique, o evento não é gravado. [guia=eventos.salvar]
+6. Preencha o local, o CEP, a cidade, a categoria, o `Organizador`, o preço, o link de ingresso, o WhatsApp, a descrição e a programação. [guia=eventos.local]
+7. Envie a foto de capa do evento, além da galeria.
+8. Na parte `Galeria de fotos e vídeos`, clique em `+ Adicionar fotos` para enviar as fotos. [guia=galeria.adicionar-fotos]
+9. Role a página até o fim e clique em `Salvar`. Sem este clique, o evento não é gravado. [guia=eventos.salvar]
 
 ## resultado
 evento ativo permanece no ar segundo as datas reconhecidas pelo servidor; depois de vencido, sai do ar. Destaques e filtros públicos fazem parte do produto, mas a exibição depende também da configuração e da vigência.
 
 ## desvios
+
+- A lista da agenda tem busca, filtros e abas de categorias e de organizadores.
+- Evento enviado por um cliente passa pela aprovação do administrador depois do pagamento.
+- Os planos de eventos (pacotes mensais ou pagamento único, com ou sem destaque) ficam em `Meus planos`; este artigo não cobre essa tela.
 
 - Para pôr um vídeo do YouTube na galeria, veja "colocar um vídeo do YouTube na galeria".
 - Ativo não significa necessariamente no ar: a data pode ter encerrado a vigência.

@@ -1,0 +1,815 @@
+1
+00:00:00,000 --> 00:00:01,910
+ 
+Com o programa de parceiros, outras
+
+2
+00:00:01,910 --> 00:00:01,920
+Com o programa de parceiros, outras
+ 
+
+3
+00:00:01,920 --> 00:00:04,270
+Com o programa de parceiros, outras
+pessoas vendem o seu portal por você e
+
+4
+00:00:04,270 --> 00:00:04,280
+pessoas vendem o seu portal por você e
+ 
+
+5
+00:00:04,280 --> 00:00:06,110
+pessoas vendem o seu portal por você e
+ganham comissão por cada cliente que
+
+6
+00:00:06,110 --> 00:00:06,120
+ganham comissão por cada cliente que
+ 
+
+7
+00:00:06,120 --> 00:00:08,350
+ganham comissão por cada cliente que
+indicarem. No painel, clique em
+
+8
+00:00:08,350 --> 00:00:08,360
+indicarem. No painel, clique em
+ 
+
+9
+00:00:08,360 --> 00:00:11,230
+indicarem. No painel, clique em
+parceiros, no grupo comercial. No topo,
+
+10
+00:00:11,230 --> 00:00:11,240
+parceiros, no grupo comercial. No topo,
+ 
+
+11
+00:00:11,240 --> 00:00:13,110
+parceiros, no grupo comercial. No topo,
+você vê que o programa está ligado e
+
+12
+00:00:13,110 --> 00:00:13,120
+você vê que o programa está ligado e
+ 
+
+13
+00:00:13,120 --> 00:00:15,510
+você vê que o programa está ligado e
+pode desligar quando quiser. Os cartões
+
+14
+00:00:15,510 --> 00:00:15,520
+pode desligar quando quiser. Os cartões
+ 
+
+15
+00:00:15,520 --> 00:00:17,990
+pode desligar quando quiser. Os cartões
+mostram quantos parceiros estão ativos,
+
+16
+00:00:17,990 --> 00:00:18,000
+mostram quantos parceiros estão ativos,
+ 
+
+17
+00:00:18,000 --> 00:00:20,070
+mostram quantos parceiros estão ativos,
+quantos clientes eles já indicaram,
+
+18
+00:00:20,070 --> 00:00:20,080
+quantos clientes eles já indicaram,
+ 
+
+19
+00:00:20,080 --> 00:00:22,390
+quantos clientes eles já indicaram,
+quanto você ainda precisa pagar por fora
+
+20
+00:00:22,390 --> 00:00:22,400
+quanto você ainda precisa pagar por fora
+ 
+
+21
+00:00:22,400 --> 00:00:25,070
+quanto você ainda precisa pagar por fora
+e quanto cai sozinho pelo Asaas. Em
+
+22
+00:00:25,070 --> 00:00:25,080
+e quanto cai sozinho pelo Asaas. Em
+ 
+
+23
+00:00:25,080 --> 00:00:27,510
+e quanto cai sozinho pelo Asaas. Em
+precisa da sua atenção, o portal avisa,
+
+24
+00:00:27,510 --> 00:00:27,520
+precisa da sua atenção, o portal avisa,
+ 
+
+25
+00:00:27,520 --> 00:00:29,590
+precisa da sua atenção, o portal avisa,
+por exemplo, quais parceiros ainda não
+
+26
+00:00:29,590 --> 00:00:29,600
+por exemplo, quais parceiros ainda não
+ 
+
+27
+00:00:29,600 --> 00:00:32,109
+por exemplo, quais parceiros ainda não
+informaram a carteira Asaas. Esses, você
+
+28
+00:00:32,109 --> 00:00:32,119
+informaram a carteira Asaas. Esses, você
+ 
+
+29
+00:00:32,119 --> 00:00:34,590
+informaram a carteira Asaas. Esses, você
+paga por fora. Em comissões para pagar
+
+30
+00:00:34,590 --> 00:00:34,600
+paga por fora. Em comissões para pagar
+ 
+
+31
+00:00:34,600 --> 00:00:37,110
+paga por fora. Em comissões para pagar
+por fora, aparecem os valores a pagar.
+
+32
+00:00:37,110 --> 00:00:37,120
+por fora, aparecem os valores a pagar.
+ 
+
+33
+00:00:37,120 --> 00:00:38,870
+por fora, aparecem os valores a pagar.
+Você paga o parceiro por Pix ou
+
+34
+00:00:38,870 --> 00:00:38,880
+Você paga o parceiro por Pix ou
+ 
+
+35
+00:00:38,880 --> 00:00:41,230
+Você paga o parceiro por Pix ou
+transferência e depois marca aqui como
+
+36
+00:00:41,230 --> 00:00:41,240
+transferência e depois marca aqui como
+ 
+
+37
+00:00:41,240 --> 00:00:44,110
+transferência e depois marca aqui como
+paga. Em ver todas as comissões, você
+
+38
+00:00:44,110 --> 00:00:44,120
+paga. Em ver todas as comissões, você
+ 
+
+39
+00:00:44,120 --> 00:00:46,150
+paga. Em ver todas as comissões, você
+separa o que é para pagar por fora, o
+
+40
+00:00:46,150 --> 00:00:46,160
+separa o que é para pagar por fora, o
+ 
+
+41
+00:00:46,160 --> 00:00:48,390
+separa o que é para pagar por fora, o
+que está caindo pelo Asaas e o que já
+
+42
+00:00:48,390 --> 00:00:48,400
+que está caindo pelo Asaas e o que já
+ 
+
+43
+00:00:48,400 --> 00:00:50,790
+que está caindo pelo Asaas e o que já
+foi pago, com filtro por parceiro e o
+
+44
+00:00:50,790 --> 00:00:50,800
+foi pago, com filtro por parceiro e o
+ 
+
+45
+00:00:50,800 --> 00:00:53,670
+foi pago, com filtro por parceiro e o
+extrato das pagas. Mais abaixo, em seus
+
+46
+00:00:53,670 --> 00:00:53,680
+extrato das pagas. Mais abaixo, em seus
+ 
+
+47
+00:00:53,680 --> 00:00:56,030
+extrato das pagas. Mais abaixo, em seus
+parceiros, fica a lista completa, com
+
+48
+00:00:56,030 --> 00:00:56,040
+parceiros, fica a lista completa, com
+ 
+
+49
+00:00:56,040 --> 00:00:58,470
+parceiros, fica a lista completa, com
+busca por nome, e-mail ou número e
+
+50
+00:00:58,470 --> 00:00:58,480
+busca por nome, e-mail ou número e
+ 
+
+51
+00:00:58,480 --> 00:01:00,950
+busca por nome, e-mail ou número e
+filtros por plano, forma de recebimento
+
+52
+00:01:00,950 --> 00:01:00,960
+filtros por plano, forma de recebimento
+ 
+
+53
+00:01:00,960 --> 00:01:03,710
+filtros por plano, forma de recebimento
+e situação. Cada linha mostra o plano,
+
+54
+00:01:03,710 --> 00:01:03,720
+e situação. Cada linha mostra o plano,
+ 
+
+55
+00:01:03,720 --> 00:01:05,750
+e situação. Cada linha mostra o plano,
+quantos clientes o parceiro trouxe e
+
+56
+00:01:05,750 --> 00:01:05,760
+quantos clientes o parceiro trouxe e
+ 
+
+57
+00:01:05,760 --> 00:01:08,070
+quantos clientes o parceiro trouxe e
+quanto ele tem a receber. Nos ícones da
+
+58
+00:01:08,070 --> 00:01:08,080
+quanto ele tem a receber. Nos ícones da
+ 
+
+59
+00:01:08,080 --> 00:01:10,430
+quanto ele tem a receber. Nos ícones da
+direita, você edita, troca a senha,
+
+60
+00:01:10,430 --> 00:01:10,440
+direita, você edita, troca a senha,
+ 
+
+61
+00:01:10,440 --> 00:01:12,990
+direita, você edita, troca a senha,
+desativa ou exclui o parceiro. Para
+
+62
+00:01:12,990 --> 00:01:13,000
+desativa ou exclui o parceiro. Para
+ 
+
+63
+00:01:13,000 --> 00:01:15,150
+desativa ou exclui o parceiro. Para
+cadastrar alguém, clique em novo
+
+64
+00:01:15,150 --> 00:01:15,160
+cadastrar alguém, clique em novo
+ 
+
+65
+00:01:15,160 --> 00:01:17,630
+cadastrar alguém, clique em novo
+parceiro. Preencha o nome, o e-mail de
+
+66
+00:01:17,630 --> 00:01:17,640
+parceiro. Preencha o nome, o e-mail de
+ 
+
+67
+00:01:17,640 --> 00:01:20,550
+parceiro. Preencha o nome, o e-mail de
+acesso, uma senha inicial, telefone e
+
+68
+00:01:20,550 --> 00:01:20,560
+acesso, uma senha inicial, telefone e
+ 
+
+69
+00:01:20,560 --> 00:01:23,150
+acesso, uma senha inicial, telefone e
+WhatsApp e escolha o plano. No lápis,
+
+70
+00:01:23,150 --> 00:01:23,160
+WhatsApp e escolha o plano. No lápis,
+ 
+
+71
+00:01:23,160 --> 00:01:25,430
+WhatsApp e escolha o plano. No lápis,
+você edita os dados e muda o parceiro de
+
+72
+00:01:25,430 --> 00:01:25,440
+você edita os dados e muda o parceiro de
+ 
+
+73
+00:01:25,440 --> 00:01:28,030
+você edita os dados e muda o parceiro de
+plano a qualquer momento. Agora, os
+
+74
+00:01:28,030 --> 00:01:28,040
+plano a qualquer momento. Agora, os
+ 
+
+75
+00:01:28,040 --> 00:01:30,550
+plano a qualquer momento. Agora, os
+planos de parceiro. São três planos e
+
+76
+00:01:30,550 --> 00:01:30,560
+planos de parceiro. São três planos e
+ 
+
+77
+00:01:30,560 --> 00:01:32,830
+planos de parceiro. São três planos e
+você decide quanto cada um custa e
+
+78
+00:01:32,830 --> 00:01:32,840
+você decide quanto cada um custa e
+ 
+
+79
+00:01:32,840 --> 00:01:34,830
+você decide quanto cada um custa e
+quanto o parceiro ganha na venda e nas
+
+80
+00:01:34,830 --> 00:01:34,840
+quanto o parceiro ganha na venda e nas
+ 
+
+81
+00:01:34,840 --> 00:01:37,910
+quanto o parceiro ganha na venda e nas
+renovações. O plano Start é o gratuito e
+
+82
+00:01:37,910 --> 00:01:37,920
+renovações. O plano Start é o gratuito e
+ 
+
+83
+00:01:37,920 --> 00:01:40,750
+renovações. O plano Start é o gratuito e
+é opcional. Pro e Premium são pagos.
+
+84
+00:01:40,750 --> 00:01:40,760
+é opcional. Pro e Premium são pagos.
+ 
+
+85
+00:01:40,760 --> 00:01:42,790
+é opcional. Pro e Premium são pagos.
+Quanto melhor o plano, maior pode ser a
+
+86
+00:01:42,790 --> 00:01:42,800
+Quanto melhor o plano, maior pode ser a
+ 
+
+87
+00:01:42,800 --> 00:01:45,430
+Quanto melhor o plano, maior pode ser a
+comissão. Clique em editar para ajustar
+
+88
+00:01:45,430 --> 00:01:45,440
+comissão. Clique em editar para ajustar
+ 
+
+89
+00:01:45,440 --> 00:01:48,190
+comissão. Clique em editar para ajustar
+o nome, a periodicidade, o valor, o
+
+90
+00:01:48,190 --> 00:01:48,200
+o nome, a periodicidade, o valor, o
+ 
+
+91
+00:01:48,200 --> 00:01:50,190
+o nome, a periodicidade, o valor, o
+percentual de venda e o percentual
+
+92
+00:01:50,190 --> 00:01:50,200
+percentual de venda e o percentual
+ 
+
+93
+00:01:50,200 --> 00:01:52,270
+percentual de venda e o percentual
+residual, que é o que o parceiro recebe
+
+94
+00:01:52,270 --> 00:01:52,280
+residual, que é o que o parceiro recebe
+ 
+
+95
+00:01:52,280 --> 00:01:54,830
+residual, que é o que o parceiro recebe
+todo mês enquanto o cliente renovar. E
+
+96
+00:01:54,830 --> 00:01:54,840
+todo mês enquanto o cliente renovar. E
+ 
+
+97
+00:01:54,840 --> 00:01:57,350
+todo mês enquanto o cliente renovar. E
+aqui vai uma ideia muito importante: o
+
+98
+00:01:57,350 --> 00:01:57,360
+aqui vai uma ideia muito importante: o
+ 
+
+99
+00:01:57,360 --> 00:01:59,870
+aqui vai uma ideia muito importante: o
+grupo de WhatsApp dos parceiros. Crie um
+
+100
+00:01:59,870 --> 00:01:59,880
+grupo de WhatsApp dos parceiros. Crie um
+ 
+
+101
+00:01:59,880 --> 00:02:01,550
+grupo de WhatsApp dos parceiros. Crie um
+grupo no WhatsApp só para os seus
+
+102
+00:02:01,550 --> 00:02:01,560
+grupo no WhatsApp só para os seus
+ 
+
+103
+00:02:01,560 --> 00:02:04,030
+grupo no WhatsApp só para os seus
+parceiros. Copie o link de convite e
+
+104
+00:02:04,030 --> 00:02:04,040
+parceiros. Copie o link de convite e
+ 
+
+105
+00:02:04,040 --> 00:02:07,070
+parceiros. Copie o link de convite e
+cole aqui. Clique em salvar e use testar
+
+106
+00:02:07,070 --> 00:02:07,080
+cole aqui. Clique em salvar e use testar
+ 
+
+107
+00:02:07,080 --> 00:02:09,230
+cole aqui. Clique em salvar e use testar
+link para conferir. Com o mostrar o
+
+108
+00:02:09,230 --> 00:02:09,240
+link para conferir. Com o mostrar o
+ 
+
+109
+00:02:09,240 --> 00:02:11,110
+link para conferir. Com o mostrar o
+botão para os parceiros marcado, o
+
+110
+00:02:11,110 --> 00:02:11,120
+botão para os parceiros marcado, o
+ 
+
+111
+00:02:11,120 --> 00:02:12,949
+botão para os parceiros marcado, o
+convite aparece no painel de cada
+
+112
+00:02:12,949 --> 00:02:12,959
+convite aparece no painel de cada
+ 
+
+113
+00:02:12,959 --> 00:02:15,310
+convite aparece no painel de cada
+parceiro. No grupo, você manda dicas de
+
+114
+00:02:15,310 --> 00:02:15,320
+parceiro. No grupo, você manda dicas de
+ 
+
+115
+00:02:15,320 --> 00:02:18,030
+parceiro. No grupo, você manda dicas de
+venda, novidades, promoções e avisos do
+
+116
+00:02:18,030 --> 00:02:18,040
+venda, novidades, promoções e avisos do
+ 
+
+117
+00:02:18,040 --> 00:02:20,270
+venda, novidades, promoções e avisos do
+portal e mantém a sua equipe de vendas
+
+118
+00:02:20,270 --> 00:02:20,280
+portal e mantém a sua equipe de vendas
+ 
+
+119
+00:02:20,280 --> 00:02:23,470
+portal e mantém a sua equipe de vendas
+animada e unida. Por fim, em como você
+
+120
+00:02:23,470 --> 00:02:23,480
+animada e unida. Por fim, em como você
+ 
+
+121
+00:02:23,480 --> 00:02:25,670
+animada e unida. Por fim, em como você
+paga os parceiros, ligue mandar a
+
+122
+00:02:25,670 --> 00:02:25,680
+paga os parceiros, ligue mandar a
+ 
+
+123
+00:02:25,680 --> 00:02:28,190
+paga os parceiros, ligue mandar a
+comissão direto pelo Asaas. Assim,
+
+124
+00:02:28,190 --> 00:02:28,200
+comissão direto pelo Asaas. Assim,
+ 
+
+125
+00:02:28,200 --> 00:02:30,350
+comissão direto pelo Asaas. Assim,
+quando o cliente paga pelo link, a parte
+
+126
+00:02:30,350 --> 00:02:30,360
+quando o cliente paga pelo link, a parte
+ 
+
+127
+00:02:30,360 --> 00:02:32,270
+quando o cliente paga pelo link, a parte
+do parceiro cai sozinha na carteira
+
+128
+00:02:32,270 --> 00:02:32,280
+do parceiro cai sozinha na carteira
+ 
+
+129
+00:02:32,280 --> 00:02:35,310
+do parceiro cai sozinha na carteira
+dele. Agora, veja o lado do parceiro. Ao
+
+130
+00:02:35,310 --> 00:02:35,320
+dele. Agora, veja o lado do parceiro. Ao
+ 
+
+131
+00:02:35,320 --> 00:02:37,230
+dele. Agora, veja o lado do parceiro. Ao
+entrar na área do representante, ele
+
+132
+00:02:37,230 --> 00:02:37,240
+entrar na área do representante, ele
+ 
+
+133
+00:02:37,240 --> 00:02:39,190
+entrar na área do representante, ele
+encontra o seu link de indicação,
+
+134
+00:02:39,190 --> 00:02:39,200
+encontra o seu link de indicação,
+ 
+
+135
+00:02:39,200 --> 00:02:41,470
+encontra o seu link de indicação,
+escolhe para qual página quer divulgar e
+
+136
+00:02:41,470 --> 00:02:41,480
+escolhe para qual página quer divulgar e
+ 
+
+137
+00:02:41,480 --> 00:02:44,190
+escolhe para qual página quer divulgar e
+copia com um clique. Logo abaixo está a
+
+138
+00:02:44,190 --> 00:02:44,200
+copia com um clique. Logo abaixo está a
+ 
+
+139
+00:02:44,200 --> 00:02:46,710
+copia com um clique. Logo abaixo está a
+faixa verde grupo dos parceiros, com o
+
+140
+00:02:46,710 --> 00:02:46,720
+faixa verde grupo dos parceiros, com o
+ 
+
+141
+00:02:46,720 --> 00:02:49,350
+faixa verde grupo dos parceiros, com o
+botão entrar no grupo. O mesmo atalho
+
+142
+00:02:49,350 --> 00:02:49,360
+botão entrar no grupo. O mesmo atalho
+ 
+
+143
+00:02:49,360 --> 00:02:51,949
+botão entrar no grupo. O mesmo atalho
+fica fixo no menu lateral. Ele acompanha
+
+144
+00:02:51,949 --> 00:02:51,959
+fica fixo no menu lateral. Ele acompanha
+ 
+
+145
+00:02:51,959 --> 00:02:54,590
+fica fixo no menu lateral. Ele acompanha
+quanto tem a receber, o que já recebeu,
+
+146
+00:02:54,590 --> 00:02:54,600
+quanto tem a receber, o que já recebeu,
+ 
+
+147
+00:02:54,600 --> 00:02:57,150
+quanto tem a receber, o que já recebeu,
+os clientes ativos e o plano atual. O
+
+148
+00:02:57,150 --> 00:02:57,160
+os clientes ativos e o plano atual. O
+ 
+
+149
+00:02:57,160 --> 00:02:59,190
+os clientes ativos e o plano atual. O
+simulador mostra quanto ele pode ganhar
+
+150
+00:02:59,190 --> 00:02:59,200
+simulador mostra quanto ele pode ganhar
+ 
+
+151
+00:02:59,200 --> 00:03:01,670
+simulador mostra quanto ele pode ganhar
+por mês e a tabela mostra a comissão em
+
+152
+00:03:01,670 --> 00:03:01,680
+por mês e a tabela mostra a comissão em
+ 
+
+153
+00:03:01,680 --> 00:03:03,870
+por mês e a tabela mostra a comissão em
+cada produto que ele vender. E em meu
+
+154
+00:03:03,870 --> 00:03:03,880
+cada produto que ele vender. E em meu
+ 
+
+155
+00:03:03,880 --> 00:03:06,110
+cada produto que ele vender. E em meu
+plano, ele mesmo faz o upgrade para
+
+156
+00:03:06,110 --> 00:03:06,120
+plano, ele mesmo faz o upgrade para
+ 
+
+157
+00:03:06,120 --> 00:03:09,030
+plano, ele mesmo faz o upgrade para
+ganhar mais. Pronto. Cadastre parceiros,
+
+158
+00:03:09,030 --> 00:03:09,040
+ganhar mais. Pronto. Cadastre parceiros,
+ 
+
+159
+00:03:09,040 --> 00:03:10,990
+ganhar mais. Pronto. Cadastre parceiros,
+defina os planos, crie o grupo no
+
+160
+00:03:10,990 --> 00:03:11,000
+defina os planos, crie o grupo no
+ 
+
+161
+00:03:11,000 --> 00:03:13,390
+defina os planos, crie o grupo no
+WhatsApp e transforme o seu portal numa
+
+162
+00:03:13,390 --> 00:03:13,400
+WhatsApp e transforme o seu portal numa
+ 
+
+163
+00:03:13,400 --> 00:03:16,400
+WhatsApp e transforme o seu portal numa
+equipe de vendas.
+

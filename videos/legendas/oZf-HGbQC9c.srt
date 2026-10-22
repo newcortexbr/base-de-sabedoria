@@ -1,0 +1,455 @@
+1
+00:00:00,000 --> 00:00:02,350
+ 
+Precisa de ajuda? Na área do cliente,
+
+2
+00:00:02,350 --> 00:00:02,360
+Precisa de ajuda? Na área do cliente,
+ 
+
+3
+00:00:02,360 --> 00:00:04,590
+Precisa de ajuda? Na área do cliente,
+você tem dois caminhos: a IA de
+
+4
+00:00:04,590 --> 00:00:04,600
+você tem dois caminhos: a IA de
+ 
+
+5
+00:00:04,600 --> 00:00:06,790
+você tem dois caminhos: a IA de
+atendimento, que responde na hora, e os
+
+6
+00:00:06,790 --> 00:00:06,800
+atendimento, que responde na hora, e os
+ 
+
+7
+00:00:06,800 --> 00:00:08,710
+atendimento, que responde na hora, e os
+chamados com a nossa equipe. Para
+
+8
+00:00:08,710 --> 00:00:08,720
+chamados com a nossa equipe. Para
+ 
+
+9
+00:00:08,720 --> 00:00:11,030
+chamados com a nossa equipe. Para
+começar, clique em suporte no menu ao
+
+10
+00:00:11,030 --> 00:00:11,040
+começar, clique em suporte no menu ao
+ 
+
+11
+00:00:11,040 --> 00:00:14,030
+começar, clique em suporte no menu ao
+lado. Comece sempre pela IA. Ela fica
+
+12
+00:00:14,030 --> 00:00:14,040
+lado. Comece sempre pela IA. Ela fica
+ 
+
+13
+00:00:14,040 --> 00:00:16,310
+lado. Comece sempre pela IA. Ela fica
+neste botão no canto da tela e está
+
+14
+00:00:16,310 --> 00:00:16,320
+neste botão no canto da tela e está
+ 
+
+15
+00:00:16,320 --> 00:00:18,950
+neste botão no canto da tela e está
+sempre à mão enquanto você navega. A IA
+
+16
+00:00:18,950 --> 00:00:18,960
+sempre à mão enquanto você navega. A IA
+ 
+
+17
+00:00:18,960 --> 00:00:21,030
+sempre à mão enquanto você navega. A IA
+de atendimento foi treinada com a base
+
+18
+00:00:21,030 --> 00:00:21,040
+de atendimento foi treinada com a base
+ 
+
+19
+00:00:21,040 --> 00:00:22,990
+de atendimento foi treinada com a base
+de conhecimento da área do cliente e do
+
+20
+00:00:22,990 --> 00:00:23,000
+de conhecimento da área do cliente e do
+ 
+
+21
+00:00:23,000 --> 00:00:25,390
+de conhecimento da área do cliente e do
+seu portal. Ela entende a sua dúvida e
+
+22
+00:00:25,390 --> 00:00:25,400
+seu portal. Ela entende a sua dúvida e
+ 
+
+23
+00:00:25,400 --> 00:00:27,750
+seu portal. Ela entende a sua dúvida e
+mostra o caminho certo para resolver.
+
+24
+00:00:27,750 --> 00:00:27,760
+mostra o caminho certo para resolver.
+ 
+
+25
+00:00:27,760 --> 00:00:30,150
+mostra o caminho certo para resolver.
+Escreva a pergunta com as suas palavras.
+
+26
+00:00:30,150 --> 00:00:30,160
+Escreva a pergunta com as suas palavras.
+ 
+
+27
+00:00:30,160 --> 00:00:31,990
+Escreva a pergunta com as suas palavras.
+Por exemplo: "Comprei meu domínio no
+
+28
+00:00:31,990 --> 00:00:32,000
+Por exemplo: "Comprei meu domínio no
+ 
+
+29
+00:00:32,000 --> 00:00:33,590
+Por exemplo: "Comprei meu domínio no
+registro.br.
+
+30
+00:00:33,590 --> 00:00:33,600
+registro.br.
+ 
+
+31
+00:00:33,600 --> 00:00:35,910
+registro.br.
+Como faço para conectar ao meu portal?"
+
+32
+00:00:35,910 --> 00:00:35,920
+Como faço para conectar ao meu portal?"
+ 
+
+33
+00:00:35,920 --> 00:00:38,350
+Como faço para conectar ao meu portal?"
+A IA responde na hora, mostra em qual
+
+34
+00:00:38,350 --> 00:00:38,360
+A IA responde na hora, mostra em qual
+ 
+
+35
+00:00:38,360 --> 00:00:40,630
+A IA responde na hora, mostra em qual
+conteúdo se baseou e monta um passo a
+
+36
+00:00:40,630 --> 00:00:40,640
+conteúdo se baseou e monta um passo a
+ 
+
+37
+00:00:40,640 --> 00:00:43,550
+conteúdo se baseou e monta um passo a
+passo para você seguir. Siga cada passo
+
+38
+00:00:43,550 --> 00:00:43,560
+passo para você seguir. Siga cada passo
+ 
+
+39
+00:00:43,560 --> 00:00:45,390
+passo para você seguir. Siga cada passo
+e clique em conseguir para ir ao
+
+40
+00:00:45,390 --> 00:00:45,400
+e clique em conseguir para ir ao
+ 
+
+41
+00:00:45,400 --> 00:00:47,870
+e clique em conseguir para ir ao
+próximo. Se travar, clique em não
+
+42
+00:00:47,870 --> 00:00:47,880
+próximo. Se travar, clique em não
+ 
+
+43
+00:00:47,880 --> 00:00:50,470
+próximo. Se travar, clique em não
+conseguir. A IA pergunta o que aconteceu
+
+44
+00:00:50,470 --> 00:00:50,480
+conseguir. A IA pergunta o que aconteceu
+ 
+
+45
+00:00:50,480 --> 00:00:52,790
+conseguir. A IA pergunta o que aconteceu
+e continua ajudando por outro caminho.
+
+46
+00:00:52,790 --> 00:00:52,800
+e continua ajudando por outro caminho.
+ 
+
+47
+00:00:52,800 --> 00:00:54,950
+e continua ajudando por outro caminho.
+Você também pode enviar um print da tela
+
+48
+00:00:54,950 --> 00:00:54,960
+Você também pode enviar um print da tela
+ 
+
+49
+00:00:54,960 --> 00:00:57,230
+Você também pode enviar um print da tela
+pelo botão de imagem e começar uma nova
+
+50
+00:00:57,230 --> 00:00:57,240
+pelo botão de imagem e começar uma nova
+ 
+
+51
+00:00:57,240 --> 00:00:59,950
+pelo botão de imagem e começar uma nova
+conversa sempre que quiser. Se a IA não
+
+52
+00:00:59,950 --> 00:00:59,960
+conversa sempre que quiser. Se a IA não
+ 
+
+53
+00:00:59,960 --> 00:01:02,470
+conversa sempre que quiser. Se a IA não
+resolver, aí sim, abra um chamado com a
+
+54
+00:01:02,470 --> 00:01:02,480
+resolver, aí sim, abra um chamado com a
+ 
+
+55
+00:01:02,480 --> 00:01:04,869
+resolver, aí sim, abra um chamado com a
+nossa equipe. Clique em abrir novo
+
+56
+00:01:04,869 --> 00:01:04,879
+nossa equipe. Clique em abrir novo
+ 
+
+57
+00:01:04,879 --> 00:01:07,430
+nossa equipe. Clique em abrir novo
+chamado. Escolha o negócio vinculado e o
+
+58
+00:01:07,430 --> 00:01:07,440
+chamado. Escolha o negócio vinculado e o
+ 
+
+59
+00:01:07,440 --> 00:01:09,630
+chamado. Escolha o negócio vinculado e o
+assunto para o seu chamado chegar direto
+
+60
+00:01:09,630 --> 00:01:09,640
+assunto para o seu chamado chegar direto
+ 
+
+61
+00:01:09,640 --> 00:01:12,310
+assunto para o seu chamado chegar direto
+à pessoa certa. Escreva um título curto
+
+62
+00:01:12,310 --> 00:01:12,320
+à pessoa certa. Escreva um título curto
+ 
+
+63
+00:01:12,320 --> 00:01:14,230
+à pessoa certa. Escreva um título curto
+e, na mensagem, conte o que você tentou
+
+64
+00:01:14,230 --> 00:01:14,240
+e, na mensagem, conte o que você tentou
+ 
+
+65
+00:01:14,240 --> 00:01:16,630
+e, na mensagem, conte o que você tentou
+fazer, o que esperava e o que apareceu
+
+66
+00:01:16,630 --> 00:01:16,640
+fazer, o que esperava e o que apareceu
+ 
+
+67
+00:01:16,640 --> 00:01:19,230
+fazer, o que esperava e o que apareceu
+na tela. Se quiser, anexe prints ou
+
+68
+00:01:19,230 --> 00:01:19,240
+na tela. Se quiser, anexe prints ou
+ 
+
+69
+00:01:19,240 --> 00:01:22,470
+na tela. Se quiser, anexe prints ou
+arquivos. E atenção: nunca envie senhas
+
+70
+00:01:22,470 --> 00:01:22,480
+arquivos. E atenção: nunca envie senhas
+ 
+
+71
+00:01:22,480 --> 00:01:25,030
+arquivos. E atenção: nunca envie senhas
+ou códigos de acesso. Depois, é só
+
+72
+00:01:25,030 --> 00:01:25,040
+ou códigos de acesso. Depois, é só
+ 
+
+73
+00:01:25,040 --> 00:01:27,550
+ou códigos de acesso. Depois, é só
+clicar em enviar chamado. O chamado
+
+74
+00:01:27,550 --> 00:01:27,560
+clicar em enviar chamado. O chamado
+ 
+
+75
+00:01:27,560 --> 00:01:30,070
+clicar em enviar chamado. O chamado
+aparece em seus chamados com o número e
+
+76
+00:01:30,070 --> 00:01:30,080
+aparece em seus chamados com o número e
+ 
+
+77
+00:01:30,080 --> 00:01:32,430
+aparece em seus chamados com o número e
+a situação: em análise, equipe
+
+78
+00:01:32,430 --> 00:01:32,440
+a situação: em análise, equipe
+ 
+
+79
+00:01:32,440 --> 00:01:35,870
+a situação: em análise, equipe
+respondeu, aguardando você ou resolvido.
+
+80
+00:01:35,870 --> 00:01:35,880
+respondeu, aguardando você ou resolvido.
+ 
+
+81
+00:01:35,880 --> 00:01:37,910
+respondeu, aguardando você ou resolvido.
+É ali que você acompanha as respostas da
+
+82
+00:01:37,910 --> 00:01:37,920
+É ali que você acompanha as respostas da
+ 
+
+83
+00:01:37,920 --> 00:01:40,790
+É ali que você acompanha as respostas da
+equipe. E em ajuda rápida, há atalhos
+
+84
+00:01:40,790 --> 00:01:40,800
+equipe. E em ajuda rápida, há atalhos
+ 
+
+85
+00:01:40,800 --> 00:01:43,430
+equipe. E em ajuda rápida, há atalhos
+para as dúvidas mais comuns. Lembre-se:
+
+86
+00:01:43,430 --> 00:01:43,440
+para as dúvidas mais comuns. Lembre-se:
+ 
+
+87
+00:01:43,440 --> 00:01:46,110
+para as dúvidas mais comuns. Lembre-se:
+comece pela IA, que resolve na hora. E
+
+88
+00:01:46,110 --> 00:01:46,120
+comece pela IA, que resolve na hora. E
+ 
+
+89
+00:01:46,120 --> 00:01:48,230
+comece pela IA, que resolve na hora. E
+se precisar, abra um chamado que a nossa
+
+90
+00:01:48,230 --> 00:01:48,240
+se precisar, abra um chamado que a nossa
+ 
+
+91
+00:01:48,240 --> 00:01:51,400
+se precisar, abra um chamado que a nossa
+equipe ajuda você.
+

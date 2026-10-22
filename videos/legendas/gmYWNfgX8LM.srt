@@ -1,0 +1,625 @@
+1
+00:00:00,000 --> 00:00:02,070
+ 
+Neste vídeo, você vai montar o cardápio
+
+2
+00:00:02,070 --> 00:00:02,080
+Neste vídeo, você vai montar o cardápio
+ 
+
+3
+00:00:02,080 --> 00:00:05,230
+Neste vídeo, você vai montar o cardápio
+digital da sua empresa. Seções, pratos,
+
+4
+00:00:05,230 --> 00:00:05,240
+digital da sua empresa. Seções, pratos,
+ 
+
+5
+00:00:05,240 --> 00:00:08,230
+digital da sua empresa. Seções, pratos,
+fotos, preços e selos. É assim que ele
+
+6
+00:00:08,230 --> 00:00:08,240
+fotos, preços e selos. É assim que ele
+ 
+
+7
+00:00:08,240 --> 00:00:10,630
+fotos, preços e selos. É assim que ele
+aparece para o cliente, no celular. O
+
+8
+00:00:10,630 --> 00:00:10,640
+aparece para o cliente, no celular. O
+ 
+
+9
+00:00:10,640 --> 00:00:12,350
+aparece para o cliente, no celular. O
+cardápio aparece para empresas de
+
+10
+00:00:12,350 --> 00:00:12,360
+cardápio aparece para empresas de
+ 
+
+11
+00:00:12,360 --> 00:00:14,870
+cardápio aparece para empresas de
+categorias como restaurantes, bares e
+
+12
+00:00:14,870 --> 00:00:14,880
+categorias como restaurantes, bares e
+ 
+
+13
+00:00:14,880 --> 00:00:17,390
+categorias como restaurantes, bares e
+delivery. Na sua área, clique em guia
+
+14
+00:00:17,390 --> 00:00:17,400
+delivery. Na sua área, clique em guia
+ 
+
+15
+00:00:17,400 --> 00:00:19,710
+delivery. Na sua área, clique em guia
+comercial e role até páginas da sua
+
+16
+00:00:19,710 --> 00:00:19,720
+comercial e role até páginas da sua
+ 
+
+17
+00:00:19,720 --> 00:00:22,430
+comercial e role até páginas da sua
+empresa. No cartão cardápio, clique em
+
+18
+00:00:22,430 --> 00:00:22,440
+empresa. No cartão cardápio, clique em
+ 
+
+19
+00:00:22,440 --> 00:00:24,870
+empresa. No cartão cardápio, clique em
+gerenciar. Abre a tela gerenciar
+
+20
+00:00:24,870 --> 00:00:24,880
+gerenciar. Abre a tela gerenciar
+ 
+
+21
+00:00:24,880 --> 00:00:27,110
+gerenciar. Abre a tela gerenciar
+cardápio, com o total de seções e de
+
+22
+00:00:27,110 --> 00:00:27,120
+cardápio, com o total de seções e de
+ 
+
+23
+00:00:27,120 --> 00:00:30,030
+cardápio, com o total de seções e de
+pratos no topo. Em botões do cardápio,
+
+24
+00:00:30,030 --> 00:00:30,040
+pratos no topo. Em botões do cardápio,
+ 
+
+25
+00:00:30,040 --> 00:00:31,710
+pratos no topo. Em botões do cardápio,
+escolha o que aparece no rodapé do
+
+26
+00:00:31,710 --> 00:00:31,720
+escolha o que aparece no rodapé do
+ 
+
+27
+00:00:31,720 --> 00:00:34,190
+escolha o que aparece no rodapé do
+cardápio. Fazer meu pedido, que leva o
+
+28
+00:00:34,190 --> 00:00:34,200
+cardápio. Fazer meu pedido, que leva o
+ 
+
+29
+00:00:34,200 --> 00:00:36,270
+cardápio. Fazer meu pedido, que leva o
+cliente ao delivery, e chamar no
+
+30
+00:00:36,270 --> 00:00:36,280
+cliente ao delivery, e chamar no
+ 
+
+31
+00:00:36,280 --> 00:00:38,310
+cliente ao delivery, e chamar no
+WhatsApp. Se o cardápio é só para
+
+32
+00:00:38,310 --> 00:00:38,320
+WhatsApp. Se o cardápio é só para
+ 
+
+33
+00:00:38,320 --> 00:00:40,910
+WhatsApp. Se o cardápio é só para
+consulta nas mesas, desligue os dois. O
+
+34
+00:00:40,910 --> 00:00:40,920
+consulta nas mesas, desligue os dois. O
+ 
+
+35
+00:00:40,920 --> 00:00:43,110
+consulta nas mesas, desligue os dois. O
+cliente vê os pratos e os preços sem
+
+36
+00:00:43,110 --> 00:00:43,120
+cliente vê os pratos e os preços sem
+ 
+
+37
+00:00:43,120 --> 00:00:45,310
+cliente vê os pratos e os preços sem
+botão de pedido. Em aparência do
+
+38
+00:00:45,310 --> 00:00:45,320
+botão de pedido. Em aparência do
+ 
+
+39
+00:00:45,320 --> 00:00:47,510
+botão de pedido. Em aparência do
+cardápio, escolha o tema claro ou
+
+40
+00:00:47,510 --> 00:00:47,520
+cardápio, escolha o tema claro ou
+ 
+
+41
+00:00:47,520 --> 00:00:50,430
+cardápio, escolha o tema claro ou
+escuro. O aviso em uso mostra o tema
+
+42
+00:00:50,430 --> 00:00:50,440
+escuro. O aviso em uso mostra o tema
+ 
+
+43
+00:00:50,440 --> 00:00:53,430
+escuro. O aviso em uso mostra o tema
+atual. Em QR code do cardápio, escolha o
+
+44
+00:00:53,430 --> 00:00:53,440
+atual. Em QR code do cardápio, escolha o
+ 
+
+45
+00:00:53,440 --> 00:00:55,950
+atual. Em QR code do cardápio, escolha o
+tamanho da placa e clique em gerar QR
+
+46
+00:00:55,950 --> 00:00:55,960
+tamanho da placa e clique em gerar QR
+ 
+
+47
+00:00:55,960 --> 00:00:58,470
+tamanho da placa e clique em gerar QR
+code para imprimir. Cole nas mesas, no
+
+48
+00:00:58,470 --> 00:00:58,480
+code para imprimir. Cole nas mesas, no
+ 
+
+49
+00:00:58,480 --> 00:01:00,910
+code para imprimir. Cole nas mesas, no
+balcão ou na vitrine. Você também pode
+
+50
+00:01:00,910 --> 00:01:00,920
+balcão ou na vitrine. Você também pode
+ 
+
+51
+00:01:00,920 --> 00:01:03,910
+balcão ou na vitrine. Você também pode
+baixar a imagem ou copiar o link. Agora,
+
+52
+00:01:03,910 --> 00:01:03,920
+baixar a imagem ou copiar o link. Agora,
+ 
+
+53
+00:01:03,920 --> 00:01:07,030
+baixar a imagem ou copiar o link. Agora,
+as seções. Clique em nova seção, digite
+
+54
+00:01:07,030 --> 00:01:07,040
+as seções. Clique em nova seção, digite
+ 
+
+55
+00:01:07,040 --> 00:01:09,390
+as seções. Clique em nova seção, digite
+o nome, por exemplo, sobremesas, e
+
+56
+00:01:09,390 --> 00:01:09,400
+o nome, por exemplo, sobremesas, e
+ 
+
+57
+00:01:09,400 --> 00:01:11,950
+o nome, por exemplo, sobremesas, e
+salve. A nova seção aparece no fim da
+
+58
+00:01:11,950 --> 00:01:11,960
+salve. A nova seção aparece no fim da
+ 
+
+59
+00:01:11,960 --> 00:01:14,230
+salve. A nova seção aparece no fim da
+lista. Cada seção tem a chave para
+
+60
+00:01:14,230 --> 00:01:14,240
+lista. Cada seção tem a chave para
+ 
+
+61
+00:01:14,240 --> 00:01:16,790
+lista. Cada seção tem a chave para
+publicar ou tirar do ar e os botões
+
+62
+00:01:16,790 --> 00:01:16,800
+publicar ou tirar do ar e os botões
+ 
+
+63
+00:01:16,800 --> 00:01:20,190
+publicar ou tirar do ar e os botões
+novo, renomear e excluir. Clique em novo
+
+64
+00:01:20,190 --> 00:01:20,200
+novo, renomear e excluir. Clique em novo
+ 
+
+65
+00:01:20,200 --> 00:01:22,750
+novo, renomear e excluir. Clique em novo
+na seção para cadastrar um prato.
+
+66
+00:01:22,750 --> 00:01:22,760
+na seção para cadastrar um prato.
+ 
+
+67
+00:01:22,760 --> 00:01:25,150
+na seção para cadastrar um prato.
+Escreva o nome e uma descrição curta.
+
+68
+00:01:25,150 --> 00:01:25,160
+Escreva o nome e uma descrição curta.
+ 
+
+69
+00:01:25,160 --> 00:01:27,310
+Escreva o nome e uma descrição curta.
+Informe o preço. Se o prato estiver em
+
+70
+00:01:27,310 --> 00:01:27,320
+Informe o preço. Se o prato estiver em
+ 
+
+71
+00:01:27,320 --> 00:01:29,350
+Informe o preço. Se o prato estiver em
+promoção, preencha também o preço
+
+72
+00:01:29,350 --> 00:01:29,360
+promoção, preencha também o preço
+ 
+
+73
+00:01:29,360 --> 00:01:31,670
+promoção, preencha também o preço
+promocional e o preço antigo aparece
+
+74
+00:01:31,670 --> 00:01:31,680
+promocional e o preço antigo aparece
+ 
+
+75
+00:01:31,680 --> 00:01:33,950
+promocional e o preço antigo aparece
+riscado. Marque os selos que combinam
+
+76
+00:01:33,950 --> 00:01:33,960
+riscado. Marque os selos que combinam
+ 
+
+77
+00:01:33,960 --> 00:01:36,790
+riscado. Marque os selos que combinam
+com o prato: mais pedido, novidade,
+
+78
+00:01:36,790 --> 00:01:36,800
+com o prato: mais pedido, novidade,
+ 
+
+79
+00:01:36,800 --> 00:01:39,470
+com o prato: mais pedido, novidade,
+vegetariano ou recomendado. Envie uma
+
+80
+00:01:39,470 --> 00:01:39,480
+vegetariano ou recomendado. Envie uma
+ 
+
+81
+00:01:39,480 --> 00:01:42,030
+vegetariano ou recomendado. Envie uma
+foto, porque prato com foto chama muito
+
+82
+00:01:42,030 --> 00:01:42,040
+foto, porque prato com foto chama muito
+ 
+
+83
+00:01:42,040 --> 00:01:44,590
+foto, porque prato com foto chama muito
+mais atenção. Confira a seção, deixe
+
+84
+00:01:44,590 --> 00:01:44,600
+mais atenção. Confira a seção, deixe
+ 
+
+85
+00:01:44,600 --> 00:01:46,910
+mais atenção. Confira a seção, deixe
+ligado publicado no site e clique em
+
+86
+00:01:46,910 --> 00:01:46,920
+ligado publicado no site e clique em
+ 
+
+87
+00:01:46,920 --> 00:01:49,750
+ligado publicado no site e clique em
+salvar. Pronto. O prato já aparece na
+
+88
+00:01:49,750 --> 00:01:49,760
+salvar. Pronto. O prato já aparece na
+ 
+
+89
+00:01:49,760 --> 00:01:52,470
+salvar. Pronto. O prato já aparece na
+seção sobremesas. Para mudar um prato,
+
+90
+00:01:52,470 --> 00:01:52,480
+seção sobremesas. Para mudar um prato,
+ 
+
+91
+00:01:52,480 --> 00:01:55,070
+seção sobremesas. Para mudar um prato,
+clique em editar. Aqui, a maminha está
+
+92
+00:01:55,070 --> 00:01:55,080
+clique em editar. Aqui, a maminha está
+ 
+
+93
+00:01:55,080 --> 00:01:57,070
+clique em editar. Aqui, a maminha está
+com preço promocional e com o selo
+
+94
+00:01:57,070 --> 00:01:57,080
+com preço promocional e com o selo
+ 
+
+95
+00:01:57,080 --> 00:01:59,430
+com preço promocional e com o selo
+novidade. E para tirar um prato do ar
+
+96
+00:01:59,430 --> 00:01:59,440
+novidade. E para tirar um prato do ar
+ 
+
+97
+00:01:59,440 --> 00:02:01,990
+novidade. E para tirar um prato do ar
+por um tempo, sem apagar, use a chave ao
+
+98
+00:02:01,990 --> 00:02:02,000
+por um tempo, sem apagar, use a chave ao
+ 
+
+99
+00:02:02,000 --> 00:02:04,150
+por um tempo, sem apagar, use a chave ao
+lado do preço. A foto e os dados
+
+100
+00:02:04,150 --> 00:02:04,160
+lado do preço. A foto e os dados
+ 
+
+101
+00:02:04,160 --> 00:02:06,469
+lado do preço. A foto e os dados
+continuam salvos. Veja como fica no
+
+102
+00:02:06,469 --> 00:02:06,479
+continuam salvos. Veja como fica no
+ 
+
+103
+00:02:06,479 --> 00:02:08,430
+continuam salvos. Veja como fica no
+portal, no cardápio da churrascaria
+
+104
+00:02:08,430 --> 00:02:08,440
+portal, no cardápio da churrascaria
+ 
+
+105
+00:02:08,440 --> 00:02:11,270
+portal, no cardápio da churrascaria
+gaúcha. As seções em abas no topo, a
+
+106
+00:02:11,270 --> 00:02:11,280
+gaúcha. As seções em abas no topo, a
+ 
+
+107
+00:02:11,280 --> 00:02:14,550
+gaúcha. As seções em abas no topo, a
+busca e cada prato com foto, descrição,
+
+108
+00:02:14,550 --> 00:02:14,560
+busca e cada prato com foto, descrição,
+ 
+
+109
+00:02:14,560 --> 00:02:17,670
+busca e cada prato com foto, descrição,
+selos e preço. No rodapé ficam os botões
+
+110
+00:02:17,670 --> 00:02:17,680
+selos e preço. No rodapé ficam os botões
+ 
+
+111
+00:02:17,680 --> 00:02:20,390
+selos e preço. No rodapé ficam os botões
+fazer meu pedido e chamar no WhatsApp. E
+
+112
+00:02:20,390 --> 00:02:20,400
+fazer meu pedido e chamar no WhatsApp. E
+ 
+
+113
+00:02:20,400 --> 00:02:22,670
+fazer meu pedido e chamar no WhatsApp. E
+o cliente pode filtrar por seção, como
+
+114
+00:02:22,670 --> 00:02:22,680
+o cliente pode filtrar por seção, como
+ 
+
+115
+00:02:22,680 --> 00:02:24,990
+o cliente pode filtrar por seção, como
+sobremesas. Na ficha da empresa, o
+
+116
+00:02:24,990 --> 00:02:25,000
+sobremesas. Na ficha da empresa, o
+ 
+
+117
+00:02:25,000 --> 00:02:26,910
+sobremesas. Na ficha da empresa, o
+cardápio ganha um botão de destaque,
+
+118
+00:02:26,910 --> 00:02:26,920
+cardápio ganha um botão de destaque,
+ 
+
+119
+00:02:26,920 --> 00:02:29,310
+cardápio ganha um botão de destaque,
+logo no topo. Pronto. Mantenha o
+
+120
+00:02:29,310 --> 00:02:29,320
+logo no topo. Pronto. Mantenha o
+ 
+
+121
+00:02:29,320 --> 00:02:31,710
+logo no topo. Pronto. Mantenha o
+cardápio sempre atualizado, com fotos e
+
+122
+00:02:31,710 --> 00:02:31,720
+cardápio sempre atualizado, com fotos e
+ 
+
+123
+00:02:31,720 --> 00:02:34,110
+cardápio sempre atualizado, com fotos e
+preços para os clientes escolherem antes
+
+124
+00:02:34,110 --> 00:02:34,120
+preços para os clientes escolherem antes
+ 
+
+125
+00:02:34,120 --> 00:02:37,000
+preços para os clientes escolherem antes
+mesmo de chegar.
+

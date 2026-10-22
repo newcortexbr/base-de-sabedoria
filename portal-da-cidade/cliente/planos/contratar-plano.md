@@ -24,7 +24,7 @@ aqui você assina um plano de uma seção, como o Guia Comercial, Vagas ou Class
 ## pré-requisitos
 
 - Estar logado na área do cliente.
-- Ainda não ter plano nessa seção. Se já tiver, veja "subir para um plano mais completo".
+- Ainda não ter plano pago nessa seção (a tela mostra `Você ainda não assina esta seção` e o cartão `Seu Plano` marca o `Grátis`). Se já tiver plano, veja "subir para um plano mais completo" (o novo plano começa a valer assim que o pagamento é confirmado) ou "descer de plano" (a descida só começa no fim do período já pago, pelo botão `Mudar para este plano`, e pede confirmação em `Confirmar descida`; `Cancelar` desfaz).
 
 ## passos
 
@@ -36,7 +36,7 @@ aqui você assina um plano de uma seção, como o Guia Comercial, Vagas ou Class
 6. Pague com Pix ou com cartão, na janela de pagamento que abre. [guia=fora]
 
 ## resultado
-quando o pagamento é confirmado, a janela mostra "Pagamento confirmado!" e o plano fica `Ativo`.
+quando o pagamento é confirmado, a janela mostra "Pagamento confirmado!" e o plano fica `Ativo`. a assinatura aparece em `Suas assinaturas` e a seção fica liberada no menu da esquerda. o plano contratado também aparece no menu, ao lado do nome da seção, e na tela início, onde o botão `Mudar plano` leva direto para `Planos e assinaturas`.
 
 ## desvios
 

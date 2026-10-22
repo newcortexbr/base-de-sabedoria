@@ -1,0 +1,595 @@
+1
+00:00:00,000 --> 00:00:02,190
+ 
+Em meus clientes, você controla quem
+
+2
+00:00:02,190 --> 00:00:02,200
+Em meus clientes, você controla quem
+ 
+
+3
+00:00:02,200 --> 00:00:04,390
+Em meus clientes, você controla quem
+contratou o que no seu portal, até
+
+4
+00:00:04,390 --> 00:00:04,400
+contratou o que no seu portal, até
+ 
+
+5
+00:00:04,400 --> 00:00:07,270
+contratou o que no seu portal, até
+quando e quanto isso rende por mês. É a
+
+6
+00:00:07,270 --> 00:00:07,280
+quando e quanto isso rende por mês. É a
+ 
+
+7
+00:00:07,280 --> 00:00:09,990
+quando e quanto isso rende por mês. É a
+sua ferramenta de venda e de cobrança.
+
+8
+00:00:09,990 --> 00:00:10,000
+sua ferramenta de venda e de cobrança.
+ 
+
+9
+00:00:10,000 --> 00:00:12,790
+sua ferramenta de venda e de cobrança.
+No menu lateral, em comercial, clique em
+
+10
+00:00:12,790 --> 00:00:12,800
+No menu lateral, em comercial, clique em
+ 
+
+11
+00:00:12,800 --> 00:00:15,830
+No menu lateral, em comercial, clique em
+meus clientes. No topo, o aviso amarelo
+
+12
+00:00:15,830 --> 00:00:15,840
+meus clientes. No topo, o aviso amarelo
+ 
+
+13
+00:00:15,840 --> 00:00:17,510
+meus clientes. No topo, o aviso amarelo
+mostra as contratações aguardando
+
+14
+00:00:17,510 --> 00:00:17,520
+mostra as contratações aguardando
+ 
+
+15
+00:00:17,520 --> 00:00:19,830
+mostra as contratações aguardando
+confirmação de pagamento. O cliente já
+
+16
+00:00:19,830 --> 00:00:19,840
+confirmação de pagamento. O cliente já
+ 
+
+17
+00:00:19,840 --> 00:00:22,310
+confirmação de pagamento. O cliente já
+recebeu a chave Pix, mas nada entra no
+
+18
+00:00:22,310 --> 00:00:22,320
+recebeu a chave Pix, mas nada entra no
+ 
+
+19
+00:00:22,320 --> 00:00:24,390
+recebeu a chave Pix, mas nada entra no
+ar até você confirmar o pagamento na
+
+20
+00:00:24,390 --> 00:00:24,400
+ar até você confirmar o pagamento na
+ 
+
+21
+00:00:24,400 --> 00:00:27,150
+ar até você confirmar o pagamento na
+ficha dele. Logo abaixo, quatro cartões
+
+22
+00:00:27,150 --> 00:00:27,160
+ficha dele. Logo abaixo, quatro cartões
+ 
+
+23
+00:00:27,160 --> 00:00:29,230
+ficha dele. Logo abaixo, quatro cartões
+resumem a carteira. Clientes com plano
+
+24
+00:00:29,230 --> 00:00:29,240
+resumem a carteira. Clientes com plano
+ 
+
+25
+00:00:29,240 --> 00:00:31,750
+resumem a carteira. Clientes com plano
+vencido, que vencem em sete dias, que
+
+26
+00:00:31,750 --> 00:00:31,760
+vencido, que vencem em sete dias, que
+ 
+
+27
+00:00:31,760 --> 00:00:34,670
+vencido, que vencem em sete dias, que
+vencem em 30 dias e clientes ainda sem
+
+28
+00:00:34,670 --> 00:00:34,680
+vencem em 30 dias e clientes ainda sem
+ 
+
+29
+00:00:34,680 --> 00:00:37,110
+vencem em 30 dias e clientes ainda sem
+plano. Ao lado, você vê o total de
+
+30
+00:00:37,110 --> 00:00:37,120
+plano. Ao lado, você vê o total de
+ 
+
+31
+00:00:37,120 --> 00:00:39,670
+plano. Ao lado, você vê o total de
+clientes e a receita mensal recorrente,
+
+32
+00:00:39,670 --> 00:00:39,680
+clientes e a receita mensal recorrente,
+ 
+
+33
+00:00:39,680 --> 00:00:42,230
+clientes e a receita mensal recorrente,
+ou seja, quanto o portal fatura todo mês
+
+34
+00:00:42,230 --> 00:00:42,240
+ou seja, quanto o portal fatura todo mês
+ 
+
+35
+00:00:42,240 --> 00:00:44,590
+ou seja, quanto o portal fatura todo mês
+com os planos ativos. Use a busca para
+
+36
+00:00:44,590 --> 00:00:44,600
+com os planos ativos. Use a busca para
+ 
+
+37
+00:00:44,600 --> 00:00:46,230
+com os planos ativos. Use a busca para
+encontrar um cliente pelo nome,
+
+38
+00:00:46,230 --> 00:00:46,240
+encontrar um cliente pelo nome,
+ 
+
+39
+00:00:46,240 --> 00:00:48,590
+encontrar um cliente pelo nome,
+documento ou telefone e o filtro de
+
+40
+00:00:48,590 --> 00:00:48,600
+documento ou telefone e o filtro de
+ 
+
+41
+00:00:48,600 --> 00:00:51,630
+documento ou telefone e o filtro de
+status para ver só vencidos, a vencer ou
+
+42
+00:00:51,630 --> 00:00:51,640
+status para ver só vencidos, a vencer ou
+ 
+
+43
+00:00:51,640 --> 00:00:54,350
+status para ver só vencidos, a vencer ou
+sem plano. Na lista, cada linha mostra o
+
+44
+00:00:54,350 --> 00:00:54,360
+sem plano. Na lista, cada linha mostra o
+ 
+
+45
+00:00:54,360 --> 00:00:56,870
+sem plano. Na lista, cada linha mostra o
+cliente, o WhatsApp, quantos planos ele
+
+46
+00:00:56,870 --> 00:00:56,880
+cliente, o WhatsApp, quantos planos ele
+ 
+
+47
+00:00:56,880 --> 00:00:58,990
+cliente, o WhatsApp, quantos planos ele
+tem, quais seções contratou, o
+
+48
+00:00:58,990 --> 00:00:59,000
+tem, quais seções contratou, o
+ 
+
+49
+00:00:59,000 --> 00:01:01,670
+tem, quais seções contratou, o
+vencimento mais próximo e a receita. À
+
+50
+00:01:01,670 --> 00:01:01,680
+vencimento mais próximo e a receita. À
+ 
+
+51
+00:01:01,680 --> 00:01:04,630
+vencimento mais próximo e a receita. À
+direita ficam as ações. A chave redefine
+
+52
+00:01:04,630 --> 00:01:04,640
+direita ficam as ações. A chave redefine
+ 
+
+53
+00:01:04,640 --> 00:01:06,990
+direita ficam as ações. A chave redefine
+a senha de acesso do cliente. O lápis
+
+54
+00:01:06,990 --> 00:01:07,000
+a senha de acesso do cliente. O lápis
+ 
+
+55
+00:01:07,000 --> 00:01:09,590
+a senha de acesso do cliente. O lápis
+edita o cadastro. O cadeado bloqueia o
+
+56
+00:01:09,590 --> 00:01:09,600
+edita o cadastro. O cadeado bloqueia o
+ 
+
+57
+00:01:09,600 --> 00:01:12,110
+edita o cadastro. O cadeado bloqueia o
+acesso e a lixeira exclui. Para
+
+58
+00:01:12,110 --> 00:01:12,120
+acesso e a lixeira exclui. Para
+ 
+
+59
+00:01:12,120 --> 00:01:14,630
+acesso e a lixeira exclui. Para
+cadastrar, clique em novo cliente.
+
+60
+00:01:14,630 --> 00:01:14,640
+cadastrar, clique em novo cliente.
+ 
+
+61
+00:01:14,640 --> 00:01:17,670
+cadastrar, clique em novo cliente.
+Informe o nome, o nome fantasia, o tipo,
+
+62
+00:01:17,670 --> 00:01:17,680
+Informe o nome, o nome fantasia, o tipo,
+ 
+
+63
+00:01:17,680 --> 00:01:21,710
+Informe o nome, o nome fantasia, o tipo,
+o CPF ou CNPJ, o telefone, o WhatsApp e
+
+64
+00:01:21,710 --> 00:01:21,720
+o CPF ou CNPJ, o telefone, o WhatsApp e
+ 
+
+65
+00:01:21,720 --> 00:01:23,870
+o CPF ou CNPJ, o telefone, o WhatsApp e
+o e-mail. Com a cobrança automática do
+
+66
+00:01:23,870 --> 00:01:23,880
+o e-mail. Com a cobrança automática do
+ 
+
+67
+00:01:23,880 --> 00:01:26,510
+o e-mail. Com a cobrança automática do
+Asaas ligada, nome, documento e e-mail
+
+68
+00:01:26,510 --> 00:01:26,520
+Asaas ligada, nome, documento e e-mail
+ 
+
+69
+00:01:26,520 --> 00:01:28,710
+Asaas ligada, nome, documento e e-mail
+são obrigatórios, porque é por e-mail
+
+70
+00:01:28,710 --> 00:01:28,720
+são obrigatórios, porque é por e-mail
+ 
+
+71
+00:01:28,720 --> 00:01:30,870
+são obrigatórios, porque é por e-mail
+que o Asaas envia o link de pagamento.
+
+72
+00:01:30,870 --> 00:01:30,880
+que o Asaas envia o link de pagamento.
+ 
+
+73
+00:01:30,880 --> 00:01:33,070
+que o Asaas envia o link de pagamento.
+Em exportar, você baixa a carteira em
+
+74
+00:01:33,070 --> 00:01:33,080
+Em exportar, você baixa a carteira em
+ 
+
+75
+00:01:33,080 --> 00:01:36,870
+Em exportar, você baixa a carteira em
+Excel, CSV ou PDF ou exporta todos os
+
+76
+00:01:36,870 --> 00:01:36,880
+Excel, CSV ou PDF ou exporta todos os
+ 
+
+77
+00:01:36,880 --> 00:01:39,270
+Excel, CSV ou PDF ou exporta todos os
+cadastros de uma vez. Agora, clique no
+
+78
+00:01:39,270 --> 00:01:39,280
+cadastros de uma vez. Agora, clique no
+ 
+
+79
+00:01:39,280 --> 00:01:41,390
+cadastros de uma vez. Agora, clique no
+nome de um cliente para abrir a ficha.
+
+80
+00:01:41,390 --> 00:01:41,400
+nome de um cliente para abrir a ficha.
+ 
+
+81
+00:01:41,400 --> 00:01:44,070
+nome de um cliente para abrir a ficha.
+No topo ficam o documento, o WhatsApp e
+
+82
+00:01:44,070 --> 00:01:44,080
+No topo ficam o documento, o WhatsApp e
+ 
+
+83
+00:01:44,080 --> 00:01:46,710
+No topo ficam o documento, o WhatsApp e
+o e-mail, com o botão editar. Na aba
+
+84
+00:01:46,710 --> 00:01:46,720
+o e-mail, com o botão editar. Na aba
+ 
+
+85
+00:01:46,720 --> 00:01:48,990
+o e-mail, com o botão editar. Na aba
+contratações, aparecem todos os planos
+
+86
+00:01:48,990 --> 00:01:49,000
+contratações, aparecem todos os planos
+ 
+
+87
+00:01:49,000 --> 00:01:51,310
+contratações, aparecem todos os planos
+do cliente, com o preço, o período e o
+
+88
+00:01:51,310 --> 00:01:51,320
+do cliente, com o preço, o período e o
+ 
+
+89
+00:01:51,320 --> 00:01:54,310
+do cliente, com o preço, o período e o
+status. Em cada um, você pode renovar ou
+
+90
+00:01:54,310 --> 00:01:54,320
+status. Em cada um, você pode renovar ou
+ 
+
+91
+00:01:54,320 --> 00:01:56,630
+status. Em cada um, você pode renovar ou
+cancelar. Para vender um plano novo,
+
+92
+00:01:56,630 --> 00:01:56,640
+cancelar. Para vender um plano novo,
+ 
+
+93
+00:01:56,640 --> 00:01:59,270
+cancelar. Para vender um plano novo,
+clique em registrar contratação, escolha
+
+94
+00:01:59,270 --> 00:01:59,280
+clique em registrar contratação, escolha
+ 
+
+95
+00:01:59,280 --> 00:02:01,750
+clique em registrar contratação, escolha
+o plano e a forma de pagamento. Na aba
+
+96
+00:02:01,750 --> 00:02:01,760
+o plano e a forma de pagamento. Na aba
+ 
+
+97
+00:02:01,760 --> 00:02:03,710
+o plano e a forma de pagamento. Na aba
+financeiro, você vê o que está em
+
+98
+00:02:03,710 --> 00:02:03,720
+financeiro, você vê o que está em
+ 
+
+99
+00:02:03,720 --> 00:02:06,190
+financeiro, você vê o que está em
+aberto, o que venceu e o que foi pago
+
+100
+00:02:06,190 --> 00:02:06,200
+aberto, o que venceu e o que foi pago
+ 
+
+101
+00:02:06,200 --> 00:02:09,270
+aberto, o que venceu e o que foi pago
+nos últimos 12 meses, fatura por fatura.
+
+102
+00:02:09,270 --> 00:02:09,280
+nos últimos 12 meses, fatura por fatura.
+ 
+
+103
+00:02:09,280 --> 00:02:11,350
+nos últimos 12 meses, fatura por fatura.
+Se o cliente pagou por fora, clique em
+
+104
+00:02:11,350 --> 00:02:11,360
+Se o cliente pagou por fora, clique em
+ 
+
+105
+00:02:11,360 --> 00:02:13,750
+Se o cliente pagou por fora, clique em
+confirmar pagamento e o plano continua
+
+106
+00:02:13,750 --> 00:02:13,760
+confirmar pagamento e o plano continua
+ 
+
+107
+00:02:13,760 --> 00:02:16,630
+confirmar pagamento e o plano continua
+no ar sem interrupção. Por fim, a aba no
+
+108
+00:02:16,630 --> 00:02:16,640
+no ar sem interrupção. Por fim, a aba no
+ 
+
+109
+00:02:16,640 --> 00:02:18,710
+no ar sem interrupção. Por fim, a aba no
+portal mostra tudo o que esse cliente
+
+110
+00:02:18,710 --> 00:02:18,720
+portal mostra tudo o que esse cliente
+ 
+
+111
+00:02:18,720 --> 00:02:21,630
+portal mostra tudo o que esse cliente
+tem publicado, empresas no guia, vagas,
+
+112
+00:02:21,630 --> 00:02:21,640
+tem publicado, empresas no guia, vagas,
+ 
+
+113
+00:02:21,640 --> 00:02:24,390
+tem publicado, empresas no guia, vagas,
+classificados e banners. Pronto, com
+
+114
+00:02:24,390 --> 00:02:24,400
+classificados e banners. Pronto, com
+ 
+
+115
+00:02:24,400 --> 00:02:26,750
+classificados e banners. Pronto, com
+meus clientes você sabe quem renovar,
+
+116
+00:02:26,750 --> 00:02:26,760
+meus clientes você sabe quem renovar,
+ 
+
+117
+00:02:26,760 --> 00:02:28,710
+meus clientes você sabe quem renovar,
+quem cobrar e quanto o seu portal
+
+118
+00:02:28,710 --> 00:02:28,720
+quem cobrar e quanto o seu portal
+ 
+
+119
+00:02:28,720 --> 00:02:31,200
+quem cobrar e quanto o seu portal
+fatura.
+

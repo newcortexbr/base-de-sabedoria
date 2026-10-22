@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - 2ShbACG2mHE
@@ -37,7 +37,7 @@ aqui você cadastra os produtos que o cliente pode pedir com entrega, com tamanh
 5. Escreva o nome da seção (por exemplo, Açaí). [guia=delivery-cardapio.nome-secao]
 6. Clique em `Criar`. [guia=delivery-cardapio.criar-secao]
 7. Escolha a seção na lista da esquerda. [guia=delivery-cardapio.secao]
-8. Clique em `+ Novo produto`. [guia=delivery-cardapio.novo-produto] [t=43]
+8. À direita aparecem os produtos da seção, com foto, preço e quantos grupos de opções cada um tem; em cada produto dá para editar ou excluir. Para cadastrar, clique em `+ Novo produto`. [guia=delivery-cardapio.novo-produto] [t=43]
 9. Escreva o `Nome *` do produto. [guia=delivery-cardapio.nome] [t=46]
 10. Se quiser, escreva a `Descrição`. [guia=delivery-cardapio.descricao]
 11. Em `Preço base (R$)`, informe o valor. Deixe zero quando o preço depender do tamanho. [guia=delivery-cardapio.preco] [t=49]
@@ -48,7 +48,7 @@ aqui você cadastra os produtos que o cliente pode pedir com entrega, com tamanh
 
 ## resultado
 
-os produtos disponíveis aparecem na loja de delivery da empresa; os pedidos chegam na `Fila de pedidos`.
+os produtos disponíveis aparecem na loja de delivery da empresa; os pedidos chegam na `Fila de pedidos`. Na loja, o cliente vê a taxa e o tempo de entrega, se a loja está aberta, o cupom disponível e os produtos por seção. Ao escolher um produto, ele marca os adicionais respeitando os limites de cada grupo; o carrinho mostra subtotal, taxa de entrega e total, e o pedido finalizado vai para a fila de pedidos da empresa.
 
 ## desvios
 

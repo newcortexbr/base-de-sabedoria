@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - pBHdF3bd1QI
@@ -43,13 +43,14 @@ aqui você cria, muda e apaga cupons de qualquer empresa do Guia, em nome do loj
 
 ## resultado
 
-o cupom aparece para os visitantes. Remover só apaga o cupom; a empresa continua no Guia.
+o cupom aparece para os visitantes. na página pública de cupons, o visitante pode buscar, filtrar por categoria e clicar em `pegar cupom`: o código aparece na hora, com o botão `copiar`, e basta apresentá-lo no estabelecimento. Remover só apaga o cupom; a empresa continua no Guia.
 
 ## desvios
 
 - Se a lista de empresas vier vazia, todas já podem ter cupom ou não há empresas no Guia.
 - Se a foto falhar, o cupom já foi salvo; edite e envie a foto de novo.
 - Cupom depende do plano da empresa.
+- Você não precisa cadastrar os cupons sozinho: a própria empresa pode gerenciar o cupom pelo painel do cliente, se o plano dela incluir cupom (o item `Cupons` aparece no menu dela, abaixo de `Guia Comercial`). ao salvar por lá, o selo muda para "no ar" e o cupom já aparece no portal. é o mesmo cupom que você vê no seu painel.
 
 ## quando pedir ajuda
 

@@ -8,10 +8,11 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - reZ3e1a4o-o
+  - aSRf0hwUrrc
 ---
 
 ## objetivo
@@ -34,6 +35,7 @@ aqui você mostra os quartos de hotel ou pousada, com fotos, comodidades e preç
 3. Desça até `Conteúdo da ficha` e, no cartão `Quartos e suítes`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-quartos] [t=22]
 4. Escreva o nome da seção (por exemplo, Suítes). [guia=guia-empresas-quartos.nome-secao] [t=35]
 5. Clique em `+ Seção`. [guia=guia-empresas-quartos.adicionar-secao] [t=38]
+   Cada seção mostra se está publicada e quantos quartos estão no ar. Nela há setas de ordem, `Renomear` e o x para excluir a seção.
 6. Na seção, clique em `+ Quarto`. [guia=guia-empresas-quartos.adicionar-quarto] [t=67]
 7. Escreva o `Título *` do quarto. [guia=guia-empresas-quartos.titulo] [t=70]
 8. Escreva o `Subtítulo`. [guia=guia-empresas-quartos.subtitulo] [t=73]
@@ -47,12 +49,12 @@ aqui você mostra os quartos de hotel ou pousada, com fotos, comodidades e preç
 
 ## resultado
 
-a página da empresa ganha o bloco `Quartos & Suítes` com preço por noite e botões de reserva e WhatsApp.
+a página da empresa ganha a aba de quartos e o bloco `Quartos & Suítes`, com as seções em abas. Cada quarto aparece num card com a foto e o número de fotos, o subtítulo, o título, a descrição e as comodidades (em etiquetas). À direita ficam o preço por noite e os botões de reserva e WhatsApp. Quando há promoção, o preço cheio aparece riscado ao lado do promocional.
 
 ## desvios
 
 - A categoria precisa ter `Quartos` marcado em `Gerenciar Categorias`; sem isso o cartão não aparece.
-- Cada quarto pode estar `Publicado` ou `Despublicado`.
+- Cada quarto pode estar `Publicado` ou `Despublicado`. Em cada quarto também dá para gerenciar as fotos, editar e excluir.
 - A própria empresa também pode cuidar disso pela área do cliente; a tela é a mesma.
 
 ## quando pedir ajuda

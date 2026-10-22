@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - 0nkWIgiQfwM
@@ -28,6 +28,14 @@ aqui você liga ou desliga o assistente no site e vê o que os visitantes pergun
 2. No quadro `Assistente de IA no site`, marque ou desmarque `Mostrar o Assistente de IA`. Não precisa salvar: muda na hora e aparece "Salvo!". [guia=assistente.mostrar] [t=83]
 3. No alto da página, em `O que os visitantes procuram no seu portal`, escolha o período nos botões `7 dias`, `30 dias` ou `90 dias`. [guia=assistente.periodo] [t=94]
 4. Veja os quadros com o que as pessoas perguntaram: `Perguntas sem resultado`, `Palavras mais buscadas`, `Cidades citadas`, `Categorias mais pedidas`, `Onde mais procuram` e `Últimas perguntas`. [guia=assistente.quadros]
+
+## explicação
+- o assistente aparece como um robozinho no canto da tela, nas páginas iniciais e nas listagens.
+- ele responde só com o que está publicado e no ar no portal; não inventa.
+- os cartões do topo mostram o total de perguntas, as com resultado, as sem resultado e a média por dia.
+- `Perguntas sem resultado` é uma lista de quem falta anunciar, ou seja, uma oportunidade de venda.
+- `Últimas perguntas` marca se a busca achou ou não achou.
+- as perguntas ficam guardadas por até 180 dias (a limpeza apaga as mais antigas) e o portal não guarda quem perguntou.
 
 ## resultado
 

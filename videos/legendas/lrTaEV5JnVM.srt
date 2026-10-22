@@ -1,0 +1,145 @@
+1
+00:00:00,000 --> 00:00:02,710
+ 
+Duas cores pintam o seu portal inteiro.
+
+2
+00:00:02,710 --> 00:00:02,720
+Duas cores pintam o seu portal inteiro.
+ 
+
+3
+00:00:02,720 --> 00:00:04,230
+Duas cores pintam o seu portal inteiro.
+Veja como escolher.
+
+4
+00:00:04,230 --> 00:00:04,240
+Veja como escolher.
+ 
+
+5
+00:00:04,240 --> 00:00:06,910
+Veja como escolher.
+No menu lateral, abra configurações,
+
+6
+00:00:06,910 --> 00:00:06,920
+No menu lateral, abra configurações,
+ 
+
+7
+00:00:06,920 --> 00:00:09,910
+No menu lateral, abra configurações,
+clique em layout e depois em cores. A
+
+8
+00:00:09,910 --> 00:00:09,920
+clique em layout e depois em cores. A
+ 
+
+9
+00:00:09,920 --> 00:00:12,270
+clique em layout e depois em cores. A
+cor primária é a de tudo que se clica:
+
+10
+00:00:12,270 --> 00:00:12,280
+cor primária é a de tudo que se clica:
+ 
+
+11
+00:00:12,280 --> 00:00:15,750
+cor primária é a de tudo que se clica:
+botões, links, paginação e campos. A cor
+
+12
+00:00:15,750 --> 00:00:15,760
+botões, links, paginação e campos. A cor
+ 
+
+13
+00:00:15,760 --> 00:00:18,550
+botões, links, paginação e campos. A cor
+de destaque chama atenção sem ser botão:
+
+14
+00:00:18,550 --> 00:00:18,560
+de destaque chama atenção sem ser botão:
+ 
+
+15
+00:00:18,560 --> 00:00:21,750
+de destaque chama atenção sem ser botão:
+nomes de seção, selos e etiquetas. Em
+
+16
+00:00:21,750 --> 00:00:21,760
+nomes de seção, selos e etiquetas. Em
+ 
+
+17
+00:00:21,760 --> 00:00:24,070
+nomes de seção, selos e etiquetas. Em
+onde ela aparece, você vê exemplos com a
+
+18
+00:00:24,070 --> 00:00:24,080
+onde ela aparece, você vê exemplos com a
+ 
+
+19
+00:00:24,080 --> 00:00:26,390
+onde ela aparece, você vê exemplos com a
+cor escolhida e um aviso confirma se o
+
+20
+00:00:26,390 --> 00:00:26,400
+cor escolhida e um aviso confirma se o
+ 
+
+21
+00:00:26,400 --> 00:00:28,910
+cor escolhida e um aviso confirma se o
+texto fica legível. Na prévia, escolha
+
+22
+00:00:28,910 --> 00:00:28,920
+texto fica legível. Na prévia, escolha
+ 
+
+23
+00:00:28,920 --> 00:00:31,710
+texto fica legível. Na prévia, escolha
+uma página do site como vagas e veja as
+
+24
+00:00:31,710 --> 00:00:31,720
+uma página do site como vagas e veja as
+ 
+
+25
+00:00:31,720 --> 00:00:34,470
+uma página do site como vagas e veja as
+cores aplicadas. Clique em salvar cores
+
+26
+00:00:34,470 --> 00:00:34,480
+cores aplicadas. Clique em salvar cores
+ 
+
+27
+00:00:34,480 --> 00:00:37,510
+cores aplicadas. Clique em salvar cores
+e todo o site muda de uma vez. Pronto!
+
+28
+00:00:37,510 --> 00:00:37,520
+e todo o site muda de uma vez. Pronto!
+ 
+
+29
+00:00:37,520 --> 00:00:41,760
+e todo o site muda de uma vez. Pronto!
+Seu portal com as cores da sua marca.
+

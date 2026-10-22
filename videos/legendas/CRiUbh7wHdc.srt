@@ -1,0 +1,355 @@
+1
+00:00:00,000 --> 00:00:02,270
+ 
+Em artigos, colunistas convidados
+
+2
+00:00:02,270 --> 00:00:02,280
+Em artigos, colunistas convidados
+ 
+
+3
+00:00:02,280 --> 00:00:04,390
+Em artigos, colunistas convidados
+escrevem para o seu portal. Veja as
+
+4
+00:00:04,390 --> 00:00:04,400
+escrevem para o seu portal. Veja as
+ 
+
+5
+00:00:04,400 --> 00:00:06,870
+escrevem para o seu portal. Veja as
+quatro abas do menu. No menu lateral,
+
+6
+00:00:06,870 --> 00:00:06,880
+quatro abas do menu. No menu lateral,
+ 
+
+7
+00:00:06,880 --> 00:00:09,710
+quatro abas do menu. No menu lateral,
+abra artigos. Ali estão: lista de
+
+8
+00:00:09,710 --> 00:00:09,720
+abra artigos. Ali estão: lista de
+ 
+
+9
+00:00:09,720 --> 00:00:12,630
+abra artigos. Ali estão: lista de
+artigos, novo artigo, colunistas e
+
+10
+00:00:12,630 --> 00:00:12,640
+artigos, novo artigo, colunistas e
+ 
+
+11
+00:00:12,640 --> 00:00:13,870
+artigos, novo artigo, colunistas e
+categorias.
+
+12
+00:00:13,870 --> 00:00:13,880
+categorias.
+ 
+
+13
+00:00:13,880 --> 00:00:15,870
+categorias.
+Em lista de artigos ficam todos os
+
+14
+00:00:15,870 --> 00:00:15,880
+Em lista de artigos ficam todos os
+ 
+
+15
+00:00:15,880 --> 00:00:18,150
+Em lista de artigos ficam todos os
+textos, com contadores de publicados,
+
+16
+00:00:18,150 --> 00:00:18,160
+textos, com contadores de publicados,
+ 
+
+17
+00:00:18,160 --> 00:00:20,990
+textos, com contadores de publicados,
+agendados, rascunhos e arquivados.
+
+18
+00:00:20,990 --> 00:00:21,000
+agendados, rascunhos e arquivados.
+ 
+
+19
+00:00:21,000 --> 00:00:23,710
+agendados, rascunhos e arquivados.
+Filtre por título, colunista, categoria
+
+20
+00:00:23,710 --> 00:00:23,720
+Filtre por título, colunista, categoria
+ 
+
+21
+00:00:23,720 --> 00:00:26,390
+Filtre por título, colunista, categoria
+ou status. Em cada linha, você abre no
+
+22
+00:00:26,390 --> 00:00:26,400
+ou status. Em cada linha, você abre no
+ 
+
+23
+00:00:26,400 --> 00:00:29,470
+ou status. Em cada linha, você abre no
+site, edita ou exclui. Para escrever,
+
+24
+00:00:29,470 --> 00:00:29,480
+site, edita ou exclui. Para escrever,
+ 
+
+25
+00:00:29,480 --> 00:00:31,510
+site, edita ou exclui. Para escrever,
+clique em novo artigo. Escolha o
+
+26
+00:00:31,510 --> 00:00:31,520
+clique em novo artigo. Escolha o
+ 
+
+27
+00:00:31,520 --> 00:00:33,750
+clique em novo artigo. Escolha o
+colunista que assina e a categoria.
+
+28
+00:00:33,750 --> 00:00:33,760
+colunista que assina e a categoria.
+ 
+
+29
+00:00:33,760 --> 00:00:35,990
+colunista que assina e a categoria.
+Preencha o título, o subtítulo, a
+
+30
+00:00:35,990 --> 00:00:36,000
+Preencha o título, o subtítulo, a
+ 
+
+31
+00:00:36,000 --> 00:00:38,110
+Preencha o título, o subtítulo, a
+chamada e o texto do artigo com a
+
+32
+00:00:38,110 --> 00:00:38,120
+chamada e o texto do artigo com a
+ 
+
+33
+00:00:38,120 --> 00:00:40,310
+chamada e o texto do artigo com a
+formatação que quiser. Envie a foto de
+
+34
+00:00:40,310 --> 00:00:40,320
+formatação que quiser. Envie a foto de
+ 
+
+35
+00:00:40,320 --> 00:00:43,030
+formatação que quiser. Envie a foto de
+capa, com legenda e créditos. E, se
+
+36
+00:00:43,030 --> 00:00:43,040
+capa, com legenda e créditos. E, se
+ 
+
+37
+00:00:43,040 --> 00:00:45,390
+capa, com legenda e créditos. E, se
+quiser, ajuste o título e a descrição
+
+38
+00:00:45,390 --> 00:00:45,400
+quiser, ajuste o título e a descrição
+ 
+
+39
+00:00:45,400 --> 00:00:47,150
+quiser, ajuste o título e a descrição
+para o Google. Como o colunista é da
+
+40
+00:00:47,150 --> 00:00:47,160
+para o Google. Como o colunista é da
+ 
+
+41
+00:00:47,160 --> 00:00:49,790
+para o Google. Como o colunista é da
+casa, é só clicar em publicar e o artigo
+
+42
+00:00:49,790 --> 00:00:49,800
+casa, é só clicar em publicar e o artigo
+ 
+
+43
+00:00:49,800 --> 00:00:52,150
+casa, é só clicar em publicar e o artigo
+vai direto para o ar. Em colunistas
+
+44
+00:00:52,150 --> 00:00:52,160
+vai direto para o ar. Em colunistas
+ 
+
+45
+00:00:52,160 --> 00:00:54,950
+vai direto para o ar. Em colunistas
+ficam os autores, com foto, profissão e
+
+46
+00:00:54,950 --> 00:00:54,960
+ficam os autores, com foto, profissão e
+ 
+
+47
+00:00:54,960 --> 00:00:57,190
+ficam os autores, com foto, profissão e
+um botão para ativar ou desativar cada
+
+48
+00:00:57,190 --> 00:00:57,200
+um botão para ativar ou desativar cada
+ 
+
+49
+00:00:57,200 --> 00:00:59,230
+um botão para ativar ou desativar cada
+um. Clique em novo colunista para
+
+50
+00:00:59,230 --> 00:00:59,240
+um. Clique em novo colunista para
+ 
+
+51
+00:00:59,240 --> 00:01:02,430
+um. Clique em novo colunista para
+cadastrar nome, foto, especialidade, uma
+
+52
+00:01:02,430 --> 00:01:02,440
+cadastrar nome, foto, especialidade, uma
+ 
+
+53
+00:01:02,440 --> 00:01:04,990
+cadastrar nome, foto, especialidade, uma
+descrição curta e as redes sociais. Em
+
+54
+00:01:04,990 --> 00:01:05,000
+descrição curta e as redes sociais. Em
+ 
+
+55
+00:01:05,000 --> 00:01:07,390
+descrição curta e as redes sociais. Em
+categorias, você organiza os temas, como
+
+56
+00:01:07,390 --> 00:01:07,400
+categorias, você organiza os temas, como
+ 
+
+57
+00:01:07,400 --> 00:01:10,230
+categorias, você organiza os temas, como
+saúde, cultura e cidade. Cada um com a
+
+58
+00:01:10,230 --> 00:01:10,240
+saúde, cultura e cidade. Cada um com a
+ 
+
+59
+00:01:10,240 --> 00:01:12,910
+saúde, cultura e cidade. Cada um com a
+sua cor. Clique em nova categoria, dê um
+
+60
+00:01:12,910 --> 00:01:12,920
+sua cor. Clique em nova categoria, dê um
+ 
+
+61
+00:01:12,920 --> 00:01:15,950
+sua cor. Clique em nova categoria, dê um
+nome, escolha uma cor e salve. No site,
+
+62
+00:01:15,950 --> 00:01:15,960
+nome, escolha uma cor e salve. No site,
+ 
+
+63
+00:01:15,960 --> 00:01:17,470
+nome, escolha uma cor e salve. No site,
+a página de artigos mostra os
+
+64
+00:01:17,470 --> 00:01:17,480
+a página de artigos mostra os
+ 
+
+65
+00:01:17,480 --> 00:01:19,990
+a página de artigos mostra os
+colunistas, as categorias e os textos
+
+66
+00:01:19,990 --> 00:01:20,000
+colunistas, as categorias e os textos
+ 
+
+67
+00:01:20,000 --> 00:01:22,430
+colunistas, as categorias e os textos
+mais recentes. Pronto. Agora o seu
+
+68
+00:01:22,430 --> 00:01:22,440
+mais recentes. Pronto. Agora o seu
+ 
+
+69
+00:01:22,440 --> 00:01:24,750
+mais recentes. Pronto. Agora o seu
+portal tem conteúdo de opinião assinado
+
+70
+00:01:24,750 --> 00:01:24,760
+portal tem conteúdo de opinião assinado
+ 
+
+71
+00:01:24,760 --> 00:01:28,240
+portal tem conteúdo de opinião assinado
+por quem entende do assunto.
+

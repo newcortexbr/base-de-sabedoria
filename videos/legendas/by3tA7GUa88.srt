@@ -1,0 +1,775 @@
+1
+00:00:00,000 --> 00:00:02,390
+ 
+Olá, se você foi convidado para escrever
+
+2
+00:00:02,390 --> 00:00:02,400
+Olá, se você foi convidado para escrever
+ 
+
+3
+00:00:02,400 --> 00:00:04,630
+Olá, se você foi convidado para escrever
+no portal como jornalista, este vídeo
+
+4
+00:00:04,630 --> 00:00:04,640
+no portal como jornalista, este vídeo
+ 
+
+5
+00:00:04,640 --> 00:00:07,110
+no portal como jornalista, este vídeo
+mostra passo a passo como publicar a sua
+
+6
+00:00:07,110 --> 00:00:07,120
+mostra passo a passo como publicar a sua
+ 
+
+7
+00:00:07,120 --> 00:00:09,750
+mostra passo a passo como publicar a sua
+notícia. O portal cria o seu acesso e
+
+8
+00:00:09,750 --> 00:00:09,760
+notícia. O portal cria o seu acesso e
+ 
+
+9
+00:00:09,760 --> 00:00:11,950
+notícia. O portal cria o seu acesso e
+envia o e-mail e a senha. Na tela de
+
+10
+00:00:11,950 --> 00:00:11,960
+envia o e-mail e a senha. Na tela de
+ 
+
+11
+00:00:11,960 --> 00:00:14,150
+envia o e-mail e a senha. Na tela de
+entrada da área do cliente, digite o seu
+
+12
+00:00:14,150 --> 00:00:14,160
+entrada da área do cliente, digite o seu
+ 
+
+13
+00:00:14,160 --> 00:00:17,150
+entrada da área do cliente, digite o seu
+e-mail e a sua senha e clique em entrar.
+
+14
+00:00:17,150 --> 00:00:17,160
+e-mail e a sua senha e clique em entrar.
+ 
+
+15
+00:00:17,160 --> 00:00:19,630
+e-mail e a sua senha e clique em entrar.
+Você cai direto na área do jornalista.
+
+16
+00:00:19,630 --> 00:00:19,640
+Você cai direto na área do jornalista.
+ 
+
+17
+00:00:19,640 --> 00:00:22,030
+Você cai direto na área do jornalista.
+No menu da esquerda ficam três itens:
+
+18
+00:00:22,030 --> 00:00:22,040
+No menu da esquerda ficam três itens:
+ 
+
+19
+00:00:22,040 --> 00:00:25,230
+No menu da esquerda ficam três itens:
+notícias, autor e segurança. Antes da
+
+20
+00:00:25,230 --> 00:00:25,240
+notícias, autor e segurança. Antes da
+ 
+
+21
+00:00:25,240 --> 00:00:27,150
+notícias, autor e segurança. Antes da
+primeira matéria, vale preencher o seu
+
+22
+00:00:27,150 --> 00:00:27,160
+primeira matéria, vale preencher o seu
+ 
+
+23
+00:00:27,160 --> 00:00:29,910
+primeira matéria, vale preencher o seu
+perfil em autor. É a sua assinatura que
+
+24
+00:00:29,910 --> 00:00:29,920
+perfil em autor. É a sua assinatura que
+ 
+
+25
+00:00:29,920 --> 00:00:31,750
+perfil em autor. É a sua assinatura que
+aparece em todas as notícias que você
+
+26
+00:00:31,750 --> 00:00:31,760
+aparece em todas as notícias que você
+ 
+
+27
+00:00:31,760 --> 00:00:34,390
+aparece em todas as notícias que você
+escrever. Envie a sua foto, confira o
+
+28
+00:00:34,390 --> 00:00:34,400
+escrever. Envie a sua foto, confira o
+ 
+
+29
+00:00:34,400 --> 00:00:36,790
+escrever. Envie a sua foto, confira o
+nome, o cargo e escreva uma mini
+
+30
+00:00:36,790 --> 00:00:36,800
+nome, o cargo e escreva uma mini
+ 
+
+31
+00:00:36,800 --> 00:00:39,150
+nome, o cargo e escreva uma mini
+biografia. Se quiser, coloque o seu
+
+32
+00:00:39,150 --> 00:00:39,160
+biografia. Se quiser, coloque o seu
+ 
+
+33
+00:00:39,160 --> 00:00:41,670
+biografia. Se quiser, coloque o seu
+Instagram, site, WhatsApp e e-mail
+
+34
+00:00:41,670 --> 00:00:41,680
+Instagram, site, WhatsApp e e-mail
+ 
+
+35
+00:00:41,680 --> 00:00:44,070
+Instagram, site, WhatsApp e e-mail
+público. Do lado direito, você vê como a
+
+36
+00:00:44,070 --> 00:00:44,080
+público. Do lado direito, você vê como a
+ 
+
+37
+00:00:44,080 --> 00:00:46,710
+público. Do lado direito, você vê como a
+assinatura vai aparecer. Depois, clique
+
+38
+00:00:46,710 --> 00:00:46,720
+assinatura vai aparecer. Depois, clique
+ 
+
+39
+00:00:46,720 --> 00:00:49,870
+assinatura vai aparecer. Depois, clique
+em salvar perfil. Agora vamos à notícia.
+
+40
+00:00:49,870 --> 00:00:49,880
+em salvar perfil. Agora vamos à notícia.
+ 
+
+41
+00:00:49,880 --> 00:00:52,830
+em salvar perfil. Agora vamos à notícia.
+Em notícias, clique em nova notícia. O
+
+42
+00:00:52,830 --> 00:00:52,840
+Em notícias, clique em nova notícia. O
+ 
+
+43
+00:00:52,840 --> 00:00:55,470
+Em notícias, clique em nova notícia. O
+formulário tem duas colunas. À esquerda,
+
+44
+00:00:55,470 --> 00:00:55,480
+formulário tem duas colunas. À esquerda,
+ 
+
+45
+00:00:55,480 --> 00:00:57,870
+formulário tem duas colunas. À esquerda,
+o conteúdo da matéria. À direita, a
+
+46
+00:00:57,870 --> 00:00:57,880
+o conteúdo da matéria. À direita, a
+ 
+
+47
+00:00:57,880 --> 00:01:01,110
+o conteúdo da matéria. À direita, a
+publicação, a foto de capa e o SEO. Em
+
+48
+00:01:01,110 --> 00:01:01,120
+publicação, a foto de capa e o SEO. Em
+ 
+
+49
+00:01:01,120 --> 00:01:03,350
+publicação, a foto de capa e o SEO. Em
+título, escreva a manchete. Em
+
+50
+00:01:03,350 --> 00:01:03,360
+título, escreva a manchete. Em
+ 
+
+51
+00:01:03,360 --> 00:01:05,910
+título, escreva a manchete. Em
+subtítulo, complemente a informação. O
+
+52
+00:01:05,910 --> 00:01:05,920
+subtítulo, complemente a informação. O
+ 
+
+53
+00:01:05,920 --> 00:01:08,310
+subtítulo, complemente a informação. O
+título curto é uma versão menor usada
+
+54
+00:01:08,310 --> 00:01:08,320
+título curto é uma versão menor usada
+ 
+
+55
+00:01:08,320 --> 00:01:10,670
+título curto é uma versão menor usada
+nos cartões da página inicial. Se deixar
+
+56
+00:01:10,670 --> 00:01:10,680
+nos cartões da página inicial. Se deixar
+ 
+
+57
+00:01:10,680 --> 00:01:13,190
+nos cartões da página inicial. Se deixar
+em branco, o portal usa o título normal.
+
+58
+00:01:13,190 --> 00:01:13,200
+em branco, o portal usa o título normal.
+ 
+
+59
+00:01:13,200 --> 00:01:15,550
+em branco, o portal usa o título normal.
+Em chamada da matéria, escreva um resumo
+
+60
+00:01:15,550 --> 00:01:15,560
+Em chamada da matéria, escreva um resumo
+ 
+
+61
+00:01:15,560 --> 00:01:17,870
+Em chamada da matéria, escreva um resumo
+de uma ou duas frases. Ela aparece em
+
+62
+00:01:17,870 --> 00:01:17,880
+de uma ou duas frases. Ela aparece em
+ 
+
+63
+00:01:17,880 --> 00:01:20,230
+de uma ou duas frases. Ela aparece em
+destaque logo abaixo do título. Em
+
+64
+00:01:20,230 --> 00:01:20,240
+destaque logo abaixo do título. Em
+ 
+
+65
+00:01:20,240 --> 00:01:22,510
+destaque logo abaixo do título. Em
+conteúdo da matéria, escreva o texto
+
+66
+00:01:22,510 --> 00:01:22,520
+conteúdo da matéria, escreva o texto
+ 
+
+67
+00:01:22,520 --> 00:01:24,790
+conteúdo da matéria, escreva o texto
+completo. A barra de ferramentas tem
+
+68
+00:01:24,790 --> 00:01:24,800
+completo. A barra de ferramentas tem
+ 
+
+69
+00:01:24,800 --> 00:01:27,790
+completo. A barra de ferramentas tem
+ itálico, títulos internos,
+
+70
+00:01:27,790 --> 00:01:27,800
+itálico, títulos internos,
+ 
+
+71
+00:01:27,800 --> 00:01:30,590
+ itálico, títulos internos,
+citação, listas, alinhamento,
+
+72
+00:01:30,590 --> 00:01:30,600
+citação, listas, alinhamento,
+ 
+
+73
+00:01:30,600 --> 00:01:33,790
+citação, listas, alinhamento,
+cores, link e vídeo. O botão inserir
+
+74
+00:01:33,790 --> 00:01:33,800
+cores, link e vídeo. O botão inserir
+ 
+
+75
+00:01:33,800 --> 00:01:36,310
+cores, link e vídeo. O botão inserir
+imagem coloca uma foto no meio do texto
+
+76
+00:01:36,310 --> 00:01:36,320
+imagem coloca uma foto no meio do texto
+ 
+
+77
+00:01:36,320 --> 00:01:38,910
+imagem coloca uma foto no meio do texto
+no ponto onde está o cursor. Em tags,
+
+78
+00:01:38,910 --> 00:01:38,920
+no ponto onde está o cursor. Em tags,
+ 
+
+79
+00:01:38,920 --> 00:01:41,230
+no ponto onde está o cursor. Em tags,
+digite as palavras-chave e aperte enter
+
+80
+00:01:41,230 --> 00:01:41,240
+digite as palavras-chave e aperte enter
+ 
+
+81
+00:01:41,240 --> 00:01:43,670
+digite as palavras-chave e aperte enter
+depois de cada uma. Elas ajudam o leitor
+
+82
+00:01:43,670 --> 00:01:43,680
+depois de cada uma. Elas ajudam o leitor
+ 
+
+83
+00:01:43,680 --> 00:01:45,550
+depois de cada uma. Elas ajudam o leitor
+a encontrar outras matérias do mesmo
+
+84
+00:01:45,550 --> 00:01:45,560
+a encontrar outras matérias do mesmo
+ 
+
+85
+00:01:45,560 --> 00:01:48,230
+a encontrar outras matérias do mesmo
+assunto. Em fonte da matéria, informe de
+
+86
+00:01:48,230 --> 00:01:48,240
+assunto. Em fonte da matéria, informe de
+ 
+
+87
+00:01:48,240 --> 00:01:50,430
+assunto. Em fonte da matéria, informe de
+onde veio a informação, por exemplo, a
+
+88
+00:01:50,430 --> 00:01:50,440
+onde veio a informação, por exemplo, a
+ 
+
+89
+00:01:50,440 --> 00:01:53,150
+onde veio a informação, por exemplo, a
+organização do evento. Em categorização,
+
+90
+00:01:53,150 --> 00:01:53,160
+organização do evento. Em categorização,
+ 
+
+91
+00:01:53,160 --> 00:01:55,230
+organização do evento. Em categorização,
+escolha a categoria da notícia, como
+
+92
+00:01:55,230 --> 00:01:55,240
+escolha a categoria da notícia, como
+ 
+
+93
+00:01:55,240 --> 00:01:58,070
+escolha a categoria da notícia, como
+cultura e se quiser, a subcategoria.
+
+94
+00:01:58,070 --> 00:01:58,080
+cultura e se quiser, a subcategoria.
+ 
+
+95
+00:01:58,080 --> 00:02:00,310
+cultura e se quiser, a subcategoria.
+Agora a coluna da direita. Em foto de
+
+96
+00:02:00,310 --> 00:02:00,320
+Agora a coluna da direita. Em foto de
+ 
+
+97
+00:02:00,320 --> 00:02:02,430
+Agora a coluna da direita. Em foto de
+capa, clique ou arraste a imagem
+
+98
+00:02:02,430 --> 00:02:02,440
+capa, clique ou arraste a imagem
+ 
+
+99
+00:02:02,440 --> 00:02:04,910
+capa, clique ou arraste a imagem
+principal. Depois, clique na foto para
+
+100
+00:02:04,910 --> 00:02:04,920
+principal. Depois, clique na foto para
+ 
+
+101
+00:02:04,920 --> 00:02:06,910
+principal. Depois, clique na foto para
+escolher o ponto que deve ficar sempre
+
+102
+00:02:06,910 --> 00:02:06,920
+escolher o ponto que deve ficar sempre
+ 
+
+103
+00:02:06,920 --> 00:02:08,669
+escolher o ponto que deve ficar sempre
+visível quando ela for recortada nos
+
+104
+00:02:08,669 --> 00:02:08,679
+visível quando ela for recortada nos
+ 
+
+105
+00:02:08,679 --> 00:02:11,470
+visível quando ela for recortada nos
+cartões. Logo abaixo, preencha a legenda
+
+106
+00:02:11,470 --> 00:02:11,480
+cartões. Logo abaixo, preencha a legenda
+ 
+
+107
+00:02:11,480 --> 00:02:14,310
+cartões. Logo abaixo, preencha a legenda
+da foto e os créditos, ou seja, o autor
+
+108
+00:02:14,310 --> 00:02:14,320
+da foto e os créditos, ou seja, o autor
+ 
+
+109
+00:02:14,320 --> 00:02:16,830
+da foto e os créditos, ou seja, o autor
+da imagem. Em SEO, você pode escrever o
+
+110
+00:02:16,830 --> 00:02:16,840
+da imagem. Em SEO, você pode escrever o
+ 
+
+111
+00:02:16,840 --> 00:02:18,870
+da imagem. Em SEO, você pode escrever o
+título e a descrição que aparecem no
+
+112
+00:02:18,870 --> 00:02:18,880
+título e a descrição que aparecem no
+ 
+
+113
+00:02:18,880 --> 00:02:20,830
+título e a descrição que aparecem no
+Google. Deixe em branco para o portal
+
+114
+00:02:20,830 --> 00:02:20,840
+Google. Deixe em branco para o portal
+ 
+
+115
+00:02:20,840 --> 00:02:23,350
+Google. Deixe em branco para o portal
+usar o título e a chamada. Por fim, a
+
+116
+00:02:23,350 --> 00:02:23,360
+usar o título e a chamada. Por fim, a
+ 
+
+117
+00:02:23,360 --> 00:02:26,470
+usar o título e a chamada. Por fim, a
+publicação. Em status, escolha publicado
+
+118
+00:02:26,470 --> 00:02:26,480
+publicação. Em status, escolha publicado
+ 
+
+119
+00:02:26,480 --> 00:02:28,710
+publicação. Em status, escolha publicado
+para a notícia ir ao ar na hora, ou
+
+120
+00:02:28,710 --> 00:02:28,720
+para a notícia ir ao ar na hora, ou
+ 
+
+121
+00:02:28,720 --> 00:02:31,190
+para a notícia ir ao ar na hora, ou
+rascunho para continuar depois. Você
+
+122
+00:02:31,190 --> 00:02:31,200
+rascunho para continuar depois. Você
+ 
+
+123
+00:02:31,200 --> 00:02:33,590
+rascunho para continuar depois. Você
+também pode ligar agendar notícia e
+
+124
+00:02:33,590 --> 00:02:33,600
+também pode ligar agendar notícia e
+ 
+
+125
+00:02:33,600 --> 00:02:36,390
+também pode ligar agendar notícia e
+escolher a data e a hora. Confira tudo e
+
+126
+00:02:36,390 --> 00:02:36,400
+escolher a data e a hora. Confira tudo e
+ 
+
+127
+00:02:36,400 --> 00:02:39,270
+escolher a data e a hora. Confira tudo e
+clique em adicionar. Pronto. A notícia
+
+128
+00:02:39,270 --> 00:02:39,280
+clique em adicionar. Pronto. A notícia
+ 
+
+129
+00:02:39,280 --> 00:02:41,110
+clique em adicionar. Pronto. A notícia
+aparece em minhas notícias como
+
+130
+00:02:41,110 --> 00:02:41,120
+aparece em minhas notícias como
+ 
+
+131
+00:02:41,120 --> 00:02:43,670
+aparece em minhas notícias como
+publicada. Os quadros do topo mostram
+
+132
+00:02:43,670 --> 00:02:43,680
+publicada. Os quadros do topo mostram
+ 
+
+133
+00:02:43,680 --> 00:02:46,430
+publicada. Os quadros do topo mostram
+quantas estão publicadas, agendadas e em
+
+134
+00:02:46,430 --> 00:02:46,440
+quantas estão publicadas, agendadas e em
+ 
+
+135
+00:02:46,440 --> 00:02:48,830
+quantas estão publicadas, agendadas e em
+rascunho. Nos botões da direita, você
+
+136
+00:02:48,830 --> 00:02:48,840
+rascunho. Nos botões da direita, você
+ 
+
+137
+00:02:48,840 --> 00:02:51,110
+rascunho. Nos botões da direita, você
+abre a matéria no portal, edita,
+
+138
+00:02:51,110 --> 00:02:51,120
+abre a matéria no portal, edita,
+ 
+
+139
+00:02:51,120 --> 00:02:54,190
+abre a matéria no portal, edita,
+despublica ou exclui. E esta é a sua
+
+140
+00:02:54,190 --> 00:02:54,200
+despublica ou exclui. E esta é a sua
+ 
+
+141
+00:02:54,200 --> 00:02:56,670
+despublica ou exclui. E esta é a sua
+notícia no portal. A categoria, o
+
+142
+00:02:56,670 --> 00:02:56,680
+notícia no portal. A categoria, o
+ 
+
+143
+00:02:56,680 --> 00:02:59,590
+notícia no portal. A categoria, o
+título, o subtítulo, a chamada e a sua
+
+144
+00:02:59,590 --> 00:02:59,600
+título, o subtítulo, a chamada e a sua
+ 
+
+145
+00:02:59,600 --> 00:03:02,110
+título, o subtítulo, a chamada e a sua
+assinatura com foto e redes sociais.
+
+146
+00:03:02,110 --> 00:03:02,120
+assinatura com foto e redes sociais.
+ 
+
+147
+00:03:02,120 --> 00:03:04,030
+assinatura com foto e redes sociais.
+Logo abaixo, a foto de capa com a
+
+148
+00:03:04,030 --> 00:03:04,040
+Logo abaixo, a foto de capa com a
+ 
+
+149
+00:03:04,040 --> 00:03:06,830
+Logo abaixo, a foto de capa com a
+legenda, o texto da matéria, a fonte e
+
+150
+00:03:06,830 --> 00:03:06,840
+legenda, o texto da matéria, a fonte e
+ 
+
+151
+00:03:06,840 --> 00:03:09,350
+legenda, o texto da matéria, a fonte e
+as tags. E no fim, o quadro sobre o
+
+152
+00:03:09,350 --> 00:03:09,360
+as tags. E no fim, o quadro sobre o
+ 
+
+153
+00:03:09,360 --> 00:03:11,949
+as tags. E no fim, o quadro sobre o
+autor. Pronto. Agora é só escrever e
+
+154
+00:03:11,949 --> 00:03:11,959
+autor. Pronto. Agora é só escrever e
+ 
+
+155
+00:03:11,959 --> 00:03:15,519
+autor. Pronto. Agora é só escrever e
+publicar. Bom trabalho.
+

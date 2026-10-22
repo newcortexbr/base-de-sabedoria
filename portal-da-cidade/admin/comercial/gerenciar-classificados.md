@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-20
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - Ps1cgdLQ1FI
@@ -37,6 +37,23 @@ aqui você acha, muda e apaga os anúncios de classificados do portal. Vagas de 
 ## resultado
 
 A lista mostra os anúncios disponíveis para administração naquele portal.
+
+## o que a lista mostra
+
+- No alto da lista há as abas, a busca, a categoria e o status, e os contadores de total, publicados no site e incompletos (sem foto).
+- Cada linha traz a foto, o título, o anunciante, a categoria, o preço, o local, os cliques no WhatsApp e o status (ativo, vendido ou encerrado). Os selos de destaque ficam abaixo do título.
+- As ações da linha são ver no site, editar, marcar como vendido e excluir.
+
+## quem cria os anúncios
+
+- Os anunciantes criam e gerenciam os próprios anúncios pela área do cliente. O `Novo anúncio` pelo painel é opcional, para casos especiais, como ajudar um cliente.
+- O anúncio enviado pelo cliente pode passar pela aprovação do admin, na tela `Aprovações e denúncias`, que também recebe as denúncias feitas pelos visitantes.
+
+## outras telas de classificados
+
+- `Categorias`: organiza as seções (imóveis, veículos, eletrônicos etc.). Cada uma tem subcategorias, mostra quantos anúncios tem e pode ser ativada ou desativada.
+- `Anunciantes`: as pessoas e empresas que anunciam, com o e-mail de acesso e o selo de verificado.
+- Os planos de classificados ficam em `Meus Planos`: limite de anúncios, dias no ar, fotos e benefícios.
 
 ## desvios
 

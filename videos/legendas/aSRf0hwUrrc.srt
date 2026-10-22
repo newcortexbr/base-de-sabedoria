@@ -1,0 +1,475 @@
+1
+00:00:00,000 --> 00:00:01,910
+ 
+Neste vídeo, você vai cadastrar os
+
+2
+00:00:01,910 --> 00:00:01,920
+Neste vídeo, você vai cadastrar os
+ 
+
+3
+00:00:01,920 --> 00:00:04,230
+Neste vídeo, você vai cadastrar os
+quartos e suítes da sua hospedagem com
+
+4
+00:00:04,230 --> 00:00:04,240
+quartos e suítes da sua hospedagem com
+ 
+
+5
+00:00:04,240 --> 00:00:06,910
+quartos e suítes da sua hospedagem com
+fotos, diárias e tudo que cada quarto
+
+6
+00:00:06,910 --> 00:00:06,920
+fotos, diárias e tudo que cada quarto
+ 
+
+7
+00:00:06,920 --> 00:00:09,230
+fotos, diárias e tudo que cada quarto
+oferece. É assim que eles aparecem para
+
+8
+00:00:09,230 --> 00:00:09,240
+oferece. É assim que eles aparecem para
+ 
+
+9
+00:00:09,240 --> 00:00:11,470
+oferece. É assim que eles aparecem para
+o hóspede no celular. Este recurso
+
+10
+00:00:11,470 --> 00:00:11,480
+o hóspede no celular. Este recurso
+ 
+
+11
+00:00:11,480 --> 00:00:13,630
+o hóspede no celular. Este recurso
+aparece para empresas de categorias como
+
+12
+00:00:13,630 --> 00:00:13,640
+aparece para empresas de categorias como
+ 
+
+13
+00:00:13,640 --> 00:00:16,830
+aparece para empresas de categorias como
+hospedagem, hotéis, pousadas, chalés e
+
+14
+00:00:16,830 --> 00:00:16,840
+hospedagem, hotéis, pousadas, chalés e
+ 
+
+15
+00:00:16,840 --> 00:00:19,470
+hospedagem, hotéis, pousadas, chalés e
+casas de temporada. Na sua área, clique
+
+16
+00:00:19,470 --> 00:00:19,480
+casas de temporada. Na sua área, clique
+ 
+
+17
+00:00:19,480 --> 00:00:22,070
+casas de temporada. Na sua área, clique
+em guia comercial e role até páginas da
+
+18
+00:00:22,070 --> 00:00:22,080
+em guia comercial e role até páginas da
+ 
+
+19
+00:00:22,080 --> 00:00:25,030
+em guia comercial e role até páginas da
+sua empresa. No cartão quartos e suítes,
+
+20
+00:00:25,030 --> 00:00:25,040
+sua empresa. No cartão quartos e suítes,
+ 
+
+21
+00:00:25,040 --> 00:00:27,430
+sua empresa. No cartão quartos e suítes,
+clique em gerenciar. Abre a tela
+
+22
+00:00:27,430 --> 00:00:27,440
+clique em gerenciar. Abre a tela
+ 
+
+23
+00:00:27,440 --> 00:00:30,350
+clique em gerenciar. Abre a tela
+gerenciar quartos e suítes. Os quartos
+
+24
+00:00:30,350 --> 00:00:30,360
+gerenciar quartos e suítes. Os quartos
+ 
+
+25
+00:00:30,360 --> 00:00:32,990
+gerenciar quartos e suítes. Os quartos
+ficam organizados em seções como suítes
+
+26
+00:00:32,990 --> 00:00:33,000
+ficam organizados em seções como suítes
+ 
+
+27
+00:00:33,000 --> 00:00:35,510
+ficam organizados em seções como suítes
+e chalés. Para criar uma seção, clique
+
+28
+00:00:35,510 --> 00:00:35,520
+e chalés. Para criar uma seção, clique
+ 
+
+29
+00:00:35,520 --> 00:00:37,870
+e chalés. Para criar uma seção, clique
+em nova seção, digite o nome, por
+
+30
+00:00:37,870 --> 00:00:37,880
+em nova seção, digite o nome, por
+ 
+
+31
+00:00:37,880 --> 00:00:40,790
+em nova seção, digite o nome, por
+exemplo, chalés, e clique em salvar. A
+
+32
+00:00:40,790 --> 00:00:40,800
+exemplo, chalés, e clique em salvar. A
+ 
+
+33
+00:00:40,800 --> 00:00:43,150
+exemplo, chalés, e clique em salvar. A
+nova seção aparece no fim da lista.
+
+34
+00:00:43,150 --> 00:00:43,160
+nova seção aparece no fim da lista.
+ 
+
+35
+00:00:43,160 --> 00:00:45,670
+nova seção aparece no fim da lista.
+Clique em novo na seção para cadastrar
+
+36
+00:00:45,670 --> 00:00:45,680
+Clique em novo na seção para cadastrar
+ 
+
+37
+00:00:45,680 --> 00:00:48,030
+Clique em novo na seção para cadastrar
+um quarto. Escreva o nome do quarto e um
+
+38
+00:00:48,030 --> 00:00:48,040
+um quarto. Escreva o nome do quarto e um
+ 
+
+39
+00:00:48,040 --> 00:00:50,550
+um quarto. Escreva o nome do quarto e um
+subtítulo curto, como quantas pessoas
+
+40
+00:00:50,550 --> 00:00:50,560
+subtítulo curto, como quantas pessoas
+ 
+
+41
+00:00:50,560 --> 00:00:53,550
+subtítulo curto, como quantas pessoas
+cabem. Depois, a descrição com as camas
+
+42
+00:00:53,550 --> 00:00:53,560
+cabem. Depois, a descrição com as camas
+ 
+
+43
+00:00:53,560 --> 00:00:55,590
+cabem. Depois, a descrição com as camas
+e o que torna o quarto especial. Em
+
+44
+00:00:55,590 --> 00:00:55,600
+e o que torna o quarto especial. Em
+ 
+
+45
+00:00:55,600 --> 00:00:58,150
+e o que torna o quarto especial. Em
+diária, informe o valor por noite. Se
+
+46
+00:00:58,150 --> 00:00:58,160
+diária, informe o valor por noite. Se
+ 
+
+47
+00:00:58,160 --> 00:01:00,230
+diária, informe o valor por noite. Se
+estiver em promoção, preencha a diária
+
+48
+00:01:00,230 --> 00:01:00,240
+estiver em promoção, preencha a diária
+ 
+
+49
+00:01:00,240 --> 00:01:02,590
+estiver em promoção, preencha a diária
+promocional e a diária normal aparece
+
+50
+00:01:02,590 --> 00:01:02,600
+promocional e a diária normal aparece
+ 
+
+51
+00:01:02,600 --> 00:01:05,550
+promocional e a diária normal aparece
+riscada. Em o que o quarto tem, digite
+
+52
+00:01:05,550 --> 00:01:05,560
+riscada. Em o que o quarto tem, digite
+ 
+
+53
+00:01:05,560 --> 00:01:08,190
+riscada. Em o que o quarto tem, digite
+cada item e clique em adicionar, como
+
+54
+00:01:08,190 --> 00:01:08,200
+cada item e clique em adicionar, como
+ 
+
+55
+00:01:08,200 --> 00:01:10,670
+cada item e clique em adicionar, como
+Wi-Fi, ar condicionado, cozinha e
+
+56
+00:01:10,670 --> 00:01:10,680
+Wi-Fi, ar condicionado, cozinha e
+ 
+
+57
+00:01:10,680 --> 00:01:13,710
+Wi-Fi, ar condicionado, cozinha e
+varanda. Envie até oito fotos do quarto.
+
+58
+00:01:13,710 --> 00:01:13,720
+varanda. Envie até oito fotos do quarto.
+ 
+
+59
+00:01:13,720 --> 00:01:16,390
+varanda. Envie até oito fotos do quarto.
+A primeira é a capa. Confira a seção,
+
+60
+00:01:16,390 --> 00:01:16,400
+A primeira é a capa. Confira a seção,
+ 
+
+61
+00:01:16,400 --> 00:01:18,990
+A primeira é a capa. Confira a seção,
+deixe publicado no site ligado e clique
+
+62
+00:01:18,990 --> 00:01:19,000
+deixe publicado no site ligado e clique
+ 
+
+63
+00:01:19,000 --> 00:01:21,750
+deixe publicado no site ligado e clique
+em salvar. Pronto, o chalé família já
+
+64
+00:01:21,750 --> 00:01:21,760
+em salvar. Pronto, o chalé família já
+ 
+
+65
+00:01:21,760 --> 00:01:24,430
+em salvar. Pronto, o chalé família já
+aparece na seção chalés com a diária, a
+
+66
+00:01:24,430 --> 00:01:24,440
+aparece na seção chalés com a diária, a
+ 
+
+67
+00:01:24,440 --> 00:01:26,750
+aparece na seção chalés com a diária, a
+chave para tirar do ar sem apagar e os
+
+68
+00:01:26,750 --> 00:01:26,760
+chave para tirar do ar sem apagar e os
+ 
+
+69
+00:01:26,760 --> 00:01:29,950
+chave para tirar do ar sem apagar e os
+botões editar e excluir. No portal, os
+
+70
+00:01:29,950 --> 00:01:29,960
+botões editar e excluir. No portal, os
+ 
+
+71
+00:01:29,960 --> 00:01:32,150
+botões editar e excluir. No portal, os
+quartos aparecem na ficha da pousada no
+
+72
+00:01:32,150 --> 00:01:32,160
+quartos aparecem na ficha da pousada no
+ 
+
+73
+00:01:32,160 --> 00:01:34,550
+quartos aparecem na ficha da pousada no
+bloco quartos e suítes com abas para
+
+74
+00:01:34,550 --> 00:01:34,560
+bloco quartos e suítes com abas para
+ 
+
+75
+00:01:34,560 --> 00:01:37,350
+bloco quartos e suítes com abas para
+cada seção. Cada quarto mostra foto, o
+
+76
+00:01:37,350 --> 00:01:37,360
+cada seção. Cada quarto mostra foto, o
+ 
+
+77
+00:01:37,360 --> 00:01:40,350
+cada seção. Cada quarto mostra foto, o
+subtítulo, a descrição, as comodidades e
+
+78
+00:01:40,350 --> 00:01:40,360
+subtítulo, a descrição, as comodidades e
+ 
+
+79
+00:01:40,360 --> 00:01:42,750
+subtítulo, a descrição, as comodidades e
+a diária por noite. A diária promocional
+
+80
+00:01:42,750 --> 00:01:42,760
+a diária por noite. A diária promocional
+ 
+
+81
+00:01:42,760 --> 00:01:44,910
+a diária por noite. A diária promocional
+aparece em destaque com o valor antigo
+
+82
+00:01:44,910 --> 00:01:44,920
+aparece em destaque com o valor antigo
+ 
+
+83
+00:01:44,920 --> 00:01:47,230
+aparece em destaque com o valor antigo
+riscado e o botão WhatsApp abre uma
+
+84
+00:01:47,230 --> 00:01:47,240
+riscado e o botão WhatsApp abre uma
+ 
+
+85
+00:01:47,240 --> 00:01:48,990
+riscado e o botão WhatsApp abre uma
+conversa com você para o hóspede
+
+86
+00:01:48,990 --> 00:01:49,000
+conversa com você para o hóspede
+ 
+
+87
+00:01:49,000 --> 00:01:51,670
+conversa com você para o hóspede
+reservar. No celular, a ficha ganha aba
+
+88
+00:01:51,670 --> 00:01:51,680
+reservar. No celular, a ficha ganha aba
+ 
+
+89
+00:01:51,680 --> 00:01:54,070
+reservar. No celular, a ficha ganha aba
+quartos e o hóspede passa pelas fotos
+
+90
+00:01:54,070 --> 00:01:54,080
+quartos e o hóspede passa pelas fotos
+ 
+
+91
+00:01:54,080 --> 00:01:56,550
+quartos e o hóspede passa pelas fotos
+com o dedo. Pronto, mantenha as diárias
+
+92
+00:01:56,550 --> 00:01:56,560
+com o dedo. Pronto, mantenha as diárias
+ 
+
+93
+00:01:56,560 --> 00:01:58,910
+com o dedo. Pronto, mantenha as diárias
+e as fotos atualizadas para receber mais
+
+94
+00:01:58,910 --> 00:01:58,920
+e as fotos atualizadas para receber mais
+ 
+
+95
+00:01:58,920 --> 00:02:01,480
+e as fotos atualizadas para receber mais
+reservas.
+

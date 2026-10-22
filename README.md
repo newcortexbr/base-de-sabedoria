@@ -6,6 +6,8 @@ um diretório por produto na raiz. cada um tem o próprio `README.md` com o índ
 |---|---|---|
 | Portal da Cidade | [`portal-da-cidade/`](portal-da-cidade/README.md) | chat de suporte do portal (admin, cliente, usuário) |
 | Área do Cliente | [`area-do-cliente/`](area-do-cliente/README.md) | chat de suporte da Área do Cliente (cliente New Cortex) |
+| Extrator Maps | [`extrator-maps/`](extrator-maps/README.md) | cliente que usa o Extrator Google Maps (ids `ext-*`) |
+| Dados PJ | [`dados-pj/`](dados-pj/README.md) | cliente que usa o Dados PJ (ids `pj-*`) |
 
 ## busca rápida
 
@@ -21,3 +23,12 @@ próximo passo previsto (não feito): carregar `indice.json` num SQLite com FTS5
 - `interno/` e `mapa/` dentro de um produto não são artigos de atendimento: nunca vão ao chat.
 - formato de artigo: frontmatter (`id`, `titulo`, `publico`, `modulo`, `aba`, `tipo_problema`, `videos`, opcional `produto`) e seções `## objetivo`, `## passos` etc. Ver o README de cada produto.
 - na Área do Cliente, artigo com `produto:` só aparece para quem tem aquele produto.
+
+## vídeos
+
+`videos/` reúne os vídeos da planilha de vídeos da New Cortex (7 abas). Não é produto e fica fora do `indice.json` de artigos.
+
+- `videos/indice.json` e `videos/README.md`: índice **mutável**, um registro por linha da planilha (status, link, produto, legenda, artigos que citam) e uma visão `por_video`. Regenerar com `node scripts/videos.mjs` (baixa as abas e grava snapshots em `videos/planilha/`; `--offline` usa os snapshots; `--conferir` só compara).
+- `videos/conteudo/<id>.md`: transcrição = conteúdo do vídeo (**durável**).
+- `videos/legendas/` e `videos/meta/<id>.json`: legenda bruta baixada e metadados do YouTube (título, duração, data, fonte da legenda).
+- `catalogo-videos.md` está superado por `videos/`.

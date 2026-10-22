@@ -1,0 +1,375 @@
+1
+00:00:00,000 --> 00:00:02,310
+ 
+Os pontos turísticos são a vitrine da
+
+2
+00:00:02,310 --> 00:00:02,320
+Os pontos turísticos são a vitrine da
+ 
+
+3
+00:00:02,320 --> 00:00:04,710
+Os pontos turísticos são a vitrine da
+sua cidade para quem visita. Veja como
+
+4
+00:00:04,710 --> 00:00:04,720
+sua cidade para quem visita. Veja como
+ 
+
+5
+00:00:04,720 --> 00:00:07,590
+sua cidade para quem visita. Veja como
+cadastrar um novo em poucos minutos. Em
+
+6
+00:00:07,590 --> 00:00:07,600
+cadastrar um novo em poucos minutos. Em
+ 
+
+7
+00:00:07,600 --> 00:00:09,630
+cadastrar um novo em poucos minutos. Em
+guia turístico, clique em pontos
+
+8
+00:00:09,630 --> 00:00:09,640
+guia turístico, clique em pontos
+ 
+
+9
+00:00:09,640 --> 00:00:12,510
+guia turístico, clique em pontos
+turísticos. Aqui ficam todos os pontos
+
+10
+00:00:12,510 --> 00:00:12,520
+turísticos. Aqui ficam todos os pontos
+ 
+
+11
+00:00:12,520 --> 00:00:15,270
+turísticos. Aqui ficam todos os pontos
+já cadastrados com categoria, cidade e
+
+12
+00:00:15,270 --> 00:00:15,280
+já cadastrados com categoria, cidade e
+ 
+
+13
+00:00:15,280 --> 00:00:18,110
+já cadastrados com categoria, cidade e
+status. Para cadastrar, clique em novo
+
+14
+00:00:18,110 --> 00:00:18,120
+status. Para cadastrar, clique em novo
+ 
+
+15
+00:00:18,120 --> 00:00:21,190
+status. Para cadastrar, clique em novo
+ponto. Comece pela foto principal. Ela é
+
+16
+00:00:21,190 --> 00:00:21,200
+ponto. Comece pela foto principal. Ela é
+ 
+
+17
+00:00:21,200 --> 00:00:23,550
+ponto. Comece pela foto principal. Ela é
+a capa do ponto. Então, use uma imagem
+
+18
+00:00:23,550 --> 00:00:23,560
+a capa do ponto. Então, use uma imagem
+ 
+
+19
+00:00:23,560 --> 00:00:25,950
+a capa do ponto. Então, use uma imagem
+bonita e na horizontal. Em dados
+
+20
+00:00:25,950 --> 00:00:25,960
+bonita e na horizontal. Em dados
+ 
+
+21
+00:00:25,960 --> 00:00:28,110
+bonita e na horizontal. Em dados
+básicos, preencha o nome, escolha a
+
+22
+00:00:28,110 --> 00:00:28,120
+básicos, preencha o nome, escolha a
+ 
+
+23
+00:00:28,120 --> 00:00:30,710
+básicos, preencha o nome, escolha a
+categoria ou crie uma nova aqui mesmo e
+
+24
+00:00:30,710 --> 00:00:30,720
+categoria ou crie uma nova aqui mesmo e
+ 
+
+25
+00:00:30,720 --> 00:00:32,910
+categoria ou crie uma nova aqui mesmo e
+escreva uma descrição que dê vontade de
+
+26
+00:00:32,910 --> 00:00:32,920
+escreva uma descrição que dê vontade de
+ 
+
+27
+00:00:32,920 --> 00:00:35,310
+escreva uma descrição que dê vontade de
+conhecer o lugar. Nas tags, digite
+
+28
+00:00:35,310 --> 00:00:35,320
+conhecer o lugar. Nas tags, digite
+ 
+
+29
+00:00:35,320 --> 00:00:38,070
+conhecer o lugar. Nas tags, digite
+palavras curtas como trilha ou mirante e
+
+30
+00:00:38,070 --> 00:00:38,080
+palavras curtas como trilha ou mirante e
+ 
+
+31
+00:00:38,080 --> 00:00:40,470
+palavras curtas como trilha ou mirante e
+aperte enter. Elas viram etiquetas na
+
+32
+00:00:40,470 --> 00:00:40,480
+aperte enter. Elas viram etiquetas na
+ 
+
+33
+00:00:40,480 --> 00:00:42,910
+aperte enter. Elas viram etiquetas na
+página do ponto. Marque destaque para
+
+34
+00:00:42,910 --> 00:00:42,920
+página do ponto. Marque destaque para
+ 
+
+35
+00:00:42,920 --> 00:00:45,030
+página do ponto. Marque destaque para
+ele aparecer em evidência no portal.
+
+36
+00:00:45,030 --> 00:00:45,040
+ele aparecer em evidência no portal.
+ 
+
+37
+00:00:45,040 --> 00:00:47,670
+ele aparecer em evidência no portal.
+Deixe ativo para publicar e indique se a
+
+38
+00:00:47,670 --> 00:00:47,680
+Deixe ativo para publicar e indique se a
+ 
+
+39
+00:00:47,680 --> 00:00:50,030
+Deixe ativo para publicar e indique se a
+entrada é gratuita. Em informações,
+
+40
+00:00:50,030 --> 00:00:50,040
+entrada é gratuita. Em informações,
+ 
+
+41
+00:00:50,040 --> 00:00:52,150
+entrada é gratuita. Em informações,
+digite o CEP e o endereço é preenchido
+
+42
+00:00:52,150 --> 00:00:52,160
+digite o CEP e o endereço é preenchido
+ 
+
+43
+00:00:52,160 --> 00:00:54,750
+digite o CEP e o endereço é preenchido
+sozinho. A localização no mapa também é
+
+44
+00:00:54,750 --> 00:00:54,760
+sozinho. A localização no mapa também é
+ 
+
+45
+00:00:54,760 --> 00:00:57,270
+sozinho. A localização no mapa também é
+descoberta automaticamente. Depois,
+
+46
+00:00:57,270 --> 00:00:57,280
+descoberta automaticamente. Depois,
+ 
+
+47
+00:00:57,280 --> 00:00:59,070
+descoberta automaticamente. Depois,
+informe os horários de funcionamento de
+
+48
+00:00:59,070 --> 00:00:59,080
+informe os horários de funcionamento de
+ 
+
+49
+00:00:59,080 --> 00:01:02,310
+informe os horários de funcionamento de
+cada dia. Use fechado ou 24 horas quando
+
+50
+00:01:02,310 --> 00:01:02,320
+cada dia. Use fechado ou 24 horas quando
+ 
+
+51
+00:01:02,320 --> 00:01:04,670
+cada dia. Use fechado ou 24 horas quando
+for o caso. Em dicas para visitantes,
+
+52
+00:01:04,670 --> 00:01:04,680
+for o caso. Em dicas para visitantes,
+ 
+
+53
+00:01:04,680 --> 00:01:06,950
+for o caso. Em dicas para visitantes,
+adicione recomendações como o melhor
+
+54
+00:01:06,950 --> 00:01:06,960
+adicione recomendações como o melhor
+ 
+
+55
+00:01:06,960 --> 00:01:09,230
+adicione recomendações como o melhor
+horário para ir ou o que levar. Na
+
+56
+00:01:09,230 --> 00:01:09,240
+horário para ir ou o que levar. Na
+ 
+
+57
+00:01:09,240 --> 00:01:11,790
+horário para ir ou o que levar. Na
+galeria, coloque mais fotos ou vídeos do
+
+58
+00:01:11,790 --> 00:01:11,800
+galeria, coloque mais fotos ou vídeos do
+ 
+
+59
+00:01:11,800 --> 00:01:13,430
+galeria, coloque mais fotos ou vídeos do
+YouTube para mostrar o lugar por
+
+60
+00:01:13,430 --> 00:01:13,440
+YouTube para mostrar o lugar por
+ 
+
+61
+00:01:13,440 --> 00:01:16,350
+YouTube para mostrar o lugar por
+inteiro. O SEO ajuda o ponto a aparecer
+
+62
+00:01:16,350 --> 00:01:16,360
+inteiro. O SEO ajuda o ponto a aparecer
+ 
+
+63
+00:01:16,360 --> 00:01:18,150
+inteiro. O SEO ajuda o ponto a aparecer
+no Google. Se deixar em branco, o
+
+64
+00:01:18,150 --> 00:01:18,160
+no Google. Se deixar em branco, o
+ 
+
+65
+00:01:18,160 --> 00:01:20,390
+no Google. Se deixar em branco, o
+sistema preenche sozinho com o nome e a
+
+66
+00:01:20,390 --> 00:01:20,400
+sistema preenche sozinho com o nome e a
+ 
+
+67
+00:01:20,400 --> 00:01:23,230
+sistema preenche sozinho com o nome e a
+descrição. Pronto. Clique em cadastrar
+
+68
+00:01:23,230 --> 00:01:23,240
+descrição. Pronto. Clique em cadastrar
+ 
+
+69
+00:01:23,240 --> 00:01:25,670
+descrição. Pronto. Clique em cadastrar
+ponto. Ele já aparece na lista e no
+
+70
+00:01:25,670 --> 00:01:25,680
+ponto. Ele já aparece na lista e no
+ 
+
+71
+00:01:25,680 --> 00:01:29,190
+ponto. Ele já aparece na lista e no
+portal com foto, mapa, horários e dicas.
+
+72
+00:01:29,190 --> 00:01:29,200
+portal com foto, mapa, horários e dicas.
+ 
+
+73
+00:01:29,200 --> 00:01:31,590
+portal com foto, mapa, horários e dicas.
+Agora é com você. Mostre o melhor da sua
+
+74
+00:01:31,590 --> 00:01:31,600
+Agora é com você. Mostre o melhor da sua
+ 
+
+75
+00:01:31,600 --> 00:01:34,800
+Agora é com você. Mostre o melhor da sua
+cidade para quem chega.
+
