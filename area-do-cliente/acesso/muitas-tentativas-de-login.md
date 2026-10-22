@@ -31,9 +31,9 @@ Essa trava não é bloqueio da conta. A conta continua normal; só a entrada fic
 
 ## passos
 
-1. Pare de tentar por alguns minutos.
-2. Se você não lembra a senha, em vez de tentar de novo, clique em `Esqueci minha senha` e crie uma nova (veja `ac-esqueci-a-senha`).
-3. Depois da espera, entre com a senha certa.
+1. Pare de tentar por alguns minutos. [guia=fora]
+2. Se você não lembra a senha, em vez de tentar de novo, clique em `Esqueci minha senha` e crie uma nova (veja `ac-esqueci-a-senha`). [guia=fora]
+3. Depois da espera, entre com a senha certa. [guia=fora]
 
 ## resultado
 

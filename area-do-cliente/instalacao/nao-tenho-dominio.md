@@ -28,11 +28,11 @@ saber como conseguir um domínio para o seu portal antes de começar a instalaç
 - se você já tem um site num domínio e quer o portal em um endereço como `portal.seusite.com.br`, use subdomínio (veja `ac-instalacao-usar-subdominio`).
 
 ## passos
-1. Em `Meus negócios`, clique em `Acessar meu negócio` no cartão da cidade.
-2. No menu do negócio, clique em `Minha plataforma`.
-3. Clique no vídeo `Como registrar um domínio` e assista.
-4. Registre e pague o domínio no registrador escolhido, no seu nome.
-5. Volte a `Minha plataforma` e informe o domínio (veja `ac-instalacao-informar-dominio`).
+1. Em `Meus negócios`, clique em `Acessar meu negócio` no cartão da cidade. [guia=negocios.acessar-negocio]
+2. No menu do negócio, clique em `Minha plataforma`. [guia=menu:/negocios/[licenseId]/plataforma]
+3. Clique no vídeo `Como registrar um domínio` e assista. [guia=fora]
+4. Registre e pague o domínio no registrador escolhido, no seu nome. [guia=fora]
+5. Volte a `Minha plataforma` e informe o domínio (veja `ac-instalacao-informar-dominio`). [guia=menu:/negocios/[licenseId]/plataforma]
 
 ## resultado
 você tem um domínio seu e pode continuar a instalação.

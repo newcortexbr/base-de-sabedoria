@@ -28,10 +28,10 @@ entender por que as aulas não aparecem e como voltar a vê-las.
 - se a sua conta inteira estiver bloqueada, a área do cliente mostra só `Suporte` e `Minha Conta`.
 
 ## passos
-1. Na tela `Treinamentos`, clique em `Situação de <cidade>/<UF>`.
-2. Abre a `Visão geral` daquele negócio. No menu da esquerda, clique em `Pagamentos`.
-3. No cartão marcado `Suspenso` ou `Em atraso`, clique em `Regularizar pagamento` e pague na página que abre (veja `ac-pagar-cobranca-pendente`).
-4. Se tiver mais de uma cidade suspensa do mesmo produto, basta regularizar uma delas para as aulas voltarem.
+1. Na tela `Treinamentos`, clique em `Situação de <cidade>/<UF>`. [guia=fora]
+2. Abre a `Visão geral` daquele negócio. No menu da esquerda, clique em `Pagamentos`. [guia=menu:/negocios/[licenseId]/pagamentos]
+3. No cartão marcado `Suspenso` ou `Em atraso`, clique em `Regularizar pagamento` e pague na página que abre (veja `ac-pagar-cobranca-pendente`). [guia=pagamentos.pagar]
+4. Se tiver mais de uma cidade suspensa do mesmo produto, basta regularizar uma delas para as aulas voltarem. [guia=fora]
 
 ## resultado
 quando o pagamento é confirmado, o negócio volta a ficar ativo e as aulas reaparecem, com o seu progresso.

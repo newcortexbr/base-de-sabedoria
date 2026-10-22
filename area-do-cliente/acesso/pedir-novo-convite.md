@@ -26,10 +26,10 @@ receber um novo e-mail para criar a sua senha quando o primeiro link expirou, j�
 
 ## passos
 
-1. Abra a página `Solicitar novo convite` (`/reenviar-convite`). Se você abriu um link de ativação vencido, chega nela clicando em `Solicitar novo convite`.
-2. No campo `E-mail`, escreva o e-mail cadastrado para você.
-3. Clique em `Solicitar novo convite`.
-4. Aparece "Verifique seu e-mail". Abra a sua caixa de entrada e use o link novo (veja `ac-ativar-conta-pelo-convite`).
+1. Abra a página `Solicitar novo convite` (`/reenviar-convite`). Se você abriu um link de ativação vencido, chega nela clicando em `Solicitar novo convite`. [guia=fora]
+2. No campo `E-mail`, escreva o e-mail cadastrado para você. [guia=fora]
+3. Clique em `Solicitar novo convite`. [guia=fora]
+4. Aparece "Verifique seu e-mail". Abra a sua caixa de entrada e use o link novo (veja `ac-ativar-conta-pelo-convite`). [guia=fora]
 
 ## resultado
 

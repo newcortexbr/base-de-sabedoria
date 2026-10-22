@@ -22,13 +22,13 @@ saber, na ordem, o que fazer depois da compra para colocar o seu portal no ar e 
 - pagamento da compra confirmado.
 
 ## passos
-1. Abra o e-mail "Bem-vindo! Crie sua senha da Área do Cliente New Córtex" e clique no link para criar a sua senha (veja `ac-ativar-conta-pelo-convite`). Se você já tinha conta, o e-mail é "Seu acesso a <produto> está liberado" e você entra com a senha que já usa.
-2. Entre na Área do Cliente com o seu e-mail e a senha (veja `ac-entrar-na-area-do-cliente`).
-3. No `Início`, no quadro `ANTES DE TUDO, VAMOS INICIAR A INSTALAÇÃO DO SEU PORTAL`, clique em `Iniciar instalação`.
-4. Informe o endereço do seu portal: um domínio próprio ou um subdomínio (veja `ac-instalacao-informar-dominio` e `ac-instalacao-usar-subdominio`). Se ainda não tem domínio, veja `ac-instalacao-nao-tenho-dominio`.
-5. Aponte o domínio conforme a tela pedir: troque os nameservers ou crie o registro do subdomínio (veja `ac-instalacao-trocar-nameservers`).
-6. Espere a propagação e confirme que o portal abriu (veja `ac-instalacao-confirmar-portal-no-ar`).
-7. Enquanto espera, no `Início`, clique em `Assistir ao tour` (se estiver disponível) e comece as aulas do Start (veja `ac-treinamento-start`).
+1. Abra o e-mail "Bem-vindo! Crie sua senha da Área do Cliente New Córtex" e clique no link para criar a sua senha (veja `ac-ativar-conta-pelo-convite`). Se você já tinha conta, o e-mail é "Seu acesso a <produto> está liberado" e você entra com a senha que já usa. [guia=fora]
+2. Entre na Área do Cliente com o seu e-mail e a senha (veja `ac-entrar-na-area-do-cliente`). [guia=fora]
+3. No `Início`, no quadro `ANTES DE TUDO, VAMOS INICIAR A INSTALAÇÃO DO SEU PORTAL`, clique em `Iniciar instalação`. [guia=inicio.instalacao]
+4. Informe o endereço do seu portal: um domínio próprio ou um subdomínio (veja `ac-instalacao-informar-dominio` e `ac-instalacao-usar-subdominio`). Se ainda não tem domínio, veja `ac-instalacao-nao-tenho-dominio`. [guia=fora]
+5. Aponte o domínio conforme a tela pedir: troque os nameservers ou crie o registro do subdomínio (veja `ac-instalacao-trocar-nameservers`). [guia=fora]
+6. Espere a propagação e confirme que o portal abriu (veja `ac-instalacao-confirmar-portal-no-ar`). [guia=fora]
+7. Enquanto espera, no `Início`, clique em `Assistir ao tour` (se estiver disponível) e comece as aulas do Start (veja `ac-treinamento-start`). [guia=inicio.assistir-tour]
 
 ## resultado
 o portal fica no ar, você entra no painel dele com a conta da Área do Cliente e já sabe onde ficam as aulas, as ferramentas, as lives e o suporte.

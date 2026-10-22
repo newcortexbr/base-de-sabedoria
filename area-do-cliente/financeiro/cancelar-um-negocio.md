@@ -32,11 +32,11 @@ saber como pedir o cancelamento de um negócio e o que acontece depois.
 
 ## passos
 
-1. No menu, clique em `Suporte` e depois em `Abrir novo chamado`.
-2. Em `Negócio vinculado`, escolha o negócio que quer cancelar.
-3. Em `Assunto`, escolha `Pagamentos`.
-4. Em `Título`, escreva "Cancelar negócio". Em `Mensagem`, confirme o pedido e o motivo, se quiser.
-5. Clique em `Enviar chamado`.
+1. No menu, clique em `Suporte` e depois em `Abrir novo chamado`. [guia=suporte.novo-chamado]
+2. Em `Negócio vinculado`, escolha o negócio que quer cancelar. [guia=chamado-novo.negocio]
+3. Em `Assunto`, escolha `Pagamentos`. [guia=chamado-novo.assunto]
+4. Em `Título`, escreva "Cancelar negócio". Em `Mensagem`, confirme o pedido e o motivo, se quiser. [guia=chamado-novo.titulo]
+5. Clique em `Enviar chamado`. [guia=chamado-novo.enviar]
 
 ## resultado
 

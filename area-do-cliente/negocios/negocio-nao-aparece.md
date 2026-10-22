@@ -27,10 +27,10 @@ entender por que um negócio comprado ainda não aparece em `Meus negócios`.
 - na página `Início`, a mesma situação aparece como `Você ainda não tem nenhum negócio ativo. Se esperava ver algo aqui, fale com o suporte.`
 
 ## passos
-1. Confira se você entrou com o mesmo e-mail usado na compra.
-2. Confira se o pagamento já foi confirmado (no e-mail do pagamento ou no banco).
-3. Recarregue `Meus negócios` (`/negocios`).
-4. Se ainda não aparecer, clique em `Suporte` no menu e abra um chamado.
+1. Confira se você entrou com o mesmo e-mail usado na compra. [guia=fora]
+2. Confira se o pagamento já foi confirmado (no e-mail do pagamento ou no banco). [guia=fora]
+3. Recarregue `Meus negócios` (`/negocios`). [guia=fora]
+4. Se ainda não aparecer, clique em `Suporte` no menu e abra um chamado. [guia=menu:/suporte]
 
 ## resultado
 o negócio aparece depois da confirmação do pagamento, ou o suporte localiza a compra.

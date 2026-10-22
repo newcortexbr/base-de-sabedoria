@@ -34,8 +34,8 @@ nestas situações a ação é do sistema, não sua. no `Início` e em `Meus neg
 na tela `Minha plataforma` aparece `Preparando sua plataforma`: `Estamos organizando tudo para receber seu domínio. Os dados de DNS aparecerão aqui automaticamente quando estiverem prontos.` a página se atualiza sozinha.
 
 ## passos
-1. Aguarde. Você pode fechar a tela.
-2. Volte a `Minha plataforma` mais tarde. Quando chegar a sua vez, a tela mostra o que fazer (trocar nameservers ou criar o registro do subdomínio).
+1. Aguarde. Você pode fechar a tela. [guia=fora]
+2. Volte a `Minha plataforma` mais tarde. Quando chegar a sua vez, a tela mostra o que fazer (trocar nameservers ou criar o registro do subdomínio). [guia=menu:/negocios/[licenseId]/plataforma]
 
 ## resultado
 a instalação avança sozinha para a etapa em que você precisa agir.

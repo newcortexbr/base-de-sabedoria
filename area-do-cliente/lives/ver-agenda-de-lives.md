@@ -23,11 +23,11 @@ saber quando são as próximas lives (encontros ao vivo).
 - ter um negócio com licença ativa.
 
 ## passos
-1. No menu da esquerda, clique em `Meus negócios` (`/negocios`) e depois em `Acessar meu negócio`.
-2. No menu do negócio, clique em `Lives` (`/negocios/<negócio>/lives`).
-3. Veja o destaque `Próxima live`, com dia, hora e título.
-4. Em `Agenda de lives`, use as setas `Mês anterior` e `Próximo mês` para trocar de mês.
-5. Clique em um dia com ponto azul para ver a live daquele dia.
+1. No menu da esquerda, clique em `Meus negócios` (`/negocios`) e depois em `Acessar meu negócio`. [guia=negocios.acessar-negocio]
+2. No menu do negócio, clique em `Lives` (`/negocios/<negócio>/lives`). [guia=menu:/negocios/[licenseId]/lives]
+3. Veja o destaque `Próxima live`, com dia, hora e título. [guia=fora]
+4. Em `Agenda de lives`, use as setas `Mês anterior` e `Próximo mês` para trocar de mês. [guia=fora]
+5. Clique em um dia com ponto azul para ver a live daquele dia. [guia=fora]
 
 ## resultado
 você vê a lista `Próximas lives` ou `Lives do dia`, com data, horário e o botão de acesso.

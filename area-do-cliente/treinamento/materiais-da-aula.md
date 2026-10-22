@@ -22,10 +22,10 @@ encontrar e baixar os arquivos de apoio de uma aula.
 - estar dentro de uma aula, em `Treinamentos`.
 
 ## passos
-1. Abra a aula.
-2. Role até a seção `Materiais da aula`.
-3. Clique no ícone de baixar ao lado do arquivo. Ele abre em uma nova aba.
-4. Se a aula tiver a parte `Links para acessar`, clique no link desejado.
+1. Abra a aula. [guia=fora]
+2. Role até a seção `Materiais da aula`. [guia=fora]
+3. Clique no ícone de baixar ao lado do arquivo. Ele abre em uma nova aba. [guia=fora]
+4. Se a aula tiver a parte `Links para acessar`, clique no link desejado. [guia=fora]
 
 ## resultado
 o arquivo abre ou é baixado no seu aparelho.

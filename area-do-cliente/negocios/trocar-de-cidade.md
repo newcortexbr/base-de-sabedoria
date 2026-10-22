@@ -27,10 +27,10 @@ saber o que fazer quando você quer o negócio em outra cidade, no lugar da atua
 - para trocar (deixar uma cidade e ficar com outra), o pedido é por chamado. Cancelar um negócio é outro pedido, também por chamado (veja `ac-cancelar-um-negocio`).
 
 ## passos
-1. No menu da esquerda, clique em `Suporte` e depois em `Abrir novo chamado`.
-2. Em `Negócio vinculado`, escolha a cidade atual.
-3. Em `Mensagem`, diga qual cidade você quer no lugar.
-4. Clique em `Enviar chamado`.
+1. No menu da esquerda, clique em `Suporte` e depois em `Abrir novo chamado`. [guia=suporte.novo-chamado]
+2. Em `Negócio vinculado`, escolha a cidade atual. [guia=chamado-novo.negocio]
+3. Em `Mensagem`, diga qual cidade você quer no lugar. [guia=chamado-novo.mensagem]
+4. Clique em `Enviar chamado`. [guia=chamado-novo.enviar]
 
 ## resultado
 o pedido fica com a equipe, que responde no chamado.

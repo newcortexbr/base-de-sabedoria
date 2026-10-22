@@ -27,10 +27,10 @@ saber como pagar de outro jeito ou trocar o cartão de uma cobrança.
 - as formas de pagamento oferecidas aparecem nessa página do Asaas e dependem da cobrança.
 
 ## passos
-1. No menu da esquerda, clique em `Pagamentos` do negócio certo.
-2. No cartão da cobrança, clique em `Ver próxima cobrança` (se estiver `A vencer`) ou em `Regularizar pagamento` (se estiver `Em atraso`).
-3. Na página do Asaas que abrir, veja as formas de pagamento oferecidas para essa cobrança e pague pela que preferir.
-4. Se a forma que você quer não aparecer, ou se quer trocar o cartão das próximas cobranças, abra um chamado em `Suporte` com `Assunto` `Pagamentos`.
+1. No menu da esquerda, clique em `Pagamentos` do negócio certo. [guia=menu:/negocios/[licenseId]/pagamentos]
+2. No cartão da cobrança, clique em `Ver próxima cobrança` (se estiver `A vencer`) ou em `Regularizar pagamento` (se estiver `Em atraso`). [guia=pagamentos.pagar]
+3. Na página do Asaas que abrir, veja as formas de pagamento oferecidas para essa cobrança e pague pela que preferir. [guia=fora]
+4. Se a forma que você quer não aparecer, ou se quer trocar o cartão das próximas cobranças, abra um chamado em `Suporte` com `Assunto` `Pagamentos`. [guia=fora]
 
 ## resultado
 a cobrança é paga pela forma escolhida, ou o pedido de troca fica registrado com a equipe.

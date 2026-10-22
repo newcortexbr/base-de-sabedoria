@@ -27,10 +27,10 @@ saber como acompanhar a resposta do seu chamado e o que fazer enquanto espera.
 - se você abriu o chamado pelo chat, a resposta também aparece na conversa do chat.
 
 ## passos
-1. No menu da esquerda, clique em `Suporte`.
-2. Veja o selo do chamado na lista (veja `ac-situacoes-do-chamado`).
-3. Para acrescentar informação ou cobrar retorno, clique no chamado e escreva em `Responder`.
-4. Clique em `Enviar resposta`.
+1. No menu da esquerda, clique em `Suporte`. [guia=menu:/suporte]
+2. Veja o selo do chamado na lista (veja `ac-situacoes-do-chamado`). [guia=fora]
+3. Para acrescentar informação ou cobrar retorno, clique no chamado e escreva em `Responder`. [guia=chamado.resposta]
+4. Clique em `Enviar resposta`. [guia=chamado.enviar-resposta]
 
 ## resultado
 você acompanha o chamado e a equipe recebe a sua mensagem no mesmo lugar.

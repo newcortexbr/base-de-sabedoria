@@ -25,10 +25,10 @@ continuar um assunto cujo chamado já foi fechado.
 
 ## passos
 
-1. No menu, clique em `Suporte` e abra o chamado `Fechado`.
-2. Na caixa `Responder`, leia o aviso "Este chamado está fechado. Responder abre um novo chamado, referenciando este."
-3. Escreva a mensagem.
-4. Clique em `Responder e abrir novo chamado`.
+1. No menu, clique em `Suporte` e abra o chamado `Fechado`. [guia=menu:/suporte]
+2. Na caixa `Responder`, leia o aviso "Este chamado está fechado. Responder abre um novo chamado, referenciando este." [guia=fora]
+3. Escreva a mensagem. [guia=chamado.resposta]
+4. Clique em `Responder e abrir novo chamado`. [guia=chamado.enviar-resposta]
 
 ## resultado
 

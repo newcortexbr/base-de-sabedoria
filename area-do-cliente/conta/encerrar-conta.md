@@ -36,12 +36,12 @@ Não há como desfazer depois de apagada.
 
 ## passos
 
-1. Clique em `Suporte` no menu da esquerda.
-2. Clique em `Abrir novo chamado`.
-3. Em `Negócio vinculado`, escolha `Nenhum: é sobre minha conta`.
-4. Em `Assunto`, escolha `Minha conta`.
-5. Em `Título`, escreva "Encerrar minha conta". Em `Mensagem`, confirme o pedido e, se quiser, o motivo.
-6. Clique em `Enviar chamado`.
+1. Clique em `Suporte` no menu da esquerda. [guia=menu:/suporte]
+2. Clique em `Abrir novo chamado`. [guia=suporte.novo-chamado]
+3. Em `Negócio vinculado`, escolha `Nenhum: é sobre minha conta`. [guia=chamado-novo.negocio]
+4. Em `Assunto`, escolha `Minha conta`. [guia=chamado-novo.assunto]
+5. Em `Título`, escreva "Encerrar minha conta". Em `Mensagem`, confirme o pedido e, se quiser, o motivo. [guia=chamado-novo.titulo]
+6. Clique em `Enviar chamado`. [guia=chamado-novo.enviar]
 
 ## resultado
 

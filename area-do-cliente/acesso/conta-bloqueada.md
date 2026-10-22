@@ -34,11 +34,11 @@ Bloqueio de conta é diferente de suspensão de um negócio por pagamento atrasa
 
 ## passos
 
-1. Entre normalmente com e-mail e senha.
-2. Na tela `Suporte`, clique em `Abrir novo chamado`.
-3. Em `Negócio vinculado`, escolha `Nenhum: é sobre minha conta`.
-4. Em `Assunto`, escolha `Minha conta`.
-5. Preencha `Título` e `Mensagem` explicando a situação e clique em `Enviar chamado`.
+1. Entre normalmente com e-mail e senha. [guia=fora]
+2. Na tela `Suporte`, clique em `Abrir novo chamado`. [guia=suporte.novo-chamado]
+3. Em `Negócio vinculado`, escolha `Nenhum: é sobre minha conta`. [guia=chamado-novo.negocio]
+4. Em `Assunto`, escolha `Minha conta`. [guia=chamado-novo.assunto]
+5. Preencha `Título` e `Mensagem` explicando a situação e clique em `Enviar chamado`. [guia=chamado-novo.titulo]
 
 ## resultado
 

@@ -28,8 +28,8 @@ entender o que fazer quando a instalação aparece como `Sua instalação está 
 - quando a equipe retoma, a instalação volta a andar sozinha a partir da preparação do portal.
 
 ## passos
-1. Não informe o domínio de novo e não mexa no DNS por causa da falha.
-2. Se quiser acompanhar, clique em `Falar com o suporte` e abra um chamado.
+1. Não informe o domínio de novo e não mexa no DNS por causa da falha. [guia=fora]
+2. Se quiser acompanhar, clique em `Falar com o suporte` e abra um chamado. [guia=fora]
 
 ## resultado
 a equipe corrige e a instalação volta para a preparação da plataforma (`Preparando sua plataforma`) e segue o caminho normal.

@@ -34,9 +34,9 @@ entender o DadosPJ e como entrar.
 - guia completo do DadosPJ (filtros, créditos, arquivos, erros): `dados-pj/README.md` (artigos `pj-*`).
 
 ## passos
-1. No menu do negócio, clique em `Ferramentas`.
-2. No cartão `Extrator da Receita Federal`, clique em `Acessar ferramenta`.
-3. Aguarde a tela `Entrando no DadosPJ…`.
+1. No menu do negócio, clique em `Ferramentas`. [guia=menu:/negocios/[licenseId]/ferramentas]
+2. No cartão `Extrator da Receita Federal`, clique em `Acessar ferramenta`. [guia=ferramentas.acessar]
+3. Aguarde a tela `Entrando no DadosPJ…`. [guia=fora]
 
 ## resultado
 você entra no DadosPJ com a sua conta.

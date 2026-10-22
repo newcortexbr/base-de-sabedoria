@@ -26,10 +26,10 @@ saber o que fazer quando o problema do chamado já foi resolvido.
 - o chamado não fecha sozinho com o tempo.
 
 ## passos
-1. No menu da esquerda, clique em `Suporte`.
-2. Clique no chamado.
-3. Em `Responder`, escreva que o problema foi resolvido e que o chamado pode ser encerrado.
-4. Clique em `Enviar resposta`.
+1. No menu da esquerda, clique em `Suporte`. [guia=menu:/suporte]
+2. Clique no chamado. [guia=fora]
+3. Em `Responder`, escreva que o problema foi resolvido e que o chamado pode ser encerrado. [guia=chamado.resposta]
+4. Clique em `Enviar resposta`. [guia=chamado.enviar-resposta]
 
 ## resultado
 a equipe recebe o aviso e marca o chamado como `Resolvido` ou `Fechado`.

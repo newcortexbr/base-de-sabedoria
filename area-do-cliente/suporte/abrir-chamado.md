@@ -30,14 +30,14 @@ mandar um pedido de ajuda por escrito para a equipe da New Córtex e acompanhar 
 
 ## passos
 
-1. No menu da esquerda, clique em `Suporte` (`/suporte`). Também dá para usar `Acessar suporte`, no rodapé do menu.
-2. Clique em `Abrir novo chamado`. Abre `Novo chamado` (`/suporte/novo`).
-3. Em `Negócio vinculado`, escolha o negócio (produto e cidade) sobre o qual é o pedido. Se não for sobre um negócio, escolha `Nenhum: é sobre minha conta` ou `Nenhum: outro assunto`.
-4. Em `Assunto`, escolha o tema: `Instalação e domínio`, `Portal e conteúdo`, `Ferramentas`, `Treinamentos`, `Pagamentos`, `Minha conta` ou `Outro assunto`.
-5. Em `Título`, resuma a dúvida em uma frase.
-6. Em `Mensagem`, conte o que você tentou fazer, o que esperava e o que apareceu na tela.
-7. Se quiser mandar print ou documento, clique em `Anexar arquivo` (veja `ac-anexar-arquivo-no-chamado`).
-8. Clique em `Enviar chamado`.
+1. No menu da esquerda, clique em `Suporte` (`/suporte`). Também dá para usar `Acessar suporte`, no rodapé do menu. [guia=menu:/suporte]
+2. Clique em `Abrir novo chamado`. Abre `Novo chamado` (`/suporte/novo`). [guia=suporte.novo-chamado]
+3. Em `Negócio vinculado`, escolha o negócio (produto e cidade) sobre o qual é o pedido. Se não for sobre um negócio, escolha `Nenhum: é sobre minha conta` ou `Nenhum: outro assunto`. [guia=chamado-novo.negocio]
+4. Em `Assunto`, escolha o tema: `Instalação e domínio`, `Portal e conteúdo`, `Ferramentas`, `Treinamentos`, `Pagamentos`, `Minha conta` ou `Outro assunto`. [guia=chamado-novo.assunto]
+5. Em `Título`, resuma a dúvida em uma frase. [guia=chamado-novo.titulo]
+6. Em `Mensagem`, conte o que você tentou fazer, o que esperava e o que apareceu na tela. [guia=chamado-novo.mensagem]
+7. Se quiser mandar print ou documento, clique em `Anexar arquivo` (veja `ac-anexar-arquivo-no-chamado`). [guia=chamado-novo.anexar]
+8. Clique em `Enviar chamado`. [guia=chamado-novo.enviar]
 
 ## resultado
 

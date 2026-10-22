@@ -47,7 +47,7 @@ O que cada tela diz sobre o prazo:
 
 ## passos
 
-1. Para resolver, pague a cobrança vencida (veja `ac-pagar-cobranca-pendente`).
+1. Para resolver, pague a cobrança vencida (veja `ac-pagar-cobranca-pendente`). [guia=fora]
 
 ## resultado
 

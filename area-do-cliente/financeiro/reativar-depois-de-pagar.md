@@ -35,9 +35,9 @@ Não reativa sozinho quando a suspensão não foi por atraso — por exemplo, po
 
 ## passos
 
-1. No menu, clique em `Pagamentos` do negócio e confira se todas as cobranças vencidas estão `Pago`.
-2. Se ainda houver alguma `Em atraso`, pague também (veja `ac-pagar-cobranca-pendente`).
-3. Atualize a página depois que o pagamento for confirmado.
+1. No menu, clique em `Pagamentos` do negócio e confira se todas as cobranças vencidas estão `Pago`. [guia=menu:/negocios/[licenseId]/pagamentos]
+2. Se ainda houver alguma `Em atraso`, pague também (veja `ac-pagar-cobranca-pendente`). [guia=fora]
+3. Atualize a página depois que o pagamento for confirmado. [guia=fora]
 
 ## resultado
 

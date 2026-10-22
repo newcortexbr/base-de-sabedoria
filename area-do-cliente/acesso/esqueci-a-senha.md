@@ -27,14 +27,14 @@ criar uma senha nova quando você não lembra a atual, recebendo um link por e-m
 
 ## passos
 
-1. Na tela de login (`/login`), clique em `Esqueci minha senha`. Abre a página `/recuperar`.
-2. No campo `E-mail`, escreva o e-mail da sua conta.
-3. Clique em `Enviar link de recuperação`.
-4. Aparece "Verifique seu e-mail". Abra o e-mail com o assunto "Redefinição de senha da Área do Cliente" e clique no link. Abre a tela `Criar nova senha`.
-5. No campo `Nova senha`, escreva a senha nova (com o mínimo de caracteres indicado; o padrão é 10).
-6. No campo `Confirmar senha`, repita a senha.
-7. Clique em `Salvar nova senha`.
-8. Quando aparecer "Senha alterada com sucesso", clique em `Ir para o login` e entre com a senha nova.
+1. Na tela de login (`/login`), clique em `Esqueci minha senha`. Abre a página `/recuperar`. [guia=fora]
+2. No campo `E-mail`, escreva o e-mail da sua conta. [guia=fora]
+3. Clique em `Enviar link de recuperação`. [guia=fora]
+4. Aparece "Verifique seu e-mail". Abra o e-mail com o assunto "Redefinição de senha da Área do Cliente" e clique no link. Abre a tela `Criar nova senha`. [guia=fora]
+5. No campo `Nova senha`, escreva a senha nova (com o mínimo de caracteres indicado; o padrão é 10). [guia=fora]
+6. No campo `Confirmar senha`, repita a senha. [guia=fora]
+7. Clique em `Salvar nova senha`. [guia=fora]
+8. Quando aparecer "Senha alterada com sucesso", clique em `Ir para o login` e entre com a senha nova. [guia=fora]
 
 ## resultado
 

@@ -33,10 +33,10 @@ entender o Extrator Maps, os créditos de boas-vindas e como entrar.
 - se o seu negócio estiver suspenso, a sua conta e os seus créditos no Extrator não são apagados.
 
 ## passos
-1. No menu do negócio, clique em `Ferramentas`.
-2. No cartão `Extrator Google Maps`, clique em `Acessar ferramenta`.
-3. Aguarde a tela `Entrando no Extrator Maps…`.
-4. Para aprender a usar, clique em `Ver treinamento` no mesmo cartão.
+1. No menu do negócio, clique em `Ferramentas`. [guia=menu:/negocios/[licenseId]/ferramentas]
+2. No cartão `Extrator Google Maps`, clique em `Acessar ferramenta`. [guia=ferramentas.acessar]
+3. Aguarde a tela `Entrando no Extrator Maps…`. [guia=fora]
+4. Para aprender a usar, clique em `Ver treinamento` no mesmo cartão. [guia=fora]
 
 ## resultado
 você entra no Extrator com a sua conta e os seus créditos.

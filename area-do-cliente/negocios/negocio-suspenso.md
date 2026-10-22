@@ -23,10 +23,10 @@ entender por que o negócio ficou suspenso, o que para de funcionar e como reati
 - ter entrado na área do cliente.
 
 ## passos
-1. No menu da esquerda, clique em `Meus negócios` (`/negocios`).
-2. No cartão com a etiqueta `Suspenso`, clique em `Regularizar pagamento`.
-3. Na tela de `Pagamentos` do negócio, no cartão marcado `Suspenso` ou `Em atraso`, clique em `Regularizar pagamento` e pague na página que abre (veja `ac-pagar-cobranca-pendente`).
-4. Aguarde a confirmação do pagamento. Não é preciso avisar ninguém.
+1. No menu da esquerda, clique em `Meus negócios` (`/negocios`). [guia=menu:/negocios]
+2. No cartão com a etiqueta `Suspenso`, clique em `Regularizar pagamento`. [guia=pagamentos.pagar]
+3. Na tela de `Pagamentos` do negócio, no cartão marcado `Suspenso` ou `Em atraso`, clique em `Regularizar pagamento` e pague na página que abre (veja `ac-pagar-cobranca-pendente`). [guia=pagamentos.pagar]
+4. Aguarde a confirmação do pagamento. Não é preciso avisar ninguém. [guia=fora]
 
 ## resultado
 `Assim que o pagamento for confirmado, o acesso é reativado.` o portal e as ferramentas voltam a funcionar. você não perde a cidade nem o conteúdo do portal por causa da suspensão.

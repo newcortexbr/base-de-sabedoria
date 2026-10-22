@@ -35,10 +35,10 @@ As telas de convite e de "esqueci a senha" sempre dizem "Se houver uma conta com
 
 ## passos
 
-1. Espere alguns minutos e confira as pastas de spam, lixo eletrônico, "Promoções" e "Atualizações".
-2. Confira se você digitou o mesmo e-mail que foi cadastrado na contratação (sem espaço, sem letra trocada).
-3. Peça de novo pela mesma tela (`Solicitar novo convite`, `Enviar link de recuperação` ou `Enviar código por e-mail`). Use sempre o e-mail mais recente: cada pedido novo cancela o link ou código anterior.
-4. Se pedir várias vezes seguidas e aparecer "Muitas tentativas", espere alguns minutos antes de tentar de novo.
+1. Espere alguns minutos e confira as pastas de spam, lixo eletrônico, "Promoções" e "Atualizações". [guia=fora]
+2. Confira se você digitou o mesmo e-mail que foi cadastrado na contratação (sem espaço, sem letra trocada). [guia=fora]
+3. Peça de novo pela mesma tela (`Solicitar novo convite`, `Enviar link de recuperação` ou `Enviar código por e-mail`). Use sempre o e-mail mais recente: cada pedido novo cancela o link ou código anterior. [guia=fora]
+4. Se pedir várias vezes seguidas e aparecer "Muitas tentativas", espere alguns minutos antes de tentar de novo. [guia=fora]
 
 ## resultado
 
