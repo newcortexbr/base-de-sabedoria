@@ -3,22 +3,22 @@
  "planilha": "https://docs.google.com/spreadsheets/d/1T-8uwGcdqZxnH0W3l86UP6S8v5IeeIX7fwVUuH7f5Uc",
  "totais": {
   "geral": {
-   "linhas": 142,
-   "com_topico": 99,
-   "com_link": 84,
-   "publicadas": 84,
-   "com_legenda": 83,
-   "com_artigo": 83,
-   "ids_distintos": 84
+   "linhas": 143,
+   "com_topico": 100,
+   "com_link": 92,
+   "publicadas": 91,
+   "com_legenda": 91,
+   "com_artigo": 91,
+   "ids_distintos": 92
   },
   "por_aba": {
    "painel-admin": {
-    "linhas": 57,
-    "com_topico": 57,
-    "com_link": 54,
+    "linhas": 59,
+    "com_topico": 59,
+    "com_link": 55,
     "publicadas": 54,
-    "com_legenda": 54,
-    "com_artigo": 54
+    "com_legenda": 55,
+    "com_artigo": 55
    },
    "area-empresa-parceiro-portal": {
     "linhas": 26,
@@ -45,12 +45,12 @@
     "com_artigo": 3
    },
    "claude-videos-basicos-area-do-cliente": {
-    "linhas": 16,
-    "com_topico": 14,
-    "com_link": 3,
-    "publicadas": 3,
-    "com_legenda": 3,
-    "com_artigo": 3
+    "linhas": 15,
+    "com_topico": 13,
+    "com_link": 10,
+    "publicadas": 10,
+    "com_legenda": 10,
+    "com_artigo": 10
    },
    "conteudos-treinamento-do-franqueado": {
     "linhas": 16,
@@ -71,12 +71,12 @@
   },
   "por_produto": {
    "portal-da-cidade": {
-    "linhas": 83,
-    "com_topico": 79,
-    "com_link": 76,
+    "linhas": 85,
+    "com_topico": 81,
+    "com_link": 77,
     "publicadas": 76,
-    "com_legenda": 75,
-    "com_artigo": 75
+    "com_legenda": 76,
+    "com_artigo": 76
    },
    "dados-pj": {
     "linhas": 5,
@@ -95,12 +95,12 @@
     "com_artigo": 3
    },
    "area-do-cliente": {
-    "linhas": 16,
-    "com_topico": 14,
-    "com_link": 3,
-    "publicadas": 3,
-    "com_legenda": 3,
-    "com_artigo": 3
+    "linhas": 15,
+    "com_topico": 13,
+    "com_link": 10,
+    "publicadas": 10,
+    "com_legenda": 10,
+    "com_artigo": 10
    },
    "treinamento-do-franqueado": {
     "linhas": 16,
@@ -1408,6 +1408,68 @@
    "gid": 1014831656,
    "linha": 50,
    "id_planilha": 49,
+   "topico": "Vídeo Externo Página >  Radar de Preços - Principal",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": "O3sdByn6xK8",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/O3sdByn6xK8.md",
+   "artigos": [
+    "radar-de-precos",
+    "usuario-radar-consultar-precos"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 51,
+   "id_planilha": 50,
+   "topico": "Vídeo Externo Página >  Radar de Preços - Lista",
+   "status": {
+    "gravacao": "Em gravação",
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": "sem link do YouTube.",
+   "artigos": []
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 52,
+   "id_planilha": 51,
+   "topico": "Vídeo Externo Página >  Radar de Preços - Enviar Preço",
+   "status": {
+    "gravacao": "Em gravação",
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": "sem link do YouTube.",
+   "artigos": []
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 53,
+   "id_planilha": 52,
    "topico": "Vídeo Uso Cliente > Formas de Anunciar em nosso Portal",
    "status": {
     "gravacao": "Gravado",
@@ -1432,8 +1494,8 @@
   {
    "aba": "painel-admin",
    "gid": 1014831656,
-   "linha": 51,
-   "id_planilha": 50,
+   "linha": 54,
+   "id_planilha": 53,
    "topico": "Sorteios > Configurações",
    "status": {
     "gravacao": "Gravado",
@@ -1458,8 +1520,8 @@
   {
    "aba": "painel-admin",
    "gid": 1014831656,
-   "linha": 52,
-   "id_planilha": 51,
+   "linha": 55,
+   "id_planilha": 54,
    "topico": "Radar de Preço > Configurações",
    "status": {
     "gravacao": "Pendente",
@@ -1476,8 +1538,8 @@
   {
    "aba": "painel-admin",
    "gid": 1014831656,
-   "linha": 53,
-   "id_planilha": 52,
+   "linha": 56,
+   "id_planilha": 55,
    "topico": "Melhor da Cidade > Configurações",
    "status": {
     "gravacao": "Gravado",
@@ -1501,8 +1563,8 @@
   {
    "aba": "painel-admin",
    "gid": 1014831656,
-   "linha": 54,
-   "id_planilha": 53,
+   "linha": 57,
+   "id_planilha": 56,
    "topico": "Projetos Sociais > Configurações",
    "status": {
     "gravacao": "Gravado",
@@ -1526,8 +1588,8 @@
   {
    "aba": "painel-admin",
    "gid": 1014831656,
-   "linha": 55,
-   "id_planilha": 54,
+   "linha": 58,
+   "id_planilha": 57,
    "topico": "Sorteios [Animado Página Externa]",
    "status": {
     "gravacao": "Gravado",
@@ -1553,8 +1615,8 @@
   {
    "aba": "painel-admin",
    "gid": 1014831656,
-   "linha": 56,
-   "id_planilha": 55,
+   "linha": 59,
+   "id_planilha": 58,
    "topico": "Melhor da Cidade [Animado Página Externa]",
    "status": {
     "gravacao": "Gravado",
@@ -1578,26 +1640,8 @@
   {
    "aba": "painel-admin",
    "gid": 1014831656,
-   "linha": 57,
-   "id_planilha": 56,
-   "topico": "Radar de Preço > [Animado Página Externa]",
-   "status": {
-    "gravacao": "Pendente",
-    "edicao": null,
-    "thumbnail": "Pendente",
-    "publicacao": "Pendente"
-   },
-   "youtube_id": null,
-   "link_drive_ou_pagina": null,
-   "produto": "portal-da-cidade",
-   "observacao": "sem link do YouTube.",
-   "artigos": []
-  },
-  {
-   "aba": "painel-admin",
-   "gid": 1014831656,
-   "linha": 58,
-   "id_planilha": 57,
+   "linha": 60,
+   "id_planilha": 59,
    "topico": "Projetos Sociais [Animado Página Externa]",
    "status": {
     "gravacao": "Gravado",
@@ -2598,16 +2642,23 @@
    "id_planilha": 4,
    "topico": "Página - Meus Negócios",
    "status": {
-    "gravacao": "Em gravação",
+    "gravacao": "Gravado",
     "edicao": null,
     "thumbnail": "Pendente",
-    "publicacao": null
+    "publicacao": "Publicado"
    },
-   "youtube_id": null,
+   "youtube_id": "ZY0xttnJyzI",
    "link_drive_ou_pagina": "https://areacliente.newcortex.site/negocios",
    "produto": "area-do-cliente",
-   "observacao": "sem link do YouTube.",
-   "artigos": []
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/ZY0xttnJyzI.md",
+   "artigos": [
+    "ac-negocios-ver-lista"
+   ]
   },
   {
    "aba": "claude-videos-basicos-area-do-cliente",
@@ -2616,34 +2667,49 @@
    "id_planilha": 5,
    "topico": "Página - Visão Geral",
    "status": {
-    "gravacao": "Em gravação",
+    "gravacao": "Gravado",
     "edicao": null,
     "thumbnail": "Pendente",
-    "publicacao": null
+    "publicacao": "Publicado"
    },
-   "youtube_id": null,
+   "youtube_id": "o-YLH2-8w8I",
    "link_drive_ou_pagina": "https://areacliente.newcortex.site/negocios/11507a1c-7e97-437f-b6ca-4c0b096082bd",
    "produto": "area-do-cliente",
-   "observacao": "sem link do YouTube.",
-   "artigos": []
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/o-YLH2-8w8I.md",
+   "artigos": [
+    "ac-negocio-visao-geral"
+   ]
   },
   {
    "aba": "claude-videos-basicos-area-do-cliente",
    "gid": 615353814,
    "linha": 7,
    "id_planilha": 6,
-   "topico": "Minha Plataforma - Processo de Instalação - Etapa 2 - Como Registrar um Dominio",
+   "topico": "Minha Plataforma - Processo de Instalação - Etapa 1 - Como Registrar um Dominio",
    "status": {
-    "gravacao": null,
+    "gravacao": "Gravado",
     "edicao": null,
     "thumbnail": "Pendente",
-    "publicacao": null
+    "publicacao": "Publicado"
    },
-   "youtube_id": null,
+   "youtube_id": "DpFk0q7myio",
    "link_drive_ou_pagina": "https://areacliente.newcortex.site/negocios/11507a1c-7e97-437f-b6ca-4c0b096082bd/plataforma",
    "produto": "area-do-cliente",
-   "observacao": "sem link do YouTube.",
-   "artigos": []
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/DpFk0q7myio.md",
+   "artigos": [
+    "ac-instalacao-informar-dominio",
+    "ac-instalacao-nao-tenho-dominio"
+   ]
   },
   {
    "aba": "claude-videos-basicos-area-do-cliente",
@@ -2652,16 +2718,23 @@
    "id_planilha": 7,
    "topico": "Minha Plataforma -  Processo de Instalação - Etapa 2 - Apontando DNS",
    "status": {
-    "gravacao": null,
+    "gravacao": "Gravado",
     "edicao": null,
     "thumbnail": "Pendente",
-    "publicacao": null
+    "publicacao": "Publicado"
    },
-   "youtube_id": null,
+   "youtube_id": "9-7aT2M-jmk",
    "link_drive_ou_pagina": null,
    "produto": "area-do-cliente",
-   "observacao": "sem link do YouTube.",
-   "artigos": []
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/9-7aT2M-jmk.md",
+   "artigos": [
+    "ac-instalacao-trocar-nameservers"
+   ]
   },
   {
    "aba": "claude-videos-basicos-area-do-cliente",
@@ -2670,46 +2743,36 @@
    "id_planilha": 8,
    "topico": "Minha Plataforma -  Processo de Instalação - Etapa 3 - Portal no Ar",
    "status": {
-    "gravacao": null,
+    "gravacao": "Gravado",
     "edicao": null,
     "thumbnail": "Pendente",
-    "publicacao": null
+    "publicacao": "Publicado"
    },
-   "youtube_id": null,
+   "youtube_id": "CgrBKTyXSsI",
    "link_drive_ou_pagina": null,
    "produto": "area-do-cliente",
-   "observacao": "sem link do YouTube.",
-   "artigos": []
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/CgrBKTyXSsI.md",
+   "artigos": [
+    "ac-instalacao-concluida-acessos",
+    "ac-instalacao-confirmar-portal-no-ar"
+   ]
   },
   {
    "aba": "claude-videos-basicos-area-do-cliente",
    "gid": 615353814,
    "linha": 10,
-   "id_planilha": 9,
-   "topico": "Minha Plataforma - Plataforma já Instalada",
-   "status": {
-    "gravacao": null,
-    "edicao": null,
-    "thumbnail": "Pendente",
-    "publicacao": null
-   },
-   "youtube_id": null,
-   "link_drive_ou_pagina": null,
-   "produto": "area-do-cliente",
-   "observacao": "sem link do YouTube.",
-   "artigos": []
-  },
-  {
-   "aba": "claude-videos-basicos-area-do-cliente",
-   "gid": 615353814,
-   "linha": 11,
    "id_planilha": 10,
    "topico": "Treinamentos  - Navegando rapidamente pelas opcoes",
    "status": {
-    "gravacao": null,
+    "gravacao": "Pendente",
     "edicao": null,
     "thumbnail": "Pendente",
-    "publicacao": null
+    "publicacao": "Pendente"
    },
    "youtube_id": null,
    "link_drive_ou_pagina": "https://areacliente.newcortex.site/negocios/11507a1c-7e97-437f-b6ca-4c0b096082bd/treinamento",
@@ -2720,25 +2783,32 @@
   {
    "aba": "claude-videos-basicos-area-do-cliente",
    "gid": 615353814,
-   "linha": 12,
+   "linha": 11,
    "id_planilha": 11,
    "topico": "Ferramentas",
    "status": {
-    "gravacao": "Em gravação",
+    "gravacao": "Gravado",
     "edicao": null,
     "thumbnail": "Pendente",
-    "publicacao": null
+    "publicacao": "Publicado"
    },
-   "youtube_id": null,
+   "youtube_id": "2sVAq8AngnY",
    "link_drive_ou_pagina": null,
    "produto": "area-do-cliente",
-   "observacao": "sem link do YouTube.",
-   "artigos": []
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/2sVAq8AngnY.md",
+   "artigos": [
+    "ac-ferramentas-o-que-sao"
+   ]
   },
   {
    "aba": "claude-videos-basicos-area-do-cliente",
    "gid": 615353814,
-   "linha": 13,
+   "linha": 12,
    "id_planilha": 12,
    "topico": "Lives",
    "status": {
@@ -2763,7 +2833,7 @@
   {
    "aba": "claude-videos-basicos-area-do-cliente",
    "gid": 615353814,
-   "linha": 14,
+   "linha": 13,
    "id_planilha": 13,
    "topico": "Suporte",
    "status": {
@@ -2790,25 +2860,32 @@
   {
    "aba": "claude-videos-basicos-area-do-cliente",
    "gid": 615353814,
-   "linha": 15,
+   "linha": 14,
    "id_planilha": 14,
    "topico": "Pagamentos",
    "status": {
-    "gravacao": "Em gravação",
+    "gravacao": "Gravado",
     "edicao": null,
     "thumbnail": "Pendente",
-    "publicacao": null
+    "publicacao": "Publicado"
    },
-   "youtube_id": null,
+   "youtube_id": "RjoIdbHZrkQ",
    "link_drive_ou_pagina": null,
    "produto": "area-do-cliente",
-   "observacao": "sem link do YouTube.",
-   "artigos": []
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/RjoIdbHZrkQ.md",
+   "artigos": [
+    "ac-onde-ver-pagamentos"
+   ]
   },
   {
    "aba": "claude-videos-basicos-area-do-cliente",
    "gid": 615353814,
-   "linha": 16,
+   "linha": 15,
    "id_planilha": 15,
    "topico": null,
    "status": {
@@ -2826,7 +2903,7 @@
   {
    "aba": "claude-videos-basicos-area-do-cliente",
    "gid": 615353814,
-   "linha": 17,
+   "linha": 16,
    "id_planilha": 16,
    "topico": null,
    "status": {
@@ -4456,6 +4533,27 @@
    ]
   },
   {
+   "youtube_id": "O3sdByn6xK8",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/O3sdByn6xK8.md",
+   "artigos": [
+    "radar-de-precos",
+    "usuario-radar-consultar-precos"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 50,
+     "id_planilha": 49,
+     "topico": "Vídeo Externo Página >  Radar de Preços - Principal",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
    "youtube_id": "4pc8AwOX0hA",
    "titulo_youtube": null,
    "duracao_s": null,
@@ -4469,8 +4567,8 @@
    "linhas": [
     {
      "aba": "painel-admin",
-     "linha": 50,
-     "id_planilha": 49,
+     "linha": 53,
+     "id_planilha": 52,
      "topico": "Vídeo Uso Cliente > Formas de Anunciar em nosso Portal",
      "produto": "portal-da-cidade"
     }
@@ -4490,8 +4588,8 @@
    "linhas": [
     {
      "aba": "painel-admin",
-     "linha": 51,
-     "id_planilha": 50,
+     "linha": 54,
+     "id_planilha": 53,
      "topico": "Sorteios > Configurações",
      "produto": "portal-da-cidade"
     }
@@ -4510,8 +4608,8 @@
    "linhas": [
     {
      "aba": "painel-admin",
-     "linha": 53,
-     "id_planilha": 52,
+     "linha": 56,
+     "id_planilha": 55,
      "topico": "Melhor da Cidade > Configurações",
      "produto": "portal-da-cidade"
     }
@@ -4530,8 +4628,8 @@
    "linhas": [
     {
      "aba": "painel-admin",
-     "linha": 54,
-     "id_planilha": 53,
+     "linha": 57,
+     "id_planilha": 56,
      "topico": "Projetos Sociais > Configurações",
      "produto": "portal-da-cidade"
     }
@@ -4552,8 +4650,8 @@
    "linhas": [
     {
      "aba": "painel-admin",
-     "linha": 55,
-     "id_planilha": 54,
+     "linha": 58,
+     "id_planilha": 57,
      "topico": "Sorteios [Animado Página Externa]",
      "produto": "portal-da-cidade"
     }
@@ -4572,8 +4670,8 @@
    "linhas": [
     {
      "aba": "painel-admin",
-     "linha": 56,
-     "id_planilha": 55,
+     "linha": 59,
+     "id_planilha": 58,
      "topico": "Melhor da Cidade [Animado Página Externa]",
      "produto": "portal-da-cidade"
     }
@@ -4592,8 +4690,8 @@
    "linhas": [
     {
      "aba": "painel-admin",
-     "linha": 58,
-     "id_planilha": 57,
+     "linha": 60,
+     "id_planilha": 59,
      "topico": "Projetos Sociais [Animado Página Externa]",
      "produto": "portal-da-cidade"
     }
@@ -5194,6 +5292,128 @@
    ]
   },
   {
+   "youtube_id": "ZY0xttnJyzI",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/ZY0xttnJyzI.md",
+   "artigos": [
+    "ac-negocios-ver-lista"
+   ],
+   "linhas": [
+    {
+     "aba": "claude-videos-basicos-area-do-cliente",
+     "linha": 5,
+     "id_planilha": 4,
+     "topico": "Página - Meus Negócios",
+     "produto": "area-do-cliente"
+    }
+   ]
+  },
+  {
+   "youtube_id": "o-YLH2-8w8I",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/o-YLH2-8w8I.md",
+   "artigos": [
+    "ac-negocio-visao-geral"
+   ],
+   "linhas": [
+    {
+     "aba": "claude-videos-basicos-area-do-cliente",
+     "linha": 6,
+     "id_planilha": 5,
+     "topico": "Página - Visão Geral",
+     "produto": "area-do-cliente"
+    }
+   ]
+  },
+  {
+   "youtube_id": "DpFk0q7myio",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/DpFk0q7myio.md",
+   "artigos": [
+    "ac-instalacao-informar-dominio",
+    "ac-instalacao-nao-tenho-dominio"
+   ],
+   "linhas": [
+    {
+     "aba": "claude-videos-basicos-area-do-cliente",
+     "linha": 7,
+     "id_planilha": 6,
+     "topico": "Minha Plataforma - Processo de Instalação - Etapa 1 - Como Registrar um Dominio",
+     "produto": "area-do-cliente"
+    }
+   ]
+  },
+  {
+   "youtube_id": "9-7aT2M-jmk",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/9-7aT2M-jmk.md",
+   "artigos": [
+    "ac-instalacao-trocar-nameservers"
+   ],
+   "linhas": [
+    {
+     "aba": "claude-videos-basicos-area-do-cliente",
+     "linha": 8,
+     "id_planilha": 7,
+     "topico": "Minha Plataforma -  Processo de Instalação - Etapa 2 - Apontando DNS",
+     "produto": "area-do-cliente"
+    }
+   ]
+  },
+  {
+   "youtube_id": "CgrBKTyXSsI",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/CgrBKTyXSsI.md",
+   "artigos": [
+    "ac-instalacao-concluida-acessos",
+    "ac-instalacao-confirmar-portal-no-ar"
+   ],
+   "linhas": [
+    {
+     "aba": "claude-videos-basicos-area-do-cliente",
+     "linha": 9,
+     "id_planilha": 8,
+     "topico": "Minha Plataforma -  Processo de Instalação - Etapa 3 - Portal no Ar",
+     "produto": "area-do-cliente"
+    }
+   ]
+  },
+  {
+   "youtube_id": "2sVAq8AngnY",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/2sVAq8AngnY.md",
+   "artigos": [
+    "ac-ferramentas-o-que-sao"
+   ],
+   "linhas": [
+    {
+     "aba": "claude-videos-basicos-area-do-cliente",
+     "linha": 11,
+     "id_planilha": 11,
+     "topico": "Ferramentas",
+     "produto": "area-do-cliente"
+    }
+   ]
+  },
+  {
    "youtube_id": "3i_JcDTTKtA",
    "titulo_youtube": null,
    "duracao_s": null,
@@ -5206,7 +5426,7 @@
    "linhas": [
     {
      "aba": "claude-videos-basicos-area-do-cliente",
-     "linha": 13,
+     "linha": 12,
      "id_planilha": 12,
      "topico": "Lives",
      "produto": "area-do-cliente"
@@ -5228,9 +5448,29 @@
    "linhas": [
     {
      "aba": "claude-videos-basicos-area-do-cliente",
-     "linha": 14,
+     "linha": 13,
      "id_planilha": 13,
      "topico": "Suporte",
+     "produto": "area-do-cliente"
+    }
+   ]
+  },
+  {
+   "youtube_id": "RjoIdbHZrkQ",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/RjoIdbHZrkQ.md",
+   "artigos": [
+    "ac-onde-ver-pagamentos"
+   ],
+   "linhas": [
+    {
+     "aba": "claude-videos-basicos-area-do-cliente",
+     "linha": 14,
+     "id_planilha": 14,
+     "topico": "Pagamentos",
      "produto": "area-do-cliente"
     }
    ]

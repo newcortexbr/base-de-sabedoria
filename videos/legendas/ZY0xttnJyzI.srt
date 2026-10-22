@@ -1,0 +1,385 @@
+1
+00:00:00,120 --> 00:00:02,270
+ 
+Em meus negócios ficam todos os portais
+
+2
+00:00:02,270 --> 00:00:02,280
+Em meus negócios ficam todos os portais
+ 
+
+3
+00:00:02,280 --> 00:00:04,990
+Em meus negócios ficam todos os portais
+da sua conta, cada um no seu território.
+
+4
+00:00:04,990 --> 00:00:05,000
+da sua conta, cada um no seu território.
+ 
+
+5
+00:00:05,000 --> 00:00:07,470
+da sua conta, cada um no seu território.
+É daqui que você acompanha e acessa cada
+
+6
+00:00:07,470 --> 00:00:07,480
+É daqui que você acompanha e acessa cada
+ 
+
+7
+00:00:07,480 --> 00:00:09,990
+É daqui que você acompanha e acessa cada
+um deles. Para abrir, clique em meus
+
+8
+00:00:09,990 --> 00:00:10,000
+um deles. Para abrir, clique em meus
+ 
+
+9
+00:00:10,000 --> 00:00:12,669
+um deles. Para abrir, clique em meus
+negócios no menu ao lado. No topo, você
+
+10
+00:00:12,669 --> 00:00:12,679
+negócios no menu ao lado. No topo, você
+ 
+
+11
+00:00:12,679 --> 00:00:15,030
+negócios no menu ao lado. No topo, você
+vê quantos portais tem. Cada portal
+
+12
+00:00:15,030 --> 00:00:15,040
+vê quantos portais tem. Cada portal
+ 
+
+13
+00:00:15,040 --> 00:00:17,349
+vê quantos portais tem. Cada portal
+aparece no seu próprio cartão. Se tiver
+
+14
+00:00:17,349 --> 00:00:17,359
+aparece no seu próprio cartão. Se tiver
+ 
+
+15
+00:00:17,359 --> 00:00:19,510
+aparece no seu próprio cartão. Se tiver
+mais de um, é só escolher o negócio que
+
+16
+00:00:19,510 --> 00:00:19,520
+mais de um, é só escolher o negócio que
+ 
+
+17
+00:00:19,520 --> 00:00:21,910
+mais de um, é só escolher o negócio que
+deseja gerenciar. O cartão mostra a
+
+18
+00:00:21,910 --> 00:00:21,920
+deseja gerenciar. O cartão mostra a
+ 
+
+19
+00:00:21,920 --> 00:00:24,310
+deseja gerenciar. O cartão mostra a
+cidade, o produto e um selo com a
+
+20
+00:00:24,310 --> 00:00:24,320
+cidade, o produto e um selo com a
+ 
+
+21
+00:00:24,320 --> 00:00:26,630
+cidade, o produto e um selo com a
+situação do portal. Enquanto ele não foi
+
+22
+00:00:26,630 --> 00:00:26,640
+situação do portal. Enquanto ele não foi
+ 
+
+23
+00:00:26,640 --> 00:00:28,950
+situação do portal. Enquanto ele não foi
+instalado, o selo diz instalação
+
+24
+00:00:28,950 --> 00:00:28,960
+instalado, o selo diz instalação
+ 
+
+25
+00:00:28,960 --> 00:00:31,109
+instalado, o selo diz instalação
+pendente e um aviso pede para você
+
+26
+00:00:31,109 --> 00:00:31,119
+pendente e um aviso pede para você
+ 
+
+27
+00:00:31,119 --> 00:00:33,510
+pendente e um aviso pede para você
+informar o domínio. Em endereço do
+
+28
+00:00:33,510 --> 00:00:33,520
+informar o domínio. Em endereço do
+ 
+
+29
+00:00:33,520 --> 00:00:36,389
+informar o domínio. Em endereço do
+portal fica o seu domínio. Ao lado, a
+
+30
+00:00:36,389 --> 00:00:36,399
+portal fica o seu domínio. Ao lado, a
+ 
+
+31
+00:00:36,399 --> 00:00:38,630
+portal fica o seu domínio. Ao lado, a
+situação dos pagamentos mostra a reserva
+
+32
+00:00:38,630 --> 00:00:38,640
+situação dos pagamentos mostra a reserva
+ 
+
+33
+00:00:38,640 --> 00:00:41,110
+situação dos pagamentos mostra a reserva
+territorial e a mensalidade, cada uma
+
+34
+00:00:41,110 --> 00:00:41,120
+territorial e a mensalidade, cada uma
+ 
+
+35
+00:00:41,120 --> 00:00:43,670
+territorial e a mensalidade, cada uma
+com o próximo vencimento. Neste momento,
+
+36
+00:00:43,670 --> 00:00:43,680
+com o próximo vencimento. Neste momento,
+ 
+
+37
+00:00:43,680 --> 00:00:46,709
+com o próximo vencimento. Neste momento,
+o botão principal é iniciar instalação.
+
+38
+00:00:46,709 --> 00:00:46,719
+o botão principal é iniciar instalação.
+ 
+
+39
+00:00:46,719 --> 00:00:48,510
+o botão principal é iniciar instalação.
+É por ele que o seu portal vai para o
+
+40
+00:00:48,510 --> 00:00:48,520
+É por ele que o seu portal vai para o
+ 
+
+41
+00:00:48,520 --> 00:00:50,990
+É por ele que o seu portal vai para o
+ar. Depois que você informa o domínio, o
+
+42
+00:00:50,990 --> 00:00:51,000
+ar. Depois que você informa o domínio, o
+ 
+
+43
+00:00:51,000 --> 00:00:53,910
+ar. Depois que você informa o domínio, o
+selo muda para em instalação. O cartão
+
+44
+00:00:53,910 --> 00:00:53,920
+selo muda para em instalação. O cartão
+ 
+
+45
+00:00:53,920 --> 00:00:55,950
+selo muda para em instalação. O cartão
+mostra o que falta. por exemplo, trocar
+
+46
+00:00:55,950 --> 00:00:55,960
+mostra o que falta. por exemplo, trocar
+ 
+
+47
+00:00:55,960 --> 00:00:58,430
+mostra o que falta. por exemplo, trocar
+os name servers. E o botão passa a ser
+
+48
+00:00:58,430 --> 00:00:58,440
+os name servers. E o botão passa a ser
+ 
+
+49
+00:00:58,440 --> 00:01:00,549
+os name servers. E o botão passa a ser
+ver o que fazer. E quando o portal é
+
+50
+00:01:00,549 --> 00:01:00,559
+ver o que fazer. E quando o portal é
+ 
+
+51
+00:01:00,559 --> 00:01:03,389
+ver o que fazer. E quando o portal é
+publicado, o selo fica verde, portal no
+
+52
+00:01:03,389 --> 00:01:03,399
+publicado, o selo fica verde, portal no
+ 
+
+53
+00:01:03,399 --> 00:01:06,510
+publicado, o selo fica verde, portal no
+ar. O aviso some e o cartão confirma.
+
+54
+00:01:06,510 --> 00:01:06,520
+ar. O aviso some e o cartão confirma.
+ 
+
+55
+00:01:06,520 --> 00:01:08,670
+ar. O aviso some e o cartão confirma.
+Instalação concluída e plataforma
+
+56
+00:01:08,670 --> 00:01:08,680
+Instalação concluída e plataforma
+ 
+
+57
+00:01:08,680 --> 00:01:11,670
+Instalação concluída e plataforma
+disponível. Aí aparecem os botões abrir
+
+58
+00:01:11,670 --> 00:01:11,680
+disponível. Aí aparecem os botões abrir
+ 
+
+59
+00:01:11,680 --> 00:01:14,510
+disponível. Aí aparecem os botões abrir
+portal para ver o seu site e acessar meu
+
+60
+00:01:14,510 --> 00:01:14,520
+portal para ver o seu site e acessar meu
+ 
+
+61
+00:01:14,520 --> 00:01:16,670
+portal para ver o seu site e acessar meu
+negócio, que leva para a visão geral do
+
+62
+00:01:16,670 --> 00:01:16,680
+negócio, que leva para a visão geral do
+ 
+
+63
+00:01:16,680 --> 00:01:19,190
+negócio, que leva para a visão geral do
+seu portal. Fique atento. A reserva
+
+64
+00:01:19,190 --> 00:01:19,200
+seu portal. Fique atento. A reserva
+ 
+
+65
+00:01:19,200 --> 00:01:21,429
+seu portal. Fique atento. A reserva
+territorial e a mensalidade precisam
+
+66
+00:01:21,429 --> 00:01:21,439
+territorial e a mensalidade precisam
+ 
+
+67
+00:01:21,439 --> 00:01:24,230
+territorial e a mensalidade precisam
+estar em dia. Com 5 dias de atraso em
+
+68
+00:01:24,230 --> 00:01:24,240
+estar em dia. Com 5 dias de atraso em
+ 
+
+69
+00:01:24,240 --> 00:01:26,149
+estar em dia. Com 5 dias de atraso em
+qualquer uma delas, o portal e as
+
+70
+00:01:26,149 --> 00:01:26,159
+qualquer uma delas, o portal e as
+ 
+
+71
+00:01:26,159 --> 00:01:28,030
+qualquer uma delas, o portal e as
+ferramentas são suspensos até a
+
+72
+00:01:28,030 --> 00:01:28,040
+ferramentas são suspensos até a
+ 
+
+73
+00:01:28,040 --> 00:01:31,030
+ferramentas são suspensos até a
+regularização. Assim, num só lugar, você
+
+74
+00:01:31,030 --> 00:01:31,040
+regularização. Assim, num só lugar, você
+ 
+
+75
+00:01:31,040 --> 00:01:33,190
+regularização. Assim, num só lugar, você
+acompanha cada portal do início da
+
+76
+00:01:33,190 --> 00:01:33,200
+acompanha cada portal do início da
+ 
+
+77
+00:01:33,200 --> 00:01:37,920
+acompanha cada portal do início da
+instalação até ele estar no ar.
+

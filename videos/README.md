@@ -7,11 +7,11 @@ fonte: [planilha de vídeos](https://docs.google.com/spreadsheets/d/1T-8uwGcdqZx
 
 | aba | produto | linhas | com tópico | com link | publicadas | com legenda | com artigo |
 |---|---|---|---|---|---|---|---|
-| painel-admin | portal-da-cidade | 57 | 57 | 54 | 54 | 54 | 54 |
+| painel-admin | portal-da-cidade | 59 | 59 | 55 | 54 | 55 | 55 |
 | area-empresa-parceiro-portal | portal-da-cidade | 26 | 22 | 22 | 22 | 21 | 21 |
 | sistema-dados-pj | dados-pj | 5 | 2 | 2 | 2 | 2 | 2 |
 | extrator-google-maps | extrator-maps | 6 | 3 | 3 | 3 | 3 | 3 |
-| claude-videos-basicos-area-do-cliente | area-do-cliente | 16 | 14 | 3 | 3 | 3 | 3 |
+| claude-videos-basicos-area-do-cliente | area-do-cliente | 15 | 13 | 10 | 10 | 10 | 10 |
 | conteudos-treinamento-do-franqueado | treinamento-do-franqueado | 16 | 1 | 0 | 0 | 0 | 0 |
 | paginas-de-vendas | vendas | 16 | 0 | 0 | 0 | 0 | 0 |
 
@@ -19,31 +19,24 @@ fonte: [planilha de vídeos](https://docs.google.com/spreadsheets/d/1T-8uwGcdqZx
 
 | produto | linhas | com tópico | com link | publicadas | com legenda | com artigo |
 |---|---|---|---|---|---|---|
-| portal-da-cidade | 83 | 79 | 76 | 76 | 75 | 75 |
+| portal-da-cidade | 85 | 81 | 77 | 76 | 76 | 76 |
 | dados-pj | 5 | 2 | 2 | 2 | 2 | 2 |
 | extrator-maps | 6 | 3 | 3 | 3 | 3 | 3 |
-| area-do-cliente | 16 | 14 | 3 | 3 | 3 | 3 |
+| area-do-cliente | 15 | 13 | 10 | 10 | 10 | 10 |
 | treinamento-do-franqueado | 16 | 1 | 0 | 0 | 0 | 0 |
 | vendas | 16 | 0 | 0 | 0 | 0 | 0 |
 
-total: 142 linhas, 99 com tópico, 84 com link (84 ids distintos), 84 publicadas, 83 com legenda, 83 com artigo.
+total: 143 linhas, 100 com tópico, 92 com link (92 ids distintos), 91 publicadas, 91 com legenda, 91 com artigo.
 
 ## tópicos sem link
 
 - painel-admin #1: Painel - Mostrando Todo Painel
-- painel-admin #51: Radar de Preço > Configurações
-- painel-admin #56: Radar de Preço > [Animado Página Externa]
+- painel-admin #50: Vídeo Externo Página >  Radar de Preços - Lista
+- painel-admin #51: Vídeo Externo Página >  Radar de Preços - Enviar Preço
+- painel-admin #54: Radar de Preço > Configurações
 - claude-videos-basicos-area-do-cliente #1: Vídeo de ONBOARDING
 - claude-videos-basicos-area-do-cliente #2: Processo de Compra e Pós Pagamento
-- claude-videos-basicos-area-do-cliente #4: Página - Meus Negócios
-- claude-videos-basicos-area-do-cliente #5: Página - Visão Geral
-- claude-videos-basicos-area-do-cliente #6: Minha Plataforma - Processo de Instalação - Etapa 2 - Como Registrar um Dominio
-- claude-videos-basicos-area-do-cliente #7: Minha Plataforma -  Processo de Instalação - Etapa 2 - Apontando DNS
-- claude-videos-basicos-area-do-cliente #8: Minha Plataforma -  Processo de Instalação - Etapa 3 - Portal no Ar
-- claude-videos-basicos-area-do-cliente #9: Minha Plataforma - Plataforma já Instalada
 - claude-videos-basicos-area-do-cliente #10: Treinamentos  - Navegando rapidamente pelas opcoes
-- claude-videos-basicos-area-do-cliente #11: Ferramentas
-- claude-videos-basicos-area-do-cliente #14: Pagamentos
 - conteudos-treinamento-do-franqueado #1: Vídeo de ONBOARDING
 
 ## links com observação

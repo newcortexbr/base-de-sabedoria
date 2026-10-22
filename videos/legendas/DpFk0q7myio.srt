@@ -1,0 +1,675 @@
+1
+00:00:00,120 --> 00:00:02,149
+ 
+Bem-vindo à primeira etapa da instalação
+
+2
+00:00:02,149 --> 00:00:02,159
+Bem-vindo à primeira etapa da instalação
+ 
+
+3
+00:00:02,159 --> 00:00:05,070
+Bem-vindo à primeira etapa da instalação
+do seu portal. Registrar o seu domínio.
+
+4
+00:00:05,070 --> 00:00:05,080
+do seu portal. Registrar o seu domínio.
+ 
+
+5
+00:00:05,080 --> 00:00:07,269
+do seu portal. Registrar o seu domínio.
+Domínio é o endereço do seu portal na
+
+6
+00:00:07,269 --> 00:00:07,279
+Domínio é o endereço do seu portal na
+ 
+
+7
+00:00:07,279 --> 00:00:09,430
+Domínio é o endereço do seu portal na
+internet, aquele que as pessoas digitam
+
+8
+00:00:09,430 --> 00:00:09,440
+internet, aquele que as pessoas digitam
+ 
+
+9
+00:00:09,440 --> 00:00:11,430
+internet, aquele que as pessoas digitam
+para chegar até você. Você pode
+
+10
+00:00:11,430 --> 00:00:11,440
+para chegar até você. Você pode
+ 
+
+11
+00:00:11,440 --> 00:00:13,070
+para chegar até você. Você pode
+registrar o domínio no site que
+
+12
+00:00:13,070 --> 00:00:13,080
+registrar o domínio no site que
+ 
+
+13
+00:00:13,080 --> 00:00:15,270
+registrar o domínio no site que
+preferir. Nós apenas recomendamos os
+
+14
+00:00:15,270 --> 00:00:15,280
+preferir. Nós apenas recomendamos os
+ 
+
+15
+00:00:15,280 --> 00:00:17,990
+preferir. Nós apenas recomendamos os
+mais usados, o registro.br e a
+
+16
+00:00:17,990 --> 00:00:18,000
+mais usados, o registro.br e a
+ 
+
+17
+00:00:18,000 --> 00:00:20,230
+mais usados, o registro.br e a
+Hostinger. Mas a escolha não interfere
+
+18
+00:00:20,230 --> 00:00:20,240
+Hostinger. Mas a escolha não interfere
+ 
+
+19
+00:00:20,240 --> 00:00:22,910
+Hostinger. Mas a escolha não interfere
+em nada na instalação. Só um cuidado.
+
+20
+00:00:22,910 --> 00:00:22,920
+em nada na instalação. Só um cuidado.
+ 
+
+21
+00:00:22,920 --> 00:00:24,630
+em nada na instalação. Só um cuidado.
+Depois que o portal é instalado, o
+
+22
+00:00:24,630 --> 00:00:24,640
+Depois que o portal é instalado, o
+ 
+
+23
+00:00:24,640 --> 00:00:26,870
+Depois que o portal é instalado, o
+domínio não pode mais ser trocado.
+
+24
+00:00:26,870 --> 00:00:26,880
+domínio não pode mais ser trocado.
+ 
+
+25
+00:00:26,880 --> 00:00:28,830
+domínio não pode mais ser trocado.
+Então, escolha com calma. Para
+
+26
+00:00:28,830 --> 00:00:28,840
+Então, escolha com calma. Para
+ 
+
+27
+00:00:28,840 --> 00:00:30,749
+Então, escolha com calma. Para
+dominios.com.br,
+
+28
+00:00:30,749 --> 00:00:30,759
+dominios.com.br,
+ 
+
+29
+00:00:30,759 --> 00:00:33,630
+dominios.com.br,
+recomendamos o registro.br. Na página
+
+30
+00:00:33,630 --> 00:00:33,640
+recomendamos o registro.br. Na página
+ 
+
+31
+00:00:33,640 --> 00:00:35,869
+recomendamos o registro.br. Na página
+inicial, digite o nome que você quer no
+
+32
+00:00:35,869 --> 00:00:35,879
+inicial, digite o nome que você quer no
+ 
+
+33
+00:00:35,879 --> 00:00:38,830
+inicial, digite o nome que você quer no
+campo pesquisar domínio e tecle enter.
+
+34
+00:00:38,830 --> 00:00:38,840
+campo pesquisar domínio e tecle enter.
+ 
+
+35
+00:00:38,840 --> 00:00:41,270
+campo pesquisar domínio e tecle enter.
+Se aparecer domínio não disponível,
+
+36
+00:00:41,270 --> 00:00:41,280
+Se aparecer domínio não disponível,
+ 
+
+37
+00:00:41,280 --> 00:00:43,310
+Se aparecer domínio não disponível,
+alguém já registrou esse nome. Tente
+
+38
+00:00:43,310 --> 00:00:43,320
+alguém já registrou esse nome. Tente
+ 
+
+39
+00:00:43,320 --> 00:00:45,029
+alguém já registrou esse nome. Tente
+outra combinação, por exemplo,
+
+40
+00:00:45,029 --> 00:00:45,039
+outra combinação, por exemplo,
+ 
+
+41
+00:00:45,039 --> 00:00:47,150
+outra combinação, por exemplo,
+acrescentando a sigla do seu estado.
+
+42
+00:00:47,150 --> 00:00:47,160
+acrescentando a sigla do seu estado.
+ 
+
+43
+00:00:47,160 --> 00:00:49,310
+acrescentando a sigla do seu estado.
+Quando aparecer domínio disponível para
+
+44
+00:00:49,310 --> 00:00:49,320
+Quando aparecer domínio disponível para
+ 
+
+45
+00:00:49,320 --> 00:00:51,270
+Quando aparecer domínio disponível para
+registro, escolha o período, por
+
+46
+00:00:51,270 --> 00:00:51,280
+registro, escolha o período, por
+ 
+
+47
+00:00:51,280 --> 00:00:54,349
+registro, escolha o período, por
+exemplo, um ano, e clique em registrar.
+
+48
+00:00:54,349 --> 00:00:54,359
+exemplo, um ano, e clique em registrar.
+ 
+
+49
+00:00:54,359 --> 00:00:57,950
+exemplo, um ano, e clique em registrar.
+Depois, informe o CPF ou CNPJ de quem
+
+50
+00:00:57,950 --> 00:00:57,960
+Depois, informe o CPF ou CNPJ de quem
+ 
+
+51
+00:00:57,960 --> 00:01:00,150
+Depois, informe o CPF ou CNPJ de quem
+será o titular do domínio. Entre na sua
+
+52
+00:01:00,150 --> 00:01:00,160
+será o titular do domínio. Entre na sua
+ 
+
+53
+00:01:00,160 --> 00:01:02,430
+será o titular do domínio. Entre na sua
+conta do registro.br e conclua o
+
+54
+00:01:02,430 --> 00:01:02,440
+conta do registro.br e conclua o
+ 
+
+55
+00:01:02,440 --> 00:01:04,509
+conta do registro.br e conclua o
+pagamento. Se você preferir outra
+
+56
+00:01:04,509 --> 00:01:04,519
+pagamento. Se você preferir outra
+ 
+
+57
+00:01:04,519 --> 00:01:07,749
+pagamento. Se você preferir outra
+terminação como poncom ou ponnet, use a
+
+58
+00:01:07,749 --> 00:01:07,759
+terminação como poncom ou ponnet, use a
+ 
+
+59
+00:01:07,759 --> 00:01:10,270
+terminação como poncom ou ponnet, use a
+Hostinger, pesquise o nome e veja todas
+
+60
+00:01:10,270 --> 00:01:10,280
+Hostinger, pesquise o nome e veja todas
+ 
+
+61
+00:01:10,280 --> 00:01:12,710
+Hostinger, pesquise o nome e veja todas
+as terminações disponíveis. Mas atenção
+
+62
+00:01:12,710 --> 00:01:12,720
+as terminações disponíveis. Mas atenção
+ 
+
+63
+00:01:12,720 --> 00:01:15,270
+as terminações disponíveis. Mas atenção
+na compra, muitas ofertas de preço baixo
+
+64
+00:01:15,270 --> 00:01:15,280
+na compra, muitas ofertas de preço baixo
+ 
+
+65
+00:01:15,280 --> 00:01:18,030
+na compra, muitas ofertas de preço baixo
+só valem com prazo de 3 anos. Repare no
+
+66
+00:01:18,030 --> 00:01:18,040
+só valem com prazo de 3 anos. Repare no
+ 
+
+67
+00:01:18,040 --> 00:01:20,429
+só valem com prazo de 3 anos. Repare no
+aviso logo abaixo do preço. Ao escolher
+
+68
+00:01:20,429 --> 00:01:20,439
+aviso logo abaixo do preço. Ao escolher
+ 
+
+69
+00:01:20,439 --> 00:01:22,670
+aviso logo abaixo do preço. Ao escolher
+o domínio, a Hostinger também oferece
+
+70
+00:01:22,670 --> 00:01:22,680
+o domínio, a Hostinger também oferece
+ 
+
+71
+00:01:22,680 --> 00:01:24,830
+o domínio, a Hostinger também oferece
+planos de hospedagem. Você não precisa
+
+72
+00:01:24,830 --> 00:01:24,840
+planos de hospedagem. Você não precisa
+ 
+
+73
+00:01:24,840 --> 00:01:27,069
+planos de hospedagem. Você não precisa
+contratar hospedagem. O seu portal já
+
+74
+00:01:27,069 --> 00:01:27,079
+contratar hospedagem. O seu portal já
+ 
+
+75
+00:01:27,079 --> 00:01:29,670
+contratar hospedagem. O seu portal já
+roda na nossa plataforma. Clique em ver
+
+76
+00:01:29,670 --> 00:01:29,680
+roda na nossa plataforma. Clique em ver
+ 
+
+77
+00:01:29,680 --> 00:01:32,230
+roda na nossa plataforma. Clique em ver
+carrinho. No carrinho, confira o campo
+
+78
+00:01:32,230 --> 00:01:32,240
+carrinho. No carrinho, confira o campo
+ 
+
+79
+00:01:32,240 --> 00:01:34,830
+carrinho. No carrinho, confira o campo
+período. Muitas vezes ele já vem marcado
+
+80
+00:01:34,830 --> 00:01:34,840
+período. Muitas vezes ele já vem marcado
+ 
+
+81
+00:01:34,840 --> 00:01:37,630
+período. Muitas vezes ele já vem marcado
+em 3 anos e a renovação depois pode sair
+
+82
+00:01:37,630 --> 00:01:37,640
+em 3 anos e a renovação depois pode sair
+ 
+
+83
+00:01:37,640 --> 00:01:40,350
+em 3 anos e a renovação depois pode sair
+mais cara. Para pagar só um ano, abra a
+
+84
+00:01:40,350 --> 00:01:40,360
+mais cara. Para pagar só um ano, abra a
+ 
+
+85
+00:01:40,360 --> 00:01:43,109
+mais cara. Para pagar só um ano, abra a
+lista período e escolha um ano. Confira
+
+86
+00:01:43,109 --> 00:01:43,119
+lista período e escolha um ano. Confira
+ 
+
+87
+00:01:43,119 --> 00:01:45,830
+lista período e escolha um ano. Confira
+o total e só então conclua a compra. E o
+
+88
+00:01:45,830 --> 00:01:45,840
+o total e só então conclua a compra. E o
+ 
+
+89
+00:01:45,840 --> 00:01:47,870
+o total e só então conclua a compra. E o
+mais importante, só continue a
+
+90
+00:01:47,870 --> 00:01:47,880
+mais importante, só continue a
+ 
+
+91
+00:01:47,880 --> 00:01:49,789
+mais importante, só continue a
+instalação depois que o pagamento do
+
+92
+00:01:49,789 --> 00:01:49,799
+instalação depois que o pagamento do
+ 
+
+93
+00:01:49,799 --> 00:01:52,149
+instalação depois que o pagamento do
+domínio estiver concluído. Sem o domínio
+
+94
+00:01:52,149 --> 00:01:52,159
+domínio estiver concluído. Sem o domínio
+ 
+
+95
+00:01:52,159 --> 00:01:54,350
+domínio estiver concluído. Sem o domínio
+pago, o seu portal não consegue ir para
+
+96
+00:01:54,350 --> 00:01:54,360
+pago, o seu portal não consegue ir para
+ 
+
+97
+00:01:54,360 --> 00:01:56,789
+pago, o seu portal não consegue ir para
+o ar. Com o domínio pago, volte para a
+
+98
+00:01:56,789 --> 00:01:56,799
+o ar. Com o domínio pago, volte para a
+ 
+
+99
+00:01:56,799 --> 00:01:59,029
+o ar. Com o domínio pago, volte para a
+minha plataforma. Em qual endereço sua
+
+100
+00:01:59,029 --> 00:01:59,039
+minha plataforma. Em qual endereço sua
+ 
+
+101
+00:01:59,039 --> 00:02:01,270
+minha plataforma. Em qual endereço sua
+plataforma vai ter? Deixe marcado
+
+102
+00:02:01,270 --> 00:02:01,280
+plataforma vai ter? Deixe marcado
+ 
+
+103
+00:02:01,280 --> 00:02:03,950
+plataforma vai ter? Deixe marcado
+domínio próprio. No campo seu Domínio,
+
+104
+00:02:03,950 --> 00:02:03,960
+domínio próprio. No campo seu Domínio,
+ 
+
+105
+00:02:03,960 --> 00:02:06,469
+domínio próprio. No campo seu Domínio,
+digite o endereço que você registrou sem
+
+106
+00:02:06,469 --> 00:02:06,479
+digite o endereço que você registrou sem
+ 
+
+107
+00:02:06,479 --> 00:02:09,270
+digite o endereço que você registrou sem
+wwws.
+
+108
+00:02:09,270 --> 00:02:09,280
+wwws.
+ 
+
+109
+00:02:09,280 --> 00:02:11,550
+wwws.
+Quando aparecer domínio válido, está
+
+110
+00:02:11,550 --> 00:02:11,560
+Quando aparecer domínio válido, está
+ 
+
+111
+00:02:11,560 --> 00:02:13,790
+Quando aparecer domínio válido, está
+tudo certo. Digite o domínio de novo
+
+112
+00:02:13,790 --> 00:02:13,800
+tudo certo. Digite o domínio de novo
+ 
+
+113
+00:02:13,800 --> 00:02:16,110
+tudo certo. Digite o domínio de novo
+para confirmar e confira a prévia. É
+
+114
+00:02:16,110 --> 00:02:16,120
+para confirmar e confira a prévia. É
+ 
+
+115
+00:02:16,120 --> 00:02:17,790
+para confirmar e confira a prévia. É
+nesse endereço que o seu portal vai
+
+116
+00:02:17,790 --> 00:02:17,800
+nesse endereço que o seu portal vai
+ 
+
+117
+00:02:17,800 --> 00:02:19,949
+nesse endereço que o seu portal vai
+abrir. Marque a caixa confirmando que o
+
+118
+00:02:19,949 --> 00:02:19,959
+abrir. Marque a caixa confirmando que o
+ 
+
+119
+00:02:19,959 --> 00:02:22,869
+abrir. Marque a caixa confirmando que o
+domínio é seu, está registrado e pago e
+
+120
+00:02:22,869 --> 00:02:22,879
+domínio é seu, está registrado e pago e
+ 
+
+121
+00:02:22,879 --> 00:02:25,509
+domínio é seu, está registrado e pago e
+clique em continuar. E se você já usa o
+
+122
+00:02:25,509 --> 00:02:25,519
+clique em continuar. E se você já usa o
+ 
+
+123
+00:02:25,519 --> 00:02:27,670
+clique em continuar. E se você já usa o
+seu domínio em outro site, escolha
+
+124
+00:02:27,670 --> 00:02:27,680
+seu domínio em outro site, escolha
+ 
+
+125
+00:02:27,680 --> 00:02:30,030
+seu domínio em outro site, escolha
+subdomínio. O portal fica no endereço
+
+126
+00:02:30,030 --> 00:02:30,040
+subdomínio. O portal fica no endereço
+ 
+
+127
+00:02:30,040 --> 00:02:33,670
+subdomínio. O portal fica no endereço
+como portal.suaempresa.com.br,
+
+128
+00:02:33,670 --> 00:02:33,680
+
+ 
+
+129
+00:02:33,680 --> 00:02:35,830
+ 
+sem mexer no site que você já tem.
+
+130
+00:02:35,830 --> 00:02:35,840
+sem mexer no site que você já tem.
+ 
+
+131
+00:02:35,840 --> 00:02:38,030
+sem mexer no site que você já tem.
+Pronto. Na próxima etapa, você vai
+
+132
+00:02:38,030 --> 00:02:38,040
+Pronto. Na próxima etapa, você vai
+ 
+
+133
+00:02:38,040 --> 00:02:40,630
+Pronto. Na próxima etapa, você vai
+apontar o DNS do seu domínio para o seu
+
+134
+00:02:40,630 --> 00:02:40,640
+apontar o DNS do seu domínio para o seu
+ 
+
+135
+00:02:40,640 --> 00:02:43,640
+apontar o DNS do seu domínio para o seu
+portal.
+
