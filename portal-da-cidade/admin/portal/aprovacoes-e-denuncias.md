@@ -38,6 +38,8 @@ aqui você decide o que os clientes enviam antes de ir ao ar e acompanha as den�
 4. Para não publicar, clique em `Recusar` direto no envio; o item não vai ao ar.
 
 ## explicação
+- aprovação e denúncia são coisas diferentes: aprovação libera o que o cliente enviou antes de ir ao ar; denúncia é o visitante reclamando do que já está no ar.
+- tratar uma denúncia só pede `Ignorar denúncia` ou uma ação sua; `Excluir` o item e `Bloquear` a conta são opcionais, nunca um passo obrigatório.
 - o número ao lado do item no menu avisa que há itens novos pendentes.
 - a aba `Aprovações` mostra há quanto tempo cada envio espera.
 - o detalhe do envio mostra descrição, salário, local e contato, conforme o tipo.
@@ -65,3 +67,4 @@ peça ajuda se a página não carregar, se o salvamento der erro ou se a opção
 ## lacunas
 
 não foi feita validação visual no navegador. Os textos dos botões podem mudar.
+

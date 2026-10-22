@@ -21,12 +21,10 @@ explicar, sem complicação, quem pode colocar um anúncio de venda nos classifi
 
 - os classificados são anúncios de coisas à venda: carro, móvel, celular, imóvel, e assim por diante. Vagas de emprego são outra coisa.
 - qualquer pessoa ou empresa pode anunciar, mas **precisa ter conta e um cadastro de anunciante no portal**. Visitante sem conta não anuncia.
-- são dois jeitos de ter esse cadastro:
-  1. **sozinho**: pela página `Anuncie nos Classificados` (`/anuncie/classificados`) você cria a conta, confirma o e-mail e já pode anunciar.
-  2. **pelo portal**: o administrador cadastra você como anunciante e cria o seu login. Você recebe os dados por e-mail.
+- quem cria o cadastro de anunciante: o administrador do portal (cadastra você e cria o seu login; você recebe os dados por e-mail) ou você mesmo, na página `Anuncie nos Classificados` do portal, criando a conta e confirmando o e-mail.
 - sem cadastro de anunciante, ao tentar publicar aparece: "Você não está vinculado a nenhum anunciante neste portal. Fale com o administrador do portal."
 - todo anúncio precisa de **pelo menos uma foto**.
-- quando o portal pede aprovação, o anúncio de quem se cadastrou sozinho fica `Pendente` até o administrador liberar. Anúncio criado pelo administrador vai ao ar direto.
+- quando o portal pede aprovação, o anúncio de quem se cadastrou na página `Anuncie nos Classificados` fica `Pendente` até o administrador liberar. Anúncio criado pelo administrador vai ao ar direto.
 
 ## passos
 
@@ -53,3 +51,4 @@ você tem conta de anunciante e pode publicar.
 ## lacunas
 
 não verificado visualmente. Que o formulário de `/anuncie/classificados` cria o cadastro de anunciante foi inferido de `FormularioLP` com módulo `classificados` e de `Anunciante.origem=autocadastro`; o passo a passo exato do formulário não foi transcrito.
+

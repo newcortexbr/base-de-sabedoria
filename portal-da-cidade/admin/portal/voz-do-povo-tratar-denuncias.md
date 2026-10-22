@@ -25,6 +25,7 @@ aqui você decide o que fazer com cada relato que um morador mandou em A Voz do 
 - o relato tem quatro situações: `Recebida` (chegou agora), `Em análise` (você está cuidando), `Resolvida` (problema resolvido) e `Arquivada` (encerrada sem ação).
 - a lista abre em `Em aberto`, que mostra `Recebida` e `Em análise`.
 - **não existe** ignorar, bloquear ou excluir relato da Voz do Povo. O mais perto de "ignorar" é `Arquivar`: o relato sai da fila mas continua guardado, e dá para voltar atrás.
+- tratar a denúncia não exige excluir nem bloquear: o passo obrigatório é só mudar a situação (`Em análise`, `Resolvida` ou `Arquivar`). Denúncia não é aprovação: aprovar é liberar o que o cliente enviou; denunciar é o morador reclamar do que já está no ar.
 - ignorar, excluir o item e bloquear a conta existem só nas denúncias de conteúdo (empresa, vaga, classificado, evento), em `Aprovações e Denúncias`. São ações pesadas e opcionais; veja "ignorar uma denúncia", "tirar do ar o conteúdo de uma denúncia" e "bloquear a empresa ou conta de uma denúncia".
 
 ## passos
@@ -54,3 +55,4 @@ o relato muda de situação e sai da lista `Em aberto` quando vira `Resolvida` o
 ## lacunas
 
 a Voz do Povo não tem excluir, ignorar nem bloquear no painel (só status). Se o dono quiser essas ações, é função nova.
+

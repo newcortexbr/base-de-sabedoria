@@ -19,10 +19,12 @@ aqui você libera ou recusa a empresa que o próprio cliente cadastrou no Guia C
 ## pré-requisitos
 
 - Ter acesso de administrador ao painel do portal.
-- A opção `Exigir minha aprovação antes de publicar` estar ligada (veja "escolher as regras de aprovação e denúncias do portal").
+- A opção `Exigir minha aprovação antes de publicar` estar ligada (veja "escolher as regras de aprovação e denúncias do portal"). Desligada, não há fila.
 
 ## explicação
 
+- por que toda empresa que chega pede a sua aprovação: porque a opção `Exigir minha aprovação antes de publicar` está ligada. Ela vem ligada por padrão em todo portal. Se você pensou "toda empresa chega e eu tenho que aprovar" ou "por que preciso aprovar empresa", é isso.
+- para parar de aprovar uma a uma, desligue essa opção: em `Aprovações e Denúncias`, no quadro `Como funciona neste portal`, desmarque `Exigir minha aprovação antes de publicar`. Daí em diante a empresa do cliente vai ao ar na hora. Ela vale para o portal todo (vagas, classificados e demais envios de clientes também); não dá para desligar só para empresas. Empresas que já estão pendentes continuam na fila até você aprovar ou recusar.
 - o cliente cria a conta, contrata um plano do Guia e preenche a empresa na área dele. Ao clicar em `Publicar no guia`, o cadastro vai para você, como `Pendente`.
 - com a aprovação desligada, a empresa do cliente vai ao ar na hora.
 - empresa cadastrada por você, no painel, vai ao ar direto, sem passar por esta fila.
@@ -51,10 +53,12 @@ peça ajuda se a empresa aprovada não aparecer no Guia depois de alguns minutos
 
 - `portal-cidade/backend/comercial/views_public.py:784`
 - `portal-cidade/backend/guia/moderacao.py:130`
-- `portal-cidade/backend/portais/moderacao.py:51`
+- `portal-cidade/backend/portais/moderacao.py:54` (`precisa_de_aprovacao`)
+- `portal-cidade/backend/portais/models.py:97` (`fila_aprovacao_ativa`, padrão ligado)
 - `portal-cidade/frontend/src/app/painel/aprovacoes/AprovacoesClient.tsx:244`
 - `portal-cidade/frontend/src/app/painel/guia/empresas/page.tsx:128`
 
 ## lacunas
 
 não verificado visualmente. A volta de `Reprovado` para `Pendente` vem de `comercial/views_public.py:830` e não foi testada. Quando a empresa aprovada aparece no site depende do cache da página; não foi medido.
+

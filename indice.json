@@ -4,9 +4,9 @@
   "area-do-cliente": 92,
   "dados-pj": 14,
   "extrator-maps": 21,
-  "portal-da-cidade": 191
+  "portal-da-cidade": 193
  },
- "total": 318,
+ "total": 320,
  "artigos": [
   {
    "id": "ac-ativar-conta-pelo-convite",
@@ -10060,6 +10060,43 @@
    "caminho": "portal-da-cidade/admin/portal/voz-do-povo.md"
   },
   {
+   "id": "cliente-criar-conta-area-do-cliente",
+   "titulo": "criar minha conta na área do cliente (sem ainda ter conta)",
+   "objetivo": "criar uma conta nova para anunciar ou cadastrar sua empresa. Quem já tem conta não precisa disto: veja \"entrar na área do cliente\".",
+   "publico": [
+    "cliente",
+    "visitante"
+   ],
+   "produto": null,
+   "modulo": "acesso",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-22",
+   "termos": [
+    "criar",
+    "conta",
+    "area",
+    "cliente",
+    "sem",
+    "ainda",
+    "acesso",
+    "aplica",
+    "nova",
+    "anunciar",
+    "cadastrar",
+    "empresa",
+    "quem",
+    "precisa",
+    "disto",
+    "veja",
+    "entrar"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/cliente/acesso/criar-conta-cliente.md"
+  },
+  {
    "id": "acesso-entrar-area-cliente",
    "titulo": "entrar na área do cliente",
    "objetivo": "acessar os recursos da sua conta pela área do cliente.",
@@ -10605,6 +10642,40 @@
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/cliente/editar-perfil-publico-da-empresa.md"
+  },
+  {
+   "id": "empresa-enviar-preco-e-aprovacao",
+   "titulo": "empresa enviar preço: Radar, cardápio e Guia, e se precisa de aprovação",
+   "objetivo": "saber por onde uma empresa pode colocar preço no portal e se o preço passa pela sua aprovação.",
+   "publico": [
+    "cliente",
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "radar",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-22",
+   "termos": [
+    "empresa",
+    "enviar",
+    "preco",
+    "radar",
+    "cardapio",
+    "guia",
+    "precisa",
+    "aprovacao",
+    "aplica",
+    "saber",
+    "colocar",
+    "portal",
+    "passa",
+    "pela"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/cliente/empresa-enviar-preco-e-aprovacao.md"
   },
   {
    "id": "cliente-escrever-descricao-empresa",
