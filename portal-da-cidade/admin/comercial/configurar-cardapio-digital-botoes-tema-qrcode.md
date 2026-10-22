@@ -33,7 +33,7 @@ aqui você escolhe os botões que aparecem no cardápio, o tema claro ou escuro 
 6. Em `Aparência do cardápio`, escolha o tema claro ou escuro. [guia=guia-empresas-cardapio.tema]
 7. Para imprimir o QR code, escolha o tamanho da placa (`A4` para parede, `A5` para balcão, `A6` para mesa ou adesivo de 10 por 10 cm). [guia=guia-empresas-cardapio.tamanho-placa]
 8. Clique em `Gerar QR Code para imprimir`. [guia=guia-empresas-cardapio.gerar-qrcode]
-9. Se preferir, baixe a imagem do QR code ou copie o link para mandar no WhatsApp e nas redes sociais.
+9. Se preferir, baixe a imagem do QR code ou copie o link para mandar no WhatsApp e nas redes sociais. [guia=guia-empresas-cardapio.gerar-qrcode]
 
 ## resultado
 O cardápio mostra os botões e o tema escolhidos, e o QR code fica pronto para imprimir. no portal, a página da empresa mostra o bloco `cardápio digital` com o número de seções e de itens e o botão `ver cardápio completo`. a página do cardápio tem capa, logo, busca, seções em abas e, no rodapé, os botões que você ligou.

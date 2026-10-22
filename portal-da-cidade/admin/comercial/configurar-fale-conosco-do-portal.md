@@ -31,7 +31,7 @@ aqui você preenche o e-mail, o telefone, o título e o texto curto que aparecem
 1. No menu da esquerda, na parte `Sistema`, clique em `Configurações` e depois em `Configurações Gerais`. [guia=menu:/painel/configuracoes]
 2. No quadro `Página Fale Conosco`, preencha o `E-mail de contato`. [guia=configuracoes.email-contato]
 3. Preencha o `Telefone`. [guia=configuracoes.telefone-contato]
-4. Preencha o `Título da página` e o `Texto da página` (um texto curto para o visitante).
+4. Preencha o `Título da página` e o `Texto da página` (um texto curto para o visitante). [guia=menu:/painel/configuracoes]
 5. Clique em `Salvar Fale Conosco`. [guia=configuracoes.salvar-contato]
 
 ## resultado

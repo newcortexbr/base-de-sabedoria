@@ -30,13 +30,13 @@ criar a conta no Asaas, copiar o `Wallet ID` e salvá-lo no painel do parceiro p
 - trocar a carteira sempre pede a senha atual do painel, e você recebe um e-mail avisando da mudança.
 
 ## passos
-1. No site oficial do Asaas, na tela de abrir conta, informe o e-mail, crie uma senha com pelo menos oito caracteres, um número e uma letra, confirme a senha, aceite os termos e clique em criar conta.
-2. Informe os dados de pessoa física (CPF) ou empresa (CNPJ), endereço e telefone, envie os documentos pedidos e aguarde a aprovação. O Asaas avisa por e-mail quando a conta for liberada.
-3. Entre na conta Asaas. No canto superior direito, clique no ícone do perfil e depois em `Integrações`.
-4. Desça até o quadro `Wallet ID` e clique em copiar ao lado do código. Aparece a mensagem de que o Wallet ID foi copiado.
-5. No painel do parceiro, clique em `Perfil` no menu da esquerda. No quadro `Carteira de recebimento`, a situação aparece como `não informada`.
-6. Cole o código no campo `ID da carteira Asaas` e confira se ficou completo.
-7. Digite a senha atual do painel e clique em `Salvar carteira`.
+1. No site oficial do Asaas, na tela de abrir conta, informe o e-mail, crie uma senha com pelo menos oito caracteres, um número e uma letra, confirme a senha, aceite os termos e clique em criar conta. [guia=fora]
+2. Informe os dados de pessoa física (CPF) ou empresa (CNPJ), endereço e telefone, envie os documentos pedidos e aguarde a aprovação. O Asaas avisa por e-mail quando a conta for liberada. [guia=fora]
+3. Entre na conta Asaas. No canto superior direito, clique no ícone do perfil e depois em `Integrações`. [guia=fora]
+4. Desça até o quadro `Wallet ID` e clique em copiar ao lado do código. Aparece a mensagem de que o Wallet ID foi copiado. [guia=fora]
+5. No painel do parceiro, clique em `Perfil` no menu da esquerda. No quadro `Carteira de recebimento`, a situação aparece como `não informada`. [guia=parceiro.carteira]
+6. Cole o código no campo `ID da carteira Asaas` e confira se ficou completo. [guia=parceiro.carteira-id]
+7. Digite a senha atual do painel e clique em `Salvar carteira`. [guia=parceiro.carteira-salvar]
 
 ## resultado
 aparece a mensagem de carteira salva e a situação muda para `informada`. Quando o portal ligar o repasse automático, as comissões dos pagamentos feitos pelo Asaas vão direto para a sua carteira, e você acompanha em `Minhas comissões`.

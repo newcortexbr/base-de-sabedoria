@@ -28,8 +28,8 @@ explicar, sem complicação, quem pode colocar um anúncio de venda nos classifi
 
 ## passos
 
-1. Abra `/anuncie/classificados` e preencha o formulário de cadastro. [guia=menu:/anuncie/classificados]
-2. Digite o código de 6 números que chega no seu e-mail.
+1. Abra `/anuncie/classificados` e preencha o formulário de cadastro. [guia=fora]
+2. Digite o código de 6 números que chega no seu e-mail. [guia=fora]
 3. Entre em `/minha-conta/login` e, no menu, clique em `Classificados`. Siga "publicar um anúncio novo na área do cliente". [guia=menu:/minha-conta/classificados]
 
 ## resultado

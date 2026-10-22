@@ -24,10 +24,10 @@ aqui você vê os produtos e preços que estão no Radar e lança um preço por 
 ## passos
 
 1. No menu da esquerda, clique em `Radar de Preços` e depois em `Produtos e preços`. [guia=menu:/painel/radar/produtos]
-2. Use a busca para achar um produto. A lista mostra os mercados, o menor preço e quando foi atualizado.
-3. Para lançar um preço, clique em `Adicionar preço`, escolha o produto (ou escreva um novo e sua categoria), o mercado e o preço, e salve. Se o preço daquele mercado já existe, ele é atualizado.
-4. Para corrigir o nome, a categoria ou a foto de um produto, abra a linha dele e edite. Para tirar o preço de um mercado, apague o preço na linha.
-5. Se o mesmo produto aparece duas vezes, use a opção de juntar e escolha o produto certo; os preços passam para ele.
+2. Use a busca para achar um produto. A lista mostra os mercados, o menor preço e quando foi atualizado. [guia=menu:/painel/radar/produtos]
+3. Para lançar um preço, clique em `Adicionar preço`, escolha o produto (ou escreva um novo e sua categoria), o mercado e o preço, e salve. Se o preço daquele mercado já existe, ele é atualizado. [guia=radar-produtos.adicionar-preco]
+4. Para corrigir o nome, a categoria ou a foto de um produto, abra a linha dele e edite. Para tirar o preço de um mercado, apague o preço na linha. [guia=radar-produtos.editar]
+5. Se o mesmo produto aparece duas vezes, use a opção de juntar e escolha o produto certo; os preços passam para ele. [guia=radar-produtos.editar]
 
 ## resultado
 

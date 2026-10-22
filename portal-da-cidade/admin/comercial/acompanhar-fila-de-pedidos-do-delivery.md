@@ -30,7 +30,7 @@ aqui você acompanha os pedidos que chegam no delivery de uma empresa, do recebi
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas]
 2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar]
 3. Desça até `Conteúdo da ficha` e, no cartão `Fila de pedidos`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-fila-de-pedidos] [t=14]
-4. A lista mostra os pedidos do mais recente para o mais antigo. Cada pedido traz o código, o nome do cliente, a hora e o valor total. As abas filtram pela situação: recebido, em preparo, saiu para entrega, entregue e cancelado.
+4. A lista mostra os pedidos do mais recente para o mais antigo. Cada pedido traz o código, o nome do cliente, a hora e o valor total. As abas filtram pela situação: recebido, em preparo, saiu para entrega, entregue e cancelado. [guia=delivery-pedidos.periodo]
 5. Clique em `Ativar som` para ouvir um aviso quando chegar pedido novo. [guia=delivery-pedidos.ativar-som] [t=52]
 6. A lista se atualiza sozinha a cada 20 segundos. Para ver na hora, clique em `↻ Atualizar`. [guia=delivery-pedidos.atualizar] [t=59]
 7. Em cada pedido recebido, clique em `Iniciar preparo`. [guia=delivery-pedidos.acao-em_preparo] [t=37]

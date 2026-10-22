@@ -33,12 +33,12 @@ Entrar no painel como administrador, com o módulo de turismo ativo no portal.
 6. Preencha a `Duração`. [guia=roteiros.duracao] [t=23]
 7. Escreva a `Descrição`. [guia=roteiros.descricao] [t=23]
 8. Preencha o `Ponto de partida`. [guia=roteiros.partida] [t=25]
-9. Se tiver, cole o link do YouTube no campo `Vídeo do roteiro (YouTube)`, que é separado da galeria.
+9. Se tiver, cole o link do YouTube no campo `Vídeo do roteiro (YouTube)`, que é separado da galeria. [guia=roteiros.foto]
 10. Em `Paradas do roteiro`, clique em `+ Adicionar parada`. [guia=roteiros.adicionar-parada] [t=28]
 11. Escreva o `Nome da parada *`. [guia=roteiros.parada-nome] [t=31]
 12. Escreva a `Descrição` da parada. [guia=roteiros.parada-descricao] [t=32]
 13. Preencha o `Tempo sugerido`. [guia=roteiros.parada-tempo] [t=33]
-14. Se quiser, marque a parada como destaque.
+14. Se quiser, marque a parada como destaque. [guia=roteiros.adicionar-parada]
 15. Clique em `Adicionar` para guardar a parada. Para cada nova parada, repita os passos anteriores. [guia=roteiros.parada-confirmar]
 16. Se quiser, adicione fotos em `Galeria de fotos e vídeos`. [guia=galeria.adicionar-fotos]
 17. Deixe `Ativo` marcado e clique em `Salvar`. [guia=roteiros.salvar] [t=43]

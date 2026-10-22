@@ -33,8 +33,8 @@ aqui você acompanha e dá andamento aos relatos enviados pelos moradores.
 3. Em cada relato, clique em `Em análise`, `Resolvida` ou `Arquivar` para mudar a situação dele. [guia=utilidade-denuncias:em_analise] [t=62]
 4. Se clicou errado, use `Desfazer`, que aparece logo em seguida. [guia=utilidade-denuncias.desfazer]
 
-5. Em `Telefones Úteis`, cadastre os números de emergência e serviços da cidade, com horário de atendimento, e escolha quais aparecem no site.
-6. Em `Linhas de Ônibus`, cadastre as linhas que o morador consulta na página `A Voz do Povo` do site.
+5. Em `Telefones Úteis`, cadastre os números de emergência e serviços da cidade, com horário de atendimento, e escolha quais aparecem no site. [guia=menu:/painel/utilidade/telefones]
+6. Em `Linhas de Ônibus`, cadastre as linhas que o morador consulta na página `A Voz do Povo` do site. [guia=menu:/painel/utilidade/onibus]
 
 ## resultado
 

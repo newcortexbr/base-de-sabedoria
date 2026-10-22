@@ -28,7 +28,7 @@ aprovar ou reprovar os pedidos de orçamento enviados por visitantes.
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Orçamentos Online` e depois em `Todas as Solicitações`. [guia=menu:/painel/orcamentos/categorias] [t=85]
-2. A lista mostra o pedido, o cliente, a subcategoria do serviço, o status e a data de chegada. Na linha, o olho abre os detalhes, o lápis muda o status, o visto aprova, o X reprova e a lixeira exclui.
+2. A lista mostra o pedido, o cliente, a subcategoria do serviço, o status e a data de chegada. Na linha, o olho abre os detalhes, o lápis muda o status, o visto aprova, o X reprova e a lixeira exclui. [guia=orcamentos-categorias.ver-detalhes]
 3. No topo da página você vê quantos pedidos estão aguardando aprovação, quantos foram aprovados, encerrados e reprovados. Clicar num cartão filtra a lista por aquela situação. [guia=orcamentos-categorias.contadores] [t=90]
 4. Se quiser, filtre também por categoria ou por datas, nos campos logo abaixo. Para um período, comece pela data `De`. [guia=orcamentos-categorias.de] [t=100]
 5. Na linha do pedido que você quer, clique em `Ver detalhes` (o olho) para ler a descrição, ver as fotos, o WhatsApp, a categoria, o local e os serviços marcados. [guia=orcamentos-categorias.ver-detalhes] [t=116]

@@ -27,9 +27,9 @@ são só três categorias, e elas já vêm criadas: `Supermercados`, `Farmácias
 ## passos
 
 1. No menu da esquerda, clique em `Radar de Preços` e depois em `Categorias`. [guia=menu:/painel/radar/categorias]
-2. Clique no lápis na linha da categoria.
-3. Mude o nome, escolha outro ícone, ajuste a ordem (um número inteiro) ou desmarque `Ativa` para esconder a categoria.
-4. Salve.
+2. Clique no lápis na linha da categoria. [guia=radar-categorias.editar]
+3. Mude o nome, escolha outro ícone, ajuste a ordem (um número inteiro) ou desmarque `Ativa` para esconder a categoria. [guia=radar-categorias.salvar]
+4. Salve. [guia=radar-categorias.salvar]
 
 ## resultado
 

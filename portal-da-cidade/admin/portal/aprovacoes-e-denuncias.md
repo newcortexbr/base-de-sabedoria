@@ -35,7 +35,7 @@ aqui você decide o que os clientes enviam antes de ir ao ar e acompanha as den�
 1. No menu da esquerda, logo no começo, clique em `Aprovações e Denúncias`. [guia=menu:/painel/aprovacoes]
 2. Na aba `Aprovações`, clique em `Ver detalhe` na linha do envio que você quer conferir. [guia=aprovacoes.ver-detalhe] [t=56]
 3. Se estiver tudo certo, clique em `Aprovar` para colocar no ar. [guia=aprovacoes.aprovar] [t=64]
-4. Para não publicar, clique em `Recusar` direto no envio; o item não vai ao ar.
+4. Para não publicar, clique em `Recusar` direto no envio; o item não vai ao ar. [guia=aprovacoes.recusar]
 
 ## explicação
 - aprovação e denúncia são coisas diferentes: aprovação libera o que o cliente enviou antes de ir ao ar; denúncia é o visitante reclamando do que já está no ar.

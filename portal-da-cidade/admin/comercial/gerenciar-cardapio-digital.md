@@ -44,7 +44,7 @@ aqui você monta o cardápio com fotos e preços de um restaurante, bar ou lanch
 12. Para promoção, preencha também o `Preço promocional (R$)`. [guia=guia-empresas-cardapio.preco-promocional] [t=125]
 13. Se quiser, marque as `Tags` (viram selos no prato). [guia=guia-empresas-cardapio.tags] [t=132]
 14. Clique em `Salvar prato`. [guia=guia-empresas-cardapio.salvar-prato] [t=138]
-15. Para mudar um prato depois, clique no lápis dele.
+15. Para mudar um prato depois, clique no lápis dele. [guia=guia-empresas-cardapio.nome-prato]
 
 ## resultado
 

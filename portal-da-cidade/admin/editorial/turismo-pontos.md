@@ -31,14 +31,14 @@ Entrar no painel como administrador, com o módulo de turismo ativo no portal.
 4. Em `Dados básicos`, escreva o `Nome *` do ponto. [guia=pontos-novo.nome] [t=26]
 5. Escolha a `Categoria` (ou crie uma nova ali mesmo). [guia=pontos-novo.categoria] [t=28]
 6. Escreva a `Descrição` do ponto. [guia=pontos-novo.descricao] [t=30]
-7. Se quiser, preencha as `Tags`: escreva palavras curtas e tecle Enter. Elas viram etiquetas na página do ponto.
-8. Se quiser que o ponto apareça em evidência no portal, marque `Destaque`.
-9. Marque `Ativo` para publicar o ponto e indique se a entrada é gratuita.
+7. Se quiser, preencha as `Tags`: escreva palavras curtas e tecle Enter. Elas viram etiquetas na página do ponto. [guia=pontos-novo.descricao]
+8. Se quiser que o ponto apareça em evidência no portal, marque `Destaque`. [guia=pontos-novo.descricao]
+9. Marque `Ativo` para publicar o ponto e indique se a entrada é gratuita. [guia=pontos-novo.cadastrar]
 10. Na parte `Informações`, digite o `CEP`: o endereço é preenchido sozinho e a localização no mapa é descoberta automaticamente. [guia=campo-cep.cep] [t=47]
 11. Informe os horários de funcionamento de cada dia. Marque `Fechado` ou `24 horas` quando for o caso. [guia=pontos-novo.horarios] [t=57]
-12. Se quiser, preencha o bloco `Dicas para visitantes`, por exemplo o melhor horário e o que levar.
+12. Se quiser, preencha o bloco `Dicas para visitantes`, por exemplo o melhor horário e o que levar. [guia=pontos-novo.descricao]
 13. Se quiser, adicione mais fotos ou vídeos do YouTube na `Galeria de fotos e vídeos`. [guia=galeria.adicionar-fotos] [t=69]
-14. Se quiser, preencha o bloco `SEO`. Em branco, o sistema usa o nome e a descrição do ponto.
+14. Se quiser, preencha o bloco `SEO`. Em branco, o sistema usa o nome e a descrição do ponto. [guia=pontos-novo.descricao]
 15. Clique em `Cadastrar ponto`. [guia=pontos-novo.cadastrar] [t=80]
 
 ## resultado
