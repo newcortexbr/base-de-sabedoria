@@ -4,9 +4,9 @@
   "area-do-cliente": 92,
   "dados-pj": 14,
   "extrator-maps": 21,
-  "portal-da-cidade": 177
+  "portal-da-cidade": 193
  },
- "total": 304,
+ "total": 320,
  "artigos": [
   {
    "id": "ac-ativar-conta-pelo-convite",
@@ -5484,6 +5484,44 @@
    "caminho": "portal-da-cidade/admin/comercial/anunciantes-de-classificados.md"
   },
   {
+   "id": "aprovar-cadastro-de-empresa",
+   "titulo": "aprovar o cadastro de empresa feito pelo próprio cliente",
+   "objetivo": "aqui você libera ou recusa a empresa que o próprio cliente cadastrou no Guia Comercial. Enquanto você não aprova, ela não aparece no site.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "aprovações",
+   "aba": "Aprovações",
+   "tipos": [],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-22",
+   "termos": [
+    "aprovar",
+    "cadastro",
+    "empresa",
+    "feito",
+    "pelo",
+    "proprio",
+    "cliente",
+    "aprovacoes",
+    "voce",
+    "libera",
+    "recusa",
+    "cadastrou",
+    "guia",
+    "comercial",
+    "enquanto",
+    "aprova",
+    "ela",
+    "aparece",
+    "site"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/comercial/aprovar-cadastro-de-empresa.md"
+  },
+  {
    "id": "ativar-desativar-banner",
    "titulo": "ativar ou desativar um banner publicitário",
    "objetivo": "aqui você liga ou desliga um banner sem apagar.",
@@ -6434,6 +6472,32 @@
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/comercial/excluir-banner.md"
+  },
+  {
+   "id": "excluir-categoria-do-guia",
+   "titulo": "excluir uma categoria do Guia",
+   "objetivo": "aqui você apaga uma categoria do Guia que não é mais usada.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "guia-comercial",
+   "aba": "Guia Comercial",
+   "tipos": [],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-22",
+   "termos": [
+    "excluir",
+    "categoria",
+    "guia",
+    "comercial",
+    "voce",
+    "apaga",
+    "usada"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/comercial/excluir-categoria-do-guia.md"
   },
   {
    "id": "excluir-classificado",
@@ -8167,6 +8231,35 @@
    "caminho": "portal-da-cidade/admin/editorial/noticias-automaticas-fontes-rss.md"
   },
   {
+   "id": "noticias-cadastrar-rapido",
+   "titulo": "cadastrar uma notícia pelo caminho mais curto",
+   "objetivo": "aqui você coloca uma notícia no ar com o mínimo de campos.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "notícias",
+   "aba": "Notícias",
+   "tipos": [],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-22",
+   "termos": [
+    "cadastrar",
+    "noticia",
+    "pelo",
+    "caminho",
+    "curto",
+    "noticias",
+    "voce",
+    "coloca",
+    "minimo",
+    "campos"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/editorial/noticias-cadastrar-rapido.md"
+  },
+  {
    "id": "editorial-noticias-editar",
    "titulo": "editar uma notícia",
    "objetivo": "aqui você corrige uma notícia que já foi cadastrada. Você muda o texto, a foto ou a situação e salva.",
@@ -8237,6 +8330,32 @@
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/editorial/noticias-encontrar-e-filtrar.md"
+  },
+  {
+   "id": "noticias-excluir",
+   "titulo": "excluir uma notícia",
+   "objetivo": "aqui você apaga de vez uma notícia, ou várias de uma vez.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "notícias",
+   "aba": "Notícias",
+   "tipos": [],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-22",
+   "termos": [
+    "excluir",
+    "noticia",
+    "noticias",
+    "voce",
+    "apaga",
+    "vez",
+    "varias"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/editorial/noticias-excluir.md"
   },
   {
    "id": "editorial-noticias",
@@ -9289,6 +9408,212 @@
    "caminho": "portal-da-cidade/admin/portal/o-que-o-portal-nao-faz.md"
   },
   {
+   "id": "radar-categorias",
+   "titulo": "mudar as categorias do Radar de Preços",
+   "objetivo": "aqui você muda o nome, o ícone, a ordem ou liga e desliga as categorias do Radar.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "radar",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-22",
+   "termos": [
+    "mudar",
+    "categorias",
+    "radar",
+    "precos",
+    "aplica",
+    "voce",
+    "muda",
+    "nome",
+    "icone",
+    "ordem",
+    "liga",
+    "desliga"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/portal/radar-categorias.md"
+  },
+  {
+   "id": "radar-de-precos",
+   "titulo": "Radar de Preços: o que é e como funciona",
+   "objetivo": "aqui você entende o Radar de Preços: uma página onde os moradores comparam preços de supermercados, farmácias e postos de combustível da cidade.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "radar",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-22",
+   "termos": [
+    "radar",
+    "precos",
+    "funciona",
+    "aplica",
+    "voce",
+    "entende",
+    "pagina",
+    "moradores",
+    "comparam",
+    "supermercados",
+    "farmacias",
+    "postos",
+    "combustivel",
+    "cidade"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/portal/radar-de-precos.md"
+  },
+  {
+   "id": "radar-fotos-enviadas",
+   "titulo": "aprovar as fotos enviadas ao Radar de Preços",
+   "objetivo": "aqui você decide se a foto de preço enviada por um morador vai ao ar. Aprovada, o portal lê os preços da foto e eles entram no Radar.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "radar",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-22",
+   "termos": [
+    "aprovar",
+    "fotos",
+    "enviadas",
+    "radar",
+    "precos",
+    "aplica",
+    "voce",
+    "decide",
+    "foto",
+    "preco",
+    "enviada",
+    "morador",
+    "vai",
+    "aprovada",
+    "portal",
+    "eles",
+    "entram"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/portal/radar-fotos-enviadas.md"
+  },
+  {
+   "id": "radar-mercados",
+   "titulo": "aprovar e juntar mercados do Radar de Preços",
+   "objetivo": "aqui você cuida dos estabelecimentos do Radar: aprova os que moradores indicaram, junta repetidos, cadastra, edita, desliga ou exclui.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "radar",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-22",
+   "termos": [
+    "aprovar",
+    "juntar",
+    "mercados",
+    "radar",
+    "precos",
+    "aplica",
+    "voce",
+    "cuida",
+    "estabelecimentos",
+    "aprova",
+    "moradores",
+    "indicaram",
+    "junta",
+    "repetidos",
+    "cadastra",
+    "edita",
+    "desliga",
+    "exclui"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/portal/radar-mercados.md"
+  },
+  {
+   "id": "radar-precos-retidos",
+   "titulo": "resolver preços retidos do Radar de Preços",
+   "objetivo": "aqui você decide o que fazer com preços que o portal leu das fotos mas não publicou porque pareceram estranhos.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "radar",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-22",
+   "termos": [
+    "resolver",
+    "precos",
+    "retidos",
+    "radar",
+    "aplica",
+    "voce",
+    "decide",
+    "portal",
+    "leu",
+    "fotos",
+    "mas",
+    "publicou",
+    "porque",
+    "pareceram",
+    "estranhos"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/portal/radar-precos-retidos.md"
+  },
+  {
+   "id": "radar-produtos-e-precos",
+   "titulo": "ver e lançar preços no Radar de Preços",
+   "objetivo": "aqui você vê os produtos e preços que estão no Radar e lança um preço por conta própria, sem esperar foto de morador.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "radar",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-22",
+   "termos": [
+    "ver",
+    "lancar",
+    "precos",
+    "radar",
+    "aplica",
+    "voce",
+    "produtos",
+    "estao",
+    "lanca",
+    "preco",
+    "conta",
+    "propria",
+    "sem",
+    "esperar",
+    "foto",
+    "morador"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/portal/radar-produtos-e-precos.md"
+  },
+  {
    "id": "realizar-sorteio-ao-vivo",
    "titulo": "realizar o sorteio ao vivo e entregar o prêmio",
    "objetivo": "aqui você sorteia o ganhador depois que as inscrições encerram. Depois chama a pessoa no WhatsApp e marca a entrega do prêmio.",
@@ -9667,6 +9992,40 @@
    "caminho": "portal-da-cidade/admin/portal/voz-do-povo-ler-relato.md"
   },
   {
+   "id": "voz-do-povo-tratar-denuncias",
+   "titulo": "tratar uma denúncia da Voz do Povo",
+   "objetivo": "aqui você decide o que fazer com cada relato que um morador mandou em A Voz do Povo e deixa a fila em dia.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "utilidade",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-22",
+   "termos": [
+    "tratar",
+    "denuncia",
+    "voz",
+    "povo",
+    "utilidade",
+    "aplica",
+    "voce",
+    "decide",
+    "cada",
+    "relato",
+    "morador",
+    "mandou",
+    "deixa",
+    "fila",
+    "dia"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/portal/voz-do-povo-tratar-denuncias.md"
+  },
+  {
    "id": "voz-do-povo",
    "titulo": "A Voz do Povo: ver relatos dos moradores",
    "objetivo": "aqui você acompanha e dá andamento aos relatos enviados pelos moradores.",
@@ -9699,6 +10058,43 @@
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/voz-do-povo.md"
+  },
+  {
+   "id": "cliente-criar-conta-area-do-cliente",
+   "titulo": "criar minha conta na área do cliente (sem ainda ter conta)",
+   "objetivo": "criar uma conta nova para anunciar ou cadastrar sua empresa. Quem já tem conta não precisa disto: veja \"entrar na área do cliente\".",
+   "publico": [
+    "cliente",
+    "visitante"
+   ],
+   "produto": null,
+   "modulo": "acesso",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-22",
+   "termos": [
+    "criar",
+    "conta",
+    "area",
+    "cliente",
+    "sem",
+    "ainda",
+    "acesso",
+    "aplica",
+    "nova",
+    "anunciar",
+    "cadastrar",
+    "empresa",
+    "quem",
+    "precisa",
+    "disto",
+    "veja",
+    "entrar"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/cliente/acesso/criar-conta-cliente.md"
   },
   {
    "id": "acesso-entrar-area-cliente",
@@ -10246,6 +10642,40 @@
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/cliente/editar-perfil-publico-da-empresa.md"
+  },
+  {
+   "id": "empresa-enviar-preco-e-aprovacao",
+   "titulo": "empresa enviar preço: Radar, cardápio e Guia, e se precisa de aprovação",
+   "objetivo": "saber por onde uma empresa pode colocar preço no portal e se o preço passa pela sua aprovação.",
+   "publico": [
+    "cliente",
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "radar",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-22",
+   "termos": [
+    "empresa",
+    "enviar",
+    "preco",
+    "radar",
+    "cardapio",
+    "guia",
+    "precisa",
+    "aprovacao",
+    "aplica",
+    "saber",
+    "colocar",
+    "portal",
+    "passa",
+    "pela"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/cliente/empresa-enviar-preco-e-aprovacao.md"
   },
   {
    "id": "cliente-escrever-descricao-empresa",
@@ -11134,6 +11564,37 @@
    "caminho": "portal-da-cidade/cliente/publicar-anuncio-novo.md"
   },
   {
+   "id": "cliente-quem-pode-anunciar-classificados",
+   "titulo": "quem pode anunciar nos classificados e como começar",
+   "objetivo": "explicar, sem complicação, quem pode colocar um anúncio de venda nos classificados do portal e como começar.",
+   "publico": [
+    "cliente",
+    "usuario"
+   ],
+   "produto": null,
+   "modulo": "classificados",
+   "aba": "Classificados",
+   "tipos": [],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-22",
+   "termos": [
+    "quem",
+    "anunciar",
+    "classificados",
+    "comecar",
+    "explicar",
+    "sem",
+    "complicacao",
+    "colocar",
+    "anuncio",
+    "venda",
+    "portal"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/cliente/quem-pode-anunciar-nos-classificados.md"
+  },
+  {
    "id": "cliente-responder-pedidos-orcamento",
    "titulo": "responder pedidos de orçamento pelo WhatsApp",
    "objetivo": "ver os pedidos de orçamento que visitantes enviaram para a empresa e falar com quem pediu pelo WhatsApp.",
@@ -11639,6 +12100,65 @@
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/usuario/pedir-orcamento.md"
+  },
+  {
+   "id": "usuario-radar-consultar-precos",
+   "titulo": "comparar preços no Radar de Preços",
+   "objetivo": "achar onde o produto ou o combustível está mais barato na sua cidade.",
+   "publico": [
+    "usuario"
+   ],
+   "produto": null,
+   "modulo": "radar",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-22",
+   "termos": [
+    "comparar",
+    "precos",
+    "radar",
+    "aplica",
+    "achar",
+    "produto",
+    "combustivel",
+    "barato",
+    "cidade"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/usuario/radar-consultar-precos.md"
+  },
+  {
+   "id": "usuario-radar-enviar-preco",
+   "titulo": "enviar um preço para o Radar de Preços",
+   "objetivo": "mandar a foto de um preço ou de um encarte para ajudar outras pessoas a economizar.",
+   "publico": [
+    "usuario"
+   ],
+   "produto": null,
+   "modulo": "radar",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-22",
+   "termos": [
+    "enviar",
+    "preco",
+    "radar",
+    "precos",
+    "aplica",
+    "mandar",
+    "foto",
+    "encarte",
+    "ajudar",
+    "outras",
+    "pessoas",
+    "economizar"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/usuario/radar-enviar-preco.md"
   },
   {
    "id": "usuario-votar-melhores-da-cidade",

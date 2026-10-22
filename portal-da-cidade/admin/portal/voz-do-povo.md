@@ -23,6 +23,7 @@ aqui você acompanha e dá andamento aos relatos enviados pelos moradores.
 - Ter acesso de administrador ao painel do portal.
 
 ## veja também
+- para decidir o que fazer com cada relato (em análise, resolvida, arquivar), veja o artigo "tratar uma denúncia da Voz do Povo".
 - para abrir e ler um relato, veja o artigo "ler um relato completo da Voz do Povo".
 
 ## passos

@@ -22,6 +22,8 @@ aqui você cadastra as instituições (ONGs e projetos sociais) que aparecem na 
 - Cadastrar a causa antes da instituição, porque a instituição pede uma causa da lista.
 
 ## explicação
+- doações é uma vitrine: o portal divulga ONGs e projetos sociais da cidade para o morador conhecer e ajudar. O portal não recebe nem repassa dinheiro; o morador fala com a instituição pelos botões de contato.
+- `Causa` é o assunto da instituição (por exemplo, animais, crianças, saúde). Serve para o visitante filtrar a página de doações.
 - a página pública de doações mostra cada instituição num card, com busca por nome, cidade ou pelo que ela faz.
 - as causas viram os filtros dessa página pública.
 - salvou, está no site: a instituição aparece na hora. Para tirar uma instituição do ar, exclua.

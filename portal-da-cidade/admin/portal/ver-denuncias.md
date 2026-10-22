@@ -30,6 +30,10 @@ aqui você vê as denúncias enviadas por visitantes, filtra por situação ou p
 5. Clique na denúncia que você quer ver, para abrir os detalhes. [guia=denuncias.abrir]
 6. Na denúncia aberta, se quiser ver o conteúdo, clique em `Ver página denunciada`. [guia=denuncias.ver-pagina]
 
+## explicação
+
+- ver a denúncia não obriga a excluir nem bloquear: pode ignorar. Denúncia não é aprovação; aprovação é de envios de clientes ainda fora do ar.
+
 ## resultado
 Você vê os detalhes da denúncia escolhida.
 
@@ -50,3 +54,4 @@ peça ajuda se a página não carregar, se o salvamento der erro ou se a opção
 ## lacunas
 
 não foi feita validação visual no navegador. Os textos dos botões podem mudar.
+
