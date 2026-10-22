@@ -8,7 +8,7 @@ categoria: conteúdo
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - r5rFCgAV0mg
@@ -25,7 +25,7 @@ aqui você escolhe se as notícias de uma fonte vão ao ar sozinhas ou entram co
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Notícias Automáticas` e depois em `Fontes de RSS`. [guia=menu:/painel/noticias/fontes-rss]
 2. Para escolher se as notícias de uma fonte vão ao ar sozinhas, clique no lápis na linha da fonte que você quer. [guia=fontes-rss.editar]
-3. Marque `Publicar direto no site` para as notícias irem ao ar sozinhas. Desmarcado, elas entram como rascunho para você revisar. [guia=fontes-rss-cadastrar.publicar-direto]
+3. Na mesma edição, escolha a quantidade de notícias que entram por vez. Depois marque `Publicar direto no site` para as notícias irem ao ar sozinhas. Desmarcado, elas entram como rascunho para você revisar. [guia=fontes-rss-cadastrar.publicar-direto]
 4. Clique em `Salvar`. [guia=fontes-rss-cadastrar.enviar]
 
 ## resultado

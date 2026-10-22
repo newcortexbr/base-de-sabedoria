@@ -1,0 +1,5254 @@
+{
+ "gerado_em": "2026-10-22",
+ "planilha": "https://docs.google.com/spreadsheets/d/1T-8uwGcdqZxnH0W3l86UP6S8v5IeeIX7fwVUuH7f5Uc",
+ "totais": {
+  "geral": {
+   "linhas": 142,
+   "com_topico": 99,
+   "com_link": 84,
+   "publicadas": 84,
+   "com_legenda": 82,
+   "com_artigo": 82,
+   "ids_distintos": 84
+  },
+  "por_aba": {
+   "painel-admin": {
+    "linhas": 57,
+    "com_topico": 57,
+    "com_link": 54,
+    "publicadas": 54,
+    "com_legenda": 54,
+    "com_artigo": 54
+   },
+   "area-empresa-parceiro-portal": {
+    "linhas": 26,
+    "com_topico": 22,
+    "com_link": 22,
+    "publicadas": 22,
+    "com_legenda": 21,
+    "com_artigo": 21
+   },
+   "sistema-dados-pj": {
+    "linhas": 5,
+    "com_topico": 2,
+    "com_link": 2,
+    "publicadas": 2,
+    "com_legenda": 2,
+    "com_artigo": 2
+   },
+   "extrator-google-maps": {
+    "linhas": 6,
+    "com_topico": 3,
+    "com_link": 3,
+    "publicadas": 3,
+    "com_legenda": 3,
+    "com_artigo": 3
+   },
+   "claude-videos-basicos-area-do-cliente": {
+    "linhas": 16,
+    "com_topico": 14,
+    "com_link": 3,
+    "publicadas": 3,
+    "com_legenda": 2,
+    "com_artigo": 2
+   },
+   "conteudos-treinamento-do-franqueado": {
+    "linhas": 16,
+    "com_topico": 1,
+    "com_link": 0,
+    "publicadas": 0,
+    "com_legenda": 0,
+    "com_artigo": 0
+   },
+   "paginas-de-vendas": {
+    "linhas": 16,
+    "com_topico": 0,
+    "com_link": 0,
+    "publicadas": 0,
+    "com_legenda": 0,
+    "com_artigo": 0
+   }
+  },
+  "por_produto": {
+   "portal-da-cidade": {
+    "linhas": 83,
+    "com_topico": 79,
+    "com_link": 76,
+    "publicadas": 76,
+    "com_legenda": 75,
+    "com_artigo": 75
+   },
+   "dados-pj": {
+    "linhas": 5,
+    "com_topico": 2,
+    "com_link": 2,
+    "publicadas": 2,
+    "com_legenda": 2,
+    "com_artigo": 2
+   },
+   "extrator-maps": {
+    "linhas": 6,
+    "com_topico": 3,
+    "com_link": 3,
+    "publicadas": 3,
+    "com_legenda": 3,
+    "com_artigo": 3
+   },
+   "area-do-cliente": {
+    "linhas": 16,
+    "com_topico": 14,
+    "com_link": 3,
+    "publicadas": 3,
+    "com_legenda": 2,
+    "com_artigo": 2
+   },
+   "treinamento-do-franqueado": {
+    "linhas": 16,
+    "com_topico": 1,
+    "com_link": 0,
+    "publicadas": 0,
+    "com_legenda": 0,
+    "com_artigo": 0
+   },
+   "vendas": {
+    "linhas": 16,
+    "com_topico": 0,
+    "com_link": 0,
+    "publicadas": 0,
+    "com_legenda": 0,
+    "com_artigo": 0
+   }
+  }
+ },
+ "registros": [
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 2,
+   "id_planilha": 1,
+   "topico": "Painel - Mostrando Todo Painel",
+   "status": {
+    "gravacao": "Pendente",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Pendente"
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": "sem link do YouTube.",
+   "artigos": []
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 3,
+   "id_planilha": 2,
+   "topico": "Aprovações / Denuncias",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "JYDoZB_vyX8",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261014",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/JYDoZB_vyX8.md",
+   "artigos": [
+    "aprovacoes-e-denuncias",
+    "bloquear-conta-denunciada",
+    "excluir-item-denunciado",
+    "ignorar-denuncia",
+    "recusar-envio-para-aprovacao",
+    "regras-de-aprovacao-e-denuncias",
+    "ver-denuncias"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 4,
+   "id_planilha": 3,
+   "topico": "Notícias > Geral",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "gAa2NdnitZU",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/gAa2NdnitZU.md",
+   "artigos": [
+    "bloquear-jornalista",
+    "editar-jornalista",
+    "editorial-noticias",
+    "editorial-noticias-editar",
+    "editorial-noticias-encontrar-e-filtrar",
+    "jornalistas",
+    "resetar-senha-de-jornalista"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 5,
+   "id_planilha": 4,
+   "topico": "Notícias Automáticas > Fontes de RSS",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "r5rFCgAV0mg",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261016",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/r5rFCgAV0mg.md",
+   "artigos": [
+    "noticias-automaticas-fontes-rss",
+    "rss-colar-endereco",
+    "rss-excluir",
+    "rss-ligar-desligar",
+    "rss-publicar-direto",
+    "rss-ver-atualizacao"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 6,
+   "id_planilha": 5,
+   "topico": "Guia Comercial > Listar Empresas",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "wukhVMFEHWg",
+   "link_drive_ou_pagina": "Versão antiga: https://youtu.be/JdJr7pXVx98",
+   "produto": "portal-da-cidade",
+   "observacao": "coluna Drive aponta a versão antiga JdJr7pXVx98 (fica no catálogo como 2º nos artigos do Guia).",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/wukhVMFEHWg.md",
+   "artigos": [
+    "cadastrar-empresa-no-guia",
+    "gerenciar-empresas-do-guia",
+    "mudar-situacao-de-empresa-do-guia"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 7,
+   "id_planilha": 6,
+   "topico": "Guia Comercial > Como Importar Empresas do Maps",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "jl7GHmHVJcM",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": "mesmo vídeo da aba extrator-google-maps, linha 3.",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261005",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/jl7GHmHVJcM.md",
+   "artigos": [
+    "ext-escolher-o-nicho",
+    "ext-importar-no-guia-do-portal",
+    "ext-prospeccao-ou-base-para-portal",
+    "importar-empresas-no-guia"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 8,
+   "id_planilha": 7,
+   "topico": "Guia Comercial > Gerenciar Cardápio",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "VV8BxCbIfz4",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261019",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/VV8BxCbIfz4.md",
+   "artigos": [
+    "configurar-cardapio-digital-botoes-tema-qrcode",
+    "gerenciar-cardapio-digital"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 9,
+   "id_planilha": 8,
+   "topico": "Guia Comercial >  Gerenciar Cardapio do Delivery",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "2ShbACG2mHE",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261019",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/2ShbACG2mHE.md",
+   "artigos": [
+    "acompanhar-fila-de-pedidos-do-delivery",
+    "gerenciar-cardapio-do-delivery",
+    "opcoes-de-produto-do-delivery",
+    "operar-delivery-pedidos-e-configuracoes"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 10,
+   "id_planilha": 9,
+   "topico": "Guia Comercial > Gerenciar Filas de Pedidos e Configurações do Delivery",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "TgIUmqrRuBY",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261019",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/TgIUmqrRuBY.md",
+   "artigos": [
+    "acompanhar-fila-de-pedidos-do-delivery",
+    "gerenciar-cardapio-do-delivery",
+    "opcoes-de-produto-do-delivery",
+    "operar-delivery-pedidos-e-configuracoes"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 11,
+   "id_planilha": 10,
+   "topico": "Guia Comercial > Gerenciar Serviços",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "aE3QL3ErK0k",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261019",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/aE3QL3ErK0k.md",
+   "artigos": [
+    "gerenciar-servicos-da-empresa"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 12,
+   "id_planilha": 11,
+   "topico": "Guia Comercial > Gerenciar Equipes",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "okWcwnwq5Bk",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261019",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/okWcwnwq5Bk.md",
+   "artigos": [
+    "gerenciar-equipe-da-empresa"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 13,
+   "id_planilha": 12,
+   "topico": "Guia Comercial > Gerenciar Catalogo de Produtos",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "Z45xwGT8U38",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261019",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/Z45xwGT8U38.md",
+   "artigos": [
+    "gerenciar-catalogo-de-produtos"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 14,
+   "id_planilha": 13,
+   "topico": "Guia Comercial > Acomodações / Quartos",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "reZ3e1a4o-o",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261019",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/reZ3e1a4o-o.md",
+   "artigos": [
+    "fotos-de-quarto",
+    "gerenciar-quartos-e-suites"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 15,
+   "id_planilha": 14,
+   "topico": "Guia Comercial > Gerenciar Categorias e Subcategorias",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "09n3Eiwn418",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261019",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/09n3Eiwn418.md",
+   "artigos": [
+    "editar-categoria-do-guia",
+    "gerenciar-categorias-do-guia"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 16,
+   "id_planilha": 15,
+   "topico": "Cupons de Desconto",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "pBHdF3bd1QI",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261016",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/pBHdF3bd1QI.md",
+   "artigos": [
+    "editar-cupom-do-portal",
+    "gerenciar-cupons-do-portal",
+    "remover-cupom-do-portal"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 17,
+   "id_planilha": 16,
+   "topico": "Vagas de Emprego > Geral",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "ufB3QTKfPsM",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261014",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/ufB3QTKfPsM.md",
+   "artigos": [
+    "cadastrar-areas-de-vagas",
+    "cadastrar-contratante-de-vagas",
+    "cadastrar-vagas-areas-e-contratantes",
+    "excluir-vaga",
+    "gerenciar-vagas-e-classificados"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 18,
+   "id_planilha": 17,
+   "topico": "Classificados > Geral",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "Ps1cgdLQ1FI",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/Ps1cgdLQ1FI.md",
+   "artigos": [
+    "excluir-classificado",
+    "gerenciar-classificados"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 19,
+   "id_planilha": 18,
+   "topico": "Guia Turístico > Pontos Turísticos - Geral",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "QrkL_nJEa-c",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261014",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/QrkL_nJEa-c.md",
+   "artigos": [
+    "editorial-turismo-pontos",
+    "turismo-pontos-trocar-fotos"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 20,
+   "id_planilha": 19,
+   "topico": "Guia Turístico > Roteiros",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "CMEOWthwqtI",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/CMEOWthwqtI.md",
+   "artigos": [
+    "editorial-turismo-roteiros",
+    "turismo-roteiros-editar"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 21,
+   "id_planilha": 20,
+   "topico": "Eventos",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "Hyh3UxHW_jU",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261016",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/Hyh3UxHW_jU.md",
+   "artigos": [
+    "editorial-eventos",
+    "eventos-editar",
+    "eventos-situacao"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 22,
+   "id_planilha": 21,
+   "topico": "Artigos > Geral",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "CRiUbh7wHdc",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/CRiUbh7wHdc.md",
+   "artigos": [
+    "artigos-editar",
+    "editorial-artigos"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 23,
+   "id_planilha": 22,
+   "topico": "Orçamentos Online > Todas as Solicitações [refazendo]",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "Ru3949-VUX4",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/Ru3949-VUX4.md",
+   "artigos": [
+    "moderar-orcamentos-em-lote",
+    "moderar-solicitacoes-de-orcamento"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 24,
+   "id_planilha": 23,
+   "topico": "A Voz do Povo > Geral",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "1a0wZmdXDLk",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/1a0wZmdXDLk.md",
+   "artigos": [
+    "voz-do-povo",
+    "voz-do-povo-ler-relato"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 25,
+   "id_planilha": 24,
+   "topico": "Parceiros",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "8gIDPdapN0E",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261016",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/8gIDPdapN0E.md",
+   "artigos": [
+    "comissao-de-parceiro-pelo-asaas",
+    "gerenciar-parceiros",
+    "grupo-whatsapp-parceiros",
+    "pagar-comissao-de-parceiro-por-fora"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 26,
+   "id_planilha": 25,
+   "topico": "Configurações > Configurações Gerais",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "8M4kdEfP7Eg",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261016",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/8M4kdEfP7Eg.md",
+   "artigos": [
+    "configurar-fale-conosco-do-portal",
+    "configurar-identidade-do-portal",
+    "configurar-redes-sociais-do-portal"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 27,
+   "id_planilha": 26,
+   "topico": "Configurações > Layout > Geral",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "XekThBh1ygU",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/XekThBh1ygU.md",
+   "artigos": [
+    "admin-configurar-cores-do-portal",
+    "admin-configurar-rodape-do-portal",
+    "configurar-fale-conosco-do-portal",
+    "configurar-identidade-do-portal",
+    "configurar-layout-do-portal",
+    "configurar-redes-sociais-do-portal"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 28,
+   "id_planilha": 27,
+   "topico": "Configurações > Layout > Topo",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "He7XF-kolwk",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/He7XF-kolwk.md",
+   "artigos": [
+    "configurar-fale-conosco-do-portal",
+    "configurar-identidade-do-portal",
+    "configurar-layout-do-portal",
+    "configurar-redes-sociais-do-portal"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 29,
+   "id_planilha": 28,
+   "topico": "Configurações > Layout > Tela Inicio",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "_YSN9di_ZOU",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/_YSN9di_ZOU.md",
+   "artigos": [
+    "configurar-fale-conosco-do-portal",
+    "configurar-identidade-do-portal",
+    "configurar-layout-do-portal",
+    "configurar-redes-sociais-do-portal"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 30,
+   "id_planilha": 29,
+   "topico": "Configurações > Layout > Rodape",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "vPnHq9kRWW8",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/vPnHq9kRWW8.md",
+   "artigos": [
+    "admin-configurar-rodape-do-portal",
+    "configurar-fale-conosco-do-portal",
+    "configurar-identidade-do-portal",
+    "configurar-layout-do-portal",
+    "configurar-redes-sociais-do-portal"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 31,
+   "id_planilha": 30,
+   "topico": "Configurações > Layout > Cores",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "lrTaEV5JnVM",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/lrTaEV5JnVM.md",
+   "artigos": [
+    "admin-configurar-cores-do-portal",
+    "configurar-fale-conosco-do-portal",
+    "configurar-identidade-do-portal",
+    "configurar-layout-do-portal",
+    "configurar-redes-sociais-do-portal"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 32,
+   "id_planilha": 31,
+   "topico": "Configurações > Cobrança",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "lwaG-T87hJI",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/lwaG-T87hJI.md",
+   "artigos": [
+    "conectar-asaas-e-entender-cobranca",
+    "receber-por-pix-na-sua-chave",
+    "testar-conexao-asaas",
+    "whatsapp-de-comprovantes-pix"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 33,
+   "id_planilha": 32,
+   "topico": "Notificações Push",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "-ZLL7Cqwcok",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/-ZLL7Cqwcok.md",
+   "artigos": [
+    "agendar-notificacao-push",
+    "cancelar-notificacao-push-agendada",
+    "convite-notificacoes-push",
+    "enviar-notificacoes-push",
+    "ver-historico-notificacoes-push"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 34,
+   "id_planilha": 33,
+   "topico": "Assistente de IA do Portal",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "0nkWIgiQfwM",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261016",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/0nkWIgiQfwM.md",
+   "artigos": [
+    "assistente-de-ia-do-portal"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 35,
+   "id_planilha": 34,
+   "topico": "Banners Publicitários",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "BqIfSq7bVXM",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261016",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/BqIfSq7bVXM.md",
+   "artigos": [
+    "ativar-desativar-banner",
+    "editar-banner",
+    "excluir-banner",
+    "gerenciar-banners-publicitarios"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 36,
+   "id_planilha": 35,
+   "topico": "Meus Clientes",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "-FASO6flcCw",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/-FASO6flcCw.md",
+   "artigos": [
+    "bloquear-cliente",
+    "editar-dados-de-cliente",
+    "encontrar-cliente-e-ver-faturas",
+    "excluir-cliente",
+    "exportar-clientes",
+    "gerenciar-meus-clientes",
+    "resetar-senha-de-cliente"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 37,
+   "id_planilha": 36,
+   "topico": "Financeiro",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "1RHf0fcXgyE",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/1RHf0fcXgyE.md",
+   "artigos": [
+    "acompanhar-faturas-e-pagamentos",
+    "cobrar-fatura-pelo-whatsapp",
+    "copiar-link-de-pagamento",
+    "enviar-cobranca-agora",
+    "marcar-fatura-como-recebida"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 38,
+   "id_planilha": 37,
+   "topico": "Planos >  Todos",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "31ftVMQ_yr4",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261016",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/31ftVMQ_yr4.md",
+   "artigos": [
+    "configurar-planos-comerciais"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 39,
+   "id_planilha": 38,
+   "topico": "Planos > Publicidade/Banners",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "MbMNv59z7Bg",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261016",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/MbMNv59z7Bg.md",
+   "artigos": [
+    "configurar-planos-comerciais"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 40,
+   "id_planilha": 39,
+   "topico": "Vídeo Externo LP>  Vagas",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "D21vBBhzlhg",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261008",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/D21vBBhzlhg.md",
+   "artigos": [
+    "cliente-criar-vaga-nova"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 41,
+   "id_planilha": 40,
+   "topico": "Vídeo Externo LP>  Classificados",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "zHOxx6KFIrk",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261008",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/zHOxx6KFIrk.md",
+   "artigos": [
+    "cliente-publicar-anuncio-novo"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 42,
+   "id_planilha": 41,
+   "topico": "Vídeo Externo LP>  Orçamentos",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "VmEwdNZd7pw",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261009",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/VmEwdNZd7pw.md",
+   "artigos": [
+    "usuario-pedir-orcamento"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 43,
+   "id_planilha": 42,
+   "topico": "Vídeo Externo LP>  Guia",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "d2EweodukHg",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261008",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/d2EweodukHg.md",
+   "artigos": [
+    "acesso-criar-conta-empresa"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 44,
+   "id_planilha": 43,
+   "topico": "Vídeo Externo LP>  A Voz do Povo",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "G1B9mAWbCk4",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261009",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/G1B9mAWbCk4.md",
+   "artigos": [
+    "usuario-enviar-denuncia-voz-do-povo"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 45,
+   "id_planilha": 44,
+   "topico": "Vídeo Externo LP>  Eventos",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "TWKsO_iuxGE",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261008",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/TWKsO_iuxGE.md",
+   "artigos": [
+    "cliente-divulgar-evento"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 46,
+   "id_planilha": 45,
+   "topico": "Vídeo Externo LP>  Parceiro",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "DFVw9nSAZAQ",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261008",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/DFVw9nSAZAQ.md",
+   "artigos": [
+    "cliente-parceiro-virar-representante"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 47,
+   "id_planilha": 46,
+   "topico": "Vídeo Externo LP>  Noticias",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "-Islw_h8OhU",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261009",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/-Islw_h8OhU.md",
+   "artigos": [
+    "cliente-contratar-materia-patrocinada"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 48,
+   "id_planilha": 47,
+   "topico": "Vídeo Externo LP>  Artigos",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "NELLwm_ClmA",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261009",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/NELLwm_ClmA.md",
+   "artigos": [
+    "cliente-colunista-virar-colunista"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 49,
+   "id_planilha": 48,
+   "topico": "Vídeo Externo LP>  Banner Publicitarios",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "bDAKcYvx4wo",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261014",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/bDAKcYvx4wo.md",
+   "artigos": [
+    "cliente-contratar-banner-publicitario"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 50,
+   "id_planilha": 49,
+   "topico": "Vídeo Uso Cliente > Formas de Anunciar em nosso Portal",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "4pc8AwOX0hA",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261014",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/4pc8AwOX0hA.md",
+   "artigos": [
+    "cliente-formas-de-anunciar-no-portal",
+    "cliente-gerenciar-anuncios-proprios"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 51,
+   "id_planilha": 50,
+   "topico": "Sorteios > Configurações",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "uN4FHHHGgEs",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261019",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/uN4FHHHGgEs.md",
+   "artigos": [
+    "realizar-sorteio-ao-vivo",
+    "sorteios"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 52,
+   "id_planilha": 51,
+   "topico": "Radar de Preço > Configurações",
+   "status": {
+    "gravacao": "Pendente",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Pendente"
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": "sem link do YouTube.",
+   "artigos": []
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 53,
+   "id_planilha": 52,
+   "topico": "Melhor da Cidade > Configurações",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "ajzmuupRJMM",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/ajzmuupRJMM.md",
+   "artigos": [
+    "montar-e-acompanhar-votacao-melhores-da-cidade"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 54,
+   "id_planilha": 53,
+   "topico": "Projetos Sociais > Configurações",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "grm3bUrPBxM",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/grm3bUrPBxM.md",
+   "artigos": [
+    "cadastrar-instituicoes-e-causas-doacoes"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 55,
+   "id_planilha": 54,
+   "topico": "Sorteios [Animado Página Externa]",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "REgRSXekqpA",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261019",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/REgRSXekqpA.md",
+   "artigos": [
+    "realizar-sorteio-ao-vivo",
+    "sorteios",
+    "usuario-participar-de-sorteio"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 56,
+   "id_planilha": 55,
+   "topico": "Melhor da Cidade [Animado Página Externa]",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "Be_8j63JLwI",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/Be_8j63JLwI.md",
+   "artigos": [
+    "usuario-votar-melhores-da-cidade"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 57,
+   "id_planilha": 56,
+   "topico": "Radar de Preço > [Animado Página Externa]",
+   "status": {
+    "gravacao": "Pendente",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Pendente"
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": "sem link do YouTube.",
+   "artigos": []
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 58,
+   "id_planilha": 57,
+   "topico": "Projetos Sociais [Animado Página Externa]",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "8v1W-gtTRow",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/8v1W-gtTRow.md",
+   "artigos": [
+    "usuario-doacoes-instituicoes-de-caridade"
+   ]
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 2,
+   "id_planilha": 1,
+   "topico": "Vídeo p/ Area do Cliente [GERAL]",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "UwPhKSt-mvM",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/UwPhKSt-mvM.md",
+   "artigos": [
+    "cliente-geral-visao-geral-area-cliente"
+   ]
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 3,
+   "id_planilha": 2,
+   "topico": "Vídeo p/ Cupons",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "v7uO6kjwVOA",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/v7uO6kjwVOA.md",
+   "artigos": [
+    "cliente-gerenciar-cupons-empresa"
+   ]
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 4,
+   "id_planilha": 3,
+   "topico": "Vídeo p/ Agenda de Eventos",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "aNqs6gSprvs",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/aNqs6gSprvs.md",
+   "artigos": [
+    "cliente-divulgar-evento"
+   ]
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 5,
+   "id_planilha": 4,
+   "topico": "Vídeo p/ Vagas de Emprego",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "525qfVrQ4iY",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/525qfVrQ4iY.md",
+   "artigos": [
+    "cliente-criar-vaga-nova"
+   ]
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 6,
+   "id_planilha": 5,
+   "topico": "Vídeo p/ Banner Publicitário",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "Mu5xmUB7w9o",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/Mu5xmUB7w9o.md",
+   "artigos": [
+    "cliente-contratar-banner-publicitario"
+   ]
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 7,
+   "id_planilha": 6,
+   "topico": "Vídeo p/ Classificados",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "S-YcDWiimEo",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/S-YcDWiimEo.md",
+   "artigos": [
+    "cliente-gerenciar-anuncios-proprios",
+    "cliente-publicar-anuncio-novo"
+   ]
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 8,
+   "id_planilha": 7,
+   "topico": "Vídeo p/ Orçamentos [Pedidos Recebidos]",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "KiGU9vNKIwg",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/KiGU9vNKIwg.md",
+   "artigos": [
+    "cliente-responder-pedidos-orcamento"
+   ]
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 9,
+   "id_planilha": 8,
+   "topico": "Guia > Cadastrando sua Empresa no Guia",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "Uv6Zt7V9YN0",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/Uv6Zt7V9YN0.md",
+   "artigos": [
+    "acesso-criar-conta-empresa",
+    "cliente-guia-comercial-cadastrar-empresa"
+   ]
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 10,
+   "id_planilha": 9,
+   "topico": "Guia > Completando sua ficha",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "8EwkE_ascEw",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/8EwkE_ascEw.md",
+   "artigos": [
+    "cliente-guia-comercial-completar-ficha"
+   ]
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 11,
+   "id_planilha": 10,
+   "topico": "Guia > Minha empresa",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "OInXMQlSWqw",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/OInXMQlSWqw.md",
+   "artigos": [
+    "cliente-editar-perfil-publico-empresa",
+    "cliente-escrever-descricao-empresa",
+    "cliente-trocar-logo-empresa"
+   ]
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 12,
+   "id_planilha": 11,
+   "topico": "Guia > Página de Serviços",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "FwKU_0GF6iU",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/FwKU_0GF6iU.md",
+   "artigos": [
+    "gerenciar-servicos-da-empresa"
+   ]
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 13,
+   "id_planilha": 12,
+   "topico": "Guia > Página da Equipe",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "-cq2YnG0vis",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/-cq2YnG0vis.md",
+   "artigos": [
+    "gerenciar-equipe-da-empresa"
+   ]
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 14,
+   "id_planilha": 13,
+   "topico": "Guia > Catálogo de produtos",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "X2BpMhoYKiA",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/X2BpMhoYKiA.md",
+   "artigos": [
+    "gerenciar-catalogo-de-produtos"
+   ]
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 15,
+   "id_planilha": 14,
+   "topico": "Guia > Cardápio",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "gmYWNfgX8LM",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/gmYWNfgX8LM.md",
+   "artigos": [
+    "gerenciar-cardapio-digital"
+   ]
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 16,
+   "id_planilha": 15,
+   "topico": "Guia > Delivery: configuração e cardápio",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "viWXA8_mZf4",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": "título no YouTube é \"Tutorial Guia Empresa 09 Delivery Recebendo Pedidos\": não bate com o tópico da planilha (configuração e cardápio). vinculado pelo título do YouTube.",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/viWXA8_mZf4.md",
+   "artigos": [
+    "cliente-cancelar-pedido-delivery",
+    "cliente-consultar-pedidos-delivery"
+   ]
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 17,
+   "id_planilha": 16,
+   "topico": "Guia > Delivery: recebendo pedidos",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "2BkFlsGlbUQ",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": "link quebrado: o YouTube responde Not Found (privado ou removido). fora dos videos.json.",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": null,
+   "legenda_fonte": null,
+   "conteudo": null,
+   "artigos": []
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 18,
+   "id_planilha": 17,
+   "topico": "Guia > Quartos e suítes",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "aSRf0hwUrrc",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/aSRf0hwUrrc.md",
+   "artigos": [
+    "gerenciar-quartos-e-suites"
+   ]
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 19,
+   "id_planilha": 18,
+   "topico": "Vídeo Area Jornalista - Publicar Noticia",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "by3tA7GUa88",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/by3tA7GUa88.md",
+   "artigos": [
+    "cliente-jornalista-publicar-noticia"
+   ]
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 20,
+   "id_planilha": 19,
+   "topico": "Vídeo Area Especialista - Publicar Artigo",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "8VRaUwhuhO0",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/8VRaUwhuhO0.md",
+   "artigos": [
+    "cliente-colunista-publicar-artigo"
+   ]
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 21,
+   "id_planilha": 20,
+   "topico": "Vídeo p/ Planos e Assinaturas",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "yuJhd0nadEE",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/yuJhd0nadEE.md",
+   "artigos": [
+    "cliente-contratar-plano",
+    "cliente-ver-planos-e-assinaturas"
+   ]
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 22,
+   "id_planilha": 21,
+   "topico": "[Parceiro] - Visão Geral Home",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "-Krm1tXfeig",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/-Krm1tXfeig.md",
+   "artigos": [
+    "cliente-parceiro-virar-representante",
+    "cliente-parceiro-visao-geral-painel"
+   ]
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 23,
+   "id_planilha": 22,
+   "topico": "[Parceiro] - Cadastrar Chave Asaas",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "J7njZgIoVes",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/J7njZgIoVes.md",
+   "artigos": [
+    "cliente-parceiro-carteira-asaas"
+   ]
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 24,
+   "id_planilha": 23,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 25,
+   "id_planilha": 24,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 26,
+   "id_planilha": 25,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "area-empresa-parceiro-portal",
+   "gid": 1923457458,
+   "linha": 27,
+   "id_planilha": 26,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "sistema-dados-pj",
+   "gid": 935621533,
+   "linha": 2,
+   "id_planilha": 1,
+   "topico": "Vídeo Home Dados PJ - Regras de Uso da Plataforma",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": "Editado",
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "JXWDV_IiAWQ",
+   "link_drive_ou_pagina": null,
+   "produto": "dados-pj",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261003",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/JXWDV_IiAWQ.md",
+   "artigos": [
+    "ac-ferramentas-dadospj",
+    "pj-baixar-arquivo-e-validade",
+    "pj-creditos-semanais",
+    "pj-dashboard",
+    "pj-entrar-pela-area-do-cliente",
+    "pj-filtros-de-local",
+    "pj-o-que-e",
+    "pj-perguntas-frequentes"
+   ]
+  },
+  {
+   "aba": "sistema-dados-pj",
+   "gid": 935621533,
+   "linha": 3,
+   "id_planilha": 2,
+   "topico": "Como fazer uma Extração - Dados PJ",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": "Editado",
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "IKdKLgi-e94",
+   "link_drive_ou_pagina": null,
+   "produto": "dados-pj",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261003",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/IKdKLgi-e94.md",
+   "artigos": [
+    "ac-ferramentas-dadospj",
+    "pj-baixar-arquivo-e-validade",
+    "pj-colunas-do-arquivo",
+    "pj-creditos-semanais",
+    "pj-dashboard",
+    "pj-filtros-da-empresa",
+    "pj-filtros-de-local",
+    "pj-filtros-termo-e-cnae",
+    "pj-gerar-lista-passo-a-passo",
+    "pj-o-que-e",
+    "pj-perguntas-frequentes"
+   ]
+  },
+  {
+   "aba": "sistema-dados-pj",
+   "gid": 935621533,
+   "linha": 4,
+   "id_planilha": null,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "dados-pj",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "sistema-dados-pj",
+   "gid": 935621533,
+   "linha": 5,
+   "id_planilha": null,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "dados-pj",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "sistema-dados-pj",
+   "gid": 935621533,
+   "linha": 6,
+   "id_planilha": null,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "dados-pj",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "extrator-google-maps",
+   "gid": 1086361894,
+   "linha": 2,
+   "id_planilha": 1,
+   "topico": "Visão Geral - Como Funciona o Extrator GMaps",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": "Editado",
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "F136_v1JyRY",
+   "link_drive_ou_pagina": null,
+   "produto": "extrator-maps",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261005",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/F136_v1JyRY.md",
+   "artigos": [
+    "ac-ferramentas-extrator-maps",
+    "ext-acompanhar-extracao",
+    "ext-baixar-arquivos",
+    "ext-colunas-da-planilha",
+    "ext-comprar-creditos",
+    "ext-creditos-como-funcionam",
+    "ext-dashboard",
+    "ext-entrar-pela-area-do-cliente",
+    "ext-extrato-de-creditos",
+    "ext-historico",
+    "ext-importar-no-guia-do-portal",
+    "ext-limites-da-extracao",
+    "ext-nova-extracao-passo-a-passo",
+    "ext-o-que-e",
+    "ext-perguntas-frequentes",
+    "ext-prospeccao-ou-base-para-portal",
+    "ext-quantidade-e-custo-maximo",
+    "importar-empresas-no-guia"
+   ]
+  },
+  {
+   "aba": "extrator-google-maps",
+   "gid": 1086361894,
+   "linha": 3,
+   "id_planilha": 2,
+   "topico": "Como realizar extração Maps - Direto ao ponto",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": "Editado",
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "R9FCgunNxFE",
+   "link_drive_ou_pagina": null,
+   "produto": "extrator-maps",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261005",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/R9FCgunNxFE.md",
+   "artigos": [
+    "ac-ferramentas-extrator-maps",
+    "ext-acompanhar-extracao",
+    "ext-baixar-arquivos",
+    "ext-colunas-da-planilha",
+    "ext-creditos-como-funcionam",
+    "ext-dashboard",
+    "ext-erros-ao-iniciar-extracao",
+    "ext-escolher-o-nicho",
+    "ext-historico",
+    "ext-limites-da-extracao",
+    "ext-nova-extracao-passo-a-passo",
+    "ext-o-que-e",
+    "ext-perguntas-frequentes",
+    "ext-prospeccao-ou-base-para-portal",
+    "ext-quantidade-e-custo-maximo",
+    "importar-empresas-no-guia"
+   ]
+  },
+  {
+   "aba": "extrator-google-maps",
+   "gid": 1086361894,
+   "linha": 4,
+   "id_planilha": 3,
+   "topico": "Como extrair lista Maps e Importar no Portal",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": "Editado",
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "jl7GHmHVJcM",
+   "link_drive_ou_pagina": null,
+   "produto": "extrator-maps",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261005",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/jl7GHmHVJcM.md",
+   "artigos": [
+    "ext-escolher-o-nicho",
+    "ext-importar-no-guia-do-portal",
+    "ext-prospeccao-ou-base-para-portal",
+    "importar-empresas-no-guia"
+   ]
+  },
+  {
+   "aba": "extrator-google-maps",
+   "gid": 1086361894,
+   "linha": 5,
+   "id_planilha": 4,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "extrator-maps",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "extrator-google-maps",
+   "gid": 1086361894,
+   "linha": 6,
+   "id_planilha": 5,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "extrator-maps",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "extrator-google-maps",
+   "gid": 1086361894,
+   "linha": 7,
+   "id_planilha": 6,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "extrator-maps",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "claude-videos-basicos-area-do-cliente",
+   "gid": 615353814,
+   "linha": 2,
+   "id_planilha": 1,
+   "topico": "Vídeo de ONBOARDING",
+   "status": {
+    "gravacao": "Pendente",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Pendente"
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "area-do-cliente",
+   "observacao": "sem link: pendente na Área do Cliente.",
+   "artigos": []
+  },
+  {
+   "aba": "claude-videos-basicos-area-do-cliente",
+   "gid": 615353814,
+   "linha": 3,
+   "id_planilha": 2,
+   "topico": "Processo de Compra e Pós Pagamento",
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "area-do-cliente",
+   "observacao": "sem link do YouTube.",
+   "artigos": []
+  },
+  {
+   "aba": "claude-videos-basicos-area-do-cliente",
+   "gid": 615353814,
+   "linha": 4,
+   "id_planilha": 3,
+   "topico": "[Página Inicio] - Visão Geral dos Menus",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "dbFUi5ENvOg",
+   "link_drive_ou_pagina": "https://areacliente.newcortex.site/inicio",
+   "produto": "area-do-cliente",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/dbFUi5ENvOg.md",
+   "artigos": [
+    "ac-inicio-o-que-aparece"
+   ]
+  },
+  {
+   "aba": "claude-videos-basicos-area-do-cliente",
+   "gid": 615353814,
+   "linha": 5,
+   "id_planilha": 4,
+   "topico": "Página - Meus Negócios",
+   "status": {
+    "gravacao": "Em gravação",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": "https://areacliente.newcortex.site/negocios",
+   "produto": "area-do-cliente",
+   "observacao": "sem link do YouTube.",
+   "artigos": []
+  },
+  {
+   "aba": "claude-videos-basicos-area-do-cliente",
+   "gid": 615353814,
+   "linha": 6,
+   "id_planilha": 5,
+   "topico": "Página - Visão Geral",
+   "status": {
+    "gravacao": "Em gravação",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": "https://areacliente.newcortex.site/negocios/11507a1c-7e97-437f-b6ca-4c0b096082bd",
+   "produto": "area-do-cliente",
+   "observacao": "sem link do YouTube.",
+   "artigos": []
+  },
+  {
+   "aba": "claude-videos-basicos-area-do-cliente",
+   "gid": 615353814,
+   "linha": 7,
+   "id_planilha": 6,
+   "topico": "Minha Plataforma - Processo de Instalação - Etapa 2 - Como Registrar um Dominio",
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": "https://areacliente.newcortex.site/negocios/11507a1c-7e97-437f-b6ca-4c0b096082bd/plataforma",
+   "produto": "area-do-cliente",
+   "observacao": "sem link do YouTube.",
+   "artigos": []
+  },
+  {
+   "aba": "claude-videos-basicos-area-do-cliente",
+   "gid": 615353814,
+   "linha": 8,
+   "id_planilha": 7,
+   "topico": "Minha Plataforma -  Processo de Instalação - Etapa 2 - Apontando DNS",
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "area-do-cliente",
+   "observacao": "sem link do YouTube.",
+   "artigos": []
+  },
+  {
+   "aba": "claude-videos-basicos-area-do-cliente",
+   "gid": 615353814,
+   "linha": 9,
+   "id_planilha": 8,
+   "topico": "Minha Plataforma -  Processo de Instalação - Etapa 3 - Portal no Ar",
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "area-do-cliente",
+   "observacao": "sem link do YouTube.",
+   "artigos": []
+  },
+  {
+   "aba": "claude-videos-basicos-area-do-cliente",
+   "gid": 615353814,
+   "linha": 10,
+   "id_planilha": 9,
+   "topico": "Minha Plataforma - Plataforma já Instalada",
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "area-do-cliente",
+   "observacao": "sem link do YouTube.",
+   "artigos": []
+  },
+  {
+   "aba": "claude-videos-basicos-area-do-cliente",
+   "gid": 615353814,
+   "linha": 11,
+   "id_planilha": 10,
+   "topico": "Treinamentos  - Navegando rapidamente pelas opcoes",
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": "https://areacliente.newcortex.site/negocios/11507a1c-7e97-437f-b6ca-4c0b096082bd/treinamento",
+   "produto": "area-do-cliente",
+   "observacao": "sem link do YouTube.",
+   "artigos": []
+  },
+  {
+   "aba": "claude-videos-basicos-area-do-cliente",
+   "gid": 615353814,
+   "linha": 12,
+   "id_planilha": 11,
+   "topico": "Ferramentas",
+   "status": {
+    "gravacao": "Em gravação",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "area-do-cliente",
+   "observacao": "sem link do YouTube.",
+   "artigos": []
+  },
+  {
+   "aba": "claude-videos-basicos-area-do-cliente",
+   "gid": 615353814,
+   "linha": 13,
+   "id_planilha": 12,
+   "topico": "Lives",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "3i_JcDTTKtA",
+   "link_drive_ou_pagina": null,
+   "produto": "area-do-cliente",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/3i_JcDTTKtA.md",
+   "artigos": [
+    "ac-lives-ver-agenda"
+   ]
+  },
+  {
+   "aba": "claude-videos-basicos-area-do-cliente",
+   "gid": 615353814,
+   "linha": 14,
+   "id_planilha": 13,
+   "topico": "Suporte",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "oZf-HGbQC9c",
+   "link_drive_ou_pagina": null,
+   "produto": "area-do-cliente",
+   "observacao": "publicado, sem artigo vinculado.",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": null,
+   "legenda_fonte": null,
+   "conteudo": null,
+   "artigos": []
+  },
+  {
+   "aba": "claude-videos-basicos-area-do-cliente",
+   "gid": 615353814,
+   "linha": 15,
+   "id_planilha": 14,
+   "topico": "Pagamentos",
+   "status": {
+    "gravacao": "Em gravação",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "area-do-cliente",
+   "observacao": "sem link do YouTube.",
+   "artigos": []
+  },
+  {
+   "aba": "claude-videos-basicos-area-do-cliente",
+   "gid": 615353814,
+   "linha": 16,
+   "id_planilha": 15,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "area-do-cliente",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "claude-videos-basicos-area-do-cliente",
+   "gid": 615353814,
+   "linha": 17,
+   "id_planilha": 16,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "area-do-cliente",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "conteudos-treinamento-do-franqueado",
+   "gid": 1344777380,
+   "linha": 2,
+   "id_planilha": 1,
+   "topico": "Vídeo de ONBOARDING",
+   "status": {
+    "gravacao": "Pendente",
+    "edicao": "Pendente",
+    "thumbnail": "Pendente",
+    "publicacao": "Pendente"
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "treinamento-do-franqueado",
+   "observacao": "sem link do YouTube.",
+   "artigos": []
+  },
+  {
+   "aba": "conteudos-treinamento-do-franqueado",
+   "gid": 1344777380,
+   "linha": 3,
+   "id_planilha": 2,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "treinamento-do-franqueado",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "conteudos-treinamento-do-franqueado",
+   "gid": 1344777380,
+   "linha": 4,
+   "id_planilha": 3,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "treinamento-do-franqueado",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "conteudos-treinamento-do-franqueado",
+   "gid": 1344777380,
+   "linha": 5,
+   "id_planilha": 4,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "treinamento-do-franqueado",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "conteudos-treinamento-do-franqueado",
+   "gid": 1344777380,
+   "linha": 6,
+   "id_planilha": 5,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "treinamento-do-franqueado",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "conteudos-treinamento-do-franqueado",
+   "gid": 1344777380,
+   "linha": 7,
+   "id_planilha": 6,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "treinamento-do-franqueado",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "conteudos-treinamento-do-franqueado",
+   "gid": 1344777380,
+   "linha": 8,
+   "id_planilha": 7,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "treinamento-do-franqueado",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "conteudos-treinamento-do-franqueado",
+   "gid": 1344777380,
+   "linha": 9,
+   "id_planilha": 8,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "treinamento-do-franqueado",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "conteudos-treinamento-do-franqueado",
+   "gid": 1344777380,
+   "linha": 10,
+   "id_planilha": 9,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "treinamento-do-franqueado",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "conteudos-treinamento-do-franqueado",
+   "gid": 1344777380,
+   "linha": 11,
+   "id_planilha": 10,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "treinamento-do-franqueado",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "conteudos-treinamento-do-franqueado",
+   "gid": 1344777380,
+   "linha": 12,
+   "id_planilha": 11,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "treinamento-do-franqueado",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "conteudos-treinamento-do-franqueado",
+   "gid": 1344777380,
+   "linha": 13,
+   "id_planilha": 12,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "treinamento-do-franqueado",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "conteudos-treinamento-do-franqueado",
+   "gid": 1344777380,
+   "linha": 14,
+   "id_planilha": 13,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "treinamento-do-franqueado",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "conteudos-treinamento-do-franqueado",
+   "gid": 1344777380,
+   "linha": 15,
+   "id_planilha": 14,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "treinamento-do-franqueado",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "conteudos-treinamento-do-franqueado",
+   "gid": 1344777380,
+   "linha": 16,
+   "id_planilha": 15,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "treinamento-do-franqueado",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "conteudos-treinamento-do-franqueado",
+   "gid": 1344777380,
+   "linha": 17,
+   "id_planilha": 16,
+   "topico": null,
+   "status": {
+    "gravacao": null,
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "treinamento-do-franqueado",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "paginas-de-vendas",
+   "gid": 646835390,
+   "linha": 2,
+   "id_planilha": 1,
+   "topico": null,
+   "status": {
+    "gravacao": "Pendente",
+    "edicao": "Pendente",
+    "thumbnail": "Pendente",
+    "publicacao": "Pendente"
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "vendas",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "paginas-de-vendas",
+   "gid": 646835390,
+   "linha": 3,
+   "id_planilha": 2,
+   "topico": null,
+   "status": {
+    "gravacao": "Pendente",
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "vendas",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "paginas-de-vendas",
+   "gid": 646835390,
+   "linha": 4,
+   "id_planilha": 3,
+   "topico": null,
+   "status": {
+    "gravacao": "Pendente",
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "vendas",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "paginas-de-vendas",
+   "gid": 646835390,
+   "linha": 5,
+   "id_planilha": 4,
+   "topico": null,
+   "status": {
+    "gravacao": "Pendente",
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "vendas",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "paginas-de-vendas",
+   "gid": 646835390,
+   "linha": 6,
+   "id_planilha": 5,
+   "topico": null,
+   "status": {
+    "gravacao": "Pendente",
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "vendas",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "paginas-de-vendas",
+   "gid": 646835390,
+   "linha": 7,
+   "id_planilha": 6,
+   "topico": null,
+   "status": {
+    "gravacao": "Pendente",
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "vendas",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "paginas-de-vendas",
+   "gid": 646835390,
+   "linha": 8,
+   "id_planilha": 7,
+   "topico": null,
+   "status": {
+    "gravacao": "Pendente",
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "vendas",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "paginas-de-vendas",
+   "gid": 646835390,
+   "linha": 9,
+   "id_planilha": 8,
+   "topico": null,
+   "status": {
+    "gravacao": "Pendente",
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "vendas",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "paginas-de-vendas",
+   "gid": 646835390,
+   "linha": 10,
+   "id_planilha": 9,
+   "topico": null,
+   "status": {
+    "gravacao": "Pendente",
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "vendas",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "paginas-de-vendas",
+   "gid": 646835390,
+   "linha": 11,
+   "id_planilha": 10,
+   "topico": null,
+   "status": {
+    "gravacao": "Pendente",
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "vendas",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "paginas-de-vendas",
+   "gid": 646835390,
+   "linha": 12,
+   "id_planilha": null,
+   "topico": null,
+   "status": {
+    "gravacao": "Pendente",
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "vendas",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "paginas-de-vendas",
+   "gid": 646835390,
+   "linha": 13,
+   "id_planilha": null,
+   "topico": null,
+   "status": {
+    "gravacao": "Pendente",
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "vendas",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "paginas-de-vendas",
+   "gid": 646835390,
+   "linha": 14,
+   "id_planilha": null,
+   "topico": null,
+   "status": {
+    "gravacao": "Pendente",
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "vendas",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "paginas-de-vendas",
+   "gid": 646835390,
+   "linha": 15,
+   "id_planilha": null,
+   "topico": null,
+   "status": {
+    "gravacao": "Pendente",
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "vendas",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "paginas-de-vendas",
+   "gid": 646835390,
+   "linha": 16,
+   "id_planilha": null,
+   "topico": null,
+   "status": {
+    "gravacao": "Pendente",
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "vendas",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  },
+  {
+   "aba": "paginas-de-vendas",
+   "gid": 646835390,
+   "linha": 17,
+   "id_planilha": null,
+   "topico": null,
+   "status": {
+    "gravacao": "Pendente",
+    "edicao": null,
+    "thumbnail": null,
+    "publicacao": null
+   },
+   "youtube_id": null,
+   "link_drive_ou_pagina": null,
+   "produto": "vendas",
+   "observacao": "linha sem tópico na planilha (reservada).",
+   "artigos": []
+  }
+ ],
+ "por_video": [
+  {
+   "youtube_id": "JYDoZB_vyX8",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261014",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/JYDoZB_vyX8.md",
+   "artigos": [
+    "aprovacoes-e-denuncias",
+    "bloquear-conta-denunciada",
+    "excluir-item-denunciado",
+    "ignorar-denuncia",
+    "recusar-envio-para-aprovacao",
+    "regras-de-aprovacao-e-denuncias",
+    "ver-denuncias"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 3,
+     "id_planilha": 2,
+     "topico": "Aprovações / Denuncias",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "gAa2NdnitZU",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/gAa2NdnitZU.md",
+   "artigos": [
+    "bloquear-jornalista",
+    "editar-jornalista",
+    "editorial-noticias",
+    "editorial-noticias-editar",
+    "editorial-noticias-encontrar-e-filtrar",
+    "jornalistas",
+    "resetar-senha-de-jornalista"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 4,
+     "id_planilha": 3,
+     "topico": "Notícias > Geral",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "r5rFCgAV0mg",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261016",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/r5rFCgAV0mg.md",
+   "artigos": [
+    "noticias-automaticas-fontes-rss",
+    "rss-colar-endereco",
+    "rss-excluir",
+    "rss-ligar-desligar",
+    "rss-publicar-direto",
+    "rss-ver-atualizacao"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 5,
+     "id_planilha": 4,
+     "topico": "Notícias Automáticas > Fontes de RSS",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "wukhVMFEHWg",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/wukhVMFEHWg.md",
+   "artigos": [
+    "cadastrar-empresa-no-guia",
+    "gerenciar-empresas-do-guia",
+    "mudar-situacao-de-empresa-do-guia"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 6,
+     "id_planilha": 5,
+     "topico": "Guia Comercial > Listar Empresas",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "jl7GHmHVJcM",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261005",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/jl7GHmHVJcM.md",
+   "artigos": [
+    "ext-escolher-o-nicho",
+    "ext-importar-no-guia-do-portal",
+    "ext-prospeccao-ou-base-para-portal",
+    "importar-empresas-no-guia"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 7,
+     "id_planilha": 6,
+     "topico": "Guia Comercial > Como Importar Empresas do Maps",
+     "produto": "portal-da-cidade"
+    },
+    {
+     "aba": "extrator-google-maps",
+     "linha": 4,
+     "id_planilha": 3,
+     "topico": "Como extrair lista Maps e Importar no Portal",
+     "produto": "extrator-maps"
+    }
+   ]
+  },
+  {
+   "youtube_id": "VV8BxCbIfz4",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261019",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/VV8BxCbIfz4.md",
+   "artigos": [
+    "configurar-cardapio-digital-botoes-tema-qrcode",
+    "gerenciar-cardapio-digital"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 8,
+     "id_planilha": 7,
+     "topico": "Guia Comercial > Gerenciar Cardápio",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "2ShbACG2mHE",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261019",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/2ShbACG2mHE.md",
+   "artigos": [
+    "acompanhar-fila-de-pedidos-do-delivery",
+    "gerenciar-cardapio-do-delivery",
+    "opcoes-de-produto-do-delivery",
+    "operar-delivery-pedidos-e-configuracoes"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 9,
+     "id_planilha": 8,
+     "topico": "Guia Comercial >  Gerenciar Cardapio do Delivery",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "TgIUmqrRuBY",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261019",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/TgIUmqrRuBY.md",
+   "artigos": [
+    "acompanhar-fila-de-pedidos-do-delivery",
+    "gerenciar-cardapio-do-delivery",
+    "opcoes-de-produto-do-delivery",
+    "operar-delivery-pedidos-e-configuracoes"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 10,
+     "id_planilha": 9,
+     "topico": "Guia Comercial > Gerenciar Filas de Pedidos e Configurações do Delivery",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "aE3QL3ErK0k",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261019",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/aE3QL3ErK0k.md",
+   "artigos": [
+    "gerenciar-servicos-da-empresa"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 11,
+     "id_planilha": 10,
+     "topico": "Guia Comercial > Gerenciar Serviços",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "okWcwnwq5Bk",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261019",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/okWcwnwq5Bk.md",
+   "artigos": [
+    "gerenciar-equipe-da-empresa"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 12,
+     "id_planilha": 11,
+     "topico": "Guia Comercial > Gerenciar Equipes",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "Z45xwGT8U38",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261019",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/Z45xwGT8U38.md",
+   "artigos": [
+    "gerenciar-catalogo-de-produtos"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 13,
+     "id_planilha": 12,
+     "topico": "Guia Comercial > Gerenciar Catalogo de Produtos",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "reZ3e1a4o-o",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261019",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/reZ3e1a4o-o.md",
+   "artigos": [
+    "fotos-de-quarto",
+    "gerenciar-quartos-e-suites"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 14,
+     "id_planilha": 13,
+     "topico": "Guia Comercial > Acomodações / Quartos",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "09n3Eiwn418",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261019",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/09n3Eiwn418.md",
+   "artigos": [
+    "editar-categoria-do-guia",
+    "gerenciar-categorias-do-guia"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 15,
+     "id_planilha": 14,
+     "topico": "Guia Comercial > Gerenciar Categorias e Subcategorias",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "pBHdF3bd1QI",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261016",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/pBHdF3bd1QI.md",
+   "artigos": [
+    "editar-cupom-do-portal",
+    "gerenciar-cupons-do-portal",
+    "remover-cupom-do-portal"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 16,
+     "id_planilha": 15,
+     "topico": "Cupons de Desconto",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "ufB3QTKfPsM",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261014",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/ufB3QTKfPsM.md",
+   "artigos": [
+    "cadastrar-areas-de-vagas",
+    "cadastrar-contratante-de-vagas",
+    "cadastrar-vagas-areas-e-contratantes",
+    "excluir-vaga",
+    "gerenciar-vagas-e-classificados"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 17,
+     "id_planilha": 16,
+     "topico": "Vagas de Emprego > Geral",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "Ps1cgdLQ1FI",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/Ps1cgdLQ1FI.md",
+   "artigos": [
+    "excluir-classificado",
+    "gerenciar-classificados"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 18,
+     "id_planilha": 17,
+     "topico": "Classificados > Geral",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "QrkL_nJEa-c",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261014",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/QrkL_nJEa-c.md",
+   "artigos": [
+    "editorial-turismo-pontos",
+    "turismo-pontos-trocar-fotos"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 19,
+     "id_planilha": 18,
+     "topico": "Guia Turístico > Pontos Turísticos - Geral",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "CMEOWthwqtI",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/CMEOWthwqtI.md",
+   "artigos": [
+    "editorial-turismo-roteiros",
+    "turismo-roteiros-editar"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 20,
+     "id_planilha": 19,
+     "topico": "Guia Turístico > Roteiros",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "Hyh3UxHW_jU",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261016",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/Hyh3UxHW_jU.md",
+   "artigos": [
+    "editorial-eventos",
+    "eventos-editar",
+    "eventos-situacao"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 21,
+     "id_planilha": 20,
+     "topico": "Eventos",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "CRiUbh7wHdc",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/CRiUbh7wHdc.md",
+   "artigos": [
+    "artigos-editar",
+    "editorial-artigos"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 22,
+     "id_planilha": 21,
+     "topico": "Artigos > Geral",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "Ru3949-VUX4",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/Ru3949-VUX4.md",
+   "artigos": [
+    "moderar-orcamentos-em-lote",
+    "moderar-solicitacoes-de-orcamento"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 23,
+     "id_planilha": 22,
+     "topico": "Orçamentos Online > Todas as Solicitações [refazendo]",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "1a0wZmdXDLk",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/1a0wZmdXDLk.md",
+   "artigos": [
+    "voz-do-povo",
+    "voz-do-povo-ler-relato"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 24,
+     "id_planilha": 23,
+     "topico": "A Voz do Povo > Geral",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "8gIDPdapN0E",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261016",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/8gIDPdapN0E.md",
+   "artigos": [
+    "comissao-de-parceiro-pelo-asaas",
+    "gerenciar-parceiros",
+    "grupo-whatsapp-parceiros",
+    "pagar-comissao-de-parceiro-por-fora"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 25,
+     "id_planilha": 24,
+     "topico": "Parceiros",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "8M4kdEfP7Eg",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261016",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/8M4kdEfP7Eg.md",
+   "artigos": [
+    "configurar-fale-conosco-do-portal",
+    "configurar-identidade-do-portal",
+    "configurar-redes-sociais-do-portal"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 26,
+     "id_planilha": 25,
+     "topico": "Configurações > Configurações Gerais",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "XekThBh1ygU",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/XekThBh1ygU.md",
+   "artigos": [
+    "admin-configurar-cores-do-portal",
+    "admin-configurar-rodape-do-portal",
+    "configurar-fale-conosco-do-portal",
+    "configurar-identidade-do-portal",
+    "configurar-layout-do-portal",
+    "configurar-redes-sociais-do-portal"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 27,
+     "id_planilha": 26,
+     "topico": "Configurações > Layout > Geral",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "He7XF-kolwk",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/He7XF-kolwk.md",
+   "artigos": [
+    "configurar-fale-conosco-do-portal",
+    "configurar-identidade-do-portal",
+    "configurar-layout-do-portal",
+    "configurar-redes-sociais-do-portal"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 28,
+     "id_planilha": 27,
+     "topico": "Configurações > Layout > Topo",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "_YSN9di_ZOU",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/_YSN9di_ZOU.md",
+   "artigos": [
+    "configurar-fale-conosco-do-portal",
+    "configurar-identidade-do-portal",
+    "configurar-layout-do-portal",
+    "configurar-redes-sociais-do-portal"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 29,
+     "id_planilha": 28,
+     "topico": "Configurações > Layout > Tela Inicio",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "vPnHq9kRWW8",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/vPnHq9kRWW8.md",
+   "artigos": [
+    "admin-configurar-rodape-do-portal",
+    "configurar-fale-conosco-do-portal",
+    "configurar-identidade-do-portal",
+    "configurar-layout-do-portal",
+    "configurar-redes-sociais-do-portal"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 30,
+     "id_planilha": 29,
+     "topico": "Configurações > Layout > Rodape",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "lrTaEV5JnVM",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/lrTaEV5JnVM.md",
+   "artigos": [
+    "admin-configurar-cores-do-portal",
+    "configurar-fale-conosco-do-portal",
+    "configurar-identidade-do-portal",
+    "configurar-layout-do-portal",
+    "configurar-redes-sociais-do-portal"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 31,
+     "id_planilha": 30,
+     "topico": "Configurações > Layout > Cores",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "lwaG-T87hJI",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/lwaG-T87hJI.md",
+   "artigos": [
+    "conectar-asaas-e-entender-cobranca",
+    "receber-por-pix-na-sua-chave",
+    "testar-conexao-asaas",
+    "whatsapp-de-comprovantes-pix"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 32,
+     "id_planilha": 31,
+     "topico": "Configurações > Cobrança",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "-ZLL7Cqwcok",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/-ZLL7Cqwcok.md",
+   "artigos": [
+    "agendar-notificacao-push",
+    "cancelar-notificacao-push-agendada",
+    "convite-notificacoes-push",
+    "enviar-notificacoes-push",
+    "ver-historico-notificacoes-push"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 33,
+     "id_planilha": 32,
+     "topico": "Notificações Push",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "0nkWIgiQfwM",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261016",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/0nkWIgiQfwM.md",
+   "artigos": [
+    "assistente-de-ia-do-portal"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 34,
+     "id_planilha": 33,
+     "topico": "Assistente de IA do Portal",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "BqIfSq7bVXM",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261016",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/BqIfSq7bVXM.md",
+   "artigos": [
+    "ativar-desativar-banner",
+    "editar-banner",
+    "excluir-banner",
+    "gerenciar-banners-publicitarios"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 35,
+     "id_planilha": 34,
+     "topico": "Banners Publicitários",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "-FASO6flcCw",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/-FASO6flcCw.md",
+   "artigos": [
+    "bloquear-cliente",
+    "editar-dados-de-cliente",
+    "encontrar-cliente-e-ver-faturas",
+    "excluir-cliente",
+    "exportar-clientes",
+    "gerenciar-meus-clientes",
+    "resetar-senha-de-cliente"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 36,
+     "id_planilha": 35,
+     "topico": "Meus Clientes",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "1RHf0fcXgyE",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261015",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/1RHf0fcXgyE.md",
+   "artigos": [
+    "acompanhar-faturas-e-pagamentos",
+    "cobrar-fatura-pelo-whatsapp",
+    "copiar-link-de-pagamento",
+    "enviar-cobranca-agora",
+    "marcar-fatura-como-recebida"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 37,
+     "id_planilha": 36,
+     "topico": "Financeiro",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "31ftVMQ_yr4",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261016",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/31ftVMQ_yr4.md",
+   "artigos": [
+    "configurar-planos-comerciais"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 38,
+     "id_planilha": 37,
+     "topico": "Planos >  Todos",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "MbMNv59z7Bg",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261016",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/MbMNv59z7Bg.md",
+   "artigos": [
+    "configurar-planos-comerciais"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 39,
+     "id_planilha": 38,
+     "topico": "Planos > Publicidade/Banners",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "D21vBBhzlhg",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261008",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/D21vBBhzlhg.md",
+   "artigos": [
+    "cliente-criar-vaga-nova"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 40,
+     "id_planilha": 39,
+     "topico": "Vídeo Externo LP>  Vagas",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "zHOxx6KFIrk",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261008",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/zHOxx6KFIrk.md",
+   "artigos": [
+    "cliente-publicar-anuncio-novo"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 41,
+     "id_planilha": 40,
+     "topico": "Vídeo Externo LP>  Classificados",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "VmEwdNZd7pw",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261009",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/VmEwdNZd7pw.md",
+   "artigos": [
+    "usuario-pedir-orcamento"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 42,
+     "id_planilha": 41,
+     "topico": "Vídeo Externo LP>  Orçamentos",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "d2EweodukHg",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261008",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/d2EweodukHg.md",
+   "artigos": [
+    "acesso-criar-conta-empresa"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 43,
+     "id_planilha": 42,
+     "topico": "Vídeo Externo LP>  Guia",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "G1B9mAWbCk4",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261009",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/G1B9mAWbCk4.md",
+   "artigos": [
+    "usuario-enviar-denuncia-voz-do-povo"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 44,
+     "id_planilha": 43,
+     "topico": "Vídeo Externo LP>  A Voz do Povo",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "TWKsO_iuxGE",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261008",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/TWKsO_iuxGE.md",
+   "artigos": [
+    "cliente-divulgar-evento"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 45,
+     "id_planilha": 44,
+     "topico": "Vídeo Externo LP>  Eventos",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "DFVw9nSAZAQ",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261008",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/DFVw9nSAZAQ.md",
+   "artigos": [
+    "cliente-parceiro-virar-representante"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 46,
+     "id_planilha": 45,
+     "topico": "Vídeo Externo LP>  Parceiro",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "-Islw_h8OhU",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261009",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/-Islw_h8OhU.md",
+   "artigos": [
+    "cliente-contratar-materia-patrocinada"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 47,
+     "id_planilha": 46,
+     "topico": "Vídeo Externo LP>  Noticias",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "NELLwm_ClmA",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261009",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/NELLwm_ClmA.md",
+   "artigos": [
+    "cliente-colunista-virar-colunista"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 48,
+     "id_planilha": 47,
+     "topico": "Vídeo Externo LP>  Artigos",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "bDAKcYvx4wo",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261014",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/bDAKcYvx4wo.md",
+   "artigos": [
+    "cliente-contratar-banner-publicitario"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 49,
+     "id_planilha": 48,
+     "topico": "Vídeo Externo LP>  Banner Publicitarios",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "4pc8AwOX0hA",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261014",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/4pc8AwOX0hA.md",
+   "artigos": [
+    "cliente-formas-de-anunciar-no-portal",
+    "cliente-gerenciar-anuncios-proprios"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 50,
+     "id_planilha": 49,
+     "topico": "Vídeo Uso Cliente > Formas de Anunciar em nosso Portal",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "uN4FHHHGgEs",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261019",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/uN4FHHHGgEs.md",
+   "artigos": [
+    "realizar-sorteio-ao-vivo",
+    "sorteios"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 51,
+     "id_planilha": 50,
+     "topico": "Sorteios > Configurações",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "ajzmuupRJMM",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/ajzmuupRJMM.md",
+   "artigos": [
+    "montar-e-acompanhar-votacao-melhores-da-cidade"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 53,
+     "id_planilha": 52,
+     "topico": "Melhor da Cidade > Configurações",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "grm3bUrPBxM",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/grm3bUrPBxM.md",
+   "artigos": [
+    "cadastrar-instituicoes-e-causas-doacoes"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 54,
+     "id_planilha": 53,
+     "topico": "Projetos Sociais > Configurações",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "REgRSXekqpA",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261019",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/REgRSXekqpA.md",
+   "artigos": [
+    "realizar-sorteio-ao-vivo",
+    "sorteios",
+    "usuario-participar-de-sorteio"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 55,
+     "id_planilha": 54,
+     "topico": "Sorteios [Animado Página Externa]",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "Be_8j63JLwI",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/Be_8j63JLwI.md",
+   "artigos": [
+    "usuario-votar-melhores-da-cidade"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 56,
+     "id_planilha": 55,
+     "topico": "Melhor da Cidade [Animado Página Externa]",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "8v1W-gtTRow",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/8v1W-gtTRow.md",
+   "artigos": [
+    "usuario-doacoes-instituicoes-de-caridade"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 58,
+     "id_planilha": 57,
+     "topico": "Projetos Sociais [Animado Página Externa]",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "UwPhKSt-mvM",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/UwPhKSt-mvM.md",
+   "artigos": [
+    "cliente-geral-visao-geral-area-cliente"
+   ],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 2,
+     "id_planilha": 1,
+     "topico": "Vídeo p/ Area do Cliente [GERAL]",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "v7uO6kjwVOA",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/v7uO6kjwVOA.md",
+   "artigos": [
+    "cliente-gerenciar-cupons-empresa"
+   ],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 3,
+     "id_planilha": 2,
+     "topico": "Vídeo p/ Cupons",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "aNqs6gSprvs",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/aNqs6gSprvs.md",
+   "artigos": [
+    "cliente-divulgar-evento"
+   ],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 4,
+     "id_planilha": 3,
+     "topico": "Vídeo p/ Agenda de Eventos",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "525qfVrQ4iY",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/525qfVrQ4iY.md",
+   "artigos": [
+    "cliente-criar-vaga-nova"
+   ],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 5,
+     "id_planilha": 4,
+     "topico": "Vídeo p/ Vagas de Emprego",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "Mu5xmUB7w9o",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/Mu5xmUB7w9o.md",
+   "artigos": [
+    "cliente-contratar-banner-publicitario"
+   ],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 6,
+     "id_planilha": 5,
+     "topico": "Vídeo p/ Banner Publicitário",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "S-YcDWiimEo",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/S-YcDWiimEo.md",
+   "artigos": [
+    "cliente-gerenciar-anuncios-proprios",
+    "cliente-publicar-anuncio-novo"
+   ],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 7,
+     "id_planilha": 6,
+     "topico": "Vídeo p/ Classificados",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "KiGU9vNKIwg",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/KiGU9vNKIwg.md",
+   "artigos": [
+    "cliente-responder-pedidos-orcamento"
+   ],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 8,
+     "id_planilha": 7,
+     "topico": "Vídeo p/ Orçamentos [Pedidos Recebidos]",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "Uv6Zt7V9YN0",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/Uv6Zt7V9YN0.md",
+   "artigos": [
+    "acesso-criar-conta-empresa",
+    "cliente-guia-comercial-cadastrar-empresa"
+   ],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 9,
+     "id_planilha": 8,
+     "topico": "Guia > Cadastrando sua Empresa no Guia",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "8EwkE_ascEw",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/8EwkE_ascEw.md",
+   "artigos": [
+    "cliente-guia-comercial-completar-ficha"
+   ],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 10,
+     "id_planilha": 9,
+     "topico": "Guia > Completando sua ficha",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "OInXMQlSWqw",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/OInXMQlSWqw.md",
+   "artigos": [
+    "cliente-editar-perfil-publico-empresa",
+    "cliente-escrever-descricao-empresa",
+    "cliente-trocar-logo-empresa"
+   ],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 11,
+     "id_planilha": 10,
+     "topico": "Guia > Minha empresa",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "FwKU_0GF6iU",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/FwKU_0GF6iU.md",
+   "artigos": [
+    "gerenciar-servicos-da-empresa"
+   ],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 12,
+     "id_planilha": 11,
+     "topico": "Guia > Página de Serviços",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "-cq2YnG0vis",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/-cq2YnG0vis.md",
+   "artigos": [
+    "gerenciar-equipe-da-empresa"
+   ],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 13,
+     "id_planilha": 12,
+     "topico": "Guia > Página da Equipe",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "X2BpMhoYKiA",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/X2BpMhoYKiA.md",
+   "artigos": [
+    "gerenciar-catalogo-de-produtos"
+   ],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 14,
+     "id_planilha": 13,
+     "topico": "Guia > Catálogo de produtos",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "gmYWNfgX8LM",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/gmYWNfgX8LM.md",
+   "artigos": [
+    "gerenciar-cardapio-digital"
+   ],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 15,
+     "id_planilha": 14,
+     "topico": "Guia > Cardápio",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "viWXA8_mZf4",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/viWXA8_mZf4.md",
+   "artigos": [
+    "cliente-cancelar-pedido-delivery",
+    "cliente-consultar-pedidos-delivery"
+   ],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 16,
+     "id_planilha": 15,
+     "topico": "Guia > Delivery: configuração e cardápio",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "2BkFlsGlbUQ",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": null,
+   "legenda_fonte": null,
+   "conteudo": null,
+   "artigos": [],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 17,
+     "id_planilha": 16,
+     "topico": "Guia > Delivery: recebendo pedidos",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "aSRf0hwUrrc",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/aSRf0hwUrrc.md",
+   "artigos": [
+    "gerenciar-quartos-e-suites"
+   ],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 18,
+     "id_planilha": 17,
+     "topico": "Guia > Quartos e suítes",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "by3tA7GUa88",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/by3tA7GUa88.md",
+   "artigos": [
+    "cliente-jornalista-publicar-noticia"
+   ],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 19,
+     "id_planilha": 18,
+     "topico": "Vídeo Area Jornalista - Publicar Noticia",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "8VRaUwhuhO0",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/8VRaUwhuhO0.md",
+   "artigos": [
+    "cliente-colunista-publicar-artigo"
+   ],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 20,
+     "id_planilha": 19,
+     "topico": "Vídeo Area Especialista - Publicar Artigo",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "yuJhd0nadEE",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/yuJhd0nadEE.md",
+   "artigos": [
+    "cliente-contratar-plano",
+    "cliente-ver-planos-e-assinaturas"
+   ],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 21,
+     "id_planilha": 20,
+     "topico": "Vídeo p/ Planos e Assinaturas",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "-Krm1tXfeig",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/-Krm1tXfeig.md",
+   "artigos": [
+    "cliente-parceiro-virar-representante",
+    "cliente-parceiro-visao-geral-painel"
+   ],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 22,
+     "id_planilha": 21,
+     "topico": "[Parceiro] - Visão Geral Home",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "J7njZgIoVes",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/J7njZgIoVes.md",
+   "artigos": [
+    "cliente-parceiro-carteira-asaas"
+   ],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 23,
+     "id_planilha": 22,
+     "topico": "[Parceiro] - Cadastrar Chave Asaas",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "JXWDV_IiAWQ",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261003",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/JXWDV_IiAWQ.md",
+   "artigos": [
+    "ac-ferramentas-dadospj",
+    "pj-baixar-arquivo-e-validade",
+    "pj-creditos-semanais",
+    "pj-dashboard",
+    "pj-entrar-pela-area-do-cliente",
+    "pj-filtros-de-local",
+    "pj-o-que-e",
+    "pj-perguntas-frequentes"
+   ],
+   "linhas": [
+    {
+     "aba": "sistema-dados-pj",
+     "linha": 2,
+     "id_planilha": 1,
+     "topico": "Vídeo Home Dados PJ - Regras de Uso da Plataforma",
+     "produto": "dados-pj"
+    }
+   ]
+  },
+  {
+   "youtube_id": "IKdKLgi-e94",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261003",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/IKdKLgi-e94.md",
+   "artigos": [
+    "ac-ferramentas-dadospj",
+    "pj-baixar-arquivo-e-validade",
+    "pj-colunas-do-arquivo",
+    "pj-creditos-semanais",
+    "pj-dashboard",
+    "pj-filtros-da-empresa",
+    "pj-filtros-de-local",
+    "pj-filtros-termo-e-cnae",
+    "pj-gerar-lista-passo-a-passo",
+    "pj-o-que-e",
+    "pj-perguntas-frequentes"
+   ],
+   "linhas": [
+    {
+     "aba": "sistema-dados-pj",
+     "linha": 3,
+     "id_planilha": 2,
+     "topico": "Como fazer uma Extração - Dados PJ",
+     "produto": "dados-pj"
+    }
+   ]
+  },
+  {
+   "youtube_id": "F136_v1JyRY",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261005",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/F136_v1JyRY.md",
+   "artigos": [
+    "ac-ferramentas-extrator-maps",
+    "ext-acompanhar-extracao",
+    "ext-baixar-arquivos",
+    "ext-colunas-da-planilha",
+    "ext-comprar-creditos",
+    "ext-creditos-como-funcionam",
+    "ext-dashboard",
+    "ext-entrar-pela-area-do-cliente",
+    "ext-extrato-de-creditos",
+    "ext-historico",
+    "ext-importar-no-guia-do-portal",
+    "ext-limites-da-extracao",
+    "ext-nova-extracao-passo-a-passo",
+    "ext-o-que-e",
+    "ext-perguntas-frequentes",
+    "ext-prospeccao-ou-base-para-portal",
+    "ext-quantidade-e-custo-maximo",
+    "importar-empresas-no-guia"
+   ],
+   "linhas": [
+    {
+     "aba": "extrator-google-maps",
+     "linha": 2,
+     "id_planilha": 1,
+     "topico": "Visão Geral - Como Funciona o Extrator GMaps",
+     "produto": "extrator-maps"
+    }
+   ]
+  },
+  {
+   "youtube_id": "R9FCgunNxFE",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261005",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/R9FCgunNxFE.md",
+   "artigos": [
+    "ac-ferramentas-extrator-maps",
+    "ext-acompanhar-extracao",
+    "ext-baixar-arquivos",
+    "ext-colunas-da-planilha",
+    "ext-creditos-como-funcionam",
+    "ext-dashboard",
+    "ext-erros-ao-iniciar-extracao",
+    "ext-escolher-o-nicho",
+    "ext-historico",
+    "ext-limites-da-extracao",
+    "ext-nova-extracao-passo-a-passo",
+    "ext-o-que-e",
+    "ext-perguntas-frequentes",
+    "ext-prospeccao-ou-base-para-portal",
+    "ext-quantidade-e-custo-maximo",
+    "importar-empresas-no-guia"
+   ],
+   "linhas": [
+    {
+     "aba": "extrator-google-maps",
+     "linha": 3,
+     "id_planilha": 2,
+     "topico": "Como realizar extração Maps - Direto ao ponto",
+     "produto": "extrator-maps"
+    }
+   ]
+  },
+  {
+   "youtube_id": "dbFUi5ENvOg",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/dbFUi5ENvOg.md",
+   "artigos": [
+    "ac-inicio-o-que-aparece"
+   ],
+   "linhas": [
+    {
+     "aba": "claude-videos-basicos-area-do-cliente",
+     "linha": 4,
+     "id_planilha": 3,
+     "topico": "[Página Inicio] - Visão Geral dos Menus",
+     "produto": "area-do-cliente"
+    }
+   ]
+  },
+  {
+   "youtube_id": "3i_JcDTTKtA",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/3i_JcDTTKtA.md",
+   "artigos": [
+    "ac-lives-ver-agenda"
+   ],
+   "linhas": [
+    {
+     "aba": "claude-videos-basicos-area-do-cliente",
+     "linha": 13,
+     "id_planilha": 12,
+     "topico": "Lives",
+     "produto": "area-do-cliente"
+    }
+   ]
+  },
+  {
+   "youtube_id": "oZf-HGbQC9c",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": null,
+   "legenda_fonte": null,
+   "conteudo": null,
+   "artigos": [],
+   "linhas": [
+    {
+     "aba": "claude-videos-basicos-area-do-cliente",
+     "linha": 14,
+     "id_planilha": 13,
+     "topico": "Suporte",
+     "produto": "area-do-cliente"
+    }
+   ]
+  },
+  {
+   "youtube_id": "JdJr7pXVx98",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261019",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/JdJr7pXVx98.md",
+   "artigos": [
+    "cadastrar-empresa-no-guia",
+    "gerenciar-empresas-do-guia",
+    "mudar-situacao-de-empresa-do-guia"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 6,
+     "id_planilha": 5,
+     "topico": "Guia Comercial > Listar Empresas",
+     "produto": "portal-da-cidade",
+     "papel": "secundario (coluna drive/pagina)"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,675 @@
+1
+00:00:00,000 --> 00:00:01,590
+ 
+Neste vídeo, você vai aprender,
+
+2
+00:00:01,590 --> 00:00:01,600
+Neste vídeo, você vai aprender,
+ 
+
+3
+00:00:01,600 --> 00:00:03,750
+Neste vídeo, você vai aprender,
+passo-a-passo, a publicar uma vaga de
+
+4
+00:00:03,750 --> 00:00:03,760
+passo-a-passo, a publicar uma vaga de
+ 
+
+5
+00:00:03,760 --> 00:00:05,670
+passo-a-passo, a publicar uma vaga de
+emprego no portal, pelo seu próprio
+
+6
+00:00:05,670 --> 00:00:05,680
+emprego no portal, pelo seu próprio
+ 
+
+7
+00:00:05,680 --> 00:00:06,630
+emprego no portal, pelo seu próprio
+painel.
+
+8
+00:00:06,630 --> 00:00:06,640
+painel.
+ 
+
+9
+00:00:06,640 --> 00:00:08,710
+painel.
+Depois de entrar na sua conta, clique em
+
+10
+00:00:08,710 --> 00:00:08,720
+Depois de entrar na sua conta, clique em
+ 
+
+11
+00:00:08,720 --> 00:00:11,270
+Depois de entrar na sua conta, clique em
+vagas de emprego no menu da esquerda.
+
+12
+00:00:11,270 --> 00:00:11,280
+vagas de emprego no menu da esquerda.
+ 
+
+13
+00:00:11,280 --> 00:00:13,110
+vagas de emprego no menu da esquerda.
+Ao lado, aparece o nome do plano que
+
+14
+00:00:13,110 --> 00:00:13,120
+Ao lado, aparece o nome do plano que
+ 
+
+15
+00:00:13,120 --> 00:00:14,430
+Ao lado, aparece o nome do plano que
+você contratou.
+
+16
+00:00:14,430 --> 00:00:14,440
+você contratou.
+ 
+
+17
+00:00:14,440 --> 00:00:17,030
+você contratou.
+No topo da tela, fica o seu plano e logo
+
+18
+00:00:17,030 --> 00:00:17,040
+No topo da tela, fica o seu plano e logo
+ 
+
+19
+00:00:17,040 --> 00:00:19,270
+No topo da tela, fica o seu plano e logo
+abaixo, os quadros com quantas vagas
+
+20
+00:00:19,270 --> 00:00:19,280
+abaixo, os quadros com quantas vagas
+ 
+
+21
+00:00:19,280 --> 00:00:21,270
+abaixo, os quadros com quantas vagas
+você tem no ar e quantas estão em
+
+22
+00:00:21,270 --> 00:00:21,280
+você tem no ar e quantas estão em
+ 
+
+23
+00:00:21,280 --> 00:00:22,270
+você tem no ar e quantas estão em
+análise.
+
+24
+00:00:22,270 --> 00:00:22,280
+análise.
+ 
+
+25
+00:00:22,280 --> 00:00:24,550
+análise.
+Para publicar uma vaga, clique no botão
+
+26
+00:00:24,550 --> 00:00:24,560
+Para publicar uma vaga, clique no botão
+ 
+
+27
+00:00:24,560 --> 00:00:27,190
+Para publicar uma vaga, clique no botão
+"Nova vaga". Na primeira vez, o portal
+
+28
+00:00:27,190 --> 00:00:27,200
+"Nova vaga". Na primeira vez, o portal
+ 
+
+29
+00:00:27,200 --> 00:00:29,030
+"Nova vaga". Na primeira vez, o portal
+pede para completar o cadastro da sua
+
+30
+00:00:29,030 --> 00:00:29,040
+pede para completar o cadastro da sua
+ 
+
+31
+00:00:29,040 --> 00:00:31,950
+pede para completar o cadastro da sua
+empresa. Clique em "Adicionar logo" e
+
+32
+00:00:31,950 --> 00:00:31,960
+empresa. Clique em "Adicionar logo" e
+ 
+
+33
+00:00:31,960 --> 00:00:34,710
+empresa. Clique em "Adicionar logo" e
+escolha a logo da empresa. Em "Descrição
+
+34
+00:00:34,710 --> 00:00:34,720
+escolha a logo da empresa. Em "Descrição
+ 
+
+35
+00:00:34,720 --> 00:00:36,990
+escolha a logo da empresa. Em "Descrição
+da empresa", conte em poucas linhas o
+
+36
+00:00:36,990 --> 00:00:37,000
+da empresa", conte em poucas linhas o
+ 
+
+37
+00:00:37,000 --> 00:00:40,870
+da empresa", conte em poucas linhas o
+que a sua empresa faz. O CPF ou CNPJ é
+
+38
+00:00:40,870 --> 00:00:40,880
+que a sua empresa faz. O CPF ou CNPJ é
+ 
+
+39
+00:00:40,880 --> 00:00:43,390
+que a sua empresa faz. O CPF ou CNPJ é
+opcional nesse momento. Depois, clique
+
+40
+00:00:43,390 --> 00:00:43,400
+opcional nesse momento. Depois, clique
+ 
+
+41
+00:00:43,400 --> 00:00:45,550
+opcional nesse momento. Depois, clique
+em "Salvar e continuar".
+
+42
+00:00:45,550 --> 00:00:45,560
+em "Salvar e continuar".
+ 
+
+43
+00:00:45,560 --> 00:00:48,350
+em "Salvar e continuar".
+Agora, o formulário da vaga. Em "Título
+
+44
+00:00:48,350 --> 00:00:48,360
+Agora, o formulário da vaga. Em "Título
+ 
+
+45
+00:00:48,360 --> 00:00:50,870
+Agora, o formulário da vaga. Em "Título
+da vaga", escreva o cargo, por exemplo,
+
+46
+00:00:50,870 --> 00:00:50,880
+da vaga", escreva o cargo, por exemplo,
+ 
+
+47
+00:00:50,880 --> 00:00:53,830
+da vaga", escreva o cargo, por exemplo,
+"Operador de caixa". Em "Área", clique e
+
+48
+00:00:53,830 --> 00:00:53,840
+"Operador de caixa". Em "Área", clique e
+ 
+
+49
+00:00:53,840 --> 00:00:56,390
+"Operador de caixa". Em "Área", clique e
+escolha a área da vaga, como "Vendas e
+
+50
+00:00:56,390 --> 00:00:56,400
+escolha a área da vaga, como "Vendas e
+ 
+
+51
+00:00:56,400 --> 00:00:58,750
+escolha a área da vaga, como "Vendas e
+comércio". Em "Tipo de contrato",
+
+52
+00:00:58,750 --> 00:00:58,760
+comércio". Em "Tipo de contrato",
+ 
+
+53
+00:00:58,760 --> 00:01:02,350
+comércio". Em "Tipo de contrato",
+escolha entre CLT, PJ, estágio,
+
+54
+00:01:02,350 --> 00:01:02,360
+escolha entre CLT, PJ, estágio,
+ 
+
+55
+00:01:02,360 --> 00:01:05,590
+escolha entre CLT, PJ, estágio,
+temporário e outros. Escolha a cidade e,
+
+56
+00:01:05,590 --> 00:01:05,600
+temporário e outros. Escolha a cidade e,
+ 
+
+57
+00:01:05,600 --> 00:01:08,350
+temporário e outros. Escolha a cidade e,
+se quiser, o bairro. Em "Carga horária",
+
+58
+00:01:08,350 --> 00:01:08,360
+se quiser, o bairro. Em "Carga horária",
+ 
+
+59
+00:01:08,360 --> 00:01:11,030
+se quiser, o bairro. Em "Carga horária",
+informe a jornada, por exemplo, "44
+
+60
+00:01:11,030 --> 00:01:11,040
+informe a jornada, por exemplo, "44
+ 
+
+61
+00:01:11,040 --> 00:01:12,910
+informe a jornada, por exemplo, "44
+horas semanais". Em "Modelo de
+
+62
+00:01:12,910 --> 00:01:12,920
+horas semanais". Em "Modelo de
+ 
+
+63
+00:01:12,920 --> 00:01:14,590
+horas semanais". Em "Modelo de
+trabalho", marque se a vaga é
+
+64
+00:01:14,590 --> 00:01:14,600
+trabalho", marque se a vaga é
+ 
+
+65
+00:01:14,600 --> 00:01:17,430
+trabalho", marque se a vaga é
+presencial, home office ou híbrida. Se
+
+66
+00:01:17,430 --> 00:01:17,440
+presencial, home office ou híbrida. Se
+ 
+
+67
+00:01:17,440 --> 00:01:20,510
+presencial, home office ou híbrida. Se
+for o caso, marque também "Vaga PCD",
+
+68
+00:01:20,510 --> 00:01:20,520
+for o caso, marque também "Vaga PCD",
+ 
+
+69
+00:01:20,520 --> 00:01:23,030
+for o caso, marque também "Vaga PCD",
+"Primeiro emprego" ou "Urgente". Em
+
+70
+00:01:23,030 --> 00:01:23,040
+"Primeiro emprego" ou "Urgente". Em
+ 
+
+71
+00:01:23,040 --> 00:01:24,870
+"Primeiro emprego" ou "Urgente". Em
+"Descrição da vaga", conte o que a
+
+72
+00:01:24,870 --> 00:01:24,880
+"Descrição da vaga", conte o que a
+ 
+
+73
+00:01:24,880 --> 00:01:26,990
+"Descrição da vaga", conte o que a
+pessoa vai fazer no dia-a-dia. Esse
+
+74
+00:01:26,990 --> 00:01:27,000
+pessoa vai fazer no dia-a-dia. Esse
+ 
+
+75
+00:01:27,000 --> 00:01:29,870
+pessoa vai fazer no dia-a-dia. Esse
+campo é obrigatório. Em "Requisitos",
+
+76
+00:01:29,870 --> 00:01:29,880
+campo é obrigatório. Em "Requisitos",
+ 
+
+77
+00:01:29,880 --> 00:01:32,430
+campo é obrigatório. Em "Requisitos",
+informe a formação, a experiência e as
+
+78
+00:01:32,430 --> 00:01:32,440
+informe a formação, a experiência e as
+ 
+
+79
+00:01:32,440 --> 00:01:34,310
+informe a formação, a experiência e as
+habilidades desejadas. E em
+
+80
+00:01:34,310 --> 00:01:34,320
+habilidades desejadas. E em
+ 
+
+81
+00:01:34,320 --> 00:01:36,750
+habilidades desejadas. E em
+"Benefícios", escreva um benefício por
+
+82
+00:01:36,750 --> 00:01:36,760
+"Benefícios", escreva um benefício por
+ 
+
+83
+00:01:36,760 --> 00:01:39,590
+"Benefícios", escreva um benefício por
+linha. Em "Salário", digite o valor ou
+
+84
+00:01:39,590 --> 00:01:39,600
+linha. Em "Salário", digite o valor ou
+ 
+
+85
+00:01:39,600 --> 00:01:42,110
+linha. Em "Salário", digite o valor ou
+marque "Salário a combinar". Agora, a
+
+86
+00:01:42,110 --> 00:01:42,120
+marque "Salário a combinar". Agora, a
+ 
+
+87
+00:01:42,120 --> 00:01:44,310
+marque "Salário a combinar". Agora, a
+parte mais importante: para onde a
+
+88
+00:01:44,310 --> 00:01:44,320
+parte mais importante: para onde a
+ 
+
+89
+00:01:44,320 --> 00:01:46,630
+parte mais importante: para onde a
+candidatura chega. Preencha pelo menos
+
+90
+00:01:46,630 --> 00:01:46,640
+candidatura chega. Preencha pelo menos
+ 
+
+91
+00:01:46,640 --> 00:01:49,550
+candidatura chega. Preencha pelo menos
+um: o WhatsApp para contato ou o e-mail
+
+92
+00:01:49,550 --> 00:01:49,560
+um: o WhatsApp para contato ou o e-mail
+ 
+
+93
+00:01:49,560 --> 00:01:51,790
+um: o WhatsApp para contato ou o e-mail
+para receber currículos. Se você usa um
+
+94
+00:01:51,790 --> 00:01:51,800
+para receber currículos. Se você usa um
+ 
+
+95
+00:01:51,800 --> 00:01:54,430
+para receber currículos. Se você usa um
+site de recrutamento, cole o endereço em
+
+96
+00:01:54,430 --> 00:01:54,440
+site de recrutamento, cole o endereço em
+ 
+
+97
+00:01:54,440 --> 00:01:56,750
+site de recrutamento, cole o endereço em
+"Link externo de candidatura". Confira
+
+98
+00:01:56,750 --> 00:01:56,760
+"Link externo de candidatura". Confira
+ 
+
+99
+00:01:56,760 --> 00:02:00,070
+"Link externo de candidatura". Confira
+tudo e clique em publicar vaga. Pronto,
+
+100
+00:02:00,070 --> 00:02:00,080
+tudo e clique em publicar vaga. Pronto,
+ 
+
+101
+00:02:00,080 --> 00:02:02,190
+tudo e clique em publicar vaga. Pronto,
+aparece o aviso "vaga enviada para
+
+102
+00:02:02,190 --> 00:02:02,200
+aparece o aviso "vaga enviada para
+ 
+
+103
+00:02:02,200 --> 00:02:04,670
+aparece o aviso "vaga enviada para
+aprovação". O portal confere a vaga
+
+104
+00:02:04,670 --> 00:02:04,680
+aprovação". O portal confere a vaga
+ 
+
+105
+00:02:04,680 --> 00:02:06,950
+aprovação". O portal confere a vaga
+antes de colocar no ar e você é avisado
+
+106
+00:02:06,950 --> 00:02:06,960
+antes de colocar no ar e você é avisado
+ 
+
+107
+00:02:06,960 --> 00:02:09,109
+antes de colocar no ar e você é avisado
+por e-mail quando ela for analisada. Na
+
+108
+00:02:09,109 --> 00:02:09,119
+por e-mail quando ela for analisada. Na
+ 
+
+109
+00:02:09,119 --> 00:02:11,150
+por e-mail quando ela for analisada. Na
+sua lista, a vaga aparece como
+
+110
+00:02:11,150 --> 00:02:11,160
+sua lista, a vaga aparece como
+ 
+
+111
+00:02:11,160 --> 00:02:13,390
+sua lista, a vaga aparece como
+aguardando aprovação. Assim que for
+
+112
+00:02:13,390 --> 00:02:13,400
+aguardando aprovação. Assim que for
+ 
+
+113
+00:02:13,400 --> 00:02:16,390
+aguardando aprovação. Assim que for
+aprovada, ela muda para ativa e você vê
+
+114
+00:02:16,390 --> 00:02:16,400
+aprovada, ela muda para ativa e você vê
+ 
+
+115
+00:02:16,400 --> 00:02:18,910
+aprovada, ela muda para ativa e você vê
+quantos dias faltam para ela sair do ar.
+
+116
+00:02:18,910 --> 00:02:18,920
+quantos dias faltam para ela sair do ar.
+ 
+
+117
+00:02:18,920 --> 00:02:21,550
+quantos dias faltam para ela sair do ar.
+Nos ícones da direita, você pode editar,
+
+118
+00:02:21,550 --> 00:02:21,560
+Nos ícones da direita, você pode editar,
+ 
+
+119
+00:02:21,560 --> 00:02:24,710
+Nos ícones da direita, você pode editar,
+pausar ou excluir a vaga. E esta é a sua
+
+120
+00:02:24,710 --> 00:02:24,720
+pausar ou excluir a vaga. E esta é a sua
+ 
+
+121
+00:02:24,720 --> 00:02:27,630
+pausar ou excluir a vaga. E esta é a sua
+vaga no portal. O cargo, a sua logo, o
+
+122
+00:02:27,630 --> 00:02:27,640
+vaga no portal. O cargo, a sua logo, o
+ 
+
+123
+00:02:27,640 --> 00:02:30,190
+vaga no portal. O cargo, a sua logo, o
+tipo de contrato, o local e o salário em
+
+124
+00:02:30,190 --> 00:02:30,200
+tipo de contrato, o local e o salário em
+ 
+
+125
+00:02:30,200 --> 00:02:32,949
+tipo de contrato, o local e o salário em
+destaque. Mais abaixo ficam a descrição,
+
+126
+00:02:32,949 --> 00:02:32,959
+destaque. Mais abaixo ficam a descrição,
+ 
+
+127
+00:02:32,959 --> 00:02:35,510
+destaque. Mais abaixo ficam a descrição,
+os requisitos e os benefícios. Do lado
+
+128
+00:02:35,510 --> 00:02:35,520
+os requisitos e os benefícios. Do lado
+ 
+
+129
+00:02:35,520 --> 00:02:37,830
+os requisitos e os benefícios. Do lado
+direito, o candidato fala com você pelo
+
+130
+00:02:37,830 --> 00:02:37,840
+direito, o candidato fala com você pelo
+ 
+
+131
+00:02:37,840 --> 00:02:40,270
+direito, o candidato fala com você pelo
+WhatsApp ou envia o currículo por e-mail
+
+132
+00:02:40,270 --> 00:02:40,280
+WhatsApp ou envia o currículo por e-mail
+ 
+
+133
+00:02:40,280 --> 00:02:42,990
+WhatsApp ou envia o currículo por e-mail
+com um clique. Pronto, agora é só
+
+134
+00:02:42,990 --> 00:02:43,000
+com um clique. Pronto, agora é só
+ 
+
+135
+00:02:43,000 --> 00:02:46,800
+com um clique. Pronto, agora é só
+acompanhar os candidatos que vão chegar.
+

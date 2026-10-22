@@ -12,6 +12,7 @@ revisado_em: 2026-10-19
 validacao: docs-e-codigo
 videos:
   - okWcwnwq5Bk
+  - -cq2YnG0vis
 ---
 
 ## objetivo
@@ -38,7 +39,7 @@ aqui você mostra os profissionais da empresa, com foto, nome e especialidade.
 
 ## resultado
 
-a página da empresa ganha o bloco `Nossa Equipe` com foto, nome e especialidade.
+a página da empresa ganha o bloco `Nossa Equipe` com foto, nome e especialidade. A foto aparece redonda, e no celular a ficha ganha a aba equipe.
 
 ## desvios
 

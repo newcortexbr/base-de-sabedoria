@@ -1,0 +1,225 @@
+1
+00:00:00,000 --> 00:00:02,590
+ 
+Roteiros são passeios prontos que ajudam
+
+2
+00:00:02,590 --> 00:00:02,600
+Roteiros são passeios prontos que ajudam
+ 
+
+3
+00:00:02,600 --> 00:00:05,150
+Roteiros são passeios prontos que ajudam
+o visitante a aproveitar a cidade. Veja
+
+4
+00:00:05,150 --> 00:00:05,160
+o visitante a aproveitar a cidade. Veja
+ 
+
+5
+00:00:05,160 --> 00:00:07,750
+o visitante a aproveitar a cidade. Veja
+como criar um. No menu lateral, abra
+
+6
+00:00:07,750 --> 00:00:07,760
+como criar um. No menu lateral, abra
+ 
+
+7
+00:00:07,760 --> 00:00:10,110
+como criar um. No menu lateral, abra
+guia turístico e eventos e clique em
+
+8
+00:00:10,110 --> 00:00:10,120
+guia turístico e eventos e clique em
+ 
+
+9
+00:00:10,120 --> 00:00:12,950
+guia turístico e eventos e clique em
+roteiros. Aqui ficam os roteiros com o
+
+10
+00:00:12,950 --> 00:00:12,960
+roteiros. Aqui ficam os roteiros com o
+ 
+
+11
+00:00:12,960 --> 00:00:15,750
+roteiros. Aqui ficam os roteiros com o
+selo, a duração, o número de paradas e
+
+12
+00:00:15,750 --> 00:00:15,760
+selo, a duração, o número de paradas e
+ 
+
+13
+00:00:15,760 --> 00:00:18,270
+selo, a duração, o número de paradas e
+se estão ativos. Para criar um, clique
+
+14
+00:00:18,270 --> 00:00:18,280
+se estão ativos. Para criar um, clique
+ 
+
+15
+00:00:18,280 --> 00:00:21,110
+se estão ativos. Para criar um, clique
+em novo roteiro. Envie a foto de capa e
+
+16
+00:00:21,110 --> 00:00:21,120
+em novo roteiro. Envie a foto de capa e
+ 
+
+17
+00:00:21,120 --> 00:00:23,470
+em novo roteiro. Envie a foto de capa e
+escreva o título. Preencha o selo, a
+
+18
+00:00:23,470 --> 00:00:23,480
+escreva o título. Preencha o selo, a
+ 
+
+19
+00:00:23,480 --> 00:00:25,950
+escreva o título. Preencha o selo, a
+duração, uma descrição e o ponto de
+
+20
+00:00:25,950 --> 00:00:25,960
+duração, uma descrição e o ponto de
+ 
+
+21
+00:00:25,960 --> 00:00:28,350
+duração, uma descrição e o ponto de
+partida. Se tiver, cole um vídeo do
+
+22
+00:00:28,350 --> 00:00:28,360
+partida. Se tiver, cole um vídeo do
+ 
+
+23
+00:00:28,360 --> 00:00:31,270
+partida. Se tiver, cole um vídeo do
+YouTube. Agora monte as paradas. Clique
+
+24
+00:00:31,270 --> 00:00:31,280
+YouTube. Agora monte as paradas. Clique
+ 
+
+25
+00:00:31,280 --> 00:00:33,830
+YouTube. Agora monte as paradas. Clique
+em adicionar parada, dê o nome, uma
+
+26
+00:00:33,830 --> 00:00:33,840
+em adicionar parada, dê o nome, uma
+ 
+
+27
+00:00:33,840 --> 00:00:36,510
+em adicionar parada, dê o nome, uma
+descrição e o tempo sugerido. Repita
+
+28
+00:00:36,510 --> 00:00:36,520
+descrição e o tempo sugerido. Repita
+ 
+
+29
+00:00:36,520 --> 00:00:38,870
+descrição e o tempo sugerido. Repita
+para cada parada. Você pode marcar uma
+
+30
+00:00:38,870 --> 00:00:38,880
+para cada parada. Você pode marcar uma
+ 
+
+31
+00:00:38,880 --> 00:00:40,950
+para cada parada. Você pode marcar uma
+parada em destaque e mudar a ordem com
+
+32
+00:00:40,950 --> 00:00:40,960
+parada em destaque e mudar a ordem com
+ 
+
+33
+00:00:40,960 --> 00:00:43,710
+parada em destaque e mudar a ordem com
+as setas. Marque destaque se quiser.
+
+34
+00:00:43,710 --> 00:00:43,720
+as setas. Marque destaque se quiser.
+ 
+
+35
+00:00:43,720 --> 00:00:46,870
+as setas. Marque destaque se quiser.
+Deixe ativo marcado e clique em salvar.
+
+36
+00:00:46,870 --> 00:00:46,880
+Deixe ativo marcado e clique em salvar.
+ 
+
+37
+00:00:46,880 --> 00:00:48,910
+Deixe ativo marcado e clique em salvar.
+O roteiro aparece na página de roteiros
+
+38
+00:00:48,910 --> 00:00:48,920
+O roteiro aparece na página de roteiros
+ 
+
+39
+00:00:48,920 --> 00:00:51,030
+O roteiro aparece na página de roteiros
+do portal com as paradas em ordem e o
+
+40
+00:00:51,030 --> 00:00:51,040
+do portal com as paradas em ordem e o
+ 
+
+41
+00:00:51,040 --> 00:00:53,790
+do portal com as paradas em ordem e o
+tempo de cada uma. Pronto. Agora é só
+
+42
+00:00:53,790 --> 00:00:53,800
+tempo de cada uma. Pronto. Agora é só
+ 
+
+43
+00:00:53,800 --> 00:00:55,630
+tempo de cada uma. Pronto. Agora é só
+criar roteiros para cada perfil de
+
+44
+00:00:55,630 --> 00:00:55,640
+criar roteiros para cada perfil de
+ 
+
+45
+00:00:55,640 --> 00:00:58,320
+criar roteiros para cada perfil de
+visitante.
+

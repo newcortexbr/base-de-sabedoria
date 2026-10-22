@@ -8,7 +8,7 @@ categoria: sorteios
 aba: nao-se-aplica
 tipo_problema: participar-sorteio
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - REgRSXekqpA
@@ -30,10 +30,11 @@ se inscrever de graça num sorteio de empresa da cidade.
 4. Preencha `Nome`, `Sobrenome` e `WhatsApp com DDD`. O número precisa ser seu: é por ele que o ganhador é chamado.
 5. Confirme que o número é seu e que leu as regras.
 6. Clique em `Confirmar participação` e guarde seu número da sorte.
+7. Ative as notificações para receber avisos de novos sorteios.
 
 ## resultado
 
-a inscrição é confirmada na hora com um número da sorte. A data e o link da live ficam na página do sorteio.
+a inscrição é confirmada na hora com um número da sorte. A data e o link da live ficam na página do sorteio. A página também mostra quem já ganhou e os próximos sorteios.
 
 ## desvios
 

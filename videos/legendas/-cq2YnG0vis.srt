@@ -1,0 +1,265 @@
+1
+00:00:00,000 --> 00:00:02,030
+ 
+Neste vídeo, você vai criar a página
+
+2
+00:00:02,030 --> 00:00:02,040
+Neste vídeo, você vai criar a página
+ 
+
+3
+00:00:02,040 --> 00:00:04,070
+Neste vídeo, você vai criar a página
+equipe, que apresenta os profissionais
+
+4
+00:00:04,070 --> 00:00:04,080
+equipe, que apresenta os profissionais
+ 
+
+5
+00:00:04,080 --> 00:00:07,270
+equipe, que apresenta os profissionais
+da sua empresa, com foto, nome e cargo.
+
+6
+00:00:07,270 --> 00:00:07,280
+da sua empresa, com foto, nome e cargo.
+ 
+
+7
+00:00:07,280 --> 00:00:09,630
+da sua empresa, com foto, nome e cargo.
+Ela passa confiança e vale para qualquer
+
+8
+00:00:09,630 --> 00:00:09,640
+Ela passa confiança e vale para qualquer
+ 
+
+9
+00:00:09,640 --> 00:00:12,470
+Ela passa confiança e vale para qualquer
+categoria. Na sua área, clique em guia
+
+10
+00:00:12,470 --> 00:00:12,480
+categoria. Na sua área, clique em guia
+ 
+
+11
+00:00:12,480 --> 00:00:14,870
+categoria. Na sua área, clique em guia
+comercial e role até páginas da sua
+
+12
+00:00:14,870 --> 00:00:14,880
+comercial e role até páginas da sua
+ 
+
+13
+00:00:14,880 --> 00:00:17,630
+comercial e role até páginas da sua
+empresa. No cartão equipe, clique em
+
+14
+00:00:17,630 --> 00:00:17,640
+empresa. No cartão equipe, clique em
+ 
+
+15
+00:00:17,640 --> 00:00:20,990
+empresa. No cartão equipe, clique em
+começar. Abre a tela gerenciar equipe.
+
+16
+00:00:20,990 --> 00:00:21,000
+começar. Abre a tela gerenciar equipe.
+ 
+
+17
+00:00:21,000 --> 00:00:23,270
+começar. Abre a tela gerenciar equipe.
+Clique em novo profissional. Escreva o
+
+18
+00:00:23,270 --> 00:00:23,280
+Clique em novo profissional. Escreva o
+ 
+
+19
+00:00:23,280 --> 00:00:25,270
+Clique em novo profissional. Escreva o
+nome da pessoa e o cargo, como
+
+20
+00:00:25,270 --> 00:00:25,280
+nome da pessoa e o cargo, como
+ 
+
+21
+00:00:25,280 --> 00:00:28,310
+nome da pessoa e o cargo, como
+eletricista, cabeleireira ou advogado.
+
+22
+00:00:28,310 --> 00:00:28,320
+eletricista, cabeleireira ou advogado.
+ 
+
+23
+00:00:28,320 --> 00:00:30,030
+eletricista, cabeleireira ou advogado.
+Se a profissão tiver registro, como
+
+24
+00:00:30,030 --> 00:00:30,040
+Se a profissão tiver registro, como
+ 
+
+25
+00:00:30,040 --> 00:00:33,910
+Se a profissão tiver registro, como
+CREA, CRM ou OAB, informe em registro
+
+26
+00:00:33,910 --> 00:00:33,920
+CREA, CRM ou OAB, informe em registro
+ 
+
+27
+00:00:33,920 --> 00:00:36,390
+CREA, CRM ou OAB, informe em registro
+profissional. É opcional. Envie uma
+
+28
+00:00:36,390 --> 00:00:36,400
+profissional. É opcional. Envie uma
+ 
+
+29
+00:00:36,400 --> 00:00:38,790
+profissional. É opcional. Envie uma
+foto, de preferência de rosto e com boa
+
+30
+00:00:38,790 --> 00:00:38,800
+foto, de preferência de rosto e com boa
+ 
+
+31
+00:00:38,800 --> 00:00:41,470
+foto, de preferência de rosto e com boa
+luz. Ela aparece redonda no portal.
+
+32
+00:00:41,470 --> 00:00:41,480
+luz. Ela aparece redonda no portal.
+ 
+
+33
+00:00:41,480 --> 00:00:43,990
+luz. Ela aparece redonda no portal.
+Deixe publicado no site ligado e clique
+
+34
+00:00:43,990 --> 00:00:44,000
+Deixe publicado no site ligado e clique
+ 
+
+35
+00:00:44,000 --> 00:00:46,030
+Deixe publicado no site ligado e clique
+em salvar. Repita para cada
+
+36
+00:00:46,030 --> 00:00:46,040
+em salvar. Repita para cada
+ 
+
+37
+00:00:46,040 --> 00:00:48,590
+em salvar. Repita para cada
+profissional. A lista mostra todos, com
+
+38
+00:00:48,590 --> 00:00:48,600
+profissional. A lista mostra todos, com
+ 
+
+39
+00:00:48,600 --> 00:00:51,070
+profissional. A lista mostra todos, com
+a chave para publicar ou tirar do ar e
+
+40
+00:00:51,070 --> 00:00:51,080
+a chave para publicar ou tirar do ar e
+ 
+
+41
+00:00:51,080 --> 00:00:54,310
+a chave para publicar ou tirar do ar e
+os botões editar e excluir. No portal, a
+
+42
+00:00:54,310 --> 00:00:54,320
+os botões editar e excluir. No portal, a
+ 
+
+43
+00:00:54,320 --> 00:00:56,390
+os botões editar e excluir. No portal, a
+equipe aparece na ficha da empresa, no
+
+44
+00:00:56,390 --> 00:00:56,400
+equipe aparece na ficha da empresa, no
+ 
+
+45
+00:00:56,400 --> 00:00:59,510
+equipe aparece na ficha da empresa, no
+bloco nossa equipe, com a foto, o nome e
+
+46
+00:00:59,510 --> 00:00:59,520
+bloco nossa equipe, com a foto, o nome e
+ 
+
+47
+00:00:59,520 --> 00:01:01,910
+bloco nossa equipe, com a foto, o nome e
+o cargo de cada um. E no celular, a
+
+48
+00:01:01,910 --> 00:01:01,920
+o cargo de cada um. E no celular, a
+ 
+
+49
+00:01:01,920 --> 00:01:05,070
+o cargo de cada um. E no celular, a
+ficha ganha aba equipe. Pronto. Mantenha
+
+50
+00:01:05,070 --> 00:01:05,080
+ficha ganha aba equipe. Pronto. Mantenha
+ 
+
+51
+00:01:05,080 --> 00:01:06,950
+ficha ganha aba equipe. Pronto. Mantenha
+a equipe atualizada sempre que alguém
+
+52
+00:01:06,950 --> 00:01:06,960
+a equipe atualizada sempre que alguém
+ 
+
+53
+00:01:06,960 --> 00:01:10,040
+a equipe atualizada sempre que alguém
+entrar ou sair.
+

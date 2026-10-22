@@ -7,7 +7,7 @@ import { fileURLToPath } from 'node:url'
 
 const RAIZ = resolve(dirname(fileURLToPath(import.meta.url)), '..')
 // Pastas que não são artigos de atendimento (relatórios, mapa de telas).
-const FORA = new Set(['interno', 'mapa', 'conteudo', 'scripts', '.git', 'node_modules'])
+const FORA = new Set(['interno', 'mapa', 'conteudo', 'videos', 'scripts', '.git', 'node_modules'])
 const VAZIAS = new Set('como que para por com uma umas uns dos das nos nas meu minha meus minhas seu sua isso esse essa este esta onde quando qual quais quero queria posso pode fazer tem ter nao sim mais muito sobre aqui ali'.split(' '))
 
 const normalizar = t => t.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase()

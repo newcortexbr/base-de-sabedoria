@@ -10,6 +10,8 @@ tipo_problema: denuncia
 status: rascunho-documental
 revisado_em: 2026-10-19
 validacao: docs-e-codigo
+videos:
+  - G1B9mAWbCk4
 ---
 
 ## objetivo

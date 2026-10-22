@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - ufB3QTKfPsM
@@ -30,11 +30,11 @@ aqui você publica uma vaga nova. A empresa que oferece a vaga precisa estar cad
 3. Em `Dados da Vaga`, escreva o título da vaga. [guia=vaga-form.dados] [t=52]
 4. Escolha a área. [guia=vaga-form.dados]
 5. Escolha o tipo de contrato e a carga horária. [guia=vaga-form.dados]
-6. Escolha a cidade e o modelo de trabalho. [guia=vaga-form.dados]
+6. Escolha a cidade e o modelo de trabalho: presencial, home office ou híbrido. [guia=vaga-form.dados]
 7. Se for o caso, marque `Vaga PCD`, `1º Emprego`, `Urgente` ou `Destaque`. [guia=vaga-form.dados]
-8. Em `Salário`, informe o valor em `Salário (R$)`, se quiser mostrar. [guia=vaga-form.salario] [t=63]
+8. Em `Salário`, informe o valor em `Salário (R$)`, se quiser mostrar, ou marque que o salário é a combinar. [guia=vaga-form.salario] [t=63]
 9. Em `Contato / Candidatura`, coloque o WhatsApp, o e-mail ou o link de candidatura. É por ali que o candidato chega à empresa. [guia=vaga-form.contato] [t=67]
-10. Em `Descrição`, escreva a descrição, os requisitos e os benefícios (um por linha). [guia=vaga-form.descricao] [t=75]
+10. Em `Descrição`, escreva a descrição, os requisitos e os benefícios, um por linha (requisitos e benefícios entram na própria descrição). [guia=vaga-form.descricao] [t=75]
 11. Em `Configurações`, confira o `Status` e a data em `Expira em`. [guia=vaga-form.configuracoes] [t=80]
 12. Clique em `Publicar vaga`. A vaga aparece na lista. [guia=vaga-form.publicar] [t=82]
 

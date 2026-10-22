@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-20
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - 8gIDPdapN0E
@@ -31,10 +31,11 @@ aqui você faz a comissão cair sozinha na carteira Asaas do parceiro. Para paga
 
 ## resultado
 
-as comissões dos parceiros com carteira Asaas passam a cair sozinhas.
+as comissões dos parceiros com carteira Asaas passam a cair sozinhas: quando o cliente paga pelo link, a parte do parceiro vai direto para a carteira dele.
 
 ## desvios
 
+- No painel, em `Precisa da sua atenção`, o portal avisa quais parceiros ainda não informaram a carteira Asaas; esses são pagos por fora.
 - Parceiro sem carteira Asaas sempre é pago por fora; veja o artigo "pagar a comissão de um parceiro por fora do portal".
 
 ## quando pedir ajuda

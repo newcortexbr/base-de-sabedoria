@@ -1,0 +1,445 @@
+1
+00:00:00,000 --> 00:00:02,110
+ 
+Neste vídeo, você vai aprender, passo a
+
+2
+00:00:02,110 --> 00:00:02,120
+Neste vídeo, você vai aprender, passo a
+ 
+
+3
+00:00:02,120 --> 00:00:04,270
+Neste vídeo, você vai aprender, passo a
+passo, a criar o cupom de desconto da
+
+4
+00:00:04,270 --> 00:00:04,280
+passo, a criar o cupom de desconto da
+ 
+
+5
+00:00:04,280 --> 00:00:06,390
+passo, a criar o cupom de desconto da
+sua empresa, que aparece na página de
+
+6
+00:00:06,390 --> 00:00:06,400
+sua empresa, que aparece na página de
+ 
+
+7
+00:00:06,400 --> 00:00:09,350
+sua empresa, que aparece na página de
+cupons do portal. O cupom é um benefício
+
+8
+00:00:09,350 --> 00:00:09,360
+cupons do portal. O cupom é um benefício
+ 
+
+9
+00:00:09,360 --> 00:00:11,670
+cupons do portal. O cupom é um benefício
+do plano do guia comercial. Quando o seu
+
+10
+00:00:11,670 --> 00:00:11,680
+do plano do guia comercial. Quando o seu
+ 
+
+11
+00:00:11,680 --> 00:00:13,790
+do plano do guia comercial. Quando o seu
+plano inclui cupom, aparece o item
+
+12
+00:00:13,790 --> 00:00:13,800
+plano inclui cupom, aparece o item
+ 
+
+13
+00:00:13,800 --> 00:00:16,510
+plano inclui cupom, aparece o item
+cupons no menu da esquerda, logo abaixo
+
+14
+00:00:16,510 --> 00:00:16,520
+cupons no menu da esquerda, logo abaixo
+ 
+
+15
+00:00:16,520 --> 00:00:19,190
+cupons no menu da esquerda, logo abaixo
+do guia comercial. Clique nele. Cada
+
+16
+00:00:19,190 --> 00:00:19,200
+do guia comercial. Clique nele. Cada
+ 
+
+17
+00:00:19,200 --> 00:00:21,910
+do guia comercial. Clique nele. Cada
+empresa tem um cupom. No topo, aparece a
+
+18
+00:00:21,910 --> 00:00:21,920
+empresa tem um cupom. No topo, aparece a
+ 
+
+19
+00:00:21,920 --> 00:00:24,350
+empresa tem um cupom. No topo, aparece a
+situação não publicado, enquanto ele
+
+20
+00:00:24,350 --> 00:00:24,360
+situação não publicado, enquanto ele
+ 
+
+21
+00:00:24,360 --> 00:00:27,270
+situação não publicado, enquanto ele
+ainda não foi salvo, ou no ar. Comece
+
+22
+00:00:27,270 --> 00:00:27,280
+ainda não foi salvo, ou no ar. Comece
+ 
+
+23
+00:00:27,280 --> 00:00:29,670
+ainda não foi salvo, ou no ar. Comece
+pela foto de capa, que é opcional, mas
+
+24
+00:00:29,670 --> 00:00:29,680
+pela foto de capa, que é opcional, mas
+ 
+
+25
+00:00:29,680 --> 00:00:32,030
+pela foto de capa, que é opcional, mas
+deixa o cupom muito mais chamativo.
+
+26
+00:00:32,030 --> 00:00:32,040
+deixa o cupom muito mais chamativo.
+ 
+
+27
+00:00:32,040 --> 00:00:34,790
+deixa o cupom muito mais chamativo.
+Clique em adicionar e escolha a imagem.
+
+28
+00:00:34,790 --> 00:00:34,800
+Clique em adicionar e escolha a imagem.
+ 
+
+29
+00:00:34,800 --> 00:00:37,310
+Clique em adicionar e escolha a imagem.
+Em cupom de desconto, escreva a oferta
+
+30
+00:00:37,310 --> 00:00:37,320
+Em cupom de desconto, escreva a oferta
+ 
+
+31
+00:00:37,320 --> 00:00:40,510
+Em cupom de desconto, escreva a oferta
+em poucas palavras. Por exemplo, 15% off
+
+32
+00:00:40,510 --> 00:00:40,520
+em poucas palavras. Por exemplo, 15% off
+ 
+
+33
+00:00:40,520 --> 00:00:43,190
+em poucas palavras. Por exemplo, 15% off
+na instalação. É o destaque do cartão.
+
+34
+00:00:43,190 --> 00:00:43,200
+na instalação. É o destaque do cartão.
+ 
+
+35
+00:00:43,200 --> 00:00:45,350
+na instalação. É o destaque do cartão.
+Em segunda linha do card, complemente a
+
+36
+00:00:45,350 --> 00:00:45,360
+Em segunda linha do card, complemente a
+ 
+
+37
+00:00:45,360 --> 00:00:47,910
+Em segunda linha do card, complemente a
+oferta, como válido para instalações de
+
+38
+00:00:47,910 --> 00:00:47,920
+oferta, como válido para instalações de
+ 
+
+39
+00:00:47,920 --> 00:00:50,430
+oferta, como válido para instalações de
+tomadas e chuveiros. Em condições de
+
+40
+00:00:50,430 --> 00:00:50,440
+tomadas e chuveiros. Em condições de
+ 
+
+41
+00:00:50,440 --> 00:00:52,990
+tomadas e chuveiros. Em condições de
+uso, explique as regras. Por exemplo,
+
+42
+00:00:52,990 --> 00:00:53,000
+uso, explique as regras. Por exemplo,
+ 
+
+43
+00:00:53,000 --> 00:00:55,350
+uso, explique as regras. Por exemplo,
+não cumulativo, apresente o código no
+
+44
+00:00:55,350 --> 00:00:55,360
+não cumulativo, apresente o código no
+ 
+
+45
+00:00:55,360 --> 00:00:57,990
+não cumulativo, apresente o código no
+orçamento. Em código do cupom, crie o
+
+46
+00:00:57,990 --> 00:00:58,000
+orçamento. Em código do cupom, crie o
+ 
+
+47
+00:00:58,000 --> 00:00:59,830
+orçamento. Em código do cupom, crie o
+código que o cliente vai mostrar na sua
+
+48
+00:00:59,830 --> 00:00:59,840
+código que o cliente vai mostrar na sua
+ 
+
+49
+00:00:59,840 --> 00:01:02,950
+código que o cliente vai mostrar na sua
+empresa, como luz 15. Use letras e
+
+50
+00:01:02,950 --> 00:01:02,960
+empresa, como luz 15. Use letras e
+ 
+
+51
+00:01:02,960 --> 00:01:05,390
+empresa, como luz 15. Use letras e
+números sem espaços. Em tipo de
+
+52
+00:01:05,390 --> 00:01:05,400
+números sem espaços. Em tipo de
+ 
+
+53
+00:01:05,400 --> 00:01:08,110
+números sem espaços. Em tipo de
+desconto, escolha percentual ou valor
+
+54
+00:01:08,110 --> 00:01:08,120
+desconto, escolha percentual ou valor
+ 
+
+55
+00:01:08,120 --> 00:01:10,750
+desconto, escolha percentual ou valor
+fixo em reais. E em valor do cupom,
+
+56
+00:01:10,750 --> 00:01:10,760
+fixo em reais. E em valor do cupom,
+ 
+
+57
+00:01:10,760 --> 00:01:14,030
+fixo em reais. E em valor do cupom,
+digite o número. Aqui, 15. Em cupom vale
+
+58
+00:01:14,030 --> 00:01:14,040
+digite o número. Aqui, 15. Em cupom vale
+ 
+
+59
+00:01:14,040 --> 00:01:16,070
+digite o número. Aqui, 15. Em cupom vale
+até, escolha a data em que a oferta
+
+60
+00:01:16,070 --> 00:01:16,080
+até, escolha a data em que a oferta
+ 
+
+61
+00:01:16,080 --> 00:01:18,750
+até, escolha a data em que a oferta
+termina. Depois dessa data, o cupom sai
+
+62
+00:01:18,750 --> 00:01:18,760
+termina. Depois dessa data, o cupom sai
+ 
+
+63
+00:01:18,760 --> 00:01:21,550
+termina. Depois dessa data, o cupom sai
+do portal sozinho. Confira tudo e clique
+
+64
+00:01:21,550 --> 00:01:21,560
+do portal sozinho. Confira tudo e clique
+ 
+
+65
+00:01:21,560 --> 00:01:24,630
+do portal sozinho. Confira tudo e clique
+em salvar cupom. A situação muda para no
+
+66
+00:01:24,630 --> 00:01:24,640
+em salvar cupom. A situação muda para no
+ 
+
+67
+00:01:24,640 --> 00:01:27,590
+em salvar cupom. A situação muda para no
+ar e aparece a confirmação salvo. E é
+
+68
+00:01:27,590 --> 00:01:27,600
+ar e aparece a confirmação salvo. E é
+ 
+
+69
+00:01:27,600 --> 00:01:29,990
+ar e aparece a confirmação salvo. E é
+assim que o cupom aparece no portal, na
+
+70
+00:01:29,990 --> 00:01:30,000
+assim que o cupom aparece no portal, na
+ 
+
+71
+00:01:30,000 --> 00:01:32,150
+assim que o cupom aparece no portal, na
+página de cupons, com a foto, a
+
+72
+00:01:32,150 --> 00:01:32,160
+página de cupons, com a foto, a
+ 
+
+73
+00:01:32,160 --> 00:01:35,350
+página de cupons, com a foto, a
+categoria, o selo de desconto, a oferta,
+
+74
+00:01:35,350 --> 00:01:35,360
+categoria, o selo de desconto, a oferta,
+ 
+
+75
+00:01:35,360 --> 00:01:38,190
+categoria, o selo de desconto, a oferta,
+a validade e as condições. O visitante
+
+76
+00:01:38,190 --> 00:01:38,200
+a validade e as condições. O visitante
+ 
+
+77
+00:01:38,200 --> 00:01:40,790
+a validade e as condições. O visitante
+clica em pegar cupom e o código aparece
+
+78
+00:01:40,790 --> 00:01:40,800
+clica em pegar cupom e o código aparece
+ 
+
+79
+00:01:40,800 --> 00:01:43,790
+clica em pegar cupom e o código aparece
+na hora, com o botão copiar. Depois é só
+
+80
+00:01:43,790 --> 00:01:43,800
+na hora, com o botão copiar. Depois é só
+ 
+
+81
+00:01:43,800 --> 00:01:45,710
+na hora, com o botão copiar. Depois é só
+apresentar na sua empresa para ganhar o
+
+82
+00:01:45,710 --> 00:01:45,720
+apresentar na sua empresa para ganhar o
+ 
+
+83
+00:01:45,720 --> 00:01:48,190
+apresentar na sua empresa para ganhar o
+desconto. Para mudar a oferta, volte em
+
+84
+00:01:48,190 --> 00:01:48,200
+desconto. Para mudar a oferta, volte em
+ 
+
+85
+00:01:48,200 --> 00:01:50,670
+desconto. Para mudar a oferta, volte em
+cupons, altere o que quiser e salve de
+
+86
+00:01:50,670 --> 00:01:50,680
+cupons, altere o que quiser e salve de
+ 
+
+87
+00:01:50,680 --> 00:01:53,350
+cupons, altere o que quiser e salve de
+novo. Pronto. Agora é só divulgar e
+
+88
+00:01:53,350 --> 00:01:53,360
+novo. Pronto. Agora é só divulgar e
+ 
+
+89
+00:01:53,360 --> 00:01:56,680
+novo. Pronto. Agora é só divulgar e
+receber mais clientes.
+

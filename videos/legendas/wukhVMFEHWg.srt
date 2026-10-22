@@ -1,0 +1,1775 @@
+1
+00:00:00,120 --> 00:00:02,470
+ 
+Em listar empresas, você acompanha todas
+
+2
+00:00:02,470 --> 00:00:02,480
+Em listar empresas, você acompanha todas
+ 
+
+3
+00:00:02,480 --> 00:00:04,390
+Em listar empresas, você acompanha todas
+as empresas do guia comercial do seu
+
+4
+00:00:04,390 --> 00:00:04,400
+as empresas do guia comercial do seu
+ 
+
+5
+00:00:04,400 --> 00:00:06,829
+as empresas do guia comercial do seu
+portal e pode ajustar qualquer detalhe
+
+6
+00:00:06,829 --> 00:00:06,839
+portal e pode ajustar qualquer detalhe
+ 
+
+7
+00:00:06,839 --> 00:00:09,750
+portal e pode ajustar qualquer detalhe
+da página de cada uma. No painel, abra
+
+8
+00:00:09,750 --> 00:00:09,760
+da página de cada uma. No painel, abra
+ 
+
+9
+00:00:09,760 --> 00:00:11,990
+da página de cada uma. No painel, abra
+guia comercial e clique em listar
+
+10
+00:00:11,990 --> 00:00:12,000
+guia comercial e clique em listar
+ 
+
+11
+00:00:12,000 --> 00:00:15,030
+guia comercial e clique em listar
+empresas. Antes de tudo, um ponto muito
+
+12
+00:00:15,030 --> 00:00:15,040
+empresas. Antes de tudo, um ponto muito
+ 
+
+13
+00:00:15,040 --> 00:00:17,590
+empresas. Antes de tudo, um ponto muito
+importante, você não precisa cadastrar
+
+14
+00:00:17,590 --> 00:00:17,600
+importante, você não precisa cadastrar
+ 
+
+15
+00:00:17,600 --> 00:00:20,070
+importante, você não precisa cadastrar
+as empresas por aqui. A própria empresa
+
+16
+00:00:20,070 --> 00:00:20,080
+as empresas por aqui. A própria empresa
+ 
+
+17
+00:00:20,080 --> 00:00:22,150
+as empresas por aqui. A própria empresa
+cria a conta no portal e monta o perfil
+
+18
+00:00:22,150 --> 00:00:22,160
+cria a conta no portal e monta o perfil
+ 
+
+19
+00:00:22,160 --> 00:00:24,710
+cria a conta no portal e monta o perfil
+dela pela área do cliente. É lá que o
+
+20
+00:00:24,710 --> 00:00:24,720
+dela pela área do cliente. É lá que o
+ 
+
+21
+00:00:24,720 --> 00:00:26,790
+dela pela área do cliente. É lá que o
+logista preenche a ficha, escolhe o
+
+22
+00:00:26,790 --> 00:00:26,800
+logista preenche a ficha, escolhe o
+ 
+
+23
+00:00:26,800 --> 00:00:29,870
+logista preenche a ficha, escolhe o
+plano, adiciona fotos, cardápio, cupom e
+
+24
+00:00:29,870 --> 00:00:29,880
+plano, adiciona fotos, cardápio, cupom e
+ 
+
+25
+00:00:29,880 --> 00:00:33,590
+plano, adiciona fotos, cardápio, cupom e
+tudo mais. Você só acompanha, aprova
+
+26
+00:00:33,590 --> 00:00:33,600
+tudo mais. Você só acompanha, aprova
+ 
+
+27
+00:00:33,600 --> 00:00:36,069
+tudo mais. Você só acompanha, aprova
+quando precisar. O botão cadastrar
+
+28
+00:00:36,069 --> 00:00:36,079
+quando precisar. O botão cadastrar
+ 
+
+29
+00:00:36,079 --> 00:00:38,470
+quando precisar. O botão cadastrar
+empresa existe para casos especiais,
+
+30
+00:00:38,470 --> 00:00:38,480
+empresa existe para casos especiais,
+ 
+
+31
+00:00:38,480 --> 00:00:40,430
+empresa existe para casos especiais,
+como montar a página de um parceiro ou
+
+32
+00:00:40,430 --> 00:00:40,440
+como montar a página de um parceiro ou
+ 
+
+33
+00:00:40,440 --> 00:00:43,029
+como montar a página de um parceiro ou
+de um cliente que pediu ajuda. Ao lado
+
+34
+00:00:43,029 --> 00:00:43,039
+de um cliente que pediu ajuda. Ao lado
+ 
+
+35
+00:00:43,039 --> 00:00:45,950
+de um cliente que pediu ajuda. Ao lado
+está importar do Google Maps. Ele serve
+
+36
+00:00:45,950 --> 00:00:45,960
+está importar do Google Maps. Ele serve
+ 
+
+37
+00:00:45,960 --> 00:00:47,830
+está importar do Google Maps. Ele serve
+para não deixar o portal vazio no
+
+38
+00:00:47,830 --> 00:00:47,840
+para não deixar o portal vazio no
+ 
+
+39
+00:00:47,840 --> 00:00:50,150
+para não deixar o portal vazio no
+começo. Você cadastra um grande volume
+
+40
+00:00:50,150 --> 00:00:50,160
+começo. Você cadastra um grande volume
+ 
+
+41
+00:00:50,160 --> 00:00:52,670
+começo. Você cadastra um grande volume
+de empresas de uma vez em massa. A
+
+42
+00:00:52,670 --> 00:00:52,680
+de empresas de uma vez em massa. A
+ 
+
+43
+00:00:52,680 --> 00:00:55,310
+de empresas de uma vez em massa. A
+planilha é gerada pela ferramenta GMAPS
+
+44
+00:00:55,310 --> 00:00:55,320
+planilha é gerada pela ferramenta GMAPS
+ 
+
+45
+00:00:55,320 --> 00:00:56,750
+planilha é gerada pela ferramenta GMAPS
+que você acessa no painel de
+
+46
+00:00:56,750 --> 00:00:56,760
+que você acessa no painel de
+ 
+
+47
+00:00:56,760 --> 00:00:58,869
+que você acessa no painel de
+treinamentos. Basta enviar o arquivo
+
+48
+00:00:58,869 --> 00:00:58,879
+treinamentos. Basta enviar o arquivo
+ 
+
+49
+00:00:58,879 --> 00:01:01,349
+treinamentos. Basta enviar o arquivo
+aqui, conferir a prévia na revisão e
+
+50
+00:01:01,349 --> 00:01:01,359
+aqui, conferir a prévia na revisão e
+ 
+
+51
+00:01:01,359 --> 00:01:04,229
+aqui, conferir a prévia na revisão e
+importar. Voltando à lista, você filtra
+
+52
+00:01:04,229 --> 00:01:04,239
+importar. Voltando à lista, você filtra
+ 
+
+53
+00:01:04,239 --> 00:01:06,990
+importar. Voltando à lista, você filtra
+por status, por categoria e busca pelo
+
+54
+00:01:06,990 --> 00:01:07,000
+por status, por categoria e busca pelo
+ 
+
+55
+00:01:07,000 --> 00:01:09,590
+por status, por categoria e busca pelo
+nome da empresa. Cada linha mostra a
+
+56
+00:01:09,590 --> 00:01:09,600
+nome da empresa. Cada linha mostra a
+ 
+
+57
+00:01:09,600 --> 00:01:12,510
+nome da empresa. Cada linha mostra a
+logo, o nome, a estrela de destaque, a
+
+58
+00:01:12,510 --> 00:01:12,520
+logo, o nome, a estrela de destaque, a
+ 
+
+59
+00:01:12,520 --> 00:01:15,749
+logo, o nome, a estrela de destaque, a
+categoria e a subcategoria, a cidade, o
+
+60
+00:01:15,749 --> 00:01:15,759
+categoria e a subcategoria, a cidade, o
+ 
+
+61
+00:01:15,759 --> 00:01:18,749
+categoria e a subcategoria, a cidade, o
+plano e o contato. O status você muda
+
+62
+00:01:18,749 --> 00:01:18,759
+plano e o contato. O status você muda
+ 
+
+63
+00:01:18,759 --> 00:01:21,630
+plano e o contato. O status você muda
+direto na lista, pendente, ativo,
+
+64
+00:01:21,630 --> 00:01:21,640
+direto na lista, pendente, ativo,
+ 
+
+65
+00:01:21,640 --> 00:01:24,910
+direto na lista, pendente, ativo,
+inativo, banido ou reprovado. Só as
+
+66
+00:01:24,910 --> 00:01:24,920
+inativo, banido ou reprovado. Só as
+ 
+
+67
+00:01:24,920 --> 00:01:27,550
+inativo, banido ou reprovado. Só as
+empresas ativas aparecem no site. Nos
+
+68
+00:01:27,550 --> 00:01:27,560
+empresas ativas aparecem no site. Nos
+ 
+
+69
+00:01:27,560 --> 00:01:30,030
+empresas ativas aparecem no site. Nos
+ícones da direita, você edita a empresa,
+
+70
+00:01:30,030 --> 00:01:30,040
+ícones da direita, você edita a empresa,
+ 
+
+71
+00:01:30,040 --> 00:01:32,910
+ícones da direita, você edita a empresa,
+abre a página dela no portal ou exclui.
+
+72
+00:01:32,910 --> 00:01:32,920
+abre a página dela no portal ou exclui.
+ 
+
+73
+00:01:32,920 --> 00:01:35,310
+abre a página dela no portal ou exclui.
+Agora vamos ao mais importante. Clique
+
+74
+00:01:35,310 --> 00:01:35,320
+Agora vamos ao mais importante. Clique
+ 
+
+75
+00:01:35,320 --> 00:01:37,950
+Agora vamos ao mais importante. Clique
+em editar. Vamos abrir a Churrascaria
+
+76
+00:01:37,950 --> 00:01:37,960
+em editar. Vamos abrir a Churrascaria
+ 
+
+77
+00:01:37,960 --> 00:01:40,550
+em editar. Vamos abrir a Churrascaria
+Gaúcha e ver cada campo. O primeiro
+
+78
+00:01:40,550 --> 00:01:40,560
+Gaúcha e ver cada campo. O primeiro
+ 
+
+79
+00:01:40,560 --> 00:01:43,270
+Gaúcha e ver cada campo. O primeiro
+bloco é dados da empresa. Se a empresa
+
+80
+00:01:43,270 --> 00:01:43,280
+bloco é dados da empresa. Se a empresa
+ 
+
+81
+00:01:43,280 --> 00:01:45,789
+bloco é dados da empresa. Se a empresa
+já está no Google, o botão pegar dados
+
+82
+00:01:45,789 --> 00:01:45,799
+já está no Google, o botão pegar dados
+ 
+
+83
+00:01:45,799 --> 00:01:47,950
+já está no Google, o botão pegar dados
+do Google Meu Negócio traz nome,
+
+84
+00:01:47,950 --> 00:01:47,960
+do Google Meu Negócio traz nome,
+ 
+
+85
+00:01:47,960 --> 00:01:50,749
+do Google Meu Negócio traz nome,
+endereço, telefone e horários. Você
+
+86
+00:01:50,749 --> 00:01:50,759
+endereço, telefone e horários. Você
+ 
+
+87
+00:01:50,759 --> 00:01:53,510
+endereço, telefone e horários. Você
+confere antes de salvar. Logo abaixo, o
+
+88
+00:01:53,510 --> 00:01:53,520
+confere antes de salvar. Logo abaixo, o
+ 
+
+89
+00:01:53,520 --> 00:01:55,670
+confere antes de salvar. Logo abaixo, o
+nome da empresa e a descrição, que é o
+
+90
+00:01:55,670 --> 00:01:55,680
+nome da empresa e a descrição, que é o
+ 
+
+91
+00:01:55,680 --> 00:01:58,270
+nome da empresa e a descrição, que é o
+texto sobre o estabelecimento na página.
+
+92
+00:01:58,270 --> 00:01:58,280
+texto sobre o estabelecimento na página.
+ 
+
+93
+00:01:58,280 --> 00:02:00,789
+texto sobre o estabelecimento na página.
+Em classificação, escolha a categoria e
+
+94
+00:02:00,789 --> 00:02:00,799
+Em classificação, escolha a categoria e
+ 
+
+95
+00:02:00,799 --> 00:02:03,510
+Em classificação, escolha a categoria e
+a subcategoria. Lembre que é a categoria
+
+96
+00:02:03,510 --> 00:02:03,520
+a subcategoria. Lembre que é a categoria
+ 
+
+97
+00:02:03,520 --> 00:02:05,670
+a subcategoria. Lembre que é a categoria
+que libera recursos como cardápio,
+
+98
+00:02:05,670 --> 00:02:05,680
+que libera recursos como cardápio,
+ 
+
+99
+00:02:05,680 --> 00:02:08,790
+que libera recursos como cardápio,
+delivery e quartos. Ao lado fica o campo
+
+100
+00:02:08,790 --> 00:02:08,800
+delivery e quartos. Ao lado fica o campo
+ 
+
+101
+00:02:08,800 --> 00:02:11,309
+delivery e quartos. Ao lado fica o campo
+plano. Ele define o que o site mostra
+
+102
+00:02:11,309 --> 00:02:11,319
+plano. Ele define o que o site mostra
+ 
+
+103
+00:02:11,319 --> 00:02:13,589
+plano. Ele define o que o site mostra
+desta empresa. Clique nele para ver as
+
+104
+00:02:13,589 --> 00:02:13,599
+desta empresa. Clique nele para ver as
+ 
+
+105
+00:02:13,599 --> 00:02:16,750
+desta empresa. Clique nele para ver as
+opções. A primeira é cortesia do portal
+
+106
+00:02:16,750 --> 00:02:16,760
+opções. A primeira é cortesia do portal
+ 
+
+107
+00:02:16,760 --> 00:02:19,670
+opções. A primeira é cortesia do portal
+com todos os itens. é o padrão. O site
+
+108
+00:02:19,670 --> 00:02:19,680
+com todos os itens. é o padrão. O site
+ 
+
+109
+00:02:19,680 --> 00:02:22,309
+com todos os itens. é o padrão. O site
+mostra tudo que você preencher de graça
+
+110
+00:02:22,309 --> 00:02:22,319
+mostra tudo que você preencher de graça
+ 
+
+111
+00:02:22,319 --> 00:02:25,150
+mostra tudo que você preencher de graça
+e não gera contratação nem fatura. As
+
+112
+00:02:25,150 --> 00:02:25,160
+e não gera contratação nem fatura. As
+ 
+
+113
+00:02:25,160 --> 00:02:27,710
+e não gera contratação nem fatura. As
+outras opções são os planos do guia, os
+
+114
+00:02:27,710 --> 00:02:27,720
+outras opções são os planos do guia, os
+ 
+
+115
+00:02:27,720 --> 00:02:30,030
+outras opções são os planos do guia, os
+mesmos de meus planos. Escolhendo um
+
+116
+00:02:30,030 --> 00:02:30,040
+mesmos de meus planos. Escolhendo um
+ 
+
+117
+00:02:30,040 --> 00:02:32,030
+mesmos de meus planos. Escolhendo um
+deles, a empresa passa a seguir esse
+
+118
+00:02:32,030 --> 00:02:32,040
+deles, a empresa passa a seguir esse
+ 
+
+119
+00:02:32,040 --> 00:02:34,190
+deles, a empresa passa a seguir esse
+plano e o site só mostra o que ele
+
+120
+00:02:34,190 --> 00:02:34,200
+plano e o site só mostra o que ele
+ 
+
+121
+00:02:34,200 --> 00:02:36,670
+plano e o site só mostra o que ele
+libera, como telefone, WhatsApp,
+
+122
+00:02:36,670 --> 00:02:36,680
+libera, como telefone, WhatsApp,
+ 
+
+123
+00:02:36,680 --> 00:02:39,470
+libera, como telefone, WhatsApp,
+galeria, cardápio e destaque. Se o plano
+
+124
+00:02:39,470 --> 00:02:39,480
+galeria, cardápio e destaque. Se o plano
+ 
+
+125
+00:02:39,480 --> 00:02:42,270
+galeria, cardápio e destaque. Se o plano
+for pago, a tela avisa antes de salvar.
+
+126
+00:02:42,270 --> 00:02:42,280
+for pago, a tela avisa antes de salvar.
+ 
+
+127
+00:02:42,280 --> 00:02:44,110
+for pago, a tela avisa antes de salvar.
+A contratação é registrada para o
+
+128
+00:02:44,110 --> 00:02:44,120
+A contratação é registrada para o
+ 
+
+129
+00:02:44,120 --> 00:02:46,869
+A contratação é registrada para o
+cliente desta empresa. Já começa ativa e
+
+130
+00:02:46,869 --> 00:02:46,879
+cliente desta empresa. Já começa ativa e
+ 
+
+131
+00:02:46,879 --> 00:02:49,070
+cliente desta empresa. Já começa ativa e
+a fatura fica em aberto no financeiro
+
+132
+00:02:49,070 --> 00:02:49,080
+a fatura fica em aberto no financeiro
+ 
+
+133
+00:02:49,080 --> 00:02:51,630
+a fatura fica em aberto no financeiro
+até você confirmar o pagamento. Se for o
+
+134
+00:02:51,630 --> 00:02:51,640
+até você confirmar o pagamento. Se for o
+ 
+
+135
+00:02:51,640 --> 00:02:54,030
+até você confirmar o pagamento. Se for o
+plano grátis, a empresa segue o plano
+
+136
+00:02:54,030 --> 00:02:54,040
+plano grátis, a empresa segue o plano
+ 
+
+137
+00:02:54,040 --> 00:02:56,670
+plano grátis, a empresa segue o plano
+sem gerar contratação. E se você trocar
+
+138
+00:02:56,670 --> 00:02:56,680
+sem gerar contratação. E se você trocar
+ 
+
+139
+00:02:56,680 --> 00:02:58,990
+sem gerar contratação. E se você trocar
+de plano depois, a contratação anterior
+
+140
+00:02:58,990 --> 00:02:59,000
+de plano depois, a contratação anterior
+ 
+
+141
+00:02:59,000 --> 00:03:00,949
+de plano depois, a contratação anterior
+e as faturas abertas dela são
+
+142
+00:03:00,949 --> 00:03:00,959
+e as faturas abertas dela são
+ 
+
+143
+00:03:00,959 --> 00:03:04,030
+e as faturas abertas dela são
+canceladas. Importante, aqui no painel
+
+144
+00:03:04,030 --> 00:03:04,040
+canceladas. Importante, aqui no painel
+ 
+
+145
+00:03:04,040 --> 00:03:06,270
+canceladas. Importante, aqui no painel
+você continua vendo e preenchendo todos
+
+146
+00:03:06,270 --> 00:03:06,280
+você continua vendo e preenchendo todos
+ 
+
+147
+00:03:06,280 --> 00:03:09,190
+você continua vendo e preenchendo todos
+os campos. Quem filtra é o site. Se a
+
+148
+00:03:09,190 --> 00:03:09,200
+os campos. Quem filtra é o site. Se a
+ 
+
+149
+00:03:09,200 --> 00:03:11,390
+os campos. Quem filtra é o site. Se a
+empresa subir de plano, o que já estava
+
+150
+00:03:11,390 --> 00:03:11,400
+empresa subir de plano, o que já estava
+ 
+
+151
+00:03:11,400 --> 00:03:13,710
+empresa subir de plano, o que já estava
+preenchido aparece sozinho. E quando
+
+152
+00:03:13,710 --> 00:03:13,720
+preenchido aparece sozinho. E quando
+ 
+
+153
+00:03:13,720 --> 00:03:15,710
+preenchido aparece sozinho. E quando
+você der acesso à área do cliente, o
+
+154
+00:03:15,710 --> 00:03:15,720
+você der acesso à área do cliente, o
+ 
+
+155
+00:03:15,720 --> 00:03:17,589
+você der acesso à área do cliente, o
+logista já entra no plano que você
+
+156
+00:03:17,589 --> 00:03:17,599
+logista já entra no plano que você
+ 
+
+157
+00:03:17,599 --> 00:03:20,670
+logista já entra no plano que você
+escolheu aqui. Logo abaixo, o status e a
+
+158
+00:03:20,670 --> 00:03:20,680
+escolheu aqui. Logo abaixo, o status e a
+ 
+
+159
+00:03:20,680 --> 00:03:23,149
+escolheu aqui. Logo abaixo, o status e a
+opção empresa em destaque, que coloca a
+
+160
+00:03:23,149 --> 00:03:23,159
+opção empresa em destaque, que coloca a
+ 
+
+161
+00:03:23,159 --> 00:03:25,110
+opção empresa em destaque, que coloca a
+estrela e dá mais visibilidade na
+
+162
+00:03:25,110 --> 00:03:25,120
+estrela e dá mais visibilidade na
+ 
+
+163
+00:03:25,120 --> 00:03:28,229
+estrela e dá mais visibilidade na
+listagem. Em localização, digite o CP e
+
+164
+00:03:28,229 --> 00:03:28,239
+listagem. Em localização, digite o CP e
+ 
+
+165
+00:03:28,239 --> 00:03:30,670
+listagem. Em localização, digite o CP e
+o endereço é preenchido sozinho. Escolha
+
+166
+00:03:30,670 --> 00:03:30,680
+o endereço é preenchido sozinho. Escolha
+ 
+
+167
+00:03:30,680 --> 00:03:33,190
+o endereço é preenchido sozinho. Escolha
+a cidade e o bairro da lista. O ponto no
+
+168
+00:03:33,190 --> 00:03:33,200
+a cidade e o bairro da lista. O ponto no
+ 
+
+169
+00:03:33,200 --> 00:03:35,949
+a cidade e o bairro da lista. O ponto no
+mapa é encontrado automaticamente. Em
+
+170
+00:03:35,949 --> 00:03:35,959
+mapa é encontrado automaticamente. Em
+ 
+
+171
+00:03:35,959 --> 00:03:38,789
+mapa é encontrado automaticamente. Em
+contato, informe telefone, WhatsApp,
+
+172
+00:03:38,789 --> 00:03:38,799
+contato, informe telefone, WhatsApp,
+ 
+
+173
+00:03:38,799 --> 00:03:41,910
+contato, informe telefone, WhatsApp,
+Instagram, Facebook, e-mail e site. O
+
+174
+00:03:41,910 --> 00:03:41,920
+Instagram, Facebook, e-mail e site. O
+ 
+
+175
+00:03:41,920 --> 00:03:43,990
+Instagram, Facebook, e-mail e site. O
+WhatsApp já mostra o link que o botão
+
+176
+00:03:43,990 --> 00:03:44,000
+WhatsApp já mostra o link que o botão
+ 
+
+177
+00:03:44,000 --> 00:03:46,789
+WhatsApp já mostra o link que o botão
+vai abrir. E repare, o e-mail é de uso
+
+178
+00:03:46,789 --> 00:03:46,799
+vai abrir. E repare, o e-mail é de uso
+ 
+
+179
+00:03:46,799 --> 00:03:49,670
+vai abrir. E repare, o e-mail é de uso
+interno do portal e não aparece no site.
+
+180
+00:03:49,670 --> 00:03:49,680
+interno do portal e não aparece no site.
+ 
+
+181
+00:03:49,680 --> 00:03:52,190
+interno do portal e não aparece no site.
+Em logo e capa, você envia a logo e a
+
+182
+00:03:52,190 --> 00:03:52,200
+Em logo e capa, você envia a logo e a
+ 
+
+183
+00:03:52,200 --> 00:03:54,270
+Em logo e capa, você envia a logo e a
+foto de capa que aparece no topo da
+
+184
+00:03:54,270 --> 00:03:54,280
+foto de capa que aparece no topo da
+ 
+
+185
+00:03:54,280 --> 00:03:56,750
+foto de capa que aparece no topo da
+página em formato de banner largo. Em
+
+186
+00:03:56,750 --> 00:03:56,760
+página em formato de banner largo. Em
+ 
+
+187
+00:03:56,760 --> 00:03:58,830
+página em formato de banner largo. Em
+cardápio, você pode colocar o link de um
+
+188
+00:03:58,830 --> 00:03:58,840
+cardápio, você pode colocar o link de um
+ 
+
+189
+00:03:58,840 --> 00:04:01,110
+cardápio, você pode colocar o link de um
+cardápio externo, como iFood ou um
+
+190
+00:04:01,110 --> 00:04:01,120
+cardápio externo, como iFood ou um
+ 
+
+191
+00:04:01,120 --> 00:04:04,309
+cardápio externo, como iFood ou um
+arquivo PDF. Mas atenção à prioridade.
+
+192
+00:04:04,309 --> 00:04:04,319
+arquivo PDF. Mas atenção à prioridade.
+ 
+
+193
+00:04:04,319 --> 00:04:06,229
+arquivo PDF. Mas atenção à prioridade.
+Se a empresa cadastrar os pratos pelo
+
+194
+00:04:06,229 --> 00:04:06,239
+Se a empresa cadastrar os pratos pelo
+ 
+
+195
+00:04:06,239 --> 00:04:08,670
+Se a empresa cadastrar os pratos pelo
+botão gerenciar cardápio, o cardápio
+
+196
+00:04:08,670 --> 00:04:08,680
+botão gerenciar cardápio, o cardápio
+ 
+
+197
+00:04:08,680 --> 00:04:10,990
+botão gerenciar cardápio, o cardápio
+digital do portal é o que aparece e o
+
+198
+00:04:10,990 --> 00:04:11,000
+digital do portal é o que aparece e o
+ 
+
+199
+00:04:11,000 --> 00:04:14,149
+digital do portal é o que aparece e o
+link e o PDF são ignorados. Em reserva e
+
+200
+00:04:14,149 --> 00:04:14,159
+link e o PDF são ignorados. Em reserva e
+ 
+
+201
+00:04:14,159 --> 00:04:16,909
+link e o PDF são ignorados. Em reserva e
+delivery, marque aceita reservas de mesa
+
+202
+00:04:16,909 --> 00:04:16,919
+delivery, marque aceita reservas de mesa
+ 
+
+203
+00:04:16,919 --> 00:04:19,590
+delivery, marque aceita reservas de mesa
+e informe o link. Assim aparece o botão
+
+204
+00:04:19,590 --> 00:04:19,600
+e informe o link. Assim aparece o botão
+ 
+
+205
+00:04:19,600 --> 00:04:22,069
+e informe o link. Assim aparece o botão
+reservar mesa na página. O delivery do
+
+206
+00:04:22,069 --> 00:04:22,079
+reservar mesa na página. O delivery do
+ 
+
+207
+00:04:22,079 --> 00:04:24,110
+reservar mesa na página. O delivery do
+portal se liga nas configurações do
+
+208
+00:04:24,110 --> 00:04:24,120
+portal se liga nas configurações do
+ 
+
+209
+00:04:24,120 --> 00:04:26,350
+portal se liga nas configurações do
+delivery. E se a empresa vende por outro
+
+210
+00:04:26,350 --> 00:04:26,360
+delivery. E se a empresa vende por outro
+ 
+
+211
+00:04:26,360 --> 00:04:28,790
+delivery. E se a empresa vende por outro
+lugar, marque tem o delivery em outro
+
+212
+00:04:28,790 --> 00:04:28,800
+lugar, marque tem o delivery em outro
+ 
+
+213
+00:04:28,800 --> 00:04:31,790
+lugar, marque tem o delivery em outro
+lugar. Cada opção marcada vira um botão.
+
+214
+00:04:31,790 --> 00:04:31,800
+lugar. Cada opção marcada vira um botão.
+ 
+
+215
+00:04:31,800 --> 00:04:34,230
+lugar. Cada opção marcada vira um botão.
+Em cupom de desconto é o mesmo cupom do
+
+216
+00:04:34,230 --> 00:04:34,240
+Em cupom de desconto é o mesmo cupom do
+ 
+
+217
+00:04:34,240 --> 00:04:36,950
+Em cupom de desconto é o mesmo cupom do
+menu cupons. Foto do card, segunda
+
+218
+00:04:36,950 --> 00:04:36,960
+menu cupons. Foto do card, segunda
+ 
+
+219
+00:04:36,960 --> 00:04:39,469
+menu cupons. Foto do card, segunda
+linha, condições de uso, código,
+
+220
+00:04:39,469 --> 00:04:39,479
+linha, condições de uso, código,
+ 
+
+221
+00:04:39,479 --> 00:04:42,629
+linha, condições de uso, código,
+descrição, tipo, valor e validade, com
+
+222
+00:04:42,629 --> 00:04:42,639
+descrição, tipo, valor e validade, com
+ 
+
+223
+00:04:42,639 --> 00:04:44,830
+descrição, tipo, valor e validade, com
+uma prévia de como fica. Em botões de
+
+224
+00:04:44,830 --> 00:04:44,840
+uma prévia de como fica. Em botões de
+ 
+
+225
+00:04:44,840 --> 00:04:47,350
+uma prévia de como fica. Em botões de
+ação, informe um link para agendamento e
+
+226
+00:04:47,350 --> 00:04:47,360
+ação, informe um link para agendamento e
+ 
+
+227
+00:04:47,360 --> 00:04:49,830
+ação, informe um link para agendamento e
+um para solicitar orçamento. Eles viram
+
+228
+00:04:49,830 --> 00:04:49,840
+um para solicitar orçamento. Eles viram
+ 
+
+229
+00:04:49,840 --> 00:04:52,029
+um para solicitar orçamento. Eles viram
+os botões agendar horário e pedir
+
+230
+00:04:52,029 --> 00:04:52,039
+os botões agendar horário e pedir
+ 
+
+231
+00:04:52,039 --> 00:04:54,670
+os botões agendar horário e pedir
+orçamento na ficha. Em comodidades e
+
+232
+00:04:54,670 --> 00:04:54,680
+orçamento na ficha. Em comodidades e
+ 
+
+233
+00:04:54,680 --> 00:04:56,390
+orçamento na ficha. Em comodidades e
+pagamento, adicione o que a empresa
+
+234
+00:04:56,390 --> 00:04:56,400
+pagamento, adicione o que a empresa
+ 
+
+235
+00:04:56,400 --> 00:04:59,189
+pagamento, adicione o que a empresa
+oferece, como Wi-Fi, ar- condicionado e
+
+236
+00:04:59,189 --> 00:04:59,199
+oferece, como Wi-Fi, ar- condicionado e
+ 
+
+237
+00:04:59,199 --> 00:05:01,350
+oferece, como Wi-Fi, ar- condicionado e
+estacionamento, e as formas de pagamento
+
+238
+00:05:01,350 --> 00:05:01,360
+estacionamento, e as formas de pagamento
+ 
+
+239
+00:05:01,360 --> 00:05:03,790
+estacionamento, e as formas de pagamento
+aceitas. As sugestões prontas para um
+
+240
+00:05:03,790 --> 00:05:03,800
+aceitas. As sugestões prontas para um
+ 
+
+241
+00:05:03,800 --> 00:05:06,070
+aceitas. As sugestões prontas para um
+clique. Em horários de funcionamento,
+
+242
+00:05:06,070 --> 00:05:06,080
+clique. Em horários de funcionamento,
+ 
+
+243
+00:05:06,080 --> 00:05:09,230
+clique. Em horários de funcionamento,
+marque fechado 24 horas ou escolha o
+
+244
+00:05:09,230 --> 00:05:09,240
+marque fechado 24 horas ou escolha o
+ 
+
+245
+00:05:09,240 --> 00:05:11,830
+marque fechado 24 horas ou escolha o
+horário de cada dia. O botão copiar para
+
+246
+00:05:11,830 --> 00:05:11,840
+horário de cada dia. O botão copiar para
+ 
+
+247
+00:05:11,840 --> 00:05:14,390
+horário de cada dia. O botão copiar para
+os outros dias poupa tempo. Em galeria
+
+248
+00:05:14,390 --> 00:05:14,400
+os outros dias poupa tempo. Em galeria
+ 
+
+249
+00:05:14,400 --> 00:05:17,070
+os outros dias poupa tempo. Em galeria
+de fotos, adicione fotos ou vídeos do
+
+250
+00:05:17,070 --> 00:05:17,080
+de fotos, adicione fotos ou vídeos do
+ 
+
+251
+00:05:17,080 --> 00:05:19,469
+de fotos, adicione fotos ou vídeos do
+YouTube. Cada item é uma foto ou um
+
+252
+00:05:19,469 --> 00:05:19,479
+YouTube. Cada item é uma foto ou um
+ 
+
+253
+00:05:19,479 --> 00:05:22,270
+YouTube. Cada item é uma foto ou um
+vídeo. Em acesso à área do cliente, você
+
+254
+00:05:22,270 --> 00:05:22,280
+vídeo. Em acesso à área do cliente, você
+ 
+
+255
+00:05:22,280 --> 00:05:24,309
+vídeo. Em acesso à área do cliente, você
+vê se o proprietário já tem acesso ao
+
+256
+00:05:24,309 --> 00:05:24,319
+vê se o proprietário já tem acesso ao
+ 
+
+257
+00:05:24,319 --> 00:05:26,590
+vê se o proprietário já tem acesso ao
+painel dele com o e-mail de login. Por
+
+258
+00:05:26,590 --> 00:05:26,600
+painel dele com o e-mail de login. Por
+ 
+
+259
+00:05:26,600 --> 00:05:29,110
+painel dele com o e-mail de login. Por
+segurança, a senha não fica guardada.
+
+260
+00:05:29,110 --> 00:05:29,120
+segurança, a senha não fica guardada.
+ 
+
+261
+00:05:29,120 --> 00:05:31,629
+segurança, a senha não fica guardada.
+Use redefinir senha para criar outra e
+
+262
+00:05:31,629 --> 00:05:31,639
+Use redefinir senha para criar outra e
+ 
+
+263
+00:05:31,639 --> 00:05:34,590
+Use redefinir senha para criar outra e
+enviar ao dono e remover acesso tira o
+
+264
+00:05:34,590 --> 00:05:34,600
+enviar ao dono e remover acesso tira o
+ 
+
+265
+00:05:34,600 --> 00:05:37,790
+enviar ao dono e remover acesso tira o
+login dele. Em SEO, você define o título
+
+266
+00:05:37,790 --> 00:05:37,800
+login dele. Em SEO, você define o título
+ 
+
+267
+00:05:37,800 --> 00:05:40,110
+login dele. Em SEO, você define o título
+e a descrição que aparecem no Google. Se
+
+268
+00:05:40,110 --> 00:05:40,120
+e a descrição que aparecem no Google. Se
+ 
+
+269
+00:05:40,120 --> 00:05:42,390
+e a descrição que aparecem no Google. Se
+deixar em branco, o sistema usa o nome e
+
+270
+00:05:42,390 --> 00:05:42,400
+deixar em branco, o sistema usa o nome e
+ 
+
+271
+00:05:42,400 --> 00:05:44,629
+deixar em branco, o sistema usa o nome e
+a descrição da empresa. Por fim,
+
+272
+00:05:44,629 --> 00:05:44,639
+a descrição da empresa. Por fim,
+ 
+
+273
+00:05:44,639 --> 00:05:47,309
+a descrição da empresa. Por fim,
+conteúdo da ficha. Aqui ficam os atalhos
+
+274
+00:05:47,309 --> 00:05:47,319
+conteúdo da ficha. Aqui ficam os atalhos
+ 
+
+275
+00:05:47,319 --> 00:05:49,749
+conteúdo da ficha. Aqui ficam os atalhos
+para gerenciar o cardápio, os serviços,
+
+276
+00:05:49,749 --> 00:05:49,759
+para gerenciar o cardápio, os serviços,
+ 
+
+277
+00:05:49,759 --> 00:05:52,270
+para gerenciar o cardápio, os serviços,
+a equipe, o catálogo de produtos, o
+
+278
+00:05:52,270 --> 00:05:52,280
+a equipe, o catálogo de produtos, o
+ 
+
+279
+00:05:52,280 --> 00:05:54,670
+a equipe, o catálogo de produtos, o
+cardápio do delivery, a fila de pedidos
+
+280
+00:05:54,670 --> 00:05:54,680
+cardápio do delivery, a fila de pedidos
+ 
+
+281
+00:05:54,680 --> 00:05:57,110
+cardápio do delivery, a fila de pedidos
+e as configurações do delivery. Vamos
+
+282
+00:05:57,110 --> 00:05:57,120
+e as configurações do delivery. Vamos
+ 
+
+283
+00:05:57,120 --> 00:05:59,950
+e as configurações do delivery. Vamos
+abrir o gerenciar cardápio. Em botões do
+
+284
+00:05:59,950 --> 00:05:59,960
+abrir o gerenciar cardápio. Em botões do
+ 
+
+285
+00:05:59,960 --> 00:06:02,670
+abrir o gerenciar cardápio. Em botões do
+cardápio, você liga fazer meu pedido e
+
+286
+00:06:02,670 --> 00:06:02,680
+cardápio, você liga fazer meu pedido e
+ 
+
+287
+00:06:02,680 --> 00:06:05,070
+cardápio, você liga fazer meu pedido e
+chamar no WhatsApp. Desligando os dois,
+
+288
+00:06:05,070 --> 00:06:05,080
+chamar no WhatsApp. Desligando os dois,
+ 
+
+289
+00:06:05,080 --> 00:06:07,629
+chamar no WhatsApp. Desligando os dois,
+o cardápio fica só para consulta, ideal
+
+290
+00:06:07,629 --> 00:06:07,639
+o cardápio fica só para consulta, ideal
+ 
+
+291
+00:06:07,639 --> 00:06:10,029
+o cardápio fica só para consulta, ideal
+para usar nas mesas. Em aparência,
+
+292
+00:06:10,029 --> 00:06:10,039
+para usar nas mesas. Em aparência,
+ 
+
+293
+00:06:10,039 --> 00:06:12,790
+para usar nas mesas. Em aparência,
+escolha o tema claro ou escuro. E o QR
+
+294
+00:06:12,790 --> 00:06:12,800
+escolha o tema claro ou escuro. E o QR
+ 
+
+295
+00:06:12,800 --> 00:06:14,909
+escolha o tema claro ou escuro. E o QR
+code do cardápio é gerado pronto para
+
+296
+00:06:14,909 --> 00:06:14,919
+code do cardápio é gerado pronto para
+ 
+
+297
+00:06:14,919 --> 00:06:18,670
+code do cardápio é gerado pronto para
+imprimir nos tamanhos A4, A5, A6 ou
+
+298
+00:06:18,670 --> 00:06:18,680
+imprimir nos tamanhos A4, A5, A6 ou
+ 
+
+299
+00:06:18,680 --> 00:06:21,150
+imprimir nos tamanhos A4, A5, A6 ou
+adesivo. Mais abaixo, as sessões do
+
+300
+00:06:21,150 --> 00:06:21,160
+adesivo. Mais abaixo, as sessões do
+ 
+
+301
+00:06:21,160 --> 00:06:23,870
+adesivo. Mais abaixo, as sessões do
+cardápio, cada uma com seus pratos. Você
+
+302
+00:06:23,870 --> 00:06:23,880
+cardápio, cada uma com seus pratos. Você
+ 
+
+303
+00:06:23,880 --> 00:06:26,870
+cardápio, cada uma com seus pratos. Você
+publica, reordena com as setas, edita ou
+
+304
+00:06:26,870 --> 00:06:26,880
+publica, reordena com as setas, edita ou
+ 
+
+305
+00:06:26,880 --> 00:06:29,469
+publica, reordena com as setas, edita ou
+exclui. Ao editar um prato, você troca a
+
+306
+00:06:29,469 --> 00:06:29,479
+exclui. Ao editar um prato, você troca a
+ 
+
+307
+00:06:29,479 --> 00:06:32,629
+exclui. Ao editar um prato, você troca a
+foto, o nome, a descrição, o preço e o
+
+308
+00:06:32,629 --> 00:06:32,639
+foto, o nome, a descrição, o preço e o
+ 
+
+309
+00:06:32,639 --> 00:06:35,390
+foto, o nome, a descrição, o preço e o
+preço promocional e marca as tags: Mais
+
+310
+00:06:35,390 --> 00:06:35,400
+preço promocional e marca as tags: Mais
+ 
+
+311
+00:06:35,400 --> 00:06:38,990
+preço promocional e marca as tags: Mais
+pedido, novidade, veg e recomendado.
+
+312
+00:06:38,990 --> 00:06:39,000
+pedido, novidade, veg e recomendado.
+ 
+
+313
+00:06:39,000 --> 00:06:41,589
+pedido, novidade, veg e recomendado.
+Serviços, equipe e catálogo seguem a
+
+314
+00:06:41,589 --> 00:06:41,599
+Serviços, equipe e catálogo seguem a
+ 
+
+315
+00:06:41,599 --> 00:06:43,830
+Serviços, equipe e catálogo seguem a
+mesma ideia. Você cria sessões e
+
+316
+00:06:43,830 --> 00:06:43,840
+mesma ideia. Você cria sessões e
+ 
+
+317
+00:06:43,840 --> 00:06:46,510
+mesma ideia. Você cria sessões e
+adiciona os itens com foto, descrição e
+
+318
+00:06:46,510 --> 00:06:46,520
+adiciona os itens com foto, descrição e
+ 
+
+319
+00:06:46,520 --> 00:06:48,990
+adiciona os itens com foto, descrição e
+preço. No cardápio de delivery ficam os
+
+320
+00:06:48,990 --> 00:06:49,000
+preço. No cardápio de delivery ficam os
+ 
+
+321
+00:06:49,000 --> 00:06:51,110
+preço. No cardápio de delivery ficam os
+produtos vendidos pela loja do portal
+
+322
+00:06:51,110 --> 00:06:51,120
+produtos vendidos pela loja do portal
+ 
+
+323
+00:06:51,120 --> 00:06:53,589
+produtos vendidos pela loja do portal
+com grupos de opções como cobertura e
+
+324
+00:06:53,589 --> 00:06:53,599
+com grupos de opções como cobertura e
+ 
+
+325
+00:06:53,599 --> 00:06:55,710
+com grupos de opções como cobertura e
+complementos. Na fila de pedidos de
+
+326
+00:06:55,710 --> 00:06:55,720
+complementos. Na fila de pedidos de
+ 
+
+327
+00:06:55,720 --> 00:06:58,309
+complementos. Na fila de pedidos de
+delivery aparecem os pedidos com código,
+
+328
+00:06:58,309 --> 00:06:58,319
+delivery aparecem os pedidos com código,
+ 
+
+329
+00:06:58,319 --> 00:07:01,589
+delivery aparecem os pedidos com código,
+cliente, valor e situação. Recebido, em
+
+330
+00:07:01,589 --> 00:07:01,599
+cliente, valor e situação. Recebido, em
+ 
+
+331
+00:07:01,599 --> 00:07:04,469
+cliente, valor e situação. Recebido, em
+preparo, saiu para entrega, entregue ou
+
+332
+00:07:04,469 --> 00:07:04,479
+preparo, saiu para entrega, entregue ou
+ 
+
+333
+00:07:04,479 --> 00:07:06,830
+preparo, saiu para entrega, entregue ou
+cancelado. Dá até para ativar um som de
+
+334
+00:07:06,830 --> 00:07:06,840
+cancelado. Dá até para ativar um som de
+ 
+
+335
+00:07:06,840 --> 00:07:09,270
+cancelado. Dá até para ativar um som de
+aviso. E em configurações de delivery,
+
+336
+00:07:09,270 --> 00:07:09,280
+aviso. E em configurações de delivery,
+ 
+
+337
+00:07:09,280 --> 00:07:11,469
+aviso. E em configurações de delivery,
+você liga a loja, define a taxa de
+
+338
+00:07:11,469 --> 00:07:11,479
+você liga a loja, define a taxa de
+ 
+
+339
+00:07:11,479 --> 00:07:13,790
+você liga a loja, define a taxa de
+entrega, o pedido mínimo, o tempo de
+
+340
+00:07:13,790 --> 00:07:13,800
+entrega, o pedido mínimo, o tempo de
+ 
+
+341
+00:07:13,800 --> 00:07:16,510
+entrega, o pedido mínimo, o tempo de
+entrega, o raio, as formas de pagamento
+
+342
+00:07:16,510 --> 00:07:16,520
+entrega, o raio, as formas de pagamento
+ 
+
+343
+00:07:16,520 --> 00:07:19,189
+entrega, o raio, as formas de pagamento
+e as áreas atendidas. Terminou? Clique
+
+344
+00:07:19,189 --> 00:07:19,199
+e as áreas atendidas. Terminou? Clique
+ 
+
+345
+00:07:19,199 --> 00:07:21,950
+e as áreas atendidas. Terminou? Clique
+em salvar alterações no fim da página.
+
+346
+00:07:21,950 --> 00:07:21,960
+em salvar alterações no fim da página.
+ 
+
+347
+00:07:21,960 --> 00:07:24,430
+em salvar alterações no fim da página.
+Resumindo, deixe as empresas cuidarem do
+
+348
+00:07:24,430 --> 00:07:24,440
+Resumindo, deixe as empresas cuidarem do
+ 
+
+349
+00:07:24,440 --> 00:07:26,629
+Resumindo, deixe as empresas cuidarem do
+próprio perfil. Use a importação para
+
+350
+00:07:26,629 --> 00:07:26,639
+próprio perfil. Use a importação para
+ 
+
+351
+00:07:26,639 --> 00:07:29,150
+próprio perfil. Use a importação para
+encher o portal no começo e entre aqui
+
+352
+00:07:29,150 --> 00:07:29,160
+encher o portal no começo e entre aqui
+ 
+
+353
+00:07:29,160 --> 00:07:30,790
+encher o portal no começo e entre aqui
+sempre que precisar ajustar algum
+
+354
+00:07:30,790 --> 00:07:30,800
+sempre que precisar ajustar algum
+ 
+
+355
+00:07:30,800 --> 00:07:33,800
+sempre que precisar ajustar algum
+detalhe.
+

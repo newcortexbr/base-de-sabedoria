@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: configuracao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - 8M4kdEfP7Eg
@@ -20,7 +20,7 @@ videos:
 ---
 
 ## objetivo
-aqui você preenche o e-mail e o telefone que aparecem na página Fale Conosco.
+aqui você preenche o e-mail, o telefone, o título e o texto curto que aparecem na página Fale Conosco.
 
 ## pré-requisitos
 
@@ -31,10 +31,11 @@ aqui você preenche o e-mail e o telefone que aparecem na página Fale Conosco.
 1. No menu da esquerda, na parte `Sistema`, clique em `Configurações` e depois em `Configurações Gerais`. [guia=menu:/painel/configuracoes]
 2. No quadro `Página Fale Conosco`, preencha o `E-mail de contato`. [guia=configuracoes.email-contato]
 3. Preencha o `Telefone`. [guia=configuracoes.telefone-contato]
-4. Clique em `Salvar Fale Conosco`. [guia=configuracoes.salvar-contato]
+4. Preencha o `Título da página` e o `Texto da página` (um texto curto para o visitante).
+5. Clique em `Salvar Fale Conosco`. [guia=configuracoes.salvar-contato]
 
 ## resultado
-Os contatos ficam salvos.
+Os contatos, o título e o texto ficam salvos e aparecem na página Fale Conosco, junto com as redes sociais do portal.
 
 ## desvios
 

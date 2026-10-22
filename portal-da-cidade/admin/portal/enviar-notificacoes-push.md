@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - -ZLL7Cqwcok
@@ -46,6 +46,8 @@ o aviso chega a quem aceitou receber; o `Histórico` mostra quantos receberam e 
 
 - Se aparecer o aviso de que o envio não está disponível, o botão de enviar fica apagado e não funciona.
 - Notificação enviada não volta.
+- O envio vai para todos os inscritos do portal; não há escolha de público.
+- O envio entra em fila e é processado em instantes.
 
 ## quando pedir ajuda
 

@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: pagamento
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - lwaG-T87hJI
@@ -44,12 +44,12 @@ aqui você conecta a conta Asaas do portal, passo a passo. Conta conectada, cont
 12. Copie a chave assim que ela aparecer: o Asaas mostra a chave uma única vez. Se fechar sem copiar, gere outra. [guia=fora] [t=85]
 13. Volte à aba do painel e cole a chave no campo `Chave de API da sua conta Asaas`. [guia=cobranca.campo-chave] [t=96]
 14. Clique em `Conectar`. [guia=cobranca.conectar] [t=101]
-15. Aguarde a resposta: deu certo, aparece `✓ Conectada`; deu errado, aparece uma mensagem com o motivo (por exemplo, chave inválida ou revogada). [guia=cobranca.estado] [t=103]
+15. Aguarde a resposta: deu certo, aparece `✓ Conectada` e o portal configura sozinho o aviso automático de pagamento (webhook) na sua conta Asaas; deu errado, aparece uma mensagem com o motivo (por exemplo, chave inválida ou revogada). [guia=cobranca.estado] [t=103]
 16. Confira se a opção `Cobrar pelo Asaas` está ligada. [guia=cobranca.cobrar-pelo-asaas] [t=125]
 
 ## resultado
 
-O quadro mostra `✓ Conectada`. Com `Cobrar pelo Asaas` ligado, o cliente paga por link (Pix, boleto ou cartão) e a confirmação é automática. Desligado, o pagamento mostra a chave Pix do portal e você confirma no Financeiro (veja o artigo "receber por Pix direto na sua chave, sem o Asaas"). A opção `Cobrar pelo Asaas` indica se a cobrança automática está ligada. O Financeiro apresenta as faturas e as opções de cada uma.
+O quadro mostra `✓ Conectada`. A chave passa a aparecer escondida, só com o final; para trocar, clique nela. A tela mostra a data da conexão e o botão de testar a conexão. Com `Cobrar pelo Asaas` ligado, o cliente paga por link (Pix, boleto ou cartão) e a confirmação é automática. Desligado, o pagamento mostra a chave Pix do portal e você confirma no Financeiro (veja o artigo "receber por Pix direto na sua chave, sem o Asaas"). A opção `Cobrar pelo Asaas` liga ou desliga a cobrança automática a qualquer momento, sem apagar a chave. A empresa recebe uma página de pagamento do Asaas com valor e vencimento, e escolhe entre boleto, Pix, cartão de crédito ou débito. No Financeiro, a fatura mostra a cobrança enviada ao cliente, com o link para copiar, e muda para paga sozinha quando o cliente paga. O Financeiro apresenta as faturas e as opções de cada uma.
 
 ## desvios
 
@@ -57,7 +57,7 @@ O quadro mostra `✓ Conectada`. Com `Cobrar pelo Asaas` ligado, o cliente paga 
 - Conta aprovada é assunto do próprio Asaas: se o Asaas avisar que a conta está em análise ou pede documentos, isso é resolvido lá, não no portal.
 - Se aparecer o aviso de que a cobrança funciona mas a confirmação automática não, os pagamentos pelo link precisam ser confirmados à mão no Financeiro enquanto o aviso estiver lá.
 - Chave sumiu no Asaas: ela não pode ser recuperada; gere uma nova e repita a partir de gerar a chave de API.
-- Conexão não significa, por si só, que uma fatura foi enviada, paga ou confirmada; a via de cobrança pode variar por fatura.
+- Conexão não significa, por si só, que uma fatura foi enviada, paga ou confirmada; a via de cobrança pode variar por fatura. Uma fatura que já mostrou a chave Pix continua pelo Pix, mesmo se o Asaas for ligado depois.
 
 ## quando pedir ajuda
 

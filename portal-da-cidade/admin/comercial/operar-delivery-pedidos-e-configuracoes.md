@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - TgIUmqrRuBY
@@ -46,7 +46,7 @@ aqui você ajusta taxa, tempo, forma de pagamento e áreas de entrega do deliver
 
 ## resultado
 
-a loja mostra taxa, tempo e mensagem configurados.
+na loja, o cliente vê a taxa de entrega, o tempo mínimo e máximo de entrega, o aviso `Aberto agora` e a mensagem de boas-vindas, como você configurou.
 
 ## desvios
 

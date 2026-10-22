@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - -ZLL7Cqwcok
@@ -24,8 +24,8 @@ aqui você vê quantas pessoas aceitaram receber avisos, quantos avisos foram en
 ## passos
 
 1. No menu da esquerda, na parte `Sistema`, clique em `Notificações Push`. [guia=menu:/painel/notificacoes]
-2. No topo da página, veja quantas pessoas aceitaram receber avisos, quantos avisos já foram enviados no mês e quantas pessoas abriram. [guia=notificacoes.resumo]
-3. Mais abaixo, no quadro `Histórico`, veja o que já foi enviado e quantas pessoas abriram. [guia=notificacoes.historico]
+2. No topo da página, veja quantas pessoas aceitaram receber avisos, quantos avisos já foram enviados no mês e quantas pessoas abriram. Um indicador mostra a média de pessoas que abriram. [guia=notificacoes.resumo]
+3. Mais abaixo, no quadro `Histórico`, veja o que já foi enviado: o texto, o dia e a hora do envio, quantas pessoas receberam e quantas abriram. [guia=notificacoes.historico]
 
 ## resultado
 Você vê os números do topo e a lista do que já foi enviado.

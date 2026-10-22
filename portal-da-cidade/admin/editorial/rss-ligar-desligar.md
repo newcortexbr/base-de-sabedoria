@@ -8,7 +8,7 @@ categoria: conteúdo
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - r5rFCgAV0mg
@@ -28,6 +28,8 @@ aqui você liga ou desliga uma fonte na lista.
 
 ## resultado
 A fonte fica ligada ou desligada.
+
+O status também pode ser mudado no formulário de edição da fonte (o lápis), além da chavinha da lista.
 
 ## desvios
 

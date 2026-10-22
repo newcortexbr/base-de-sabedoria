@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-20
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - TgIUmqrRuBY
@@ -30,11 +30,12 @@ aqui você acompanha os pedidos que chegam no delivery de uma empresa, do recebi
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas]
 2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar]
 3. Desça até `Conteúdo da ficha` e, no cartão `Fila de pedidos`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-fila-de-pedidos] [t=14]
-4. Clique em `Ativar som` para ouvir um aviso quando chegar pedido novo. [guia=delivery-pedidos.ativar-som] [t=52]
-5. A lista se atualiza sozinha a cada 20 segundos. Para ver na hora, clique em `↻ Atualizar`. [guia=delivery-pedidos.atualizar] [t=59]
-6. Em cada pedido recebido, clique em `Iniciar preparo`. [guia=delivery-pedidos.acao-em_preparo] [t=37]
-7. Quando o entregador sair, clique em `Saiu para entrega`. [guia=delivery-pedidos.acao-saiu_para_entrega] [t=40]
-8. Na chegada, clique em `Marcar entregue`. [guia=delivery-pedidos.acao-entregue] [t=42]
+4. A lista mostra os pedidos do mais recente para o mais antigo. Cada pedido traz o código, o nome do cliente, a hora e o valor total. As abas filtram pela situação: recebido, em preparo, saiu para entrega, entregue e cancelado.
+5. Clique em `Ativar som` para ouvir um aviso quando chegar pedido novo. [guia=delivery-pedidos.ativar-som] [t=52]
+6. A lista se atualiza sozinha a cada 20 segundos. Para ver na hora, clique em `↻ Atualizar`. [guia=delivery-pedidos.atualizar] [t=59]
+7. Em cada pedido recebido, clique em `Iniciar preparo`. [guia=delivery-pedidos.acao-em_preparo] [t=37]
+8. Quando o entregador sair, clique em `Saiu para entrega`. [guia=delivery-pedidos.acao-saiu_para_entrega] [t=40]
+9. Na chegada, clique em `Marcar entregue`. [guia=delivery-pedidos.acao-entregue] [t=42]
 
 ## resultado
 
@@ -42,7 +43,8 @@ os pedidos andam de `Recebido` até `Entregue`.
 
 ## desvios
 
-- Pedidos entregues e cancelados ficam em `Finalizados / Cancelados`.
+- Pedidos entregues e cancelados ficam em `Finalizados / Cancelados`, guardados como histórico.
+- Do lado do cliente, a loja aparece com a taxa, o tempo, se está aberta, o cupom e os produtos por seção. O cliente escolhe os adicionais respeitando os limites de cada grupo, o carrinho mostra subtotal, taxa e total, e o pedido finalizado vai para esta fila.
 - A empresa também acompanha pela área do cliente, em Delivery.
 - Para ajustar taxa, tempo, pagamento e áreas de entrega, veja o artigo "configurar o delivery de uma empresa".
 

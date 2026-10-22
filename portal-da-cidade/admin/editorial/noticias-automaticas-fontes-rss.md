@@ -8,7 +8,7 @@ categoria: conteúdo
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - r5rFCgAV0mg
@@ -35,6 +35,11 @@ aqui você traz notícias de outros sites sozinho, por fontes de RSS. RSS é o e
 2. Para adicionar, clique no botão `+ Cadastrar RSS` no topo da lista. [guia=fontes-rss.cadastrar] [t=20]
 3. Na aba `Escolher da lista` (a que já vem aberta), marque os sites prontos que você quer (por exemplo, do Portal G1). [guia=fontes-rss-cadastrar.lista] [t=63]
 4. Clique em `Criar N fonte(s)`: o botão mostra quantas você marcou (por exemplo, `Criar 2 fontes`). [guia=fontes-rss-cadastrar.criar]
+
+## explicação
+- as categorias globais (Brasil, economia, política, tecnologia, carros) trazem notícias nacionais ou do mundo, iguais em qualquer cidade, e não filtram por região.
+- para notícias da região, use a seção de notícias regionais: escolha o estado, ou uma região dentro dele, e o sistema busca as notícias do G1 daquela região.
+- o portal busca novidades automaticamente às 7h e às 19h, todos os dias.
 
 ## resultado
 

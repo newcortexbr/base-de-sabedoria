@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - 1a0wZmdXDLk
@@ -25,7 +25,7 @@ aqui você abre um relato e lê tudo: texto, fotos, vídeo, áudio e contato do 
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `A Voz do Povo` e depois em `Denúncias`. A lista já abre com os relatos em aberto. [guia=menu:/painel/utilidade/denuncias]
 2. Clique em `Ver detalhes` na linha do relato. [guia=utilidade-denuncias.detalhes]
-3. Leia o relato completo e veja as fotos, o vídeo, o áudio e o contato do morador. [guia=utilidade-denuncias.detalhes]
+3. Leia o relato completo e veja o local, a data e a hora do ocorrido, as fotos, o vídeo, o áudio e o contato do morador. [guia=utilidade-denuncias.detalhes]
 4. Se quiser, mude a situação do relato nessa mesma tela. [guia=utilidade-denuncias.detalhes]
 
 ## resultado

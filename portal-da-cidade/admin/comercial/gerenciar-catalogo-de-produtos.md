@@ -8,10 +8,11 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - Z45xwGT8U38
+  - X2BpMhoYKiA
 ---
 
 ## objetivo
@@ -31,20 +32,22 @@ aqui você monta a vitrine de produtos, com foto e preço, de uma empresa do Gui
 3. Desça até `Conteúdo da ficha` e, no cartão `Catálogo de produtos`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-catalogo] [t=24]
 4. Escreva o nome da seção (por exemplo, Feminino). [guia=guia-empresas-catalogo.nome-secao] [t=85]
 5. Clique em `+ Adicionar seção`. [guia=guia-empresas-catalogo.adicionar-secao] [t=85]
-6. Clique na seção que você quer, na lista da esquerda. [guia=guia-empresas-catalogo.secao] [t=92]
+6. Clique na seção que você quer, na lista da esquerda. Cada seção tem a chave de publicar, as setas de ordem e o x para excluir. [guia=guia-empresas-catalogo.secao] [t=92]
 7. Clique em `Novo produto`. [guia=guia-empresas-catalogo.novo-produto] [t=92]
 8. Escreva o `Título *` do produto. [guia=guia-empresas-catalogo.titulo] [t=94]
 9. Escreva a `Marca`. [guia=guia-empresas-catalogo.marca] [t=96]
 10. Escreva a `Descrição`. [guia=guia-empresas-catalogo.descricao] [t=96]
 11. Informe o `Preço (R$)`. [guia=guia-empresas-catalogo.preco] [t=99]
 12. Se quiser, escolha um `Destaque no produto (opcional)`: `Mais vendido`, `Oferta`, `Novo` ou `Recente`. [guia=guia-empresas-catalogo.destaque] [t=101]
-13. Em `Specs (uma por linha)`, escreva uma especificação por linha (por exemplo, tamanhos, tecido, cores). [guia=guia-empresas-catalogo.specs] [t=105]
+13. Em `Specs (uma por linha)`, escreva uma especificação por linha (por exemplo, tamanhos, tecido e cores para roupas; ano, quilometragem e combustível para veículos). [guia=guia-empresas-catalogo.specs] [t=105]
 14. Clique em `+ Adicionar fotos` e escolha as imagens. Elas são enviadas ao salvar. [guia=galeria.adicionar-fotos] [t=114]
 15. Clique em `Salvar produto`. [guia=guia-empresas-catalogo.salvar] [t=122]
 
+na lista de produtos da seção você vê a marca, o título, o preço, quantas fotos tem, o selo de destaque e as especificações.
+
 ## resultado
 
-a página da empresa ganha o bloco de catálogo; o botão de interesse abre o WhatsApp da loja falando do produto.
+a página da empresa ganha o bloco de catálogo, com o número de categorias e de itens e o botão `ver catálogo completo`. O catálogo abre com abas por categoria, e cada produto aparece num card com foto, selo, marca, especificações, descrição e preço. O botão de interesse abre o WhatsApp da loja falando do produto. Ao lado da vitrine ficam o contato, o endereço e o horário da loja.
 
 ## desvios
 

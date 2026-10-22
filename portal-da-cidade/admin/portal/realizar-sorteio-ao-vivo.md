@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - uN4FHHHGgEs
@@ -34,10 +34,11 @@ aqui você sorteia o ganhador depois que as inscrições encerram. Depois chama 
 7. Se o ganhador não responder, clique em `Sortear outro no lugar`. [guia=sorteios-ao-vivo.entrega]
 
 ## resultado
-O ganhador sorteado aparece na tela e a situação da entrega fica registrada.
+O ganhador sorteado aparece na tela, com o número da sorte e o WhatsApp, e a situação da entrega fica registrada. O resultado vai ao portal sozinho: o sorteio passa a `sorteado` e o nome do ganhador aparece de forma parcial. Quando você troca um ganhador que não respondeu, a troca fica registrada e o portal mostra que ele foi substituído por esse motivo.
 
 ## desvios
 
+- Na lista, o botão `Ganhadores` (ou `Participantes`) também abre a tela de sortear ao vivo.
 - Para guardar o sorteio sem publicar, clique em `Salvar rascunho` no lugar de `Publicar`.
 - Depois que alguém se inscreve, não dá para mudar o início das inscrições, a quantidade de ganhadores nem a roleta.
 - Em `Participantes de Sorteios` você busca, filtra ganhadores e exporta em `CSV` ou `Excel`.

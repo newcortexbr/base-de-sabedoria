@@ -33,6 +33,10 @@ aqui você muda as duas cores do portal: a primária, de tudo que se clica, e a 
 4. Em `Cor de Destaque`, escolha a cor do mesmo jeito. [guia=fora]
 5. Clique em `Salvar cores`. [guia=configuracoes-layout.salvar]
 
+a cor primária vale para botões, links, paginação, campos de formulário e a área do cliente. A cor de destaque vale para o nome das seções, a barrinha do título, selos e etiquetas.
+
+em `Onde ela aparece`, você vê exemplos com a cor escolhida, e um aviso confirma se o texto fica legível. Na prévia, escolha a página que quer ver (início, guia, empresa, notícia, vagas, classificados ou telas de conta) e, em `Acender`, destaque só a primária ou só a de destaque para ver onde cada uma aparece.
+
 ## resultado
 aparece "✓ Salvo!" e o site passa a usar as cores novas.
 

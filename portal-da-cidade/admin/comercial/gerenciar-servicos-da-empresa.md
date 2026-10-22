@@ -8,10 +8,11 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - aE3QL3ErK0k
+  - FwKU_0GF6iU
 ---
 
 ## objetivo
@@ -43,11 +44,11 @@ aqui você monta a tabela de serviços e preços de uma empresa do Guia.
 
 ## resultado
 
-a página da empresa ganha o bloco de serviços, organizado por seções, com botão para agendar pelo WhatsApp.
+a página da empresa ganha o bloco de serviços oferecidos, organizado por seções, com o preço de cada serviço e botão para agendar pelo WhatsApp. o botão `ver tabela completa de serviços` abre uma página só com os serviços, ao lado de contato, endereço e horário de funcionamento.
 
 ## desvios
 
-- Cada seção e cada serviço tem a chave "no ar" para publicar ou esconder.
+- Cada seção e cada serviço tem a chave "no ar" para publicar ou esconder. a seção mostra também o contador de serviços publicados.
 - Setas mudam a ordem; `Renomear` e `Excluir seção` cuidam da seção.
 - A própria empresa também pode cuidar disso pela área do cliente; a tela é a mesma.
 

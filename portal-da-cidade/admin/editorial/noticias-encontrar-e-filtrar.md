@@ -9,7 +9,7 @@ categoria: conteúdo
 aba: Notícias
 tipo_problema: publicação
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - gAa2NdnitZU
@@ -27,7 +27,12 @@ O administrador usa o painel. O jornalista não usa o painel: entra pela área d
 2. Para achar uma notícia na lista, escreva no campo `Buscar por título...`. [guia=noticias.buscar]
 3. Para filtrar, use a caixa `Todos os status`. [guia=noticias.status]
 4. Para filtrar por data, use as duas datas de publicação (de e até). [guia=noticias.periodo]
-5. Confira a coluna `Status`: `Rascunho` (guardada, fora do ar), `Publicado` (no ar) ou `agendado` (vai entrar no ar na data marcada). [guia=noticias.status-linha]
+5. Para filtrar por assunto, escolha também a categoria e a subcategoria.
+6. Confira a coluna `Status`: `Rascunho` (guardada, fora do ar), `Publicado` (no ar) ou `agendado` (vai entrar no ar na data marcada). [guia=noticias.status-linha]
+
+## explicação
+- as colunas da lista são categoria, quem postou, data, status e visualizações.
+- o botão liga e desliga da lista publica a notícia ou a tira do ar direto.
 
 ## resultado
 A lista mostra só as notícias que combinam com a busca e o filtro que você escolheu.

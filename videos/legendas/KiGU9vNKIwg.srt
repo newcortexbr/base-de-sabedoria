@@ -1,0 +1,525 @@
+1
+00:00:00,000 --> 00:00:02,310
+ 
+Neste vídeo, você vai aprender, passo a
+
+2
+00:00:02,310 --> 00:00:02,320
+Neste vídeo, você vai aprender, passo a
+ 
+
+3
+00:00:02,320 --> 00:00:05,030
+Neste vídeo, você vai aprender, passo a
+passo, a receber e responder os pedidos
+
+4
+00:00:05,030 --> 00:00:05,040
+passo, a receber e responder os pedidos
+ 
+
+5
+00:00:05,040 --> 00:00:06,590
+passo, a receber e responder os pedidos
+de orçamento que chegam para a sua
+
+6
+00:00:06,590 --> 00:00:06,600
+de orçamento que chegam para a sua
+ 
+
+7
+00:00:06,600 --> 00:00:09,350
+de orçamento que chegam para a sua
+empresa pelo portal. Primeiro, entenda
+
+8
+00:00:09,350 --> 00:00:09,360
+empresa pelo portal. Primeiro, entenda
+ 
+
+9
+00:00:09,360 --> 00:00:11,350
+empresa pelo portal. Primeiro, entenda
+de onde vêm os pedidos.
+
+10
+00:00:11,350 --> 00:00:11,360
+de onde vêm os pedidos.
+ 
+
+11
+00:00:11,360 --> 00:00:13,190
+de onde vêm os pedidos.
+No portal, o visitante entra em
+
+12
+00:00:13,190 --> 00:00:13,200
+No portal, o visitante entra em
+ 
+
+13
+00:00:13,200 --> 00:00:15,550
+No portal, o visitante entra em
+orçamentos, conta o que precisa, por
+
+14
+00:00:15,550 --> 00:00:15,560
+orçamentos, conta o que precisa, por
+ 
+
+15
+00:00:15,560 --> 00:00:17,830
+orçamentos, conta o que precisa, por
+texto ou áudio, e escolhe o tipo de
+
+16
+00:00:17,830 --> 00:00:17,840
+texto ou áudio, e escolhe o tipo de
+ 
+
+17
+00:00:17,840 --> 00:00:20,830
+texto ou áudio, e escolhe o tipo de
+serviço. O portal confere o pedido antes
+
+18
+00:00:20,830 --> 00:00:20,840
+serviço. O portal confere o pedido antes
+ 
+
+19
+00:00:20,840 --> 00:00:21,790
+serviço. O portal confere o pedido antes
+de enviar.
+
+20
+00:00:21,790 --> 00:00:21,800
+de enviar.
+ 
+
+21
+00:00:21,800 --> 00:00:24,030
+de enviar.
+Depois de aprovado, ele chega para todas
+
+22
+00:00:24,030 --> 00:00:24,040
+Depois de aprovado, ele chega para todas
+ 
+
+23
+00:00:24,040 --> 00:00:26,030
+Depois de aprovado, ele chega para todas
+as empresas daquele serviço que tem o
+
+24
+00:00:26,030 --> 00:00:26,040
+as empresas daquele serviço que tem o
+ 
+
+25
+00:00:26,040 --> 00:00:28,590
+as empresas daquele serviço que tem o
+recurso receber orçamentos no plano do
+
+26
+00:00:28,590 --> 00:00:28,600
+recurso receber orçamentos no plano do
+ 
+
+27
+00:00:28,600 --> 00:00:29,990
+recurso receber orçamentos no plano do
+guia comercial.
+
+28
+00:00:29,990 --> 00:00:30,000
+guia comercial.
+ 
+
+29
+00:00:30,000 --> 00:00:31,990
+guia comercial.
+Na sua conta, clique em pedidos
+
+30
+00:00:31,990 --> 00:00:32,000
+Na sua conta, clique em pedidos
+ 
+
+31
+00:00:32,000 --> 00:00:34,510
+Na sua conta, clique em pedidos
+recebidos no menu da esquerda. A bolinha
+
+32
+00:00:34,510 --> 00:00:34,520
+recebidos no menu da esquerda. A bolinha
+ 
+
+33
+00:00:34,520 --> 00:00:36,670
+recebidos no menu da esquerda. A bolinha
+vermelha mostra quantos pedidos novos
+
+34
+00:00:36,670 --> 00:00:36,680
+vermelha mostra quantos pedidos novos
+ 
+
+35
+00:00:36,680 --> 00:00:39,270
+vermelha mostra quantos pedidos novos
+chegaram. No topo, a tela mostra para
+
+36
+00:00:39,270 --> 00:00:39,280
+chegaram. No topo, a tela mostra para
+ 
+
+37
+00:00:39,280 --> 00:00:41,830
+chegaram. No topo, a tela mostra para
+qual serviço os pedidos chegam. Aqui,
+
+38
+00:00:41,830 --> 00:00:41,840
+qual serviço os pedidos chegam. Aqui,
+ 
+
+39
+00:00:41,840 --> 00:00:44,790
+qual serviço os pedidos chegam. Aqui,
+eletricista. O botão atualizar busca
+
+40
+00:00:44,790 --> 00:00:44,800
+eletricista. O botão atualizar busca
+ 
+
+41
+00:00:44,800 --> 00:00:47,270
+eletricista. O botão atualizar busca
+pedidos novos na hora. Os quadros
+
+42
+00:00:47,270 --> 00:00:47,280
+pedidos novos na hora. Os quadros
+ 
+
+43
+00:00:47,280 --> 00:00:49,270
+pedidos novos na hora. Os quadros
+mostram quantos pedidos são novos para
+
+44
+00:00:49,270 --> 00:00:49,280
+mostram quantos pedidos são novos para
+ 
+
+45
+00:00:49,280 --> 00:00:52,110
+mostram quantos pedidos são novos para
+você, quantos você recebeu no total e
+
+46
+00:00:52,110 --> 00:00:52,120
+você, quantos você recebeu no total e
+ 
+
+47
+00:00:52,120 --> 00:00:54,030
+você, quantos você recebeu no total e
+quantos já foram vistos.
+
+48
+00:00:54,030 --> 00:00:54,040
+quantos já foram vistos.
+ 
+
+49
+00:00:54,040 --> 00:00:55,830
+quantos já foram vistos.
+Use a busca para encontrar um pedido
+
+50
+00:00:55,830 --> 00:00:55,840
+Use a busca para encontrar um pedido
+ 
+
+51
+00:00:55,840 --> 00:00:58,150
+Use a busca para encontrar um pedido
+pelo nome do cliente, pelo número ou
+
+52
+00:00:58,150 --> 00:00:58,160
+pelo nome do cliente, pelo número ou
+ 
+
+53
+00:00:58,160 --> 00:01:00,670
+pelo nome do cliente, pelo número ou
+pela cidade. E as abas filtram entre
+
+54
+00:01:00,670 --> 00:01:00,680
+pela cidade. E as abas filtram entre
+ 
+
+55
+00:01:00,680 --> 00:01:04,110
+pela cidade. E as abas filtram entre
+todos, novos e já vistos. Cada pedido
+
+56
+00:01:04,110 --> 00:01:04,120
+todos, novos e já vistos. Cada pedido
+ 
+
+57
+00:01:04,120 --> 00:01:06,870
+todos, novos e já vistos. Cada pedido
+aparece num cartão, com o título, o selo
+
+58
+00:01:06,870 --> 00:01:06,880
+aparece num cartão, com o título, o selo
+ 
+
+59
+00:01:06,880 --> 00:01:09,590
+aparece num cartão, com o título, o selo
+novo, o serviço, a descrição do que o
+
+60
+00:01:09,590 --> 00:01:09,600
+novo, o serviço, a descrição do que o
+ 
+
+61
+00:01:09,600 --> 00:01:12,470
+novo, o serviço, a descrição do que o
+cliente precisa, a cidade e o nome e o
+
+62
+00:01:12,470 --> 00:01:12,480
+cliente precisa, a cidade e o nome e o
+ 
+
+63
+00:01:12,480 --> 00:01:14,790
+cliente precisa, a cidade e o nome e o
+WhatsApp de quem pediu. Clique em ver
+
+64
+00:01:14,790 --> 00:01:14,800
+WhatsApp de quem pediu. Clique em ver
+ 
+
+65
+00:01:14,800 --> 00:01:17,030
+WhatsApp de quem pediu. Clique em ver
+pedido completo para abrir todos os
+
+66
+00:01:17,030 --> 00:01:17,040
+pedido completo para abrir todos os
+ 
+
+67
+00:01:17,040 --> 00:01:19,590
+pedido completo para abrir todos os
+detalhes. Quando o cliente envia fotos,
+
+68
+00:01:19,590 --> 00:01:19,600
+detalhes. Quando o cliente envia fotos,
+ 
+
+69
+00:01:19,600 --> 00:01:21,830
+detalhes. Quando o cliente envia fotos,
+elas aparecem aqui, como esta do quadro
+
+70
+00:01:21,830 --> 00:01:21,840
+elas aparecem aqui, como esta do quadro
+ 
+
+71
+00:01:21,840 --> 00:01:24,470
+elas aparecem aqui, como esta do quadro
+de luz. Ao abrir um pedido, ele passa a
+
+72
+00:01:24,470 --> 00:01:24,480
+de luz. Ao abrir um pedido, ele passa a
+ 
+
+73
+00:01:24,480 --> 00:01:26,990
+de luz. Ao abrir um pedido, ele passa a
+aparecer como visto. Você também pode
+
+74
+00:01:26,990 --> 00:01:27,000
+aparecer como visto. Você também pode
+ 
+
+75
+00:01:27,000 --> 00:01:29,070
+aparecer como visto. Você também pode
+clicar em marcar como visto para
+
+76
+00:01:29,070 --> 00:01:29,080
+clicar em marcar como visto para
+ 
+
+77
+00:01:29,080 --> 00:01:30,670
+clicar em marcar como visto para
+organizar o que já leu.
+
+78
+00:01:30,670 --> 00:01:30,680
+organizar o que já leu.
+ 
+
+79
+00:01:30,680 --> 00:01:33,310
+organizar o que já leu.
+Agora, o mais importante, responder
+
+80
+00:01:33,310 --> 00:01:33,320
+Agora, o mais importante, responder
+ 
+
+81
+00:01:33,320 --> 00:01:36,390
+Agora, o mais importante, responder
+rápido. Clique em responder no WhatsApp.
+
+82
+00:01:36,390 --> 00:01:36,400
+rápido. Clique em responder no WhatsApp.
+ 
+
+83
+00:01:36,400 --> 00:01:38,790
+rápido. Clique em responder no WhatsApp.
+A conversa abre com uma mensagem pronta,
+
+84
+00:01:38,790 --> 00:01:38,800
+A conversa abre com uma mensagem pronta,
+ 
+
+85
+00:01:38,800 --> 00:01:40,750
+A conversa abre com uma mensagem pronta,
+dizendo que você viu o pedido e pode
+
+86
+00:01:40,750 --> 00:01:40,760
+dizendo que você viu o pedido e pode
+ 
+
+87
+00:01:40,760 --> 00:01:43,670
+dizendo que você viu o pedido e pode
+atender. É só completar e enviar.
+
+88
+00:01:43,670 --> 00:01:43,680
+atender. É só completar e enviar.
+ 
+
+89
+00:01:43,680 --> 00:01:45,830
+atender. É só completar e enviar.
+Lembre-se, outras empresas do mesmo
+
+90
+00:01:45,830 --> 00:01:45,840
+Lembre-se, outras empresas do mesmo
+ 
+
+91
+00:01:45,840 --> 00:01:48,630
+Lembre-se, outras empresas do mesmo
+serviço também recebem cada pedido. Quem
+
+92
+00:01:48,630 --> 00:01:48,640
+serviço também recebem cada pedido. Quem
+ 
+
+93
+00:01:48,640 --> 00:01:50,470
+serviço também recebem cada pedido. Quem
+responde primeiro costuma fechar o
+
+94
+00:01:50,470 --> 00:01:50,480
+responde primeiro costuma fechar o
+ 
+
+95
+00:01:50,480 --> 00:01:53,270
+responde primeiro costuma fechar o
+negócio. Na aba já vistos, ficam os
+
+96
+00:01:53,270 --> 00:01:53,280
+negócio. Na aba já vistos, ficam os
+ 
+
+97
+00:01:53,280 --> 00:01:55,550
+negócio. Na aba já vistos, ficam os
+pedidos que você já leu, para consultar
+
+98
+00:01:55,550 --> 00:01:55,560
+pedidos que você já leu, para consultar
+ 
+
+99
+00:01:55,560 --> 00:01:58,070
+pedidos que você já leu, para consultar
+quando precisar. Pronto. Deixe a sua
+
+100
+00:01:58,070 --> 00:01:58,080
+quando precisar. Pronto. Deixe a sua
+ 
+
+101
+00:01:58,080 --> 00:02:00,150
+quando precisar. Pronto. Deixe a sua
+área aberta, fique de olho nos pedidos
+
+102
+00:02:00,150 --> 00:02:00,160
+área aberta, fique de olho nos pedidos
+ 
+
+103
+00:02:00,160 --> 00:02:02,670
+área aberta, fique de olho nos pedidos
+novos e responda rápido para ganhar mais
+
+104
+00:02:02,670 --> 00:02:02,680
+novos e responda rápido para ganhar mais
+ 
+
+105
+00:02:02,680 --> 00:02:05,240
+novos e responda rápido para ganhar mais
+clientes.
+

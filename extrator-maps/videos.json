@@ -1,0 +1,17 @@
+{
+  "leia-me": "Vídeos do YouTube do Extrator Maps (mesmo formato de area-do-cliente/videos.json). Os artigos citam os ids em `videos:`. Transcrições automáticas em videos/conteudo/<id>.md; os títulos abaixo seguem o catálogo da Área do Cliente (o título no YouTube pode diferir).",
+  "videos": [
+    {
+      "id": "F136_v1JyRY",
+      "titulo": "Visão Geral - Como Funciona o Extrator GMaps"
+    },
+    {
+      "id": "R9FCgunNxFE",
+      "titulo": "Como realizar extração Maps - Direto ao ponto"
+    },
+    {
+      "id": "jl7GHmHVJcM",
+      "titulo": "Como extrair lista Maps e Importar no Portal"
+    }
+  ]
+}

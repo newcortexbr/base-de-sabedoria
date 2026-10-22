@@ -1,0 +1,125 @@
+1
+00:00:00,000 --> 00:00:02,190
+ 
+O rodapé fecha todas as páginas do
+
+2
+00:00:02,190 --> 00:00:02,200
+O rodapé fecha todas as páginas do
+ 
+
+3
+00:00:02,200 --> 00:00:05,110
+O rodapé fecha todas as páginas do
+portal. Veja como personalizar. No menu
+
+4
+00:00:05,110 --> 00:00:05,120
+portal. Veja como personalizar. No menu
+ 
+
+5
+00:00:05,120 --> 00:00:08,070
+portal. Veja como personalizar. No menu
+lateral, abra configurações, clique em
+
+6
+00:00:08,070 --> 00:00:08,080
+lateral, abra configurações, clique em
+ 
+
+7
+00:00:08,080 --> 00:00:10,910
+lateral, abra configurações, clique em
+layout e depois em rodapé. Escolha o
+
+8
+00:00:10,910 --> 00:00:10,920
+layout e depois em rodapé. Escolha o
+ 
+
+9
+00:00:10,920 --> 00:00:13,830
+layout e depois em rodapé. Escolha o
+modelo: linha única, centralizado ou
+
+10
+00:00:13,830 --> 00:00:13,840
+modelo: linha única, centralizado ou
+ 
+
+11
+00:00:13,840 --> 00:00:16,430
+modelo: linha única, centralizado ou
+faixa de chamada. Escreva um texto curto
+
+12
+00:00:16,430 --> 00:00:16,440
+faixa de chamada. Escreva um texto curto
+ 
+
+13
+00:00:16,440 --> 00:00:18,750
+faixa de chamada. Escreva um texto curto
+para aparecer abaixo da logo. Defina a
+
+14
+00:00:18,750 --> 00:00:18,760
+para aparecer abaixo da logo. Defina a
+ 
+
+15
+00:00:18,760 --> 00:00:21,270
+para aparecer abaixo da logo. Defina a
+cor de fundo ou marque herdar cor do
+
+16
+00:00:21,270 --> 00:00:21,280
+cor de fundo ou marque herdar cor do
+ 
+
+17
+00:00:21,280 --> 00:00:24,270
+cor de fundo ou marque herdar cor do
+topo e a cor dos textos e links. Escolha
+
+18
+00:00:24,270 --> 00:00:24,280
+topo e a cor dos textos e links. Escolha
+ 
+
+19
+00:00:24,280 --> 00:00:26,390
+topo e a cor dos textos e links. Escolha
+o tamanho da logo no rodapé e confira
+
+20
+00:00:26,390 --> 00:00:26,400
+o tamanho da logo no rodapé e confira
+ 
+
+21
+00:00:26,400 --> 00:00:28,910
+o tamanho da logo no rodapé e confira
+tudo na prévia. Clique em salvar e o
+
+22
+00:00:28,910 --> 00:00:28,920
+tudo na prévia. Clique em salvar e o
+ 
+
+23
+00:00:28,920 --> 00:00:31,710
+tudo na prévia. Clique em salvar e o
+novo rodapé aparece no site. Pronto, um
+
+24
+00:00:31,710 --> 00:00:31,720
+novo rodapé aparece no site. Pronto, um
+ 
+
+25
+00:00:31,720 --> 00:00:36,040
+novo rodapé aparece no site. Pronto, um
+rodapé bonito em todas as páginas.
+

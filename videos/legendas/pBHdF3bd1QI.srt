@@ -1,0 +1,495 @@
+1
+00:00:00,000 --> 00:00:02,190
+ 
+Cupons de desconto atraem visitantes
+
+2
+00:00:02,190 --> 00:00:02,200
+Cupons de desconto atraem visitantes
+ 
+
+3
+00:00:02,200 --> 00:00:03,950
+Cupons de desconto atraem visitantes
+para o portal e clientes para as
+
+4
+00:00:03,950 --> 00:00:03,960
+para o portal e clientes para as
+ 
+
+5
+00:00:03,960 --> 00:00:06,670
+para o portal e clientes para as
+empresas da cidade. No painel, abra a
+
+6
+00:00:06,670 --> 00:00:06,680
+empresas da cidade. No painel, abra a
+ 
+
+7
+00:00:06,680 --> 00:00:09,070
+empresas da cidade. No painel, abra a
+guia comercial e clique em cupons de
+
+8
+00:00:09,070 --> 00:00:09,080
+guia comercial e clique em cupons de
+ 
+
+9
+00:00:09,080 --> 00:00:11,670
+guia comercial e clique em cupons de
+desconto. Os cupons ficam atrelados às
+
+10
+00:00:11,670 --> 00:00:11,680
+desconto. Os cupons ficam atrelados às
+ 
+
+11
+00:00:11,680 --> 00:00:14,150
+desconto. Os cupons ficam atrelados às
+empresas do guia comercial, um cupom por
+
+12
+00:00:14,150 --> 00:00:14,160
+empresas do guia comercial, um cupom por
+ 
+
+13
+00:00:14,160 --> 00:00:16,790
+empresas do guia comercial, um cupom por
+empresa. A lista mostra a capa, a
+
+14
+00:00:16,790 --> 00:00:16,800
+empresa. A lista mostra a capa, a
+ 
+
+15
+00:00:16,800 --> 00:00:19,910
+empresa. A lista mostra a capa, a
+empresa, o código, o selo de desconto e
+
+16
+00:00:19,910 --> 00:00:19,920
+empresa, o código, o selo de desconto e
+ 
+
+17
+00:00:19,920 --> 00:00:22,510
+empresa, o código, o selo de desconto e
+a validade de cada cupom. Em cada linha,
+
+18
+00:00:22,510 --> 00:00:22,520
+a validade de cada cupom. Em cada linha,
+ 
+
+19
+00:00:22,520 --> 00:00:25,510
+a validade de cada cupom. Em cada linha,
+você pode editar ou remover. Para criar
+
+20
+00:00:25,510 --> 00:00:25,520
+você pode editar ou remover. Para criar
+ 
+
+21
+00:00:25,520 --> 00:00:28,190
+você pode editar ou remover. Para criar
+um cupom, clique em novo cupom e escolha
+
+22
+00:00:28,190 --> 00:00:28,200
+um cupom, clique em novo cupom e escolha
+ 
+
+23
+00:00:28,200 --> 00:00:30,790
+um cupom, clique em novo cupom e escolha
+a empresa. Envie uma foto de capa,
+
+24
+00:00:30,790 --> 00:00:30,800
+a empresa. Envie uma foto de capa,
+ 
+
+25
+00:00:30,800 --> 00:00:33,190
+a empresa. Envie uma foto de capa,
+defina o código do cupom, só com letras
+
+26
+00:00:33,190 --> 00:00:33,200
+defina o código do cupom, só com letras
+ 
+
+27
+00:00:33,200 --> 00:00:35,270
+defina o código do cupom, só com letras
+e números, e o texto do desconto que
+
+28
+00:00:35,270 --> 00:00:35,280
+e números, e o texto do desconto que
+ 
+
+29
+00:00:35,280 --> 00:00:38,870
+e números, e o texto do desconto que
+aparece no selo, como 10% off. Descreva
+
+30
+00:00:38,870 --> 00:00:38,880
+aparece no selo, como 10% off. Descreva
+ 
+
+31
+00:00:38,880 --> 00:00:41,710
+aparece no selo, como 10% off. Descreva
+as regras, escreva as condições de uso,
+
+32
+00:00:41,710 --> 00:00:41,720
+as regras, escreva as condições de uso,
+ 
+
+33
+00:00:41,720 --> 00:00:44,230
+as regras, escreva as condições de uso,
+escolha o tipo de desconto, percentual
+
+34
+00:00:44,230 --> 00:00:44,240
+escolha o tipo de desconto, percentual
+ 
+
+35
+00:00:44,240 --> 00:00:46,750
+escolha o tipo de desconto, percentual
+ou valor fixo, o valor e a data de
+
+36
+00:00:46,750 --> 00:00:46,760
+ou valor fixo, o valor e a data de
+ 
+
+37
+00:00:46,760 --> 00:00:49,510
+ou valor fixo, o valor e a data de
+validade. Depois, clique em salvar
+
+38
+00:00:49,510 --> 00:00:49,520
+validade. Depois, clique em salvar
+ 
+
+39
+00:00:49,520 --> 00:00:52,190
+validade. Depois, clique em salvar
+cupom. Para mudar um cupom, clique em
+
+40
+00:00:52,190 --> 00:00:52,200
+cupom. Para mudar um cupom, clique em
+ 
+
+41
+00:00:52,200 --> 00:00:54,910
+cupom. Para mudar um cupom, clique em
+editar. A empresa fica fixa e você
+
+42
+00:00:54,910 --> 00:00:54,920
+editar. A empresa fica fixa e você
+ 
+
+43
+00:00:54,920 --> 00:00:57,830
+editar. A empresa fica fixa e você
+ajusta a foto, o código, o desconto e as
+
+44
+00:00:57,830 --> 00:00:57,840
+ajusta a foto, o código, o desconto e as
+ 
+
+45
+00:00:57,840 --> 00:01:00,710
+ajusta a foto, o código, o desconto e as
+condições. E é assim que fica no portal.
+
+46
+00:01:00,710 --> 00:01:00,720
+condições. E é assim que fica no portal.
+ 
+
+47
+00:01:00,720 --> 00:01:03,190
+condições. E é assim que fica no portal.
+A página cupons de desconto, com busca e
+
+48
+00:01:03,190 --> 00:01:03,200
+A página cupons de desconto, com busca e
+ 
+
+49
+00:01:03,200 --> 00:01:05,470
+A página cupons de desconto, com busca e
+filtros por categoria, e os cupons das
+
+50
+00:01:05,470 --> 00:01:05,480
+filtros por categoria, e os cupons das
+ 
+
+51
+00:01:05,480 --> 00:01:07,830
+filtros por categoria, e os cupons das
+empresas da sua cidade. Cada cupom
+
+52
+00:01:07,830 --> 00:01:07,840
+empresas da sua cidade. Cada cupom
+ 
+
+53
+00:01:07,840 --> 00:01:10,270
+empresas da sua cidade. Cada cupom
+mostra a foto, o selo de desconto, a
+
+54
+00:01:10,270 --> 00:01:10,280
+mostra a foto, o selo de desconto, a
+ 
+
+55
+00:01:10,280 --> 00:01:13,070
+mostra a foto, o selo de desconto, a
+empresa e o bairro. O visitante clica em
+
+56
+00:01:13,070 --> 00:01:13,080
+empresa e o bairro. O visitante clica em
+ 
+
+57
+00:01:13,080 --> 00:01:15,950
+empresa e o bairro. O visitante clica em
+pegar cupom e o código aparece na hora,
+
+58
+00:01:15,950 --> 00:01:15,960
+pegar cupom e o código aparece na hora,
+ 
+
+59
+00:01:15,960 --> 00:01:18,550
+pegar cupom e o código aparece na hora,
+com o botão copiar. Depois, é só
+
+60
+00:01:18,550 --> 00:01:18,560
+com o botão copiar. Depois, é só
+ 
+
+61
+00:01:18,560 --> 00:01:21,030
+com o botão copiar. Depois, é só
+apresentar no estabelecimento. Agora, um
+
+62
+00:01:21,030 --> 00:01:21,040
+apresentar no estabelecimento. Agora, um
+ 
+
+63
+00:01:21,040 --> 00:01:23,950
+apresentar no estabelecimento. Agora, um
+ponto muito importante. Você não precisa
+
+64
+00:01:23,950 --> 00:01:23,960
+ponto muito importante. Você não precisa
+ 
+
+65
+00:01:23,960 --> 00:01:26,190
+ponto muito importante. Você não precisa
+cadastrar os cupons sozinho. A própria
+
+66
+00:01:26,190 --> 00:01:26,200
+cadastrar os cupons sozinho. A própria
+ 
+
+67
+00:01:26,200 --> 00:01:28,510
+cadastrar os cupons sozinho. A própria
+empresa do guia comercial pode gerenciar
+
+68
+00:01:28,510 --> 00:01:28,520
+empresa do guia comercial pode gerenciar
+ 
+
+69
+00:01:28,520 --> 00:01:30,950
+empresa do guia comercial pode gerenciar
+o cupom dela, pelo painel do cliente. O
+
+70
+00:01:30,950 --> 00:01:30,960
+o cupom dela, pelo painel do cliente. O
+ 
+
+71
+00:01:30,960 --> 00:01:33,470
+o cupom dela, pelo painel do cliente. O
+cupom é um benefício do plano do guia.
+
+72
+00:01:33,470 --> 00:01:33,480
+cupom é um benefício do plano do guia.
+ 
+
+73
+00:01:33,480 --> 00:01:35,150
+cupom é um benefício do plano do guia.
+Quando a empresa tem um plano que inclui
+
+74
+00:01:35,150 --> 00:01:35,160
+Quando a empresa tem um plano que inclui
+ 
+
+75
+00:01:35,160 --> 00:01:37,710
+Quando a empresa tem um plano que inclui
+cupom, aparece o item cupons no menu
+
+76
+00:01:37,710 --> 00:01:37,720
+cupom, aparece o item cupons no menu
+ 
+
+77
+00:01:37,720 --> 00:01:40,230
+cupom, aparece o item cupons no menu
+dela, logo abaixo do guia comercial.
+
+78
+00:01:40,230 --> 00:01:40,240
+dela, logo abaixo do guia comercial.
+ 
+
+79
+00:01:40,240 --> 00:01:42,430
+dela, logo abaixo do guia comercial.
+Ali, ela envia a foto, escreve o
+
+80
+00:01:42,430 --> 00:01:42,440
+Ali, ela envia a foto, escreve o
+ 
+
+81
+00:01:42,440 --> 00:01:44,990
+Ali, ela envia a foto, escreve o
+desconto e a segunda linha do card, as
+
+82
+00:01:44,990 --> 00:01:45,000
+desconto e a segunda linha do card, as
+ 
+
+83
+00:01:45,000 --> 00:01:48,430
+desconto e a segunda linha do card, as
+condições, o código, o tipo, o valor e a
+
+84
+00:01:48,430 --> 00:01:48,440
+condições, o código, o tipo, o valor e a
+ 
+
+85
+00:01:48,440 --> 00:01:51,310
+condições, o código, o tipo, o valor e a
+validade. Ao clicar em salvar cupom, o
+
+86
+00:01:51,310 --> 00:01:51,320
+validade. Ao clicar em salvar cupom, o
+ 
+
+87
+00:01:51,320 --> 00:01:53,990
+validade. Ao clicar em salvar cupom, o
+selo muda para no ar e o cupom já
+
+88
+00:01:53,990 --> 00:01:54,000
+selo muda para no ar e o cupom já
+ 
+
+89
+00:01:54,000 --> 00:01:56,350
+selo muda para no ar e o cupom já
+aparece no portal. É É mesmo cupom que
+
+90
+00:01:56,350 --> 00:01:56,360
+aparece no portal. É É mesmo cupom que
+ 
+
+91
+00:01:56,360 --> 00:01:58,950
+aparece no portal. É É mesmo cupom que
+você vê aqui no seu painel. Assim, você
+
+92
+00:01:58,950 --> 00:01:58,960
+você vê aqui no seu painel. Assim, você
+ 
+
+93
+00:01:58,960 --> 00:02:01,430
+você vê aqui no seu painel. Assim, você
+pode gerenciar os cupons pelo painel ou
+
+94
+00:02:01,430 --> 00:02:01,440
+pode gerenciar os cupons pelo painel ou
+ 
+
+95
+00:02:01,440 --> 00:02:03,830
+pode gerenciar os cupons pelo painel ou
+deixar que cada empresa cuide do seu.
+
+96
+00:02:03,830 --> 00:02:03,840
+deixar que cada empresa cuide do seu.
+ 
+
+97
+00:02:03,840 --> 00:02:05,950
+deixar que cada empresa cuide do seu.
+Mais ofertas, mais visitas para o
+
+98
+00:02:05,950 --> 00:02:05,960
+Mais ofertas, mais visitas para o
+ 
+
+99
+00:02:05,960 --> 00:02:08,400
+Mais ofertas, mais visitas para o
+portal.
+

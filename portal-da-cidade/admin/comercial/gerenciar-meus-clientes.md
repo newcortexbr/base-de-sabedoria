@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - -FASO6flcCw
@@ -32,9 +32,9 @@ aqui você vê quem são seus clientes, o que cada um contratou e quando vence.
 
 ## passos
 
-1. No menu da esquerda, na parte `Comercial`, clique em `Meus Clientes`. [guia=menu:/painel/clientes] [t=10]
+1. No menu da esquerda, na parte `Comercial`, clique em `Meus Clientes`. [guia=menu:/painel/clientes] [t=10] No topo, um aviso amarelo mostra as contratações aguardando confirmação de pagamento: nada entra no ar antes de você confirmar o pagamento na ficha do cliente. Os cartões resumem a carteira e mostram também o total de clientes e a receita mensal recorrente dos planos ativos. Cada linha da lista traz o cliente, o WhatsApp, a quantidade de planos, as seções contratadas, o vencimento mais próximo e a receita. As ações da linha são a chave (redefinir senha), o lápis (editar), o cadeado (bloquear) e a lixeira (excluir).
 2. Para cadastrar, clique em `Novo cliente`. [guia=clientes.novo] [t=72]
-3. Escreva o nome do cliente. [guia=clientes.nome] [t=74]
+3. Escreva o nome do cliente e, se tiver, o nome fantasia e o tipo. [guia=clientes.nome] [t=74]
 4. Preencha o documento (CPF ou CNPJ). [guia=clientes.documento] [t=77]
 5. Preencha o telefone. [guia=clientes.telefone] [t=77]
 6. Preencha o WhatsApp. [guia=clientes.whatsapp] [t=77]

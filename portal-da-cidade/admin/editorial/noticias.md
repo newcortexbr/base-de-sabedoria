@@ -9,7 +9,7 @@ categoria: conteúdo
 aba: Notícias
 tipo_problema: publicação
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - gAa2NdnitZU
@@ -31,18 +31,26 @@ O administrador usa o painel. O jornalista não usa o painel: entra pela área d
 2. Para escrever uma notícia nova, clique no botão `+ Cadastrar Notícia` no topo da lista. [guia=noticias.cadastrar] [t=49]
 3. Escreva o `Título *` da notícia. [guia=noticias-cadastrar.titulo] [t=52]
 4. Se quiser, escreva o `Subtítulo`. [guia=noticias-cadastrar.subtitulo]
-5. Se quiser, escreva o `Título curto`: ele aparece nos cartões da página inicial. [guia=noticias-cadastrar.titulo-curto] [t=54]
-6. Escreva o texto da notícia no quadro `Conteúdo da matéria *`. [guia=noticias-cadastrar.conteudo] [t=62]
-7. Em `Categorização`, escolha a `Categoria`. [guia=noticias-cadastrar.categoria] [t=74]
-8. Escolha também a `Subcategoria` (ela só abre depois que você escolhe a categoria). [guia=noticias-cadastrar.subcategoria] [t=77]
-9. Em `Foto de Capa`, clique no quadro e envie a imagem. [guia=noticias-cadastrar.foto-capa] [t=80]
-10. Preencha a `Legenda` da foto. [guia=noticias-cadastrar.legenda] [t=87]
-11. Preencha os `Créditos` da foto. [guia=noticias-cadastrar.creditos]
-12. Em `Publicação`, escolha o `Status`: `Rascunho` (fica guardada), `Publicado` (vai ao ar) ou `Arquivado`. [guia=noticias-cadastrar.status] [t=89]
-13. Para entrar no ar em outro dia, ligue `Agendar notícia` (só aparece com o status `Publicado`). [guia=noticias-cadastrar.agendar] [t=92]
-14. Com `Agendar notícia` ligado, escolha o dia e a hora em `Publicar em`. [guia=noticias-cadastrar.publicar-em]
-15. Se quiser a notícia em evidência na página inicial, ligue `Destaque na janela principal`. [guia=noticias-cadastrar.destaque] [t=94]
-16. Clique em `Adicionar`. Ao corrigir uma notícia que já existe, o botão se chama `Salvar`. [guia=noticias-cadastrar.salvar] [t=98]
+5. Se quiser, escreva a `Chamada`, o resumo que aparece na lista.
+6. Se quiser, escreva o `Título curto`: ele aparece nos cartões da página inicial. [guia=noticias-cadastrar.titulo-curto] [t=54]
+7. Escreva o texto da notícia no quadro `Conteúdo da matéria *`, que é um editor completo, com títulos, listas, links, imagens e vídeos no texto. [guia=noticias-cadastrar.conteudo] [t=62]
+8. Em `Categorização`, escolha a `Categoria`. [guia=noticias-cadastrar.categoria] [t=74]
+9. Escolha também a `Subcategoria` (ela só abre depois que você escolhe a categoria). Se precisar, crie a categoria ou a subcategoria na hora, na própria tela. [guia=noticias-cadastrar.subcategoria] [t=77]
+10. Se quiser, preencha as `Tags`, que ajudam a busca, e a fonte da matéria.
+11. Em `Foto de Capa`, clique no quadro e envie a imagem; clicando na imagem você escolhe o ponto de foco do recorte. [guia=noticias-cadastrar.foto-capa] [t=80]
+12. Preencha a `Legenda` da foto. [guia=noticias-cadastrar.legenda] [t=87]
+13. Preencha os `Créditos` da foto. [guia=noticias-cadastrar.creditos]
+14. Em `Publicação`, escolha o `Status`: `Rascunho` (fica guardada), `Publicado` (vai ao ar) ou `Arquivado`. [guia=noticias-cadastrar.status] [t=89]
+15. Para entrar no ar em outro dia, ligue `Agendar notícia` (só aparece com o status `Publicado`). [guia=noticias-cadastrar.agendar] [t=92]
+16. Com `Agendar notícia` ligado, escolha o dia e a hora em `Publicar em`. [guia=noticias-cadastrar.publicar-em]
+17. Se quiser a notícia em evidência na página inicial, ligue `Destaque na janela principal`. [guia=noticias-cadastrar.destaque] [t=94]
+18. Clique em `Adicionar`. Ao corrigir uma notícia que já existe, o botão se chama `Salvar`. [guia=noticias-cadastrar.salvar] [t=98]
+
+## explicação
+- a lista mostra categoria, autor, data, status e número de visualizações de cada notícia.
+- o botão liga e desliga da própria lista publica a notícia ou a tira do ar na hora.
+- em `Autor`, você define a assinatura padrão do portal, com nome, cargo, foto e redes sociais.
+- em `Categorias`, você organiza as editorias, com cor, quantidade de notícias e se estão ativas; as subcategorias detalham cada editoria.
 
 ## resultado
 A lista reflete o estado do conteúdo. Uma notícia marcada como publicada, mas com data futura, aparece como `agendado` e fica escondida do público até a data chegar.

@@ -30,6 +30,8 @@ entender o DadosPJ e como entrar.
 - a conta é criada no seu primeiro acesso; não precisa cadastro.
 - a entrada é pelo login único da área do cliente: sem senha nova.
 - diferente do Extrator Maps, o DadosPJ fica indisponível se todos os seus negócios estiverem suspensos.
+- limites de uso: só o estado das suas licenças ativas, de 1 a 3 cidades por lista e 2 listas por semana, renovadas toda segunda-feira.
+- guia completo do DadosPJ (filtros, créditos, arquivos, erros): `dados-pj/README.md` (artigos `pj-*`).
 
 ## passos
 1. No menu do negócio, clique em `Ferramentas`.
@@ -61,4 +63,4 @@ se a tela de entrada ficar parada ou voltar para o login, abra um chamado em `Su
 ## lacunas
 - vale para licença de qualquer produto, por isso não tem `produto`; o cartão só aparece se cadastrado no seu produto.
 - o nome no cartão (`Extrator da Receita Federal`) é cadastrado pela equipe; a descrição citada é do ambiente conferido em 21/10/2026.
-- o antigo plano "DADOS B2B, 2 extrações por semana" aparece em documento antigo; não foi confirmado se há limite de uso no DadosPJ.
+- o limite de 2 listas por semana foi conferido no código do DadosPJ (`dadospj-backend` `consultas/planos.py:26`, plano `newcortex`).

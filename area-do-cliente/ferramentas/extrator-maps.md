@@ -26,8 +26,9 @@ entender o Extrator Maps, os créditos de boas-vindas e como entrar.
 
 ## explicação
 - o Extrator Maps localiza negócios no mapa do Google e monta listas para as suas ações comerciais (prospecção). no cartão de ferramentas ele aparece como `Extrator Google Maps`.
-- a sua conta no Extrator é criada automaticamente quando a sua licença nasce, e já vem com 500 créditos de boas-vindas.
-- cada crédito corresponde a um registro extraído. quando os créditos acabarem, você compra mais dentro do próprio Extrator.
+- a sua conta no Extrator é criada automaticamente quando a sua licença nasce, e já vem com 200 créditos de boas-vindas (eram 500 até 28/09/2026; contas criadas antes mantêm o que receberam).
+- cada crédito corresponde a um registro extraído, e é preciso ter pelo menos 25 créditos para iniciar uma extração. quando os créditos acabarem, você compra mais dentro do próprio Extrator (pagamento pelo Asaas; o crédito entra após a confirmação).
+- o guia completo de uso (nova extração, créditos, arquivos, importar no Portal) está no catálogo do Extrator Maps, artigo `ext-o-que-e` e os demais `ext-`.
 - a entrada é pelo login único da área do cliente: sem senha nova.
 - se o seu negócio estiver suspenso, a sua conta e os seus créditos no Extrator não são apagados.
 
@@ -48,7 +49,7 @@ você entra no Extrator com a sua conta e os seus créditos.
 - com o negócio suspenso, o cartão mostra `Suspenso` e `Regularizar pagamento`.
 
 ## quando pedir ajuda
-se você entrou e não recebeu os 500 créditos de boas-vindas, abra um chamado em `Suporte`. a equipe tem uma lista de contas sem os créditos de boas-vindas.
+se você entrou e não recebeu os 200 créditos de boas-vindas, abra um chamado em `Suporte`. a equipe tem uma lista de contas sem os créditos de boas-vindas.
 
 ## fontes
 - `src/domain/acesso/sso-rps.ts:18`

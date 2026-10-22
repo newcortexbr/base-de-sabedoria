@@ -1,0 +1,505 @@
+1
+00:00:00,000 --> 00:00:02,350
+ 
+Em classificados, moradores e empresas
+
+2
+00:00:02,350 --> 00:00:02,360
+Em classificados, moradores e empresas
+ 
+
+3
+00:00:02,360 --> 00:00:04,710
+Em classificados, moradores e empresas
+da cidade anunciam o que querem vender,
+
+4
+00:00:04,710 --> 00:00:04,720
+da cidade anunciam o que querem vender,
+ 
+
+5
+00:00:04,720 --> 00:00:07,590
+da cidade anunciam o que querem vender,
+alugar ou oferecer. E o melhor, quem
+
+6
+00:00:07,590 --> 00:00:07,600
+alugar ou oferecer. E o melhor, quem
+ 
+
+7
+00:00:07,600 --> 00:00:09,390
+alugar ou oferecer. E o melhor, quem
+cria os anúncios são os próprios
+
+8
+00:00:09,390 --> 00:00:09,400
+cria os anúncios são os próprios
+ 
+
+9
+00:00:09,400 --> 00:00:10,510
+cria os anúncios são os próprios
+clientes.
+
+10
+00:00:10,510 --> 00:00:10,520
+clientes.
+ 
+
+11
+00:00:10,520 --> 00:00:13,390
+clientes.
+No menu lateral, abra classificados. Ali
+
+12
+00:00:13,390 --> 00:00:13,400
+No menu lateral, abra classificados. Ali
+ 
+
+13
+00:00:13,400 --> 00:00:16,070
+No menu lateral, abra classificados. Ali
+estão listar anúncios, novo anúncio,
+
+14
+00:00:16,070 --> 00:00:16,080
+estão listar anúncios, novo anúncio,
+ 
+
+15
+00:00:16,080 --> 00:00:18,830
+estão listar anúncios, novo anúncio,
+categorias e anunciantes. Em listar
+
+16
+00:00:18,830 --> 00:00:18,840
+categorias e anunciantes. Em listar
+ 
+
+17
+00:00:18,840 --> 00:00:20,910
+categorias e anunciantes. Em listar
+anúncios, você acompanha tudo o que está
+
+18
+00:00:20,910 --> 00:00:20,920
+anúncios, você acompanha tudo o que está
+ 
+
+19
+00:00:20,920 --> 00:00:23,350
+anúncios, você acompanha tudo o que está
+no portal, o total, quantos estão
+
+20
+00:00:23,350 --> 00:00:23,360
+no portal, o total, quantos estão
+ 
+
+21
+00:00:23,360 --> 00:00:25,430
+no portal, o total, quantos estão
+publicados no site e quantos estão
+
+22
+00:00:25,430 --> 00:00:25,440
+publicados no site e quantos estão
+ 
+
+23
+00:00:25,440 --> 00:00:28,390
+publicados no site e quantos estão
+incompletos, sem foto. Use as abas, a
+
+24
+00:00:28,390 --> 00:00:28,400
+incompletos, sem foto. Use as abas, a
+ 
+
+25
+00:00:28,400 --> 00:00:30,750
+incompletos, sem foto. Use as abas, a
+busca, a categoria e o status para
+
+26
+00:00:30,750 --> 00:00:30,760
+busca, a categoria e o status para
+ 
+
+27
+00:00:30,760 --> 00:00:33,350
+busca, a categoria e o status para
+encontrar qualquer anúncio. Cada linha
+
+28
+00:00:33,350 --> 00:00:33,360
+encontrar qualquer anúncio. Cada linha
+ 
+
+29
+00:00:33,360 --> 00:00:36,550
+encontrar qualquer anúncio. Cada linha
+mostra a foto, o título, o anunciante, a
+
+30
+00:00:36,550 --> 00:00:36,560
+mostra a foto, o título, o anunciante, a
+ 
+
+31
+00:00:36,560 --> 00:00:39,830
+mostra a foto, o título, o anunciante, a
+categoria, o preço, o local, os cliques
+
+32
+00:00:39,830 --> 00:00:39,840
+categoria, o preço, o local, os cliques
+ 
+
+33
+00:00:39,840 --> 00:00:42,430
+categoria, o preço, o local, os cliques
+no WhatsApp e o status, como ativo,
+
+34
+00:00:42,430 --> 00:00:42,440
+no WhatsApp e o status, como ativo,
+ 
+
+35
+00:00:42,440 --> 00:00:44,910
+no WhatsApp e o status, como ativo,
+vendido ou encerrado. Os selos de
+
+36
+00:00:44,910 --> 00:00:44,920
+vendido ou encerrado. Os selos de
+ 
+
+37
+00:00:44,920 --> 00:00:47,670
+vendido ou encerrado. Os selos de
+destaque aparecem logo abaixo do título.
+
+38
+00:00:47,670 --> 00:00:47,680
+destaque aparecem logo abaixo do título.
+ 
+
+39
+00:00:47,680 --> 00:00:49,710
+destaque aparecem logo abaixo do título.
+Nas ações, você pode ver o anúncio no
+
+40
+00:00:49,710 --> 00:00:49,720
+Nas ações, você pode ver o anúncio no
+ 
+
+41
+00:00:49,720 --> 00:00:52,710
+Nas ações, você pode ver o anúncio no
+site, editar, marcar como vendido ou
+
+42
+00:00:52,710 --> 00:00:52,720
+site, editar, marcar como vendido ou
+ 
+
+43
+00:00:52,720 --> 00:00:55,150
+site, editar, marcar como vendido ou
+excluir. O novo anúncio pelo painel é
+
+44
+00:00:55,150 --> 00:00:55,160
+excluir. O novo anúncio pelo painel é
+ 
+
+45
+00:00:55,160 --> 00:00:57,150
+excluir. O novo anúncio pelo painel é
+opcional. Ele serve para casos
+
+46
+00:00:57,150 --> 00:00:57,160
+opcional. Ele serve para casos
+ 
+
+47
+00:00:57,160 --> 00:00:59,790
+opcional. Ele serve para casos
+especiais, como ajudar um cliente. No
+
+48
+00:00:59,790 --> 00:00:59,800
+especiais, como ajudar um cliente. No
+ 
+
+49
+00:00:59,800 --> 00:01:02,110
+especiais, como ajudar um cliente. No
+dia a dia, cada anunciante cria e
+
+50
+00:01:02,110 --> 00:01:02,120
+dia a dia, cada anunciante cria e
+ 
+
+51
+00:01:02,120 --> 00:01:04,229
+dia a dia, cada anunciante cria e
+gerencia os próprios anúncios pela área
+
+52
+00:01:04,229 --> 00:01:04,239
+gerencia os próprios anúncios pela área
+ 
+
+53
+00:01:04,239 --> 00:01:06,350
+gerencia os próprios anúncios pela área
+do cliente com o login dele. Em
+
+54
+00:01:06,350 --> 00:01:06,360
+do cliente com o login dele. Em
+ 
+
+55
+00:01:06,360 --> 00:01:08,710
+do cliente com o login dele. Em
+categorias, você organiza as seções,
+
+56
+00:01:08,710 --> 00:01:08,720
+categorias, você organiza as seções,
+ 
+
+57
+00:01:08,720 --> 00:01:11,670
+categorias, você organiza as seções,
+como imóveis, veículos e eletrônicos.
+
+58
+00:01:11,670 --> 00:01:11,680
+como imóveis, veículos e eletrônicos.
+ 
+
+59
+00:01:11,680 --> 00:01:14,150
+como imóveis, veículos e eletrônicos.
+Cada uma tem subcategorias, mostra
+
+60
+00:01:14,150 --> 00:01:14,160
+Cada uma tem subcategorias, mostra
+ 
+
+61
+00:01:14,160 --> 00:01:16,790
+Cada uma tem subcategorias, mostra
+quantos anúncios tem e pode ser ativada
+
+62
+00:01:16,790 --> 00:01:16,800
+quantos anúncios tem e pode ser ativada
+ 
+
+63
+00:01:16,800 --> 00:01:19,430
+quantos anúncios tem e pode ser ativada
+ou desativada. Em anunciantes, ficam as
+
+64
+00:01:19,430 --> 00:01:19,440
+ou desativada. Em anunciantes, ficam as
+ 
+
+65
+00:01:19,440 --> 00:01:21,670
+ou desativada. Em anunciantes, ficam as
+pessoas e empresas que anunciam, com o
+
+66
+00:01:21,670 --> 00:01:21,680
+pessoas e empresas que anunciam, com o
+ 
+
+67
+00:01:21,680 --> 00:01:24,230
+pessoas e empresas que anunciam, com o
+e-mail de acesso e o selo de verificado,
+
+68
+00:01:24,230 --> 00:01:24,240
+e-mail de acesso e o selo de verificado,
+ 
+
+69
+00:01:24,240 --> 00:01:25,870
+e-mail de acesso e o selo de verificado,
+que passa mais confiança para quem
+
+70
+00:01:25,870 --> 00:01:25,880
+que passa mais confiança para quem
+ 
+
+71
+00:01:25,880 --> 00:01:28,390
+que passa mais confiança para quem
+compra. Os planos de classificados ficam
+
+72
+00:01:28,390 --> 00:01:28,400
+compra. Os planos de classificados ficam
+ 
+
+73
+00:01:28,400 --> 00:01:31,430
+compra. Os planos de classificados ficam
+em meus planos. Ali, você define quantos
+
+74
+00:01:31,430 --> 00:01:31,440
+em meus planos. Ali, você define quantos
+ 
+
+75
+00:01:31,440 --> 00:01:33,790
+em meus planos. Ali, você define quantos
+anúncios cada plano permite, quantos
+
+76
+00:01:33,790 --> 00:01:33,800
+anúncios cada plano permite, quantos
+ 
+
+77
+00:01:33,800 --> 00:01:36,190
+anúncios cada plano permite, quantos
+dias ficam no ar, quantas fotos e
+
+78
+00:01:36,190 --> 00:01:36,200
+dias ficam no ar, quantas fotos e
+ 
+
+79
+00:01:36,200 --> 00:01:38,510
+dias ficam no ar, quantas fotos e
+benefícios, como destaque e anunciante
+
+80
+00:01:38,510 --> 00:01:38,520
+benefícios, como destaque e anunciante
+ 
+
+81
+00:01:38,520 --> 00:01:40,910
+benefícios, como destaque e anunciante
+verificado. Quando o cliente publica, o
+
+82
+00:01:40,910 --> 00:01:40,920
+verificado. Quando o cliente publica, o
+ 
+
+83
+00:01:40,920 --> 00:01:43,390
+verificado. Quando o cliente publica, o
+anúncio pode passar pela sua aprovação.
+
+84
+00:01:43,390 --> 00:01:43,400
+anúncio pode passar pela sua aprovação.
+ 
+
+85
+00:01:43,400 --> 00:01:45,670
+anúncio pode passar pela sua aprovação.
+Isso se configura em aprovações e
+
+86
+00:01:45,670 --> 00:01:45,680
+Isso se configura em aprovações e
+ 
+
+87
+00:01:45,680 --> 00:01:47,550
+Isso se configura em aprovações e
+denúncias, que também recebe as
+
+88
+00:01:47,550 --> 00:01:47,560
+denúncias, que também recebe as
+ 
+
+89
+00:01:47,560 --> 00:01:49,830
+denúncias, que também recebe as
+denúncias feitas pelos visitantes. No
+
+90
+00:01:49,830 --> 00:01:49,840
+denúncias feitas pelos visitantes. No
+ 
+
+91
+00:01:49,840 --> 00:01:52,030
+denúncias feitas pelos visitantes. No
+site, a página de classificados tem
+
+92
+00:01:52,030 --> 00:01:52,040
+site, a página de classificados tem
+ 
+
+93
+00:01:52,040 --> 00:01:55,150
+site, a página de classificados tem
+busca, filtros por categoria, condição e
+
+94
+00:01:55,150 --> 00:01:55,160
+busca, filtros por categoria, condição e
+ 
+
+95
+00:01:55,160 --> 00:01:57,230
+busca, filtros por categoria, condição e
+troca e os anúncios separados por
+
+96
+00:01:57,230 --> 00:01:57,240
+troca e os anúncios separados por
+ 
+
+97
+00:01:57,240 --> 00:01:59,710
+troca e os anúncios separados por
+categoria. Pronto, você cuida das
+
+98
+00:01:59,710 --> 00:01:59,720
+categoria. Pronto, você cuida das
+ 
+
+99
+00:01:59,720 --> 00:02:02,470
+categoria. Pronto, você cuida das
+categorias, dos planos e da qualidade e
+
+100
+00:02:02,470 --> 00:02:02,480
+categorias, dos planos e da qualidade e
+ 
+
+101
+00:02:02,480 --> 00:02:06,560
+categorias, dos planos e da qualidade e
+os seus clientes publicam sozinhos.
+

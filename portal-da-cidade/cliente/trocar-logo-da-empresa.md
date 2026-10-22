@@ -10,7 +10,7 @@ tipo_problema:
   - editar-perfil-empresa
   - contato-incorreto
 status: rascunho-documental
-revisado_em: 2026-10-15
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - OInXMQlSWqw
@@ -26,11 +26,11 @@ aqui você troca a imagem do logo da sua empresa.
 ## passos
 
 1. No menu da esquerda da sua área, na parte `Minha conta`, clique em `Minha empresa` (`/minha-conta/minha-empresa`). [guia=menu:/minha-conta/minha-empresa]
-2. No quadro `Identidade`, clique em `Adicionar logo` e escolha a imagem da logo. [guia=empresa.logo]
+2. No quadro `Identidade`, clique em `Adicionar logo` (ou em `Trocar logo`, quando a empresa já tem uma imagem) e escolha a imagem da logo. [guia=empresa.logo]
 3. Clique em `Salvar`. Aparece a mensagem `Dados atualizados em todas as suas seções.` [guia=empresa.salvar]
 
 ## resultado
-O novo logo fica salvo.
+O novo logo fica salvo. sem logo, o portal mostra as iniciais da empresa.
 
 ## desvios
 - os campos disponíveis dependem do tipo de cadastro de empresa.

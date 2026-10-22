@@ -11,15 +11,16 @@ permissoes:
   - visitante
 modulo: acesso
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - Uv6Zt7V9YN0
+  - d2EweodukHg
 ---
 
 ## objetivo
 
-criar a conta ligada ao cadastro da empresa e entrar na área do cliente.
+criar a conta ligada ao cadastro da empresa, entrar na área do cliente e cadastrar a empresa no Guia Comercial.
 
 ## pré-requisitos
 
@@ -34,9 +35,25 @@ criar a conta ligada ao cadastro da empresa e entrar na área do cliente.
 4. Abra seu e-mail. Você recebe um código de 6 números. Digite esses números no quadro `Confirme seu e-mail`. Se não chegou, clique em `Reenviar código`.
 5. Quando aparecer `Conta criada!`, clique em `Entrar na minha conta` para ir à página de entrada (`/minha-conta/login`).
 
+## explicação
+
+- no Guia Comercial, a empresa ganha uma página própria, sem precisar de site: galeria de fotos, lista de serviços, mapa com o botão de como chegar, WhatsApp, cardápio digital e delivery (para restaurantes), catálogo de produtos, cupons, sorteios, pedidos de orçamento, avaliações do Google e destaque na busca.
+- o cadastro da empresa no guia só é feito depois de contratar um plano do Guia (veja "cadastrar sua empresa no Guia Comercial").
+
 ## resultado
 
 A conta e o cadastro são criados depois da confirmação do e-mail. A empresa pode ser associada à conta de cliente.
+
+## depois de entrar
+
+1. Contrate um plano do Guia Comercial em `Planos e assinaturas`.
+2. No menu da esquerda da área do cliente, clique em `Guia Comercial`. No topo aparece o plano com os recursos que ele inclui.
+3. Preencha os dados da empresa: pegue os dados do Google Meu Negócio pela busca do nome ou cadastre manualmente (nome e descrição; o CEP preenche bairro e rua e a localização no mapa é descoberta pelo endereço).
+4. Escolha a categoria (ela define as páginas extras, como cardápio e delivery para restaurantes) e a subcategoria, que é obrigatória.
+5. Preencha o horário de funcionamento (há atalho para aplicar o mesmo horário a todos os dias, e marcação de fechado ou aberto 24 horas).
+6. Clique em `Publicar no guia`: o cadastro vai para análise e aparece "seu cadastro está em análise". Quando o portal aprova, a tela mostra "Sua empresa está publicada no site" e o botão `Ver no site`.
+
+Detalhes completos: artigos "cadastrar sua empresa no Guia Comercial" e "completar a ficha da empresa no Guia Comercial".
 
 ## desvios
 

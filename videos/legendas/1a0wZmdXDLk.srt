@@ -1,0 +1,405 @@
+1
+00:00:00,000 --> 00:00:02,150
+ 
+A voz do povo é o canal do cidadão no
+
+2
+00:00:02,150 --> 00:00:02,160
+A voz do povo é o canal do cidadão no
+ 
+
+3
+00:00:02,160 --> 00:00:04,550
+A voz do povo é o canal do cidadão no
+seu portal. O morador conta um problema
+
+4
+00:00:04,550 --> 00:00:04,560
+seu portal. O morador conta um problema
+ 
+
+5
+00:00:04,560 --> 00:00:06,790
+seu portal. O morador conta um problema
+do bairro e a sua redação decide o que
+
+6
+00:00:06,790 --> 00:00:06,800
+do bairro e a sua redação decide o que
+ 
+
+7
+00:00:06,800 --> 00:00:09,150
+do bairro e a sua redação decide o que
+fazer, inclusive transformar o caso em
+
+8
+00:00:09,150 --> 00:00:09,160
+fazer, inclusive transformar o caso em
+ 
+
+9
+00:00:09,160 --> 00:00:12,670
+fazer, inclusive transformar o caso em
+notícia. No site, a página A Voz do Povo
+
+10
+00:00:12,670 --> 00:00:12,680
+notícia. No site, a página A Voz do Povo
+ 
+
+11
+00:00:12,680 --> 00:00:14,430
+notícia. No site, a página A Voz do Povo
+traz o formulário de denúncia, a
+
+12
+00:00:14,430 --> 00:00:14,440
+traz o formulário de denúncia, a
+ 
+
+13
+00:00:14,440 --> 00:00:16,950
+traz o formulário de denúncia, a
+previsão do tempo, as linhas de ônibus e
+
+14
+00:00:16,950 --> 00:00:16,960
+previsão do tempo, as linhas de ônibus e
+ 
+
+15
+00:00:16,960 --> 00:00:19,070
+previsão do tempo, as linhas de ônibus e
+os telefones úteis da cidade. Para
+
+16
+00:00:19,070 --> 00:00:19,080
+os telefones úteis da cidade. Para
+ 
+
+17
+00:00:19,080 --> 00:00:21,350
+os telefones úteis da cidade. Para
+denunciar, o morador escolhe a categoria
+
+18
+00:00:21,350 --> 00:00:21,360
+denunciar, o morador escolhe a categoria
+ 
+
+19
+00:00:21,360 --> 00:00:23,750
+denunciar, o morador escolhe a categoria
+do problema, como iluminação pública,
+
+20
+00:00:23,750 --> 00:00:23,760
+do problema, como iluminação pública,
+ 
+
+21
+00:00:23,760 --> 00:00:26,630
+do problema, como iluminação pública,
+buraco na via ou lixo irregular. Depois
+
+22
+00:00:26,630 --> 00:00:26,640
+buraco na via ou lixo irregular. Depois
+ 
+
+23
+00:00:26,640 --> 00:00:28,830
+buraco na via ou lixo irregular. Depois
+conta o que aconteceu, escrevendo ou
+
+24
+00:00:28,830 --> 00:00:28,840
+conta o que aconteceu, escrevendo ou
+ 
+
+25
+00:00:28,840 --> 00:00:31,430
+conta o que aconteceu, escrevendo ou
+gravando um áudio. Informa a cidade, o
+
+26
+00:00:31,430 --> 00:00:31,440
+gravando um áudio. Informa a cidade, o
+ 
+
+27
+00:00:31,440 --> 00:00:33,790
+gravando um áudio. Informa a cidade, o
+bairro e quando aconteceu. Ele pode
+
+28
+00:00:33,790 --> 00:00:33,800
+bairro e quando aconteceu. Ele pode
+ 
+
+29
+00:00:33,800 --> 00:00:36,230
+bairro e quando aconteceu. Ele pode
+anexar até cinco fotos e um vídeo e o
+
+30
+00:00:36,230 --> 00:00:36,240
+anexar até cinco fotos e um vídeo e o
+ 
+
+31
+00:00:36,240 --> 00:00:38,990
+anexar até cinco fotos e um vídeo e o
+contato é opcional. A denúncia pode ser
+
+32
+00:00:38,990 --> 00:00:39,000
+contato é opcional. A denúncia pode ser
+ 
+
+33
+00:00:39,000 --> 00:00:41,030
+contato é opcional. A denúncia pode ser
+anônima. Vamos fazer uma denúncia de
+
+34
+00:00:41,030 --> 00:00:41,040
+anônima. Vamos fazer uma denúncia de
+ 
+
+35
+00:00:41,040 --> 00:00:43,750
+anônima. Vamos fazer uma denúncia de
+teste. Com tudo preenchido, é só clicar
+
+36
+00:00:43,750 --> 00:00:43,760
+teste. Com tudo preenchido, é só clicar
+ 
+
+37
+00:00:43,760 --> 00:00:46,630
+teste. Com tudo preenchido, é só clicar
+em Enviar denúncia. Pronto, a denúncia
+
+38
+00:00:46,630 --> 00:00:46,640
+em Enviar denúncia. Pronto, a denúncia
+ 
+
+39
+00:00:46,640 --> 00:00:48,710
+em Enviar denúncia. Pronto, a denúncia
+foi enviada. O morador recebe a
+
+40
+00:00:48,710 --> 00:00:48,720
+foi enviada. O morador recebe a
+ 
+
+41
+00:00:48,720 --> 00:00:51,150
+foi enviada. O morador recebe a
+confirmação e o relato vai direto para o
+
+42
+00:00:51,150 --> 00:00:51,160
+confirmação e o relato vai direto para o
+ 
+
+43
+00:00:51,160 --> 00:00:53,870
+confirmação e o relato vai direto para o
+seu painel. No painel, abra A Voz do
+
+44
+00:00:53,870 --> 00:00:53,880
+seu painel. No painel, abra A Voz do
+ 
+
+45
+00:00:53,880 --> 00:00:56,950
+seu painel. No painel, abra A Voz do
+Povo e clique em Denúncias. Esta é a
+
+46
+00:00:56,950 --> 00:00:56,960
+Povo e clique em Denúncias. Esta é a
+ 
+
+47
+00:00:56,960 --> 00:00:59,390
+Povo e clique em Denúncias. Esta é a
+caixa de entrada. A denúncia de teste já
+
+48
+00:00:59,390 --> 00:00:59,400
+caixa de entrada. A denúncia de teste já
+ 
+
+49
+00:00:59,400 --> 00:01:02,230
+caixa de entrada. A denúncia de teste já
+está aqui com a categoria, o local, a
+
+50
+00:01:02,230 --> 00:01:02,240
+está aqui com a categoria, o local, a
+ 
+
+51
+00:01:02,240 --> 00:01:04,790
+está aqui com a categoria, o local, a
+hora e o status. Os botões da linha
+
+52
+00:01:04,790 --> 00:01:04,800
+hora e o status. Os botões da linha
+ 
+
+53
+00:01:04,800 --> 00:01:08,190
+hora e o status. Os botões da linha
+mudam o status: em análise, resolvida ou
+
+54
+00:01:08,190 --> 00:01:08,200
+mudam o status: em análise, resolvida ou
+ 
+
+55
+00:01:08,200 --> 00:01:10,350
+mudam o status: em análise, resolvida ou
+arquivar. Use o filtro para ver as
+
+56
+00:01:10,350 --> 00:01:10,360
+arquivar. Use o filtro para ver as
+ 
+
+57
+00:01:10,360 --> 00:01:13,470
+arquivar. Use o filtro para ver as
+abertas ou o histórico. Em Ver Detalhes,
+
+58
+00:01:13,470 --> 00:01:13,480
+abertas ou o histórico. Em Ver Detalhes,
+ 
+
+59
+00:01:13,480 --> 00:01:16,190
+abertas ou o histórico. Em Ver Detalhes,
+você lê o relato completo, o local,
+
+60
+00:01:16,190 --> 00:01:16,200
+você lê o relato completo, o local,
+ 
+
+61
+00:01:16,200 --> 00:01:19,030
+você lê o relato completo, o local,
+quando aconteceu, o contato e as fotos,
+
+62
+00:01:19,030 --> 00:01:19,040
+quando aconteceu, o contato e as fotos,
+ 
+
+63
+00:01:19,040 --> 00:01:21,390
+quando aconteceu, o contato e as fotos,
+se houver. O status também pode ser
+
+64
+00:01:21,390 --> 00:01:21,400
+se houver. O status também pode ser
+ 
+
+65
+00:01:21,400 --> 00:01:23,830
+se houver. O status também pode ser
+trocado por aqui. Em Telefones Úteis,
+
+66
+00:01:23,830 --> 00:01:23,840
+trocado por aqui. Em Telefones Úteis,
+ 
+
+67
+00:01:23,840 --> 00:01:25,870
+trocado por aqui. Em Telefones Úteis,
+você cadastra os números de emergência e
+
+68
+00:01:25,870 --> 00:01:25,880
+você cadastra os números de emergência e
+ 
+
+69
+00:01:25,880 --> 00:01:27,830
+você cadastra os números de emergência e
+serviços da cidade, com horário de
+
+70
+00:01:27,830 --> 00:01:27,840
+serviços da cidade, com horário de
+ 
+
+71
+00:01:27,840 --> 00:01:30,230
+serviços da cidade, com horário de
+atendimento e escolhe quais aparecem no
+
+72
+00:01:30,230 --> 00:01:30,240
+atendimento e escolhe quais aparecem no
+ 
+
+73
+00:01:30,240 --> 00:01:32,750
+atendimento e escolhe quais aparecem no
+site. E em Linhas de Ônibus, ficam as
+
+74
+00:01:32,750 --> 00:01:32,760
+site. E em Linhas de Ônibus, ficam as
+ 
+
+75
+00:01:32,760 --> 00:01:34,630
+site. E em Linhas de Ônibus, ficam as
+linhas que o morador consulta na mesma
+
+76
+00:01:34,630 --> 00:01:34,640
+linhas que o morador consulta na mesma
+ 
+
+77
+00:01:34,640 --> 00:01:37,830
+linhas que o morador consulta na mesma
+página. Pronto, A Voz do Povo aproxima o
+
+78
+00:01:37,830 --> 00:01:37,840
+página. Pronto, A Voz do Povo aproxima o
+ 
+
+79
+00:01:37,840 --> 00:01:40,310
+página. Pronto, A Voz do Povo aproxima o
+portal dos moradores e rende pautas para
+
+80
+00:01:40,310 --> 00:01:40,320
+portal dos moradores e rende pautas para
+ 
+
+81
+00:01:40,320 --> 00:01:43,240
+portal dos moradores e rende pautas para
+suas notícias.
+

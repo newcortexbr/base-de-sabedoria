@@ -8,7 +8,7 @@ categoria: admin
 aba: Notícias
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - gAa2NdnitZU
@@ -41,6 +41,7 @@ o jornalista entra pela área do cliente, em `/minha-conta/login`, com o e-mail 
 
 ## desvios
 
+- O próprio jornalista pode trocar a senha quando quiser, sem depender do fluxo de esquecimento.
 - Jornalista não entra no painel: o login dele é na área do cliente.
 - Quem esquecer a senha pode recuperar sozinho em `Esqueci minha senha`, na tela de entrada.
 - Para devolver o acesso, clique de novo no cadeado (`Desbloquear`).

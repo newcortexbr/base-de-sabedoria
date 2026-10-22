@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - pBHdF3bd1QI
@@ -26,7 +26,7 @@ aqui você muda um cupom que já existe.
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Cupons de Desconto`. [guia=menu:/painel/cupons]
 2. Veja na lista a empresa, o código, o desconto e a validade de cada cupom. Cupom vencido aparece marcado. [guia=menu:/painel/cupons]
 3. Para mudar um cupom, clique em `Editar` na linha do cupom que você quer. [guia=cupons.editar]
-4. Faça as mudanças e clique em `Salvar cupom`. [guia=cupons.salvar]
+4. Na edição, a empresa do cupom fica fixa. Você ajusta a foto, o código, o desconto e as condições. Depois clique em `Salvar cupom`. [guia=cupons.salvar]
 
 ## resultado
 O cupom fica com as mudanças.

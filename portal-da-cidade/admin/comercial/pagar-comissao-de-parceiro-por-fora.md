@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-20
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - 8gIDPdapN0E
@@ -30,6 +30,10 @@ aqui você marca como paga uma comissão que você pagou ao parceiro por Pix ou 
 3. Em `Comissões para pagar por fora`, clique em `Marcar paga` na linha da comissão que você pagou. [guia=parceiros.marcar-paga] [t=39]
 4. Na janela que abre, anexe o comprovante, se quiser. [guia=parceiros.confirmar-marcar-paga]
 5. Clique em `Marcar paga` na janela. Isso não pode ser desfeito. [guia=parceiros.confirmar-marcar-paga]
+
+## explicação
+
+na tela `Parceiros`, `ver todas as comissões` separa o que é para pagar por fora, o que está caindo pelo Asaas e o que já foi paga. há filtro por parceiro e o extrato das comissões pagas.
 
 ## resultado
 

@@ -1,0 +1,515 @@
+1
+00:00:00,160 --> 00:00:03,070
+ 
+Seja bem-vindo à sua área do cliente. É
+
+2
+00:00:03,070 --> 00:00:03,080
+Seja bem-vindo à sua área do cliente. É
+ 
+
+3
+00:00:03,080 --> 00:00:05,110
+Seja bem-vindo à sua área do cliente. É
+aqui que você coloca o seu portal no ar
+
+4
+00:00:05,110 --> 00:00:05,120
+aqui que você coloca o seu portal no ar
+ 
+
+5
+00:00:05,120 --> 00:00:07,510
+aqui que você coloca o seu portal no ar
+e encontra tudo para fazer o seu negócio
+
+6
+00:00:07,510 --> 00:00:07,520
+e encontra tudo para fazer o seu negócio
+ 
+
+7
+00:00:07,520 --> 00:00:10,589
+e encontra tudo para fazer o seu negócio
+crescer. No menu ao lado, em seu espaço,
+
+8
+00:00:10,589 --> 00:00:10,599
+crescer. No menu ao lado, em seu espaço,
+ 
+
+9
+00:00:10,599 --> 00:00:12,709
+crescer. No menu ao lado, em seu espaço,
+ficam todas as áreas. Daqui a pouco
+
+10
+00:00:12,709 --> 00:00:12,719
+ficam todas as áreas. Daqui a pouco
+ 
+
+11
+00:00:12,719 --> 00:00:15,230
+ficam todas as áreas. Daqui a pouco
+vamos passar rapidinho por cada uma. No
+
+12
+00:00:15,230 --> 00:00:15,240
+vamos passar rapidinho por cada uma. No
+ 
+
+13
+00:00:15,240 --> 00:00:17,349
+vamos passar rapidinho por cada uma. No
+topo da página início, você vê a
+
+14
+00:00:17,349 --> 00:00:17,359
+topo da página início, você vê a
+ 
+
+15
+00:00:17,359 --> 00:00:19,550
+topo da página início, você vê a
+situação do seu portal. Enquanto ele não
+
+16
+00:00:19,550 --> 00:00:19,560
+situação do seu portal. Enquanto ele não
+ 
+
+17
+00:00:19,560 --> 00:00:21,710
+situação do seu portal. Enquanto ele não
+estiver publicado, aparece o selo
+
+18
+00:00:21,710 --> 00:00:21,720
+estiver publicado, aparece o selo
+ 
+
+19
+00:00:21,720 --> 00:00:24,470
+estiver publicado, aparece o selo
+instalação pendente. E este é o passo
+
+20
+00:00:24,470 --> 00:00:24,480
+instalação pendente. E este é o passo
+ 
+
+21
+00:00:24,480 --> 00:00:27,550
+instalação pendente. E este é o passo
+mais importante de todos. Antes de tudo,
+
+22
+00:00:27,550 --> 00:00:27,560
+mais importante de todos. Antes de tudo,
+ 
+
+23
+00:00:27,560 --> 00:00:29,390
+mais importante de todos. Antes de tudo,
+vamos iniciar a instalação do seu
+
+24
+00:00:29,390 --> 00:00:29,400
+vamos iniciar a instalação do seu
+ 
+
+25
+00:00:29,400 --> 00:00:31,749
+vamos iniciar a instalação do seu
+portal. É aqui que o seu portal vai para
+
+26
+00:00:31,749 --> 00:00:31,759
+portal. É aqui que o seu portal vai para
+ 
+
+27
+00:00:31,759 --> 00:00:35,150
+portal. É aqui que o seu portal vai para
+o ar. Clique em iniciar instalação. Você
+
+28
+00:00:35,150 --> 00:00:35,160
+o ar. Clique em iniciar instalação. Você
+ 
+
+29
+00:00:35,160 --> 00:00:37,350
+o ar. Clique em iniciar instalação. Você
+vai direto para a minha plataforma, onde
+
+30
+00:00:37,350 --> 00:00:37,360
+vai direto para a minha plataforma, onde
+ 
+
+31
+00:00:37,360 --> 00:00:39,990
+vai direto para a minha plataforma, onde
+a instalação acontece em três etapas:
+
+32
+00:00:39,990 --> 00:00:40,000
+a instalação acontece em três etapas:
+ 
+
+33
+00:00:40,000 --> 00:00:43,670
+a instalação acontece em três etapas:
+seu domínio, conexão DNS e portal no ar.
+
+34
+00:00:43,670 --> 00:00:43,680
+seu domínio, conexão DNS e portal no ar.
+ 
+
+35
+00:00:43,680 --> 00:00:45,670
+seu domínio, conexão DNS e portal no ar.
+Em cada etapa tem um vídeo explicando o
+
+36
+00:00:45,670 --> 00:00:45,680
+Em cada etapa tem um vídeo explicando o
+ 
+
+37
+00:00:45,680 --> 00:00:48,229
+Em cada etapa tem um vídeo explicando o
+que fazer e a gente guia você do começo
+
+38
+00:00:48,229 --> 00:00:48,239
+que fazer e a gente guia você do começo
+ 
+
+39
+00:00:48,239 --> 00:00:50,990
+que fazer e a gente guia você do começo
+ao fim. De volta ao início, o tour da
+
+40
+00:00:50,990 --> 00:00:51,000
+ao fim. De volta ao início, o tour da
+ 
+
+41
+00:00:51,000 --> 00:00:53,150
+ao fim. De volta ao início, o tour da
+área de membros e as aulas do Start
+
+42
+00:00:53,150 --> 00:00:53,160
+área de membros e as aulas do Start
+ 
+
+43
+00:00:53,160 --> 00:00:55,270
+área de membros e as aulas do Start
+mostram onde fica cada coisa no seu
+
+44
+00:00:55,270 --> 00:00:55,280
+mostram onde fica cada coisa no seu
+ 
+
+45
+00:00:55,280 --> 00:00:58,229
+mostram onde fica cada coisa no seu
+painel. Em qual é a sua dúvida? Digite
+
+46
+00:00:58,229 --> 00:00:58,239
+painel. Em qual é a sua dúvida? Digite
+ 
+
+47
+00:00:58,239 --> 00:01:00,310
+painel. Em qual é a sua dúvida? Digite
+um assunto e clique em encontrar
+
+48
+00:01:00,310 --> 00:01:00,320
+um assunto e clique em encontrar
+ 
+
+49
+00:01:00,320 --> 00:01:02,349
+um assunto e clique em encontrar
+conteúdo para achar a aula certa no
+
+50
+00:01:02,349 --> 00:01:02,359
+conteúdo para achar a aula certa no
+ 
+
+51
+00:01:02,359 --> 00:01:05,310
+conteúdo para achar a aula certa no
+treinamento. Em seu portal e seus links,
+
+52
+00:01:05,310 --> 00:01:05,320
+treinamento. Em seu portal e seus links,
+ 
+
+53
+00:01:05,320 --> 00:01:07,469
+treinamento. Em seu portal e seus links,
+o painel administrativo e os links do
+
+54
+00:01:07,469 --> 00:01:07,479
+o painel administrativo e os links do
+ 
+
+55
+00:01:07,479 --> 00:01:09,510
+o painel administrativo e os links do
+seu portal aparecem assim que ele for
+
+56
+00:01:09,510 --> 00:01:09,520
+seu portal aparecem assim que ele for
+ 
+
+57
+00:01:09,520 --> 00:01:12,070
+seu portal aparecem assim que ele for
+publicado. Logo abaixo, os atalhos para
+
+58
+00:01:12,070 --> 00:01:12,080
+publicado. Logo abaixo, os atalhos para
+ 
+
+59
+00:01:12,080 --> 00:01:14,429
+publicado. Logo abaixo, os atalhos para
+os treinamentos. Do lado direito, a
+
+60
+00:01:14,429 --> 00:01:14,439
+os treinamentos. Do lado direito, a
+ 
+
+61
+00:01:14,439 --> 00:01:16,429
+os treinamentos. Do lado direito, a
+próxima live e a situação dos seus
+
+62
+00:01:16,429 --> 00:01:16,439
+próxima live e a situação dos seus
+ 
+
+63
+00:01:16,439 --> 00:01:19,109
+próxima live e a situação dos seus
+pagamentos. Agora, um passeio rápido
+
+64
+00:01:19,109 --> 00:01:19,119
+pagamentos. Agora, um passeio rápido
+ 
+
+65
+00:01:19,119 --> 00:01:21,630
+pagamentos. Agora, um passeio rápido
+pelo menu. Em meus negócios, você vê
+
+66
+00:01:21,630 --> 00:01:21,640
+pelo menu. Em meus negócios, você vê
+ 
+
+67
+00:01:21,640 --> 00:01:23,789
+pelo menu. Em meus negócios, você vê
+todos os seus portais com a situação da
+
+68
+00:01:23,789 --> 00:01:23,799
+todos os seus portais com a situação da
+ 
+
+69
+00:01:23,799 --> 00:01:26,149
+todos os seus portais com a situação da
+instalação e dos pagamentos. A visão
+
+70
+00:01:26,149 --> 00:01:26,159
+instalação e dos pagamentos. A visão
+ 
+
+71
+00:01:26,159 --> 00:01:28,630
+instalação e dos pagamentos. A visão
+geral mostra o seu próximo passo em cada
+
+72
+00:01:28,630 --> 00:01:28,640
+geral mostra o seu próximo passo em cada
+ 
+
+73
+00:01:28,640 --> 00:01:30,870
+geral mostra o seu próximo passo em cada
+negócio. Em treinamentos ficam os
+
+74
+00:01:30,870 --> 00:01:30,880
+negócio. Em treinamentos ficam os
+ 
+
+75
+00:01:30,880 --> 00:01:33,230
+negócio. Em treinamentos ficam os
+módulos com as aulas, do primeiro passo
+
+76
+00:01:33,230 --> 00:01:33,240
+módulos com as aulas, do primeiro passo
+ 
+
+77
+00:01:33,240 --> 00:01:34,950
+módulos com as aulas, do primeiro passo
+até as estratégias de vendas e
+
+78
+00:01:34,950 --> 00:01:34,960
+até as estratégias de vendas e
+ 
+
+79
+00:01:34,960 --> 00:01:37,310
+até as estratégias de vendas e
+marketing. Em ferramentas, você acessa
+
+80
+00:01:37,310 --> 00:01:37,320
+marketing. Em ferramentas, você acessa
+ 
+
+81
+00:01:37,320 --> 00:01:39,230
+marketing. Em ferramentas, você acessa
+as ferramentas extras que vem com o seu
+
+82
+00:01:39,230 --> 00:01:39,240
+as ferramentas extras que vem com o seu
+ 
+
+83
+00:01:39,240 --> 00:01:41,630
+as ferramentas extras que vem com o seu
+negócio. Em lives, a agenda dos
+
+84
+00:01:41,630 --> 00:01:41,640
+negócio. Em lives, a agenda dos
+ 
+
+85
+00:01:41,640 --> 00:01:43,870
+negócio. Em lives, a agenda dos
+encontros ao vivo para aprender e tirar
+
+86
+00:01:43,870 --> 00:01:43,880
+encontros ao vivo para aprender e tirar
+ 
+
+87
+00:01:43,880 --> 00:01:46,310
+encontros ao vivo para aprender e tirar
+dúvidas com a nossa equipe. Em suporte,
+
+88
+00:01:46,310 --> 00:01:46,320
+dúvidas com a nossa equipe. Em suporte,
+ 
+
+89
+00:01:46,320 --> 00:01:48,310
+dúvidas com a nossa equipe. Em suporte,
+você abre o chamado e acompanha as
+
+90
+00:01:48,310 --> 00:01:48,320
+você abre o chamado e acompanha as
+ 
+
+91
+00:01:48,320 --> 00:01:50,870
+você abre o chamado e acompanha as
+respostas da equipe. E em pagamentos, a
+
+92
+00:01:50,870 --> 00:01:50,880
+respostas da equipe. E em pagamentos, a
+ 
+
+93
+00:01:50,880 --> 00:01:52,910
+respostas da equipe. E em pagamentos, a
+situação da reserva territorial e da
+
+94
+00:01:52,910 --> 00:01:52,920
+situação da reserva territorial e da
+ 
+
+95
+00:01:52,920 --> 00:01:54,590
+situação da reserva territorial e da
+mensalidade com o histórico de
+
+96
+00:01:54,590 --> 00:01:54,600
+mensalidade com o histórico de
+ 
+
+97
+00:01:54,600 --> 00:01:57,029
+mensalidade com o histórico de
+cobranças. Cada uma dessas telas tem o
+
+98
+00:01:57,029 --> 00:01:57,039
+cobranças. Cada uma dessas telas tem o
+ 
+
+99
+00:01:57,039 --> 00:01:59,310
+cobranças. Cada uma dessas telas tem o
+seu próprio vídeo tutorial, mas comece
+
+100
+00:01:59,310 --> 00:01:59,320
+seu próprio vídeo tutorial, mas comece
+ 
+
+101
+00:01:59,320 --> 00:02:02,310
+seu próprio vídeo tutorial, mas comece
+por aqui. Clique em iniciar instalação e
+
+102
+00:02:02,310 --> 00:02:02,320
+por aqui. Clique em iniciar instalação e
+ 
+
+103
+00:02:02,320 --> 00:02:06,520
+por aqui. Clique em iniciar instalação e
+coloque o seu portal no ar.
+

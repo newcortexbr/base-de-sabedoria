@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - 8gIDPdapN0E
@@ -27,9 +27,11 @@ aqui você guarda o link de convite do grupo de WhatsApp dos parceiros.
 1. No menu da esquerda, na parte `Comercial`, clique em `Parceiros`. [guia=menu:/painel/parceiros]
 2. Para o grupo de WhatsApp dos parceiros, cole o link de convite em `Link do grupo`. [guia=parceiros.link-grupo]
 3. Clique em `Salvar` ao lado do link. [guia=parceiros.salvar-grupo]
+4. Use o botão `testar link` para conferir se o convite abre.
+5. Deixe marcada a chave `mostrar o botão para os parceiros`: com ela, o convite aparece no painel de cada parceiro.
 
 ## resultado
-O link do grupo fica salvo.
+O link do grupo fica salvo. com a chave marcada, o parceiro vê a faixa `grupo dos parceiros` com o botão `entrar no grupo` na área dele, e o mesmo atalho fica fixo no menu lateral dele.
 
 ## desvios
 

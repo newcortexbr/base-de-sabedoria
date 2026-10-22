@@ -1,0 +1,685 @@
+1
+00:00:00,000 --> 00:00:02,150
+ 
+A área doações divulga os projetos
+
+2
+00:00:02,150 --> 00:00:02,160
+A área doações divulga os projetos
+ 
+
+3
+00:00:02,160 --> 00:00:05,310
+A área doações divulga os projetos
+sociais da cidade, ONGs, instituições e
+
+4
+00:00:05,310 --> 00:00:05,320
+sociais da cidade, ONGs, instituições e
+ 
+
+5
+00:00:05,320 --> 00:00:07,630
+sociais da cidade, ONGs, instituições e
+entidades que transformam vidas. O
+
+6
+00:00:07,630 --> 00:00:07,640
+entidades que transformam vidas. O
+ 
+
+7
+00:00:07,640 --> 00:00:10,070
+entidades que transformam vidas. O
+portal mostra o que cada uma faz e como
+
+8
+00:00:10,070 --> 00:00:10,080
+portal mostra o que cada uma faz e como
+ 
+
+9
+00:00:10,080 --> 00:00:12,270
+portal mostra o que cada uma faz e como
+ajudar. É assim que a página aparece
+
+10
+00:00:12,270 --> 00:00:12,280
+ajudar. É assim que a página aparece
+ 
+
+11
+00:00:12,280 --> 00:00:14,590
+ajudar. É assim que a página aparece
+para o visitante. No painel, abra
+
+12
+00:00:14,590 --> 00:00:14,600
+para o visitante. No painel, abra
+ 
+
+13
+00:00:14,600 --> 00:00:17,950
+para o visitante. No painel, abra
+doações no grupo conteúdo. Ela tem duas
+
+14
+00:00:17,950 --> 00:00:17,960
+doações no grupo conteúdo. Ela tem duas
+ 
+
+15
+00:00:17,960 --> 00:00:20,910
+doações no grupo conteúdo. Ela tem duas
+abas: instituições e causas. Em
+
+16
+00:00:20,910 --> 00:00:20,920
+abas: instituições e causas. Em
+ 
+
+17
+00:00:20,920 --> 00:00:23,310
+abas: instituições e causas. Em
+instituições ficam todas as entidades
+
+18
+00:00:23,310 --> 00:00:23,320
+instituições ficam todas as entidades
+ 
+
+19
+00:00:23,320 --> 00:00:26,070
+instituições ficam todas as entidades
+cadastradas. Busque pelo nome e em cada
+
+20
+00:00:26,070 --> 00:00:26,080
+cadastradas. Busque pelo nome e em cada
+ 
+
+21
+00:00:26,080 --> 00:00:28,630
+cadastradas. Busque pelo nome e em cada
+linha veja a causa e a cidade com os
+
+22
+00:00:28,630 --> 00:00:28,640
+linha veja a causa e a cidade com os
+ 
+
+23
+00:00:28,640 --> 00:00:32,150
+linha veja a causa e a cidade com os
+botões editar, ver no site e excluir.
+
+24
+00:00:32,150 --> 00:00:32,160
+botões editar, ver no site e excluir.
+ 
+
+25
+00:00:32,160 --> 00:00:35,350
+botões editar, ver no site e excluir.
+Repare no aviso: salvou, está no site.
+
+26
+00:00:35,350 --> 00:00:35,360
+Repare no aviso: salvou, está no site.
+ 
+
+27
+00:00:35,360 --> 00:00:37,430
+Repare no aviso: salvou, está no site.
+Para tirar uma instituição do ar, é só
+
+28
+00:00:37,430 --> 00:00:37,440
+Para tirar uma instituição do ar, é só
+ 
+
+29
+00:00:37,440 --> 00:00:40,350
+Para tirar uma instituição do ar, é só
+excluir. Para cadastrar, clique em nova
+
+30
+00:00:40,350 --> 00:00:40,360
+excluir. Para cadastrar, clique em nova
+ 
+
+31
+00:00:40,360 --> 00:00:43,190
+excluir. Para cadastrar, clique em nova
+instituição. Em identificação, informe o
+
+32
+00:00:43,190 --> 00:00:43,200
+instituição. Em identificação, informe o
+ 
+
+33
+00:00:43,200 --> 00:00:45,990
+instituição. Em identificação, informe o
+nome, escolha a causa na lista e escreva
+
+34
+00:00:45,990 --> 00:00:46,000
+nome, escolha a causa na lista e escreva
+ 
+
+35
+00:00:46,000 --> 00:00:47,750
+nome, escolha a causa na lista e escreva
+o resumo do card que aparece na
+
+36
+00:00:47,750 --> 00:00:47,760
+o resumo do card que aparece na
+ 
+
+37
+00:00:47,760 --> 00:00:50,350
+o resumo do card que aparece na
+listagem. Em capa da página, monte o
+
+38
+00:00:50,350 --> 00:00:50,360
+listagem. Em capa da página, monte o
+ 
+
+39
+00:00:50,360 --> 00:00:52,630
+listagem. Em capa da página, monte o
+slide do topo com fotos e vídeos do
+
+40
+00:00:52,630 --> 00:00:52,640
+slide do topo com fotos e vídeos do
+ 
+
+41
+00:00:52,640 --> 00:00:55,310
+slide do topo com fotos e vídeos do
+YouTube. Use as setas para ordenar. O
+
+42
+00:00:55,310 --> 00:00:55,320
+YouTube. Use as setas para ordenar. O
+ 
+
+43
+00:00:55,320 --> 00:00:57,950
+YouTube. Use as setas para ordenar. O
+primeiro item é o que abre. Logo abaixo,
+
+44
+00:00:57,950 --> 00:00:57,960
+primeiro item é o que abre. Logo abaixo,
+ 
+
+45
+00:00:57,960 --> 00:01:00,270
+primeiro item é o que abre. Logo abaixo,
+envie a foto de capa do card que aparece
+
+46
+00:01:00,270 --> 00:01:00,280
+envie a foto de capa do card que aparece
+ 
+
+47
+00:01:00,280 --> 00:01:02,830
+envie a foto de capa do card que aparece
+na listagem e a logo, um selo quadrado
+
+48
+00:01:02,830 --> 00:01:02,840
+na listagem e a logo, um selo quadrado
+ 
+
+49
+00:01:02,840 --> 00:01:05,270
+na listagem e a logo, um selo quadrado
+sobre a capa. Em texto, a frase de
+
+50
+00:01:05,270 --> 00:01:05,280
+sobre a capa. Em texto, a frase de
+ 
+
+51
+00:01:05,280 --> 00:01:07,270
+sobre a capa. Em texto, a frase de
+destaque que aparece em letra grande
+
+52
+00:01:07,270 --> 00:01:07,280
+destaque que aparece em letra grande
+ 
+
+53
+00:01:07,280 --> 00:01:09,750
+destaque que aparece em letra grande
+numa faixa rosa e a descrição completa
+
+54
+00:01:09,750 --> 00:01:09,760
+numa faixa rosa e a descrição completa
+ 
+
+55
+00:01:09,760 --> 00:01:12,510
+numa faixa rosa e a descrição completa
+da instituição. Em endereço, os mesmos
+
+56
+00:01:12,510 --> 00:01:12,520
+da instituição. Em endereço, os mesmos
+ 
+
+57
+00:01:12,520 --> 00:01:15,150
+da instituição. Em endereço, os mesmos
+campos do guia comercial. Digite o CEP,
+
+58
+00:01:15,150 --> 00:01:15,160
+campos do guia comercial. Digite o CEP,
+ 
+
+59
+00:01:15,160 --> 00:01:17,470
+campos do guia comercial. Digite o CEP,
+escolha a cidade e o bairro e o mapa é
+
+60
+00:01:17,470 --> 00:01:17,480
+escolha a cidade e o bairro e o mapa é
+ 
+
+61
+00:01:17,480 --> 00:01:20,230
+escolha a cidade e o bairro e o mapa é
+encontrado sozinho. Em galeria, adicione
+
+62
+00:01:20,230 --> 00:01:20,240
+encontrado sozinho. Em galeria, adicione
+ 
+
+63
+00:01:20,240 --> 00:01:22,950
+encontrado sozinho. Em galeria, adicione
+mais fotos e vídeos. Se ficar vazia, a
+
+64
+00:01:22,950 --> 00:01:22,960
+mais fotos e vídeos. Se ficar vazia, a
+ 
+
+65
+00:01:22,960 --> 00:01:25,670
+mais fotos e vídeos. Se ficar vazia, a
+seção some do site. Do lado direito, em
+
+66
+00:01:25,670 --> 00:01:25,680
+seção some do site. Do lado direito, em
+ 
+
+67
+00:01:25,680 --> 00:01:28,510
+seção some do site. Do lado direito, em
+botões e contato, informe o link conheça
+
+68
+00:01:28,510 --> 00:01:28,520
+botões e contato, informe o link conheça
+ 
+
+69
+00:01:28,520 --> 00:01:31,310
+botões e contato, informe o link conheça
+a instituição, o WhatsApp, o Instagram,
+
+70
+00:01:31,310 --> 00:01:31,320
+a instituição, o WhatsApp, o Instagram,
+ 
+
+71
+00:01:31,320 --> 00:01:34,070
+a instituição, o WhatsApp, o Instagram,
+o Facebook e o e-mail. Cada botão só
+
+72
+00:01:34,070 --> 00:01:34,080
+o Facebook e o e-mail. Cada botão só
+ 
+
+73
+00:01:34,080 --> 00:01:36,470
+o Facebook e o e-mail. Cada botão só
+aparece no site se estiver preenchido.
+
+74
+00:01:36,470 --> 00:01:36,480
+aparece no site se estiver preenchido.
+ 
+
+75
+00:01:36,480 --> 00:01:38,670
+aparece no site se estiver preenchido.
+Confira tudo e clique em salvar
+
+76
+00:01:38,670 --> 00:01:38,680
+Confira tudo e clique em salvar
+ 
+
+77
+00:01:38,680 --> 00:01:40,870
+Confira tudo e clique em salvar
+instituição. Ela vai para o site na
+
+78
+00:01:40,870 --> 00:01:40,880
+instituição. Ela vai para o site na
+ 
+
+79
+00:01:40,880 --> 00:01:44,270
+instituição. Ela vai para o site na
+hora. Agora, a aba causas. As causas
+
+80
+00:01:44,270 --> 00:01:44,280
+hora. Agora, a aba causas. As causas
+ 
+
+81
+00:01:44,280 --> 00:01:46,430
+hora. Agora, a aba causas. As causas
+organizam as instituições e viram os
+
+82
+00:01:46,430 --> 00:01:46,440
+organizam as instituições e viram os
+ 
+
+83
+00:01:46,440 --> 00:01:49,070
+organizam as instituições e viram os
+filtros da página pública de doações. No
+
+84
+00:01:49,070 --> 00:01:49,080
+filtros da página pública de doações. No
+ 
+
+85
+00:01:49,080 --> 00:01:51,230
+filtros da página pública de doações. No
+topo, os quadros mostram o total de
+
+86
+00:01:51,230 --> 00:01:51,240
+topo, os quadros mostram o total de
+ 
+
+87
+00:01:51,240 --> 00:01:53,790
+topo, os quadros mostram o total de
+causas, quantas estão em uso e quantas
+
+88
+00:01:53,790 --> 00:01:53,800
+causas, quantas estão em uso e quantas
+ 
+
+89
+00:01:53,800 --> 00:01:56,310
+causas, quantas estão em uso e quantas
+instituições existem. Cada cartão mostra
+
+90
+00:01:56,310 --> 00:01:56,320
+instituições existem. Cada cartão mostra
+ 
+
+91
+00:01:56,320 --> 00:01:58,750
+instituições existem. Cada cartão mostra
+a causa e quantas instituições ela tem
+
+92
+00:01:58,750 --> 00:01:58,760
+a causa e quantas instituições ela tem
+ 
+
+93
+00:01:58,760 --> 00:02:01,482
+a causa e quantas instituições ela tem
+com os botões editar e excluir. Para
+
+94
+00:02:01,482 --> 00:02:01,492
+com os botões editar e excluir. Para
+ 
+
+95
+00:02:01,492 --> 00:02:04,122
+com os botões editar e excluir. Para
+criar uma nova, clique em nova causa,
+
+96
+00:02:04,122 --> 00:02:04,132
+criar uma nova, clique em nova causa,
+ 
+
+97
+00:02:04,132 --> 00:02:07,082
+criar uma nova, clique em nova causa,
+digite o nome e clique em criar causa.
+
+98
+00:02:07,082 --> 00:02:07,092
+digite o nome e clique em criar causa.
+ 
+
+99
+00:02:07,092 --> 00:02:09,682
+digite o nome e clique em criar causa.
+No portal, a página doações abre com o
+
+100
+00:02:09,682 --> 00:02:09,692
+No portal, a página doações abre com o
+ 
+
+101
+00:02:09,692 --> 00:02:12,482
+No portal, a página doações abre com o
+convite Corrente do Bem e o vídeo Veja
+
+102
+00:02:12,482 --> 00:02:12,492
+convite Corrente do Bem e o vídeo Veja
+ 
+
+103
+00:02:12,492 --> 00:02:15,082
+convite Corrente do Bem e o vídeo Veja
+como funciona. Logo abaixo, o visitante
+
+104
+00:02:15,082 --> 00:02:15,092
+como funciona. Logo abaixo, o visitante
+ 
+
+105
+00:02:15,092 --> 00:02:17,402
+como funciona. Logo abaixo, o visitante
+busca por nome, cidade ou pelo que a
+
+106
+00:02:17,402 --> 00:02:17,412
+busca por nome, cidade ou pelo que a
+ 
+
+107
+00:02:17,412 --> 00:02:19,802
+busca por nome, cidade ou pelo que a
+instituição faz e filtra pelas causas
+
+108
+00:02:19,802 --> 00:02:19,812
+instituição faz e filtra pelas causas
+ 
+
+109
+00:02:19,812 --> 00:02:21,922
+instituição faz e filtra pelas causas
+que você cadastrou. Cada instituição
+
+110
+00:02:21,922 --> 00:02:21,932
+que você cadastrou. Cada instituição
+ 
+
+111
+00:02:21,932 --> 00:02:25,042
+que você cadastrou. Cada instituição
+aparece num card com a foto, a cidade, o
+
+112
+00:02:25,042 --> 00:02:25,052
+aparece num card com a foto, a cidade, o
+ 
+
+113
+00:02:25,052 --> 00:02:28,002
+aparece num card com a foto, a cidade, o
+resumo e o botão Conheça a instituição.
+
+114
+00:02:28,002 --> 00:02:28,012
+resumo e o botão Conheça a instituição.
+ 
+
+115
+00:02:28,012 --> 00:02:30,722
+resumo e o botão Conheça a instituição.
+Na página da instituição ficam a capa, a
+
+116
+00:02:30,722 --> 00:02:30,732
+Na página da instituição ficam a capa, a
+ 
+
+117
+00:02:30,732 --> 00:02:33,602
+Na página da instituição ficam a capa, a
+causa, a cidade, os botões Conheça a
+
+118
+00:02:33,602 --> 00:02:33,612
+causa, a cidade, os botões Conheça a
+ 
+
+119
+00:02:33,612 --> 00:02:35,922
+causa, a cidade, os botões Conheça a
+instituição e Falar no WhatsApp, as
+
+120
+00:02:35,922 --> 00:02:35,932
+instituição e Falar no WhatsApp, as
+ 
+
+121
+00:02:35,932 --> 00:02:38,482
+instituição e Falar no WhatsApp, as
+redes sociais e o botão de copiar o link
+
+122
+00:02:38,482 --> 00:02:38,492
+redes sociais e o botão de copiar o link
+ 
+
+123
+00:02:38,492 --> 00:02:40,522
+redes sociais e o botão de copiar o link
+para compartilhar. Mais abaixo, a
+
+124
+00:02:40,522 --> 00:02:40,532
+para compartilhar. Mais abaixo, a
+ 
+
+125
+00:02:40,532 --> 00:02:42,522
+para compartilhar. Mais abaixo, a
+descrição completa, o mapa com o
+
+126
+00:02:42,522 --> 00:02:42,532
+descrição completa, o mapa com o
+ 
+
+127
+00:02:42,532 --> 00:02:45,042
+descrição completa, o mapa com o
+endereço, o botão Como chegar e a
+
+128
+00:02:45,042 --> 00:02:45,052
+endereço, o botão Como chegar e a
+ 
+
+129
+00:02:45,052 --> 00:02:47,802
+endereço, o botão Como chegar e a
+galeria. E no celular, tudo fica fácil
+
+130
+00:02:47,802 --> 00:02:47,812
+galeria. E no celular, tudo fica fácil
+ 
+
+131
+00:02:47,812 --> 00:02:50,442
+galeria. E no celular, tudo fica fácil
+de ler e de entrar em contato. Pronto.
+
+132
+00:02:50,442 --> 00:02:50,452
+de ler e de entrar em contato. Pronto.
+ 
+
+133
+00:02:50,452 --> 00:02:52,602
+de ler e de entrar em contato. Pronto.
+Cadastre as causas e as instituições da
+
+134
+00:02:52,602 --> 00:02:52,612
+Cadastre as causas e as instituições da
+ 
+
+135
+00:02:52,612 --> 00:02:55,482
+Cadastre as causas e as instituições da
+sua cidade e ajude cada projeto social a
+
+136
+00:02:55,482 --> 00:02:55,492
+sua cidade e ajude cada projeto social a
+ 
+
+137
+00:02:55,492 --> 00:02:59,012
+sua cidade e ajude cada projeto social a
+encontrar quem quer ajudar.
+

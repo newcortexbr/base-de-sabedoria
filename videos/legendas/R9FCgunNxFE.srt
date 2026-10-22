@@ -1,0 +1,2085 @@
+1
+00:00:00,440 --> 00:00:02,830
+ 
+Nesse vídeo eu vou direto ao ponto sobre
+
+2
+00:00:02,830 --> 00:00:02,840
+Nesse vídeo eu vou direto ao ponto sobre
+ 
+
+3
+00:00:02,840 --> 00:00:05,670
+Nesse vídeo eu vou direto ao ponto sobre
+como funciona a extração da nossa
+
+4
+00:00:05,670 --> 00:00:05,680
+como funciona a extração da nossa
+ 
+
+5
+00:00:05,680 --> 00:00:08,270
+como funciona a extração da nossa
+plataforma Gmaps, né? Como você pode
+
+6
+00:00:08,270 --> 00:00:08,280
+plataforma Gmaps, né? Como você pode
+ 
+
+7
+00:00:08,280 --> 00:00:11,350
+plataforma Gmaps, né? Como você pode
+extrair leads da nossa plataforma Gmaps.
+
+8
+00:00:11,350 --> 00:00:11,360
+extrair leads da nossa plataforma Gmaps.
+ 
+
+9
+00:00:11,360 --> 00:00:14,310
+extrair leads da nossa plataforma Gmaps.
+Lembrando que esse vídeo eu vou focar
+
+10
+00:00:14,310 --> 00:00:14,320
+Lembrando que esse vídeo eu vou focar
+ 
+
+11
+00:00:14,320 --> 00:00:16,630
+Lembrando que esse vídeo eu vou focar
+direto no processo de extração, mas a
+
+12
+00:00:16,630 --> 00:00:16,640
+direto no processo de extração, mas a
+ 
+
+13
+00:00:16,640 --> 00:00:18,670
+direto no processo de extração, mas a
+explicação completa de como funciona a
+
+14
+00:00:18,670 --> 00:00:18,680
+explicação completa de como funciona a
+ 
+
+15
+00:00:18,680 --> 00:00:20,550
+explicação completa de como funciona a
+plataforma, como funciona a compra de
+
+16
+00:00:20,550 --> 00:00:20,560
+plataforma, como funciona a compra de
+ 
+
+17
+00:00:20,560 --> 00:00:22,870
+plataforma, como funciona a compra de
+créditos, por que existe opção de compra
+
+18
+00:00:22,870 --> 00:00:22,880
+créditos, por que existe opção de compra
+ 
+
+19
+00:00:22,880 --> 00:00:24,510
+créditos, por que existe opção de compra
+de créditos, você vai ver no vídeo
+
+20
+00:00:24,510 --> 00:00:24,520
+de créditos, você vai ver no vídeo
+ 
+
+21
+00:00:24,520 --> 00:00:26,270
+de créditos, você vai ver no vídeo
+principal aqui da dashboard, beleza? Tem
+
+22
+00:00:26,270 --> 00:00:26,280
+principal aqui da dashboard, beleza? Tem
+ 
+
+23
+00:00:26,280 --> 00:00:28,590
+principal aqui da dashboard, beleza? Tem
+que ver lá que eu explico detalhadamente
+
+24
+00:00:28,590 --> 00:00:28,600
+que ver lá que eu explico detalhadamente
+ 
+
+25
+00:00:28,600 --> 00:00:30,870
+que ver lá que eu explico detalhadamente
+o por que disso, né? A outra plataforma
+
+26
+00:00:30,870 --> 00:00:30,880
+o por que disso, né? A outra plataforma
+ 
+
+27
+00:00:30,880 --> 00:00:32,790
+o por que disso, né? A outra plataforma
+nós entregamos gratuitamente para você,
+
+28
+00:00:32,790 --> 00:00:32,800
+nós entregamos gratuitamente para você,
+ 
+
+29
+00:00:32,800 --> 00:00:35,230
+nós entregamos gratuitamente para você,
+mas essa tem compra de crédito porque
+
+30
+00:00:35,230 --> 00:00:35,240
+mas essa tem compra de crédito porque
+ 
+
+31
+00:00:35,240 --> 00:00:38,670
+mas essa tem compra de crédito porque
+nós temos que pagar pela API que usamos
+
+32
+00:00:38,670 --> 00:00:38,680
+nós temos que pagar pela API que usamos
+ 
+
+33
+00:00:38,680 --> 00:00:40,990
+nós temos que pagar pela API que usamos
+do Google Maps, beleza? Agora, [música]
+
+34
+00:00:40,990 --> 00:00:41,000
+do Google Maps, beleza? Agora, [música]
+ 
+
+35
+00:00:41,000 --> 00:00:42,910
+do Google Maps, beleza? Agora, [música]
+é, deixa eu só explicar rapidamente qual
+
+36
+00:00:42,910 --> 00:00:42,920
+é, deixa eu só explicar rapidamente qual
+ 
+
+37
+00:00:42,920 --> 00:00:44,950
+é, deixa eu só explicar rapidamente qual
+a diferença dessa plataforma, né, para
+
+38
+00:00:44,950 --> 00:00:44,960
+a diferença dessa plataforma, né, para
+ 
+
+39
+00:00:44,960 --> 00:00:47,350
+a diferença dessa plataforma, né, para
+outra plataforma que é a base da Receita
+
+40
+00:00:47,350 --> 00:00:47,360
+outra plataforma que é a base da Receita
+ 
+
+41
+00:00:47,360 --> 00:00:50,030
+outra plataforma que é a base da Receita
+Federal. A outra plataforma tem todos os
+
+42
+00:00:50,030 --> 00:00:50,040
+Federal. A outra plataforma tem todos os
+ 
+
+43
+00:00:50,040 --> 00:00:52,510
+Federal. A outra plataforma tem todos os
+CNPJs, do jeito que os CNPJs são
+
+44
+00:00:52,510 --> 00:00:52,520
+CNPJs, do jeito que os CNPJs são
+ 
+
+45
+00:00:52,520 --> 00:00:55,030
+CNPJs, do jeito que os CNPJs são
+cadastrados na Receita Federal. Essa é
+
+46
+00:00:55,030 --> 00:00:55,040
+cadastrados na Receita Federal. Essa é
+ 
+
+47
+00:00:55,040 --> 00:00:57,750
+cadastrados na Receita Federal. Essa é
+do Google Maps, então ela, o, a base de
+
+48
+00:00:57,750 --> 00:00:57,760
+do Google Maps, então ela, o, a base de
+ 
+
+49
+00:00:57,760 --> 00:00:59,990
+do Google Maps, então ela, o, a base de
+contatos às vezes é melhor para você
+
+50
+00:00:59,990 --> 00:01:00,000
+contatos às vezes é melhor para você
+ 
+
+51
+00:01:00,000 --> 00:01:01,550
+contatos às vezes é melhor para você
+entrar em contato com a empresa direto
+
+52
+00:01:01,550 --> 00:01:01,560
+entrar em contato com a empresa direto
+ 
+
+53
+00:01:01,560 --> 00:01:03,150
+entrar em contato com a empresa direto
+no WhatsApp de atendimento, fechar
+
+54
+00:01:03,150 --> 00:01:03,160
+no WhatsApp de atendimento, fechar
+ 
+
+55
+00:01:03,160 --> 00:01:05,470
+no WhatsApp de atendimento, fechar
+negócios e também as informações da
+
+56
+00:01:05,470 --> 00:01:05,480
+negócios e também as informações da
+ 
+
+57
+00:01:05,480 --> 00:01:08,990
+negócios e também as informações da
+empresa aqui estão prontas para importar
+
+58
+00:01:08,990 --> 00:01:09,000
+empresa aqui estão prontas para importar
+ 
+
+59
+00:01:09,000 --> 00:01:11,590
+empresa aqui estão prontas para importar
+direto no seu portal, lá na sua área de
+
+60
+00:01:11,590 --> 00:01:11,600
+direto no seu portal, lá na sua área de
+ 
+
+61
+00:01:11,600 --> 00:01:13,750
+direto no seu portal, lá na sua área de
+treinamento, eu te ensino uma estratégia
+
+62
+00:01:13,750 --> 00:01:13,760
+treinamento, eu te ensino uma estratégia
+ 
+
+63
+00:01:13,760 --> 00:01:15,750
+treinamento, eu te ensino uma estratégia
+que eu acho interessante que é você
+
+64
+00:01:15,750 --> 00:01:15,760
+que eu acho interessante que é você
+ 
+
+65
+00:01:15,760 --> 00:01:18,310
+que eu acho interessante que é você
+baixar uma base de empresas da sua
+
+66
+00:01:18,310 --> 00:01:18,320
+baixar uma base de empresas da sua
+ 
+
+67
+00:01:18,320 --> 00:01:21,590
+baixar uma base de empresas da sua
+cidade e jogar direto no seu portal, que
+
+68
+00:01:21,590 --> 00:01:21,600
+cidade e jogar direto no seu portal, que
+ 
+
+69
+00:01:21,600 --> 00:01:24,630
+cidade e jogar direto no seu portal, que
+é justamente usando essa função aqui de
+
+70
+00:01:24,630 --> 00:01:24,640
+é justamente usando essa função aqui de
+ 
+
+71
+00:01:24,640 --> 00:01:27,070
+é justamente usando essa função aqui de
+base para portal, beleza? Então vamos
+
+72
+00:01:27,070 --> 00:01:27,080
+base para portal, beleza? Então vamos
+ 
+
+73
+00:01:27,080 --> 00:01:30,110
+base para portal, beleza? Então vamos
+lá, no processo de extração, é, você
+
+74
+00:01:30,110 --> 00:01:30,120
+lá, no processo de extração, é, você
+ 
+
+75
+00:01:30,120 --> 00:01:31,950
+lá, no processo de extração, é, você
+tem, a primeira coisa é escolher qual a
+
+76
+00:01:31,950 --> 00:01:31,960
+tem, a primeira coisa é escolher qual a
+ 
+
+77
+00:01:31,960 --> 00:01:33,550
+tem, a primeira coisa é escolher qual a
+finalidade. Qual a diferença de
+
+78
+00:01:33,550 --> 00:01:33,560
+finalidade. Qual a diferença de
+ 
+
+79
+00:01:33,560 --> 00:01:36,150
+finalidade. Qual a diferença de
+prospecção para base para o portal?
+
+80
+00:01:36,150 --> 00:01:36,160
+prospecção para base para o portal?
+ 
+
+81
+00:01:36,160 --> 00:01:38,710
+prospecção para base para o portal?
+Diferença é justamente que a lista que
+
+82
+00:01:38,710 --> 00:01:38,720
+Diferença é justamente que a lista que
+ 
+
+83
+00:01:38,720 --> 00:01:41,070
+Diferença é justamente que a lista que
+você escolhe prospecção, ela vem mais
+
+84
+00:01:41,070 --> 00:01:41,080
+você escolhe prospecção, ela vem mais
+ 
+
+85
+00:01:41,080 --> 00:01:43,510
+você escolhe prospecção, ela vem mais
+enxuta, ela não vem com foto, avaliação
+
+86
+00:01:43,510 --> 00:01:43,520
+enxuta, ela não vem com foto, avaliação
+ 
+
+87
+00:01:43,520 --> 00:01:46,550
+enxuta, ela não vem com foto, avaliação
+do Google, é, link do Google, link da
+
+88
+00:01:46,550 --> 00:01:46,560
+do Google, é, link do Google, link da
+ 
+
+89
+00:01:46,560 --> 00:01:48,230
+do Google, é, link do Google, link da
+logo, ela não tem essas informações
+
+90
+00:01:48,230 --> 00:01:48,240
+logo, ela não tem essas informações
+ 
+
+91
+00:01:48,240 --> 00:01:50,630
+logo, ela não tem essas informações
+porque não é necessário. Já se você
+
+92
+00:01:50,630 --> 00:01:50,640
+porque não é necessário. Já se você
+ 
+
+93
+00:01:50,640 --> 00:01:53,030
+porque não é necessário. Já se você
+quiser baixar a lista do Google para
+
+94
+00:01:53,030 --> 00:01:53,040
+quiser baixar a lista do Google para
+ 
+
+95
+00:01:53,040 --> 00:01:55,790
+quiser baixar a lista do Google para
+importar no seu portal, ter um volume
+
+96
+00:01:55,790 --> 00:01:55,800
+importar no seu portal, ter um volume
+ 
+
+97
+00:01:55,800 --> 00:01:57,590
+importar no seu portal, ter um volume
+maior de empresas dentro do portal e
+
+98
+00:01:57,590 --> 00:01:57,600
+maior de empresas dentro do portal e
+ 
+
+99
+00:01:57,600 --> 00:01:59,110
+maior de empresas dentro do portal e
+depois entrar em contato com elas
+
+100
+00:01:59,110 --> 00:01:59,120
+depois entrar em contato com elas
+ 
+
+101
+00:01:59,120 --> 00:02:00,510
+depois entrar em contato com elas
+oferecendo upgrade que é bem
+
+102
+00:02:00,510 --> 00:02:00,520
+oferecendo upgrade que é bem
+ 
+
+103
+00:02:00,520 --> 00:02:03,430
+oferecendo upgrade que é bem
+interessante, você usa a opção base para
+
+104
+00:02:03,430 --> 00:02:03,440
+interessante, você usa a opção base para
+ 
+
+105
+00:02:03,440 --> 00:02:05,110
+interessante, você usa a opção base para
+portal. Para te explicar como usar a
+
+106
+00:02:05,110 --> 00:02:05,120
+portal. Para te explicar como usar a
+ 
+
+107
+00:02:05,120 --> 00:02:08,109
+portal. Para te explicar como usar a
+plataforma, eu vou usar essa função base
+
+108
+00:02:08,109 --> 00:02:08,119
+plataforma, eu vou usar essa função base
+ 
+
+109
+00:02:08,119 --> 00:02:10,150
+plataforma, eu vou usar essa função base
+para portal, beleza? Então eu clico
+
+110
+00:02:10,150 --> 00:02:10,160
+para portal, beleza? Então eu clico
+ 
+
+111
+00:02:10,160 --> 00:02:13,070
+para portal, beleza? Então eu clico
+aqui, clico em avançar. Primeira coisa e
+
+112
+00:02:13,070 --> 00:02:13,080
+aqui, clico em avançar. Primeira coisa e
+ 
+
+113
+00:02:13,080 --> 00:02:15,070
+aqui, clico em avançar. Primeira coisa e
+muito importante a escolher, qual a
+
+114
+00:02:15,070 --> 00:02:15,080
+muito importante a escolher, qual a
+ 
+
+115
+00:02:15,080 --> 00:02:17,270
+muito importante a escolher, qual a
+localização que eu quero? Lembrando que
+
+116
+00:02:17,270 --> 00:02:17,280
+localização que eu quero? Lembrando que
+ 
+
+117
+00:02:17,280 --> 00:02:19,750
+localização que eu quero? Lembrando que
+diferente da plataforma Dados PJ, aqui
+
+118
+00:02:19,750 --> 00:02:19,760
+diferente da plataforma Dados PJ, aqui
+ 
+
+119
+00:02:19,760 --> 00:02:21,510
+diferente da plataforma Dados PJ, aqui
+você pode extrair o estado que você
+
+120
+00:02:21,510 --> 00:02:21,520
+você pode extrair o estado que você
+ 
+
+121
+00:02:21,520 --> 00:02:23,710
+você pode extrair o estado que você
+quiser, cidade que você quiser. Eu vou
+
+122
+00:02:23,710 --> 00:02:23,720
+quiser, cidade que você quiser. Eu vou
+ 
+
+123
+00:02:23,720 --> 00:02:25,430
+quiser, cidade que você quiser. Eu vou
+começar aqui escolhendo meu estado,
+
+124
+00:02:25,430 --> 00:02:25,440
+começar aqui escolhendo meu estado,
+ 
+
+125
+00:02:25,440 --> 00:02:27,510
+começar aqui escolhendo meu estado,
+Espírito Santo e a minha cidade que é a
+
+126
+00:02:27,510 --> 00:02:27,520
+Espírito Santo e a minha cidade que é a
+ 
+
+127
+00:02:27,520 --> 00:02:29,670
+Espírito Santo e a minha cidade que é a
+cidade de Vila Velha. Que que é um ponto
+
+128
+00:02:29,670 --> 00:02:29,680
+cidade de Vila Velha. Que que é um ponto
+ 
+
+129
+00:02:29,680 --> 00:02:31,630
+cidade de Vila Velha. Que que é um ponto
+importante aqui? Eu posso escolher mais
+
+130
+00:02:31,630 --> 00:02:31,640
+importante aqui? Eu posso escolher mais
+ 
+
+131
+00:02:31,640 --> 00:02:34,590
+importante aqui? Eu posso escolher mais
+de uma cidade? Posso. Só voltar aqui
+
+132
+00:02:34,590 --> 00:02:34,600
+de uma cidade? Posso. Só voltar aqui
+ 
+
+133
+00:02:34,600 --> 00:02:37,470
+de uma cidade? Posso. Só voltar aqui
+e escolher, ó, por exemplo, as três
+
+134
+00:02:37,470 --> 00:02:37,480
+e escolher, ó, por exemplo, as três
+ 
+
+135
+00:02:37,480 --> 00:02:38,949
+e escolher, ó, por exemplo, as três
+maiores cidades aqui da região
+
+136
+00:02:38,949 --> 00:02:38,959
+maiores cidades aqui da região
+ 
+
+137
+00:02:38,959 --> 00:02:40,790
+maiores cidades aqui da região
+metropolitana, Vila Velha, Serra e
+
+138
+00:02:40,790 --> 00:02:40,800
+metropolitana, Vila Velha, Serra e
+ 
+
+139
+00:02:40,800 --> 00:02:43,350
+metropolitana, Vila Velha, Serra e
+Vitória. Eu posso escolher e seguir. Só
+
+140
+00:02:43,350 --> 00:02:43,360
+Vitória. Eu posso escolher e seguir. Só
+ 
+
+141
+00:02:43,360 --> 00:02:45,710
+Vitória. Eu posso escolher e seguir. Só
+lembrando o seguinte, se eu escolhi mais
+
+142
+00:02:45,710 --> 00:02:45,720
+lembrando o seguinte, se eu escolhi mais
+ 
+
+143
+00:02:45,720 --> 00:02:48,030
+lembrando o seguinte, se eu escolhi mais
+de uma cidade, eu não consigo, a opção
+
+144
+00:02:48,030 --> 00:02:48,040
+de uma cidade, eu não consigo, a opção
+ 
+
+145
+00:02:48,040 --> 00:02:50,470
+de uma cidade, eu não consigo, a opção
+de bairro fica travado. Se eu quiser
+
+146
+00:02:50,470 --> 00:02:50,480
+de bairro fica travado. Se eu quiser
+ 
+
+147
+00:02:50,480 --> 00:02:52,150
+de bairro fica travado. Se eu quiser
+segmentar por bairros, eu tenho que
+
+148
+00:02:52,150 --> 00:02:52,160
+segmentar por bairros, eu tenho que
+ 
+
+149
+00:02:52,160 --> 00:02:54,990
+segmentar por bairros, eu tenho que
+escolher uma cidade só. Então poderia,
+
+150
+00:02:54,990 --> 00:02:55,000
+escolher uma cidade só. Então poderia,
+ 
+
+151
+00:02:55,000 --> 00:02:57,310
+escolher uma cidade só. Então poderia,
+por exemplo, poderia remover Vitória e
+
+152
+00:02:57,310 --> 00:02:57,320
+por exemplo, poderia remover Vitória e
+ 
+
+153
+00:02:57,320 --> 00:02:59,390
+por exemplo, poderia remover Vitória e
+aqui eu escolho os bairros. Como que eu
+
+154
+00:02:59,390 --> 00:02:59,400
+aqui eu escolho os bairros. Como que eu
+ 
+
+155
+00:02:59,400 --> 00:03:01,470
+aqui eu escolho os bairros. Como que eu
+escolho os bairros? Você digita o nome
+
+156
+00:03:01,470 --> 00:03:01,480
+escolho os bairros? Você digita o nome
+ 
+
+157
+00:03:01,480 --> 00:03:04,070
+escolho os bairros? Você digita o nome
+do bairro e depois vírgula. Por exemplo,
+
+158
+00:03:04,070 --> 00:03:04,080
+do bairro e depois vírgula. Por exemplo,
+ 
+
+159
+00:03:04,080 --> 00:03:07,150
+do bairro e depois vírgula. Por exemplo,
+ó, Praia da Costa,
+
+160
+00:03:07,150 --> 00:03:07,160
+ó, Praia da Costa,
+ 
+
+161
+00:03:07,160 --> 00:03:10,550
+ó, Praia da Costa,
+vírgula. Sugiro você não utilizar aqui
+
+162
+00:03:10,550 --> 00:03:10,560
+vírgula. Sugiro você não utilizar aqui
+ 
+
+163
+00:03:10,560 --> 00:03:12,949
+vírgula. Sugiro você não utilizar aqui
+acentuação, cedilha, algo nesse sentido,
+
+164
+00:03:12,949 --> 00:03:12,959
+acentuação, cedilha, algo nesse sentido,
+ 
+
+165
+00:03:12,959 --> 00:03:15,270
+acentuação, cedilha, algo nesse sentido,
+tá? Então aqui eu vou tirar a opção de
+
+166
+00:03:15,270 --> 00:03:15,280
+tá? Então aqui eu vou tirar a opção de
+ 
+
+167
+00:03:15,280 --> 00:03:16,590
+tá? Então aqui eu vou tirar a opção de
+bairro, não vou usar nesse primeiro
+
+168
+00:03:16,590 --> 00:03:16,600
+bairro, não vou usar nesse primeiro
+ 
+
+169
+00:03:16,600 --> 00:03:18,750
+bairro, não vou usar nesse primeiro
+momento e vou escolher aqui duas
+
+170
+00:03:18,750 --> 00:03:18,760
+momento e vou escolher aqui duas
+ 
+
+171
+00:03:18,760 --> 00:03:21,070
+momento e vou escolher aqui duas
+cidades, beleza? Ah, eu quero pegar da
+
+172
+00:03:21,070 --> 00:03:21,080
+cidades, beleza? Ah, eu quero pegar da
+ 
+
+173
+00:03:21,080 --> 00:03:23,430
+cidades, beleza? Ah, eu quero pegar da
+cidade vizinha também. Aí a estratégia é
+
+174
+00:03:23,430 --> 00:03:23,440
+cidade vizinha também. Aí a estratégia é
+ 
+
+175
+00:03:23,440 --> 00:03:25,750
+cidade vizinha também. Aí a estratégia é
+sua, você pode usar a plataforma como
+
+176
+00:03:25,750 --> 00:03:25,760
+sua, você pode usar a plataforma como
+ 
+
+177
+00:03:25,760 --> 00:03:28,190
+sua, você pode usar a plataforma como
+você entender, [música] beleza? Então
+
+178
+00:03:28,190 --> 00:03:28,200
+você entender, [música] beleza? Então
+ 
+
+179
+00:03:28,200 --> 00:03:30,710
+você entender, [música] beleza? Então
+aqui eu clico em avançar, escolhi duas
+
+180
+00:03:30,710 --> 00:03:30,720
+aqui eu clico em avançar, escolhi duas
+ 
+
+181
+00:03:30,720 --> 00:03:33,430
+aqui eu clico em avançar, escolhi duas
+cidades. Aqui um ponto importante, na
+
+182
+00:03:33,430 --> 00:03:33,440
+cidades. Aqui um ponto importante, na
+ 
+
+183
+00:03:33,440 --> 00:03:35,790
+cidades. Aqui um ponto importante, na
+escolha do nicho, tá? Na escolha do
+
+184
+00:03:35,790 --> 00:03:35,800
+escolha do nicho, tá? Na escolha do
+ 
+
+185
+00:03:35,800 --> 00:03:38,270
+escolha do nicho, tá? Na escolha do
+nicho, eu só posso escolher um nicho por
+
+186
+00:03:38,270 --> 00:03:38,280
+nicho, eu só posso escolher um nicho por
+ 
+
+187
+00:03:38,280 --> 00:03:40,430
+nicho, eu só posso escolher um nicho por
+extração. Rafael, mas então eu vou ter
+
+188
+00:03:40,430 --> 00:03:40,440
+extração. Rafael, mas então eu vou ter
+ 
+
+189
+00:03:40,440 --> 00:03:43,550
+extração. Rafael, mas então eu vou ter
+que fazer cinco extrações, 10 extrações?
+
+190
+00:03:43,550 --> 00:03:43,560
+que fazer cinco extrações, 10 extrações?
+ 
+
+191
+00:03:43,560 --> 00:03:45,509
+que fazer cinco extrações, 10 extrações?
+É isso, a plataforma funciona desse
+
+192
+00:03:45,509 --> 00:03:45,519
+É isso, a plataforma funciona desse
+ 
+
+193
+00:03:45,519 --> 00:03:48,350
+É isso, a plataforma funciona desse
+jeito, né? O API do Google nos cobra
+
+194
+00:03:48,350 --> 00:03:48,360
+jeito, né? O API do Google nos cobra
+ 
+
+195
+00:03:48,360 --> 00:03:50,070
+jeito, né? O API do Google nos cobra
+esse escopo. Então o que que eu posso
+
+196
+00:03:50,070 --> 00:03:50,080
+esse escopo. Então o que que eu posso
+ 
+
+197
+00:03:50,080 --> 00:03:52,110
+esse escopo. Então o que que eu posso
+fazer aqui? Você tem duas alternativas.
+
+198
+00:03:52,110 --> 00:03:52,120
+fazer aqui? Você tem duas alternativas.
+ 
+
+199
+00:03:52,120 --> 00:03:53,670
+fazer aqui? Você tem duas alternativas.
+Você pode escolher um nicho, por
+
+200
+00:03:53,670 --> 00:03:53,680
+Você pode escolher um nicho, por
+ 
+
+201
+00:03:53,680 --> 00:03:54,870
+Você pode escolher um nicho, por
+exemplo, eu posso colocar aqui
+
+202
+00:03:54,870 --> 00:03:54,880
+exemplo, eu posso colocar aqui
+ 
+
+203
+00:03:54,880 --> 00:03:57,350
+exemplo, eu posso colocar aqui
+barbearia, ou então eu vou colocar aqui,
+
+204
+00:03:57,350 --> 00:03:57,360
+barbearia, ou então eu vou colocar aqui,
+ 
+
+205
+00:03:57,360 --> 00:03:59,150
+barbearia, ou então eu vou colocar aqui,
+ó, eu fiz um teste agora com oficina
+
+206
+00:03:59,150 --> 00:03:59,160
+ó, eu fiz um teste agora com oficina
+ 
+
+207
+00:03:59,160 --> 00:04:02,070
+ó, eu fiz um teste agora com oficina
+mecânica, eu vou colocar imobiliária.
+
+208
+00:04:02,070 --> 00:04:02,080
+mecânica, eu vou colocar imobiliária.
+ 
+
+209
+00:04:02,080 --> 00:04:04,430
+mecânica, eu vou colocar imobiliária.
+Beleza? Imobiliária. Eu posso colocar
+
+210
+00:04:04,430 --> 00:04:04,440
+Beleza? Imobiliária. Eu posso colocar
+ 
+
+211
+00:04:04,440 --> 00:04:06,710
+Beleza? Imobiliária. Eu posso colocar
+imobiliária, eu posso colocar outros
+
+212
+00:04:06,710 --> 00:04:06,720
+imobiliária, eu posso colocar outros
+ 
+
+213
+00:04:06,720 --> 00:04:09,590
+imobiliária, eu posso colocar outros
+nichos aqui, mas é só um por vez.
+
+214
+00:04:09,590 --> 00:04:09,600
+nichos aqui, mas é só um por vez.
+ 
+
+215
+00:04:09,600 --> 00:04:12,910
+nichos aqui, mas é só um por vez.
+Ou você pode deixar sem nada. Se você
+
+216
+00:04:12,910 --> 00:04:12,920
+Ou você pode deixar sem nada. Se você
+ 
+
+217
+00:04:12,920 --> 00:04:14,870
+Ou você pode deixar sem nada. Se você
+deixar sem nada, que que vai acontecer?
+
+218
+00:04:14,870 --> 00:04:14,880
+deixar sem nada, que que vai acontecer?
+ 
+
+219
+00:04:14,880 --> 00:04:17,710
+deixar sem nada, que que vai acontecer?
+O sistema vai mapear todas as empresas
+
+220
+00:04:17,710 --> 00:04:17,720
+O sistema vai mapear todas as empresas
+ 
+
+221
+00:04:17,720 --> 00:04:20,630
+O sistema vai mapear todas as empresas
+daquelas cidades ou das cidades e os
+
+222
+00:04:20,630 --> 00:04:20,640
+daquelas cidades ou das cidades e os
+ 
+
+223
+00:04:20,640 --> 00:04:22,390
+daquelas cidades ou das cidades e os
+bairros que você escolheu.
+
+224
+00:04:22,390 --> 00:04:22,400
+bairros que você escolheu.
+ 
+
+225
+00:04:22,400 --> 00:04:24,430
+bairros que você escolheu.
+Óbvio que ele não vai consumir todos os
+
+226
+00:04:24,430 --> 00:04:24,440
+Óbvio que ele não vai consumir todos os
+ 
+
+227
+00:04:24,440 --> 00:04:26,670
+Óbvio que ele não vai consumir todos os
+seus créditos, antes você tem ali uma
+
+228
+00:04:26,670 --> 00:04:26,680
+seus créditos, antes você tem ali uma
+ 
+
+229
+00:04:26,680 --> 00:04:28,230
+seus créditos, antes você tem ali uma
+limitação, você pode limitar a
+
+230
+00:04:28,230 --> 00:04:28,240
+limitação, você pode limitar a
+ 
+
+231
+00:04:28,240 --> 00:04:30,110
+limitação, você pode limitar a
+quantidade de créditos consumida. Mas eu
+
+232
+00:04:30,110 --> 00:04:30,120
+quantidade de créditos consumida. Mas eu
+ 
+
+233
+00:04:30,120 --> 00:04:32,150
+quantidade de créditos consumida. Mas eu
+vou deixar aqui imobiliária, clique em
+
+234
+00:04:32,150 --> 00:04:32,160
+vou deixar aqui imobiliária, clique em
+ 
+
+235
+00:04:32,160 --> 00:04:34,630
+vou deixar aqui imobiliária, clique em
+avançar, o sistema faz aqui uma uma
+
+236
+00:04:34,630 --> 00:04:34,640
+avançar, o sistema faz aqui uma uma
+ 
+
+237
+00:04:34,640 --> 00:04:36,390
+avançar, o sistema faz aqui uma uma
+limpeza, se você escrever o nicho errado
+
+238
+00:04:36,390 --> 00:04:36,400
+limpeza, se você escrever o nicho errado
+ 
+
+239
+00:04:36,400 --> 00:04:38,110
+limpeza, se você escrever o nicho errado
+e tal, ele identifica, tá? Por isso tem
+
+240
+00:04:38,110 --> 00:04:38,120
+e tal, ele identifica, tá? Por isso tem
+ 
+
+241
+00:04:38,120 --> 00:04:40,150
+e tal, ele identifica, tá? Por isso tem
+aquele processo. E aqui eu vou escolher
+
+242
+00:04:40,150 --> 00:04:40,160
+aquele processo. E aqui eu vou escolher
+ 
+
+243
+00:04:40,160 --> 00:04:41,230
+aquele processo. E aqui eu vou escolher
+o seguinte:
+
+244
+00:04:41,230 --> 00:04:41,240
+o seguinte:
+ 
+
+245
+00:04:41,240 --> 00:04:44,390
+o seguinte:
+quantidade máxima de registros por
+
+246
+00:04:44,390 --> 00:04:44,400
+quantidade máxima de registros por
+ 
+
+247
+00:04:44,400 --> 00:04:45,909
+quantidade máxima de registros por
+busca. Por que essa parte é
+
+248
+00:04:45,909 --> 00:04:45,919
+busca. Por que essa parte é
+ 
+
+249
+00:04:45,919 --> 00:04:47,990
+busca. Por que essa parte é
+interessante? Porque é o seguinte, se
+
+250
+00:04:47,990 --> 00:04:48,000
+interessante? Porque é o seguinte, se
+ 
+
+251
+00:04:48,000 --> 00:04:50,430
+interessante? Porque é o seguinte, se
+você tá fazendo uma busca de duas
+
+252
+00:04:50,430 --> 00:04:50,440
+você tá fazendo uma busca de duas
+ 
+
+253
+00:04:50,440 --> 00:04:53,270
+você tá fazendo uma busca de duas
+cidades e aqui você coloca
+
+254
+00:04:53,270 --> 00:04:53,280
+cidades e aqui você coloca
+ 
+
+255
+00:04:53,280 --> 00:04:56,630
+cidades e aqui você coloca
+100, ele vai pegar 100 por cidade. Aqui
+
+256
+00:04:56,630 --> 00:04:56,640
+100, ele vai pegar 100 por cidade. Aqui
+ 
+
+257
+00:04:56,640 --> 00:04:59,430
+100, ele vai pegar 100 por cidade. Aqui
+ele mostra o seu saldo de créditos, mas
+
+258
+00:04:59,430 --> 00:04:59,440
+ele mostra o seu saldo de créditos, mas
+ 
+
+259
+00:04:59,440 --> 00:05:01,110
+ele mostra o seu saldo de créditos, mas
+se eu colocar aqui, ó, 100, ele já
+
+260
+00:05:01,110 --> 00:05:01,120
+se eu colocar aqui, ó, 100, ele já
+ 
+
+261
+00:05:01,120 --> 00:05:02,070
+se eu colocar aqui, ó, 100, ele já
+mostra:
+
+262
+00:05:02,070 --> 00:05:02,080
+mostra:
+ 
+
+263
+00:05:02,080 --> 00:05:04,390
+mostra:
+"São duas buscas, então a extração pode
+
+264
+00:05:04,390 --> 00:05:04,400
+"São duas buscas, então a extração pode
+ 
+
+265
+00:05:04,400 --> 00:05:07,070
+"São duas buscas, então a extração pode
+consumir até 200 créditos", tá? Se eu
+
+266
+00:05:07,070 --> 00:05:07,080
+consumir até 200 créditos", tá? Se eu
+ 
+
+267
+00:05:07,080 --> 00:05:08,830
+consumir até 200 créditos", tá? Se eu
+colocar 50,
+
+268
+00:05:08,830 --> 00:05:08,840
+colocar 50,
+ 
+
+269
+00:05:08,840 --> 00:05:11,150
+colocar 50,
+ele vai até 100 créditos. Então, pensa
+
+270
+00:05:11,150 --> 00:05:11,160
+ele vai até 100 créditos. Então, pensa
+ 
+
+271
+00:05:11,160 --> 00:05:12,590
+ele vai até 100 créditos. Então, pensa
+na quantidade de créditos que você quer
+
+272
+00:05:12,590 --> 00:05:12,600
+na quantidade de créditos que você quer
+ 
+
+273
+00:05:12,600 --> 00:05:15,190
+na quantidade de créditos que você quer
+gastar, mas não quer dizer que vá gastar
+
+274
+00:05:15,190 --> 00:05:15,200
+gastar, mas não quer dizer que vá gastar
+ 
+
+275
+00:05:15,200 --> 00:05:16,950
+gastar, mas não quer dizer que vá gastar
+essa quantidade, isso depende da
+
+276
+00:05:16,950 --> 00:05:16,960
+essa quantidade, isso depende da
+ 
+
+277
+00:05:16,960 --> 00:05:18,430
+essa quantidade, isso depende da
+quantidade de empresas que ele vai
+
+278
+00:05:18,430 --> 00:05:18,440
+quantidade de empresas que ele vai
+ 
+
+279
+00:05:18,440 --> 00:05:21,270
+quantidade de empresas que ele vai
+encontrar, ou seja, o sistema cobra de
+
+280
+00:05:21,270 --> 00:05:21,280
+encontrar, ou seja, o sistema cobra de
+ 
+
+281
+00:05:21,280 --> 00:05:23,590
+encontrar, ou seja, o sistema cobra de
+você somente de acordo com a quantidade
+
+282
+00:05:23,590 --> 00:05:23,600
+você somente de acordo com a quantidade
+ 
+
+283
+00:05:23,600 --> 00:05:25,470
+você somente de acordo com a quantidade
+de empresas que ele localizou. Se ele
+
+284
+00:05:25,470 --> 00:05:25,480
+de empresas que ele localizou. Se ele
+ 
+
+285
+00:05:25,480 --> 00:05:27,070
+de empresas que ele localizou. Se ele
+encontrou 100 empresas, ele cobra 100
+
+286
+00:05:27,070 --> 00:05:27,080
+encontrou 100 empresas, ele cobra 100
+ 
+
+287
+00:05:27,080 --> 00:05:29,030
+encontrou 100 empresas, ele cobra 100
+créditos. Se ele se você colocar aqui
+
+288
+00:05:29,030 --> 00:05:29,040
+créditos. Se ele se você colocar aqui
+ 
+
+289
+00:05:29,040 --> 00:05:29,458
+créditos. Se ele se você colocar aqui
+100
+
+290
+00:05:29,458 --> 00:05:29,468
+100
+ 
+
+291
+00:05:29,468 --> 00:05:29,870
+100
+>> [música]
+
+292
+00:05:29,870 --> 00:05:29,880
+>> [música]
+ 
+
+293
+00:05:29,880 --> 00:05:33,190
+>> [música]
+>> e ele só encontrar 80 empresas, ele vai
+
+294
+00:05:33,190 --> 00:05:33,200
+>> e ele só encontrar 80 empresas, ele vai
+ 
+
+295
+00:05:33,200 --> 00:05:36,110
+>> e ele só encontrar 80 empresas, ele vai
+consumir somente 80 créditos, beleza?
+
+296
+00:05:36,110 --> 00:05:36,120
+consumir somente 80 créditos, beleza?
+ 
+
+297
+00:05:36,120 --> 00:05:37,950
+consumir somente 80 créditos, beleza?
+Então eu vou deixar aqui 100,
+
+298
+00:05:37,950 --> 00:05:37,960
+Então eu vou deixar aqui 100,
+ 
+
+299
+00:05:37,960 --> 00:05:40,070
+Então eu vou deixar aqui 100,
+clique em avançar. Lembrando, como eu
+
+300
+00:05:40,070 --> 00:05:40,080
+clique em avançar. Lembrando, como eu
+ 
+
+301
+00:05:40,080 --> 00:05:42,710
+clique em avançar. Lembrando, como eu
+escolhi, eh, para importar no a base
+
+302
+00:05:42,710 --> 00:05:42,720
+escolhi, eh, para importar no a base
+ 
+
+303
+00:05:42,720 --> 00:05:45,790
+escolhi, eh, para importar no a base
+para o portal, né? Ele só trava a opção
+
+304
+00:05:45,790 --> 00:05:45,800
+para o portal, né? Ele só trava a opção
+ 
+
+305
+00:05:45,800 --> 00:05:48,350
+para o portal, né? Ele só trava a opção
+de xlsx, que é o Excel.
+
+306
+00:05:48,350 --> 00:05:48,360
+de xlsx, que é o Excel.
+ 
+
+307
+00:05:48,360 --> 00:05:50,630
+de xlsx, que é o Excel.
+Eu avanço e aqui ele me traz um resumo.
+
+308
+00:05:50,630 --> 00:05:50,640
+Eu avanço e aqui ele me traz um resumo.
+ 
+
+309
+00:05:50,640 --> 00:05:52,910
+Eu avanço e aqui ele me traz um resumo.
+Ó, qual a finalidade? Base para o
+
+310
+00:05:52,910 --> 00:05:52,920
+Ó, qual a finalidade? Base para o
+ 
+
+311
+00:05:52,920 --> 00:05:55,230
+Ó, qual a finalidade? Base para o
+portal, cidades Vila Velha e Vitória,
+
+312
+00:05:55,230 --> 00:05:55,240
+portal, cidades Vila Velha e Vitória,
+ 
+
+313
+00:05:55,240 --> 00:05:57,350
+portal, cidades Vila Velha e Vitória,
+categoria imobiliária,
+
+314
+00:05:57,350 --> 00:05:57,360
+categoria imobiliária,
+ 
+
+315
+00:05:57,360 --> 00:05:59,390
+categoria imobiliária,
+duas buscas que ele vai realizar, sendo
+
+316
+00:05:59,390 --> 00:05:59,400
+duas buscas que ele vai realizar, sendo
+ 
+
+317
+00:05:59,400 --> 00:06:02,310
+duas buscas que ele vai realizar, sendo
+duas cidades, uma categoria, né? Duas
+
+318
+00:06:02,310 --> 00:06:02,320
+duas cidades, uma categoria, né? Duas
+ 
+
+319
+00:06:02,320 --> 00:06:04,670
+duas cidades, uma categoria, né? Duas
+cidades, uma categoria. Quantidade
+
+320
+00:06:04,670 --> 00:06:04,680
+cidades, uma categoria. Quantidade
+ 
+
+321
+00:06:04,680 --> 00:06:07,790
+cidades, uma categoria. Quantidade
+máxima por busca, 100. Saldo atual, 500
+
+322
+00:06:07,790 --> 00:06:07,800
+máxima por busca, 100. Saldo atual, 500
+ 
+
+323
+00:06:07,800 --> 00:06:09,590
+máxima por busca, 100. Saldo atual, 500
+créditos e o formato. Ele tá me falando,
+
+324
+00:06:09,590 --> 00:06:09,600
+créditos e o formato. Ele tá me falando,
+ 
+
+325
+00:06:09,600 --> 00:06:10,270
+créditos e o formato. Ele tá me falando,
+ó,
+
+326
+00:06:10,270 --> 00:06:10,280
+ó,
+ 
+
+327
+00:06:10,280 --> 00:06:11,950
+ó,
+essa sua busca
+
+328
+00:06:11,950 --> 00:06:11,960
+essa sua busca
+ 
+
+329
+00:06:11,960 --> 00:06:14,510
+essa sua busca
+vai gastar no máximo 200 créditos. Eu
+
+330
+00:06:14,510 --> 00:06:14,520
+vai gastar no máximo 200 créditos. Eu
+ 
+
+331
+00:06:14,520 --> 00:06:17,310
+vai gastar no máximo 200 créditos. Eu
+clico em iniciar extração,
+
+332
+00:06:17,310 --> 00:06:17,320
+clico em iniciar extração,
+ 
+
+333
+00:06:17,320 --> 00:06:20,670
+clico em iniciar extração,
+aguardo o processo e aqui ele encontrou
+
+334
+00:06:20,670 --> 00:06:20,680
+aguardo o processo e aqui ele encontrou
+ 
+
+335
+00:06:20,680 --> 00:06:22,750
+aguardo o processo e aqui ele encontrou
+200 registros, ou seja, ele encontrou
+
+336
+00:06:22,750 --> 00:06:22,760
+200 registros, ou seja, ele encontrou
+ 
+
+337
+00:06:22,760 --> 00:06:25,830
+200 registros, ou seja, ele encontrou
+todos os registros. Eu clico em baixar,
+
+338
+00:06:25,830 --> 00:06:25,840
+todos os registros. Eu clico em baixar,
+ 
+
+339
+00:06:25,840 --> 00:06:27,270
+todos os registros. Eu clico em baixar,
+isso vai fazer o download no seu
+
+340
+00:06:27,270 --> 00:06:27,280
+isso vai fazer o download no seu
+ 
+
+341
+00:06:27,280 --> 00:06:30,350
+isso vai fazer o download no seu
+computador na hora, então tá aqui, ó,
+
+342
+00:06:30,350 --> 00:06:30,360
+computador na hora, então tá aqui, ó,
+ 
+
+343
+00:06:30,360 --> 00:06:35,110
+computador na hora, então tá aqui, ó,
+todos os as empresas, tá vendo, ó?
+
+344
+00:06:35,110 --> 00:06:35,120
+
+ 
+
+345
+00:06:35,120 --> 00:06:37,030
+ 
+Todas as empresas aqui,
+
+346
+00:06:37,030 --> 00:06:37,040
+Todas as empresas aqui,
+ 
+
+347
+00:06:37,040 --> 00:06:39,310
+Todas as empresas aqui,
+eu tenho todos os dados, eu expliquei no
+
+348
+00:06:39,310 --> 00:06:39,320
+eu tenho todos os dados, eu expliquei no
+ 
+
+349
+00:06:39,320 --> 00:06:41,310
+eu tenho todos os dados, eu expliquei no
+vídeo anterior por que que essa base
+
+350
+00:06:41,310 --> 00:06:41,320
+vídeo anterior por que que essa base
+ 
+
+351
+00:06:41,320 --> 00:06:43,670
+vídeo anterior por que que essa base
+para o portal funciona dessa forma, mas
+
+352
+00:06:43,670 --> 00:06:43,680
+para o portal funciona dessa forma, mas
+ 
+
+353
+00:06:43,680 --> 00:06:46,550
+para o portal funciona dessa forma, mas
+se você quiser usar só para prospecção,
+
+354
+00:06:46,550 --> 00:06:46,560
+se você quiser usar só para prospecção,
+ 
+
+355
+00:06:46,560 --> 00:06:50,550
+se você quiser usar só para prospecção,
+você deixa telefone e site, né? E exclui
+
+356
+00:06:50,550 --> 00:06:50,560
+você deixa telefone e site, né? E exclui
+ 
+
+357
+00:06:50,560 --> 00:06:52,230
+você deixa telefone e site, né? E exclui
+os demais campos ali.
+
+358
+00:06:52,230 --> 00:06:52,240
+os demais campos ali.
+ 
+
+359
+00:06:52,240 --> 00:06:54,710
+os demais campos ali.
+Beleza? Então, essa base para o portal é
+
+360
+00:06:54,710 --> 00:06:54,720
+Beleza? Então, essa base para o portal é
+ 
+
+361
+00:06:54,720 --> 00:06:56,430
+Beleza? Então, essa base para o portal é
+a base que vem mais
+
+362
+00:06:56,430 --> 00:06:56,440
+a base que vem mais
+ 
+
+363
+00:06:56,440 --> 00:06:58,550
+a base que vem mais
+preenchida, né? Mais robusta.
+
+364
+00:06:58,550 --> 00:06:58,560
+preenchida, né? Mais robusta.
+ 
+
+365
+00:06:58,560 --> 00:07:00,710
+preenchida, né? Mais robusta.
+E aí, o processo funciona dessa forma. O
+
+366
+00:07:00,710 --> 00:07:00,720
+E aí, o processo funciona dessa forma. O
+ 
+
+367
+00:07:00,720 --> 00:07:02,430
+E aí, o processo funciona dessa forma. O
+que que é legal aqui?
+
+368
+00:07:02,430 --> 00:07:02,440
+que que é legal aqui?
+ 
+
+369
+00:07:02,440 --> 00:07:05,030
+que que é legal aqui?
+Aqui na plataforma, você tem aqui nas
+
+370
+00:07:05,030 --> 00:07:05,040
+Aqui na plataforma, você tem aqui nas
+ 
+
+371
+00:07:05,040 --> 00:07:07,030
+Aqui na plataforma, você tem aqui nas
+suas extrações, no seu histórico, você
+
+372
+00:07:07,030 --> 00:07:07,040
+suas extrações, no seu histórico, você
+ 
+
+373
+00:07:07,040 --> 00:07:08,350
+suas extrações, no seu histórico, você
+tem todas as extrações que você
+
+374
+00:07:08,350 --> 00:07:08,360
+tem todas as extrações que você
+ 
+
+375
+00:07:08,360 --> 00:07:11,270
+tem todas as extrações que você
+realizou. Durante 7 dias, ela fica aqui
+
+376
+00:07:11,270 --> 00:07:11,280
+realizou. Durante 7 dias, ela fica aqui
+ 
+
+377
+00:07:11,280 --> 00:07:13,310
+realizou. Durante 7 dias, ela fica aqui
+para você, então ela mostra, ó, essa
+
+378
+00:07:13,310 --> 00:07:13,320
+para você, então ela mostra, ó, essa
+ 
+
+379
+00:07:13,320 --> 00:07:16,430
+para você, então ela mostra, ó, essa
+base expira no dia 12 do 10, às 10:42.
+
+380
+00:07:16,430 --> 00:07:16,440
+base expira no dia 12 do 10, às 10:42.
+ 
+
+381
+00:07:16,440 --> 00:07:17,830
+base expira no dia 12 do 10, às 10:42.
+Então, até lá você pode voltar aqui e
+
+382
+00:07:17,830 --> 00:07:17,840
+Então, até lá você pode voltar aqui e
+ 
+
+383
+00:07:17,840 --> 00:07:19,790
+Então, até lá você pode voltar aqui e
+baixar, se você perder o arquivo por
+
+384
+00:07:19,790 --> 00:07:19,800
+baixar, se você perder o arquivo por
+ 
+
+385
+00:07:19,800 --> 00:07:21,790
+baixar, se você perder o arquivo por
+algum motivo. E aqui na sua tela
+
+386
+00:07:21,790 --> 00:07:21,800
+algum motivo. E aqui na sua tela
+ 
+
+387
+00:07:21,800 --> 00:07:23,670
+algum motivo. E aqui na sua tela
+principal também, você tem o controle,
+
+388
+00:07:23,670 --> 00:07:23,680
+principal também, você tem o controle,
+ 
+
+389
+00:07:23,680 --> 00:07:26,270
+principal também, você tem o controle,
+ó, eu tenho 300 créditos, quantidade de
+
+390
+00:07:26,270 --> 00:07:26,280
+ó, eu tenho 300 créditos, quantidade de
+ 
+
+391
+00:07:26,280 --> 00:07:28,750
+ó, eu tenho 300 créditos, quantidade de
+extrações do mês, créditos consumidos,
+
+392
+00:07:28,750 --> 00:07:28,760
+extrações do mês, créditos consumidos,
+ 
+
+393
+00:07:28,760 --> 00:07:30,310
+extrações do mês, créditos consumidos,
+você pode ver o extrato, iniciar uma
+
+394
+00:07:30,310 --> 00:07:30,320
+você pode ver o extrato, iniciar uma
+ 
+
+395
+00:07:30,320 --> 00:07:33,550
+você pode ver o extrato, iniciar uma
+nova extração ou até mesmo aqui baixar
+
+396
+00:07:33,550 --> 00:07:33,560
+nova extração ou até mesmo aqui baixar
+ 
+
+397
+00:07:33,560 --> 00:07:35,470
+nova extração ou até mesmo aqui baixar
+os arquivos que você já realizou
+
+398
+00:07:35,470 --> 00:07:35,480
+os arquivos que você já realizou
+ 
+
+399
+00:07:35,480 --> 00:07:37,390
+os arquivos que você já realizou
+extração. Beleza? Então, é isso,
+
+400
+00:07:37,390 --> 00:07:37,400
+extração. Beleza? Então, é isso,
+ 
+
+401
+00:07:37,400 --> 00:07:39,070
+extração. Beleza? Então, é isso,
+qualquer dúvida você pode chamar o nosso
+
+402
+00:07:39,070 --> 00:07:39,080
+qualquer dúvida você pode chamar o nosso
+ 
+
+403
+00:07:39,080 --> 00:07:41,670
+qualquer dúvida você pode chamar o nosso
+suporte. Nossos canais de suporte sempre
+
+404
+00:07:41,670 --> 00:07:41,680
+suporte. Nossos canais de suporte sempre
+ 
+
+405
+00:07:41,680 --> 00:07:43,670
+suporte. Nossos canais de suporte sempre
+tem uma inteligência artificial para
+
+406
+00:07:43,670 --> 00:07:43,680
+tem uma inteligência artificial para
+ 
+
+407
+00:07:43,680 --> 00:07:45,590
+tem uma inteligência artificial para
+resolver o seu problema mais rápido no
+
+408
+00:07:45,590 --> 00:07:45,600
+resolver o seu problema mais rápido no
+ 
+
+409
+00:07:45,600 --> 00:07:48,310
+resolver o seu problema mais rápido no
+início, mas se você não conseguir
+
+410
+00:07:48,310 --> 00:07:48,320
+início, mas se você não conseguir
+ 
+
+411
+00:07:48,320 --> 00:07:50,230
+início, mas se você não conseguir
+resolver por ela, você pode solicitar um
+
+412
+00:07:50,230 --> 00:07:50,240
+resolver por ela, você pode solicitar um
+ 
+
+413
+00:07:50,240 --> 00:07:52,190
+resolver por ela, você pode solicitar um
+atendimento humano a qualquer momento e
+
+414
+00:07:52,190 --> 00:07:52,200
+atendimento humano a qualquer momento e
+ 
+
+415
+00:07:52,200 --> 00:07:54,310
+atendimento humano a qualquer momento e
+falar com alguém do nosso time. Beleza?
+
+416
+00:07:54,310 --> 00:07:54,320
+falar com alguém do nosso time. Beleza?
+ 
+
+417
+00:07:54,320 --> 00:07:58,240
+falar com alguém do nosso time. Beleza?
+Um abraço e até o próximo vídeo.
+

@@ -10,7 +10,7 @@ tipo_problema:
   - editar-perfil-empresa
   - contato-incorreto
 status: rascunho-documental
-revisado_em: 2026-10-15
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - OInXMQlSWqw
@@ -37,7 +37,7 @@ atualizar WhatsApp, e-mail e site do perfil da empresa que visitantes veem.
 6. Clique em `Salvar`. Aparece a mensagem `Dados atualizados em todas as suas seções.` [guia=empresa.salvar]
 
 ## resultado esperado
-a área do cliente confirma o salvamento e, ao recarregar, os dados continuam lá. a tela lista onde o dado vale (`Vagas de Emprego`, `Classificados`). as informações atualizadas passam a compor o perfil público, respeitando o tempo de atualização da página.
+a área do cliente confirma o salvamento e, ao recarregar, os dados continuam lá. o quadro `Onde isso aparece` lista onde o dado vale (`Guia Comercial`, vagas, anúncios e eventos, conforme o que a empresa publica). uma alteração atualiza todos de uma vez. as informações atualizadas passam a compor o perfil público, respeitando o tempo de atualização da página.
 
 ## desvios
 - os campos disponíveis dependem do tipo de cadastro de empresa.

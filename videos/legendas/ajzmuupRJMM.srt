@@ -1,0 +1,885 @@
+1
+00:00:00,000 --> 00:00:02,110
+ 
+Os melhores da cidade são votações em
+
+2
+00:00:02,110 --> 00:00:02,120
+Os melhores da cidade são votações em
+ 
+
+3
+00:00:02,120 --> 00:00:03,830
+Os melhores da cidade são votações em
+que o público escolhe os melhores
+
+4
+00:00:03,830 --> 00:00:03,840
+que o público escolhe os melhores
+ 
+
+5
+00:00:03,840 --> 00:00:06,070
+que o público escolhe os melhores
+comércios do guia comercial. Neste
+
+6
+00:00:06,070 --> 00:00:06,080
+comércios do guia comercial. Neste
+ 
+
+7
+00:00:06,080 --> 00:00:07,990
+comércios do guia comercial. Neste
+vídeo, você vai ver tudo o que mudou no
+
+8
+00:00:07,990 --> 00:00:08,000
+vídeo, você vai ver tudo o que mudou no
+ 
+
+9
+00:00:08,000 --> 00:00:10,510
+vídeo, você vai ver tudo o que mudou no
+painel e como a votação aparece ao vivo
+
+10
+00:00:10,510 --> 00:00:10,520
+painel e como a votação aparece ao vivo
+ 
+
+11
+00:00:10,520 --> 00:00:11,590
+painel e como a votação aparece ao vivo
+no portal.
+
+12
+00:00:11,590 --> 00:00:11,600
+no portal.
+ 
+
+13
+00:00:11,600 --> 00:00:14,110
+no portal.
+No painel, clique em melhores da cidade
+
+14
+00:00:14,110 --> 00:00:14,120
+No painel, clique em melhores da cidade
+ 
+
+15
+00:00:14,120 --> 00:00:16,950
+No painel, clique em melhores da cidade
+no grupo conteúdo. No topo, busque uma
+
+16
+00:00:16,950 --> 00:00:16,960
+no grupo conteúdo. No topo, busque uma
+ 
+
+17
+00:00:16,960 --> 00:00:19,310
+no grupo conteúdo. No topo, busque uma
+votação pelo nome e use as abas para
+
+18
+00:00:19,310 --> 00:00:19,320
+votação pelo nome e use as abas para
+ 
+
+19
+00:00:19,320 --> 00:00:22,750
+votação pelo nome e use as abas para
+filtrar: todas, no ar, agendadas e
+
+20
+00:00:22,750 --> 00:00:22,760
+filtrar: todas, no ar, agendadas e
+ 
+
+21
+00:00:22,760 --> 00:00:25,830
+filtrar: todas, no ar, agendadas e
+encerradas. O botão criar votação fica à
+
+22
+00:00:25,830 --> 00:00:25,840
+encerradas. O botão criar votação fica à
+ 
+
+23
+00:00:25,840 --> 00:00:28,230
+encerradas. O botão criar votação fica à
+direita. Cada votação no ar ganha um
+
+24
+00:00:28,230 --> 00:00:28,240
+direita. Cada votação no ar ganha um
+ 
+
+25
+00:00:28,240 --> 00:00:31,430
+direita. Cada votação no ar ganha um
+cartão completo: o nome, o período, as
+
+26
+00:00:31,430 --> 00:00:31,440
+cartão completo: o nome, o período, as
+ 
+
+27
+00:00:31,440 --> 00:00:34,430
+cartão completo: o nome, o período, as
+competições, o total de votos, os votos
+
+28
+00:00:34,430 --> 00:00:34,440
+competições, o total de votos, os votos
+ 
+
+29
+00:00:34,440 --> 00:00:36,510
+competições, o total de votos, os votos
+de hoje e quanto tempo falta para
+
+30
+00:00:36,510 --> 00:00:36,520
+de hoje e quanto tempo falta para
+ 
+
+31
+00:00:36,520 --> 00:00:38,710
+de hoje e quanto tempo falta para
+terminar. A barra amarela mostra o
+
+32
+00:00:38,710 --> 00:00:38,720
+terminar. A barra amarela mostra o
+ 
+
+33
+00:00:38,720 --> 00:00:41,230
+terminar. A barra amarela mostra o
+andamento. Do lado direito, o quadro
+
+34
+00:00:41,230 --> 00:00:41,240
+andamento. Do lado direito, o quadro
+ 
+
+35
+00:00:41,240 --> 00:00:43,430
+andamento. Do lado direito, o quadro
+liderando mostra quem está em primeiro
+
+36
+00:00:43,430 --> 00:00:43,440
+liderando mostra quem está em primeiro
+ 
+
+37
+00:00:43,440 --> 00:00:46,030
+liderando mostra quem está em primeiro
+em cada disputa em tempo real. Logo
+
+38
+00:00:46,030 --> 00:00:46,040
+em cada disputa em tempo real. Logo
+ 
+
+39
+00:00:46,040 --> 00:00:48,550
+em cada disputa em tempo real. Logo
+abaixo, ficam os botões de gestão: ver
+
+40
+00:00:48,550 --> 00:00:48,560
+abaixo, ficam os botões de gestão: ver
+ 
+
+41
+00:00:48,560 --> 00:00:51,870
+abaixo, ficam os botões de gestão: ver
+placar, votos suspeitos, encerrar agora
+
+42
+00:00:51,870 --> 00:00:51,880
+placar, votos suspeitos, encerrar agora
+ 
+
+43
+00:00:51,880 --> 00:00:54,630
+placar, votos suspeitos, encerrar agora
+e ver no site. E no canto, o lápis para
+
+44
+00:00:54,630 --> 00:00:54,640
+e ver no site. E no canto, o lápis para
+ 
+
+45
+00:00:54,640 --> 00:00:57,110
+e ver no site. E no canto, o lápis para
+editar e a lixeira para excluir.
+
+46
+00:00:57,110 --> 00:00:57,120
+editar e a lixeira para excluir.
+ 
+
+47
+00:00:57,120 --> 00:00:59,110
+editar e a lixeira para excluir.
+Em ver placar, você vê os números
+
+48
+00:00:59,110 --> 00:00:59,120
+Em ver placar, você vê os números
+ 
+
+49
+00:00:59,120 --> 00:01:01,390
+Em ver placar, você vê os números
+completos da votação, inclusive na
+
+50
+00:01:01,390 --> 00:01:01,400
+completos da votação, inclusive na
+ 
+
+51
+00:01:01,400 --> 00:01:03,150
+completos da votação, inclusive na
+última hora, quando o placar já não
+
+52
+00:01:03,150 --> 00:01:03,160
+última hora, quando o placar já não
+ 
+
+53
+00:01:03,160 --> 00:01:05,790
+última hora, quando o placar já não
+aparece mais no site. Os quadros mostram
+
+54
+00:01:05,790 --> 00:01:05,800
+aparece mais no site. Os quadros mostram
+ 
+
+55
+00:01:05,800 --> 00:01:08,590
+aparece mais no site. Os quadros mostram
+os votos válidos, quanto tempo falta, os
+
+56
+00:01:08,590 --> 00:01:08,600
+os votos válidos, quanto tempo falta, os
+ 
+
+57
+00:01:08,600 --> 00:01:10,870
+os votos válidos, quanto tempo falta, os
+votos que você anulou e os alertas que
+
+58
+00:01:10,870 --> 00:01:10,880
+votos que você anulou e os alertas que
+ 
+
+59
+00:01:10,880 --> 00:01:13,510
+votos que você anulou e os alertas que
+esperam a sua decisão. A tabela mostra
+
+60
+00:01:13,510 --> 00:01:13,520
+esperam a sua decisão. A tabela mostra
+ 
+
+61
+00:01:13,520 --> 00:01:15,710
+esperam a sua decisão. A tabela mostra
+cada participante, a distância para o
+
+62
+00:01:15,710 --> 00:01:15,720
+cada participante, a distância para o
+ 
+
+63
+00:01:15,720 --> 00:01:18,430
+cada participante, a distância para o
+primeiro colocado, o total de votos e os
+
+64
+00:01:18,430 --> 00:01:18,440
+primeiro colocado, o total de votos e os
+ 
+
+65
+00:01:18,440 --> 00:01:20,510
+primeiro colocado, o total de votos e os
+votos de hoje. Quem recebe votos
+
+66
+00:01:20,510 --> 00:01:20,520
+votos de hoje. Quem recebe votos
+ 
+
+67
+00:01:20,520 --> 00:01:23,550
+votos de hoje. Quem recebe votos
+estranhos ganha a etiqueta suspeito. Em
+
+68
+00:01:23,550 --> 00:01:23,560
+estranhos ganha a etiqueta suspeito. Em
+ 
+
+69
+00:01:23,560 --> 00:01:25,910
+estranhos ganha a etiqueta suspeito. Em
+votos suspeitos, o sistema avisa quando
+
+70
+00:01:25,910 --> 00:01:25,920
+votos suspeitos, o sistema avisa quando
+ 
+
+71
+00:01:25,920 --> 00:01:27,870
+votos suspeitos, o sistema avisa quando
+alguém recebe votos de um jeito que não
+
+72
+00:01:27,870 --> 00:01:27,880
+alguém recebe votos de um jeito que não
+ 
+
+73
+00:01:27,880 --> 00:01:30,510
+alguém recebe votos de um jeito que não
+parece gente de verdade. Você olha e
+
+74
+00:01:30,510 --> 00:01:30,520
+parece gente de verdade. Você olha e
+ 
+
+75
+00:01:30,520 --> 00:01:33,030
+parece gente de verdade. Você olha e
+decide. Anular tira esses votos do
+
+76
+00:01:33,030 --> 00:01:33,040
+decide. Anular tira esses votos do
+ 
+
+77
+00:01:33,040 --> 00:01:35,990
+decide. Anular tira esses votos do
+placar. Manter deixa como está. Dá para
+
+78
+00:01:35,990 --> 00:01:36,000
+placar. Manter deixa como está. Dá para
+ 
+
+79
+00:01:36,000 --> 00:01:38,110
+placar. Manter deixa como está. Dá para
+desfazer a decisão até a votação
+
+80
+00:01:38,110 --> 00:01:38,120
+desfazer a decisão até a votação
+ 
+
+81
+00:01:38,120 --> 00:01:39,150
+desfazer a decisão até a votação
+terminar.
+
+82
+00:01:39,150 --> 00:01:39,160
+terminar.
+ 
+
+83
+00:01:39,160 --> 00:01:42,030
+terminar.
+No lápis, você edita a votação. Com ela
+
+84
+00:01:42,030 --> 00:01:42,040
+No lápis, você edita a votação. Com ela
+ 
+
+85
+00:01:42,040 --> 00:01:44,510
+No lápis, você edita a votação. Com ela
+no ar, o início não muda mais, mas dá
+
+86
+00:01:44,510 --> 00:01:44,520
+no ar, o início não muda mais, mas dá
+ 
+
+87
+00:01:44,520 --> 00:01:47,110
+no ar, o início não muda mais, mas dá
+para estender ou encurtar o fim e trocar
+
+88
+00:01:47,110 --> 00:01:47,120
+para estender ou encurtar o fim e trocar
+ 
+
+89
+00:01:47,120 --> 00:01:49,750
+para estender ou encurtar o fim e trocar
+o nome das competições. O botão encerrar
+
+90
+00:01:49,750 --> 00:01:49,760
+o nome das competições. O botão encerrar
+ 
+
+91
+00:01:49,760 --> 00:01:51,830
+o nome das competições. O botão encerrar
+agora também está aqui.
+
+92
+00:01:51,830 --> 00:01:51,840
+agora também está aqui.
+ 
+
+93
+00:01:51,840 --> 00:01:54,070
+agora também está aqui.
+Para criar uma nova votação, clique em
+
+94
+00:01:54,070 --> 00:01:54,080
+Para criar uma nova votação, clique em
+ 
+
+95
+00:01:54,080 --> 00:01:57,510
+Para criar uma nova votação, clique em
+criar votação. São dois passos: datas e
+
+96
+00:01:57,510 --> 00:01:57,520
+criar votação. São dois passos: datas e
+ 
+
+97
+00:01:57,520 --> 00:02:00,270
+criar votação. São dois passos: datas e
+competições e revisar. Dê um nome à
+
+98
+00:02:00,270 --> 00:02:00,280
+competições e revisar. Dê um nome à
+ 
+
+99
+00:02:00,280 --> 00:02:02,550
+competições e revisar. Dê um nome à
+votação, que é opcional, e escolha
+
+100
+00:02:02,550 --> 00:02:02,560
+votação, que é opcional, e escolha
+ 
+
+101
+00:02:02,560 --> 00:02:04,910
+votação, que é opcional, e escolha
+quando ela começa e quando termina.
+
+102
+00:02:04,910 --> 00:02:04,920
+quando ela começa e quando termina.
+ 
+
+103
+00:02:04,920 --> 00:02:07,390
+quando ela começa e quando termina.
+Depois monte as competições. Escolha a
+
+104
+00:02:07,390 --> 00:02:07,400
+Depois monte as competições. Escolha a
+ 
+
+105
+00:02:07,400 --> 00:02:09,190
+Depois monte as competições. Escolha a
+categoria e, se quiser, uma
+
+106
+00:02:09,190 --> 00:02:09,200
+categoria e, se quiser, uma
+ 
+
+107
+00:02:09,200 --> 00:02:12,310
+categoria e, se quiser, uma
+subcategoria. O nome é sugerido sozinho
+
+108
+00:02:12,310 --> 00:02:12,320
+subcategoria. O nome é sugerido sozinho
+ 
+
+109
+00:02:12,320 --> 00:02:14,350
+subcategoria. O nome é sugerido sozinho
+e o aviso mostra como vai aparecer no
+
+110
+00:02:14,350 --> 00:02:14,360
+e o aviso mostra como vai aparecer no
+ 
+
+111
+00:02:14,360 --> 00:02:17,030
+e o aviso mostra como vai aparecer no
+site e quantas empresas vão concorrer.
+
+112
+00:02:17,030 --> 00:02:17,040
+site e quantas empresas vão concorrer.
+ 
+
+113
+00:02:17,040 --> 00:02:19,270
+site e quantas empresas vão concorrer.
+Clique em adicionar competição e, no
+
+114
+00:02:19,270 --> 00:02:19,280
+Clique em adicionar competição e, no
+ 
+
+115
+00:02:19,280 --> 00:02:22,710
+Clique em adicionar competição e, no
+fim, em próximo para revisar e criar.
+
+116
+00:02:22,710 --> 00:02:22,720
+fim, em próximo para revisar e criar.
+ 
+
+117
+00:02:22,720 --> 00:02:24,710
+fim, em próximo para revisar e criar.
+Quando a votação termina, abra o cartão
+
+118
+00:02:24,710 --> 00:02:24,720
+Quando a votação termina, abra o cartão
+ 
+
+119
+00:02:24,720 --> 00:02:26,870
+Quando a votação termina, abra o cartão
+dela nas encerradas para ver o resultado
+
+120
+00:02:26,870 --> 00:02:26,880
+dela nas encerradas para ver o resultado
+ 
+
+121
+00:02:26,880 --> 00:02:30,390
+dela nas encerradas para ver o resultado
+final. Votos válidos, competições, votos
+
+122
+00:02:30,390 --> 00:02:30,400
+final. Votos válidos, competições, votos
+ 
+
+123
+00:02:30,400 --> 00:02:33,110
+final. Votos válidos, competições, votos
+anulados e o pódio com o campeão de cada
+
+124
+00:02:33,110 --> 00:02:33,120
+anulados e o pódio com o campeão de cada
+ 
+
+125
+00:02:33,120 --> 00:02:35,790
+anulados e o pódio com o campeão de cada
+disputa. Os campeões ficam no site e no
+
+126
+00:02:35,790 --> 00:02:35,800
+disputa. Os campeões ficam no site e no
+ 
+
+127
+00:02:35,800 --> 00:02:37,990
+disputa. Os campeões ficam no site e no
+bloco da home até a próxima votação
+
+128
+00:02:37,990 --> 00:02:38,000
+bloco da home até a próxima votação
+ 
+
+129
+00:02:38,000 --> 00:02:40,510
+bloco da home até a próxima votação
+terminar. Agora veja como a votação
+
+130
+00:02:40,510 --> 00:02:40,520
+terminar. Agora veja como a votação
+ 
+
+131
+00:02:40,520 --> 00:02:43,390
+terminar. Agora veja como a votação
+aparece no portal. No topo, o bloco como
+
+132
+00:02:43,390 --> 00:02:43,400
+aparece no portal. No topo, o bloco como
+ 
+
+133
+00:02:43,400 --> 00:02:46,190
+aparece no portal. No topo, o bloco como
+funciona explica para o visitante: "Vote
+
+134
+00:02:46,190 --> 00:02:46,200
+funciona explica para o visitante: "Vote
+ 
+
+135
+00:02:46,200 --> 00:02:48,670
+funciona explica para o visitante: "Vote
+quantas vezes quiser, sem cadastro, e
+
+136
+00:02:48,670 --> 00:02:48,680
+quantas vezes quiser, sem cadastro, e
+ 
+
+137
+00:02:48,680 --> 00:02:50,150
+quantas vezes quiser, sem cadastro, e
+quem tiver mais votos quando o
+
+138
+00:02:50,150 --> 00:02:50,160
+quem tiver mais votos quando o
+ 
+
+139
+00:02:50,160 --> 00:02:52,590
+quem tiver mais votos quando o
+cronômetro zerar leva o troféu". Logo
+
+140
+00:02:52,590 --> 00:02:52,600
+cronômetro zerar leva o troféu". Logo
+ 
+
+141
+00:02:52,600 --> 00:02:55,070
+cronômetro zerar leva o troféu". Logo
+abaixo, a votação em andamento, com o
+
+142
+00:02:55,070 --> 00:02:55,080
+abaixo, a votação em andamento, com o
+ 
+
+143
+00:02:55,080 --> 00:02:57,190
+abaixo, a votação em andamento, com o
+cronômetro contando os dias, horas,
+
+144
+00:02:57,190 --> 00:02:57,200
+cronômetro contando os dias, horas,
+ 
+
+145
+00:02:57,200 --> 00:03:00,310
+cronômetro contando os dias, horas,
+minutos e segundos até o fim. Em em
+
+146
+00:03:00,310 --> 00:03:00,320
+minutos e segundos até o fim. Em em
+ 
+
+147
+00:03:00,320 --> 00:03:02,229
+minutos e segundos até o fim. Em em
+destaque, agora aparecem os
+
+148
+00:03:02,229 --> 00:03:02,239
+destaque, agora aparecem os
+ 
+
+149
+00:03:02,239 --> 00:03:04,710
+destaque, agora aparecem os
+participantes da disputa, com a posição
+
+150
+00:03:04,710 --> 00:03:04,720
+participantes da disputa, com a posição
+ 
+
+151
+00:03:04,720 --> 00:03:07,550
+participantes da disputa, com a posição
+e o botão votar ao lado de cada empresa.
+
+152
+00:03:07,550 --> 00:03:07,560
+e o botão votar ao lado de cada empresa.
+ 
+
+153
+00:03:07,560 --> 00:03:09,830
+e o botão votar ao lado de cada empresa.
+Ao clicar em votar, o portal pede para
+
+154
+00:03:09,830 --> 00:03:09,840
+Ao clicar em votar, o portal pede para
+ 
+
+155
+00:03:09,840 --> 00:03:11,710
+Ao clicar em votar, o portal pede para
+confirmar o voto e passar por uma
+
+156
+00:03:11,710 --> 00:03:11,720
+confirmar o voto e passar por uma
+ 
+
+157
+00:03:11,720 --> 00:03:14,030
+confirmar o voto e passar por uma
+verificação de segurança. É ela que
+
+158
+00:03:14,030 --> 00:03:14,040
+verificação de segurança. É ela que
+ 
+
+159
+00:03:14,040 --> 00:03:16,150
+verificação de segurança. É ela que
+impede votos automáticos e mantém a
+
+160
+00:03:16,150 --> 00:03:16,160
+impede votos automáticos e mantém a
+ 
+
+161
+00:03:16,160 --> 00:03:18,750
+impede votos automáticos e mantém a
+disputa justa. Mais abaixo, todas as
+
+162
+00:03:18,750 --> 00:03:18,760
+disputa justa. Mais abaixo, todas as
+ 
+
+163
+00:03:18,760 --> 00:03:20,949
+disputa justa. Mais abaixo, todas as
+competições lista cada disputa da
+
+164
+00:03:20,949 --> 00:03:20,959
+competições lista cada disputa da
+ 
+
+165
+00:03:20,959 --> 00:03:24,110
+competições lista cada disputa da
+votação, com o botão ver todos e votar.
+
+166
+00:03:24,110 --> 00:03:24,120
+votação, com o botão ver todos e votar.
+ 
+
+167
+00:03:24,120 --> 00:03:26,790
+votação, com o botão ver todos e votar.
+No celular, a votação fica assim: fácil
+
+168
+00:03:26,790 --> 00:03:26,800
+No celular, a votação fica assim: fácil
+ 
+
+169
+00:03:26,800 --> 00:03:29,470
+No celular, a votação fica assim: fácil
+de entender, de acompanhar e de votar.
+
+170
+00:03:29,470 --> 00:03:29,480
+de entender, de acompanhar e de votar.
+ 
+
+171
+00:03:29,480 --> 00:03:31,830
+de entender, de acompanhar e de votar.
+Pronto, crie a votação, acompanhe o
+
+172
+00:03:31,830 --> 00:03:31,840
+Pronto, crie a votação, acompanhe o
+ 
+
+173
+00:03:31,840 --> 00:03:34,270
+Pronto, crie a votação, acompanhe o
+placar e os votos suspeitos pelo painel
+
+174
+00:03:34,270 --> 00:03:34,280
+placar e os votos suspeitos pelo painel
+ 
+
+175
+00:03:34,280 --> 00:03:36,030
+placar e os votos suspeitos pelo painel
+e deixe a cidade escolher os seus
+
+176
+00:03:36,030 --> 00:03:36,040
+e deixe a cidade escolher os seus
+ 
+
+177
+00:03:36,040 --> 00:03:38,640
+e deixe a cidade escolher os seus
+melhores.
+

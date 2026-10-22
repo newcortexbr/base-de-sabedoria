@@ -13,6 +13,8 @@ tipo_problema:
 status: rascunho-documental
 revisado_em: 2026-10-21
 validacao: docs-e-codigo
+videos:
+  - -Islw_h8OhU
 ---
 
 ## objetivo

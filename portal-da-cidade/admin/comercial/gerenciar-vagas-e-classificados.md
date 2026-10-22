@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - ufB3QTKfPsM
@@ -29,10 +29,11 @@ aqui você acha, muda e apaga as vagas de emprego do portal. Anúncios de classi
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Vagas de Emprego` e depois em `Listar Vagas`. [guia=menu:/painel/vagas] [t=4]
-2. No topo da lista de vagas, escreva o cargo ou a empresa no campo de busca. [guia=vagas.busca] [t=31]
-3. Se quiser, escolha a situação da vaga. [guia=vagas.situacao] [t=34]
+2. No topo da lista de vagas, escreva o cargo no campo de busca. o total de vagas aparece logo abaixo do título, e cada linha mostra cargo, empresa, área, local, tipo de contrato, cliques no WhatsApp e status. [guia=vagas.busca] [t=31]
+3. Se quiser, escolha a área e a situação da vaga. [guia=vagas.situacao] [t=34]
 4. Clique em `Filtrar`. [guia=vagas.filtrar] [t=36]
 5. Para mudar uma vaga, clique em `Editar` na linha da vaga que você quer. [guia=vagas.editar] [t=42]
+6. Para encerrar ou reativar a vaga com um clique, use a pílula de status da linha. ao lado ficam também as ações `insights`, `editar` e `excluir`.
 
 ## resultado
 

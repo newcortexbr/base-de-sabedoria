@@ -1,10 +1,12 @@
 {
- "gerado_em": "2026-10-21",
+ "gerado_em": "2026-10-22",
  "produtos": {
   "area-do-cliente": 92,
-  "portal-da-cidade": 163
+  "dados-pj": 14,
+  "extrator-maps": 21,
+  "portal-da-cidade": 177
  },
- "total": 255,
+ "total": 304,
  "artigos": [
   {
    "id": "ac-ativar-conta-pelo-convite",
@@ -1738,7 +1740,9 @@
     "o-que-e-isso",
     "painel"
    ],
-   "videos": [],
+   "videos": [
+    "dbFUi5ENvOg"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
    "termos": [
@@ -2623,7 +2627,9 @@
     "proxima-live",
     "quando-tem-live"
    ],
-   "videos": [],
+   "videos": [
+    "3i_JcDTTKtA"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
    "termos": [
@@ -3734,6 +3740,1506 @@
    "caminho": "area-do-cliente/treinamento/video-da-aula-nao-carrega.md"
   },
   {
+   "id": "pj-entrar-pela-area-do-cliente",
+   "titulo": "entrar no Dados PJ pela Área do Cliente (sem senha própria)",
+   "objetivo": "entrar no Dados PJ.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": "dados-pj",
+   "modulo": "acesso",
+   "aba": "Login",
+   "tipos": [
+    "login",
+    "acesso",
+    "sso",
+    "entrar",
+    "senha",
+    "dados-pj"
+   ],
+   "videos": [
+    "JXWDV_IiAWQ"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "entrar",
+    "dados",
+    "pela",
+    "area",
+    "cliente",
+    "sem",
+    "senha",
+    "propria",
+    "acesso",
+    "login",
+    "sso"
+   ],
+   "base": "dados-pj",
+   "caminho": "dados-pj/acesso/entrar-pela-area-do-cliente.md"
+  },
+  {
+   "id": "pj-erros-de-login",
+   "titulo": "não consigo entrar no Dados PJ: mensagens da tela de login",
+   "objetivo": "resolver as mensagens que aparecem na tela de login do Dados PJ.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": "dados-pj",
+   "modulo": "acesso",
+   "aba": "Login",
+   "tipos": [
+    "login-nao-funciona",
+    "erro-de-login",
+    "link-expirado",
+    "muitas-tentativas",
+    "popup-bloqueado",
+    "dados-pj"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "consigo",
+    "entrar",
+    "dados",
+    "mensagens",
+    "tela",
+    "login",
+    "acesso",
+    "funciona",
+    "erro",
+    "link",
+    "expirado",
+    "muitas",
+    "tentativas",
+    "popup",
+    "bloqueado",
+    "resolver",
+    "aparecem"
+   ],
+   "base": "dados-pj",
+   "caminho": "dados-pj/acesso/erros-de-login.md"
+  },
+  {
+   "id": "pj-licenca-suspensa-ou-sem-acesso",
+   "titulo": "Dados PJ bloqueado: licença suspensa, cancelada ou plataforma não liberada",
+   "objetivo": "entender por que o Dados PJ não abre ou não deixa gerar lista.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": "dados-pj",
+   "modulo": "acesso",
+   "aba": "Login",
+   "tipos": [
+    "licenca-suspensa",
+    "sem-acesso",
+    "plataforma-nao-liberada",
+    "conta-bloqueada",
+    "inadimplencia",
+    "dados-pj"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "dados",
+    "bloqueado",
+    "licenca",
+    "suspensa",
+    "cancelada",
+    "plataforma",
+    "liberada",
+    "acesso",
+    "login",
+    "sem",
+    "conta",
+    "bloqueada",
+    "inadimplencia",
+    "entender",
+    "abre",
+    "deixa",
+    "gerar",
+    "lista"
+   ],
+   "base": "dados-pj",
+   "caminho": "dados-pj/acesso/licenca-suspensa-ou-sem-acesso.md"
+  },
+  {
+   "id": "pj-baixar-arquivo-e-validade",
+   "titulo": "baixar o arquivo, baixar de novo e prazo de 7 dias",
+   "objetivo": "baixar a lista e saber até quando ela fica disponível.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": "dados-pj",
+   "modulo": "arquivos",
+   "aba": "Dashboard",
+   "tipos": [
+    "download",
+    "baixar-arquivo",
+    "arquivo-expirado",
+    "validade",
+    "zip",
+    "arquivo-grande",
+    "dados-pj"
+   ],
+   "videos": [
+    "JXWDV_IiAWQ",
+    "IKdKLgi-e94"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "baixar",
+    "arquivo",
+    "novo",
+    "prazo",
+    "dias",
+    "arquivos",
+    "dashboard",
+    "download",
+    "expirado",
+    "validade",
+    "zip",
+    "grande",
+    "dados",
+    "lista",
+    "saber",
+    "ate",
+    "ela",
+    "fica",
+    "disponivel"
+   ],
+   "base": "dados-pj",
+   "caminho": "dados-pj/arquivos/baixar-arquivo-e-validade.md"
+  },
+  {
+   "id": "pj-colunas-do-arquivo",
+   "titulo": "colunas do arquivo exportado",
+   "objetivo": "saber o que cada coluna do arquivo traz.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": "dados-pj",
+   "modulo": "arquivos",
+   "aba": "Gerar Lista de Empresas",
+   "tipos": [
+    "colunas",
+    "planilha",
+    "excel",
+    "csv",
+    "socios",
+    "telefones",
+    "dados-pj"
+   ],
+   "videos": [
+    "IKdKLgi-e94"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "colunas",
+    "arquivo",
+    "exportado",
+    "arquivos",
+    "gerar",
+    "lista",
+    "empresas",
+    "planilha",
+    "excel",
+    "csv",
+    "socios",
+    "telefones",
+    "dados",
+    "saber",
+    "cada",
+    "coluna",
+    "traz"
+   ],
+   "base": "dados-pj",
+   "caminho": "dados-pj/arquivos/colunas-do-arquivo.md"
+  },
+  {
+   "id": "pj-creditos-semanais",
+   "titulo": "créditos semanais: 2 listas por semana, renovadas na segunda",
+   "objetivo": "entender quantas listas você pode gerar e quando o saldo volta.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": "dados-pj",
+   "modulo": "creditos",
+   "aba": "Dashboard",
+   "tipos": [
+    "creditos",
+    "limite-semanal",
+    "saldo",
+    "renovacao",
+    "segunda-feira",
+    "quantas-listas",
+    "dados-pj"
+   ],
+   "videos": [
+    "JXWDV_IiAWQ",
+    "IKdKLgi-e94"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "creditos",
+    "semanais",
+    "listas",
+    "semana",
+    "renovadas",
+    "segunda",
+    "dashboard",
+    "limite",
+    "semanal",
+    "saldo",
+    "renovacao",
+    "feira",
+    "quantas",
+    "dados",
+    "entender",
+    "voce",
+    "gerar",
+    "volta"
+   ],
+   "base": "dados-pj",
+   "caminho": "dados-pj/creditos/creditos-semanais.md"
+  },
+  {
+   "id": "pj-dashboard",
+   "titulo": "Dashboard do Dados PJ: créditos, leads, base e histórico",
+   "objetivo": "entender o que cada parte do `Dashboard` mostra.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": "dados-pj",
+   "modulo": "geral",
+   "aba": "Dashboard",
+   "tipos": [
+    "dashboard",
+    "painel",
+    "historico",
+    "leads-extraidos",
+    "base-de-empresas",
+    "dados-pj"
+   ],
+   "videos": [
+    "JXWDV_IiAWQ",
+    "IKdKLgi-e94"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "dashboard",
+    "dados",
+    "creditos",
+    "leads",
+    "base",
+    "historico",
+    "geral",
+    "painel",
+    "extraidos",
+    "empresas",
+    "entender",
+    "cada",
+    "parte",
+    "mostra"
+   ],
+   "base": "dados-pj",
+   "caminho": "dados-pj/geral/dashboard.md"
+  },
+  {
+   "id": "pj-o-que-e",
+   "titulo": "o que é o Dados PJ e para que serve",
+   "objetivo": "entender o que o Dados PJ (DadosPJ) faz e o que ele não faz.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": "dados-pj",
+   "modulo": "geral",
+   "aba": "Dashboard",
+   "tipos": [
+    "o-que-e",
+    "receita-federal",
+    "prospeccao",
+    "lista-de-empresas",
+    "dados-pj"
+   ],
+   "videos": [
+    "JXWDV_IiAWQ",
+    "IKdKLgi-e94"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "dados",
+    "serve",
+    "geral",
+    "dashboard",
+    "receita",
+    "federal",
+    "prospeccao",
+    "lista",
+    "empresas",
+    "entender",
+    "dadospj",
+    "faz",
+    "ele"
+   ],
+   "base": "dados-pj",
+   "caminho": "dados-pj/geral/o-que-e-o-dados-pj.md"
+  },
+  {
+   "id": "pj-perguntas-frequentes",
+   "titulo": "perguntas frequentes do Dados PJ",
+   "objetivo": "responder às dúvidas mais comuns.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": "dados-pj",
+   "modulo": "geral",
+   "aba": "Dashboard",
+   "tipos": [
+    "duvidas",
+    "perguntas-frequentes",
+    "limite",
+    "estado",
+    "cidades",
+    "whatsapp",
+    "dados-pj"
+   ],
+   "videos": [
+    "JXWDV_IiAWQ",
+    "IKdKLgi-e94"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "perguntas",
+    "frequentes",
+    "dados",
+    "geral",
+    "dashboard",
+    "duvidas",
+    "limite",
+    "estado",
+    "cidades",
+    "whatsapp",
+    "responder",
+    "comuns"
+   ],
+   "base": "dados-pj",
+   "caminho": "dados-pj/geral/perguntas-frequentes.md"
+  },
+  {
+   "id": "pj-erros-ao-gerar-lista",
+   "titulo": "erros ao gerar a lista: mensagens e o que fazer",
+   "objetivo": "entender a mensagem que apareceu ao gerar a lista.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": "dados-pj",
+   "modulo": "lista",
+   "aba": "Gerar Lista de Empresas",
+   "tipos": [
+    "erro-ao-exportar",
+    "sem-credito",
+    "nenhum-resultado",
+    "falha-na-exportacao",
+    "estado-nao-permitido",
+    "dados-pj"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "erros",
+    "gerar",
+    "lista",
+    "mensagens",
+    "empresas",
+    "erro",
+    "exportar",
+    "sem",
+    "credito",
+    "nenhum",
+    "resultado",
+    "falha",
+    "exportacao",
+    "estado",
+    "permitido",
+    "dados",
+    "entender",
+    "mensagem",
+    "apareceu"
+   ],
+   "base": "dados-pj",
+   "caminho": "dados-pj/lista/erros-ao-gerar-lista.md"
+  },
+  {
+   "id": "pj-filtros-da-empresa",
+   "titulo": "filtros da empresa: situação, porte, MEI, telefone e data de abertura",
+   "objetivo": "refinar a lista pelo tipo de empresa e de contato.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": "dados-pj",
+   "modulo": "lista",
+   "aba": "Gerar Lista de Empresas",
+   "tipos": [
+    "situacao-cadastral",
+    "porte",
+    "mei",
+    "telefone-movel",
+    "whatsapp",
+    "data-de-abertura",
+    "dados-pj"
+   ],
+   "videos": [
+    "IKdKLgi-e94"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "filtros",
+    "empresa",
+    "situacao",
+    "porte",
+    "mei",
+    "telefone",
+    "data",
+    "abertura",
+    "lista",
+    "gerar",
+    "empresas",
+    "cadastral",
+    "movel",
+    "whatsapp",
+    "dados",
+    "refinar",
+    "pelo",
+    "tipo",
+    "contato"
+   ],
+   "base": "dados-pj",
+   "caminho": "dados-pj/lista/filtros-da-empresa.md"
+  },
+  {
+   "id": "pj-filtros-de-local",
+   "titulo": "filtros de local: estado, cidades, bairros e DDD",
+   "objetivo": "limitar a lista à região certa.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": "dados-pj",
+   "modulo": "lista",
+   "aba": "Gerar Lista de Empresas",
+   "tipos": [
+    "estado",
+    "cidades",
+    "municipios",
+    "bairros",
+    "ddd",
+    "territorio",
+    "limite-de-cidades",
+    "dados-pj"
+   ],
+   "videos": [
+    "JXWDV_IiAWQ",
+    "IKdKLgi-e94"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "filtros",
+    "local",
+    "estado",
+    "cidades",
+    "bairros",
+    "ddd",
+    "lista",
+    "gerar",
+    "empresas",
+    "municipios",
+    "territorio",
+    "limite",
+    "dados",
+    "limitar",
+    "regiao",
+    "certa"
+   ],
+   "base": "dados-pj",
+   "caminho": "dados-pj/lista/filtros-de-local.md"
+  },
+  {
+   "id": "pj-filtros-termo-e-cnae",
+   "titulo": "filtrar por termo ou por CNAE (ramo de atividade)",
+   "objetivo": "escolher o tipo de empresa da lista pelo nome ou pelo CNAE.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": "dados-pj",
+   "modulo": "lista",
+   "aba": "Gerar Lista de Empresas",
+   "tipos": [
+    "cnae",
+    "termo-de-busca",
+    "nicho",
+    "ramo-de-atividade",
+    "razao-social",
+    "nome-fantasia",
+    "dados-pj"
+   ],
+   "videos": [
+    "IKdKLgi-e94"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "filtrar",
+    "termo",
+    "cnae",
+    "ramo",
+    "atividade",
+    "lista",
+    "gerar",
+    "empresas",
+    "busca",
+    "nicho",
+    "razao",
+    "social",
+    "nome",
+    "fantasia",
+    "dados",
+    "escolher",
+    "tipo",
+    "empresa",
+    "pelo"
+   ],
+   "base": "dados-pj",
+   "caminho": "dados-pj/lista/filtros-termo-e-cnae.md"
+  },
+  {
+   "id": "pj-gerar-lista-passo-a-passo",
+   "titulo": "gerar uma lista de empresas, passo a passo",
+   "objetivo": "gerar e baixar uma lista de empresas sem desperdiçar crédito.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": "dados-pj",
+   "modulo": "lista",
+   "aba": "Gerar Lista de Empresas",
+   "tipos": [
+    "gerar-lista",
+    "exportar",
+    "extracao",
+    "nova-lista",
+    "passo-a-passo",
+    "dados-pj"
+   ],
+   "videos": [
+    "IKdKLgi-e94"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "gerar",
+    "lista",
+    "empresas",
+    "passo",
+    "exportar",
+    "extracao",
+    "nova",
+    "dados",
+    "baixar",
+    "sem",
+    "desperdicar",
+    "credito"
+   ],
+   "base": "dados-pj",
+   "caminho": "dados-pj/lista/gerar-lista-passo-a-passo.md"
+  },
+  {
+   "id": "ext-entrar-pela-area-do-cliente",
+   "titulo": "entrar no Extrator Maps pela Área do Cliente (sem senha nova)",
+   "objetivo": "abrir o Extrator Maps usando a sua conta da Área do Cliente.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "acesso",
+   "aba": "Login",
+   "tipos": [
+    "entrar-no-extrator",
+    "login-unico",
+    "sso",
+    "extrator-maps"
+   ],
+   "videos": [
+    "F136_v1JyRY"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "entrar",
+    "extrator",
+    "maps",
+    "pela",
+    "area",
+    "cliente",
+    "sem",
+    "senha",
+    "nova",
+    "acesso",
+    "login",
+    "unico",
+    "sso",
+    "abrir",
+    "usando",
+    "conta"
+   ],
+   "base": "extrator-maps",
+   "caminho": "extrator-maps/acesso/entrar-pela-area-do-cliente.md"
+  },
+  {
+   "id": "ext-licenca-suspensa-ou-conta-bloqueada",
+   "titulo": "o que acontece no Extrator se a licença for suspensa ou a conta bloqueada",
+   "objetivo": "saber o que acontece com o seu acesso e os seus créditos quando há suspensão ou bloqueio.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "acesso",
+   "aba": "Login",
+   "tipos": [
+    "licenca-suspensa",
+    "conta-bloqueada",
+    "inadimplencia",
+    "extrator-maps",
+    "creditos"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "acontece",
+    "extrator",
+    "licenca",
+    "for",
+    "suspensa",
+    "conta",
+    "bloqueada",
+    "acesso",
+    "login",
+    "inadimplencia",
+    "maps",
+    "creditos",
+    "saber",
+    "seus",
+    "suspensao",
+    "bloqueio"
+   ],
+   "base": "extrator-maps",
+   "caminho": "extrator-maps/acesso/licenca-suspensa-ou-conta-bloqueada.md"
+  },
+  {
+   "id": "ext-login-nao-funciona",
+   "titulo": "não consigo entrar no Extrator: e-mail ou senha inválidos, esqueci a senha, voltei para o login",
+   "objetivo": "descobrir por que o login do Extrator falha e o que fazer.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "acesso",
+   "aba": "Login",
+   "tipos": [
+    "login",
+    "senha-invalida",
+    "esqueci-senha",
+    "muitas-tentativas",
+    "extrator-maps"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "consigo",
+    "entrar",
+    "extrator",
+    "mail",
+    "senha",
+    "invalidos",
+    "esqueci",
+    "voltei",
+    "login",
+    "acesso",
+    "invalida",
+    "muitas",
+    "tentativas",
+    "maps",
+    "descobrir",
+    "falha"
+   ],
+   "base": "extrator-maps",
+   "caminho": "extrator-maps/acesso/login-nao-funciona.md"
+  },
+  {
+   "id": "ext-trocar-senha",
+   "titulo": "trocar a senha no Extrator Maps (e a faixa de senha temporária)",
+   "objetivo": "trocar a senha do Extrator, ou entender por que a troca não está disponível.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "acesso",
+   "aba": "Conta",
+   "tipos": [
+    "trocar-senha",
+    "senha-temporaria",
+    "extrator-maps"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "trocar",
+    "senha",
+    "extrator",
+    "maps",
+    "faixa",
+    "temporaria",
+    "acesso",
+    "conta",
+    "entender",
+    "troca",
+    "disponivel"
+   ],
+   "base": "extrator-maps",
+   "caminho": "extrator-maps/acesso/trocar-senha.md"
+  },
+  {
+   "id": "ext-baixar-arquivos",
+   "titulo": "baixar o arquivo da extração (validade de 7 dias, nome e formato)",
+   "objetivo": "baixar a planilha e saber até quando ela está disponível.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "arquivos",
+   "aba": "Detalhe da extração",
+   "tipos": [
+    "baixar-arquivo",
+    "arquivo-expirado",
+    "validade-do-arquivo",
+    "acentos-estranhos",
+    "extrator-maps"
+   ],
+   "videos": [
+    "R9FCgunNxFE",
+    "F136_v1JyRY"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "baixar",
+    "arquivo",
+    "extracao",
+    "validade",
+    "dias",
+    "nome",
+    "formato",
+    "arquivos",
+    "detalhe",
+    "expirado",
+    "acentos",
+    "estranhos",
+    "extrator",
+    "maps",
+    "planilha",
+    "saber",
+    "ate",
+    "ela",
+    "disponivel"
+   ],
+   "base": "extrator-maps",
+   "caminho": "extrator-maps/arquivos/baixar-arquivos.md"
+  },
+  {
+   "id": "ext-colunas-da-planilha",
+   "titulo": "o que vem na planilha: colunas de Prospecção e de Base para Portal",
+   "objetivo": "saber quais dados cada tipo de planilha traz.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "arquivos",
+   "aba": "Arquivos",
+   "tipos": [
+    "colunas",
+    "o-que-vem-na-planilha",
+    "dados-da-empresa",
+    "extrator-maps"
+   ],
+   "videos": [
+    "F136_v1JyRY",
+    "R9FCgunNxFE"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "vem",
+    "planilha",
+    "colunas",
+    "prospeccao",
+    "base",
+    "portal",
+    "arquivos",
+    "dados",
+    "empresa",
+    "extrator",
+    "maps",
+    "saber",
+    "cada",
+    "tipo",
+    "traz"
+   ],
+   "base": "extrator-maps",
+   "caminho": "extrator-maps/arquivos/colunas-da-planilha.md"
+  },
+  {
+   "id": "ext-creditos-como-funcionam",
+   "titulo": "como funcionam os créditos: custo por registro, mínimo, boas-vindas e validade",
+   "objetivo": "entender quanto cada extração consome e de onde vêm os créditos.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "creditos",
+   "aba": "Créditos",
+   "tipos": [
+    "creditos",
+    "custo-por-registro",
+    "creditos-de-boas-vindas",
+    "saldo",
+    "extrator-maps"
+   ],
+   "videos": [
+    "F136_v1JyRY",
+    "R9FCgunNxFE"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "funcionam",
+    "creditos",
+    "custo",
+    "registro",
+    "minimo",
+    "boas",
+    "vindas",
+    "validade",
+    "saldo",
+    "extrator",
+    "maps",
+    "entender",
+    "quanto",
+    "cada",
+    "extracao",
+    "consome",
+    "vem"
+   ],
+   "base": "extrator-maps",
+   "caminho": "extrator-maps/creditos/como-funcionam-os-creditos.md"
+  },
+  {
+   "id": "ext-comprar-creditos",
+   "titulo": "comprar créditos (pacotes pelo Asaas) e acompanhar o pagamento",
+   "objetivo": "comprar créditos e entender por que o saldo pode demorar a subir.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "creditos",
+   "aba": "Comprar créditos",
+   "tipos": [
+    "comprar-creditos",
+    "pacote",
+    "pagamento",
+    "credito-nao-entrou",
+    "extrator-maps"
+   ],
+   "videos": [
+    "F136_v1JyRY"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "comprar",
+    "creditos",
+    "pacotes",
+    "pelo",
+    "asaas",
+    "acompanhar",
+    "pagamento",
+    "pacote",
+    "credito",
+    "entrou",
+    "extrator",
+    "maps",
+    "entender",
+    "saldo",
+    "demorar",
+    "subir"
+   ],
+   "base": "extrator-maps",
+   "caminho": "extrator-maps/creditos/comprar-creditos.md"
+  },
+  {
+   "id": "ext-extrato-de-creditos",
+   "titulo": "Extrato de créditos: ver compras, consumos e ajustes",
+   "objetivo": "conferir para onde foram os créditos.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "creditos",
+   "aba": "Extrato de créditos",
+   "tipos": [
+    "extrato",
+    "consumo-de-creditos",
+    "saldo",
+    "extrator-maps"
+   ],
+   "videos": [
+    "F136_v1JyRY"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "extrato",
+    "creditos",
+    "ver",
+    "compras",
+    "consumos",
+    "ajustes",
+    "consumo",
+    "saldo",
+    "extrator",
+    "maps",
+    "conferir",
+    "foram"
+   ],
+   "base": "extrator-maps",
+   "caminho": "extrator-maps/creditos/extrato-de-creditos.md"
+  },
+  {
+   "id": "ext-acompanhar-extracao",
+   "titulo": "acompanhar uma extração: status, progresso por cidade e extração parcial",
+   "objetivo": "entender a tela da extração e o que cada status significa.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "extracao",
+   "aba": "Detalhe da extração",
+   "tipos": [
+    "status-da-extracao",
+    "extracao-parcial",
+    "extracao-falhou",
+    "acompanhar",
+    "extrator-maps"
+   ],
+   "videos": [
+    "R9FCgunNxFE",
+    "F136_v1JyRY"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "acompanhar",
+    "extracao",
+    "status",
+    "progresso",
+    "cidade",
+    "parcial",
+    "detalhe",
+    "falhou",
+    "extrator",
+    "maps",
+    "entender",
+    "tela",
+    "cada",
+    "significa"
+   ],
+   "base": "extrator-maps",
+   "caminho": "extrator-maps/extracao/acompanhar-extracao.md"
+  },
+  {
+   "id": "ext-dashboard",
+   "titulo": "Dashboard do Extrator: saldo, extrações do mês e avisos",
+   "objetivo": "entender o que aparece no `Dashboard` e o que significam os avisos.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "extracao",
+   "aba": "Dashboard",
+   "tipos": [
+    "dashboard",
+    "saldo",
+    "saldo-baixo",
+    "pagamento-pendente",
+    "extrator-maps"
+   ],
+   "videos": [
+    "F136_v1JyRY",
+    "R9FCgunNxFE"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "dashboard",
+    "extrator",
+    "saldo",
+    "extracoes",
+    "mes",
+    "avisos",
+    "extracao",
+    "baixo",
+    "pagamento",
+    "pendente",
+    "maps",
+    "entender",
+    "aparece",
+    "significam"
+   ],
+   "base": "extrator-maps",
+   "caminho": "extrator-maps/extracao/dashboard-e-avisos.md"
+  },
+  {
+   "id": "ext-erros-ao-iniciar-extracao",
+   "titulo": "erros ao iniciar uma extração e o que fazer",
+   "objetivo": "resolver as mensagens que aparecem ao iniciar uma extração.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "extracao",
+   "aba": "Nova extração",
+   "tipos": [
+    "erro-ao-iniciar",
+    "saldo-insuficiente",
+    "avancar-travado",
+    "extracoes-simultaneas",
+    "extrator-maps"
+   ],
+   "videos": [
+    "R9FCgunNxFE"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "erros",
+    "iniciar",
+    "extracao",
+    "nova",
+    "erro",
+    "saldo",
+    "insuficiente",
+    "avancar",
+    "travado",
+    "extracoes",
+    "simultaneas",
+    "extrator",
+    "maps",
+    "resolver",
+    "mensagens",
+    "aparecem"
+   ],
+   "base": "extrator-maps",
+   "caminho": "extrator-maps/extracao/erros-ao-iniciar-extracao.md"
+  },
+  {
+   "id": "ext-escolher-o-nicho",
+   "titulo": "escolher o nicho (ramo de negócio) na extração, ou deixar em branco",
+   "objetivo": "preencher a etapa `Nicho` corretamente.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "extracao",
+   "aba": "Nova extração",
+   "tipos": [
+    "nicho",
+    "categoria",
+    "nicho-nao-reconhecido",
+    "extrator-maps"
+   ],
+   "videos": [
+    "R9FCgunNxFE",
+    "jl7GHmHVJcM"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "escolher",
+    "nicho",
+    "ramo",
+    "negocio",
+    "extracao",
+    "deixar",
+    "branco",
+    "nova",
+    "categoria",
+    "reconhecido",
+    "extrator",
+    "maps",
+    "preencher",
+    "etapa",
+    "corretamente"
+   ],
+   "base": "extrator-maps",
+   "caminho": "extrator-maps/extracao/escolher-o-nicho.md"
+  },
+  {
+   "id": "ext-historico",
+   "titulo": "Histórico de extrações: filtros, detalhes e arquivos",
+   "objetivo": "encontrar extrações antigas e baixar seus arquivos.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "extracao",
+   "aba": "Histórico",
+   "tipos": [
+    "historico",
+    "extracoes-anteriores",
+    "filtrar-extracoes",
+    "extrator-maps"
+   ],
+   "videos": [
+    "R9FCgunNxFE",
+    "F136_v1JyRY"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "historico",
+    "extracoes",
+    "filtros",
+    "detalhes",
+    "arquivos",
+    "extracao",
+    "anteriores",
+    "filtrar",
+    "extrator",
+    "maps",
+    "encontrar",
+    "antigas",
+    "baixar",
+    "seus"
+   ],
+   "base": "extrator-maps",
+   "caminho": "extrator-maps/extracao/historico-de-extracoes.md"
+  },
+  {
+   "id": "ext-limites-da-extracao",
+   "titulo": "limites do Extrator: 5 cidades, 5 bairros, 2 extrações ao mesmo tempo, 25 créditos",
+   "objetivo": "conhecer os limites antes de montar uma extração.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "extracao",
+   "aba": "Nova extração",
+   "tipos": [
+    "limites",
+    "maximo-de-cidades",
+    "extracoes-simultaneas",
+    "bairros",
+    "extrator-maps"
+   ],
+   "videos": [
+    "R9FCgunNxFE",
+    "F136_v1JyRY"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "limites",
+    "extrator",
+    "cidades",
+    "bairros",
+    "extracoes",
+    "mesmo",
+    "tempo",
+    "creditos",
+    "extracao",
+    "nova",
+    "maximo",
+    "simultaneas",
+    "maps",
+    "conhecer",
+    "antes",
+    "montar"
+   ],
+   "base": "extrator-maps",
+   "caminho": "extrator-maps/extracao/limites-da-extracao.md"
+  },
+  {
+   "id": "ext-nova-extracao-passo-a-passo",
+   "titulo": "fazer uma nova extração: as 6 etapas, campo a campo",
+   "objetivo": "gerar uma lista de empresas do Google Maps do começo ao fim.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "extracao",
+   "aba": "Nova extração",
+   "tipos": [
+    "nova-extracao",
+    "como-extrair",
+    "extrair-empresas",
+    "extrator-maps"
+   ],
+   "videos": [
+    "R9FCgunNxFE",
+    "F136_v1JyRY"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "nova",
+    "extracao",
+    "etapas",
+    "campo",
+    "extrair",
+    "empresas",
+    "extrator",
+    "maps",
+    "gerar",
+    "lista",
+    "google",
+    "comeco",
+    "fim"
+   ],
+   "base": "extrator-maps",
+   "caminho": "extrator-maps/extracao/nova-extracao-passo-a-passo.md"
+  },
+  {
+   "id": "ext-prospeccao-ou-base-para-portal",
+   "titulo": "Prospecção ou Base para Portal: qual finalidade escolher",
+   "objetivo": "escolher a finalidade certa na primeira etapa.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "extracao",
+   "aba": "Nova extração",
+   "tipos": [
+    "finalidade",
+    "prospeccao",
+    "base-para-portal",
+    "formato-csv-xlsx",
+    "extrator-maps"
+   ],
+   "videos": [
+    "R9FCgunNxFE",
+    "F136_v1JyRY",
+    "jl7GHmHVJcM"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "prospeccao",
+    "base",
+    "portal",
+    "finalidade",
+    "escolher",
+    "extracao",
+    "nova",
+    "formato",
+    "csv",
+    "xlsx",
+    "extrator",
+    "maps",
+    "certa",
+    "primeira",
+    "etapa"
+   ],
+   "base": "extrator-maps",
+   "caminho": "extrator-maps/extracao/prospeccao-ou-base-para-portal.md"
+  },
+  {
+   "id": "ext-quantidade-e-custo-maximo",
+   "titulo": "quantidade máxima, número de buscas e quanto a extração pode custar",
+   "objetivo": "calcular o gasto máximo de uma extração e evitar surpresa no saldo.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "extracao",
+   "aba": "Nova extração",
+   "tipos": [
+    "quantidade-de-registros",
+    "custo-da-extracao",
+    "buscas",
+    "gastou-mais-que-pedi",
+    "extrator-maps"
+   ],
+   "videos": [
+    "R9FCgunNxFE",
+    "F136_v1JyRY"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "quantidade",
+    "maxima",
+    "numero",
+    "buscas",
+    "quanto",
+    "extracao",
+    "custar",
+    "nova",
+    "registros",
+    "custo",
+    "gastou",
+    "pedi",
+    "extrator",
+    "maps",
+    "calcular",
+    "gasto",
+    "maximo",
+    "evitar",
+    "surpresa",
+    "saldo"
+   ],
+   "base": "extrator-maps",
+   "caminho": "extrator-maps/extracao/quantidade-e-custo-maximo.md"
+  },
+  {
+   "id": "ext-o-que-e",
+   "titulo": "o que é o Extrator Maps e para que serve",
+   "objetivo": "entender o que o Extrator Maps faz, o que ele não faz e por que usa créditos.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "geral",
+   "aba": "Extrator Maps",
+   "tipos": [
+    "extrator-maps",
+    "extrator-google",
+    "prospeccao",
+    "o-que-e"
+   ],
+   "videos": [
+    "F136_v1JyRY",
+    "R9FCgunNxFE"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "extrator",
+    "maps",
+    "serve",
+    "geral",
+    "google",
+    "prospeccao",
+    "entender",
+    "faz",
+    "ele",
+    "usa",
+    "creditos"
+   ],
+   "base": "extrator-maps",
+   "caminho": "extrator-maps/geral/o-que-e-o-extrator-maps.md"
+  },
+  {
+   "id": "ext-perguntas-frequentes",
+   "titulo": "perguntas frequentes sobre o Extrator Maps",
+   "objetivo": "respostas rápidas às dúvidas mais comuns.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "geral",
+   "aba": "Extrator Maps",
+   "tipos": [
+    "perguntas-frequentes",
+    "duvidas",
+    "extrator-maps"
+   ],
+   "videos": [
+    "F136_v1JyRY",
+    "R9FCgunNxFE"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "perguntas",
+    "frequentes",
+    "extrator",
+    "maps",
+    "geral",
+    "duvidas",
+    "respostas",
+    "rapidas",
+    "comuns"
+   ],
+   "base": "extrator-maps",
+   "caminho": "extrator-maps/geral/perguntas-frequentes.md"
+  },
+  {
+   "id": "ext-importar-no-guia-do-portal",
+   "titulo": "extrair do Extrator Maps e importar as empresas no Guia Comercial do Portal da Cidade",
+   "objetivo": "encher o Guia do seu portal com empresas da cidade usando uma lista do Google Maps.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "portal",
+   "aba": "Nova extração",
+   "tipos": [
+    "importar-no-portal",
+    "base-para-portal",
+    "guia-comercial",
+    "alimentar-o-portal",
+    "extrator-maps"
+   ],
+   "videos": [
+    "jl7GHmHVJcM",
+    "F136_v1JyRY"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "extrair",
+    "extrator",
+    "maps",
+    "importar",
+    "empresas",
+    "guia",
+    "comercial",
+    "portal",
+    "cidade",
+    "nova",
+    "extracao",
+    "base",
+    "alimentar",
+    "encher",
+    "usando",
+    "lista",
+    "google"
+   ],
+   "base": "extrator-maps",
+   "caminho": "extrator-maps/portal/importar-no-guia-do-portal.md"
+  },
+  {
    "id": "acesso-painel-negado",
    "titulo": "entrar no painel do portal e entender acesso negado",
    "objetivo": "aqui você entra no painel do portal e entende por que o acesso pode ser negado. Erro de senha é diferente de falta de permissão.",
@@ -3865,7 +5371,7 @@
     "1RHf0fcXgyE"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "consultar",
     "faturas",
@@ -3911,7 +5417,7 @@
     "2ShbACG2mHE"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-20",
+   "revisado_em": "2026-10-21",
    "termos": [
     "acompanhar",
     "fila",
@@ -4151,7 +5657,7 @@
     "JdJr7pXVx98"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-20",
+   "revisado_em": "2026-10-21",
    "termos": [
     "cadastrar",
     "empresa",
@@ -4188,7 +5694,7 @@
     "ufB3QTKfPsM"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "cadastrar",
     "vaga",
@@ -4294,7 +5800,7 @@
     "8gIDPdapN0E"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-20",
+   "revisado_em": "2026-10-21",
    "termos": [
     "mandar",
     "comissao",
@@ -4334,7 +5840,7 @@
     "lwaG-T87hJI"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "conectar",
     "conta",
@@ -4372,7 +5878,7 @@
     "VV8BxCbIfz4"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "configurar",
     "botoes",
@@ -4436,7 +5942,7 @@
   {
    "id": "configurar-fale-conosco-do-portal",
    "titulo": "configurar a página Fale Conosco do portal",
-   "objetivo": "aqui você preenche o e-mail e o telefone que aparecem na página Fale Conosco.",
+   "objetivo": "aqui você preenche o e-mail, o telefone, o título e o texto curto que aparecem na página Fale Conosco.",
    "publico": [
     "admin"
    ],
@@ -4453,7 +5959,7 @@
     "lrTaEV5JnVM"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "configurar",
     "pagina",
@@ -4466,6 +5972,9 @@
     "preenche",
     "mail",
     "telefone",
+    "titulo",
+    "texto",
+    "curto",
     "aparecem"
    ],
    "base": "portal-da-cidade",
@@ -4491,7 +6000,7 @@
     "lrTaEV5JnVM"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "configurar",
     "informacoes",
@@ -4511,7 +6020,7 @@
   {
    "id": "configurar-layout-do-portal",
    "titulo": "mudar a aparência (layout) do portal",
-   "objetivo": "aqui você muda a aparência do site: topo, tela de início, cores ou rodapé.",
+   "objetivo": "aqui você muda a aparência do site: topo, tela de início, cores ou rodapé. tudo muda o visual sem precisar de programador.",
    "publico": [
     "admin"
    ],
@@ -4527,7 +6036,7 @@
     "vPnHq9kRWW8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "mudar",
     "aparencia",
@@ -4542,7 +6051,12 @@
     "tela",
     "inicio",
     "cores",
-    "rodape"
+    "rodape",
+    "tudo",
+    "visual",
+    "sem",
+    "precisar",
+    "programador"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/comercial/configurar-layout-do-portal.md"
@@ -4563,7 +6077,7 @@
     "MbMNv59z7Bg"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "consultar",
     "ajustar",
@@ -4620,7 +6134,7 @@
   {
    "id": "admin-configurar-rodape-do-portal",
    "titulo": "mudar o rodapé do portal",
-   "objetivo": "aqui você muda o modelo, as cores e o tamanho do logo no rodapé do portal.",
+   "objetivo": "aqui você muda o modelo, o texto, as cores e o tamanho do logo no rodapé do portal.",
    "publico": [
     "admin"
    ],
@@ -4649,6 +6163,7 @@
     "voce",
     "muda",
     "modelo",
+    "texto",
     "cores",
     "tamanho"
    ],
@@ -4705,7 +6220,7 @@
     "BqIfSq7bVXM"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "editar",
     "banner",
@@ -4735,7 +6250,7 @@
     "09n3Eiwn418"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "editar",
     "categoria",
@@ -4765,7 +6280,7 @@
     "pBHdF3bd1QI"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "editar",
     "cupom",
@@ -4823,7 +6338,7 @@
     "-FASO6flcCw"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "encontrar",
     "cliente",
@@ -5082,7 +6597,7 @@
     "BqIfSq7bVXM"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "gerenciar",
     "banners",
@@ -5111,10 +6626,11 @@
    "aba": "nao-se-aplica",
    "tipos": [],
    "videos": [
-    "VV8BxCbIfz4"
+    "VV8BxCbIfz4",
+    "gmYWNfgX8LM"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "montar",
     "cardapio",
@@ -5149,7 +6665,7 @@
     "TgIUmqrRuBY"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "montar",
     "cardapio",
@@ -5181,10 +6697,11 @@
    "aba": "nao-se-aplica",
    "tipos": [],
    "videos": [
-    "Z45xwGT8U38"
+    "Z45xwGT8U38",
+    "X2BpMhoYKiA"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "catalogo",
     "produtos",
@@ -5217,7 +6734,7 @@
     "09n3Eiwn418"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "revisar",
     "categorias",
@@ -5252,7 +6769,7 @@
     "Ps1cgdLQ1FI"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-20",
+   "revisado_em": "2026-10-21",
    "termos": [
     "localizar",
     "gerenciar",
@@ -5288,7 +6805,7 @@
     "pBHdF3bd1QI"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "criar",
     "gerenciar",
@@ -5312,7 +6829,7 @@
   {
    "id": "gerenciar-empresas-do-guia",
    "titulo": "localizar e atualizar empresas do Guia",
-   "objetivo": "aqui você encontra uma empresa do Guia e muda os dados ou a situação dela.",
+   "objetivo": "aqui você acompanha as empresas do Guia, encontra uma delas e ajusta a ficha ou a situação.",
    "publico": [
     "admin"
    ],
@@ -5325,7 +6842,7 @@
     "JdJr7pXVx98"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "localizar",
     "atualizar",
@@ -5333,12 +6850,12 @@
     "guia",
     "aplica",
     "voce",
+    "acompanha",
     "encontra",
-    "empresa",
-    "muda",
-    "dados",
-    "situacao",
-    "dela"
+    "delas",
+    "ajusta",
+    "ficha",
+    "situacao"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/comercial/gerenciar-empresas-do-guia.md"
@@ -5355,7 +6872,8 @@
    "aba": "nao-se-aplica",
    "tipos": [],
    "videos": [
-    "okWcwnwq5Bk"
+    "okWcwnwq5Bk",
+    "-cq2YnG0vis"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-19",
@@ -5391,7 +6909,7 @@
     "-FASO6flcCw"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "clientes",
     "acompanhar",
@@ -5424,7 +6942,7 @@
     "8gIDPdapN0E"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "cadastrar",
     "parceiro",
@@ -5456,10 +6974,11 @@
    "aba": "nao-se-aplica",
    "tipos": [],
    "videos": [
-    "reZ3e1a4o-o"
+    "reZ3e1a4o-o",
+    "aSRf0hwUrrc"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "quartos",
     "suites",
@@ -5492,10 +7011,11 @@
    "aba": "nao-se-aplica",
    "tipos": [],
    "videos": [
-    "aE3QL3ErK0k"
+    "aE3QL3ErK0k",
+    "FwKU_0GF6iU"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "servicos",
     "cadastrar",
@@ -5526,7 +7046,7 @@
     "ufB3QTKfPsM"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "localizar",
     "gerenciar",
@@ -5562,7 +7082,7 @@
     "8gIDPdapN0E"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "guardar",
     "link",
@@ -5594,7 +7114,7 @@
     "F136_v1JyRY"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "importar",
     "empresas",
@@ -5743,7 +7263,7 @@
     "Ru3949-VUX4"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "moderar",
     "solicitacoes",
@@ -5758,6 +7278,44 @@
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/comercial/moderar-solicitacoes-de-orcamento.md"
+  },
+  {
+   "id": "montar-e-acompanhar-votacao-melhores-da-cidade",
+   "titulo": "montar e acompanhar uma votação Melhores da Cidade",
+   "objetivo": "aqui você cria uma votação em que o público escolhe os melhores comércios do Guia, acompanha o placar e decide o que fazer com votos suspeitos.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "melhores da cidade",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "videos": [
+    "ajzmuupRJMM"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "montar",
+    "acompanhar",
+    "votacao",
+    "melhores",
+    "cidade",
+    "aplica",
+    "voce",
+    "cria",
+    "publico",
+    "escolhe",
+    "comercios",
+    "guia",
+    "acompanha",
+    "placar",
+    "decide",
+    "votos",
+    "suspeitos"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/comercial/montar-e-acompanhar-votacao-melhores-da-cidade.md"
   },
   {
    "id": "mudar-situacao-de-empresa-do-guia",
@@ -5775,7 +7333,7 @@
     "JdJr7pXVx98"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "mudar",
     "situacao",
@@ -5844,7 +7402,7 @@
     "2ShbACG2mHE"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "configurar",
     "delivery",
@@ -5877,7 +7435,7 @@
     "8gIDPdapN0E"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-20",
+   "revisado_em": "2026-10-21",
    "termos": [
     "pagar",
     "comissao",
@@ -5963,7 +7521,7 @@
     "lwaG-T87hJI"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "receber",
     "pix",
@@ -6164,7 +7722,7 @@
     "CRiUbh7wHdc"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "artigos",
     "criar",
@@ -6496,7 +8054,7 @@
     "gAa2NdnitZU"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "cadastrar",
     "cuidar",
@@ -6579,7 +8137,7 @@
     "r5rFCgAV0mg"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "noticias",
     "automaticas",
@@ -6652,7 +8210,7 @@
     "gAa2NdnitZU"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "encontrar",
     "filtrar",
@@ -6690,7 +8248,7 @@
     "gAa2NdnitZU"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "noticias",
     "cadastrar",
@@ -6872,7 +8430,7 @@
     "r5rFCgAV0mg"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "adicionar",
     "fonte",
@@ -6935,7 +8493,7 @@
     "r5rFCgAV0mg"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "ligar",
     "desligar",
@@ -6966,7 +8524,7 @@
     "r5rFCgAV0mg"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "escolher",
     "noticias",
@@ -7105,7 +8663,7 @@
     "QrkL_nJEa-c"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "trocar",
     "fotos",
@@ -7138,7 +8696,7 @@
     "QrkL_nJEa-c"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "pontos",
     "turisticos",
@@ -7177,7 +8735,7 @@
     "CMEOWthwqtI"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "turismo",
     "roteiros",
@@ -7324,7 +8882,7 @@
     "JYDoZB_vyX8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "aprovar",
     "conteudo",
@@ -7360,7 +8918,7 @@
     "0nkWIgiQfwM"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "assistente",
     "ligar",
@@ -7412,6 +8970,43 @@
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/bloquear-conta-denunciada.md"
+  },
+  {
+   "id": "cadastrar-instituicoes-e-causas-doacoes",
+   "titulo": "cadastrar instituições e causas na área de doações",
+   "objetivo": "aqui você cadastra as instituições (ONGs e projetos sociais) que aparecem na página de doações do portal e as causas que organizam essas instituições.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "doacoes",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "videos": [
+    "grm3bUrPBxM"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "cadastrar",
+    "instituicoes",
+    "causas",
+    "area",
+    "doacoes",
+    "aplica",
+    "voce",
+    "cadastra",
+    "ongs",
+    "projetos",
+    "sociais",
+    "aparecem",
+    "pagina",
+    "portal",
+    "organizam",
+    "essas"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/portal/cadastrar-instituicoes-e-causas-doacoes.md"
   },
   {
    "id": "cancelar-notificacao-push-agendada",
@@ -7466,7 +9061,7 @@
     "-ZLL7Cqwcok"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "ligar",
     "desligar",
@@ -7547,7 +9142,7 @@
     "-ZLL7Cqwcok"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "enviar",
     "notificacoes",
@@ -7703,7 +9298,7 @@
     "REgRSXekqpA"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "realizar",
     "sorteio",
@@ -7779,7 +9374,7 @@
     "JYDoZB_vyX8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "escolher",
     "regras",
@@ -7817,7 +9412,7 @@
     "REgRSXekqpA"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "criar",
     "publicar",
@@ -8005,7 +9600,7 @@
     "-ZLL7Cqwcok"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "ver",
     "quantas",
@@ -8043,7 +9638,7 @@
     "1a0wZmdXDLk"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "ler",
     "relato",
@@ -8080,7 +9675,7 @@
     "1a0wZmdXDLk"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "voz",
     "povo",
@@ -8276,9 +9871,11 @@
     "pedidos-delivery",
     "pedido-ausente"
    ],
-   "videos": [],
+   "videos": [
+    "viWXA8_mZf4"
+   ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-15",
+   "revisado_em": "2026-10-21",
    "termos": [
     "cancelar",
     "pedido",
@@ -8296,9 +9893,70 @@
    "caminho": "portal-da-cidade/cliente/cancelar-pedido-delivery.md"
   },
   {
+   "id": "cliente-colunista-publicar-artigo",
+   "titulo": "publicar um artigo como colunista",
+   "objetivo": "completar o perfil de colunista e publicar um artigo no portal.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "artigos",
+   "aba": "Artigos",
+   "tipos": [
+    "publicar-artigo"
+   ],
+   "videos": [
+    "8VRaUwhuhO0"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "publicar",
+    "artigo",
+    "colunista",
+    "artigos",
+    "completar",
+    "perfil",
+    "portal"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/cliente/colunista/publicar-artigo-como-colunista.md"
+  },
+  {
+   "id": "cliente-colunista-virar-colunista",
+   "titulo": "virar colunista e publicar artigos no portal",
+   "objetivo": "entender o que é ser colunista no portal e como começar.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "artigos",
+   "aba": "Artigos",
+   "tipos": [
+    "virar-colunista"
+   ],
+   "videos": [
+    "NELLwm_ClmA"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "virar",
+    "colunista",
+    "publicar",
+    "artigos",
+    "portal",
+    "entender",
+    "ser",
+    "comecar"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/cliente/colunista/virar-colunista.md"
+  },
+  {
    "id": "cliente-consultar-pedidos-delivery",
    "titulo": "consultar pedidos de delivery da empresa",
-   "objetivo": "abrir a área de pedidos de delivery associada à empresa.\n\nPara cancelar um pedido, veja o artigo \"cancelar um pedido de delivery da empresa\".",
+   "objetivo": "abrir a área de pedidos de delivery associada à empresa, acompanhar os pedidos e contatar o cliente.\n\nPara cancelar um pedido, veja o artigo \"cancelar um pedido de delivery da empresa\".",
    "publico": [
     "cliente"
    ],
@@ -8313,7 +9971,7 @@
     "viWXA8_mZf4"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-15",
+   "revisado_em": "2026-10-21",
    "termos": [
     "consultar",
     "pedidos",
@@ -8324,6 +9982,9 @@
     "abrir",
     "area",
     "associada",
+    "acompanhar",
+    "contatar",
+    "cliente",
     "cancelar",
     "veja",
     "artigo"
@@ -8394,7 +10055,8 @@
     "colocar minha propaganda"
    ],
    "videos": [
-    "Mu5xmUB7w9o"
+    "Mu5xmUB7w9o",
+    "bDAKcYvx4wo"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -8438,7 +10100,9 @@
     "publicar notícia da minha empresa",
     "notícia paga"
    ],
-   "videos": [],
+   "videos": [
+    "-Islw_h8OhU"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
    "termos": [
@@ -8476,10 +10140,11 @@
     "vagas-proprias"
    ],
    "videos": [
-    "525qfVrQ4iY"
+    "525qfVrQ4iY",
+    "D21vBBhzlhg"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "criar",
     "vaga",
@@ -8511,7 +10176,8 @@
     "salvar evento"
    ],
    "videos": [
-    "aNqs6gSprvs"
+    "aNqs6gSprvs",
+    "TWKsO_iuxGE"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -8555,7 +10221,7 @@
     "OInXMQlSWqw"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-15",
+   "revisado_em": "2026-10-21",
    "termos": [
     "atualizar",
     "contatos",
@@ -8578,7 +10244,7 @@
   {
    "id": "cliente-escrever-descricao-empresa",
    "titulo": "escrever a descrição da empresa",
-   "objetivo": "aqui você escreve o que sua empresa faz.",
+   "objetivo": "aqui você escreve o que sua empresa faz, em poucas linhas.",
    "publico": [
     "cliente"
    ],
@@ -8593,7 +10259,7 @@
     "OInXMQlSWqw"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-15",
+   "revisado_em": "2026-10-21",
    "termos": [
     "escrever",
     "descricao",
@@ -8606,10 +10272,84 @@
     "incorreto",
     "voce",
     "escreve",
-    "faz"
+    "faz",
+    "poucas",
+    "linhas"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/cliente/escrever-descricao-da-empresa.md"
+  },
+  {
+   "id": "cliente-formas-de-anunciar-no-portal",
+   "titulo": "formas de anunciar no portal",
+   "objetivo": "conhecer as formas de a empresa anunciar no portal e saber qual artigo detalha cada uma.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "geral",
+   "aba": "Área do cliente",
+   "tipos": [
+    "visao-geral",
+    "formas-de-anunciar"
+   ],
+   "videos": [
+    "4pc8AwOX0hA"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "formas",
+    "anunciar",
+    "portal",
+    "geral",
+    "area",
+    "cliente",
+    "visao",
+    "conhecer",
+    "empresa",
+    "saber",
+    "artigo",
+    "detalha",
+    "cada"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/cliente/formas-de-anunciar-no-portal.md"
+  },
+  {
+   "id": "cliente-geral-visao-geral-area-cliente",
+   "titulo": "visão geral da Área do Cliente do Portal da Cidade",
+   "objetivo": "conhecer onde fica cada coisa na área do cliente.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "geral",
+   "aba": "Início",
+   "tipos": [
+    "orientacao"
+   ],
+   "videos": [
+    "UwPhKSt-mvM"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "visao",
+    "geral",
+    "area",
+    "cliente",
+    "portal",
+    "cidade",
+    "inicio",
+    "orientacao",
+    "conhecer",
+    "fica",
+    "cada",
+    "coisa"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/cliente/geral/visao-geral-area-do-cliente.md"
   },
   {
    "id": "cliente-gerenciar-anuncios-proprios",
@@ -8630,7 +10370,7 @@
     "4pc8AwOX0hA"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "acompanhar",
     "editar",
@@ -8655,7 +10395,7 @@
   {
    "id": "cliente-gerenciar-cupons-empresa",
    "titulo": "consultar os cupons da empresa na área do cliente",
-   "objetivo": "consultar a área `Cupons` associada à empresa.",
+   "objetivo": "criar, alterar e consultar o cupom de desconto da empresa na área `Cupons`.",
    "publico": [
     "cliente"
    ],
@@ -8670,7 +10410,7 @@
     "v7uO6kjwVOA"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-15",
+   "revisado_em": "2026-10-21",
    "termos": [
     "consultar",
     "cupons",
@@ -8679,7 +10419,9 @@
     "cliente",
     "cupom",
     "aparece",
-    "associada"
+    "criar",
+    "alterar",
+    "desconto"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/cliente/gerenciar-cupons-da-empresa.md"
@@ -8719,6 +10461,108 @@
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/cliente/gerenciar-vagas-da-empresa.md"
+  },
+  {
+   "id": "cliente-guia-comercial-cadastrar-empresa",
+   "titulo": "cadastrar sua empresa no Guia Comercial: dados, endereço, categoria e horário",
+   "objetivo": "cadastrar a empresa no Guia Comercial para ela aparecer aos visitantes, no computador e no celular.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "guia-comercial",
+   "aba": "Guia Comercial",
+   "tipos": [
+    "cadastrar-empresa"
+   ],
+   "videos": [
+    "Uv6Zt7V9YN0"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "cadastrar",
+    "empresa",
+    "guia",
+    "comercial",
+    "dados",
+    "endereco",
+    "categoria",
+    "horario",
+    "ela",
+    "aparecer",
+    "aos",
+    "visitantes",
+    "computador",
+    "celular"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/cliente/guia-comercial/cadastrar-empresa-no-guia.md"
+  },
+  {
+   "id": "cliente-guia-comercial-completar-ficha",
+   "titulo": "completar a ficha da sua empresa no Guia Comercial: contatos, fotos, comodidades e links",
+   "objetivo": "completar a ficha da empresa no Guia Comercial com contatos, fotos, comodidades, formas de pagamento e links.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "guia-comercial",
+   "aba": "Guia Comercial",
+   "tipos": [
+    "completar-ficha"
+   ],
+   "videos": [
+    "8EwkE_ascEw"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "completar",
+    "ficha",
+    "empresa",
+    "guia",
+    "comercial",
+    "contatos",
+    "fotos",
+    "comodidades",
+    "links",
+    "formas",
+    "pagamento"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/cliente/guia-comercial/completar-ficha-da-empresa-no-guia.md"
+  },
+  {
+   "id": "cliente-jornalista-publicar-noticia",
+   "titulo": "publicar uma notícia como jornalista",
+   "objetivo": "preencher o perfil de autor e publicar uma notícia no portal como jornalista.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "noticias",
+   "aba": "Notícias",
+   "tipos": [
+    "publicar-noticia"
+   ],
+   "videos": [
+    "by3tA7GUa88"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "publicar",
+    "noticia",
+    "jornalista",
+    "noticias",
+    "preencher",
+    "perfil",
+    "autor",
+    "portal"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/cliente/jornalista/publicar-noticia-como-jornalista.md"
   },
   {
    "id": "cliente-o-que-o-portal-nao-faz",
@@ -8812,6 +10656,115 @@
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/cliente/parar-renovacao-de-banner.md"
+  },
+  {
+   "id": "cliente-parceiro-carteira-asaas",
+   "titulo": "cadastrar a carteira Asaas do parceiro para receber comissões",
+   "objetivo": "criar a conta no Asaas, copiar o `Wallet ID` e salvá-lo no painel do parceiro para receber comissões.",
+   "publico": [
+    "parceiro"
+   ],
+   "produto": null,
+   "modulo": "parceiro",
+   "aba": "Perfil",
+   "tipos": [
+    "carteira-asaas"
+   ],
+   "videos": [
+    "J7njZgIoVes"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "cadastrar",
+    "carteira",
+    "asaas",
+    "parceiro",
+    "receber",
+    "comissoes",
+    "perfil",
+    "criar",
+    "conta",
+    "copiar",
+    "wallet",
+    "salva",
+    "painel"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/cliente/parceiro/cadastrar-carteira-asaas-do-parceiro.md"
+  },
+  {
+   "id": "cliente-parceiro-virar-representante",
+   "titulo": "virar representante parceiro e indicar empresas ao portal",
+   "objetivo": "entender como funciona o programa de representantes parceiros e como começar.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "parceiro",
+   "aba": "nao-se-aplica",
+   "tipos": [
+    "virar-parceiro"
+   ],
+   "videos": [
+    "DFVw9nSAZAQ",
+    "-Krm1tXfeig"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "virar",
+    "representante",
+    "parceiro",
+    "indicar",
+    "empresas",
+    "portal",
+    "aplica",
+    "entender",
+    "funciona",
+    "programa",
+    "representantes",
+    "parceiros",
+    "comecar"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/cliente/parceiro/virar-representante-parceiro.md"
+  },
+  {
+   "id": "cliente-parceiro-visao-geral-painel",
+   "titulo": "visão geral do painel do parceiro: link de indicação, clientes e comissões",
+   "objetivo": "conhecer os menus do painel do parceiro e pegar o link de indicação.",
+   "publico": [
+    "parceiro"
+   ],
+   "produto": null,
+   "modulo": "parceiro",
+   "aba": "Início",
+   "tipos": [
+    "orientacao"
+   ],
+   "videos": [
+    "-Krm1tXfeig"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "visao",
+    "geral",
+    "painel",
+    "parceiro",
+    "link",
+    "indicacao",
+    "clientes",
+    "comissoes",
+    "inicio",
+    "orientacao",
+    "conhecer",
+    "menus",
+    "pegar"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/cliente/parceiro/visao-geral-painel-do-parceiro.md"
   },
   {
    "id": "cliente-cancelar-plano",
@@ -9154,10 +11107,11 @@
     "status-do-anuncio"
    ],
    "videos": [
-    "S-YcDWiimEo"
+    "S-YcDWiimEo",
+    "zHOxx6KFIrk"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "publicar",
     "anuncio",
@@ -9192,7 +11146,7 @@
     "KiGU9vNKIwg"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-17",
+   "revisado_em": "2026-10-21",
    "termos": [
     "responder",
     "pedidos",
@@ -9285,7 +11239,7 @@
     "OInXMQlSWqw"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-15",
+   "revisado_em": "2026-10-21",
    "termos": [
     "trocar",
     "logo",
@@ -9306,7 +11260,7 @@
   {
    "id": "acesso-criar-conta-empresa",
    "titulo": "criar uma conta para sua empresa",
-   "objetivo": "criar a conta ligada ao cadastro da empresa e entrar na área do cliente.",
+   "objetivo": "criar a conta ligada ao cadastro da empresa, entrar na área do cliente e cadastrar a empresa no Guia Comercial.",
    "publico": [
     "visitante",
     "cliente"
@@ -9316,10 +11270,11 @@
    "aba": "nao-se-aplica",
    "tipos": [],
    "videos": [
-    "Uv6Zt7V9YN0"
+    "Uv6Zt7V9YN0",
+    "d2EweodukHg"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "criar",
     "conta",
@@ -9330,7 +11285,10 @@
     "cadastro",
     "entrar",
     "area",
-    "cliente"
+    "cliente",
+    "cadastrar",
+    "guia",
+    "comercial"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/usuario/acesso/criar-conta-empresa.md"
@@ -9367,6 +11325,40 @@
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/usuario/buscar-anuncios-classificados.md"
+  },
+  {
+   "id": "usuario-doacoes-instituicoes-de-caridade",
+   "titulo": "conhecer e ajudar instituições de caridade na seção doações",
+   "objetivo": "encontrar instituições de caridade da cidade e falar com elas.",
+   "publico": [
+    "usuario"
+   ],
+   "produto": null,
+   "modulo": "doacoes",
+   "aba": "nao-se-aplica",
+   "tipos": [
+    "doacoes"
+   ],
+   "videos": [
+    "8v1W-gtTRow"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "conhecer",
+    "ajudar",
+    "instituicoes",
+    "caridade",
+    "secao",
+    "doacoes",
+    "aplica",
+    "encontrar",
+    "cidade",
+    "falar",
+    "elas"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/usuario/conhecer-instituicoes-de-caridade-doacoes.md"
   },
   {
    "id": "usuario-consultar-contato-empresa",
@@ -9484,7 +11476,9 @@
    "modulo": "utilidade",
    "aba": "nao-se-aplica",
    "tipos": [],
-   "videos": [],
+   "videos": [
+    "G1B9mAWbCk4"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-19",
    "termos": [
@@ -9591,7 +11585,7 @@
     "REgRSXekqpA"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-19",
+   "revisado_em": "2026-10-21",
    "termos": [
     "participar",
     "sorteio",
@@ -9618,7 +11612,9 @@
    "modulo": "orcamentos",
    "aba": "nao-se-aplica",
    "tipos": [],
-   "videos": [],
+   "videos": [
+    "VmEwdNZd7pw"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-19",
    "termos": [
@@ -9637,6 +11633,36 @@
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/usuario/pedir-orcamento.md"
+  },
+  {
+   "id": "usuario-votar-melhores-da-cidade",
+   "titulo": "votar em Melhores da Cidade",
+   "objetivo": "votar no favorito de cada categoria em Melhores da Cidade.",
+   "publico": [
+    "usuario"
+   ],
+   "produto": null,
+   "modulo": "melhores-da-cidade",
+   "aba": "nao-se-aplica",
+   "tipos": [
+    "votar"
+   ],
+   "videos": [
+    "Be_8j63JLwI"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-21",
+   "termos": [
+    "votar",
+    "melhores",
+    "cidade",
+    "aplica",
+    "favorito",
+    "cada",
+    "categoria"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/usuario/votar-melhores-da-cidade.md"
   }
  ]
 }

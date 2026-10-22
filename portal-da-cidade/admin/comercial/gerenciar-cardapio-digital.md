@@ -8,10 +8,11 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-21
 validacao: docs-e-codigo
 videos:
   - VV8BxCbIfz4
+  - gmYWNfgX8LM
 ---
 
 ## objetivo
@@ -43,10 +44,11 @@ aqui você monta o cardápio com fotos e preços de um restaurante, bar ou lanch
 12. Para promoção, preencha também o `Preço promocional (R$)`. [guia=guia-empresas-cardapio.preco-promocional] [t=125]
 13. Se quiser, marque as `Tags` (viram selos no prato). [guia=guia-empresas-cardapio.tags] [t=132]
 14. Clique em `Salvar prato`. [guia=guia-empresas-cardapio.salvar-prato] [t=138]
+15. Para mudar um prato depois, clique no lápis dele.
 
 ## resultado
 
-o prato aparece na seção e, quando publicado, no cardápio da página da empresa no portal.
+o prato aparece na seção e, quando publicado, no cardápio da página da empresa no portal. se você preencheu o preço promocional, o site mostra o preço antigo riscado ao lado do novo.
 
 ## desvios
 
