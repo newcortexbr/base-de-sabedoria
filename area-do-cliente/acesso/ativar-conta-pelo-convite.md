@@ -30,12 +30,12 @@ criar a sua senha no primeiro acesso, usando o link que chega no e-mail de boas-
 
 ## passos
 
-1. No e-mail de boas-vindas, clique no link para criar a senha. Abre a página `Criar sua senha` (`/ativar`).
-2. No campo `Nova senha`, escreva a senha que você vai usar. Ela precisa ter o mínimo de caracteres mostrado embaixo do campo (o padrão é 10).
-3. No campo `Confirmar senha`, escreva a mesma senha de novo.
-4. Clique em `Criar senha e entrar`.
-5. Quando aparecer "Senha criada com sucesso", clique em `Ir para o login`.
-6. Entre com o seu e-mail e a senha nova (veja `ac-entrar-na-area-do-cliente`).
+1. No e-mail de boas-vindas, clique no link para criar a senha. Abre a página `Criar sua senha` (`/ativar`). [guia=fora]
+2. No campo `Nova senha`, escreva a senha que você vai usar. Ela precisa ter o mínimo de caracteres mostrado embaixo do campo (o padrão é 10). [guia=fora]
+3. No campo `Confirmar senha`, escreva a mesma senha de novo. [guia=fora]
+4. Clique em `Criar senha e entrar`. [guia=fora]
+5. Quando aparecer "Senha criada com sucesso", clique em `Ir para o login`. [guia=fora]
+6. Entre com o seu e-mail e a senha nova (veja `ac-entrar-na-area-do-cliente`). [guia=fora]
 
 ## resultado
 

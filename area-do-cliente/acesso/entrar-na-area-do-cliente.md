@@ -29,10 +29,10 @@ entrar na Área do Cliente New Córtex (a "Central de Negócios") com o e-mail e
 
 ## passos
 
-1. Abra a página de entrada da Área do Cliente (`/login`). O quadro se chama `Entrar na sua conta`.
-2. No campo `E-mail`, escreva o e-mail cadastrado para você.
-3. No campo `Senha`, escreva a sua senha. Para conferir o que digitou, clique no ícone de olho (`Mostrar senha`).
-4. Clique em `Entrar`. Enquanto confere, o botão mostra `Entrando…`.
+1. Abra a página de entrada da Área do Cliente (`/login`). O quadro se chama `Entrar na sua conta`. [guia=fora]
+2. No campo `E-mail`, escreva o e-mail cadastrado para você. [guia=fora]
+3. No campo `Senha`, escreva a sua senha. Para conferir o que digitou, clique no ícone de olho (`Mostrar senha`). [guia=fora]
+4. Clique em `Entrar`. Enquanto confere, o botão mostra `Entrando…`. [guia=fora]
 
 ## resultado
 

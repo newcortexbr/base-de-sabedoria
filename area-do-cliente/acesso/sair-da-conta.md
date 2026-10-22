@@ -25,8 +25,8 @@ encerrar a sua entrada na Área do Cliente neste aparelho, por exemplo num compu
 
 ## passos
 
-1. No celular, toque no botão de menu (três linhas, `Abrir menu`) no topo para abrir o menu da esquerda. No computador o menu já aparece.
-2. No rodapé do menu, embaixo do seu nome, clique em `Sair`. Enquanto encerra, aparece `Saindo…`.
+1. No celular, toque no botão de menu (três linhas, `Abrir menu`) no topo para abrir o menu da esquerda. No computador o menu já aparece. [guia=menu:abrir]
+2. No rodapé do menu, embaixo do seu nome, clique em `Sair`. Enquanto encerra, aparece `Saindo…`. [guia=menu.sair]
 
 ## resultado
 

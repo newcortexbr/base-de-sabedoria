@@ -32,12 +32,12 @@ saber como pedir reembolso e o que acontece com o negócio.
 
 ## passos
 
-1. No menu, clique em `Suporte` e depois em `Abrir novo chamado`.
-2. Em `Negócio vinculado`, escolha o negócio da cobrança.
-3. Em `Assunto`, escolha `Pagamentos`.
-4. Em `Título`, escreva "Pedido de reembolso". Em `Mensagem`, diga qual cobrança (vencimento e valor, como aparecem em `Pagamentos`) e o motivo.
-5. Se tiver comprovante, clique em `Anexar arquivo` e anexe.
-6. Clique em `Enviar chamado`.
+1. No menu, clique em `Suporte` e depois em `Abrir novo chamado`. [guia=suporte.novo-chamado]
+2. Em `Negócio vinculado`, escolha o negócio da cobrança. [guia=chamado-novo.negocio]
+3. Em `Assunto`, escolha `Pagamentos`. [guia=chamado-novo.assunto]
+4. Em `Título`, escreva "Pedido de reembolso". Em `Mensagem`, diga qual cobrança (vencimento e valor, como aparecem em `Pagamentos`) e o motivo. [guia=chamado-novo.titulo]
+5. Se tiver comprovante, clique em `Anexar arquivo` e anexe. [guia=chamado-novo.anexar]
+6. Clique em `Enviar chamado`. [guia=chamado-novo.enviar]
 
 ## resultado
 

@@ -27,11 +27,11 @@ pedir a correção de nome, CPF/CNPJ ou e-mail de acesso, que você não consegu
 
 ## passos
 
-1. No rodapé do menu da esquerda, clique no seu nome (`Minha conta`).
-2. No quadro `Dados cadastrais`, clique no link `solicite a alteração ao suporte` (abaixo dos campos). Abre `Novo chamado` (`/suporte/novo?assunto=conta`) já com `Negócio vinculado` em `Nenhum: é sobre minha conta` e `Assunto` em `Minha conta`.
-3. Em `Título`, escreva o que quer corrigir (por exemplo, "Corrigir e-mail de acesso").
-4. Em `Mensagem`, informe o dado atual e o dado correto.
-5. Clique em `Enviar chamado`.
+1. No rodapé do menu da esquerda, clique no seu nome (`Minha conta`). [guia=menu:/minha-conta]
+2. No quadro `Dados cadastrais`, clique no link `solicite a alteração ao suporte` (abaixo dos campos). Abre `Novo chamado` (`/suporte/novo?assunto=conta`) já com `Negócio vinculado` em `Nenhum: é sobre minha conta` e `Assunto` em `Minha conta`. [guia=fora]
+3. Em `Título`, escreva o que quer corrigir (por exemplo, "Corrigir e-mail de acesso"). [guia=chamado-novo.titulo]
+4. Em `Mensagem`, informe o dado atual e o dado correto. [guia=chamado-novo.mensagem]
+5. Clique em `Enviar chamado`. [guia=chamado-novo.enviar]
 
 ## resultado
 

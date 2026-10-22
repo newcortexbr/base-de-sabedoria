@@ -30,8 +30,8 @@ entender a espera depois de apontar o domínio (etapa `Conexão DNS`, tela `Test
 - é normal o site abrir no seu celular e não no computador (ou o contrário) durante a propagação.
 
 ## passos
-1. Aguarde. Não refaça a troca de nameservers.
-2. Volte a `Minha plataforma` depois de algumas horas.
+1. Aguarde. Não refaça a troca de nameservers. [guia=fora]
+2. Volte a `Minha plataforma` depois de algumas horas. [guia=menu:/negocios/[licenseId]/plataforma]
 
 ## resultado
 quando a propagação termina, a instalação passa para a etapa `Portal no ar` e aparece a pergunta final para você confirmar se o portal está no ar.

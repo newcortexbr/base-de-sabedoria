@@ -22,11 +22,11 @@ abrir um módulo, assistir às aulas e passar para a próxima.
 - ter acesso a `Treinamentos` no seu negócio.
 
 ## passos
-1. Em `Treinamentos` (`/negocios/<negócio>/treinamento`), veja o quadro do próximo passo. Clique em `Começar`, `Continuar aula`, `Começar próximo módulo` ou `Rever o treinamento`, conforme o que aparecer.
-2. Ou, em `Seus módulos`, escolha um módulo e clique em `Assistir aulas` (ou `Continuar` / `Rever aulas`).
-3. Na aula, assista ao vídeo e leia `Sobre esta aula`.
-4. Para seguir, clique em `Próxima aula`. Para voltar, `Aula anterior`.
-5. Para voltar à lista, clique em `Treinamentos` na trilha do topo.
+1. Em `Treinamentos` (`/negocios/<negócio>/treinamento`), veja o quadro do próximo passo. Clique em `Começar`, `Continuar aula`, `Começar próximo módulo` ou `Rever o treinamento`, conforme o que aparecer. [guia=treinamento.continuar]
+2. Ou, em `Seus módulos`, escolha um módulo e clique em `Assistir aulas` (ou `Continuar` / `Rever aulas`). [guia=fora]
+3. Na aula, assista ao vídeo e leia `Sobre esta aula`. [guia=fora]
+4. Para seguir, clique em `Próxima aula`. Para voltar, `Aula anterior`. [guia=aula.proxima]
+5. Para voltar à lista, clique em `Treinamentos` na trilha do topo. [guia=menu:/negocios/[licenseId]/treinamento]
 
 ## resultado
 você assiste às aulas na ordem do módulo.

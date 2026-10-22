@@ -29,13 +29,13 @@ ver a resposta da equipe e continuar a conversa no mesmo chamado.
 
 ## passos
 
-1. No menu da esquerda, clique em `Suporte`.
-2. Na lista `Acompanhamento`, use os filtros `Todos`, `Em andamento` ou `Resolvidos`, se precisar.
-3. Clique no chamado. Abre a página do chamado (`/suporte/<código do chamado>`).
-4. Leia o `Histórico do atendimento`. As mensagens da equipe aparecem como "Equipe New Córtex".
-5. Na caixa `Responder`, escreva em `Sua resposta (aceita markdown)`. Embaixo aparece a `Prévia` de como vai ficar.
-6. Se precisar, clique em `Anexar arquivo`.
-7. Clique em `Enviar resposta`.
+1. No menu da esquerda, clique em `Suporte`. [guia=menu:/suporte]
+2. Na lista `Acompanhamento`, use os filtros `Todos`, `Em andamento` ou `Resolvidos`, se precisar. [guia=fora]
+3. Clique no chamado. Abre a página do chamado (`/suporte/<código do chamado>`). [guia=fora]
+4. Leia o `Histórico do atendimento`. As mensagens da equipe aparecem como "Equipe New Córtex". [guia=fora]
+5. Na caixa `Responder`, escreva em `Sua resposta (aceita markdown)`. Embaixo aparece a `Prévia` de como vai ficar. [guia=chamado.resposta]
+6. Se precisar, clique em `Anexar arquivo`. [guia=chamado-novo.anexar]
+7. Clique em `Enviar resposta`. [guia=chamado.enviar-resposta]
 
 ## resultado
 

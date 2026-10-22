@@ -25,12 +25,12 @@ saber onde ver o vencimento e como pedir para mudar o dia.
 - cada negócio tem duas cobranças com datas próprias: a `Mensalidade` (mensal) e a `Reserva territorial` (anual). Veja `ac-reserva-anual-e-mensalidade`.
 
 ## passos
-1. No menu da esquerda, clique em `Pagamentos` do negócio.
-2. Veja o vencimento de cada cobrança no cartão dela.
-3. Para pedir outro dia, clique em `Suporte` → `Abrir novo chamado`.
-4. Em `Assunto`, escolha `Pagamentos`. Em `Negócio vinculado`, escolha a cidade.
-5. Em `Mensagem`, diga qual cobrança (mensalidade ou reserva territorial) e o dia que você quer.
-6. Clique em `Enviar chamado`.
+1. No menu da esquerda, clique em `Pagamentos` do negócio. [guia=menu:/negocios/[licenseId]/pagamentos]
+2. Veja o vencimento de cada cobrança no cartão dela. [guia=fora]
+3. Para pedir outro dia, clique em `Suporte` → `Abrir novo chamado`. [guia=suporte.novo-chamado]
+4. Em `Assunto`, escolha `Pagamentos`. Em `Negócio vinculado`, escolha a cidade. [guia=chamado-novo.negocio]
+5. Em `Mensagem`, diga qual cobrança (mensalidade ou reserva territorial) e o dia que você quer. [guia=chamado-novo.mensagem]
+6. Clique em `Enviar chamado`. [guia=chamado-novo.enviar]
 
 ## resultado
 o pedido fica com a equipe, que responde no chamado.

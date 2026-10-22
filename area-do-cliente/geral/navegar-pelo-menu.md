@@ -38,10 +38,10 @@ Cada negócio é um produto numa cidade. Treinamentos, Ferramentas e Lives apare
 
 ## passos
 
-1. Para trocar de negócio, use o seletor no topo da página ou clique em `Meus negócios` e escolha o cartão.
-2. O menu passa a mostrar as áreas do negócio escolhido.
-3. No celular, o menu fica escondido: toque no botão de três linhas (`Abrir menu`) no topo. Para fechar, toque em `Fechar menu` ou fora do menu.
-4. A trilha no topo da página (por exemplo, "Meus negócios > Produto · Cidade/UF > Pagamentos") mostra onde você está; clique nos itens para voltar.
+1. Para trocar de negócio, use o seletor no topo da página ou clique em `Meus negócios` e escolha o cartão. [guia=menu:/negocios]
+2. O menu passa a mostrar as áreas do negócio escolhido. [guia=fora]
+3. No celular, o menu fica escondido: toque no botão de três linhas (`Abrir menu`) no topo. Para fechar, toque em `Fechar menu` ou fora do menu. [guia=menu:abrir]
+4. A trilha no topo da página (por exemplo, "Meus negócios > Produto · Cidade/UF > Pagamentos") mostra onde você está; clique nos itens para voltar. [guia=fora]
 
 ## desvios
 

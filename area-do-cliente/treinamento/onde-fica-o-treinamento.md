@@ -21,9 +21,9 @@ encontrar os treinamentos do seu produto.
 - ter um negócio com licença ativa do produto.
 
 ## passos
-1. No menu da esquerda, clique em `Meus negócios` (`/negocios`).
-2. No cartão da cidade, clique em `Acessar meu negócio`.
-3. No menu do negócio, clique em `Treinamentos` (`/negocios/<negócio>/treinamento`).
+1. No menu da esquerda, clique em `Meus negócios` (`/negocios`). [guia=menu:/negocios]
+2. No cartão da cidade, clique em `Acessar meu negócio`. [guia=negocios.acessar-negocio]
+3. No menu do negócio, clique em `Treinamentos` (`/negocios/<negócio>/treinamento`). [guia=menu:/negocios/[licenseId]/treinamento]
 
 ## resultado
 abre a tela `Treinamentos` (`Aprenda, coloque em prática e faça seu portal crescer.`), com o seu progresso, o próximo passo e a lista `Seus módulos`.

@@ -26,11 +26,11 @@ saber como pedir a troca do dono de um negócio.
 - cada conta tem um login só; não dá para adicionar sócio ou funcionário (veja `ac-um-login-por-conta`).
 
 ## passos
-1. No menu da esquerda, clique em `Suporte`.
-2. Clique em `Abrir novo chamado`.
-3. Em `Negócio vinculado`, escolha a cidade que quer transferir.
-4. Em `Mensagem`, diga para quem quer transferir (nome e e-mail) e o motivo.
-5. Clique em `Enviar chamado`.
+1. No menu da esquerda, clique em `Suporte`. [guia=menu:/suporte]
+2. Clique em `Abrir novo chamado`. [guia=suporte.novo-chamado]
+3. Em `Negócio vinculado`, escolha a cidade que quer transferir. [guia=chamado-novo.negocio]
+4. Em `Mensagem`, diga para quem quer transferir (nome e e-mail) e o motivo. [guia=chamado-novo.mensagem]
+5. Clique em `Enviar chamado`. [guia=chamado-novo.enviar]
 
 ## resultado
 o pedido fica registrado com a equipe, que responde no chamado.

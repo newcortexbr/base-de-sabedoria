@@ -30,15 +30,15 @@ trocar a sua senha quando você já está dentro da Área do Cliente. A troca pe
 
 ## passos
 
-1. No rodapé do menu da esquerda, clique no seu nome (embaixo dele está escrito `Minha conta`). Abre a página `Minha conta` (`/minha-conta`).
-2. No quadro `Senha de acesso`, clique em `Alterar minha senha`. Abre a janela `Trocar senha de acesso`.
-3. No campo `Senha atual`, escreva a senha que você usa hoje.
-4. Clique em `Enviar código por e-mail`.
-5. Abra o seu e-mail e copie o código recebido.
-6. De volta à janela, escreva o código no campo `Código enviado por e-mail`.
-7. No campo `Nova senha`, escreva a senha nova.
-8. No campo `Repita a nova senha`, escreva a senha nova de novo.
-9. Clique em `Salvar nova senha`.
+1. No rodapé do menu da esquerda, clique no seu nome (embaixo dele está escrito `Minha conta`). Abre a página `Minha conta` (`/minha-conta`). [guia=menu:/minha-conta]
+2. No quadro `Senha de acesso`, clique em `Alterar minha senha`. Abre a janela `Trocar senha de acesso`. [guia=conta.alterar-senha]
+3. No campo `Senha atual`, escreva a senha que você usa hoje. [guia=conta.senha-atual]
+4. Clique em `Enviar código por e-mail`. [guia=fora]
+5. Abra o seu e-mail e copie o código recebido. [guia=fora]
+6. De volta à janela, escreva o código no campo `Código enviado por e-mail`. [guia=conta.codigo]
+7. No campo `Nova senha`, escreva a senha nova. [guia=conta.nova-senha]
+8. No campo `Repita a nova senha`, escreva a senha nova de novo. [guia=conta.repetir-senha]
+9. Clique em `Salvar nova senha`. [guia=conta.confirmar-troca-senha]
 
 ## resultado
 

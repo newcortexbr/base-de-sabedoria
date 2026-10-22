@@ -27,14 +27,14 @@ apontar o seu domínio próprio para o portal trocando os 2 nameservers (servido
 - ter o login do site onde registrou o domínio (Registro.br, Hostinger ou outro).
 
 ## passos
-1. Em `Meus negócios` (`/negocios`), clique em `Ver o que fazer` no cartão da cidade.
-2. Em `Minha plataforma`, no quadro `Seus servidores DNS`, clique em `Copiar` ao lado do primeiro endereço.
-3. Em outra aba, entre no site onde você registrou o domínio. A tela tem atalhos em `Atalhos do seu registrador` (`Abrir o Registro.br`, `Abrir a Hostinger`).
-4. No painel do registrador, abra a configuração de DNS (ou "servidores DNS") do domínio e escolha usar servidores próprios/personalizados.
-5. Apague os servidores que estão lá e cole o primeiro endereço copiado.
-6. Volte à área do cliente, clique em `Copiar` no segundo endereço e cole no segundo campo do registrador.
-7. Salve a alteração no registrador.
-8. Volte à área do cliente e clique em `Já configurei`.
+1. Em `Meus negócios` (`/negocios`), clique em `Ver o que fazer` no cartão da cidade. [guia=menu:/negocios]
+2. Em `Minha plataforma`, no quadro `Seus servidores DNS`, clique em `Copiar` ao lado do primeiro endereço. [guia=plataforma.copiar-dns-1]
+3. Em outra aba, entre no site onde você registrou o domínio. A tela tem atalhos em `Atalhos do seu registrador` (`Abrir o Registro.br`, `Abrir a Hostinger`). [guia=fora]
+4. No painel do registrador, abra a configuração de DNS (ou "servidores DNS") do domínio e escolha usar servidores próprios/personalizados. [guia=fora]
+5. Apague os servidores que estão lá e cole o primeiro endereço copiado. [guia=fora]
+6. Volte à área do cliente, clique em `Copiar` no segundo endereço e cole no segundo campo do registrador. [guia=plataforma.copiar-dns-2]
+7. Salve a alteração no registrador. [guia=fora]
+8. Volte à área do cliente e clique em `Já configurei`. [guia=plataforma.ja-configurei]
 
 ## resultado
 a tela mostra `Procurando o apontamento DNS`: `Se já salvou a alteração, agora é só aguardar. Vamos detectar o apontamento e avançar automaticamente para testar seu portal. Pode levar de alguns minutos até 24 horas, conforme o registrador.` você pode fechar a tela. quando a mudança for detectada, a instalação passa para a etapa `Conexão DNS` (`Testando o acesso ao portal`) e depois para a confirmação final.

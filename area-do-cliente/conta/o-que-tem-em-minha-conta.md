@@ -27,8 +27,8 @@ encontrar a página `Minha conta` e entender cada informação que aparece nela.
 
 ## passos
 
-1. No rodapé do menu da esquerda, clique no seu nome (embaixo dele está escrito `Minha conta`). Se a sua conta estiver bloqueada, o item `Minha Conta` aparece também no meio do menu.
-2. A página `Minha conta` (`/minha-conta`) abre.
+1. No rodapé do menu da esquerda, clique no seu nome (embaixo dele está escrito `Minha conta`). Se a sua conta estiver bloqueada, o item `Minha Conta` aparece também no meio do menu. [guia=menu:/minha-conta]
+2. A página `Minha conta` (`/minha-conta`) abre. [guia=fora]
 
 ## explicação
 

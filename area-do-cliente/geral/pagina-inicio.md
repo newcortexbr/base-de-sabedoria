@@ -37,9 +37,9 @@ de cima para baixo, você pode ver:
 - `Seus pagamentos`: a mensalidade e a reserva territorial, com valor, vencimento e situação (`Em dia`, `Vence em <dia>` ou `Vencida há N dias`).
 
 ## passos
-1. No menu da esquerda, clique em `Início`.
-2. Se tiver mais de um negócio, escolha a cidade no seletor do topo.
-3. Clique no botão do quadro que você quer usar.
+1. No menu da esquerda, clique em `Início`. [guia=menu:/inicio]
+2. Se tiver mais de um negócio, escolha a cidade no seletor do topo. [guia=fora]
+3. Clique no botão do quadro que você quer usar. [guia=fora]
 
 ## resultado
 você vê o resumo do negócio escolhido e chega ao próximo passo com um clique.

@@ -26,10 +26,10 @@ trocar o número de telefone/WhatsApp de contato da sua conta.
 
 ## passos
 
-1. No rodapé do menu da esquerda, clique no seu nome (`Minha conta`).
-2. No quadro `Dados cadastrais`, apague o número antigo do campo `Telefone / WhatsApp`.
-3. Escreva o número novo com DDD (10 ou 11 números).
-4. Clique em `Salvar alterações`.
+1. No rodapé do menu da esquerda, clique no seu nome (`Minha conta`). [guia=menu:/minha-conta]
+2. No quadro `Dados cadastrais`, apague o número antigo do campo `Telefone / WhatsApp`. [guia=conta.telefone]
+3. Escreva o número novo com DDD (10 ou 11 números). [guia=fora]
+4. Clique em `Salvar alterações`. [guia=conta.salvar-dados]
 
 ## resultado
 

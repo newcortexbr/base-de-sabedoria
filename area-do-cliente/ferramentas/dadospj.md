@@ -32,9 +32,9 @@ entender o DadosPJ e como entrar.
 - diferente do Extrator Maps, o DadosPJ fica indisponível se todos os seus negócios estiverem suspensos.
 
 ## passos
-1. No menu do negócio, clique em `Ferramentas`.
-2. No cartão `Extrator da Receita Federal`, clique em `Acessar ferramenta`.
-3. Aguarde a tela `Entrando no DadosPJ…`.
+1. No menu do negócio, clique em `Ferramentas`. [guia=menu:/negocios/[licenseId]/ferramentas]
+2. No cartão `Extrator da Receita Federal`, clique em `Acessar ferramenta`. [guia=ferramentas.acessar]
+3. Aguarde a tela `Entrando no DadosPJ…`. [guia=fora]
 
 ## resultado
 você entra no DadosPJ com a sua conta.

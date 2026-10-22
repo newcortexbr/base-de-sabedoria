@@ -28,10 +28,10 @@ encontrar a situação, os vencimentos e o histórico de cobranças de cada neg�
 
 ## passos
 
-1. Se você tem mais de um negócio, escolha qual no seletor do topo da página ou em `Meus negócios`. O menu da esquerda mostra os itens do negócio escolhido.
-2. No menu da esquerda, clique em `Pagamentos` (último item). Abre `/negocios/<seu negócio>/pagamentos`.
-3. Leia o quadro `Situação dos pagamentos`: há um cartão para `Reserva territorial` e outro para `Mensalidade`, cada um com selo (`Em dia`, `A vencer`, `Em atraso`, `Suspenso`, `Após a instalação` ou `Sem cobrança`), vencimento e valor.
-4. Desça até `Histórico de cobranças` para ver todas as cobranças daquele negócio. Use os filtros `Todas`, `Reserva territorial` ou `Mensalidade`.
+1. Se você tem mais de um negócio, escolha qual no seletor do topo da página ou em `Meus negócios`. O menu da esquerda mostra os itens do negócio escolhido. [guia=menu:/negocios]
+2. No menu da esquerda, clique em `Pagamentos` (último item). Abre `/negocios/<seu negócio>/pagamentos`. [guia=menu:/negocios/[licenseId]/pagamentos]
+3. Leia o quadro `Situação dos pagamentos`: há um cartão para `Reserva territorial` e outro para `Mensalidade`, cada um com selo (`Em dia`, `A vencer`, `Em atraso`, `Suspenso`, `Após a instalação` ou `Sem cobrança`), vencimento e valor. [guia=fora]
+4. Desça até `Histórico de cobranças` para ver todas as cobranças daquele negócio. Use os filtros `Todas`, `Reserva territorial` ou `Mensalidade`. [guia=pagamentos.historico]
 
 ## resultado
 

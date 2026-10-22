@@ -27,11 +27,11 @@ entender quem é o Asaas e conferir se uma cobrança é sua.
 - a mesma cobrança aparece na Área do Cliente, em `Pagamentos`, com o mesmo valor e vencimento.
 
 ## passos
-1. Entre na Área do Cliente digitando o endereço no navegador (não pelo link do e-mail).
-2. No menu da esquerda, clique em `Pagamentos` do negócio.
-3. Compare o valor e o vencimento com os da cobrança que você recebeu.
-4. Se bater, pague pelo botão da própria Área do Cliente (`Ver próxima cobrança` ou `Regularizar pagamento`).
-5. Se não bater, não pague e abra um chamado em `Suporte` com `Assunto` `Pagamentos` e um print da cobrança recebida.
+1. Entre na Área do Cliente digitando o endereço no navegador (não pelo link do e-mail). [guia=fora]
+2. No menu da esquerda, clique em `Pagamentos` do negócio. [guia=menu:/negocios/[licenseId]/pagamentos]
+3. Compare o valor e o vencimento com os da cobrança que você recebeu. [guia=fora]
+4. Se bater, pague pelo botão da própria Área do Cliente (`Ver próxima cobrança` ou `Regularizar pagamento`). [guia=pagamentos.pagar]
+5. Se não bater, não pague e abra um chamado em `Suporte` com `Assunto` `Pagamentos` e um print da cobrança recebida. [guia=fora]
 
 ## resultado
 você paga só o que aparece em `Pagamentos` e pelo caminho da Área do Cliente.

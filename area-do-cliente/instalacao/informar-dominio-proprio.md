@@ -24,13 +24,13 @@ informar o endereço (domínio) que o seu portal vai usar, para a instalação c
 - ter um domínio já registrado e pago no seu nome (por exemplo, no Registro.br ou na Hostinger). a área do cliente não compra domínio para você.
 
 ## passos
-1. No menu da esquerda, clique em `Meus negócios` (`/negocios`).
-2. No cartão da cidade, clique em `Iniciar instalação` (ou `Continuar instalação`).
-3. Na tela `Qual endereço sua plataforma vai ter?`, escolha `Domínio próprio` (exemplo: `portalvitoria.com.br`).
-4. No campo `Seu domínio`, digite o domínio, sem `www` e sem `https://`.
-5. No campo `Digite o domínio novamente para confirmar`, digite de novo, sem colar. Aparece `✓ Os dois conferem`.
-6. Marque `Confirmo que <seu domínio> é meu, está registrado e pago.`
-7. Clique em `Continuar`.
+1. No menu da esquerda, clique em `Meus negócios` (`/negocios`). [guia=menu:/negocios]
+2. No cartão da cidade, clique em `Iniciar instalação` (ou `Continuar instalação`). [guia=negocios.instalacao]
+3. Na tela `Qual endereço sua plataforma vai ter?`, escolha `Domínio próprio` (exemplo: `portalvitoria.com.br`). [guia=plataforma.dominio-proprio]
+4. No campo `Seu domínio`, digite o domínio, sem `www` e sem `https://`. [guia=plataforma.campo-dominio]
+5. No campo `Digite o domínio novamente para confirmar`, digite de novo, sem colar. Aparece `✓ Os dois conferem`. [guia=plataforma.repetir-dominio]
+6. Marque `Confirmo que <seu domínio> é meu, está registrado e pago.` [guia=plataforma.confirmo-registro]
+7. Clique em `Continuar`. [guia=plataforma.continuar]
 
 ## resultado
 o sistema começa a preparar o portal (`Preparando sua plataforma`). em seguida a tela mostra `Falta apontar o seu domínio.` e os 2 nameservers que você vai trocar no site onde registrou o domínio.

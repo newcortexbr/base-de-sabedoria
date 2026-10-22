@@ -30,9 +30,9 @@ enviar um print, foto, planilha ou documento junto com o chamado.
 
 ## passos
 
-1. No chamado novo (`Novo chamado`) ou na caixa `Responder` de um chamado aberto, clique em `Anexar arquivo`.
-2. Escolha o arquivo no seu computador ou celular. No chamado novo dá para escolher vários; para tirar um da lista, clique em `Remover`.
-3. Termine o chamado ou a resposta e clique em `Enviar chamado` (ou `Enviar resposta`). No chamado novo, os arquivos sobem logo depois que o chamado é criado. Na resposta, o arquivo sobe na hora em que você o escolhe (o botão mostra `Enviando…`).
+1. No chamado novo (`Novo chamado`) ou na caixa `Responder` de um chamado aberto, clique em `Anexar arquivo`. [guia=chamado-novo.anexar]
+2. Escolha o arquivo no seu computador ou celular. No chamado novo dá para escolher vários; para tirar um da lista, clique em `Remover`. [guia=fora]
+3. Termine o chamado ou a resposta e clique em `Enviar chamado` (ou `Enviar resposta`). No chamado novo, os arquivos sobem logo depois que o chamado é criado. Na resposta, o arquivo sobe na hora em que você o escolhe (o botão mostra `Enviando…`). [guia=chamado-novo.enviar]
 
 ## resultado
 

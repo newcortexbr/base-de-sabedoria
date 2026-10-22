@@ -27,9 +27,9 @@ abrir o comprovante de uma cobrança que já foi paga.
 
 ## passos
 
-1. No menu da esquerda, clique em `Pagamentos` do negócio certo.
-2. Desça até `Histórico de cobranças`.
-3. Na linha da cobrança paga, clique em `Ver comprovante`. Ele abre em uma nova aba, na página do Asaas.
+1. No menu da esquerda, clique em `Pagamentos` do negócio certo. [guia=menu:/negocios/[licenseId]/pagamentos]
+2. Desça até `Histórico de cobranças`. [guia=pagamentos.historico]
+3. Na linha da cobrança paga, clique em `Ver comprovante`. Ele abre em uma nova aba, na página do Asaas. [guia=pagamentos.acao-do-historico]
 
 ## resultado
 
