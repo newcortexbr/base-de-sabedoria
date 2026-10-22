@@ -33,7 +33,7 @@ aqui você acha, muda e apaga as vagas de emprego do portal. Anúncios de classi
 3. Se quiser, escolha a área e a situação da vaga. [guia=vagas.situacao] [t=34]
 4. Clique em `Filtrar`. [guia=vagas.filtrar] [t=36]
 5. Para mudar uma vaga, clique em `Editar` na linha da vaga que você quer. [guia=vagas.editar] [t=42]
-6. Para encerrar ou reativar a vaga com um clique, use a pílula de status da linha. ao lado ficam também as ações `insights`, `editar` e `excluir`.
+6. Para encerrar ou reativar a vaga com um clique, use a pílula de status da linha. ao lado ficam também as ações `insights`, `editar` e `excluir`. [guia=vagas.situacao]
 
 ## resultado
 

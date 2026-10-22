@@ -23,11 +23,11 @@ aqui você decide se a foto de preço enviada por um morador vai ao ar. Aprovada
 ## passos
 
 1. No menu da esquerda, clique em `Radar de Preços` e depois em `Fotos enviadas`. [guia=menu:/painel/radar/fotos]
-2. Fique na aba `Aguardando`. As outras são `Lidos` (já aprovadas) e `Recusados`.
-3. Confira a foto. Clique nela para ampliar; use os botões de girar se estiver de lado. Veja o tipo (produto ou encarte), o mercado, o preço informado e quem enviou.
-4. Se o mercado ou o preço estiverem errados, clique em `Corrigir`, ajuste o `Mercado *` ou o `Preço informado` e salve.
-5. Se estiver certo, clique em `Aprovar e ler`. Quando o mercado ainda é novo, o botão se chama `Aprovar foto e mercado` e aprova os dois.
-6. Se não serve, clique em `Recusar` e confirme em `Recusar esta foto?`. Nada é lido.
+2. Fique na aba `Aguardando`. As outras são `Lidos` (já aprovadas) e `Recusados`. [guia=radar-fotos.aprovar]
+3. Confira a foto. Clique nela para ampliar; use os botões de girar se estiver de lado. Veja o tipo (produto ou encarte), o mercado, o preço informado e quem enviou. [guia=radar-fotos.corrigir]
+4. Se o mercado ou o preço estiverem errados, clique em `Corrigir`, ajuste o `Mercado *` ou o `Preço informado` e salve. [guia=radar-fotos.corrigir]
+5. Se estiver certo, clique em `Aprovar e ler`. Quando o mercado ainda é novo, o botão se chama `Aprovar foto e mercado` e aprova os dois. [guia=radar-fotos.aprovar]
+6. Se não serve, clique em `Recusar` e confirme em `Recusar esta foto?`. Nada é lido. [guia=radar-fotos.recusar]
 
 ## resultado
 

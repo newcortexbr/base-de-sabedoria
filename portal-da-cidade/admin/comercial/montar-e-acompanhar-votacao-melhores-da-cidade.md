@@ -32,18 +32,18 @@ aqui você cria uma votação em que o público escolhe os melhores comércios d
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Melhores da Cidade`.
-2. Na lista, busque uma votação pelo nome e use as abas para filtrar: todas, no ar, agendadas e encerradas.
-3. Para criar, clique em `Criar votação`. São dois passos: datas e competições, e revisar.
-4. Dê um nome à votação (é opcional) e escolha quando ela começa e quando termina.
-5. Monte as competições: escolha a categoria e, se quiser, uma subcategoria. O nome é sugerido sozinho, e o aviso mostra como vai aparecer no site e quantas empresas vão concorrer.
-6. Clique em `Adicionar competição`. Repita para cada disputa.
-7. Clique em `Próximo`, revise e crie a votação.
-8. Para acompanhar uma votação no ar, olhe o cartão dela: nome, período, competições, total de votos, votos de hoje, tempo que falta e, no quadro `Liderando`, quem está em primeiro em cada disputa.
-9. Clique em `Ver placar` para ver os números completos: votos válidos, tempo que falta, votos anulados e alertas esperando decisão. A tabela mostra cada participante, a distância para o primeiro colocado, o total de votos e os votos de hoje. Quem recebe votos estranhos ganha a etiqueta suspeito.
-10. Clique em `Votos suspeitos` para ver os alertas do sistema sobre votos que não parecem de gente de verdade. Para cada um, escolha `Anular` (tira esses votos do placar) ou `Manter` (deixa como está). Dá para desfazer a decisão até a votação terminar.
-11. Para mudar a votação, clique no lápis. Com ela no ar, o início não muda mais, mas dá para estender ou encurtar o fim e trocar o nome das competições.
-12. Para terminar antes da hora, clique em `Encerrar agora` (no cartão ou na janela de edição).
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Melhores da Cidade`. [guia=menu:/painel/melhores-da-cidade]
+2. Na lista, busque uma votação pelo nome e use as abas para filtrar: todas, no ar, agendadas e encerradas. [guia=menu:/painel/melhores-da-cidade]
+3. Para criar, clique em `Criar votação`. São dois passos: datas e competições, e revisar. [guia=menu:/painel/melhores-da-cidade]
+4. Dê um nome à votação (é opcional) e escolha quando ela começa e quando termina. [guia=menu:/painel/melhores-da-cidade]
+5. Monte as competições: escolha a categoria e, se quiser, uma subcategoria. O nome é sugerido sozinho, e o aviso mostra como vai aparecer no site e quantas empresas vão concorrer. [guia=menu:/painel/melhores-da-cidade]
+6. Clique em `Adicionar competição`. Repita para cada disputa. [guia=menu:/painel/melhores-da-cidade]
+7. Clique em `Próximo`, revise e crie a votação. [guia=menu:/painel/melhores-da-cidade]
+8. Para acompanhar uma votação no ar, olhe o cartão dela: nome, período, competições, total de votos, votos de hoje, tempo que falta e, no quadro `Liderando`, quem está em primeiro em cada disputa. [guia=menu:/painel/melhores-da-cidade]
+9. Clique em `Ver placar` para ver os números completos: votos válidos, tempo que falta, votos anulados e alertas esperando decisão. A tabela mostra cada participante, a distância para o primeiro colocado, o total de votos e os votos de hoje. Quem recebe votos estranhos ganha a etiqueta suspeito. [guia=menu:/painel/melhores-da-cidade]
+10. Clique em `Votos suspeitos` para ver os alertas do sistema sobre votos que não parecem de gente de verdade. Para cada um, escolha `Anular` (tira esses votos do placar) ou `Manter` (deixa como está). Dá para desfazer a decisão até a votação terminar. [guia=menu:/painel/melhores-da-cidade]
+11. Para mudar a votação, clique no lápis. Com ela no ar, o início não muda mais, mas dá para estender ou encurtar o fim e trocar o nome das competições. [guia=menu:/painel/melhores-da-cidade]
+12. Para terminar antes da hora, clique em `Encerrar agora` (no cartão ou na janela de edição). [guia=menu:/painel/melhores-da-cidade]
 
 ## resultado
 

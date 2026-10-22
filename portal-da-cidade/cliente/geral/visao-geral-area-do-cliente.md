@@ -38,9 +38,9 @@ conhecer onde fica cada coisa na área do cliente.
 - `Minha conta`: `Minha empresa` guarda o logo, a descrição e os contatos que valem para tudo o que você publica; `Planos e assinaturas` mostra os planos, a data de renovação e o que mais dá para contratar; `Segurança` troca a senha.
 
 ## passos
-1. Entre na área do cliente e veja o resumo na tela `Início`.
-2. Escolha a área que quer usar no menu da esquerda.
-3. Para ajuda, use as opções de suporte no canto inferior direito, em qualquer página do painel: um assistente de inteligência artificial responde na hora. Se ele não resolver, você é encaminhado ao WhatsApp do suporte do portal, com atendimento humano.
+1. Entre na área do cliente e veja o resumo na tela `Início`. [guia=menu:/minha-conta]
+2. Escolha a área que quer usar no menu da esquerda. [guia=menu:/minha-conta]
+3. Para ajuda, use as opções de suporte no canto inferior direito, em qualquer página do painel: um assistente de inteligência artificial responde na hora. Se ele não resolver, você é encaminhado ao WhatsApp do suporte do portal, com atendimento humano. [guia=fora]
 
 ## resultado
 você sabe onde achar cada área. O passo a passo de cada tela está nos outros artigos.

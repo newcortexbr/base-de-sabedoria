@@ -43,9 +43,9 @@ a página `Layout` tem quatro cartões: `Topo`, `Tela Início`, `Cores` e `Rodap
 
 ### na tela início
 
-1. Para mudar a ordem, segure a alça do bloco e arraste. a nova ordem é salva sozinha, sem botão. atualize a página inicial do site para ver a mudança.
-2. Para incluir um bloco, clique em `adicionar bloco`, escolha o tipo de conteúdo e o modelo, preencha título, subtítulo e categoria e veja na prévia o bloco com o conteúdo real do portal. depois clique em `adicionar bloco` de novo para confirmar.
-3. Em cada bloco da lista, o olho oculta o bloco sem apagar, o lápis edita e a lixeira remove.
+1. Para mudar a ordem, segure a alça do bloco e arraste. a nova ordem é salva sozinha, sem botão. atualize a página inicial do site para ver a mudança. [guia=configuracoes-layout.partes]
+2. Para incluir um bloco, clique em `adicionar bloco`, escolha o tipo de conteúdo e o modelo, preencha título, subtítulo e categoria e veja na prévia o bloco com o conteúdo real do portal. depois clique em `adicionar bloco` de novo para confirmar. [guia=configuracoes-layout.partes]
+3. Em cada bloco da lista, o olho oculta o bloco sem apagar, o lápis edita e a lixeira remove. [guia=configuracoes-layout.partes]
 
 ## resultado
 O site passa a ter a aparência escolhida. salvar o topo vale para todas as páginas, e salvar as cores muda o site inteiro de uma vez.

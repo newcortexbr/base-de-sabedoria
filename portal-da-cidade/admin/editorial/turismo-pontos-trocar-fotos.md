@@ -26,7 +26,7 @@ Entrar no painel como administrador, com o módulo de turismo ativo no portal.
 2. Para achar um ponto na lista, escreva o nome no campo `Buscar ponto turístico...`. [guia=pontos.campo-busca]
 3. Clique em `Buscar`. [guia=pontos.buscar]
 4. Para mudar as fotos de um ponto, clique em `Editar` na linha do ponto que você quer. [guia=pontos.editar]
-5. Para trocar a capa do ponto, use a foto principal no topo do formulário. Ela fica separada da galeria.
+5. Para trocar a capa do ponto, use a foto principal no topo do formulário. Ela fica separada da galeria. [guia=pontos-novo.foto]
 6. Para trocar as demais fotos, use a parte `Galeria de fotos e vídeos`. [guia=galeria.adicionar-fotos]
 
 ## resultado

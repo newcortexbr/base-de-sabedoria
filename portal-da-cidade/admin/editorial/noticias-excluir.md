@@ -27,13 +27,13 @@ aqui você apaga de vez uma notícia, ou várias de uma vez.
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Notícias` e depois em `Listar Notícias`. [guia=menu:/painel/noticias]
 2. Ache a notícia pelo campo de busca. [guia=noticias.buscar]
 3. Na linha da notícia, clique na lixeira. [guia=noticias.excluir]
-4. Em `Excluir notícia?`, clique em `Excluir`.
+4. Em `Excluir notícia?`, clique em `Excluir`. [guia=noticias.excluir]
 
 **várias notícias**
 
-1. Na lista, marque as caixinhas das notícias. Aparece uma barra no topo com a quantidade marcada.
-2. Clique em `Excluir` na barra e confira o número em `Excluir N notícias?`. Só vale para as marcadas **nesta página**.
-3. Confirme em `Excluir N`.
+1. Na lista, marque as caixinhas das notícias. Aparece uma barra no topo com a quantidade marcada. [guia=noticias.status-linha]
+2. Clique em `Excluir` na barra e confira o número em `Excluir N notícias?`. Só vale para as marcadas **nesta página**. [guia=noticias.excluir-selecionadas]
+3. Confirme em `Excluir N`. [guia=noticias.excluir-selecionadas]
 
 ## resultado
 

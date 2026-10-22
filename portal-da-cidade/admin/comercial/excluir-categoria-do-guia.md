@@ -26,7 +26,7 @@ aqui você apaga uma categoria do Guia que não é mais usada.
 1. Antes, confira se a categoria está vazia: em `Guia Comercial` > `Gerenciar Categorias`, veja a coluna de empresas. [guia=menu:/painel/guia/categorias]
 2. Se ainda há empresas, mude cada uma para outra categoria (em `Listar Empresas`, lápis da empresa). [guia=menu:/painel/guia/empresas]
 3. Na linha da categoria, clique em `Excluir`. [guia=guia-categorias.tabela]
-4. Na pergunta `Excluir esta categoria?`, clique em `Excluir`.
+4. Na pergunta `Excluir esta categoria?`, clique em `Excluir`. [guia=guia-categorias.excluir]
 
 ## resultado
 

@@ -41,10 +41,10 @@ aqui você acompanha as empresas do Guia, encontra uma delas e ajusta a ficha ou
 2. No topo da lista, escreva o nome em `Buscar empresa...`. [guia=guia-empresas.busca] [t=63]
 3. Se quiser, escolha uma categoria e uma situação (`Todos os status`) nos filtros ao lado. [guia=guia-empresas.filtro-status] [t=60]
 4. Clique em `Buscar`. [guia=guia-empresas.buscar]
-5. Cada linha mostra a logo, o nome, a estrela de destaque, a categoria e a subcategoria, a cidade, o plano e o contato. A situação pode ser mudada direto na lista.
-6. Nos ícones da direita, você edita a empresa, abre a página dela no portal ou exclui.
+5. Cada linha mostra a logo, o nome, a estrela de destaque, a categoria e a subcategoria, a cidade, o plano e o contato. A situação pode ser mudada direto na lista. [guia=guia-empresas.status-linha]
+6. Nos ícones da direita, você edita a empresa, abre a página dela no portal ou exclui. [guia=guia-empresas.editar]
 7. Para mudar os dados de uma empresa, clique no lápis (`Editar`) na linha da empresa que você quer. [guia=guia-empresas.editar] [t=91]
-8. Na ficha, preencha o que precisar, de cima para baixo:
+8. Na ficha, preencha o que precisar, de cima para baixo: [guia=empresa-editor:nome]
    - `Dados da empresa`: o botão para pegar dados do Google Meu Negócio traz nome, endereço, telefone e horários (confira antes de salvar). Depois vêm o nome e a descrição, que é o texto sobre o estabelecimento na página.
    - `Classificação`: categoria e subcategoria. É a categoria que libera recursos como cardápio, delivery e quartos.
    - `Plano`: define o que o site mostra da empresa. A primeira opção é a cortesia do portal com todos os itens, que é o padrão: o site mostra tudo que estiver preenchido, sem contratação nem fatura. As outras opções são os planos do Guia, os mesmos de `Meus Planos`. Se o plano for pago, a tela avisa antes de salvar, a contratação é registrada para o cliente da empresa e a fatura fica em aberto no financeiro até você confirmar o pagamento. No plano grátis não se gera contratação. Se você trocar de plano depois, a contratação anterior e as faturas abertas dela são canceladas. No painel você continua vendo e preenchendo todos os campos; quem filtra é o site.
@@ -61,7 +61,7 @@ aqui você acompanha as empresas do Guia, encontra uma delas e ajusta a ficha ou
    - `Acesso à área do cliente`: mostra se o dono já tem acesso e o e-mail de login. A senha não fica guardada: use redefinir senha para criar outra e enviar ao dono, ou remover acesso para tirar o login dele.
    - `SEO`: título e descrição que aparecem no Google. Em branco, o sistema usa o nome e a descrição da empresa.
    - `Conteúdo da ficha`: atalhos para cardápio, serviços, equipe, catálogo de produtos, cardápio do delivery, fila de pedidos e configurações do delivery.
-9. Clique em `Salvar alterações` no fim da página.
+9. Clique em `Salvar alterações` no fim da página. [guia=empresa-editor.salvar]
 
 ## resultado
 

@@ -30,7 +30,7 @@ aqui você muda o modelo, o texto, as cores e o tamanho do logo no rodapé do po
 1. No menu da esquerda, clique em `Configurações` e depois em `Layout`. [guia=menu:/painel/configuracoes/layout]
 2. Clique em `Rodapé`. [guia=configuracoes-layout.partes]
 3. Em `Modelo do rodapé`, escolha `Linha única`, `Centralizado` ou `Faixa de chamada`. [guia=fora]
-4. Escreva o texto curto que aparece abaixo da logo no rodapé (até 300 caracteres).
+4. Escreva o texto curto que aparece abaixo da logo no rodapé (até 300 caracteres). [guia=menu:/painel/configuracoes/layout]
 5. Escolha a `Cor de fundo do rodapé` e a `Cor dos textos e links`. [guia=fora]
 6. Em `Tamanho da logo no rodapé`, escolha `Pequena`, `Média` ou `Grande`. [guia=fora]
 7. Clique em `Salvar`. [guia=configuracoes-layout.salvar]

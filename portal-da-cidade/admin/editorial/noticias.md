@@ -31,12 +31,12 @@ O administrador usa o painel. O jornalista não usa o painel: entra pela área d
 2. Para escrever uma notícia nova, clique no botão `+ Cadastrar Notícia` no topo da lista. [guia=noticias.cadastrar] [t=49]
 3. Escreva o `Título *` da notícia. [guia=noticias-cadastrar.titulo] [t=52]
 4. Se quiser, escreva o `Subtítulo`. [guia=noticias-cadastrar.subtitulo]
-5. Se quiser, escreva a `Chamada`, o resumo que aparece na lista.
+5. Se quiser, escreva a `Chamada`, o resumo que aparece na lista. [guia=noticias-cadastrar.conteudo]
 6. Se quiser, escreva o `Título curto`: ele aparece nos cartões da página inicial. [guia=noticias-cadastrar.titulo-curto] [t=54]
 7. Escreva o texto da notícia no quadro `Conteúdo da matéria *`, que é um editor completo, com títulos, listas, links, imagens e vídeos no texto. [guia=noticias-cadastrar.conteudo] [t=62]
 8. Em `Categorização`, escolha a `Categoria`. [guia=noticias-cadastrar.categoria] [t=74]
 9. Escolha também a `Subcategoria` (ela só abre depois que você escolhe a categoria). Se precisar, crie a categoria ou a subcategoria na hora, na própria tela. [guia=noticias-cadastrar.subcategoria] [t=77]
-10. Se quiser, preencha as `Tags`, que ajudam a busca, e a fonte da matéria.
+10. Se quiser, preencha as `Tags`, que ajudam a busca, e a fonte da matéria. [guia=noticias-cadastrar.conteudo]
 11. Em `Foto de Capa`, clique no quadro e envie a imagem; clicando na imagem você escolhe o ponto de foco do recorte. [guia=noticias-cadastrar.foto-capa] [t=80]
 12. Preencha a `Legenda` da foto. [guia=noticias-cadastrar.legenda] [t=87]
 13. Preencha os `Créditos` da foto. [guia=noticias-cadastrar.creditos]

@@ -26,7 +26,7 @@ aqui você muda os dados de um banner que já existe.
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Banners Publicitários`. [guia=menu:/painel/guia/banners]
 2. No topo da lista, escreva o título na busca ou escolha `Página`, `Formato` ou `Situação` para achar um banner. [guia=guia-banners.filtros]
 3. Para mudar um banner, clique em `Editar` na linha dele. [guia=guia-banners.editar]
-4. Faça as mudanças. você pode trocar a imagem, a posição ou as datas de início e fim; a prévia ao lado mostra onde o banner vai aparecer, no computador e no celular.
+4. Faça as mudanças. você pode trocar a imagem, a posição ou as datas de início e fim; a prévia ao lado mostra onde o banner vai aparecer, no computador e no celular. [guia=guia-banners-cadastrar.imagem]
 5. Clique em `Salvar Banner`. [guia=guia-banners-cadastrar.salvar]
 
 ## resultado

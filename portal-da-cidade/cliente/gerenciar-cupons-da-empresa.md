@@ -27,7 +27,7 @@ criar, alterar e consultar o cupom de desconto da empresa na área `Cupons`.
 1. No menu da esquerda da sua área, na parte `O que eu publico`, logo abaixo de `Guia Comercial`, clique em `Cupons` (`/minha-conta/cupons`). Essa opção só aparece se o seu plano do Guia inclui cupom. [guia=menu:/minha-conta/cupons]
 2. Na página, veja o seu `Cupom de desconto` e a situação dele (`No ar`, `Não publicado` ou `Vencido`). Cada empresa tem um cupom só. [guia=cupom-empresa.situacao]
 3. Preencha ou mude a `Foto de capa do cupom`. ela é opcional, mas deixa o cupom mais chamativo. [guia=cupom-empresa.campos]
-4. Preencha o `Cupom de desconto` com a oferta em poucas palavras (é o destaque do cartão, por exemplo "15% off na instalação") e, na segunda linha do cartão, complemente a oferta (por exemplo "válido para instalações de tomadas e chuveiros").
+4. Preencha o `Cupom de desconto` com a oferta em poucas palavras (é o destaque do cartão, por exemplo "15% off na instalação") e, na segunda linha do cartão, complemente a oferta (por exemplo "válido para instalações de tomadas e chuveiros"). [guia=cupom-empresa.campos]
 5. Preencha o `Código do cupom`, com letras e números, sem espaços. [guia=cupom-empresa.campos]
 6. Escolha o `Tipo de desconto` (`Percentual (%)` ou `Valor fixo (R$)`). [guia=cupom-empresa.campos]
 7. Preencha o `Valor do cupom`. [guia=cupom-empresa.campos]

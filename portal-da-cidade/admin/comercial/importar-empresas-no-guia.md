@@ -33,7 +33,7 @@ antes de importar, você gera a lista no extrator do Google Maps (GMAPS): em `No
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas] [t=170]
 2. No topo da página, clique no botão `Importar do Google Maps`. [guia=guia-empresas.importar] [t=177]
 3. No quadro `Enviar planilha`, escolha o arquivo "Base para Portal" que o extrator do Google Maps gerou. [guia=guia-empresas-importar.arquivo] [t=183]
-4. O sistema mostra o total de linhas e quantas são novas, e sinaliza as empresas que já existem ou vieram com problema.
+4. O sistema mostra o total de linhas e quantas são novas, e sinaliza as empresas que já existem ou vieram com problema. [guia=guia-empresas-importar.continuar]
 5. Espere a mensagem "Enviando e processando a planilha..." terminar. [guia=guia-empresas-importar.arquivo]
 6. Na revisão, para cada categoria que veio do arquivo e marcada com `Escolha a categoria`, escolha qual categoria do Guia ela vai usar. [guia=guia-empresas-importar.categorias] [t=255]
 7. Clique em `Importar … empresas` e espere terminar. [guia=guia-empresas-importar.importar] [t=312]

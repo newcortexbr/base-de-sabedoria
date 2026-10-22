@@ -32,7 +32,7 @@ Entrar no painel como administrador, com o módulo de eventos ativo no portal.
 4. Escolha a `Data *` do evento. [guia=eventos.data]
 5. Escreva o `Horário`, por exemplo "19h00 às 23h00". [guia=eventos.horario]
 6. Preencha o local, o CEP, a cidade, a categoria, o `Organizador`, o preço, o link de ingresso, o WhatsApp, a descrição e a programação. [guia=eventos.local]
-7. Envie a foto de capa do evento, além da galeria.
+7. Envie a foto de capa do evento, além da galeria. [guia=eventos.salvar]
 8. Na parte `Galeria de fotos e vídeos`, clique em `+ Adicionar fotos` para enviar as fotos. [guia=galeria.adicionar-fotos]
 9. Role a página até o fim e clique em `Salvar`. Sem este clique, o evento não é gravado. [guia=eventos.salvar]
 

@@ -27,8 +27,8 @@ entender o que é ser colunista no portal e como começar.
 - o vídeo promove a coluna como forma de ganhar autoridade e credibilidade, diferente de anúncio ou post em rede social.
 
 ## passos
-1. Faça o cadastro no portal e reserve o seu espaço de colunista.
-2. Depois de entrar, siga o artigo "publicar um artigo como colunista" para completar o perfil e publicar.
+1. Faça o cadastro no portal e reserve o seu espaço de colunista. [guia=fora]
+2. Depois de entrar, siga o artigo "publicar um artigo como colunista" para completar o perfil e publicar. [guia=fora]
 
 ## resultado
 você passa a publicar artigos assinados, reunidos na sua página de especialista.

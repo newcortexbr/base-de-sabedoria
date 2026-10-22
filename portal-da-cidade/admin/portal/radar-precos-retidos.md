@@ -27,9 +27,9 @@ o portal segura um preço quando ele é mais que o dobro ou menos que a metade d
 ## passos
 
 1. No menu da esquerda, clique em `Radar de Preços` e depois em `Preços retidos`. [guia=menu:/painel/radar/retidos]
-2. Se o preço lido está certo, clique em `Publicar`.
-3. Se está errado, clique em `Corrigir`, ajuste o `Nome do produto`, a `Categoria` ou o `Preço (R$)` e salve para publicar.
-4. Se a foto não serve, clique em `Descartar` e confirme em `Descartar este preço?`.
+2. Se o preço lido está certo, clique em `Publicar`. [guia=radar-retidos.publicar]
+3. Se está errado, clique em `Corrigir`, ajuste o `Nome do produto`, a `Categoria` ou o `Preço (R$)` e salve para publicar. [guia=radar-retidos.corrigir]
+4. Se a foto não serve, clique em `Descartar` e confirme em `Descartar este preço?`. [guia=radar-retidos.descartar]
 
 ## resultado
 

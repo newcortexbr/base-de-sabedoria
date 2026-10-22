@@ -23,12 +23,12 @@ aqui você cuida dos estabelecimentos do Radar: aprova os que moradores indicara
 ## passos
 
 1. No menu da esquerda, clique em `Radar de Preços` e depois em `Mercados`. [guia=menu:/painel/radar/mercados]
-2. Use a busca (`Buscar mercado pelo nome ou endereço`) e as abas de situação para achar o mercado.
-3. Mercado indicado por morador aparece como `Pendente de aprovação`. Clique em `Aprovar` para os preços dele irem ao site.
-4. Se ele já existe com outro nome, clique em `Juntar com…`, escolha o mercado certo e confirme. Os preços passam para ele.
-5. Para cadastrar um mercado seu, clique no botão de novo mercado no topo e preencha `Nome *`, `Endereço`, `Cidade` e `Bairro`.
-6. Para tirar um mercado do site sem apagar, clique em `Desativar`; para voltar, `Ativar`.
-7. Para apagar, clique na lixeira e confirme em `Excluir este mercado?`.
+2. Use a busca (`Buscar mercado pelo nome ou endereço`) e as abas de situação para achar o mercado. [guia=radar-mercados.novo]
+3. Mercado indicado por morador aparece como `Pendente de aprovação`. Clique em `Aprovar` para os preços dele irem ao site. [guia=radar-mercados.aprovar]
+4. Se ele já existe com outro nome, clique em `Juntar com…`, escolha o mercado certo e confirme. Os preços passam para ele. [guia=radar-mercados.juntar]
+5. Para cadastrar um mercado seu, clique no botão de novo mercado no topo e preencha `Nome *`, `Endereço`, `Cidade` e `Bairro`. [guia=radar-mercados.novo]
+6. Para tirar um mercado do site sem apagar, clique em `Desativar`; para voltar, `Ativar`. [guia=radar-mercados.ativar-desativar]
+7. Para apagar, clique na lixeira e confirme em `Excluir este mercado?`. [guia=radar-mercados.excluir]
 
 ## resultado
 

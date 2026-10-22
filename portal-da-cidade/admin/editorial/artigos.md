@@ -35,7 +35,7 @@ O administrador usa o painel. O colunista usa a área do cliente, não o painel.
 6. Se quiser, escreva a `Chamada`, um resumo curto que aparece na lista. [guia=blog-novo.chamada]
 7. Escreva o texto no quadro `Texto do artigo`. [guia=blog-novo.texto] [t=36]
 8. Envie a `Foto de capa` clicando no campo de arquivo e, se quiser, preencha a legenda e os créditos da foto. [guia=blog-novo.capa] [t=38]
-9. Se quiser, preencha o título e a descrição para o Google (SEO); são opcionais.
+9. Se quiser, preencha o título e a descrição para o Google (SEO); são opcionais. [guia=blog-novo.texto]
 10. Clique em `Publicar`. Para colunista da casa, o artigo vai direto para o ar. [guia=blog-novo.publicar] [t=45]
 11. Volte à `Lista de Artigos` e confira a coluna `Status`. [guia=blog.status-linha]
 
