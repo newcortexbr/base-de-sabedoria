@@ -58,4 +58,4 @@ peça ajuda se a instituição não aparecer no site depois de salvar ou se o ma
 - `portal-cidade/frontend/src/app/painel/doacoes/causas/page.tsx` — `Nova causa` e `Criar causa`.
 
 ## lacunas
-não verificado visualmente. O nome exato do botão de salvar a instituição não foi conferido. A ordem "causa antes da instituição" é inferência pelo formulário (a instituição pede uma causa da lista); o vídeo não afirma isso.
+não verificado visualmente. O nome exato do botão de salvar a instituição não foi conferido. A causa é obrigatória no cadastro da instituição (campo `Causa *`, aviso "Escolha a causa."), por isso a causa vem antes.

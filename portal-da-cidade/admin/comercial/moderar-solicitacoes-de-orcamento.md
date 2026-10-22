@@ -38,7 +38,7 @@ aprovar ou reprovar os pedidos de orçamento enviados por visitantes.
 
 ## resultado
 
-pedido aprovado é enviado às empresas da categoria; reprovado não é enviado. Só recebem pedidos aprovados as empresas do guia comercial com o plano mais completo: o benefício de receber orçamentos aparece como recurso faltante nos outros planos.
+pedido aprovado é enviado às empresas das subcategorias que o visitante escolheu no pedido (até 3); reprovado não é enviado. Só recebem pedidos aprovados as empresas do guia comercial com o plano mais completo: o benefício de receber orçamentos aparece como recurso faltante nos outros planos.
 
 ## desvios
 

@@ -39,7 +39,7 @@ aqui você traz notícias de outros sites sozinho, por fontes de RSS. RSS é o e
 ## explicação
 - as categorias globais (Brasil, economia, política, tecnologia, carros) trazem notícias nacionais ou do mundo, iguais em qualquer cidade, e não filtram por região.
 - para notícias da região, use a seção de notícias regionais: escolha o estado, ou uma região dentro dele, e o sistema busca as notícias do G1 daquela região.
-- o portal busca novidades automaticamente às 7h e às 19h, todos os dias.
+- o portal confere cada fonte a cada 2 horas, mas publica as notícias novas em dois horários fixos: às 7h e às 19h, todos os dias.
 
 ## resultado
 

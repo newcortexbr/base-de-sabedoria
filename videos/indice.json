@@ -7,8 +7,8 @@
    "com_topico": 99,
    "com_link": 84,
    "publicadas": 84,
-   "com_legenda": 82,
-   "com_artigo": 82,
+   "com_legenda": 83,
+   "com_artigo": 83,
    "ids_distintos": 84
   },
   "por_aba": {
@@ -49,8 +49,8 @@
     "com_topico": 14,
     "com_link": 3,
     "publicadas": 3,
-    "com_legenda": 2,
-    "com_artigo": 2
+    "com_legenda": 3,
+    "com_artigo": 3
    },
    "conteudos-treinamento-do-franqueado": {
     "linhas": 16,
@@ -99,8 +99,8 @@
     "com_topico": 14,
     "com_link": 3,
     "publicadas": 3,
-    "com_legenda": 2,
-    "com_artigo": 2
+    "com_legenda": 3,
+    "com_artigo": 3
    },
    "treinamento-do-franqueado": {
     "linhas": 16,
@@ -2775,13 +2775,17 @@
    "youtube_id": "oZf-HGbQC9c",
    "link_drive_ou_pagina": null,
    "produto": "area-do-cliente",
-   "observacao": "publicado, sem artigo vinculado.",
+   "observacao": null,
    "titulo_youtube": null,
    "duracao_s": null,
-   "upload_date": null,
-   "legenda_fonte": null,
-   "conteudo": null,
-   "artigos": []
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/oZf-HGbQC9c.md",
+   "artigos": [
+    "ac-abrir-chamado",
+    "ac-chat-de-suporte-com-ia",
+    "ac-situacoes-do-chamado"
+   ]
   },
   {
    "aba": "claude-videos-basicos-area-do-cliente",
@@ -5213,10 +5217,14 @@
    "youtube_id": "oZf-HGbQC9c",
    "titulo_youtube": null,
    "duracao_s": null,
-   "upload_date": null,
-   "legenda_fonte": null,
-   "conteudo": null,
-   "artigos": [],
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/oZf-HGbQC9c.md",
+   "artigos": [
+    "ac-abrir-chamado",
+    "ac-chat-de-suporte-com-ia",
+    "ac-situacoes-do-chamado"
+   ],
    "linhas": [
     {
      "aba": "claude-videos-basicos-area-do-cliente",

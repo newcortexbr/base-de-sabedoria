@@ -44,7 +44,7 @@ A tela mostra o estado efetivo da fatura informado pelo sistema. Confirmar receb
 
 ## desvios
 
-conectar uma conta Asaas não prova que uma fatura foi paga nem que toda fatura está sendo cobrada automaticamente. Sem conexão, o Financeiro pode servir para acompanhar quem cobrar e registrar depois um recebimento feito por fora. O valor da cobrança é determinado pelo sistema, não por instrução da IA.
+com o Asaas conectado, a cobrança da fatura é criada no Asaas sozinha quando a fatura é emitida; o botão de gerar cobrança só serve para tentar de novo se essa primeira falhou. o cliente é cadastrado no Asaas com as notificações do próprio Asaas ligadas. conectar o Asaas não prova que uma fatura foi paga. Sem conexão, o Financeiro pode servir para acompanhar quem cobrar e registrar depois um recebimento feito por fora. O valor da cobrança é determinado pelo sistema, não por instrução da IA.
 
 ## quando pedir ajuda
 

@@ -35,7 +35,7 @@ aqui você liga ou desliga o assistente no site e vê o que os visitantes pergun
 - os cartões do topo mostram o total de perguntas, as com resultado, as sem resultado e a média por dia.
 - `Perguntas sem resultado` é uma lista de quem falta anunciar, ou seja, uma oportunidade de venda.
 - `Últimas perguntas` marca se a busca achou ou não achou.
-- as perguntas ficam guardadas por 180 dias e o portal não guarda quem perguntou.
+- as perguntas ficam guardadas por até 180 dias (a limpeza apaga as mais antigas) e o portal não guarda quem perguntou.
 
 ## resultado
 
