@@ -2,11 +2,11 @@
 
 status geral: rascunhos documentais. nenhum artigo está pronto para ingestão. não houve validação de interface, navegação, comportamento ou produção.
 
-contagens por público: usuario — 12 artigos; cliente — 40 artigos, dos quais 4 exclusivos para `parceiro-comercial`; admin — 125 artigos. total: 177 artigos. arquivos em `interno/` são relatórios e proposta, não artigos de atendimento. nunca carregar conteúdo de `interno/` no chat.
+contagens por público: usuario — 14 artigos; cliente — 41 artigos, dos quais 4 exclusivos para `parceiro-comercial`; admin — 136 artigos. total: 191 artigos. arquivos em `interno/` são relatórios e proposta, não artigos de atendimento. nunca carregar conteúdo de `interno/` no chat.
 
 escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem mandar o cliente seguir instruções da tela; o chat guia uma ação por vez. vídeos ficam em `videos.json` e só aparecem no chat quando vinculados no campo `videos:` de um artigo (primeiro da lista = mais específico da tarefa).
 
-## usuario (12)
+## usuario (14)
 
 ### tarefas públicas
 - [votar em Melhores da Cidade](usuario/votar-melhores-da-cidade.md)
@@ -18,13 +18,15 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [fazer pedido no Delivery](usuario/fazer-pedido-no-delivery.md)
 - [localizar e candidatar-se a vaga](usuario/localizar-e-candidatar-se-a-vaga.md)
 - [enviar denúncia em A Voz do Povo](usuario/enviar-denuncia-voz-do-povo.md)
+- [comparar preços no Radar de Preços](usuario/radar-consultar-precos.md)
+- [enviar um preço para o Radar de Preços](usuario/radar-enviar-preco.md)
 - [pedir orçamento](usuario/pedir-orcamento.md)
 - [participar de sorteio](usuario/participar-de-sorteio.md)
 
 ### acesso
 - [criar conta para empresa](usuario/acesso/criar-conta-empresa.md)
 
-## cliente (40)
+## cliente (41)
 
 ### tarefas da conta
 - [visão geral da Área do Cliente do Portal](cliente/geral/visao-geral-area-do-cliente.md)
@@ -43,6 +45,7 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [trocar o logo da empresa](cliente/trocar-logo-da-empresa.md)
 - [escrever a descrição da empresa](cliente/escrever-descricao-da-empresa.md)
 - [gerenciar anúncios próprios](cliente/gerenciar-anuncios-proprios.md)
+- [quem pode anunciar nos classificados e como começar](cliente/quem-pode-anunciar-nos-classificados.md)
 - [publicar um anúncio novo na área do cliente](cliente/publicar-anuncio-novo.md)
 - [gerenciar cupons da empresa](cliente/gerenciar-cupons-da-empresa.md)
 - [gerenciar vagas da empresa](cliente/gerenciar-vagas-da-empresa.md)
@@ -72,7 +75,7 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [entrar na área de parceiro comercial](cliente/acesso/entrar-recuperar-parceiro.md) — exclusivo a `parceiro-comercial`; não carregar para cliente comum.
 - [recuperar a senha da área de parceiro comercial](cliente/acesso/recuperar-senha-parceiro.md) — exclusivo a `parceiro-comercial`; não carregar para cliente comum.
 
-## admin (125)
+## admin (136)
 
 ### acesso
 - [entrar no painel](admin/acesso/entrar-painel.md)
@@ -98,6 +101,8 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [bloquear o acesso de um jornalista](admin/editorial/bloquear-jornalista.md)
 - [notícias](admin/editorial/noticias.md)
 - [editar uma notícia](admin/editorial/noticias-editar.md)
+- [excluir uma notícia](admin/editorial/noticias-excluir.md)
+- [cadastrar uma notícia pelo caminho mais curto](admin/editorial/noticias-cadastrar-rapido.md)
 - [encontrar e filtrar notícias na lista](admin/editorial/noticias-encontrar-e-filtrar.md)
 - [notícias automáticas: fontes de RSS](admin/editorial/noticias-automaticas-fontes-rss.md)
 - [adicionar fonte de RSS colando o endereço](admin/editorial/rss-colar-endereco.md)
@@ -130,6 +135,8 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [mudar a aparência (layout) do portal](admin/comercial/configurar-layout-do-portal.md)
 - [configurar planos comerciais](admin/comercial/configurar-planos-comerciais.md)
 - [gerenciar categorias do Guia](admin/comercial/gerenciar-categorias-do-guia.md)
+- [excluir uma categoria do Guia](admin/comercial/excluir-categoria-do-guia.md)
+- [aprovar o cadastro de empresa feito pelo próprio cliente](admin/comercial/aprovar-cadastro-de-empresa.md)
 - [editar uma categoria do Guia](admin/comercial/editar-categoria-do-guia.md)
 - [gerenciar empresas do Guia](admin/comercial/gerenciar-empresas-do-guia.md)
 - [cadastrar uma empresa no Guia](admin/comercial/cadastrar-empresa-no-guia.md)
@@ -200,6 +207,13 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [cancelar uma notificação push agendada](admin/portal/cancelar-notificacao-push-agendada.md)
 - [A Voz do Povo](admin/portal/voz-do-povo.md)
 - [ler um relato completo da Voz do Povo](admin/portal/voz-do-povo-ler-relato.md)
+- [tratar uma denúncia da Voz do Povo](admin/portal/voz-do-povo-tratar-denuncias.md)
+- [Radar de Preços: o que é e como funciona](admin/portal/radar-de-precos.md)
+- [aprovar as fotos enviadas ao Radar de Preços](admin/portal/radar-fotos-enviadas.md)
+- [resolver preços retidos do Radar de Preços](admin/portal/radar-precos-retidos.md)
+- [aprovar e juntar mercados do Radar de Preços](admin/portal/radar-mercados.md)
+- [ver e lançar preços no Radar de Preços](admin/portal/radar-produtos-e-precos.md)
+- [mudar as categorias do Radar de Preços](admin/portal/radar-categorias.md)
 - [sorteios](admin/portal/sorteios.md)
 - [realizar o sorteio ao vivo e entregar o prêmio](admin/portal/realizar-sorteio-ao-vivo.md)
 - [cadastrar telefones úteis](admin/portal/utilidade-telefones-uteis.md)

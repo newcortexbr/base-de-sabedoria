@@ -34,7 +34,8 @@ aqui você traz notícias de outros sites sozinho, por fontes de RSS. RSS é o e
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Notícias Automáticas` e depois em `Fontes de RSS`. [guia=menu:/painel/noticias/fontes-rss] [t=7]
 2. Para adicionar, clique no botão `+ Cadastrar RSS` no topo da lista. [guia=fontes-rss.cadastrar] [t=20]
 3. Na aba `Escolher da lista` (a que já vem aberta), marque os sites prontos que você quer (por exemplo, do Portal G1). [guia=fontes-rss-cadastrar.lista] [t=63]
-4. Clique em `Criar N fonte(s)`: o botão mostra quantas você marcou (por exemplo, `Criar 2 fontes`). [guia=fontes-rss-cadastrar.criar]
+4. Clique no botão verde de baixo para salvar. Enquanto nada está marcado ele fica apagado e diz `Marque ao menos uma fonte`. Depois de marcar, o texto muda para `Criar` + quantas você marcou (com uma marcada: `Criar 1 fonte`; com duas: `Criar 2 fontes`). Fontes já cadastradas aparecem marcadas e travadas, com `já cadastrada`. [guia=fontes-rss-cadastrar.criar]
+5. Leia o resultado na tela (quantas foram criadas, quais já existiam) e, se quiser, clique em `Ver na lista de fontes →`.
 
 ## explicação
 - as categorias globais (Brasil, economia, política, tecnologia, carros) trazem notícias nacionais ou do mundo, iguais em qualquer cidade, e não filtram por região.
