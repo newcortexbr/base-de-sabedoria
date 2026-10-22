@@ -30,10 +30,10 @@ criar uma conta nova para anunciar ou cadastrar sua empresa. Quem já tem conta 
 
 1. No site do portal, clique em `Anuncie Aqui`. [guia=fora]
 2. Escolha o que quer anunciar (por exemplo, sua empresa no Guia) e vá ao formulário de cadastro. [guia=fora]
-3. Preencha nome, `E-mail`, `WhatsApp`, `Senha` e os dados da empresa que forem pedidos. [guia=fora]
-4. Clique no botão de criar conta. [guia=fora]
-5. Abra seu e-mail, copie o código de 6 números e digite em `Confirme seu e-mail`. Se não chegou, clique em `Reenviar código`. [guia=fora]
-6. Quando aparecer `Conta criada!`, clique em `Entrar na minha conta` e entre com o e-mail e a senha que acabou de criar. [guia=fora]
+3. Preencha nome, `E-mail`, `WhatsApp`, `Senha` e os dados da empresa que forem pedidos. [guia=conta.formulario]
+4. Clique no botão de criar conta. [guia=conta.criar]
+5. Abra seu e-mail, copie o código de 6 números e digite em `Confirme seu e-mail`. Se não chegou, clique em `Reenviar código`. [guia=conta.codigo]
+6. Quando aparecer `Conta criada!`, clique em `Entrar na minha conta` e entre com o e-mail e a senha que acabou de criar. [guia=conta.entrar]
 
 ## resultado
 

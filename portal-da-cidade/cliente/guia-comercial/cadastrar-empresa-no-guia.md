@@ -29,12 +29,12 @@ cadastrar a empresa no Guia Comercial para ela aparecer aos visitantes, no compu
 
 ## passos
 1. No menu da esquerda, clique em `Guia Comercial`. [guia=fora]
-2. No bloco `Dados da empresa`, escolha: `Pegar dados do Google Meu Negócio` (digite o nome como aparece no Google, clique em buscar e escolha a empresa; nome, endereço, telefone e horários vêm preenchidos e você confere antes de salvar) ou `Cadastrar manualmente`. [guia=fora]
-3. Escreva o nome da empresa como os clientes a conhecem e uma descrição de poucas linhas. [guia=fora]
-4. No endereço, digite o CEP; cidade, bairro e rua são preenchidos sozinhos. Complete com o número. A localização no mapa é descoberta pelo endereço. Clique em `Continuar`. [guia=fora]
-5. Em `Categoria e horário`, escolha a categoria e a subcategoria. [guia=fora]
-6. No horário de funcionamento, preencha a segunda-feira e clique em aplicar o horário a todos os dias. Ajuste os dias diferentes e marque `fechado` no dia de folga ou `aberto 24 horas`, se for o caso. [guia=fora]
-7. Clique em `Publicar no guia`. [guia=fora]
+2. No bloco `Dados da empresa`, escolha: `Pegar dados do Google Meu Negócio` (digite o nome como aparece no Google, clique em buscar e escolha a empresa; nome, endereço, telefone e horários vêm preenchidos e você confere antes de salvar) ou `Cadastrar manualmente`. [guia=guia.google]
+3. Escreva o nome da empresa como os clientes a conhecem e uma descrição de poucas linhas. [guia=guia.nome]
+4. No endereço, digite o CEP; cidade, bairro e rua são preenchidos sozinhos. Complete com o número. A localização no mapa é descoberta pelo endereço. Clique em `Continuar`. [guia=campo-cep.cep]
+5. Em `Categoria e horário`, escolha a categoria e a subcategoria. [guia=guia.categoria]
+6. No horário de funcionamento, preencha a segunda-feira e clique em aplicar o horário a todos os dias. Ajuste os dias diferentes e marque `fechado` no dia de folga ou `aberto 24 horas`, se for o caso. [guia=guia.horario-aplicar]
+7. Clique em `Publicar no guia`. [guia=guia.salvar]
 
 ## resultado
 aparece a confirmação de que a empresa foi enviada para análise, e o aviso "seu cadastro está em análise" fica no topo. Abaixo aparecem os outros blocos da ficha (contatos, fotos, cupons e links) e as páginas da empresa: serviços, equipe e catálogo valem para qualquer empresa; cardápio e delivery aparecem para restaurantes. Quando o portal aprova, a tela mostra "Sua empresa está publicada no site" e o botão `Ver no site` abre a ficha como o visitante vê. O próximo passo é "completar a ficha da empresa no Guia Comercial".

@@ -30,8 +30,8 @@ entender como funciona o programa de representantes parceiros e como começar.
 - os percentuais de comissão são definidos pelo portal.
 
 ## passos
-1. Faça o cadastro como representante e escolha o seu plano de representante. [guia=fora]
-2. Pegue o seu link de indicação no painel do parceiro (veja "visão geral do painel do parceiro"). [guia=fora]
+1. Faça o cadastro como representante e escolha o seu plano de representante. [guia=parceiro-cadastro.formulario]
+2. Pegue o seu link de indicação no painel do parceiro (veja "visão geral do painel do parceiro"). [guia=parceiro.link]
 3. Indique o link às empresas da região. [guia=fora]
 
 ## resultado
