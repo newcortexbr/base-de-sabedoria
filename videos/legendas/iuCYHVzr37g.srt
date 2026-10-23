@@ -1,0 +1,236 @@
+1
+00:00:00,000 --> 00:00:03,960
+O radar de preços é a área do portal
+
+2
+00:00:02,200 --> 00:00:06,320
+onde o morador compara os preços de
+
+3
+00:00:03,960 --> 00:00:08,720
+supermercados, farmácias e postos de
+
+4
+00:00:06,320 --> 00:00:11,280
+combustível da cidade e ainda ajuda a
+
+5
+00:00:08,720 --> 00:00:12,960
+manter tudo atualizado mandando fotos.
+
+6
+00:00:11,280 --> 00:00:15,800
+No site, o visitante escolhe a
+
+7
+00:00:12,960 --> 00:00:18,240
+categoria, busca o produto e vê na hora
+
+8
+00:00:15,800 --> 00:00:20,280
+o menor preço e onde encontrar. Em
+
+9
+00:00:18,240 --> 00:00:22,280
+comparar lista, ele monta a lista de
+
+10
+00:00:20,280 --> 00:00:25,240
+compras e descobre em qual mercado ela
+
+11
+00:00:22,280 --> 00:00:27,160
+sai mais barata. E em enviar preço, ele
+
+12
+00:00:25,240 --> 00:00:29,600
+manda a foto de uma etiqueta ou de um
+
+13
+00:00:27,160 --> 00:00:32,080
+encarte, informa o estabelecimento e
+
+14
+00:00:29,600 --> 00:00:34,520
+deixa o nome e o WhatsApp para contato.
+
+15
+00:00:32,080 --> 00:00:37,520
+No painel, tudo isso fica no menu radar
+
+16
+00:00:34,520 --> 00:00:40,880
+de preços no grupo conteúdo. São cinco
+
+17
+00:00:37,520 --> 00:00:43,520
+abas: fotos enviadas, preços retidos,
+
+18
+00:00:40,880 --> 00:00:46,440
+produtos e preços, estabelecimentos e
+
+19
+00:00:43,520 --> 00:00:49,080
+categorias. Em fotos enviadas chegam as
+
+20
+00:00:46,440 --> 00:00:51,400
+fotos dos moradores. Os quadros do topo
+
+21
+00:00:49,080 --> 00:00:54,080
+mostram o que aguarda você: os preços
+
+22
+00:00:51,400 --> 00:00:56,680
+retidos, os preços no site e os envios
+
+23
+00:00:54,080 --> 00:00:59,000
+da semana. Em cada foto, você confere o
+
+24
+00:00:56,680 --> 00:01:02,240
+tipo, o estabelecimento, o preço
+
+25
+00:00:59,000 --> 00:01:05,199
+informado e quem enviou. Depois, aprova,
+
+26
+00:01:02,240 --> 00:01:07,560
+corrige ou recusa. Nada vai para o site
+
+27
+00:01:05,199 --> 00:01:09,640
+sem a sua aprovação. Aprovou? A
+
+28
+00:01:07,560 --> 00:01:11,760
+inteligência artificial lê a foto,
+
+29
+00:01:09,640 --> 00:01:14,240
+identifica os produtos e os preços e
+
+30
+00:01:11,760 --> 00:01:16,800
+atualiza o site sozinha. Em preços
+
+31
+00:01:14,240 --> 00:01:19,120
+retidos fica o que a IA leu muito fora
+
+32
+00:01:16,800 --> 00:01:22,120
+do preço atual, mais que o dobro ou
+
+33
+00:01:19,120 --> 00:01:24,920
+menos da metade. Você confere e decide:
+
+34
+00:01:22,120 --> 00:01:27,000
+corrigir, publicar ou descartar. Em
+
+35
+00:01:24,920 --> 00:01:30,000
+produtos e preços está o catálogo
+
+36
+00:01:27,000 --> 00:01:32,080
+completo. Cada produto com a categoria e
+
+37
+00:01:30,000 --> 00:01:34,880
+quantos estabelecimentos tem preço, o
+
+38
+00:01:32,080 --> 00:01:37,240
+menor preço e a data da atualização. Por
+
+39
+00:01:34,880 --> 00:01:39,600
+aqui, você também adiciona preços.
+
+40
+00:01:37,240 --> 00:01:42,160
+Escolha a categoria, o estabelecimento e
+
+41
+00:01:39,600 --> 00:01:44,200
+o produto e digite o preço. Ou mande uma
+
+42
+00:01:42,160 --> 00:01:46,440
+foto que vai direto para a leitura da
+
+43
+00:01:44,200 --> 00:01:49,320
+IA. Em estabelecimentos ficam
+
+44
+00:01:46,440 --> 00:01:52,000
+supermercados, as farmácias e os postos,
+
+45
+00:01:49,320 --> 00:01:54,280
+cada um na sua categoria. Você cadastra,
+
+46
+00:01:52,000 --> 00:01:56,160
+edita, desativa e aprova os
+
+47
+00:01:54,280 --> 00:01:58,880
+estabelecimentos novos que os moradores
+
+48
+00:01:56,160 --> 00:02:00,760
+indicarem. E em categorias estão as três
+
+49
+00:01:58,880 --> 00:02:03,240
+categorias fixas do radar:
+
+50
+00:02:00,760 --> 00:02:05,800
+supermercados, farmácias e postos de
+
+51
+00:02:03,240 --> 00:02:08,640
+combustível. Você pode mudar o nome, o
+
+52
+00:02:05,800 --> 00:02:11,200
+ícone, a ordem ou desligar uma delas. O
+
+53
+00:02:08,640 --> 00:02:13,240
+resultado aparece direto no site. O
+
+54
+00:02:11,200 --> 00:02:16,120
+preço publicado, o menor preço em
+
+55
+00:02:13,240 --> 00:02:18,400
+destaque e o botão abrir no Maps. E no
+
+56
+00:02:16,120 --> 00:02:20,840
+celular, o morador consulta e envia
+
+57
+00:02:18,400 --> 00:02:23,280
+preços com poucos toques. Nos próximos
+
+58
+00:02:20,840 --> 00:02:26,040
+vídeos, vamos ver cada uma dessas abas
+
+59
+00:02:23,280 --> 00:02:26,040
+em detalhes.
+

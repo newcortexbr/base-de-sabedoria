@@ -1,24 +1,24 @@
 {
- "gerado_em": "2026-10-22",
+ "gerado_em": "2026-10-23",
  "planilha": "https://docs.google.com/spreadsheets/d/1T-8uwGcdqZxnH0W3l86UP6S8v5IeeIX7fwVUuH7f5Uc",
  "totais": {
   "geral": {
-   "linhas": 143,
-   "com_topico": 100,
-   "com_link": 92,
-   "publicadas": 91,
-   "com_legenda": 91,
-   "com_artigo": 91,
-   "ids_distintos": 92
+   "linhas": 148,
+   "com_topico": 105,
+   "com_link": 100,
+   "publicadas": 100,
+   "com_legenda": 99,
+   "com_artigo": 99,
+   "ids_distintos": 100
   },
   "por_aba": {
    "painel-admin": {
-    "linhas": 59,
-    "com_topico": 59,
-    "com_link": 55,
-    "publicadas": 54,
-    "com_legenda": 55,
-    "com_artigo": 55
+    "linhas": 64,
+    "com_topico": 64,
+    "com_link": 63,
+    "publicadas": 63,
+    "com_legenda": 63,
+    "com_artigo": 63
    },
    "area-empresa-parceiro-portal": {
     "linhas": 26,
@@ -71,12 +71,12 @@
   },
   "por_produto": {
    "portal-da-cidade": {
-    "linhas": 85,
-    "com_topico": 81,
-    "com_link": 77,
-    "publicadas": 76,
-    "com_legenda": 76,
-    "com_artigo": 76
+    "linhas": 90,
+    "com_topico": 86,
+    "com_link": 85,
+    "publicadas": 85,
+    "com_legenda": 84,
+    "com_artigo": 84
    },
    "dados-pj": {
     "linhas": 5,
@@ -1412,8 +1412,8 @@
    "status": {
     "gravacao": "Gravado",
     "edicao": null,
-    "thumbnail": null,
-    "publicacao": null
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
    },
    "youtube_id": "O3sdByn6xK8",
    "link_drive_ou_pagina": null,
@@ -1436,16 +1436,23 @@
    "id_planilha": 50,
    "topico": "Vídeo Externo Página >  Radar de Preços - Lista",
    "status": {
-    "gravacao": "Em gravação",
+    "gravacao": "Gravado",
     "edicao": null,
-    "thumbnail": null,
-    "publicacao": null
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
    },
-   "youtube_id": null,
+   "youtube_id": "msl8PXbZ9Ak",
    "link_drive_ou_pagina": null,
    "produto": "portal-da-cidade",
-   "observacao": "sem link do YouTube.",
-   "artigos": []
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/msl8PXbZ9Ak.md",
+   "artigos": [
+    "usuario-radar-consultar-precos"
+   ]
   },
   {
    "aba": "painel-admin",
@@ -1454,16 +1461,23 @@
    "id_planilha": 51,
    "topico": "Vídeo Externo Página >  Radar de Preços - Enviar Preço",
    "status": {
-    "gravacao": "Em gravação",
+    "gravacao": "Gravado",
     "edicao": null,
-    "thumbnail": null,
-    "publicacao": null
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
    },
-   "youtube_id": null,
+   "youtube_id": "3FZrdVUN_Yk",
    "link_drive_ou_pagina": null,
    "produto": "portal-da-cidade",
-   "observacao": "sem link do YouTube.",
-   "artigos": []
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/3FZrdVUN_Yk.md",
+   "artigos": [
+    "usuario-radar-enviar-preco"
+   ]
   },
   {
    "aba": "painel-admin",
@@ -1522,24 +1536,156 @@
    "gid": 1014831656,
    "linha": 55,
    "id_planilha": 54,
-   "topico": "Radar de Preço > Configurações",
+   "topico": "Radar de Preço > Geral",
    "status": {
-    "gravacao": "Pendente",
+    "gravacao": "Gravado",
     "edicao": null,
     "thumbnail": "Pendente",
-    "publicacao": "Pendente"
+    "publicacao": "Publicado"
    },
-   "youtube_id": null,
+   "youtube_id": "iuCYHVzr37g",
    "link_drive_ou_pagina": null,
    "produto": "portal-da-cidade",
-   "observacao": "sem link do YouTube.",
-   "artigos": []
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/iuCYHVzr37g.md",
+   "artigos": [
+    "radar-de-precos"
+   ]
   },
   {
    "aba": "painel-admin",
    "gid": 1014831656,
    "linha": 56,
    "id_planilha": 55,
+   "topico": "Radar de Preço > Fotos Enviadas",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "CSYITekPVcw",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/CSYITekPVcw.md",
+   "artigos": [
+    "radar-fotos-enviadas"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 57,
+   "id_planilha": 56,
+   "topico": "Radar de Preço > Preços Retidos",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "focSRBTLhQE",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/focSRBTLhQE.md",
+   "artigos": [
+    "radar-precos-retidos"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 58,
+   "id_planilha": 57,
+   "topico": "Radar de Preço > Produtos e Preços",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "VhMHVZujDvQ",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/VhMHVZujDvQ.md",
+   "artigos": [
+    "radar-produtos-e-precos"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 59,
+   "id_planilha": 58,
+   "topico": "Radar de Preço > Categorias",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "hrri-AfQihQ",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/hrri-AfQihQ.md",
+   "artigos": [
+    "radar-categorias"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 60,
+   "id_planilha": 59,
+   "topico": "Radar de Preço > Estabelecimentos",
+   "status": {
+    "gravacao": "Gravado",
+    "edicao": null,
+    "thumbnail": "Pendente",
+    "publicacao": "Publicado"
+   },
+   "youtube_id": "Xfc771aD4z8",
+   "link_drive_ou_pagina": null,
+   "produto": "portal-da-cidade",
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/Xfc771aD4z8.md",
+   "artigos": [
+    "radar-mercados"
+   ]
+  },
+  {
+   "aba": "painel-admin",
+   "gid": 1014831656,
+   "linha": 61,
+   "id_planilha": 60,
    "topico": "Melhor da Cidade > Configurações",
    "status": {
     "gravacao": "Gravado",
@@ -1563,8 +1709,8 @@
   {
    "aba": "painel-admin",
    "gid": 1014831656,
-   "linha": 57,
-   "id_planilha": 56,
+   "linha": 62,
+   "id_planilha": 61,
    "topico": "Projetos Sociais > Configurações",
    "status": {
     "gravacao": "Gravado",
@@ -1588,8 +1734,8 @@
   {
    "aba": "painel-admin",
    "gid": 1014831656,
-   "linha": 58,
-   "id_planilha": 57,
+   "linha": 63,
+   "id_planilha": 62,
    "topico": "Sorteios [Animado Página Externa]",
    "status": {
     "gravacao": "Gravado",
@@ -1615,8 +1761,8 @@
   {
    "aba": "painel-admin",
    "gid": 1014831656,
-   "linha": 59,
-   "id_planilha": 58,
+   "linha": 64,
+   "id_planilha": 63,
    "topico": "Melhor da Cidade [Animado Página Externa]",
    "status": {
     "gravacao": "Gravado",
@@ -1640,8 +1786,8 @@
   {
    "aba": "painel-admin",
    "gid": 1014831656,
-   "linha": 60,
-   "id_planilha": 59,
+   "linha": 65,
+   "id_planilha": 64,
    "topico": "Projetos Sociais [Animado Página Externa]",
    "status": {
     "gravacao": "Gravado",
@@ -4554,6 +4700,46 @@
    ]
   },
   {
+   "youtube_id": "msl8PXbZ9Ak",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/msl8PXbZ9Ak.md",
+   "artigos": [
+    "usuario-radar-consultar-precos"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 51,
+     "id_planilha": 50,
+     "topico": "Vídeo Externo Página >  Radar de Preços - Lista",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "3FZrdVUN_Yk",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/3FZrdVUN_Yk.md",
+   "artigos": [
+    "usuario-radar-enviar-preco"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 52,
+     "id_planilha": 51,
+     "topico": "Vídeo Externo Página >  Radar de Preços - Enviar Preço",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
    "youtube_id": "4pc8AwOX0hA",
    "titulo_youtube": null,
    "duracao_s": null,
@@ -4596,6 +4782,126 @@
    ]
   },
   {
+   "youtube_id": "iuCYHVzr37g",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/iuCYHVzr37g.md",
+   "artigos": [
+    "radar-de-precos"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 55,
+     "id_planilha": 54,
+     "topico": "Radar de Preço > Geral",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "CSYITekPVcw",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/CSYITekPVcw.md",
+   "artigos": [
+    "radar-fotos-enviadas"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 56,
+     "id_planilha": 55,
+     "topico": "Radar de Preço > Fotos Enviadas",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "focSRBTLhQE",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/focSRBTLhQE.md",
+   "artigos": [
+    "radar-precos-retidos"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 57,
+     "id_planilha": 56,
+     "topico": "Radar de Preço > Preços Retidos",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "VhMHVZujDvQ",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/VhMHVZujDvQ.md",
+   "artigos": [
+    "radar-produtos-e-precos"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 58,
+     "id_planilha": 57,
+     "topico": "Radar de Preço > Produtos e Preços",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "hrri-AfQihQ",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/hrri-AfQihQ.md",
+   "artigos": [
+    "radar-categorias"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 59,
+     "id_planilha": 58,
+     "topico": "Radar de Preço > Categorias",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "Xfc771aD4z8",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261022",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/Xfc771aD4z8.md",
+   "artigos": [
+    "radar-mercados"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 60,
+     "id_planilha": 59,
+     "topico": "Radar de Preço > Estabelecimentos",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
    "youtube_id": "ajzmuupRJMM",
    "titulo_youtube": null,
    "duracao_s": null,
@@ -4608,8 +4914,8 @@
    "linhas": [
     {
      "aba": "painel-admin",
-     "linha": 56,
-     "id_planilha": 55,
+     "linha": 61,
+     "id_planilha": 60,
      "topico": "Melhor da Cidade > Configurações",
      "produto": "portal-da-cidade"
     }
@@ -4628,8 +4934,8 @@
    "linhas": [
     {
      "aba": "painel-admin",
-     "linha": 57,
-     "id_planilha": 56,
+     "linha": 62,
+     "id_planilha": 61,
      "topico": "Projetos Sociais > Configurações",
      "produto": "portal-da-cidade"
     }
@@ -4650,8 +4956,8 @@
    "linhas": [
     {
      "aba": "painel-admin",
-     "linha": 58,
-     "id_planilha": 57,
+     "linha": 63,
+     "id_planilha": 62,
      "topico": "Sorteios [Animado Página Externa]",
      "produto": "portal-da-cidade"
     }
@@ -4670,8 +4976,8 @@
    "linhas": [
     {
      "aba": "painel-admin",
-     "linha": 59,
-     "id_planilha": 58,
+     "linha": 64,
+     "id_planilha": 63,
      "topico": "Melhor da Cidade [Animado Página Externa]",
      "produto": "portal-da-cidade"
     }
@@ -4690,8 +4996,8 @@
    "linhas": [
     {
      "aba": "painel-admin",
-     "linha": 60,
-     "id_planilha": 59,
+     "linha": 65,
+     "id_planilha": 64,
      "topico": "Projetos Sociais [Animado Página Externa]",
      "produto": "portal-da-cidade"
     }

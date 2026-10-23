@@ -10,6 +10,8 @@ tipo_problema: operacao
 status: rascunho-documental
 revisado_em: 2026-10-22
 validacao: docs-e-codigo
+videos:
+  - CSYITekPVcw
 ---
 
 ## objetivo

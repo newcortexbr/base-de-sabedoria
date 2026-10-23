@@ -1,0 +1,80 @@
+1
+00:00:00,120 --> 00:00:05,120
+Em categorias, você organiza as sessões
+
+2
+00:00:02,480 --> 00:00:07,759
+do radar de preços. O radar tem três
+
+3
+00:00:05,120 --> 00:00:10,519
+categorias fixas: supermercados,
+
+4
+00:00:07,759 --> 00:00:12,599
+farmácias e postos de combustível. Em
+
+5
+00:00:10,519 --> 00:00:16,039
+postos de combustível, os produtos são
+
+6
+00:00:12,599 --> 00:00:18,359
+só gasolina, etanol e diesel. A tabela
+
+7
+00:00:16,039 --> 00:00:21,000
+mostra a ordem, quantos produtos cada
+
+8
+00:00:18,359 --> 00:00:23,800
+categoria tem e a situação. Clique no
+
+9
+00:00:21,000 --> 00:00:25,840
+lápis para editar. Mude o nome, escolha
+
+10
+00:00:23,800 --> 00:00:28,240
+o ícone e defina a ordem em que a
+
+11
+00:00:25,840 --> 00:00:31,160
+categoria aparece no site. Para tirar
+
+12
+00:00:28,240 --> 00:00:34,000
+uma categoria do ar, desmarque ativa.
+
+13
+00:00:31,160 --> 00:00:35,920
+Depois, clique em salvar. No site, as
+
+14
+00:00:34,000 --> 00:00:37,879
+categorias viram os três caminhos da
+
+15
+00:00:35,920 --> 00:00:40,760
+página do radar na ordem que você
+
+16
+00:00:37,879 --> 00:00:43,640
+definiu. E em postbustível, o morador
+
+17
+00:00:40,760 --> 00:00:46,160
+compara gasolina, etanol e diesel, posto
+
+18
+00:00:43,640 --> 00:00:48,399
+por posto. Pronto. Com as categorias
+
+19
+00:00:46,160 --> 00:00:51,960
+organizadas, fica fácil para o morador
+
+20
+00:00:48,399 --> 00:00:51,960
+achar o que precisa.
+
