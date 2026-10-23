@@ -1,0 +1,204 @@
+1
+00:00:00,120 --> 00:00:05,279
+Fotos enviadas é a porta de entrada do
+
+2
+00:00:02,520 --> 00:00:07,120
+radar de preços. Aqui chegam as fotos de
+
+3
+00:00:05,279 --> 00:00:09,800
+preços que os moradores mandam pelo
+
+4
+00:00:07,120 --> 00:00:12,400
+site. No site, o morador escolhe se é a
+
+5
+00:00:09,800 --> 00:00:14,440
+foto de um produto ou um encarte, envia
+
+6
+00:00:12,400 --> 00:00:16,720
+a imagem, informa o preço e o
+
+7
+00:00:14,440 --> 00:00:19,439
+estabelecimento. Se o mercado ainda não
+
+8
+00:00:16,720 --> 00:00:22,359
+existe, ele mesmo cadastra um novo. No
+
+9
+00:00:19,439 --> 00:00:25,039
+painel, abra radar de preços e clique em
+
+10
+00:00:22,359 --> 00:00:27,359
+fotos enviadas. No topo, os quadros
+
+11
+00:00:25,039 --> 00:00:29,720
+mostram quantas fotos aguardam você,
+
+12
+00:00:27,359 --> 00:00:31,920
+quantos preços estão retidos, quantos
+
+13
+00:00:29,720 --> 00:00:34,559
+preços estão no site e os envios da
+
+14
+00:00:31,920 --> 00:00:38,280
+semana. As fotos ficam separadas em três
+
+15
+00:00:34,559 --> 00:00:41,200
+abas: aguardando, lidos e recusados.
+
+16
+00:00:38,280 --> 00:00:43,600
+Cada cartão mostra o tipo, o mercado, o
+
+17
+00:00:41,200 --> 00:00:46,280
+preço informado e quem enviou com o
+
+18
+00:00:43,600 --> 00:00:48,640
+WhatsApp para tirar dúvidas. Esses dados
+
+19
+00:00:46,280 --> 00:00:51,320
+só a equipe vê. Clique na foto para
+
+20
+00:00:48,640 --> 00:00:54,239
+ampliar e conferir os preços. Se a foto
+
+21
+00:00:51,320 --> 00:00:56,320
+chegou deitada, use os botões de girar.
+
+22
+00:00:54,239 --> 00:00:58,399
+A leitura fica bem mais precisa com a
+
+23
+00:00:56,320 --> 00:01:00,399
+foto em pé. Quando o morador cadastrou
+
+24
+00:00:58,399 --> 00:01:03,359
+um estabelecimento novo, aparece a
+
+25
+00:01:00,399 --> 00:01:05,920
+etiqueta Mercado Novo e o botão vira
+
+26
+00:01:03,359 --> 00:01:08,200
+aprovar foto e mercado. As duas coisas
+
+27
+00:01:05,920 --> 00:01:10,280
+são aprovadas juntas. Se o morador
+
+28
+00:01:08,200 --> 00:01:12,920
+cadastrou de novo um mercado que já
+
+29
+00:01:10,280 --> 00:01:15,520
+existe, clique em corrigir, escolha o
+
+30
+00:01:12,920 --> 00:01:17,759
+mercado certo na lista e, se precisar,
+
+31
+00:01:15,520 --> 00:01:21,040
+ajuste o preço informado. O cadastro
+
+32
+00:01:17,759 --> 00:01:23,479
+duplicado é descartado. Salvou e a foto
+
+33
+00:01:21,040 --> 00:01:26,360
+agora aponta para o mercado certo. Foto
+
+34
+00:01:23,479 --> 00:01:29,040
+repetida, ilegível ou fora do tema?
+
+35
+00:01:26,360 --> 00:01:31,640
+Clique em recusar e confirme. Nada é
+
+36
+00:01:29,040 --> 00:01:34,759
+lido e o morador não é avisado. Para
+
+37
+00:01:31,640 --> 00:01:37,000
+publicar, clique em aprovar e ler. Na
+
+38
+00:01:34,759 --> 00:01:39,479
+hora, a inteligência artificial começa a
+
+39
+00:01:37,000 --> 00:01:42,079
+ler o encarte. Em instantes, aparece o
+
+40
+00:01:39,479 --> 00:01:44,040
+resultado. Quantos produtos foram lidos?
+
+41
+00:01:42,079 --> 00:01:46,479
+Quantos são novos? Quantos foram
+
+42
+00:01:44,040 --> 00:01:49,159
+atualizados? e quantos ficaram retidos
+
+43
+00:01:46,479 --> 00:01:51,240
+para conferir. Na aba lidos fica o
+
+44
+00:01:49,159 --> 00:01:53,520
+histórico das fotos aprovadas com o
+
+45
+00:01:51,240 --> 00:01:56,320
+resumo de cada leitura e na aba
+
+46
+00:01:53,520 --> 00:01:58,799
+recusados as fotos que você descartou.
+
+47
+00:01:56,320 --> 00:02:01,280
+No site, os preços lidos já aparecem
+
+48
+00:01:58,799 --> 00:02:04,039
+atualizados com a foto do encarte e a
+
+49
+00:02:01,280 --> 00:02:06,439
+data da atualização. Pronto. Confira as
+
+50
+00:02:04,039 --> 00:02:09,920
+fotos enviadas todos os dias e mantenha
+
+51
+00:02:06,439 --> 00:02:09,920
+o radar sempre atualizado.
+

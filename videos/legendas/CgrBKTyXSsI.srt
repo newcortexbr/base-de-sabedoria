@@ -1,0 +1,485 @@
+1
+00:00:00,080 --> 00:00:02,750
+ 
+Chegamos à última etapa da instalação, o
+
+2
+00:00:02,750 --> 00:00:02,760
+Chegamos à última etapa da instalação, o
+ 
+
+3
+00:00:02,760 --> 00:00:05,550
+Chegamos à última etapa da instalação, o
+seu portal no ar. Quando o DNS do seu
+
+4
+00:00:05,550 --> 00:00:05,560
+seu portal no ar. Quando o DNS do seu
+ 
+
+5
+00:00:05,560 --> 00:00:07,950
+seu portal no ar. Quando o DNS do seu
+domínio é encontrado, a etapa portal no
+
+6
+00:00:07,950 --> 00:00:07,960
+domínio é encontrado, a etapa portal no
+ 
+
+7
+00:00:07,960 --> 00:00:10,990
+domínio é encontrado, a etapa portal no
+ar começa sozinha. No topo, seu domínio
+
+8
+00:00:10,990 --> 00:00:11,000
+ar começa sozinha. No topo, seu domínio
+ 
+
+9
+00:00:11,000 --> 00:00:14,110
+ar começa sozinha. No topo, seu domínio
+e conexão DNS ficam concluídas. A tela
+
+10
+00:00:14,110 --> 00:00:14,120
+e conexão DNS ficam concluídas. A tela
+ 
+
+11
+00:00:14,120 --> 00:00:16,670
+e conexão DNS ficam concluídas. A tela
+mostra testando o acesso ao portal e o
+
+12
+00:00:16,670 --> 00:00:16,680
+mostra testando o acesso ao portal e o
+ 
+
+13
+00:00:16,680 --> 00:00:19,150
+mostra testando o acesso ao portal e o
+andamento, provisionando, aguardando o
+
+14
+00:00:19,150 --> 00:00:19,160
+andamento, provisionando, aguardando o
+ 
+
+15
+00:00:19,160 --> 00:00:22,630
+andamento, provisionando, aguardando o
+DNS, plataforma pronta, sua confirmação
+
+16
+00:00:22,630 --> 00:00:22,640
+DNS, plataforma pronta, sua confirmação
+ 
+
+17
+00:00:22,640 --> 00:00:24,950
+DNS, plataforma pronta, sua confirmação
+e concluída. Em propagação pelos
+
+18
+00:00:24,950 --> 00:00:24,960
+e concluída. Em propagação pelos
+ 
+
+19
+00:00:24,960 --> 00:00:27,310
+e concluída. Em propagação pelos
+servidores de DNS, você acompanha em
+
+20
+00:00:27,310 --> 00:00:27,320
+servidores de DNS, você acompanha em
+ 
+
+21
+00:00:27,320 --> 00:00:29,749
+servidores de DNS, você acompanha em
+tempo real quantos servidores pelo mundo
+
+22
+00:00:29,749 --> 00:00:29,759
+tempo real quantos servidores pelo mundo
+ 
+
+23
+00:00:29,759 --> 00:00:31,710
+tempo real quantos servidores pelo mundo
+já enxergam o seu domínio. Os que
+
+24
+00:00:31,710 --> 00:00:31,720
+já enxergam o seu domínio. Os que
+ 
+
+25
+00:00:31,720 --> 00:00:34,110
+já enxergam o seu domínio. Os que
+mostram aguardando ainda respondem com o
+
+26
+00:00:34,110 --> 00:00:34,120
+mostram aguardando ainda respondem com o
+ 
+
+27
+00:00:34,120 --> 00:00:36,990
+mostram aguardando ainda respondem com o
+endereço antigo. É só esperar. A tela se
+
+28
+00:00:36,990 --> 00:00:37,000
+endereço antigo. É só esperar. A tela se
+ 
+
+29
+00:00:37,000 --> 00:00:39,950
+endereço antigo. É só esperar. A tela se
+atualiza sozinha. Quando chega a 100%
+
+30
+00:00:39,950 --> 00:00:39,960
+atualiza sozinha. Quando chega a 100%
+ 
+
+31
+00:00:39,960 --> 00:00:42,630
+atualiza sozinha. Quando chega a 100%
+aparece. Todos os servidores já enxergam
+
+32
+00:00:42,630 --> 00:00:42,640
+aparece. Todos os servidores já enxergam
+ 
+
+33
+00:00:42,640 --> 00:00:44,470
+aparece. Todos os servidores já enxergam
+seu domínio. Então, emitimos o
+
+34
+00:00:44,470 --> 00:00:44,480
+seu domínio. Então, emitimos o
+ 
+
+35
+00:00:44,480 --> 00:00:46,910
+seu domínio. Então, emitimos o
+certificado de segurança, o cadeado do
+
+36
+00:00:46,910 --> 00:00:46,920
+certificado de segurança, o cadeado do
+ 
+
+37
+00:00:46,920 --> 00:00:49,549
+certificado de segurança, o cadeado do
+seu site em cerca de um minuto. Enquanto
+
+38
+00:00:49,549 --> 00:00:49,559
+seu site em cerca de um minuto. Enquanto
+ 
+
+39
+00:00:49,559 --> 00:00:51,229
+seu site em cerca de um minuto. Enquanto
+espera, você já pode adiantar o
+
+40
+00:00:51,229 --> 00:00:51,239
+espera, você já pode adiantar o
+ 
+
+41
+00:00:51,239 --> 00:00:53,549
+espera, você já pode adiantar o
+treinamento pelo link logo abaixo. Com
+
+42
+00:00:53,549 --> 00:00:53,559
+treinamento pelo link logo abaixo. Com
+ 
+
+43
+00:00:53,559 --> 00:00:55,869
+treinamento pelo link logo abaixo. Com
+tudo pronto, a tela mostra a montagem do
+
+44
+00:00:55,869 --> 00:00:55,879
+tudo pronto, a tela mostra a montagem do
+ 
+
+45
+00:00:55,879 --> 00:00:58,110
+tudo pronto, a tela mostra a montagem do
+seu portal, as páginas, a área
+
+46
+00:00:58,110 --> 00:00:58,120
+seu portal, as páginas, a área
+ 
+
+47
+00:00:58,120 --> 00:01:00,470
+seu portal, as páginas, a área
+administrativa, o banco de dados, o
+
+48
+00:01:00,470 --> 00:01:00,480
+administrativa, o banco de dados, o
+ 
+
+49
+00:01:00,480 --> 00:01:03,270
+administrativa, o banco de dados, o
+certificado de segurança e a publicação.
+
+50
+00:01:03,270 --> 00:01:03,280
+certificado de segurança e a publicação.
+ 
+
+51
+00:01:03,280 --> 00:01:06,390
+certificado de segurança e a publicação.
+E então, sua plataforma está no ar. Abra
+
+52
+00:01:06,390 --> 00:01:06,400
+E então, sua plataforma está no ar. Abra
+ 
+
+53
+00:01:06,400 --> 00:01:08,310
+E então, sua plataforma está no ar. Abra
+o painel do seu portal e entre pelo
+
+54
+00:01:08,310 --> 00:01:08,320
+o painel do seu portal e entre pelo
+ 
+
+55
+00:01:08,320 --> 00:01:10,870
+o painel do seu portal e entre pelo
+botão entrar com a área do cliente. É a
+
+56
+00:01:10,870 --> 00:01:10,880
+botão entrar com a área do cliente. É a
+ 
+
+57
+00:01:10,880 --> 00:01:13,109
+botão entrar com a área do cliente. É a
+mesma conta que você usa aqui, sem senha
+
+58
+00:01:13,109 --> 00:01:13,119
+mesma conta que você usa aqui, sem senha
+ 
+
+59
+00:01:13,119 --> 00:01:15,310
+mesma conta que você usa aqui, sem senha
+nova. Depois de entrar de verdade,
+
+60
+00:01:15,310 --> 00:01:15,320
+nova. Depois de entrar de verdade,
+ 
+
+61
+00:01:15,320 --> 00:01:17,870
+nova. Depois de entrar de verdade,
+clique em sim, já está no ar. Se não
+
+62
+00:01:17,870 --> 00:01:17,880
+clique em sim, já está no ar. Se não
+ 
+
+63
+00:01:17,880 --> 00:01:20,190
+clique em sim, já está no ar. Se não
+conseguir, clique em não, ainda não
+
+64
+00:01:20,190 --> 00:01:20,200
+conseguir, clique em não, ainda não
+ 
+
+65
+00:01:20,200 --> 00:01:22,350
+conseguir, clique em não, ainda não
+consigo. Nós abrimos um chamado com
+
+66
+00:01:22,350 --> 00:01:22,360
+consigo. Nós abrimos um chamado com
+ 
+
+67
+00:01:22,360 --> 00:01:24,149
+consigo. Nós abrimos um chamado com
+todos os dados da instalação e o
+
+68
+00:01:24,149 --> 00:01:24,159
+todos os dados da instalação e o
+ 
+
+69
+00:01:24,159 --> 00:01:26,670
+todos os dados da instalação e o
+WhatsApp do suporte. Em seus acessos
+
+70
+00:01:26,670 --> 00:01:26,680
+WhatsApp do suporte. Em seus acessos
+ 
+
+71
+00:01:26,680 --> 00:01:28,910
+WhatsApp do suporte. Em seus acessos
+ficam o endereço do portal, o endereço
+
+72
+00:01:28,910 --> 00:01:28,920
+ficam o endereço do portal, o endereço
+ 
+
+73
+00:01:28,920 --> 00:01:31,830
+ficam o endereço do portal, o endereço
+do painel e o login. O botão acessar meu
+
+74
+00:01:31,830 --> 00:01:31,840
+do painel e o login. O botão acessar meu
+ 
+
+75
+00:01:31,840 --> 00:01:34,149
+do painel e o login. O botão acessar meu
+portal leva direto para ele. Com a
+
+76
+00:01:34,149 --> 00:01:34,159
+portal leva direto para ele. Com a
+ 
+
+77
+00:01:34,159 --> 00:01:36,429
+portal leva direto para ele. Com a
+instalação concluída, minha plataforma
+
+78
+00:01:36,429 --> 00:01:36,439
+instalação concluída, minha plataforma
+ 
+
+79
+00:01:36,439 --> 00:01:39,109
+instalação concluída, minha plataforma
+vira a central do seu portal. Seu portal
+
+80
+00:01:39,109 --> 00:01:39,119
+vira a central do seu portal. Seu portal
+ 
+
+81
+00:01:39,119 --> 00:01:41,950
+vira a central do seu portal. Seu portal
+está no ar. Em acessos principais, abre
+
+82
+00:01:41,950 --> 00:01:41,960
+está no ar. Em acessos principais, abre
+ 
+
+83
+00:01:41,960 --> 00:01:44,389
+está no ar. Em acessos principais, abre
+o seu portal ou o painel administrativo
+
+84
+00:01:44,389 --> 00:01:44,399
+o seu portal ou o painel administrativo
+ 
+
+85
+00:01:44,399 --> 00:01:46,670
+o seu portal ou o painel administrativo
+ou copie os endereços. E no guia de
+
+86
+00:01:46,670 --> 00:01:46,680
+ou copie os endereços. E no guia de
+ 
+
+87
+00:01:46,680 --> 00:01:48,990
+ou copie os endereços. E no guia de
+links ficam as páginas de vendas, as
+
+88
+00:01:48,990 --> 00:01:49,000
+links ficam as páginas de vendas, as
+ 
+
+89
+00:01:49,000 --> 00:01:51,389
+links ficam as páginas de vendas, as
+áreas de login e os recursos do portal
+
+90
+00:01:51,389 --> 00:01:51,399
+áreas de login e os recursos do portal
+ 
+
+91
+00:01:51,399 --> 00:01:54,109
+áreas de login e os recursos do portal
+prontos para copiar e compartilhar. O
+
+92
+00:01:54,109 --> 00:01:54,119
+prontos para copiar e compartilhar. O
+ 
+
+93
+00:01:54,119 --> 00:01:56,830
+prontos para copiar e compartilhar. O
+próximo passo é o treinamento. Clique em
+
+94
+00:01:56,830 --> 00:01:56,840
+próximo passo é o treinamento. Clique em
+ 
+
+95
+00:01:56,840 --> 00:01:59,270
+próximo passo é o treinamento. Clique em
+iniciar meu treinamento e comece a fazer
+
+96
+00:01:59,270 --> 00:01:59,280
+iniciar meu treinamento e comece a fazer
+ 
+
+97
+00:01:59,280 --> 00:02:03,119
+iniciar meu treinamento e comece a fazer
+o seu portal crescer.
+

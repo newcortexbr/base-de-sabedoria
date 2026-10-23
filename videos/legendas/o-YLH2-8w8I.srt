@@ -1,0 +1,355 @@
+1
+00:00:00,080 --> 00:00:02,110
+ 
+A visão geral é o retrato do seu
+
+2
+00:00:02,110 --> 00:00:02,120
+A visão geral é o retrato do seu
+ 
+
+3
+00:00:02,120 --> 00:00:04,630
+A visão geral é o retrato do seu
+negócio, a situação do portal, o seu
+
+4
+00:00:04,630 --> 00:00:04,640
+negócio, a situação do portal, o seu
+ 
+
+5
+00:00:04,640 --> 00:00:06,630
+negócio, a situação do portal, o seu
+próximo passo no treinamento e os seus
+
+6
+00:00:06,630 --> 00:00:06,640
+próximo passo no treinamento e os seus
+ 
+
+7
+00:00:06,640 --> 00:00:09,549
+próximo passo no treinamento e os seus
+pagamentos. Tudo numa tela só. Para
+
+8
+00:00:09,549 --> 00:00:09,559
+pagamentos. Tudo numa tela só. Para
+ 
+
+9
+00:00:09,559 --> 00:00:12,270
+pagamentos. Tudo numa tela só. Para
+abrir, clique em visão geral no menu ao
+
+10
+00:00:12,270 --> 00:00:12,280
+abrir, clique em visão geral no menu ao
+ 
+
+11
+00:00:12,280 --> 00:00:15,310
+abrir, clique em visão geral no menu ao
+lado. No topo, o guia da visão geral
+
+12
+00:00:15,310 --> 00:00:15,320
+lado. No topo, o guia da visão geral
+ 
+
+13
+00:00:15,320 --> 00:00:17,510
+lado. No topo, o guia da visão geral
+explica em vídeo como acompanhar o seu
+
+14
+00:00:17,510 --> 00:00:17,520
+explica em vídeo como acompanhar o seu
+ 
+
+15
+00:00:17,520 --> 00:00:20,269
+explica em vídeo como acompanhar o seu
+negócio. Logo abaixo, a faixa azul
+
+16
+00:00:20,269 --> 00:00:20,279
+negócio. Logo abaixo, a faixa azul
+ 
+
+17
+00:00:20,279 --> 00:00:22,830
+negócio. Logo abaixo, a faixa azul
+mostra a situação do portal. Antes da
+
+18
+00:00:22,830 --> 00:00:22,840
+mostra a situação do portal. Antes da
+ 
+
+19
+00:00:22,840 --> 00:00:24,910
+mostra a situação do portal. Antes da
+instalação, ela avisa que a sua cidade
+
+20
+00:00:24,910 --> 00:00:24,920
+instalação, ela avisa que a sua cidade
+ 
+
+21
+00:00:24,920 --> 00:00:27,710
+instalação, ela avisa que a sua cidade
+ainda não está no ar com o botão iniciar
+
+22
+00:00:27,710 --> 00:00:27,720
+ainda não está no ar com o botão iniciar
+ 
+
+23
+00:00:27,720 --> 00:00:30,630
+ainda não está no ar com o botão iniciar
+instalação. Durante a instalação, o selo
+
+24
+00:00:30,630 --> 00:00:30,640
+instalação. Durante a instalação, o selo
+ 
+
+25
+00:00:30,640 --> 00:00:33,750
+instalação. Durante a instalação, o selo
+muda para em instalação. A faixa explica
+
+26
+00:00:33,750 --> 00:00:33,760
+muda para em instalação. A faixa explica
+ 
+
+27
+00:00:33,760 --> 00:00:36,630
+muda para em instalação. A faixa explica
+o que falta fazer e o botão passa a ser
+
+28
+00:00:36,630 --> 00:00:36,640
+o que falta fazer e o botão passa a ser
+ 
+
+29
+00:00:36,640 --> 00:00:38,709
+o que falta fazer e o botão passa a ser
+ver o que fazer. Quando o portal é
+
+30
+00:00:38,709 --> 00:00:38,719
+ver o que fazer. Quando o portal é
+ 
+
+31
+00:00:38,719 --> 00:00:41,869
+ver o que fazer. Quando o portal é
+publicado, o selo vira portal ativo e a
+
+32
+00:00:41,869 --> 00:00:41,879
+publicado, o selo vira portal ativo e a
+ 
+
+33
+00:00:41,879 --> 00:00:44,350
+publicado, o selo vira portal ativo e a
+faixa mostra o seu domínio. Aparecem os
+
+34
+00:00:44,350 --> 00:00:44,360
+faixa mostra o seu domínio. Aparecem os
+ 
+
+35
+00:00:44,360 --> 00:00:46,709
+faixa mostra o seu domínio. Aparecem os
+botões abrir portal e painel
+
+36
+00:00:46,709 --> 00:00:46,719
+botões abrir portal e painel
+ 
+
+37
+00:00:46,719 --> 00:00:49,069
+botões abrir portal e painel
+administrativo para você gerenciar o seu
+
+38
+00:00:49,069 --> 00:00:49,079
+administrativo para você gerenciar o seu
+ 
+
+39
+00:00:49,079 --> 00:00:52,270
+administrativo para você gerenciar o seu
+site. Em seu próximo passo, continue o
+
+40
+00:00:52,270 --> 00:00:52,280
+site. Em seu próximo passo, continue o
+ 
+
+41
+00:00:52,280 --> 00:00:54,549
+site. Em seu próximo passo, continue o
+treinamento de onde parou pelo botão
+
+42
+00:00:54,549 --> 00:00:54,559
+treinamento de onde parou pelo botão
+ 
+
+43
+00:00:54,559 --> 00:00:57,670
+treinamento de onde parou pelo botão
+continuar meu start. Em seus pagamentos
+
+44
+00:00:57,670 --> 00:00:57,680
+continuar meu start. Em seus pagamentos
+ 
+
+45
+00:00:57,680 --> 00:01:00,069
+continuar meu start. Em seus pagamentos
+ficam as duas obrigações: reserva
+
+46
+00:01:00,069 --> 00:01:00,079
+ficam as duas obrigações: reserva
+ 
+
+47
+00:01:00,079 --> 00:01:02,270
+ficam as duas obrigações: reserva
+territorial e a mensalidade, com o
+
+48
+00:01:02,270 --> 00:01:02,280
+territorial e a mensalidade, com o
+ 
+
+49
+00:01:02,280 --> 00:01:04,630
+territorial e a mensalidade, com o
+próximo vencimento e a situação de cada
+
+50
+00:01:04,630 --> 00:01:04,640
+próximo vencimento e a situação de cada
+ 
+
+51
+00:01:04,640 --> 00:01:07,469
+próximo vencimento e a situação de cada
+uma. Para mais detalhes, clique em ver
+
+52
+00:01:07,469 --> 00:01:07,479
+uma. Para mais detalhes, clique em ver
+ 
+
+53
+00:01:07,479 --> 00:01:10,350
+uma. Para mais detalhes, clique em ver
+pagamentos. Com o portal no ar, em
+
+54
+00:01:10,350 --> 00:01:10,360
+pagamentos. Com o portal no ar, em
+ 
+
+55
+00:01:10,360 --> 00:01:12,469
+pagamentos. Com o portal no ar, em
+Precisa de um link do seu portal, o
+
+56
+00:01:12,469 --> 00:01:12,479
+Precisa de um link do seu portal, o
+ 
+
+57
+00:01:12,479 --> 00:01:15,030
+Precisa de um link do seu portal, o
+botão ver meus links reúne as áreas de
+
+58
+00:01:15,030 --> 00:01:15,040
+botão ver meus links reúne as áreas de
+ 
+
+59
+00:01:15,040 --> 00:01:17,350
+botão ver meus links reúne as áreas de
+login, as páginas de vendas e os
+
+60
+00:01:17,350 --> 00:01:17,360
+login, as páginas de vendas e os
+ 
+
+61
+00:01:17,360 --> 00:01:19,429
+login, as páginas de vendas e os
+recursos do seu portal. Antes da
+
+62
+00:01:19,429 --> 00:01:19,439
+recursos do seu portal. Antes da
+ 
+
+63
+00:01:19,439 --> 00:01:22,310
+recursos do seu portal. Antes da
+publicação, esse botão ainda não aparece
+
+64
+00:01:22,310 --> 00:01:22,320
+publicação, esse botão ainda não aparece
+ 
+
+65
+00:01:22,320 --> 00:01:24,830
+publicação, esse botão ainda não aparece
+e se precisar de ajuda para seguir, é só
+
+66
+00:01:24,830 --> 00:01:24,840
+e se precisar de ajuda para seguir, é só
+ 
+
+67
+00:01:24,840 --> 00:01:27,830
+e se precisar de ajuda para seguir, é só
+clicar em acessar suporte. Volte à visão
+
+68
+00:01:27,830 --> 00:01:27,840
+clicar em acessar suporte. Volte à visão
+ 
+
+69
+00:01:27,840 --> 00:01:30,069
+clicar em acessar suporte. Volte à visão
+geral sempre que quiser saber como está
+
+70
+00:01:30,069 --> 00:01:30,079
+geral sempre que quiser saber como está
+ 
+
+71
+00:01:30,079 --> 00:01:34,439
+geral sempre que quiser saber como está
+o seu negócio e qual é o próximo passo.
+

@@ -1,0 +1,120 @@
+1
+00:00:00,080 --> 00:00:05,200
+Preços retidos é a trava de segurança do
+
+2
+00:00:02,560 --> 00:00:07,279
+radar de preços. Quando a IA lê um preço
+
+3
+00:00:05,200 --> 00:00:09,880
+muito diferente do atual, mais que o
+
+4
+00:00:07,279 --> 00:00:12,799
+dobro ou menos da metade, ele não vai
+
+5
+00:00:09,880 --> 00:00:15,320
+para o site, fica aqui esperando você. O
+
+6
+00:00:12,799 --> 00:00:18,080
+resto é publicado na hora. Cada linha
+
+7
+00:00:15,320 --> 00:00:20,600
+mostra o produto, o mercado e a foto de
+
+8
+00:00:18,080 --> 00:00:23,519
+onde ele foi lido. Depois, o preço atual
+
+9
+00:00:20,600 --> 00:00:25,880
+riscado, o preço lido pela IA e o motivo
+
+10
+00:00:23,519 --> 00:00:28,880
+da retenção. Neste exemplo, o café
+
+11
+00:00:25,880 --> 00:00:31,000
+estava cadastrado a 7,49 e o encarte
+
+12
+00:00:28,880 --> 00:00:33,480
+mostra 17,49.
+
+13
+00:00:31,000 --> 00:00:36,559
+Quem estava errado era o preço antigo.
+
+14
+00:00:33,480 --> 00:00:39,480
+Você tem três opções: corrigir, publicar
+
+15
+00:00:36,559 --> 00:00:42,120
+e descartar. Em corrigir, você ajusta o
+
+16
+00:00:39,480 --> 00:00:44,719
+nome do produto, a categoria ou o preço
+
+17
+00:00:42,120 --> 00:00:46,559
+e clica em corrigir e publicar. Se a
+
+18
+00:00:44,719 --> 00:00:49,239
+leitura estiver errada, clique em
+
+19
+00:00:46,559 --> 00:00:51,760
+descartar e confirme. O preço lido é
+
+20
+00:00:49,239 --> 00:00:54,239
+apagado e não vai para o site. Se o
+
+21
+00:00:51,760 --> 00:00:56,680
+preço lido estiver certo, é só clicar em
+
+22
+00:00:54,239 --> 00:00:59,879
+publicar. Quando não sobra nada, a tela
+
+23
+00:00:56,680 --> 00:01:02,680
+avisa. Nada retido. A IA publicou tudo
+
+24
+00:00:59,879 --> 00:01:05,920
+que leu. Veja no site. Antes o café
+
+25
+00:01:02,680 --> 00:01:08,000
+aparecia a 7,49. Depois de publicar,
+
+26
+00:01:05,920 --> 00:01:10,479
+aparece o preço certo com a foto do
+
+27
+00:01:08,000 --> 00:01:13,040
+encarte e o destaque de menor preço já
+
+28
+00:01:10,479 --> 00:01:15,159
+usa o valor correto. Pronto. Confira os
+
+29
+00:01:13,040 --> 00:01:18,520
+preços retidos sempre que aí há ler
+
+30
+00:01:15,159 --> 00:01:18,520
+novas fotos.
+
