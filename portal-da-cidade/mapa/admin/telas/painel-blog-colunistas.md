@@ -1,22 +1,26 @@
 # /painel/blog/colunistas — colunistas (`src/app/painel/blog/colunistas/page.tsx`)
 - gate: módulo `blog`. - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`); lojista/cliente/jornalista são recusados no login do painel.
 - faz: CRUD de colunistas e do acesso de login do proprietário.
-- campos: Nome ou profissão, Cargo ou especialidade, Origem, E-mail público, WhatsApp, Instagram/Facebook/LinkedIn/Site, foto (com foco da imagem), Status, acesso do proprietário (`AcessoDoProprietario`).
+- campos: Nome, Cargo ou especialidade, E-mail público, WhatsApp, Instagram/Facebook/LinkedIn/Site, foto (com foco da imagem), Status, acesso do proprietário (`AcessoDoProprietario`).
 - ações: criar/editar com `FormData` (:113-114), ativar/desativar na lista (:449), excluir (:385), criar/redefinir senha/remover acesso (:309-311), revalidar (:125,400,455).
 - APIs: `blog.colunistas.listar|criar|atualizar|excluir|criarAcesso|redefinirSenhaAcesso|removerAcesso`.
 - estados: erro de campo `errosCampo` (:83), erro geral `erro` (:135), erro do toggle `erroToggle` (:458); vazio (:526,528). Telefone validado por `motivoTelefoneInvalido`.
 - problemas: nenhum confirmado. fato — criar acesso após criar o colunista pode falhar parcialmente (tratado por `criarAcessoDoCadastro`, :131).
 - admin vs cliente: cliente edita o próprio perfil em `/minha-conta/colunista-blog` (`ColunistaPerfil`). Admin cria o colunista inteiro, define a senha e remove o acesso. O cliente não pode se desativar; o admin sim.
 
+## como chegar
+- na parte Conteúdo do menu, abra `Artigos` e clique em `Colunistas`.
+
 ## o que você vê
 Cadastro das pessoas que escrevem artigos (colunistas) e do acesso delas ao sistema.
 - foto (com ponto de foco): a imagem do colunista; o ponto de foco escolhe que parte da foto fica visível quando ela é cortada.
-- Nome ou profissão e Cargo ou especialidade: como o colunista aparece nos artigos.
-- E-mail público, WhatsApp, Instagram, Facebook, LinkedIn, Site: contatos mostrados no perfil público.
-- Origem: Cadastrado pelo painel (feito por você) ou Autocadastro (a pessoa se cadastrou sozinha).
-- Status (Ativos / Inativos): colunista inativo fica desligado; o botão na lista liga e desliga.
-- acesso do colunista: cria e-mail e senha para ele entrar e escrever; também dá para enviar uma nova senha por e-mail ou remover o acesso.
-- lixeira: apaga o colunista, depois de confirmação.
+- `+ Novo Colunista` abre a janela `Cadastrar Colunista` (no lápis, `Editar Colunista`).
+- `Nome` e `Cargo ou especialidade`: como o colunista aparece nos artigos.
+- `E-mail público`, `WhatsApp`, `Instagram`, `Facebook`, `LinkedIn`, `Site`: contatos mostrados no perfil público.
+- caixa `Ativo`: colunista inativo fica desligado; na lista, um botão liga e desliga (desativar pede confirmação).
+- filtros da lista: `Nome ou profissão` (busca), `Status` (`Todos`, `Ativos`, `Inativos`) e `Origem` (`Todas`, `Cadastrado pelo painel`, `Autocadastro`). Quem se cadastrou sozinho ganha a marca `Autocadastro`; a origem não se escolhe no formulário.
+- bloco `Acesso do proprietário`: ao cadastrar, preenche `Nome do responsável`, `E-mail de login` e `Senha inicial`; ao editar, há `Criar acesso`, `Redefinir senha` (a nova senha vai por e-mail) e `Remover acesso`.
+- lixeira (Excluir): apaga o colunista, depois de confirmação.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-blog-colunistas.png](../prints/painel-blog-colunistas.png) · dados brutos: [json](../prints/json/painel-blog-colunistas.json)

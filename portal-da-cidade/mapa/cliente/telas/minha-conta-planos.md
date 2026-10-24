@@ -9,7 +9,7 @@ Arquivo: `src/app/minha-conta/planos/page.tsx`
 ## gate de módulo/plano
 - "Suas assinaturas": toda seção com contratação, inclusive vencida, cancelada ou pendente (`ehMinha`, `page.tsx:101`).
 - "Disponível para assinar": seção sem contratação, com `tem_planos`, com tela construída (`rotaDaSecao`) e que a empresa oferece (`ofereceAEmpresa`, exclui `blog`) (`page.tsx:105`).
-- logo, Notícias e Artigos não aparecem para quem não os tem; Publicidade nunca vem em `secoes` (`secoes-do-cliente.ts:32-41`), então não aparece aqui nem como "à venda". Fato lido nos comentários; não verificado no servidor.
+- Artigos não aparece para quem não o tem (`MODULOS_FORA_DA_EMPRESA`); Notícias (matéria patrocinada) tem tela desde 2026-10-09 (`SECOES_COM_TELA`) e aparece em "Disponível para assinar" se o portal a vende, levando à tela Matéria patrocinada; Publicidade nunca vem em `secoes` (`secoes-do-cliente.ts:32-41`), então não aparece aqui; banners se compram em Banners Publicitários. Fato lido no código; não verificado no servidor.
 
 ## o que faz
 - lista cada módulo em uma linha: nome, resumo da assinatura ("Plano A · R$ 49,90 · renova em dd/mm/aa"), selo de estado (Ativo, Aguardando pagamento, Vencido, Cancelado) ou preço de entrada ("Gratuito" ou "A partir de R$ …").
@@ -43,5 +43,5 @@ Arquivo: `src/app/minha-conta/planos/page.tsx`
 Resumo de todos os seus planos, um por linha, e o que mais está à venda.
 - Suas assinaturas: seções que você tem ou já teve, com plano, valor e data de renovação.
 - Selo: Ativo, Aguardando pagamento, Vencido ou Cancelado.
-- Disponível para assinar: seções que você ainda não tem, com "Gratuito" ou "A partir de R$ …".
-- Cada linha leva à tela de planos daquela seção. Eventos, Banners e Notícias são pagos por item e levam à tela da própria seção.
+- Disponível para assinar (se você ainda não tem nada, o título é "À venda neste portal"): seções que você ainda não tem, com "Gratuito" ou "A partir de R$ …". Sem nada à venda: "Este portal não tem planos à venda no momento."
+- Cada linha leva à tela de planos daquela seção. Eventos e Notícias são pagos por item e levam à tela da própria seção (Banners não aparecem nesta lista).

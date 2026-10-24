@@ -1,6 +1,6 @@
 ---
 id: configurar-identidade-do-portal
-titulo: configurar informações e aparência do portal
+titulo: "configurar nome, logo e favicon do portal"
 publico:
   - admin
 modulo: configurações
@@ -8,61 +8,62 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: configuracao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - 8M4kdEfP7Eg
   - XekThBh1ygU
-  - He7XF-kolwk
-  - _YSN9di_ZOU
-  - vPnHq9kRWW8
-  - lrTaEV5JnVM
 ---
 
 ## objetivo
 
-aqui você muda o nome, a logo, os contatos e a aparência do portal.
+aqui você muda o nome, a logo e o favicon, que é o ícone da aba do navegador.
 
 ## pré-requisitos
 
 - Ter acesso de administrador ao painel do portal.
 
-## veja também
-- para preencher WhatsApp e redes sociais, veja o artigo "configurar as redes sociais do portal".
-- para preencher e-mail e telefone do Fale Conosco, veja o artigo "configurar a página Fale Conosco do portal".
-- para mudar topo, início, cores ou rodapé, veja o artigo "mudar a aparência (layout) do portal".
-
 ## passos
 
-1. No menu da esquerda, na parte `Sistema`, clique em `Configurações` e depois em `Configurações Gerais`. [guia=menu:/painel/configuracoes] [t=6]
-2. No quadro `Identidade`, escreva o `Nome do portal`. [guia=configuracoes.nome] [t=9]
-3. Clique em `Salvar` ao lado do nome. [guia=configuracoes.salvar-nome] [t=12]
-4. Para a `Logo do portal`, clique em `Enviar logo` (ou `Trocar logo`) e escolha a imagem. O envio é imediato. [guia=configuracoes.logo] [t=17]
-5. Logo abaixo, envie também o favicon, que é o ícone que aparece na aba do navegador. [guia=configuracoes.logo]
-6. Em `Cidades do portal` ficam as cidades da cobertura. Para adicionar uma nova, chame o time comercial no WhatsApp. [guia=menu:/painel/configuracoes]
-7. Em `Pixels de rastreamento`, cole o código do Google Analytics, do Meta ou de outra plataforma e clique em identificar pixel. Os pixels ativos aparecem logo abaixo. [guia=menu:/painel/configuracoes]
-8. Em `Aplicativo do portal`, ligue o aviso `Baixar app`. Ele convida o visitante a instalar o portal no celular, com um ícone na tela inicial com a logo e o nome do portal. [guia=menu:/painel/configuracoes]
-9. Em `Grupo de WhatsApp`, cole o link de convite do grupo ou canal, marque a opção de exibir o convite no site e salve. No site aparece o convite com o botão `Entrar no grupo`. [guia=menu:/painel/configuracoes]
+### mudar nome e imagens
+
+1. Na parte `Sistema` do menu da esquerda, clique em `Configurações` para abrir as opções, se estiverem fechadas. [t=6] [guia=configuracoes.abrir-menu]
+2. Clique em `Configurações Gerais`. [t=9] [guia=menu:/painel/configuracoes]
+3. Em `Identidade`, preencha `Nome do portal`. [t=11] [guia=configuracoes.nome]
+4. Clique em `Salvar` ao lado do nome. [t=14] [guia=configuracoes.salvar-nome]
+5. Em `Logo do portal`, clique em `Enviar logo` ou `Trocar logo`. [t=19] [guia=configuracoes.logo]
+6. No seletor de arquivos do computador, escolha a imagem da logo. [guia=fora]
+7. Em `Favicon`, clique em `Enviar favicon` ou `Trocar favicon`. [t=19] [guia=configuracoes.favicon]
+8. No seletor de arquivos do computador, escolha a imagem do ícone. [guia=fora]
+
+### remover a logo
+
+1. Na mesma tela, clique em `Remover` ao lado da logo. [guia=configuracoes.remover-logo]
+2. Na confirmação `Remover a logo do portal?`, clique em `Remover`. [guia=confirmacao.confirmar]
+
+### remover o favicon
+
+1. Na mesma tela, clique em `Remover` ao lado do favicon. [guia=configuracoes.remover-favicon]
+2. Na confirmação `Remover o favicon do portal?`, clique em `Remover`. [guia=confirmacao.confirmar]
 
 ## resultado
 
-as informações ou opções de aparência salvas ficam associadas ao portal. O nome aparece no topo quando não há logo.
+Nome: `Salvo com sucesso`. Envio das imagens: `Logo atualizada` ou `Favicon atualizado`. Remoção: `Logo removida` ou `Favicon removido`. Enviar e remover imagens salvam imediatamente, sem outro botão de salvar.
 
 ## desvios
 
-os modelos disponíveis são definidos pelo produto; a tela permite escolher configurações, não criar um modelo visual novo. A aparência final pode depender de conteúdo e módulos existentes.
+Nome em branco não é enviado. Falhas aparecem em vermelho no quadro correspondente.
 
-## quando pedir ajuda
+## veja também
 
-peça ajuda se a página não carregar, se o salvamento apresentar erro ou se a opção esperada não estiver disponível. Não envie senhas nem chaves de integração.
+Para cores, topo e rodapé, veja “mudar a aparência (layout) do portal”. Para contatos, pixels, aviso do app e convite do WhatsApp, use os artigos próprios dessas opções. Para cobertura, veja “adicionar ou remover cidades da cobertura do portal”.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/configuracoes/page.tsx:26-40,72-95`
-- `portal-cidade/frontend/src/app/painel/configuracoes/layout/page.tsx:13-29,31-36,59-60,84-86`
-- `portal-cidade/docs/PRODUCT.md:82-93`
-- `portal-cidade/docs/DECISIONS.md:14-21`
+- `portal-cidade/frontend/src/app/painel/configuracoes/page.tsx:108` — nome.
+- `portal-cidade/frontend/src/app/painel/configuracoes/page.tsx:224` — envio e remoção de imagens.
+- `portal-cidade/frontend/src/app/painel/configuracoes/page.tsx:357` — campos e botões.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os campos e ações de cada subpágina podem mudar.
+Sem validação no navegador. Limites de tamanho e formatos aceitos pelo servidor não foram verificados; o seletor apenas anuncia imagens.

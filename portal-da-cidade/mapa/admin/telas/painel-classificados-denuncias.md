@@ -5,8 +5,11 @@
 - problemas: fato — como o gate é por prefixo, a rota fica sob o módulo classificados, mas o destino (aprovações) é de outro prefixo; um portal sem o módulo vê "ModuloDesativado" em vez do redirecionamento. É coerente, mas verifique se o link ainda existe no menu.
 - admin vs cliente: o cliente não vê denúncias de seus anúncios (hipótese; não verificado em `minha-conta`).
 
+## como chegar
+- não há item no menu. as denúncias de classificados ficam na parte de cima do menu, em `Aprovações e Denúncias`, aba `Denúncias`.
+
 ## o que você vê
-Endereço antigo das denúncias de classificados: abre a aba Denúncias de Aprovações e Denúncias.
+Endereço antigo das denúncias de classificados: abre a aba `Denúncias` de `Aprovações e Denúncias`.
 - não tem conteúdo próprio; se a seção de classificados estiver desligada, aparece o aviso de seção desativada.
 
 ## posições na tela (print de 2026-10-16, 1280x900)

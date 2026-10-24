@@ -1,6 +1,7 @@
 # /painel/noticias/[id]/editar — editar notícia (`.../[id]/editar/page.tsx`, 36 linhas)
 - gate: módulo `noticias` (prefixo `/painel/noticias`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
+- menu: `Notícias` > `Listar Notícias` > lápis da notícia. título `Editar: <título da notícia>`; botões `Salvar` e `Cancelar`.
 - faz: carrega `noticias.detalhe(id)` (:15) e renderiza `NoticiaForm` preenchido.
 - estados: spinner; `!noticia` mostra "Notícia não encontrada." (:28).
 - problemas: fato — a carga não tem `catch` (:15-17): erro de rede, 403 ou 500 vira "Notícia não encontrada" (aparência de 404) e deixa a promessa sem tratamento.
@@ -8,14 +9,12 @@
 
 ## o que você vê
 Tela para mudar uma notícia que já existe; os campos são os mesmos do cadastro.
-- Título * e Título curto: o nome da notícia; o curto é usado onde há pouco espaço.
-- Subtítulo: frase logo abaixo do título.
-- Conteúdo da matéria *: o texto, com formatação, imagens e vídeos.
-- Foto de Capa (arraste ou clique), Legenda e Créditos: imagem principal e quem a fez.
-- Categorização: Categoria, Subcategoria e etiquetas (digite e aperte Enter) para separar o assunto.
-- Fonte da matéria: de onde veio a informação.
-- Publicação: Status (Rascunho, Publicado, Arquivado), Agendar notícia com a data em Publicar em, e Destaque na janela principal para ela aparecer no destaque da página inicial.
-- SEO e Endereço da página: como aparece no Google e o final do link; se ficarem vazios, são criados a partir do título.
+- Conteúdo: `Título *`, `Subtítulo`, `Título curto` (usado onde há pouco espaço), `Chamada da matéria` (resumo de até 500 letras), `Conteúdo da matéria *` (o texto, com formatação, imagens e vídeos), `Tags / Palavras-chave` (digite e aperte Enter ou vírgula) e `Fonte da matéria`.
+- Categorização: `Categoria` e `Subcategoria`.
+- Publicação: `Status` (`Rascunho`, `Publicado`, `Arquivado`), `Agendar notícia` (liga o campo `Publicar em` para escolher data e hora) e `Destaque na janela principal` (destaque da página inicial). Desligado o agendamento, a notícia sai na hora em que você salva.
+- `Foto de Capa` (arraste ou clique), `Legenda` e `Créditos`: imagem principal e quem a fez.
+- `SEO`: `Título SEO`, `Descrição SEO` e `Endereço da página` (o final do link); se ficarem vazios, são criados a partir do título.
+- botões: `Salvar` e `Cancelar`. O painel guarda um rascunho automático neste navegador enquanto você escreve (aviso com `Restaurar` se houver um).
 - se aparecer "Notícia não encontrada", a notícia pode ter sido apagada ou houve falha ao carregar; tente recarregar a página.
 
 ## posições na tela (print de 2026-10-16, 1280x900)

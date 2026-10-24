@@ -12,7 +12,7 @@ Arquivos: `eventos/[id]/editar/page.tsx`, `eventos/EventoForm.tsx`, `eventos/Gal
 - edita um evento existente, gerencia a galeria e retoma o pagamento pendente.
 
 ## ações e campos
-- os mesmos campos de `minha-conta-eventos-novo.md` (a capa não é exigida na edição: `:339`, `!evento`).
+- os mesmos campos de `minha-conta-eventos-novo.md` sem o passo de escolher divulgação. O botão vira `Salvar alterações` e o link `Voltar` (no lugar de Cancelar). O título não muda depois que o evento foi publicado. A foto na galeria só é exigida na criação (`:339`, `!evento`).
 - retomar pagamento (`:457-470`), trocar/remover capa (`cliente-api.ts:2640-2650`), fotos da galeria (`:2654-2670`).
 - reprovado: "Corrigir e reenviar" da lista.
 
@@ -62,7 +62,7 @@ Arquivos: `eventos/[id]/editar/page.tsx`, `eventos/EventoForm.tsx`, `eventos/Gal
 
 ## o que você vê
 Formulário para mudar um evento que já existe, com galeria e pagamento pendente.
-- Os mesmos campos da criação; a capa pode ser trocada ou removida.
+- Os mesmos campos da criação, sem a escolha de divulgação; a capa pode ser trocada ou removida. O botão é `Salvar alterações`. O título não muda depois de publicado.
 - Galeria: adicionar ou tirar fotos.
 - Aguardando pagamento: mostra o quadro para continuar o pagamento.
 - "Criado pelo seu pacote, sem nova cobrança": o evento usou um pacote já pago.

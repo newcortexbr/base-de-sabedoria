@@ -1,6 +1,7 @@
 # /painel/noticias/cadastrar — nova notícia (`.../cadastrar/page.tsx`, 11 linhas)
 - gate: módulo `noticias` (prefixo `/painel/noticias`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
+- menu: parte Conteúdo, grupo `Notícias` > `Cadastrar Notícia` (também o botão `+ Cadastrar Notícia` da lista). título `Cadastrar Notícia`.
 - faz: `Header` + `<NoticiaForm />` (`components/painel/NoticiaForm.tsx`), que injeta `adminApi.noticias/categorias/subcategorias/uploadImagem` num editor compartilhado.
 - campos/ações detalhados no editor compartilhado (título, categoria, subcategoria, fonte, foto, legenda, créditos, corpo com imagens, status). A criação é feita pelo componente; esta tela não tem lógica própria.
 - APIs: `noticias.criar`, `uploadImagem`, `categorias.listar`, `subcategorias.listar` (via NoticiaForm).
@@ -9,14 +10,12 @@
 
 ## o que você vê
 Tela para escrever e publicar uma notícia nova.
-- Título * e Título curto: o nome da notícia; o curto é usado onde há pouco espaço.
-- Subtítulo: frase logo abaixo do título.
-- Conteúdo da matéria *: o texto, com formatação, imagens e vídeos.
-- Foto de Capa (arraste ou clique), Legenda e Créditos: imagem principal e quem a fez.
-- Categorização: Categoria, Subcategoria e etiquetas (digite e aperte Enter) para separar o assunto.
-- Fonte da matéria: de onde veio a informação.
-- Publicação: Status (Rascunho, Publicado, Arquivado), Agendar notícia com a data em Publicar em, e Destaque na janela principal para ela aparecer no destaque da página inicial.
-- SEO e Endereço da página: como aparece no Google e o final do link; se ficarem vazios, são criados a partir do título.
+- Conteúdo: `Título *`, `Subtítulo`, `Título curto` (usado onde há pouco espaço), `Chamada da matéria` (resumo de até 500 letras), `Conteúdo da matéria *` (o texto, com formatação, imagens e vídeos), `Tags / Palavras-chave` (digite e aperte Enter ou vírgula) e `Fonte da matéria`.
+- Categorização: `Categoria` e `Subcategoria`.
+- Publicação: `Status` (`Rascunho`, `Publicado`, `Arquivado`), `Agendar notícia` (liga o campo `Publicar em` para escolher data e hora) e `Destaque na janela principal` (destaque da página inicial). Desligado o agendamento, a notícia sai na hora em que você salva.
+- `Foto de Capa` (arraste ou clique), `Legenda` e `Créditos`: imagem principal e quem a fez.
+- `SEO`: `Título SEO`, `Descrição SEO` e `Endereço da página` (o final do link); se ficarem vazios, são criados a partir do título.
+- botões: `Adicionar` e `Cancelar`. O painel guarda um rascunho automático neste navegador enquanto você escreve (aviso com `Restaurar` se houver um).
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-noticias-cadastrar.png](../prints/painel-noticias-cadastrar.png) · dados brutos: [json](../prints/json/painel-noticias-cadastrar.json)

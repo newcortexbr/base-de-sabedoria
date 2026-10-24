@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - -FASO6flcCw
@@ -16,49 +16,61 @@ videos:
 
 ## objetivo
 
-aqui você vê quem são seus clientes, o que cada um contratou e quando vence.
+aqui você acompanha clientes, planos e vencimentos e cadastra um cliente novo.
 
 ## pré-requisitos
 
 - Ter acesso de administrador ao painel do portal.
 
-## veja também
-- para achar um cliente e ver os planos e as faturas dele, veja o artigo "encontrar um cliente e ver planos e faturas".
-- para mudar nome, documento ou contatos de um cliente, veja o artigo "editar os dados de um cliente".
-- para trocar a senha de um cliente, veja o artigo "trocar a senha de um cliente".
-- para impedir ou liberar o acesso de um cliente, veja o artigo "bloquear ou liberar o acesso de um cliente".
-- para apagar um cliente, veja o artigo "excluir um cliente".
-- para baixar a lista de clientes, veja o artigo "exportar a lista de clientes".
+## o que a tela mostra
+
+Os cartões `Vencidos`, `Vence em 7 dias`, `Vence em 30 dias` e `Sem plano` resumem a carteira. A tela também mostra o total de clientes, a receita mensal recorrente e, quando há pendências, um aviso de contratações aguardando confirmação de pagamento. O filtro `Filtrar por status` inclui `Todos`, `Com plano`, `Em dia`, `Vence em 7 dias`, `Vence em 30 dias`, `Atrasado`, `Sem plano`, `Aguardando pagamento` e `Cancelado`.
 
 ## passos
 
-1. No menu da esquerda, na parte `Comercial`, clique em `Meus Clientes`. [guia=menu:/painel/clientes] [t=10] No topo, um aviso amarelo mostra as contratações aguardando confirmação de pagamento: nada entra no ar antes de você confirmar o pagamento na ficha do cliente. Os cartões resumem a carteira e mostram também o total de clientes e a receita mensal recorrente dos planos ativos. Cada linha da lista traz o cliente, o WhatsApp, a quantidade de planos, as seções contratadas, o vencimento mais próximo e a receita. As ações da linha são a chave (redefinir senha), o lápis (editar), o cadeado (bloquear) e a lixeira (excluir).
-2. Para cadastrar, clique em `Novo cliente`. [guia=clientes.novo] [t=72]
-3. Escreva o nome do cliente e, se tiver, o nome fantasia e o tipo. [guia=clientes.nome] [t=74]
-4. Preencha o documento (CPF ou CNPJ). [guia=clientes.documento] [t=77]
-5. Preencha o telefone. [guia=clientes.telefone] [t=77]
-6. Preencha o WhatsApp. [guia=clientes.whatsapp] [t=77]
-7. Preencha o e-mail. Com a cobrança pelo Asaas ligada, nome, documento e e-mail são obrigatórios. [guia=clientes.email] [t=81]
-8. Clique em `Salvar`. [guia=clientes.salvar]
+### encontrar e abrir um cliente
+
+1. Na parte `Comercial` do menu da esquerda, clique em `Meus Clientes`. [t=10] [guia=menu:/painel/clientes]
+2. Escreva o nome, o documento ou o telefone em `Buscar por nome, documento ou telefone…`. [t=44] [guia=clientes.busca]
+3. Pressione Enter no campo de busca para carregar os resultados. [guia=clientes.busca]
+4. Se precisar, escolha a situação em `Filtrar por status`. [t=48] [guia=clientes.filtro-situacao]
+5. Clique no nome do cliente para abrir a ficha. [t=99] [guia=clientes.ver-cliente]
+
+### cadastrar um cliente novo
+
+1. Na parte `Comercial` do menu da esquerda, clique em `Meus Clientes`. [t=10] [guia=menu:/painel/clientes]
+2. Clique em `Novo cliente`. [t=72] [guia=clientes.novo]
+3. Preencha `Nome *`. [t=74] [guia=clientes.nome]
+4. Preencha `Nome fantasia`, se houver. [t=74] [guia=clientes.nome-fantasia]
+5. Em `Tipo`, escolha `Pessoa jurídica` ou `Pessoa física`, conforme o cliente. [t=74] [guia=clientes.tipo]
+6. Preencha `CPF/CNPJ`, se houver; é obrigatório quando o campo mostra asterisco. [t=77] [guia=clientes.documento]
+7. Preencha `Telefone`, se houver. [t=77] [guia=clientes.telefone]
+8. Preencha `WhatsApp`, se houver. [t=77] [guia=clientes.whatsapp]
+9. Preencha `E-mail`, se houver; é obrigatório quando o campo mostra asterisco. [t=81] [guia=clientes.email]
+10. Preencha `Observações`, se quiser. [guia=clientes.observacoes]
+11. Clique em `Salvar`. [guia=clientes.salvar]
 
 ## resultado
 
-a lista mostra a carteira atualizada, com semáforo de vencimento e contratações aguardando pagamento.
+No cadastro, aparece `Cliente cadastrado`, a janela fecha e a lista e o resumo são recarregados. Cadastrar o cliente não é o mesmo que criar seu login ou registrar uma contratação.
+
+## veja também
+
+- “editar os dados de um cliente”, “trocar a senha de um cliente”, “bloquear ou liberar o acesso de um cliente”, “excluir um cliente” e “exportar a lista de clientes”.
+- Para planos e faturas, veja “encontrar um cliente e ver planos e faturas”.
 
 ## desvios
 
-- Excluir e bloquear pedem confirmação; confira antes.
-- O arquivo exportado tem dados de contato: guarde com cuidado.
-
-## quando pedir ajuda
-
-peça ajuda se a página não carregar, se o salvamento der erro ou se a opção esperada não aparecer.
+Nome é sempre obrigatório. Se a tela mostra o aviso do Asaas, CPF/CNPJ e e-mail também são obrigatórios. Documento inválido ou contato incompleto impede o envio; o motivo fica na janela.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/clientes/page.tsx`
-- `suporte-kb/mapa/admin/telas/painel-clientes.md`
+- `portal-cidade/frontend/src/app/painel/clientes/page.tsx:52` — formulário.
+- `portal-cidade/frontend/src/app/painel/clientes/page.tsx:536` — cartões.
+- `portal-cidade/frontend/src/app/painel/clientes/page.tsx:713` — busca e filtro.
+- `portal-cidade/frontend/src/app/painel/clientes/regras.ts:5` — opções.
+- `portal-cidade/frontend/src/app/painel/clientes/page.tsx:934` — atualização após cadastro.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os textos dos botões podem mudar.
+Sem validação no navegador. As operações internas da ficha individual ficam fora deste artigo; o vídeo não foi usado como prova de implementação dessas operações.

@@ -8,14 +8,15 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - pBHdF3bd1QI
 ---
 
 ## objetivo
-aqui você remove um cupom. A empresa continua no Guia.
+
+Aqui você apaga o cupom de uma empresa. A empresa continua cadastrada no Guia.
 
 ## pré-requisitos
 
@@ -23,29 +24,28 @@ aqui você remove um cupom. A empresa continua no Guia.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Cupons de Desconto`. [guia=menu:/painel/cupons]
-2. Veja na lista a empresa, o código, o desconto e a validade de cada cupom. Cupom vencido aparece marcado. [guia=menu:/painel/cupons]
-3. Para apagar, clique em `Remover` na linha dele. [guia=cupons.remover]
-4. Confirme na janela que o navegador abre. A empresa continua no Guia. [guia=cupons.remover]
+1. Na parte `Conteúdo` do menu, em `Guia Comercial`, clique em `Cupons de Desconto`. [t=9] [guia=menu:/painel/cupons]
+2. Clique em `Remover` na linha do cupom. [t=22] [guia=cupons.remover]
+3. Na janela que pergunta se deseja remover o cupom, clique em `Remover`. [guia=confirmacao.confirmar]
 
 ## resultado
-O cupom some da lista.
 
-## desvios
-
-- Se a lista de empresas vier vazia, todas já podem ter cupom ou não há empresas no Guia.
-- Se a foto falhar, o cupom já foi salvo; edite e envie a foto de novo.
-- Cupom depende do plano da empresa.
+O cupom sai da lista, e o painel mostra `Cupom removido`.
 
 ## quando pedir ajuda
 
-peça ajuda se a página não carregar, se o salvamento der erro ou se a opção esperada não aparecer.
+Peça ajuda se a tela não carregar ou se a ação mostrar erro. Informe a mensagem e a ação tentada, sem enviar senha.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/cupons/`
-- `suporte-kb/mapa/admin/telas/painel-cupons.md`, `painel-cupons-novo.md`
+- Código do portal no HEAD `b2f62d3f`; base revisada a partir de `814f097`.
+- `frontend/src/app/painel/cupons/page.tsx:109`.
+- `frontend/src/app/painel/cupons/page.tsx:202`.
+- `frontend/src/components/painel/ModalAvisoConfirmacao.tsx:153`.
+- Vídeo `pBHdF3bd1QI`: catálogo `portal-da-cidade/videos.json`, transcrição `videos/conteudo/pBHdF3bd1QI.md` e legenda `videos/legendas/pBHdF3bd1QI.srt`.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os textos dos botões podem mudar.
+Não houve validação no navegador nem execução do produto. As regras e os rótulos descritos foram conferidos por leitura do código. Tempos indicam o trecho da transcrição/legenda, não uma reprodução validada da interface atual.
+
+O vídeo cita Remover, mas não demonstra a confirmação. Não há tempo atribuído ao que não foi demonstrado.

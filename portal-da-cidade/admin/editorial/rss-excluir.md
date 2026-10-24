@@ -8,42 +8,42 @@ categoria: conteúdo
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - r5rFCgAV0mg
 ---
 
 ## objetivo
-aqui você apaga uma fonte da lista.
+
+Aqui você exclui uma fonte própria de RSS. Fontes da plataforma só podem ser desligadas pelo portal.
 
 ## pré-requisitos
 
-- Ter acesso de administrador ao painel do portal.
+- Entrar no painel como administrador.
+- A fonte deve mostrar `Própria` na coluna `Origem`.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Notícias Automáticas` e depois em `Fontes de RSS`. [guia=menu:/painel/noticias/fontes-rss]
-2. Para excluir, clique na lixeira na linha da fonte. [guia=fontes-rss.excluir]
+1. Na seção `Conteúdo` do menu lateral, em `Notícias Automáticas`, clique em `Fontes de RSS`. [t=9] [guia=menu:/painel/noticias/fontes-rss]
+2. Na linha da fonte própria, clique na lixeira `Excluir`. [guia=fontes-rss.excluir]
+3. Na confirmação `Excluir a fonte "…"?`, clique em `Excluir`. [guia=confirmacao.confirmar]
 
 ## resultado
-A fonte some da lista.
+
+A tela mostra `Fonte excluída` e recarrega a lista. As notícias já importadas por ela não são apagadas. A exclusão da fonte não pode ser desfeita.
 
 ## desvios
 
-- Fonte desativada para de trazer notícias.
-- Se a verificação do endereço falhar, confira o link do RSS.
-
-## quando pedir ajuda
-
-peça ajuda se a página não carregar, se o salvamento der erro ou se a opção esperada não aparecer.
+Se a origem for `Plataforma`, a lixeira não aparece; use “ligar ou desligar uma fonte de RSS”.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/noticias/fontes-rss/`
-- `suporte-kb/mapa/admin/telas/painel-noticias-fontes-rss.md`
+- `frontend/src/app/painel/noticias/fontes-rss/page.tsx:149` — exclusão.
+- `frontend/src/app/painel/noticias/fontes-rss/page.tsx:289` — distinção de origem.
+- `frontend/src/app/painel/noticias/fontes-rss/page.tsx:323` — aviso e confirmação.
+- Vídeo `r5rFCgAV0mg`, legenda em 9s–13s: acesso à lista, sem demonstração de exclusão.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os textos dos botões podem mudar.
-- revisão 2026-10-19: o formulário não tem mais campo de categoria (o artigo antigo citava). A conferência do endereço é automática ao sair do campo, não há botão de verificar. O catálogo adiciona direto pelo botão `Adicionar`, não preenche o formulário.
+Exclusão não executada no navegador.

@@ -13,8 +13,11 @@ Arquivos: `eventos/novo/page.tsx`, `eventos/EventoForm.tsx`
 - cria o evento e já gera a cobrança. Fluxo: preenche, escolhe a divulgação, "Pagar e publicar", paga (Pix/cartão), entra na análise do dono do portal.
 
 ## ações e campos
-- título*, data*, data fim, cidade/local, categoria, descrição, foto de capa* (obrigatória ao criar: `EventoForm.tsx:339`), galeria de fotos, escolha da divulgação (cartões com preço, "por mês" ou "pagamento único", "Até N eventos por pagamento") (`:773-774`).
-- botões: "Pagar e publicar" ou "Publicar pelo pacote".
+- passo 1 "Sobre o evento": `Título do evento *`, `Categoria` (opcional), `Organizador`, `Descrição` (opcional), `Data *`, `Data de término` (opcional), `Horário` (texto livre, ex.: 19h às 22h), CEP e cidade (busca), `Local`, `Endereço`.
+- passo 2 "Fotos, vídeo e ingressos": `Foto de capa` (botão `Enviar foto de capa` / `Substituir foto de capa`, `Remover foto`; 1280 × 720 px; NÃO é obrigatória), galeria "Fotos e vídeo da galeria" (até 10 itens, fotos ou vídeo do YouTube; pelo menos 1 foto é obrigatória para criar, `EventoForm.tsx:339`), `Link de vídeo do YouTube`, `Preço` (texto livre, ex.: "Entrada gratuita"), `Link de ingresso`, `WhatsApp para contato`, caixa `Mostrar telefone na página`.
+- passo 3 "Como você quer divulgar?" (só na criação): cartões com o plano e o preço ("por mês" ou "pagamento único", "Até N eventos por pagamento", fita "Mais escolhido"). Texto da tela: "Você paga uma vez, por este evento. Sem mensalidade."
+- lado direito "Como vai aparecer": prévia e total.
+- botões: `Pagar e publicar` ou `Publicar pelo pacote`, e `Cancelar`.
 
 ## APIs
 - `GET /{portal}/comercial/meu-organizador-evento/`, `GET /{portal}/turismo/eventos/categorias/?incluir_vazias=true` (`cliente-api.ts:2684`).
@@ -66,10 +69,10 @@ Arquivos: `eventos/novo/page.tsx`, `eventos/EventoForm.tsx`
 
 ## o que você vê
 Formulário para criar um evento e já pagar pela divulgação dele.
-- Título e data: obrigatórios. Data fim: para eventos de mais de um dia.
-- Cidade/local e categoria: escolhidos em listas com busca.
+- Título e data: obrigatórios. Data de término: para eventos de mais de um dia. Horário, Local, Endereço, Preço, Link de ingresso e WhatsApp: opcionais.
+- Cidade (por CEP ou lista com busca) e categoria: escolhidas em listas.
 - Descrição: texto do evento.
-- Foto de capa: obrigatória para criar. Galeria: fotos extras.
-- Divulgação: cartões com o preço de cada opção ("por mês" ou "pagamento único"; "Até N eventos por pagamento" quando é pacote).
+- Foto de capa: opcional. Galeria de fotos e vídeo: pelo menos 1 foto é obrigatória para criar (até 10 itens).
+- Como você quer divulgar?: cartões com o preço de cada opção ("por mês" ou "pagamento único"; "Até N eventos por pagamento" quando é pacote).
 - Pagar e publicar: gera a cobrança (Pix ou cartão). Depois de pago, o evento pode passar pela análise do portal antes de ir ao ar.
 - Publicar pelo pacote: aparece no lugar quando você tem pacote com saldo; não gera nova cobrança.

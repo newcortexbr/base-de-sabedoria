@@ -11,45 +11,43 @@ tipo_problema:
   - alterar senha do painel
   - mudar a senha do administrador
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 ---
 
 ## objetivo
-aqui você troca a senha que usa para entrar no painel, sabendo a senha atual.
+
+Troque a senha de acesso ao painel quando souber a senha atual.
 
 ## pré-requisitos
 
-- Estar logado no painel.
+- Estar conectado ao painel.
 - Saber a senha atual.
 
 ## passos
 
-1. Na barra de endereço do navegador, logo depois do endereço do portal, escreva `/painel/alterar-senha` e aperte Enter. O menu do painel não tem um link para esta página. [guia=fora]
-2. Escreva a senha que você usa hoje em `Senha atual`. [guia=fora]
-3. Escreva a senha nova em `Nova senha`. [guia=fora]
-4. Repita a senha nova em `Confirmar nova senha`. [guia=fora]
-5. Clique em `Alterar Senha`. [guia=fora]
+1. Abra a [alteração de senha do painel](/painel/alterar-senha) no navegador deste portal. [guia=fora]
+2. Preencha `Senha atual`.  [guia=alterar-senha.atual]
+3. Preencha `Nova senha`.  [guia=alterar-senha.nova]
+4. Preencha `Confirmar nova senha` com a mesma senha nova.  [guia=alterar-senha.confirmar]
+5. Clique em `Alterar Senha`.  [guia=alterar-senha.salvar]
 
 ## resultado
-aparece "Senha alterada com sucesso.". Na próxima entrada, use a senha nova.
+
+Aparece `Senha alterada com sucesso`. Os campos são limpos; use a senha nova na próxima entrada.
 
 ## desvios
 
-- Aparece "As senhas não conferem.": a confirmação está diferente da senha nova.
-- A senha nova precisa ter pelo menos 8 caracteres, não pode ser só números nem uma senha comum.
-- Não sabe a senha atual: veja "esqueci a senha do painel".
-
-## quando pedir ajuda
-
-peça ajuda se aparecer "Erro ao alterar a senha." mesmo com a senha atual certa.
+- `As senhas não conferem.`: repita a mesma senha nos dois campos novos.
+- Siga os requisitos de senha mostrados abaixo do campo.
+- A página existe, mas não foi encontrado link no menu lateral nem no cabeçalho. Por isso o primeiro passo fornece um link direto.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/alterar-senha/page.tsx:23-97` — campos, mensagens e botão.
-- `portal-cidade/frontend/src/lib/politica-de-senha.ts:4-7` — regra da senha.
-- `portal-cidade/frontend/src/components/painel/Sidebar.tsx` e `Header.tsx` — nenhum link para `/painel/alterar-senha`.
+- `frontend/src/app/painel/alterar-senha/page.tsx:23`
+- `frontend/src/app/painel/alterar-senha/page.tsx:53`
 
 ## lacunas
 
-tela não validada no navegador nesta tarefa. A tela não tem marcas `data-guia`, por isso os passos usam `fora`. Não confirmei no código se a troca desconecta outros aparelhos.
+- Não foi identificado vídeo específico desta tarefa no catálogo; nenhum tempo foi atribuído.
+- Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.

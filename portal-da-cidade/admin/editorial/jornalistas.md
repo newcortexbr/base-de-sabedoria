@@ -8,7 +8,7 @@ categoria: admin
 aba: Notícias
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - gAa2NdnitZU
@@ -16,45 +16,42 @@ videos:
 
 ## objetivo
 
-aqui você cadastra quem escreve notícias para o portal e cuida do acesso de cada um. Pode ser estudante de jornalismo ou colaborador.
+Aqui você cadastra um jornalista para escrever notícias pelo próprio acesso na área do cliente.
 
 ## pré-requisitos
 
-- Ter acesso administrativo ao portal.
-- Ter o e-mail da pessoa que vai escrever.
-
-## veja também
-- para trocar a senha de um jornalista, veja o artigo "trocar a senha de um jornalista".
-- para mudar o nome de um jornalista, veja o artigo "mudar o nome de um jornalista".
-- para tirar o acesso de um jornalista, veja o artigo "bloquear o acesso de um jornalista".
+- Entrar no painel como administrador.
+- Ter nome e e-mail da pessoa.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Notícias` e depois em `Jornalistas`. [guia=menu:/painel/noticias/jornalistas] [t=94]
-2. Clique em `Novo jornalista`. [guia=jornalistas.novo] [t=110]
-3. Em `Acesso do jornalista`, preencha o nome, o e-mail de login e a senha inicial. [guia=jornalistas.acesso] [t=114]
-4. Clique em `Salvar`. A pessoa recebe um e-mail com os dados de acesso. [guia=jornalistas.salvar] [t=120]
+1. Na seção `Conteúdo` do menu lateral, em `Notícias`, clique em `Jornalistas`. [t=109] [guia=menu:/painel/noticias/jornalistas]
+2. Clique em `Novo jornalista`. [t=116] [guia=jornalistas.novo]
+3. Em `Acesso do jornalista`, preencha `Nome do responsável *`. [t=118] [guia=acesso-proprietario.nome]
+4. Preencha `E-mail de login *`. [t=118] [guia=acesso-proprietario.email]
+5. Preencha `Senha inicial *`. [t=120] [guia=acesso-proprietario.senha]
+6. Clique em `Salvar`. [t=120] [guia=jornalistas.salvar]
+7. Anote os dados mostrados em `Painel do proprietário`; a senha só aparece nessa ocasião. [guia=acesso-proprietario.dados]
+8. Clique em `Anotei os dados, fechar`. [guia=acesso-proprietario.confirmar-dados]
 
 ## resultado
 
-o jornalista entra pela área do cliente, em `/minha-conta/login`, com o e-mail e a senha criados. ele publica direto e só vê as próprias matérias.
+A pessoa entra pela área do cliente, publica direto e só acessa as próprias matérias. O cadastro cria também a ficha de autor do jornalista.
 
 ## desvios
 
-- O próprio jornalista pode trocar a senha quando quiser, sem depender do fluxo de esquecimento.
-- Jornalista não entra no painel: o login dele é na área do cliente.
-- Quem esquecer a senha pode recuperar sozinho em `Esqueci minha senha`, na tela de entrada.
-- Para devolver o acesso, clique de novo no cadeado (`Desbloquear`).
-
-## quando pedir ajuda
-
-peça ajuda se o jornalista não receber o e-mail ou não conseguir entrar mesmo com a senha nova.
+- O cartão informa se o e-mail será enviado ou se não foi enviado. Não conte com entrega garantida.
+- Não cadastre novamente só porque o e-mail não chegou; confira o cartão e os dados de acesso.
+- Para mudar nome, senha ou bloqueio, use os artigos próprios.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/noticias/jornalistas/page.tsx` — lista, cadastro, senha e bloqueio.
-- vídeo `gAa2NdnitZU` 01:32–02:35.
+- `frontend/src/app/painel/noticias/jornalistas/page.tsx:88` — criação e cartão de acesso.
+- `frontend/src/components/painel/AcessoDoProprietario.tsx:236` — rótulos dos campos.
+- `frontend/src/components/painel/AcessoDoProprietario.tsx:280` — retorno do e-mail e senha exibida uma vez.
+- `backend/noticias/api_admin.py:800` — criação de conta, autor e jornalista.
+- Vídeo `gAa2NdnitZU`, legenda em 109s–126s.
 
 ## lacunas
 
-não verificado visualmente; tempos tirados da legenda automática.
+Cadastro, entrega de e-mail e login não executados. Os passos do cartão atual não são detalhados no vídeo.

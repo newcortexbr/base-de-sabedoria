@@ -9,9 +9,11 @@
 
 ## o que você vê
 Lista de quem organiza eventos (pessoas ou empresas), que podem ter login para cuidar dos próprios eventos.
-- Buscar organizador por nome e ordem (Mais recentes primeiro / Nome A–Z).
+- para abrir: na parte Conteúdo do menu, em `Guia Turístico / Eventos`, clique em `Eventos` e depois na aba `Organizadores`.
+- `+ Novo Organizador` abre o cadastro.
+- campo "Buscar por nome..."; filtro "Com e sem eventos" / Com eventos / Sem eventos; ordem "Mais recentes primeiro" / "Nome A–Z".
 - número de eventos: quantos eventos cada organizador tem.
-- Editar abre o cadastro; apagar pede confirmação, e os eventos ligados perdem o vínculo com ele.
+- `Editar` abre o cadastro; `Excluir` pede confirmação, e os eventos ligados perdem o vínculo com ele.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-eventos-organizadores.png](../prints/painel-turismo-eventos-organizadores.png) · dados brutos: [json](../prints/json/painel-turismo-eventos-organizadores.json)

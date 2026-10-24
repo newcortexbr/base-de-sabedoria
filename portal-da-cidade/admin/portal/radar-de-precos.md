@@ -8,58 +8,43 @@ categoria: radar
 aba: nao-se-aplica
 tipo_problema: orientacao
 status: rascunho-documental
-revisado_em: 2026-10-22
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
-  - O3sdByn6xK8
   - iuCYHVzr37g
+  - O3sdByn6xK8
 ---
 
 ## objetivo
 
-aqui você entende o Radar de Preços: uma página onde os moradores comparam preços de supermercados, farmácias e postos de combustível da cidade.
+O Radar de Preços permite comparar preços e receber contribuições dos moradores.
 
 ## pré-requisitos
 
 - Ter acesso de administrador ao painel do portal.
-- O módulo `Radar de Preços` estar ligado em `Módulos do Portal`. Desligado, o Radar não aparece no site.
-
-## como funciona
-
-- o Radar tem **três categorias fixas**: `Supermercados`, `Farmácias` e `Postos de combustível`. Você não cria nem apaga categoria; só muda nome, ícone, ordem ou desliga (veja "mudar as categorias do Radar de Preços").
-- em `Postos de combustível` só existem três produtos: `Gasolina`, `Etanol` e `Diesel`.
-- **quem envia preço:**
-  - o **morador** (qualquer visitante, sem criar conta) manda uma foto do produto ou do encarte, o preço, o estabelecimento, o nome e o WhatsApp, em `/radar-de-precos/enviar`.
-  - **você** também pode lançar um preço direto, sem foto, em `Produtos e preços`.
-- **passa pela sua aprovação?** Sim, em dois pontos:
-  1. a foto enviada pelo morador fica em `Fotos enviadas`, em `Aguardando`. Você aprova ou recusa. Só depois de aprovada ela é lida e os preços entram no site.
-  2. se o morador indicou um estabelecimento novo, ele nasce `Pendente` e os preços só aparecem no site depois que você aprova o mercado.
-- o que você lança direto em `Produtos e preços` entra no site na hora, sem fila.
-- preço que parece estranho (muito diferente do que já existe) não vai ao ar sozinho: fica em `Preços retidos` esperando você.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Radar de Preços`. Aparecem cinco telas: `Fotos enviadas`, `Preços retidos`, `Produtos e preços`, `Mercados` e `Categorias`. [guia=menu:/painel/radar/fotos]
-2. Para o dia a dia, comece por `Fotos enviadas`: o número no menu mostra quantas esperam por você. [guia=menu:/painel/radar/fotos]
-
-## veja também
-
-- "aprovar as fotos enviadas ao Radar de Preços"
-- "resolver preços retidos do Radar de Preços"
-- "aprovar e juntar mercados do Radar de Preços"
-- "ver e lançar preços no Radar de Preços"
-- "mudar as categorias do Radar de Preços"
+1. Na parte `Conteúdo` do menu, em `Radar de Preços`, clique em `Fotos enviadas`. [guia=menu:/painel/radar/fotos]
 
 ## resultado
 
-você sabe quem envia os preços, o que precisa da sua aprovação e onde cuidar de cada coisa.
+Em Fotos enviadas você revisa contribuições; em Preços retidos decide sobre leituras que precisam de conferência. Produtos e preços guarda o catálogo, Estabelecimentos reúne os locais e Categorias organiza o Radar.
+
+## explicação
+
+- O menu tem `Fotos enviadas`, `Preços retidos`, `Produtos e preços`, `Estabelecimentos` e `Categorias`.
+- Aprovar a foto de um estabelecimento novo também aprova o estabelecimento.
+- O administrador pode adicionar preço digitado ou enviar uma foto diretamente em Produtos e preços; não é o mesmo fluxo da contribuição do morador.
+- Para operar cada tela, veja os artigos específicos do Radar.
 
 ## fontes
 
-- `portal-cidade/frontend/src/components/painel/Sidebar.tsx:137`
-- `portal-cidade/docs/RADAR-CONTRATO.md`
-- `portal-cidade/backend/radar/categorias.py`
+- `frontend/src/components/painel/Sidebar.tsx:150`
+- `frontend/src/app/painel/radar/fotos/page.tsx:137`
+
+- Catálogo: `portal-da-cidade/videos.json`; legendas: `videos/legendas/iuCYHVzr37g.srt`, `videos/legendas/O3sdByn6xK8.srt`.
 
 ## lacunas
 
-não verificado visualmente no navegador. O número no menu vem de contadores do painel (`BADGE_DO_RADAR`); o texto exato do selo não foi conferido.
+- Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.

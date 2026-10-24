@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - wukhVMFEHWg
@@ -21,7 +21,7 @@ aqui você cadastra uma empresa nova no Guia, pelo painel. Você preenche o esse
 
 ## explicação
 
-normalmente você não precisa cadastrar empresas por aqui: a própria empresa cria a conta no portal e monta o perfil pela área do cliente. o botão `+ Cadastrar Empresa` serve para casos especiais, como montar a página de um parceiro ou de um cliente que pediu ajuda.
+O administrador pode cadastrar uma empresa pelo painel. A própria empresa também pode criar sua ficha pela área do cliente. Para dados além do cadastro inicial, use os artigos de edição e de conteúdo da ficha.
 
 ## pré-requisitos
 
@@ -32,11 +32,11 @@ normalmente você não precisa cadastrar empresas por aqui: a própria empresa c
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas]
 2. No topo da lista, clique em `+ Cadastrar Empresa`. [guia=guia-empresas.cadastrar]
-3. Escreva o `Nome da empresa *`. [guia=empresa-editor:nome]
-4. Escolha a `Categoria *`. [guia=empresa-editor:categoria]
-5. Escolha a `Subcategoria *` (ela só aparece depois que você escolhe a categoria). [guia=empresa-editor:subcategoria]
-6. Escolha a `Cidade`. [guia=local:cidade]
-7. Se quiser, escolha o `Status` (`Pendente`, `Ativo`, `Inativo`, `Banido` ou `Reprovado`). [guia=empresa-editor:status]
+3. Escreva o `Nome da empresa *`. [guia=empresa-editor:nome] [t=113]
+4. Escolha a `Categoria *`. [guia=empresa-editor:categoria] [t=120]
+5. Escolha a `Subcategoria *` da categoria selecionada. [guia=empresa-editor:subcategoria] [t=120]
+6. Escolha a `Cidade *`. [guia=local:cidade] [t=208]
+7. Se quiser, escolha o `Status` (`Pendente`, `Ativo`, `Inativo`, `Banido` ou `Reprovado`). [guia=empresa-editor:status] [t=200]
 8. Clique em `Cadastrar Empresa`, no fim da página. [guia=empresa-editor.salvar]
 
 ## resultado
@@ -45,11 +45,10 @@ A empresa é criada e passa a aparecer na lista de empresas do Guia. Para comple
 
 ## desvios
 
-- Os campos com `*` são obrigatórios. Se algum faltar, o painel mostra o aviso `Não foi possível salvar` com o motivo.
-- O campo `Plano` só aparece quando o portal tem planos; sem escolher, vale a cortesia do portal, que não gera contratação nem fatura.
-- Plano pago gera uma contratação ativa para o cliente da empresa, com fatura em aberto no financeiro até você confirmar o pagamento. Plano grátis não gera contratação.
-- Trocar de plano depois cancela a contratação anterior e as faturas abertas dela.
-- Quem quer trazer várias empresas de uma vez deve usar `Importar do Google Maps`, que tem artigo próprio.
+- `Subcategoria *` é necessária: se não houver opções para a categoria, a tela orienta cadastrar uma antes de salvar a empresa.
+- Quando `Plano` está disponível, `Cortesia do portal (todos os itens)` é uma opção. Para escolher outro, veja "trocar o plano de uma empresa do Guia".
+- O aviso `Não foi possível salvar` acompanha as falhas mostradas pelo formulário; confira o motivo antes de tentar novamente.
+- Para muitas empresas de uma vez, veja "importar empresas no Guia a partir de lista do Google Maps".
 
 ## quando pedir ajuda
 
@@ -57,10 +56,10 @@ peça ajuda se a categoria ou a cidade que você precisa não aparecer, ou se o 
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/guia/empresas/cadastrar/page.tsx:15-17`
-- `portal-cidade/frontend/src/app/painel/guia/empresas/page.tsx:116-118`
-- `portal-cidade/frontend/src/components/painel/EmpresaEditor.tsx:1040,1061,1078,1098,1127,1751-1752`
+- `portal-cidade/frontend/src/app/painel/guia/empresas/page.tsx:122-123`.
+- `portal-cidade/frontend/src/components/painel/EmpresaEditor.tsx:1041-1050,1062-1095,1100-1139,1752-1753`.
+- `portal-cidade/frontend/src/components/painel/SeletorDeLocal.tsx:141-153`.
 
 ## lacunas
 
-marcas do formulário acrescentadas em 2026-10-20 (`EmpresaEditor`, `SeletorDeLocal`, botão `+ Cadastrar Empresa`). Não verificado visualmente.
+Sem cadastro real. Os vídeos explicam a lista e os campos na edição; não demonstram todos os passos de criação.

@@ -1,6 +1,6 @@
 ---
 id: editorial-turismo-pontos
-titulo: "pontos turísticos: cadastro e categorias"
+titulo: "cadastrar um ponto turístico"
 publico:
   - administrador do portal
 modulo: Turismo
@@ -8,55 +8,62 @@ categoria: conteúdo
 aba: Pontos Turísticos
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - QrkL_nJEa-c
 ---
 
 ## objetivo
-aqui você cadastra e encontra os pontos turísticos da cidade, cada um com sua categoria. Ponto turístico não é evento nem roteiro: cada um tem tela própria.
+Cadastrar um ponto turístico com nome, localização, foto e horários. Há vídeo específico de cadastro: é o vídeo associado a este artigo.
 
 ## pré-requisitos/permissões
-Entrar no painel como administrador, com o módulo de turismo ativo no portal.
-
-## veja também
-- para achar um ponto e mudar as fotos dele, veja o artigo "trocar as fotos de um ponto turístico".
+Acesso de administrador ao módulo de Turismo.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Turístico / Eventos` e depois em `Pontos Turísticos`. [guia=menu:/painel/turismo/pontos] [t=7]
-2. Para cadastrar, clique no botão `+ Novo Ponto` no topo da página. [guia=pontos.novo] [t=15]
-3. Envie a foto principal, que é a capa do ponto, clicando em `Escolher foto`. Prefira uma imagem deitada (horizontal). [guia=pontos-novo.foto] [t=18]
-4. Em `Dados básicos`, escreva o `Nome *` do ponto. [guia=pontos-novo.nome] [t=26]
-5. Escolha a `Categoria` (ou crie uma nova ali mesmo). [guia=pontos-novo.categoria] [t=28]
-6. Escreva a `Descrição` do ponto. [guia=pontos-novo.descricao] [t=30]
-7. Se quiser, preencha as `Tags`: escreva palavras curtas e tecle Enter. Elas viram etiquetas na página do ponto. [guia=pontos-novo.descricao]
-8. Se quiser que o ponto apareça em evidência no portal, marque `Destaque`. [guia=pontos-novo.descricao]
-9. Marque `Ativo` para publicar o ponto e indique se a entrada é gratuita. [guia=pontos-novo.cadastrar]
-10. Na parte `Informações`, digite o `CEP`: o endereço é preenchido sozinho e a localização no mapa é descoberta automaticamente. [guia=campo-cep.cep] [t=47]
-11. Informe os horários de funcionamento de cada dia. Marque `Fechado` ou `24 horas` quando for o caso. [guia=pontos-novo.horarios] [t=57]
-12. Se quiser, preencha o bloco `Dicas para visitantes`, por exemplo o melhor horário e o que levar. [guia=pontos-novo.descricao]
-13. Se quiser, adicione mais fotos ou vídeos do YouTube na `Galeria de fotos e vídeos`. [guia=galeria.adicionar-fotos] [t=69]
-14. Se quiser, preencha o bloco `SEO`. Em branco, o sistema usa o nome e a descrição do ponto. [guia=pontos-novo.descricao]
-15. Clique em `Cadastrar ponto`. [guia=pontos-novo.cadastrar] [t=80]
+1. No menu lateral, dentro de `Guia Turístico / Eventos`, clique em `Pontos Turísticos`. [t=7] [guia=menu:/painel/turismo/pontos]
+2. No mesmo grupo do menu lateral, clique em `Novo Ponto`. [t=15] [guia=menu:/painel/turismo/pontos/novo]
+3. Em `Foto principal`, clique em `Escolher foto` para selecionar a capa. [t=18] [guia=pontos-novo.foto]
+4. Em `Dados básicos`, preencha `Nome *`. [t=25] [guia=pontos-novo.nome]
+5. Se quiser, escolha a `Categoria`. [t=28] [guia=pontos-novo.categoria]
+6. Preencha `Descrição`, se houver. [t=30] [guia=pontos-novo.descricao]
+7. Se quiser etiquetas, digite uma palavra em `Tags`. [t=35] [guia=pontos-novo.tags]
+8. Pressione Enter para adicionar a palavra digitada. [t=38] [guia=pontos-novo.tags]
+9. Se quiser dar evidência ao ponto, marque `Destaque`. [t=40] [guia=pontos-novo.destaque]
+10. Confira se `Ativo` está marcado para permitir a publicação. [t=45] [guia=pontos-novo.ativo]
+11. Ajuste `Entrada gratuita` conforme o local. [t=47] [guia=pontos-novo.entrada_gratuita]
+12. Se desmarcou a gratuidade, preencha `Preço da entrada`. [guia=pontos-novo.preco]
+13. Se quiser um resumo dos horários, preencha `Horário (texto livre)`. [guia=pontos-novo.horario-texto]
+14. Em `Informações`, informe o `CEP`, se souber. [t=50] [guia=campo-cep.cep]
+15. Confira ou escolha a `Cidade`. [guia=local:cidade]
+16. Confira ou escolha o `Bairro`, se houver. [guia=local.bairro]
+17. Complete `📍 Endereço completo` com o endereço do ponto. [guia=pontos-novo.endereco]
+18. Em `Horários de funcionamento`, preencha a hora de abertura de cada dia de expediente. [t=57] [guia=pontos-novo.horarios]
+19. Preencha a hora de fechamento dos mesmos dias. [t=57] [guia=pontos-novo.horarios]
+20. Nos dias sem funcionamento, marque `Fechado`. [t=59] [guia=pontos-novo.horarios]
+21. Nos dias de funcionamento contínuo, marque `24 horas`. [t=59] [guia=pontos-novo.horarios]
+22. Se quiser outras fotos, clique em `+ Adicionar fotos`, na `Galeria de fotos e vídeos`. [t=69] [guia=galeria.adicionar-fotos]
+23. Se quiser, preencha `Título SEO`, o título para buscadores. [guia=pontos-novo.seo-titulo]
+24. Se quiser, preencha `Descrição SEO`, o resumo para buscadores. [guia=pontos-novo.seo-descricao]
+25. Clique em `Cadastrar ponto`. [t=80] [guia=pontos-novo.cadastrar]
 
 ## resultado
-A listagem mostra nome, categoria, cidade e status. Um ponto pode ter imagens e a galeria deve ser gerenciada pela tela correspondente, não por nomes de arquivo improvisados.
+O ponto é criado antes do envio da galeria, dicas e horários. Se esses complementos falharem, o sistema informa a falha e abre a edição do ponto já criado; não repita o cadastro. A leitura pública exige que o ponto esteja ativo.
 
 ## desvios
-- Um ponto não é um evento nem um roteiro; cada tipo tem sua própria tela.
-- Se a categoria não estiver disponível, confira a tela de categorias de Turismo. Não substitua catálogo por texto livre quando o seletor pedir uma opção.
-- Não exclua como tentativa de corrigir falha de exibição: exclusão é irreversível na interface.
-
-## quando pedir ajuda
-peça ajuda se o local ou categoria esperados não aparecerem, se a imagem não for exibida ou se a listagem mostrar erro. Informe a rota e a mensagem, sem compartilhar dados pessoais.
+- A foto principal fica separada da galeria. A tela recomenda JPG, PNG ou WebP em 1200×800px.
+- O CEP pode ajudar a preencher a localização; confira os dados. Não é garantia de encontrar todo endereço ou posicionar todo local corretamente.
+- Para recomendações específicas, veja [adicionar dicas a um ponto turístico](turismo-pontos-dicas.md). Na criação, elas também podem ser incluídas no bloco `Dicas para visitantes` antes do cadastro.
+- Para vídeo na galeria, veja [colocar um vídeo do YouTube na galeria](video-na-galeria.md).
+- As dicas gerais da página inicial têm [outro cadastro](turismo-dicas.md).
 
 ## fontes
-- `portal-cidade/frontend/src/app/painel/turismo/pontos/page.tsx:51` — cabeçalho e ações de navegação.
-- `portal-cidade/frontend/src/app/painel/turismo/pontos/page.tsx:76` — busca.
-- `portal-cidade/frontend/src/app/painel/turismo/pontos/page.tsx:107` — colunas da listagem.
-- `docs/PRODUCT.md:41` — recursos de Turismo.
+- Código b2f62d3f: `frontend/src/components/painel/Sidebar.tsx:181` — grupo; `:183` — pontos; `:184` — Novo Ponto.
+- `frontend/src/app/painel/turismo/pontos/page.tsx:74` — botão.
+- `frontend/src/app/painel/turismo/pontos/novo/page.tsx:209` — criação e complementos; `:290` — capa; `:304` — dados; `:350` — localização; `:386` — horários; `:522` — cadastrar.
+- `backend/turismo/views_public.py:225` — ponto ativo do portal.
+- `videos/legendas/QrkL_nJEa-c.srt` — cadastro, 7 a 85 segundos.
 
 ## lacunas
-não verificado visualmente. O formulário detalhado e a exibição pública do ponto não foram cobertos por uma sessão de execução.
+Sem navegador ou upload real. A existência da tentativa de preenchimento do endereço não prova disponibilidade do serviço externo nem a qualidade do mapa. As marcas propostas ainda não existem.

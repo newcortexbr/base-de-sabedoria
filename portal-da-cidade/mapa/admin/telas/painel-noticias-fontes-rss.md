@@ -1,17 +1,19 @@
 # /painel/noticias/fontes-rss — fontes RSS (`.../fontes-rss/page.tsx`)
 - gate: módulo `noticias` (prefixo `/painel/noticias`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
+- menu: parte Conteúdo, grupo `Notícias Automáticas` > `Fontes de RSS` (`Sidebar.tsx:116-121`; é um grupo separado de `Notícias`). título `Notícias Automáticas — Fontes de RSS`; botão `+ Cadastrar RSS`; busca `Buscar por título ou URL...`.
+- tabela: Título, Origem, Última Atualização, Status, Ações.
 - faz: lista de fontes RSS com última atualização ("Nunca atualizado", :36) e status.
 - ações: ativar/desativar (:130), excluir (:149), ir para cadastrar/editar; revalida o site (:137).
 - APIs: `noticias.fontesRss.listar|atualizar|excluir`.
-- estados: "Erro ao carregar fontes de RSS: …" (:99); vazio "Nenhuma fonte de RSS cadastrada" (:209).
+- estados: "Erro ao carregar fontes de RSS: …" (:99); vazio "Nenhuma fonte de RSS cadastrada." (:213).
 - admin vs cliente: o cliente não tem RSS. Sem equivalente.
 
 ## o que você vê
 Lista de sites de onde o portal puxa notícias automaticamente (fontes de RSS).
-- Título: nome da fonte; Origem: Própria (você cadastrou) ou Plataforma (vem pronta do sistema).
-- Status: clique para ligar ou desligar; desligada, a fonte não traz nada.
-- Última Atualização: quando a fonte trouxe notícias pela última vez ("Nunca atualizado" se ainda não trouxe).
+- `Título`: nome da fonte; `Origem`: `Própria` (você cadastrou) ou `Plataforma` (vem pronta do sistema).
+- `Status`: clique para ligar ou desligar; desligada, a fonte não traz nada.
+- `Última Atualização`: quando a fonte trouxe notícias pela última vez ("Nunca atualizado" se ainda não trouxe).
 - lápis: edita. Nas fontes da Plataforma só dá para configurar, não trocar título e endereço.
 - lixeira: apaga, só nas fontes Próprias; as da Plataforma se desliga pelo Status.
 

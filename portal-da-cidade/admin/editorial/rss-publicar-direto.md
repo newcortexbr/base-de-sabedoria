@@ -8,44 +8,47 @@ categoria: conteúdo
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - r5rFCgAV0mg
 ---
 
 ## objetivo
-aqui você escolhe se as notícias de uma fonte vão ao ar sozinhas ou entram como rascunho.
+
+Aqui você escolhe se as próximas notícias importadas por uma fonte entram publicadas ou como rascunho para revisão.
 
 ## pré-requisitos
 
-- Ter acesso de administrador ao painel do portal.
+- Entrar no painel como administrador.
+- Ter a fonte cadastrada.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Notícias Automáticas` e depois em `Fontes de RSS`. [guia=menu:/painel/noticias/fontes-rss]
-2. Para escolher se as notícias de uma fonte vão ao ar sozinhas, clique no lápis na linha da fonte que você quer. [guia=fontes-rss.editar]
-3. Na mesma edição, escolha a quantidade de notícias que entram por vez. Depois marque `Publicar direto no site` para as notícias irem ao ar sozinhas. Desmarcado, elas entram como rascunho para você revisar. [guia=fontes-rss-cadastrar.publicar-direto]
+1. Na seção `Conteúdo` do menu lateral, em `Notícias Automáticas`, clique em `Fontes de RSS`. [t=9] [guia=menu:/painel/noticias/fontes-rss]
+2. Na linha da fonte, clique no lápis `Editar`; em fonte da plataforma, o aviso do lápis é `Configurar (título e URL são da plataforma)`. [t=75] [guia=fontes-rss.editar]
+3. Ajuste `Publicar direto no site`: marcado recebe notícias publicadas; desmarcado recebe rascunhos. [t=83] [guia=fontes-rss-cadastrar.publicar-direto]
 4. Clique em `Salvar`. [guia=fontes-rss-cadastrar.enviar]
 
 ## resultado
-A fonte passa a seguir a escolha feita.
+
+As próximas importações seguem a escolha. A opção não é o liga/desliga da fonte: `Status *` é um controle separado.
 
 ## desvios
 
-- Fonte desativada para de trazer notícias.
-- Se a verificação do endereço falhar, confira o link do RSS.
-
-## quando pedir ajuda
-
-peça ajuda se a página não carregar, se o salvamento der erro ou se a opção esperada não aparecer.
+- Fonte `Desligada` não importa, mesmo com publicação direta marcada.
+- Salvar uma fonte ligada solicita uma rodada; ela pode publicar notícias nessa ocasião se houver material novo.
+- Não é necessário alterar a quantidade para mudar a publicação direta.
+- Para rever título, endereço ou quantidade, veja “editar endereço e quantidade de uma fonte de RSS”.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/noticias/fontes-rss/`
-- `suporte-kb/mapa/admin/telas/painel-noticias-fontes-rss.md`
+- `frontend/src/app/painel/noticias/fontes-rss/page.tsx:282` — lápis e aviso por origem.
+- `frontend/src/components/painel/FonteRssForm.tsx:376` — checkbox.
+- `frontend/src/components/painel/FonteRssForm.tsx:141` — envio dos controles separados.
+- `backend/noticias/api_admin.py:1440` — rodada ao salvar.
+- Vídeo `r5rFCgAV0mg`, legenda em 75s–91s.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os textos dos botões podem mudar.
-- revisão 2026-10-19: o formulário não tem mais campo de categoria (o artigo antigo citava). A conferência do endereço é automática ao sair do campo, não há botão de verificar. O catálogo adiciona direto pelo botão `Adicionar`, não preenche o formulário.
+Não executada importação. Não se afirma que mudar essa opção altere notícias importadas anteriormente.

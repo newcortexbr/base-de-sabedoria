@@ -8,42 +8,47 @@ categoria: notícias
 aba: Notícias
 tipo_problema: publicacao
 status: rascunho-documental
-revisado_em: 2026-10-22
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
+videos:
+  - gAa2NdnitZU
 ---
 
 ## objetivo
 
-aqui você coloca uma notícia no ar com o mínimo de campos.
+Aqui você publica uma notícia pelo caminho mais curto, preenchendo o título e o texto.
 
 ## pré-requisitos
 
-- Ter acesso de administrador ao painel do portal.
+- Entrar no painel como administrador.
 
 ## passos
 
-1. No menu da esquerda, clique em `Notícias` e depois em `Cadastrar Notícia` (o primeiro item). [guia=menu:/painel/noticias/cadastrar]
-2. Escreva o `Título *`. [guia=noticias-cadastrar.titulo]
-3. Escreva o texto em `Conteúdo da matéria *`. [guia=noticias-cadastrar.conteudo]
-4. Em `Status`, escolha `Publicado`. Sem isso a notícia fica como `Rascunho`, guardada e fora do site. [guia=noticias-cadastrar.status]
-5. Clique em `Adicionar`. [guia=noticias-cadastrar.salvar]
+1. Na seção `Conteúdo` do menu lateral, em `Notícias`, clique em `Cadastrar Notícia`. [t=49] [guia=menu:/painel/noticias/cadastrar]
+2. Preencha `Título *`. [t=52] [guia=noticias-cadastrar.titulo]
+3. Escreva o texto em `Conteúdo da matéria *`. [t=62] [guia=noticias-cadastrar.conteudo]
+4. Em `Status`, escolha `Publicado`. [t=92] [guia=noticias-cadastrar.status]
+5. Clique em `Adicionar`. [t=98] [guia=noticias-cadastrar.salvar]
 
 ## resultado
 
-a notícia entra no ar. Tudo que não tem asterisco é opcional: subtítulo, categoria, foto de capa, tags e destaque podem ficar para depois.
+A tela mostra `Notícia cadastrada` e volta para a lista. No cadastro novo, com `Publicado` e sem agendamento, a data de publicação é definida para agora.
 
 ## desvios
 
-- notícia sem categoria e sem foto aparece pior nas listas do site; vale preencher quando der (veja "publicar e acompanhar notícias").
-- o rascunho é salvo sozinho enquanto você escreve.
+- O formulário novo começa em `Rascunho`; deixar esse status não publica a notícia.
+- Categoria e capa podem ser acrescentadas depois.
+- Não conte com salvamento automático antes do primeiro cadastro: o formulário novo ainda não tem uma notícia gravada.
 
 ## fontes
 
-- `portal-cidade/frontend/src/components/painel/Sidebar.tsx:101`
-- `portal-cidade/frontend/src/components/painel/noticias/NoticiaFormBase.tsx:205`
-- `portal-cidade/frontend/src/components/painel/noticias/NoticiaFormBase.tsx:424`
-- `portal-cidade/backend/noticias/models.py:671`
+- `frontend/src/components/painel/Sidebar.tsx:104` — caminho direto.
+- `frontend/src/components/painel/noticias/NoticiaFormBase.tsx:219` — status inicial.
+- `frontend/src/components/painel/noticias/NoticiaFormBase.tsx:338` — salvamento automático exige registro existente.
+- `frontend/src/components/painel/noticias/NoticiaFormBase.tsx:626` — botão Adicionar/Salvar.
+- `backend/noticias/models.py:675` — título e conteúdo; categoria e capa opcionais.
+- Vídeo `gAa2NdnitZU`, legenda em 49s–101s.
 
 ## lacunas
 
-não verificado visualmente. O texto exato do botão (`Adicionar`) vem do artigo "publicar e acompanhar notícias" e não foi reconferido no código. Que `Conteúdo da matéria *` é exigido pelo servidor não foi confirmado; o `*` está no rótulo. O salvamento automático foi inferido de `autosave` no formulário.
+Não executado no navegador. A presença de texto útil no editor e a resposta real de validação não foram testadas.

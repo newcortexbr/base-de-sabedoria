@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - TgIUmqrRuBY
@@ -23,30 +23,34 @@ aqui você ajusta taxa, tempo, forma de pagamento e áreas de entrega do deliver
 
 - Ter acesso administrativo ao portal.
 - O módulo Guia Comercial estar disponível no portal.
+- A empresa ter ficha completa; a cortesia do portal também atende a essa condição.
 - A categoria da empresa ter `Delivery` marcado em `Gerenciar Categorias`.
 
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas]
-2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar]
-3. Desça até `Conteúdo da ficha` e, no cartão `Configurações do delivery`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-config-delivery] [t=9]
-4. Em `Status`, ligue a chave `Delivery ativo (página pública visível)`. Desligado, a página de pedidos sai do ar. [guia=delivery-configuracoes.ativo] [t=65]
-5. Em `Entrega`, preencha a `Taxa de entrega (R$)` (0 = grátis). [guia=delivery-configuracoes.taxa] [t=73]
-6. Preencha o `Pedido mínimo (R$)`. [guia=delivery-configuracoes.pedido-minimo] [t=76]
-7. Preencha o `Tempo mínimo (min)`. [guia=delivery-configuracoes.tempo-minimo] [t=78]
-8. Preencha o `Tempo máximo (min)`. [guia=delivery-configuracoes.tempo-maximo] [t=80]
-9. Preencha o `Raio de entrega (km)`. [guia=delivery-configuracoes.raio] [t=83]
-10. Em `Formas de Pagamento`, ligue as que a loja aceita: `Dinheiro (troco na entrega)`, `Cartão na entrega` ou `PIX`. [guia=delivery-configuracoes.pagamentos] [t=85]
-11. Com `PIX` ligado, preencha a `Chave PIX` da loja. [guia=delivery-configuracoes.chave-pix] [t=93]
-12. Em `Áreas de Atendimento`, escolha a `Cidade`. [guia=delivery-configuracoes.area-cidade] [t=104]
-13. Escolha a `Cobertura`: `Município todo` ou `Bairros específicos`. [guia=delivery-configuracoes.area-cobertura] [t=107]
-14. Clique em `Adicionar área`. Repita para cada área. [guia=delivery-configuracoes.adicionar-area] [t=109]
-15. Em `Mensagem de Boas-Vindas`, escreva um recado curto para o topo da loja. [guia=delivery-configuracoes.boas-vindas] [t=111]
-16. Clique em `Salvar configurações`. [guia=delivery-configuracoes.salvar] [t=120]
+2. Na linha da empresa, clique no lápis (`Editar`). [guia=guia-empresas.editar]
+3. Em `Conteúdo da ficha`, clique em `Gerenciar` no cartão `Configurações do delivery`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-config-delivery] [t=9]
+4. Ligue `Delivery ativo (página pública visível)`. A mudança vale ao salvar as configurações. [guia=delivery-configuracoes.ativo] [t=68]
+5. Preencha `Taxa de entrega (R$)`; zero indica entrega grátis. [guia=delivery-configuracoes.taxa] [t=74]
+6. Preencha `Pedido mínimo (R$)`. [guia=delivery-configuracoes.pedido-minimo] [t=77]
+7. Preencha `Tempo mínimo (min)`. [guia=delivery-configuracoes.tempo-minimo] [t=81]
+8. Preencha `Tempo máximo (min)`. [guia=delivery-configuracoes.tempo-maximo] [t=81]
+9. Preencha `Raio de entrega (km)`. [guia=delivery-configuracoes.raio] [t=86]
+10. Ajuste `Dinheiro (troco na entrega)`, conforme o que a loja aceita. [guia=delivery-configuracoes.dinheiro] [t=89]
+11. Ajuste `Cartão na entrega`, conforme o que a loja aceita. [guia=delivery-configuracoes.cartao] [t=92]
+12. Ajuste `PIX`, conforme o que a loja aceita. [guia=delivery-configuracoes.pix] [t=94]
+13. Se ligou `PIX`, preencha `Chave PIX`. [guia=delivery-configuracoes.chave-pix] [t=96]
+14. Em `Áreas de Atendimento`, escolha a `Cidade` da nova área. [guia=delivery-configuracoes.area-cidade] [t=107]
+15. Escolha `Município todo` ou `Bairros específicos` em `Cobertura`. [guia=delivery-configuracoes.area-cobertura] [t=109]
+16. Se escolheu `Bairros específicos`, selecione os `Bairros atendidos`. [guia=delivery-configuracoes.area-bairros] [t=110]
+17. Clique em `Adicionar área`. Repita os passos da nova área se atender outras cidades. [guia=delivery-configuracoes.adicionar-area] [t=113]
+18. Preencha `Mensagem de Boas-Vindas`, se quiser. [guia=delivery-configuracoes.boas-vindas] [t=115]
+19. Clique em `Salvar configurações`. [guia=delivery-configuracoes.salvar] [t=123]
 
 ## resultado
 
-na loja, o cliente vê a taxa de entrega, o tempo mínimo e máximo de entrega, o aviso `Aberto agora` e a mensagem de boas-vindas, como você configurou.
+As configurações ficam salvas e o painel mostra `Configurações salvas`. As áreas são gravadas separadamente ao clicar em `Adicionar área`, com o aviso `Área cadastrada`.
 
 ## desvios
 
@@ -59,11 +63,9 @@ peça ajuda se a loja não abrir mesmo com `Delivery ativo` ligado ou se um paga
 
 ## fontes
 
-- `portal-cidade/frontend/src/components/painel/EmpresaEditor.tsx:933-946,1655-1686` — cartões de `Conteúdo da ficha`.
-- `portal-cidade/frontend/src/app/painel/delivery/configuracoes/page.tsx:1`
-- `portal-cidade/frontend/src/app/painel/delivery/pedidos/page.tsx:1`
-- vídeo `TgIUmqrRuBY`.
+- `portal-cidade/frontend/src/components/painel/EmpresaEditor.tsx:984,1735-1744`.
+- `portal-cidade/frontend/src/app/painel/delivery/configuracoes/page.tsx:167-176,199-210,232-314,430-509`.
 
 ## lacunas
 
-não verificado visualmente nesta tarefa; passos conferidos com o vídeo de suporte e com o código da tela. Rótulos `Ativar som`, `↻ Atualizar` e `Saiu para entrega` confirmados em `app/painel/delivery/pedidos/page.tsx`.
+Conferência documental no código b2f62d3f e nas legendas dos vídeos citados. Sem execução no navegador; não foram medidos cache, entrega de pedidos, impressão ou upload reais.

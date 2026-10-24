@@ -2,15 +2,19 @@
 
 Arquivos: `app/painel/aprovacoes/page.tsx`, `AprovacoesEDenuncias.tsx`, `AprovacoesClient.tsx`, `ConfigDaFila.tsx`, `abas.ts`
 
+## como chegar
+- na parte de cima do menu, clique em `Aprovações e Denúncias`. As duas abas são `Aprovações` e `Denúncias`.
+
 ## o que você vê
-Central para aprovar o que os clientes enviam antes de ir ao site e ver denúncias feitas por visitantes.
-- Exigir minha aprovação antes de publicar: ligado, o conteúdo novo dos clientes espera aprovação aqui.
-- Permitir que visitantes denunciem: mostra ou esconde a opção de denunciar no site.
-- aviso amarelo: alguma dessas opções está desligada.
-- aba Aprovações: itens esperando revisão; Ver detalhe mostra o conteúdo, Aprovar publica e Recusar pede um motivo.
-- Nada pendente no momento: não há nada esperando.
-- aba Denúncias: filtros de status (pendentes, resolvidas, ignoradas) e de seção (guia, vagas, classificados, eventos); cada linha abre a denúncia.
-- Carregar mais: mostra mais itens.
+Tela `Aprovações e Denúncias`. Central para aprovar o que os clientes enviam antes de ir ao site e ver denúncias feitas por visitantes.
+- bloco `Como funciona neste portal`, com duas caixas que salvam na hora:
+  - `Exigir minha aprovação antes de publicar`: ligado, o conteúdo novo dos clientes espera aprovação aqui (artigos são exceção e vão direto ao ar).
+  - `Permitir que visitantes denunciem conteúdo`: mostra ou esconde o botão `Denunciar` no site (empresa, vaga, classificado e evento).
+- aviso amarelo: alguma dessas opções está desligada (a aba ganha a marca `desligada`).
+- aba `Aprovações`: itens esperando revisão; `Ver detalhe` mostra o conteúdo, `Aprovar` publica e `Recusar` pede um motivo.
+- `Nada pendente no momento.`: não há nada esperando.
+- aba `Denúncias`: filtros `Status` (`Pendentes`, `Resolvidas`, `Ignoradas`) e `Módulo` (`Todos`, `Guia`, `Vagas`, `Classificados`, `Eventos`); cada linha abre a denúncia.
+- `Carregar mais`: mostra mais itens.
 
 ## rota e gate
 - `/painel/aprovacoes`, aba inicial via `?aba=denuncias` (`page.tsx:6-8`). server component que renderiza client.
@@ -22,8 +26,8 @@ Central para aprovar o que os clientes enviam antes de ir ao site e ver denúnci
 
 ## ações e campos
 - aprovações: lista paginada (20, "Carregar mais"), botões Ver detalhe, Recusar, Aprovar por item. detalhe em modal renderiza `campos` (html, texto, texto_longo), `imagens` e `links` vindos do backend. recusa abre modal com motivo obrigatório (`AprovacoesClient.tsx:171-189`).
-- denúncias: filtros Status (pendentes/resolvidas/ignoradas) e Módulo (guia/vagas/classificados/eventos); cada linha leva a `/painel/denuncias/<id>`.
-- config: dois interruptores com salvamento imediato e "Salvo!"; reverte o estado se o servidor recusar (`ConfigDaFila.tsx:69-72`); ao mexer em denúncias chama `revalidarLayout`.
+- denúncias: filtros Status (Pendentes/Resolvidas/Ignoradas) e Módulo (Todos/Guia/Vagas/Classificados/Eventos); cada linha leva a `/painel/denuncias/<id>`.
+- config: duas caixas com salvamento imediato e aviso "Salvo com sucesso"; reverte o estado se o servidor recusar (`ConfigDaFila.tsx:69-72`); ao mexer em denúncias chama `revalidarLayout`.
 
 ## apis (`lib/admin-api.ts`)
 - `adminApi.aprovacoes.listar/detalhe/aprovar/recusar` (`:2177-2194`), rotas `/painel/<slug>/aprovacoes/...`
@@ -40,7 +44,7 @@ Central para aprovar o que os clientes enviam antes de ir ao site e ver denúnci
 - fato: falha em `denuncias.contagem` é engolida (`AprovacoesEDenuncias.tsx:38`), sem aviso.
 - fato: depois que `aprovar` tem sucesso, o item sai da lista só no cliente; `total` decrementa mas a paginação (`pagina`) não se ajusta, pode pular itens em "Carregar mais" (hipótese).
 - fato: erro de "carregar mais" sobe para o topo da lista (`:94`), não para junto do botão.
-- fato: texto em `ConfigDaFila.tsx` diz que Artigos vão direto ao ar mesmo com a fila ligada; confirme com a regra do backend antes de repassar ao cliente.
+- o texto em `ConfigDaFila.tsx` diz que Artigos são exceção e vão direto ao ar mesmo com a fila ligada; regra do backend não verificada.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-aprovacoes.png](../prints/painel-aprovacoes.png) · dados brutos: [json](../prints/json/painel-aprovacoes.json)

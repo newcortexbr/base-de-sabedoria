@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-20
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - ufB3QTKfPsM
@@ -16,45 +16,53 @@ videos:
 
 ## objetivo
 
-aqui você cadastra a empresa que oferece vagas. Sem a empresa contratante cadastrada, não dá para publicar a vaga dela.
+Aqui você cadastra a empresa que oferece vagas. O login do responsável é opcional.
 
 ## pré-requisitos
 
-- Ter acesso administrativo ao portal.
+- Ter acesso de administrador ao painel do portal.
 
 ## passos
 
-1. No menu de `Vagas de Emprego`, clique em `Contratantes`. [guia=menu:/painel/vagas/contratantes] [t=96]
-2. Clique em `+ Criar Contratante`. [guia=contratantes.criar] [t=103]
-3. Preencha o `Nome` da empresa. [guia=contratante-form.nome] [t=104]
-4. Se quiser, preencha a descrição e envie o logo. [guia=contratante-form.nome]
-5. Preencha a localização. [guia=contratante-form.localizacao] [t=106]
-6. Preencha as redes sociais e o contato. [guia=contratante-form.localizacao]
-7. Em acesso do responsável, se a empresa vai cuidar das próprias vagas, preencha `Nome`, `E-mail de login *` e senha. Ao salvar, o portal envia os dados de acesso por e-mail. Se não quiser dar login, deixe em branco. [guia=contratante-form.criar]
-8. Clique em `Criar Contratante`. [guia=contratante-form.criar] [t=108]
+1. Na parte `Conteúdo` do menu, em `Vagas de Emprego`, clique em `Contratantes`. [t=97] [guia=menu:/painel/vagas/contratantes]
+2. Clique em `+ Criar Contratante`. [t=103] [guia=contratantes.criar]
+3. Preencha `Nome *`. [t=105] [guia=contratante-form.nome]
+4. Se quiser, preencha `Descrição`. [guia=contratante-form.descricao]
+5. Se quiser, envie a imagem em `Logo`. [t=105] [guia=contratante-form.logo]
+6. Se quiser, escolha `Cidade`. [t=105] [guia=local:cidade]
+7. Se quiser, preencha o contato público em `WhatsApp`. [guia=contratante-form.whatsapp]
+8. Se quiser, preencha o contato público em `E-mail`. [guia=contratante-form.email]
+9. Se quiser criar login, preencha `Nome do responsável *` em `Acesso do proprietário`. [guia=acesso-proprietario.nome]
+10. Se quiser criar login, preencha `E-mail de login *`. [guia=acesso-proprietario.email]
+11. Se quiser criar login, preencha `Senha *`. [guia=acesso-proprietario.senha]
+12. Clique em `Criar Contratante`. [guia=contratante-form.criar]
 
 ## resultado
 
-a empresa aparece na lista de contratantes e pode ser escolhida ao cadastrar uma vaga.
+O contratante é cadastrado. Se você pediu login, o portal tenta criá-lo depois do cadastro e mostra o resultado; confirme se o acesso ficou pronto.
 
 ## desvios
 
-- Em `Contratantes` aparece o selo de verificada e, na coluna `Proprietário`, o e-mail de login de cada empresa, ou `Sem acesso` quando não tem login.
-- o contratante **pode ter login, mas não é obrigatório**. Quem tem login entra em `/minha-conta/login`, na área do cliente, e cuida das vagas dele em `Vagas` (`/minha-conta/vagas`). Dá para criar o login depois, editando o contratante.
-- a rota exata do menu é `Vagas de Emprego` > `Contratantes` (`/painel/vagas/contratantes`).
-- Para publicar uma vaga, veja o artigo "cadastrar uma vaga".
+- Para cadastrar sem login, deixe vazios os campos de nome, e-mail e senha em `Acesso do proprietário`.
+- Se começar a preencher o acesso, complete os campos obrigatórios; o formulário bloqueia o salvamento se estiverem inválidos.
+- E-mail público de contato e e-mail de login são campos diferentes.
+- O cadastro pode estar salvo mesmo se a criação do acesso falhar. Não cadastre de novo; use a opção de acesso na edição.
+- A mensagem final informa se o e-mail de acesso foi enviado; salvar o cadastro não comprova entrega do e-mail.
 
 ## quando pedir ajuda
 
-peça ajuda se a empresa não aparecer na lista depois de criada.
+Peça ajuda se a tela não carregar ou se a ação mostrar erro. Informe a mensagem e a ação tentada, sem enviar senha.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/vagas/VagaForm.tsx` — formulário da vaga.
-- `portal-cidade/frontend/src/app/painel/vagas/areas/page.tsx` — áreas.
-- `portal-cidade/frontend/src/app/painel/vagas/contratantes/` — contratantes.
-- vídeo `ufB3QTKfPsM`.
+- Código do portal no HEAD `b2f62d3f`; base revisada a partir de `814f097`.
+- `frontend/src/app/painel/vagas/contratantes/cadastrar/page.tsx:87`.
+- `frontend/src/components/painel/AcessoDoProprietario.tsx:69`.
+- `frontend/src/components/painel/AcessoDoProprietario.tsx:279`.
+- Vídeo `ufB3QTKfPsM`: catálogo `portal-da-cidade/videos.json`, transcrição `videos/conteudo/ufB3QTKfPsM.md` e legenda `videos/legendas/ufB3QTKfPsM.srt`.
 
 ## lacunas
 
-não verificado visualmente; tempos tirados da legenda automática.
+Não houve validação no navegador nem execução do produto. As regras e os rótulos descritos foram conferidos por leitura do código. Tempos indicam o trecho da transcrição/legenda, não uma reprodução validada da interface atual.
+
+A criação do acesso do proprietário não é demonstrada no vídeo. Não há tempo atribuído ao que não foi demonstrado.

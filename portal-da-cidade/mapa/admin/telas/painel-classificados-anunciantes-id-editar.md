@@ -7,13 +7,17 @@
 - problemas: nenhum confirmado.
 - admin vs cliente: admin redefine senha do anunciante; cliente usa `/minha-conta/seguranca`.
 
+## como chegar
+- na parte Conteúdo do menu, abra `Classificados`, clique em `Anunciantes` e depois em `Editar` na linha do anunciante.
+
 ## o que você vê
 Tela para mudar os dados de um anunciante de classificados; os campos são os do cadastro.
-- Nome *, Descrição, Logo e Cor do logo: como o anunciante aparece no site.
-- Localização: cidade e bairro (escolha a cidade primeiro).
-- Redes sociais e contato: E-mail, WhatsApp, Site, Instagram, LinkedIn, YouTube.
-- Verificado: dá o selo de anunciante conferido.
-- Painel do proprietário: cria o acesso do responsável, envia nova senha por e-mail ou remove o acesso.
+- `Nome *`, `Descrição`, `Logo (deixe em branco para manter)` e `Cor do logo`: como o anunciante aparece no site.
+- bloco `Localização`: só a cidade (não há bairro).
+- bloco `Redes sociais e contato`: `LinkedIn`, `Instagram`, `Site`, `YouTube`, `WhatsApp` e `E-mail`.
+- caixa `Verificado`: dá o selo de anunciante conferido.
+- bloco `Acesso do proprietário`: `Criar acesso`, `Redefinir senha` (a nova senha vai por e-mail) ou `Remover acesso`.
+- botão `Salvar Alterações`.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-classificados-anunciantes-id-editar.png](../prints/painel-classificados-anunciantes-id-editar.png) · dados brutos: [json](../prints/json/painel-classificados-anunciantes-id-editar.json)

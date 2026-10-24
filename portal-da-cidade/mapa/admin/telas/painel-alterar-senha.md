@@ -2,6 +2,9 @@
 
 Arquivo: `portal-cidade/frontend/src/app/painel/alterar-senha/page.tsx`
 
+## como chegar
+- não há item no menu nem botão no painel que leve a esta tela; ela só abre pelo endereço direto, ou quando a conta sem portal é redirecionada. Para trocar a senha pelo menu, não há caminho: oriente a pedir suporte.
+
 ## rota e gate
 - `/painel/alterar-senha`. exige login; liberada também para `sem_portal` (`lib/painel-permissoes.ts:15`).
 
@@ -9,7 +12,7 @@ Arquivo: `portal-cidade/frontend/src/app/painel/alterar-senha/page.tsx`
 - o admin troca a própria senha.
 
 ## campos e ações
-- senha atual, nova senha, confirmar (`page.tsx:51-86`). botão "Alterar Senha".
+- campos `Senha atual`, `Nova senha` e `Confirmar nova senha` (`page.tsx:51-86`). botão `Alterar Senha`.
 - validação local: confirmação igual e tamanho mínimo `SENHA_MINIMA` (`:21-28`). texto de ajuda em `AJUDA_DA_SENHA`.
 - após sucesso limpa os campos e mostra "Senha alterada com sucesso." (`:33-36,89`).
 

@@ -10,13 +10,15 @@
 
 ## o que você vê
 Lista de todas as vagas de emprego do portal, para buscar, encerrar, editar, ver números ou apagar.
-- Buscar por cargo ou empresa, área e Status, depois Filtrar: encontram uma vaga.
+- para abrir: na parte Conteúdo do menu, em `Vagas de Emprego`, clique em `Listar Vagas`.
+- botões do topo: `Gerenciar Áreas` e `+ Nova Vaga`.
+- campo "Buscar por cargo ou empresa...", "Todas as áreas" e "Todos os status", depois `Filtrar`: encontram uma vaga.
 - Status: Ativa (aparece no site), Pausada (escondida por enquanto), Encerrada (vaga fechada), Pendente (esperando aprovação), Reprovada (não aprovada).
 - selos ⭐ Destaque (aparece com mais visibilidade) e ⚡ Urgente (marcada como contratação urgente).
 - Tipo: tipo de contrato (CLT, PJ / Autônomo, Estágio, Trainee, Temporário, Freelancer). Local: cidade e bairro da vaga.
 - WhatsApp: indica a vaga com contato por WhatsApp.
-- botão de encerrar / reativar: fecha a vaga ou volta a deixá-la ativa.
-- Editar abre a vaga; Insights mostra visualizações e prazos; lixeira apaga, com confirmação.
+- clicar no selo de Status da linha: Ativa vira Encerrada; qualquer outra (Pausada, Encerrada, Pendente, Reprovada) vira Ativa (Pendente e Reprovada pedem confirmação "Publicar").
+- `Editar` abre a vaga; `Insights` mostra visualizações e prazos; `Excluir` apaga, com confirmação.
 - vagas também saem do ar sozinhas quando passam da data de expiração.
 
 ## posições na tela (print de 2026-10-16, 1280x900)

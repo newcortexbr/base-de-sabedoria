@@ -13,9 +13,9 @@ Arquivos: `publicidade/nova/page.tsx`, `publicidade/EspelhoDaPagina.tsx`, `mapa-
 - paga e envia para aprovação.
 
 ## ações e campos
-- abas de página, posição, período (1 semana, 1 mês, 6 meses, 1 ano), upload da arte, link de destino (opcional), título (opcional), alternância celular/computador no espelho (`celular`).
+- passo 1 "Onde sua marca vai aparecer?": abas de página (grupo "Página do portal") e cartões de posição ("A partir de R$ …"); passo 2 "Por quanto tempo?": períodos que o portal oferece para a posição (rótulos possíveis: 1 semana, 1 mês, 6 meses, 1 ano; quais aparecem e o preço vêm dos planos do portal); passo 3 "Envie a arte": upload (PNG ou JPG), `Link de destino` (opcional) e `Nome interno do banner` (opcional); no resumo ("Seu pedido"), alternância `Computador` / `Celular` no espelho e a linha "Renovação: automática, você pode parar".
 - avisos: trocar de página descarta a arte; posição de outro tamanho também descarta (`page.tsx:129-149`).
-- botão para pagar (`handlePagar`); após criar, "Banner enviado" com instruções de pagamento e modal Pix/cartão; ao fechar, relê o banner (`:92-101`).
+- botão `Pagar e publicar` (vira "Gerando cobrança…" ao clicar; `handlePagar`); após criar, "Banner enviado" com instruções de pagamento e modal Pix/cartão; ao fechar, relê o banner (`:92-101`).
 - chave de idempotência gerada ao montar (`:82`).
 
 ## APIs
@@ -43,9 +43,9 @@ Arquivos: `publicidade/nova/page.tsx`, `publicidade/EspelhoDaPagina.tsx`, `mapa-
 
 ## o que você vê
 Compra de um banner em 3 passos na mesma tela.
-- 1. Onde aparece: escolha a página e a posição no site.
-- 2. Por quanto tempo: 1 semana, 1 mês, 6 meses ou 1 ano; o preço vem do portal.
-- 3. Arte: envie a imagem. Trocar de página ou de posição com outro tamanho descarta a arte.
-- Espelho: prévia da página com a sua arte no lugar, em celular ou computador.
-- Link de destino e título: opcionais.
-- Pagar: gera a cobrança (Pix ou cartão); depois o banner vai para aprovação do portal.
+- 1. Onde sua marca vai aparecer?: escolha a página e a posição no site.
+- 2. Por quanto tempo?: os períodos que o portal oferece para a posição (1 semana, 1 mês, 6 meses ou 1 ano, conforme o portal); o preço vem do portal.
+- 3. Envie a arte: envie a imagem (PNG ou JPG). Trocar de página ou de posição com outro tamanho descarta a arte.
+- Espelho: prévia da página com a sua arte no lugar; os botões `Computador` e `Celular` trocam a visão.
+- Link de destino e Nome interno do banner: opcionais.
+- Pagar e publicar: gera a cobrança (Pix ou cartão); depois o banner vai para aprovação do portal. A renovação é automática e dá para parar depois em `Parar renovação`.

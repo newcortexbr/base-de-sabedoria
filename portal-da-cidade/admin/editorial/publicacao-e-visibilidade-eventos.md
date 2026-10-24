@@ -3,48 +3,45 @@ id: publicacao-e-visibilidade-eventos
 titulo: "ver se um evento está no ar"
 publico:
   - administrador do portal
-  - jornalista
-  - colunista
-modulo: Notícias, Artigos, Turismo e Agenda de Eventos
+modulo: Agenda de Eventos
 categoria: conteúdo
-aba: não-se-aplica
+aba: Eventos
 tipo_problema: visibilidade
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
+videos:
+  - Hyh3UxHW_jU
 ---
 
 ## objetivo
-aqui você vê se um evento está no ar, encerrado ou inativo.
+Consultar a situação na agenda e verificar a página pública do evento.
 
 ## pré-requisitos/permissões
-Entrar no painel como administrador, ou na área do cliente se você for jornalista ou colunista.
+Acesso de administrador. Este caminho é do painel, não da área de jornalista ou colunista.
 
 ## passos
 
-1. Para eventos, no menu `Guia Turístico / Eventos`, clique em `Eventos`. [guia=menu:/painel/turismo/eventos]
-2. Na coluna `Status`, veja a situação. Quando houver, compare também a data de publicação ou de término. [guia=noticias.status-linha]
-3. Em eventos, `No ar` está aparecendo no site, `Encerrado` quer dizer que a data já passou e `Inativo` quer dizer que você tirou do ar. [guia=eventos.status-linha]
-4. Para ter certeza, abra o conteúdo no site do portal, como um visitante faria. [guia=fora]
+1. No menu lateral, dentro de `Guia Turístico / Eventos`, clique em `Eventos`. [t=48] [guia=menu:/painel/turismo/eventos]
+2. Leia a indicação de situação na linha do evento. [guia=eventos.status-linha]
+3. No menu lateral, clique em `Meus Links`. [guia=menu:/painel/meus-links]
+4. Na seção `Site público`, clique em `Abrir` na linha `Eventos`. [guia=meus-links.abrir-eventos]
+5. Na agenda pública, clique no título do evento que deseja conferir. [guia=eventos-publico.abrir]
 
 ## resultado
-Você sabe a situação do evento.
+O atalho de `Meus Links` abre a agenda pública em outra aba. Se o evento estiver indisponível para o visitante, confira a opção `Ativo`, a vigência e a liberação do fluxo de publicação. `No ar` depende de estar ativo, liberado e vigente. Se estiver ativo e o servidor não o considerar no ar, a lista exibe `Encerrado`; esse rótulo também pode esconder uma pendência de liberação.
 
 ## desvios
-- `Publicado` em Notícias pode estar agendado para o futuro.
-- Evento ativo pode estar encerrado pela data; inativo é outra condição.
-- A home pode ter blocos configurados para mostrar somente destaques e sumir quando não houver destaque.
-- Módulo desligado fica oculto, mas não apaga conteúdo.
-
-## quando pedir ajuda
-peça ajuda se o conteúdo estiver publicado, vigente e no módulo ativo, mas continuar ausente; informe módulo, rota e estado observado. Não altere configuração ou dados fora do seu papel.
+- `Inativo` na lista indica `Ativo` desmarcado; não informa quem desmarcou nem o motivo.
+- Sem data de término, vale a data do evento. O evento sai da leitura pública no dia seguinte ao fim, sem tolerância.
+- Para mudar datas, veja [editar um evento](eventos-editar.md). Para interpretar a lista, veja [ver a situação dos eventos](eventos-situacao.md).
 
 ## fontes
-- `portal-cidade/frontend/src/app/painel/noticias/page.tsx:12` — notícia agendada.
-- `portal-cidade/frontend/src/app/painel/blog/page.tsx:27` — estados dos artigos.
-- `portal-cidade/frontend/src/app/painel/turismo/eventos/page.tsx:41` — estado de eventos.
-- `docs/PRODUCT.md:48` — bloco da home somente com destaques.
-- `docs/PRODUCT.md:180` — desligar módulo oculta sem apagar.
+- Código b2f62d3f: `frontend/src/app/painel/turismo/eventos/page.tsx:52` — rótulo; `:909` — status; não há atalho público na linha. `frontend/src/app/painel/meus-links/links.ts:28` e `frontend/src/app/painel/meus-links/page.tsx:102` — agenda pública; `frontend/src/components/turismo/EventoCard.tsx:68` — título do evento.
+- `backend/turismo/serializers.py:608` — cálculo de no_ar no painel.
+- `backend/turismo/views_public.py:63` — condições de publicação; `:418` — detalhe público.
+- `backend/turismo/vigencia.py:17` — sem tolerância.
+- `videos/legendas/Hyh3UxHW_jU.srt` — menu em 48 segundos e página pública em 70 segundos.
 
 ## lacunas
-sem validação de navegador, ambiente ou conteúdo real. Visibilidade pública também depende de rotas, consultas e configuração por portal, não examinadas em runtime nesta tarefa.
+Sem navegador, não foi comprovada a disponibilidade de nenhum evento real nem sua posição na página inicial.

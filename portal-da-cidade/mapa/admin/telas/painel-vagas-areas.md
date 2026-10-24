@@ -10,9 +10,11 @@
 
 ## o que você vê
 Lista das áreas profissionais em que as vagas são separadas (ex.: Saúde, Vendas).
-- Nome *: o nome da área; Ícone e Cor: o desenho e a cor que aparecem no site.
-- Ativa: área desligada não aparece para escolher.
-- Editar muda a área; a lixeira apaga, com confirmação.
+- para abrir: na parte Conteúdo do menu, em `Vagas de Emprego`, clique em `Áreas de Vagas`.
+- `+ Nova Área` abre a janela "Nova Área"; `Editar` na linha abre "Editar Área".
+- na janela: Nome * (o nome da área), Ícone (com `limpar`) e Cor (o desenho e a cor que aparecem no site), caixa Ativa (área desligada não aparece para escolher), `Cancelar` e `Salvar`.
+- tabela com Área, Vagas (quantas vagas usam a área) e Status (Ativa/Inativa).
+- `Excluir` apaga, com confirmação; as vagas dela ficam sem área.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-vagas-areas.png](../prints/painel-vagas-areas.png) · dados brutos: [json](../prints/json/painel-vagas-areas.json)

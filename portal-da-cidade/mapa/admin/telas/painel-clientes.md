@@ -2,17 +2,19 @@
 
 Arquivos: `app/painel/clientes/page.tsx` (1001 linhas), `exportar.ts`
 
+## como chegar
+- na parte Comercial do menu, clique em `Meus Clientes`.
+
 ## o que você vê
 Carteira de clientes que compram planos do portal: quem é cliente, o que contratou e quando vence.
 - faixa amarela de contratações aguardando confirmação de pagamento: clientes que contrataram e ainda não pagaram; o link abre a ficha.
-- cartões de contagem: mostram quantos clientes há em cada situação; clicar filtra a lista. Receita mensal recorrente: quanto entra por mês com os planos.
-- Buscar clientes e Filtrar por status: acham por nome, documento ou telefone e por situação (Com plano, Em dia, Vence em 7 dias, Vence em 30 dias, Atrasado, Sem plano, Aguardando pagamento).
+- cartões de contagem `Vencidos`, `Vence em 7 dias`, `Vence em 30 dias` e `Sem plano`: clicar filtra a lista. Abaixo, `clientes no total` e `Receita mensal recorrente` (quanto entra por mês com os planos).
+- busca (`Buscar por nome, documento ou telefone…`, botão `Buscar`) e lista `Filtrar por status`: `Todos`, `Com plano`, `Em dia`, `Vence em 7 dias`, `Vence em 30 dias`, `Atrasado`, `Sem plano`, `Aguardando pagamento` e `Cancelado`. com filtro ligado aparece `Limpar filtros`.
 - colunas Cliente, WhatsApp, Planos, Contratado, Vencimento e Receita: quem é, contato, quantos planos tem, onde aparece, quando vence e quanto paga.
-- novo cliente / Editar cliente: cadastra nome, Pessoa física ou Pessoa jurídica, CPF/CNPJ, telefone, WhatsApp, e-mail e observações.
-- Nova senha: troca a senha de acesso do cliente.
-- bloquear / desbloquear: suspende o acesso sem apagar o cadastro. excluir apaga o cadastro e não pode ser desfeito.
-- exportar: baixa a lista em Excel, CSV ou PDF, ou todos os cadastros.
-- clicar no nome abre a ficha do cliente.
+- botão `Novo cliente` (janela `Novo cliente`; no lápis, `Editar cliente`): `Nome *`, `Nome fantasia`, `Tipo` (`Pessoa jurídica` ou `Pessoa física`), `CPF/CNPJ`, `Telefone`, `WhatsApp`, e-mail e `Observações`; `Salvar` grava. com a conta Asaas conectada, CPF/CNPJ e e-mail passam a ser obrigatórios.
+- ícones na última coluna (aparece o nome ao passar o mouse): `Resetar senha` (janela `Nova senha`, mínimo 6 caracteres, botão `Redefinir`), `Editar`, `Bloquear`/`Desbloquear` (suspende o acesso sem apagar o cadastro; pede confirmação) e `Excluir` (apaga o cadastro, não pode ser desfeito; pede confirmação).
+- botão `Exportar`: escolhe `Excel`, `CSV` ou `PDF` da lista na tela, ou `Todos os cadastros (CSV)`.
+- clicar no nome do cliente abre a ficha dele.
 
 ## rota e gate
 - `/painel/clientes`. client. gate `PainelGuard` (`app/painel/layout.tsx:38-96`): exige login; papel `admin` passa em tudo, `master` também, `sem_portal` só nas rotas de `SEM_PORTAL_ALLOWED` (`lib/painel-permissoes.ts:40`). sem gate de módulo (a rota não está em `MODULO_POR_PREFIXO_DE_ROTA`, `lib/painel-menu.ts`). menu: "Meus Clientes", seção Comercial (`components/painel/Sidebar.tsx:220`).
@@ -29,8 +31,8 @@ Carteira de clientes que compram planos do portal: quem é cliente, o que contra
 ## ações e campos
 - novo cliente / editar (`ModalCliente`, `:99`): nome*, nome fantasia, tipo (pf/pj), documento (CPF/CNPJ validado, `:124`), telefone, WhatsApp (validação `portais/telefone`), e-mail (obrigatório só quando a conta Asaas está cobrando, `:243-255`), observações.
 - resetar senha do cliente (`ModalResetSenha`, `:291`): nova senha, mínimo 6 caracteres (`:300`).
-- bloquear/desbloquear (`alternarBloqueio`, `:454`): PATCH `ativo`, com `confirm()` nativo. "o cadastro continua existindo, mas o acesso fica suspenso".
-- excluir (`excluirCliente`, `:469`): `confirm()` nativo, "não pode ser desfeita".
+- bloquear/desbloquear (`alternarBloqueio`, `:404`): PATCH `ativo`, com confirmação (`avisos.confirmar`). "o cadastro continua existindo, mas o acesso fica suspenso".
+- excluir (`excluirCliente`, `:420`): confirmação (`avisos.confirmar`), "não pode ser desfeita".
 - exportar (um botão com menu): Excel, CSV, PDF da lista como está na tela (`exportar`, `:491`), e "todos os cadastros" sem filtro (`exportarTodos`, `:512`, uso: marketing externo).
 - nome do cliente leva à ficha `/painel/clientes/[id]`.
 
@@ -51,7 +53,7 @@ Carteira de clientes que compram planos do portal: quem é cliente, o que contra
 ## possíveis problemas
 - fato: `asaas.obter()` falha em silêncio (`.catch(() => {})`, `:538`). o e-mail deixa de ser obrigatório sem aviso e o cliente pode ficar sem link de pagamento do Asaas.
 - fato: ao salvar o modal só recarrega lista e resumo (`:974`), não `loadPendentes`; faixa de pendentes pode ficar defasada até recarregar (efeito pequeno, hipótese de impacto).
-- fato: bloquear/excluir usam `confirm()` nativo; funciona, mas é diferente do resto do painel (hipótese: pode ser bloqueado por alguns navegadores embutidos).
+- nota: bloquear/excluir usam a janela de confirmação do painel (`avisos.confirmar`), não `confirm()` nativo.
 - fato: a exclusão do cliente não mostra o que será apagado (planos/faturas ativas); o efeito depende do backend (hipótese, não verifiquei).
 - fato: exportação "todos" traz dados de contato de todos os cadastros; sem registro/aviso de LGPD na tela (observação de privacidade).
 

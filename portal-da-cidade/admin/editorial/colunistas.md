@@ -12,42 +12,57 @@ tipo_problema:
   - quem escreve artigos
   - acesso do colunista
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
+videos:
+  - CRiUbh7wHdc
 ---
 
 ## objetivo
-aqui você cadastra as pessoas que escrevem os artigos do portal.
+
+Aqui você cadastra o perfil de quem assina artigos no portal. O perfil e o login da pessoa são cadastros distintos.
 
 ## pré-requisitos
 
-- Ter acesso de administrador ao painel.
+- Entrar no painel como administrador.
 
 ## passos
 
-1. No menu da esquerda, clique em `Artigos` e depois em `Colunistas`. [guia=menu:/painel/blog/colunistas]
-2. Clique em `+ Novo Colunista`. [guia=fora]
-3. Escreva o `Nome *` e o `Cargo ou especialidade`. [guia=fora]
-4. Se quiser, envie a foto e preencha os contatos públicos. [guia=fora]
-5. Clique em `Salvar`. [guia=fora]
+1. Na seção `Conteúdo` do menu lateral, em `Artigos`, clique em `Colunistas`. [t=50] [guia=menu:/painel/blog/colunistas]
+2. Clique em `+ Novo Colunista`. [t=57] [guia=colunistas.novo]
+3. Preencha `Nome *`. [t=59] [guia=colunistas.nome]
+4. Se quiser, envie a foto pelo seletor de arquivo no topo da janela. [t=59] [guia=colunistas.foto]
+5. Se quiser, escolha o `Ponto de foco da imagem` no seletor que aparece após enviar a foto. [guia=imagem.foco]
+6. Se quiser, preencha `Cargo ou especialidade`. [t=59] [guia=colunistas.cargo]
+7. Se quiser, preencha `Descrição breve`. [t=62] [guia=colunistas.descricao]
+8. Se quiser, preencha `Site`. [guia=colunistas.site]
+9. Se quiser, preencha `Instagram`, usando o nome de usuário sem @. [t=62] [guia=colunistas.instagram]
+10. Se quiser, preencha `Facebook`. [t=62] [guia=colunistas.facebook]
+11. Se quiser, preencha `LinkedIn`. [t=62] [guia=colunistas.linkedin]
+12. Se quiser, preencha `WhatsApp`. [guia=colunistas.whatsapp]
+13. Se quiser, preencha `E-mail público`. [guia=colunistas.email-publico]
+14. Confira se `Ativo` está marcado para manter o perfil ativo. [guia=colunistas.ativo]
+15. Clique em `Salvar`. [guia=colunistas.salvar]
 
 ## resultado
-o colunista entra na lista e pode assinar artigos.
+
+O perfil entra na lista e pode assinar artigos. Deixar `Acesso do proprietário (opcional)` em branco cadastra o perfil sem login.
 
 ## desvios
 
-- O botão na lista liga e desliga o colunista sem apagar.
-- Na lista, a `Origem` mostra se foi `Cadastrado pelo painel` ou `Autocadastro`.
-
-## quando pedir ajuda
-
-peça ajuda antes de excluir um colunista com artigos publicados.
+- Para criar o login, veja “criar e cuidar do acesso de um colunista”.
+- `E-mail público` é contato do perfil, não o e-mail de login.
+- Para corrigir o perfil, ativar, desativar ou excluir, veja “editar e controlar um colunista”.
+- Excluir um colunista também apaga seus artigos, inclusive publicados; não use exclusão para apenas desativar.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/blog/colunistas/page.tsx:203,328,492-559` — campos, botões e filtros.
-- `portal-cidade/frontend/src/components/painel/Sidebar.tsx:180`.
+- `frontend/src/app/painel/blog/colunistas/page.tsx:175` — janela de cadastro e campos.
+- `frontend/src/app/painel/blog/colunistas/page.tsx:306` — ativo e acesso opcional.
+- `frontend/src/app/painel/blog/colunistas/page.tsx:488` — Novo Colunista.
+- `frontend/src/app/painel/blog/colunistas/page.tsx:604` — aviso de exclusão.
+- Vídeo `CRiUbh7wHdc`, legenda em 50s–65s.
 
 ## lacunas
 
-tela não validada no navegador nesta tarefa. Não detalhei a criação de login do colunista.
+Não executado no navegador. O vídeo cita redes sociais em conjunto, sem identificar cada campo; tempos desses campos remetem a essa apresentação geral.

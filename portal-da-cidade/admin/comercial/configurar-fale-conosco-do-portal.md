@@ -8,19 +8,16 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: configuracao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - 8M4kdEfP7Eg
   - XekThBh1ygU
-  - He7XF-kolwk
-  - _YSN9di_ZOU
-  - vPnHq9kRWW8
-  - lrTaEV5JnVM
 ---
 
 ## objetivo
-aqui você preenche o e-mail, o telefone, o título e o texto curto que aparecem na página Fale Conosco.
+
+aqui você altera os contatos e o texto da página Fale Conosco.
 
 ## pré-requisitos
 
@@ -28,30 +25,27 @@ aqui você preenche o e-mail, o telefone, o título e o texto curto que aparecem
 
 ## passos
 
-1. No menu da esquerda, na parte `Sistema`, clique em `Configurações` e depois em `Configurações Gerais`. [guia=menu:/painel/configuracoes]
-2. No quadro `Página Fale Conosco`, preencha o `E-mail de contato`. [guia=configuracoes.email-contato]
-3. Preencha o `Telefone`. [guia=configuracoes.telefone-contato]
-4. Preencha o `Título da página` e o `Texto da página` (um texto curto para o visitante). [guia=menu:/painel/configuracoes]
-5. Clique em `Salvar Fale Conosco`. [guia=configuracoes.salvar-contato]
+1. Na parte `Sistema` do menu da esquerda, clique em `Configurações` para abrir as opções, se estiverem fechadas. [t=6] [guia=configuracoes.abrir-menu]
+2. Clique em `Configurações Gerais`. [t=9] [guia=menu:/painel/configuracoes]
+3. No quadro `Página Fale Conosco`, preencha `E-mail de contato`. [t=53] [guia=configuracoes.email-contato]
+4. Preencha `Telefone` com DDD. [t=53] [guia=configuracoes.telefone-contato]
+5. Preencha `Título da página` com até 120 caracteres. [t=53] [guia=configuracoes.titulo-contato]
+6. Preencha `Texto da página` com até 300 caracteres. [t=56] [guia=configuracoes.texto-contato]
+7. Clique em `Salvar Fale Conosco`. [t=56] [guia=configuracoes.salvar-contato]
 
 ## resultado
-Os contatos, o título e o texto ficam salvos e aparecem na página Fale Conosco, junto com as redes sociais do portal.
+
+aparece `Salvo com sucesso` e a atualização é enviada ao site. A página usa os campos preenchidos junto com o WhatsApp e as redes sociais.
 
 ## desvios
 
-os modelos disponíveis são definidos pelo produto; a tela permite escolher configurações, não criar um modelo visual novo. A aparência final pode depender de conteúdo e módulos existentes.
-
-## quando pedir ajuda
-
-peça ajuda se a página não carregar, se o salvamento apresentar erro ou se a opção esperada não estiver disponível. Não envie senhas nem chaves de integração.
+Telefone inválido impede salvar e mostra `Telefone:` seguido do motivo. WhatsApp e perfis sociais são alterados no quadro `Redes Sociais`, descrito em “configurar as redes sociais do portal”.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/configuracoes/page.tsx:26-40,72-95`
-- `portal-cidade/frontend/src/app/painel/configuracoes/layout/page.tsx:13-29,31-36,59-60,84-86`
-- `portal-cidade/docs/PRODUCT.md:82-93`
-- `portal-cidade/docs/DECISIONS.md:14-21`
+- `portal-cidade/frontend/src/app/painel/configuracoes/page.tsx:195` — envio e validação.
+- `portal-cidade/frontend/src/app/painel/configuracoes/page.tsx:722` — campos, limites e botão.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os campos e ações de cada subpágina podem mudar.
+Sem validação no navegador ou medição do tempo de atualização pública. O uso do e-mail como endereço de resposta em cada tipo de mensagem não foi verificado.

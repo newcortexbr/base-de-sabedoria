@@ -8,14 +8,15 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - 1a0wZmdXDLk
 ---
 
 ## objetivo
-aqui você abre um relato e lê tudo: texto, fotos, vídeo, áudio e contato do morador.
+
+Abra o relato completo de um morador e veja os anexos e o contato, quando fornecidos.
 
 ## pré-requisitos
 
@@ -23,28 +24,26 @@ aqui você abre um relato e lê tudo: texto, fotos, vídeo, áudio e contato do 
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `A Voz do Povo` e depois em `Denúncias`. A lista já abre com os relatos em aberto. [guia=menu:/painel/utilidade/denuncias]
-2. Clique em `Ver detalhes` na linha do relato. [guia=utilidade-denuncias.detalhes]
-3. Leia o relato completo e veja o local, a data e a hora do ocorrido, as fotos, o vídeo, o áudio e o contato do morador. [guia=utilidade-denuncias.detalhes]
-4. Se quiser, mude a situação do relato nessa mesma tela. [guia=utilidade-denuncias.detalhes]
+1. Na parte `Conteúdo` do menu, em `A Voz do Povo`, clique em `Denúncias`. [t=53] [guia=menu:/painel/utilidade/denuncias]
+2. Clique em `Ver detalhes` no relato. [t=72] [guia=utilidade-denuncias.detalhes]
+3. Leia o relato e os dados disponíveis no detalhe.  [t=72] [guia=utilidade-denuncia.conteudo]
 
 ## resultado
-Você vê o relato completo.
 
-## desvios
+O detalhe mostra o local, o ocorrido, o texto e os anexos existentes. O contato só aparece se foi informado.
 
-- Esta tela é diferente de `Aprovações e Denúncias`, que trata de conteúdo de empresas, vagas e eventos.
-- A lista mostra só a primeira página de relatos.
+## mudar a situação pelo detalhe
 
-## quando pedir ajuda
+1. No seletor `Status`, escolha a situação desejada.  [t=81] [guia=utilidade-denuncia.status]
 
-peça ajuda se a página não carregar, se o salvamento der erro ou se a opção esperada não aparecer.
+O detalhe usa um seletor; os botões rápidos ficam na lista de relatos.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/utilidade/denuncias/`
-- `suporte-kb/mapa/admin/telas/painel-utilidade-denuncias.md`, `painel-utilidade-denuncias-id.md`
+- `frontend/src/app/painel/utilidade/denuncias/[id]/page.tsx:112`
+
+- Catálogo: `portal-da-cidade/videos.json`; legendas: `videos/legendas/1a0wZmdXDLk.srt`.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os textos dos botões podem mudar.
+- Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.

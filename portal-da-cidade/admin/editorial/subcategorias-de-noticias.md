@@ -11,42 +11,44 @@ tipo_problema:
   - criar subcategoria
   - assunto dentro da categoria
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
+videos:
+  - gAa2NdnitZU
 ---
 
 ## objetivo
-aqui você cria assuntos menores dentro de uma categoria de notícia, por exemplo Futebol dentro de Esportes.
+
+Aqui você cria um assunto dentro de uma categoria de notícias, como Futebol dentro de Esportes.
 
 ## pré-requisitos
 
-- Ter acesso de administrador ao painel.
+- Entrar no painel como administrador.
 - Ter a categoria criada.
 
 ## passos
 
-1. No menu da esquerda, clique em `Notícias` e depois em `Gerenciar Subcategorias`. [guia=menu:/painel/noticias/subcategorias]
-2. Clique em `+ Cadastrar Subcategoria`. [guia=fora]
-3. Escreva o nome da subcategoria. [guia=fora]
-4. Em `Categoria *`, escolha a categoria a que ela pertence. [guia=fora]
-5. Clique em `Salvar`. [guia=fora]
+1. Na seção `Conteúdo` do menu lateral, em `Notícias`, clique em `Gerenciar Subcategorias`. [t=150] [guia=menu:/painel/noticias/subcategorias]
+2. Clique em `+ Cadastrar Subcategoria`. [guia=noticias-subcategorias.cadastrar]
+3. Em `Categoria *`, escolha a categoria. [guia=noticias-subcategorias.categoria]
+4. Preencha `Nome *`. [guia=noticias-subcategorias.nome]
+5. Clique em `Salvar`. [guia=noticias-subcategorias.salvar]
 
 ## resultado
-a subcategoria entra na lista, ligada à categoria.
+
+A tela mostra `Subcategoria salva` e atualiza a lista.
 
 ## desvios
 
-- Clique em `Ativo` na linha para ligar ou desligar.
-- Use o filtro de categoria para ver só as subcategorias de uma categoria.
-
-## quando pedir ajuda
-
-peça ajuda se aparecer erro de nome repetido.
+Para mudar nome ou categoria, pausar ou excluir, veja “editar, pausar ou excluir subcategorias de notícias”. O filtro `Todas as categorias` reduz a lista à categoria escolhida.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/noticias/subcategorias/page.tsx` — botões, campos e estados.
+- `frontend/src/components/painel/Sidebar.tsx:107` — menu.
+- `frontend/src/app/painel/noticias/subcategorias/page.tsx:47` — envio do nome e categoria.
+- `frontend/src/app/painel/noticias/subcategorias/page.tsx:85` — ordem dos campos.
+- Vídeo `gAa2NdnitZU`, legenda em 150s–155s: função das subcategorias.
 
 ## lacunas
 
-tela não validada no navegador nesta tarefa.
+Não executado no navegador. O vídeo cita subcategorias, sem detalhar o formulário.

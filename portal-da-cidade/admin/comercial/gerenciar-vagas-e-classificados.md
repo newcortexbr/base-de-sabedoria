@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - ufB3QTKfPsM
@@ -16,45 +16,44 @@ videos:
 
 ## objetivo
 
-aqui você acha, muda e apaga as vagas de emprego do portal. Anúncios de classificados têm outro artigo.
+Aqui você encontra as vagas de emprego e abre a edição. Para mudar o preço cobrado por anúncio de vaga, use `Meus Planos`, na parte `Comercial`, e a seção `Vagas de Emprego`.
 
 ## pré-requisitos
 
-- Ter acesso administrativo ao portal.
-- O módulo correspondente estar ativo.
-
-## veja também
-- para apagar uma vaga, veja o artigo "excluir uma vaga de emprego".
+- Ter acesso de administrador ao painel do portal.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Vagas de Emprego` e depois em `Listar Vagas`. [guia=menu:/painel/vagas] [t=4]
-2. No topo da lista de vagas, escreva o cargo no campo de busca. o total de vagas aparece logo abaixo do título, e cada linha mostra cargo, empresa, área, local, tipo de contrato, cliques no WhatsApp e status. [guia=vagas.busca] [t=31]
-3. Se quiser, escolha a área e a situação da vaga. [guia=vagas.situacao] [t=34]
-4. Clique em `Filtrar`. [guia=vagas.filtrar] [t=36]
-5. Para mudar uma vaga, clique em `Editar` na linha da vaga que você quer. [guia=vagas.editar] [t=42]
-6. Para encerrar ou reativar a vaga com um clique, use a pílula de status da linha. ao lado ficam também as ações `insights`, `editar` e `excluir`. [guia=vagas.situacao]
+1. Na parte `Conteúdo` do menu, em `Vagas de Emprego`, clique em `Listar Vagas`. [t=18] [guia=menu:/painel/vagas]
+2. Digite o cargo ou a empresa em `Buscar por cargo ou empresa...`. [t=34] [guia=vagas.busca]
+3. Se quiser, escolha a `Área`. [t=34] [guia=vagas.area]
+4. Se quiser, escolha uma opção em `Todos os status`. [t=36] [guia=vagas.situacao]
+5. Clique em `Filtrar`. [t=36] [guia=vagas.filtrar]
+6. Na linha da vaga desejada, clique em `Editar`. [t=42] [guia=vagas.editar]
 
 ## resultado
 
-A lista correspondente mostra os registros disponíveis para administração naquele portal.
+A edição da vaga é aberta. O botão para gravar as mudanças é `Salvar alterações`.
 
 ## desvios
 
-- Para anúncios de classificados, veja o artigo "localizar e gerenciar classificados no painel".
-no código, `classificados` designa vagas e `anuncios` designa classificados; para o usuário, as telas reais são `Vagas` e `Classificados`. Anúncio vencido pode sair do ar automaticamente. Este artigo não define regras de cobrança ou publicação.
+- A coluna `Status` tem um botão com o estado da vaga: `ativa` encerra; os outros estados passam para `ativa`. Vagas `pendente` ou `reprovada` pedem confirmação em `Publicar`.
+- Para corrigir o salário oferecido ao candidato, veja “alterar o salário de uma vaga de emprego”. Esse campo não muda o preço cobrado para anunciar.
+- Para uma vaga recusada, veja “publicar uma vaga que eu recusei”. Para remover o cadastro, veja “excluir uma vaga de emprego”.
+- Para ver os números, veja “ver quantas pessoas viram uma vaga”.
 
 ## quando pedir ajuda
 
-peça ajuda se o registro não aparecer ou se houver dúvida sobre edição, remoção ou situação. A IA não publica, exclui nem altera registros.
+Peça ajuda se a tela não carregar ou se a ação mostrar erro. Informe a mensagem e a ação tentada, sem enviar senha.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/vagas/page.tsx:1`
-- `portal-cidade/frontend/src/app/painel/classificados/page.tsx:1`
-- `portal-cidade/CLAUDE.md:55-56`
-- `portal-cidade/docs/PRODUCT.md:43-44`
+- Código do portal no HEAD `b2f62d3f`; base revisada a partir de `814f097`.
+- `frontend/src/app/painel/vagas/page.tsx:163`.
+- `frontend/src/app/painel/vagas/VagaForm.tsx:568`.
+- `frontend/src/app/painel/planos/[secao]/JanelaEditarPlano.tsx:63`.
+- Vídeo `ufB3QTKfPsM`: catálogo `portal-da-cidade/videos.json`, transcrição `videos/conteudo/ufB3QTKfPsM.md` e legenda `videos/legendas/ufB3QTKfPsM.srt`.
 
 ## lacunas
 
-os filtros e ações internas das listas não foram examinados em detalhe; orientamos somente as rotas confirmadas.
+Não houve validação no navegador nem execução do produto. As regras e os rótulos descritos foram conferidos por leitura do código. Tempos indicam o trecho da transcrição/legenda, não uma reprodução validada da interface atual.

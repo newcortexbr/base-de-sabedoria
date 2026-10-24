@@ -1,6 +1,6 @@
 ---
 id: comissao-de-parceiro-pelo-asaas
-titulo: mandar a comissão do parceiro direto pelo Asaas
+titulo: "mandar a comissão do parceiro direto pelo Asaas"
 publico:
   - admin
 modulo: parceiros
@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - 8gIDPdapN0E
@@ -16,39 +16,38 @@ videos:
 
 ## objetivo
 
-aqui você faz a comissão cair sozinha na carteira Asaas do parceiro. Para pagar por Pix ou transferência, veja outro artigo.
+Aqui você liga o repasse automático de comissão pelo Asaas. Para mudar o percentual, use `Planos de parceiro` > `Editar`; veja `mudar-comissao-do-plano-de-parceiro.md`.
 
 ## pré-requisitos
 
 - Ter acesso administrativo ao portal.
-- O Programa de Parceiros estar ligado no portal.
-- O parceiro ter carteira Asaas.
+- O parceiro deve ter informado a carteira Asaas e o cliente deve pagar pelo link do Asaas.
 
 ## passos
 
-1. No menu da esquerda, na parte `Comercial`, clique em `Parceiros`. [guia=menu:/painel/parceiros] [t=6]
-2. Em `Como você paga os parceiros`, ligue `Mandar a comissão direto pelo Asaas`. [guia=parceiros.split-asaas] [t=143]
+1. No menu da esquerda, na parte `Comercial`, clique em `Parceiros`. [t=8] [guia=menu:/painel/parceiros]
+2. Em `Como você paga os parceiros`, marque `Mandar a comissão direto pelo Asaas`. [t=143] [guia=parceiros.split-asaas]
 
 ## resultado
 
-as comissões dos parceiros com carteira Asaas passam a cair sozinhas: quando o cliente paga pelo link, a parte do parceiro vai direto para a carteira dele.
+A chave é salva ao mudar. Ligada, permite o repasse pelo Asaas para parceiros com carteira informada.
 
 ## desvios
 
-- No painel, em `Precisa da sua atenção`, o portal avisa quais parceiros ainda não informaram a carteira Asaas; esses são pagos por fora.
-- Parceiro sem carteira Asaas sempre é pago por fora; veja o artigo "pagar a comissão de um parceiro por fora do portal".
+Sem carteira Asaas, a comissão é paga por fora. Pagamento confirmado manualmente, por Pix ou dinheiro recebido direto por você, também gera comissão para pagar por fora. Ligar a chave não comprova repasse de uma comissão antiga.
+
+A comissão é por plano, para todos os parceiros vinculados a ele. O percentual não é escolhido nesse interruptor.
 
 ## quando pedir ajuda
 
-peça ajuda humana se o pagamento automático não cair.
+Peça ajuda se a tela mostrar erro ou se o resultado não corresponder ao que você salvou. Não envie senhas, chaves ou comprovantes ao assistente.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/parceiros/page.tsx:1`
-- `portal-cidade/frontend/src/components/painel/parceiros/ModalBaixaComissao.tsx:70,146,151`
-- `portal-cidade/frontend/src/components/painel/parceiros/CartaoGrupoWhatsapp.tsx:1`
-- vídeo `8gIDPdapN0E`.
+- `portal-cidade/frontend/src/app/painel/parceiros/page.tsx:1261`
+- `portal-cidade/frontend/src/app/painel/parceiros/page.tsx:1291`
+- `portal-cidade/frontend/src/app/painel/parceiros/page.tsx:175`
 
 ## lacunas
 
-não verificado visualmente nesta tarefa; passos conferidos com o vídeo de suporte e com o código da tela. Os planos de parceiro (Start, Pro, Premium) e a edição de percentuais não foram detalhados.
+Conferência documental com o código em b2f62d3f e as transcrições/legendas do catálogo. Sem validação no navegador, execução financeira ou teste de integração nesta auditoria. Tempos indicam trechos da legenda; passos sem tempo não foram localizados no vídeo.

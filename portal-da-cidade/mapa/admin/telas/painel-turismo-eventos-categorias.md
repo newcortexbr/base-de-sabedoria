@@ -10,10 +10,12 @@
 
 ## o que você vê
 Lista dos tipos de evento (ex.: Show, Feira, Festival).
-- Buscar por nome; filtros de status (Ativas / Inativas) e Com eventos / Sem eventos.
+- Para abrir: na parte Conteúdo do menu, em `Guia Turístico / Eventos`, clique em `Eventos` e depois na aba `Categorias` (ou em `Gerenciar` ao lado do campo Categoria no formulário de evento).
+- `Nova Categoria` (botão no topo) abre uma janela; `Editar` na linha altera.
+- campo "Buscar por nome..."; filtros "Todos os status" / Ativas / Inativas e "Com e sem eventos" / Com eventos / Sem eventos.
 - número de eventos: quantos eventos usam cada categoria.
-- criar ou editar: nome da categoria; desligada, não aparece para escolher.
-- apagar pede confirmação, e os eventos dela ficam sem categoria.
+- janela de criar/editar: Nome * (ex.: Show, Feira, Festival), Ícone (com `limpar`), Cor, caixa Ativa (desligada, não aparece para escolher), `Cancelar` e `Salvar`.
+- `Excluir` pede confirmação, e os eventos dela ficam sem categoria.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-eventos-categorias.png](../prints/painel-turismo-eventos-categorias.png) · dados brutos: [json](../prints/json/painel-turismo-eventos-categorias.json)

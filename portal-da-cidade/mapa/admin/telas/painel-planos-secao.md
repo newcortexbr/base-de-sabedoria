@@ -3,19 +3,19 @@
 Arquivos: `app/painel/planos/[secao]/page.tsx`, `SecaoDePlanos.tsx`, `Escada.tsx`, `Degrau.tsx`, `JanelaCriarPlano.tsx`, `JanelaEditarPlano.tsx`, `ModalPlano.tsx`, `regras.ts`, `publicidade/*`
 
 ## rota e gate
-- `/painel/planos/<chave-da-secao>`. client. gate `PainelGuard`. seção inexistente: "Esta seção não está disponível neste portal."
+- chega-se por `Meus Planos` (parte Comercial do menu) e, no cartão da seção, pelo botão `Gerenciar` (ou `Definir preço`, quando nada está à venda; `Gerenciar espaços` nos banners); `← Meus Planos` volta. rota `/painel/planos/<chave-da-secao>`. client. gate `PainelGuard`. seção inexistente: "Esta seção não está disponível neste portal."
 
 ## o que faz
 - define a escada de planos de uma seção (tipo `plano`) ou os preços dos espaços de publicidade (tipo `banner`).
 - planos de seção: nome, preço, duração (semanal, mensal, semestral, anual, pagamento único) e liga/desliga "À venda". a escada é a mesma que o cliente vê ao contratar.
 
 ## ações
-- "Mais planos": janela "CRIAR NOVO PLANO" (replica os benefícios de um plano fixo escolhido, escolhe duração livre, nome, preço) (`JanelaCriarPlano.tsx`).
-- editar plano: Nome, Preço, À venda (`JanelaEditarPlano.tsx:42`).
+- "Mais planos": janela "CRIAR NOVO PLANO" (campos "Quais benefícios deseja replicar aqui", "Nome", "Valor" e "Como o cliente paga") (`JanelaCriarPlano.tsx`).
+- botão `Editar` do cartão: janela "Editar plano" com "Nome do plano", "Preço" e a chave "Colocar este plano à venda"; "Como o cliente paga" aparece travado (`JanelaEditarPlano.tsx:58-97`).
 - chave "À venda" grava na hora e desfaz se o servidor recusa; servidor recusa ativar plano pago com preço zero e a frase aparece no cartão (`SecaoDePlanos.tsx:77-90`).
-- excluir plano com `confirm('Excluir este plano?')` (`SecaoDePlanos.tsx:93`).
+- botão "Excluir" só existe em plano criado por "Mais planos", não nos planos fixos de piso (`regras.ts:240`); pede `confirm('Excluir este plano?')` (`SecaoDePlanos.tsx:93`).
 - seções sem plano fixo: teto de 3 planos livres (`regras.ts:LIMITE_DE_PLANOS_LIVRES`), também recusado pelo servidor.
-- publicidade: janela de preços por item e duração; salvar/excluir preço (`confirm('Excluir este preço?')`, `JanelaDePrecos.tsx:65`).
+- publicidade: "Definir preço" no espaço abre o formulário "Novo preço" (campos "Nome", "Periodicidade", "Preço"; botões "Criar preço" e "Descartar"); em preço existente, "Salvar" e "Excluir" (`confirm('Excluir este preço?')`, `JanelaDePrecos.tsx:65`).
 - plano gratuito de piso não pode ser replicado nem excluído pela escada (texto em `JanelaCriarPlano.tsx`).
 
 ## apis
@@ -54,10 +54,10 @@ Arquivos: `app/painel/planos/[secao]/page.tsx`, `SecaoDePlanos.tsx`, `Escada.tsx
 Aqui você define os planos de uma seção (nome, preço, período) ou os preços dos espaços de banner; é o mesmo que o cliente vê ao contratar.
 - cartões de plano, do "Plano de entrada" ao "Mais completo": cada um com nome, preço, como o cliente paga (período) e os benefícios incluídos.
 - "À venda" / "Fora de venda": se o plano aparece para o cliente contratar. fora de venda, ninguém consegue contratar o plano, mesmo com o módulo ligado. o servidor pode recusar colocar à venda (a frase do motivo aparece no cartão).
-- Editar plano: muda nome, preço e se está à venda.
-- Novo plano: cria outro plano copiando os benefícios de um plano existente ("Quais benefícios deseja replicar aqui"), com nome, preço e forma de pagamento próprios.
-- Excluir: apaga o plano (pede confirmação).
+- Editar: muda "Nome do plano", "Preço" e a chave "Colocar este plano à venda". A forma de pagamento não muda.
+- Mais planos: abre "CRIAR NOVO PLANO", que cria outro plano copiando os benefícios de um plano existente ("Quais benefícios deseja replicar aqui"), com "Nome", "Valor" e "Como o cliente paga" próprios.
+- Excluir: só em planos criados por "Mais planos"; apaga o plano (pede confirmação).
 - Comparar todos os planos / O que cada plano tem: tabela com "Tem" e "Não tem" para cada benefício.
 - estrela (Recurso de vitrine): marca os benefícios de destaque do plano.
-- seção de banners: cada espaço mostra "Onde fica na página" e os preços por forma de pagamento (cada forma vira uma aba). "Novo preço"/"Criar preço" põe o espaço à venda; "Excluir" tira o preço.
+- seção de banners: cada espaço mostra "Onde fica na página" e os preços por forma de pagamento (cada forma vira uma aba). "Definir preço" abre o formulário "Novo preço"; "Criar preço" põe o espaço à venda; "Excluir" tira o preço.
 - "Nenhum espaço à venda ainda": nenhum banner tem preço, então ninguém compra.

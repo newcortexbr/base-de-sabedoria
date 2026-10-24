@@ -8,12 +8,15 @@
 - problemas: nenhum confirmado.
 - admin vs cliente: cliente só escolhe categoria; sem equivalente.
 
+## como chegar
+- na parte Conteúdo do menu, abra `Classificados` e clique em `Categorias`.
+
 ## o que você vê
-Lista das categorias e subcategorias dos anúncios classificados (ex.: Veículos > Carros).
-- Nome *, Ícone e Cor: como a categoria aparece no site.
-- Ativa: categoria desligada não aparece para escolher.
-- dentro de cada categoria ficam as subcategorias ("Nenhuma subcategoria ainda" quando vazia); dá para criar, editar e apagar cada uma.
-- apagar pede confirmação.
+Tela `Categorias de Anúncios`: lista das categorias e subcategorias dos anúncios classificados (ex.: Veículos > Carros).
+- `+ Nova Categoria` abre a janela `Nova Categoria` com `Nome *`, `Ícone`, caixa `Ativa` e `Cor`; `Salvar` grava.
+- cada categoria mostra `Ativa` ou `Inativa` e os botões `Editar` e `Excluir`. categoria inativa não aparece para escolher.
+- o botão `▼ Subs` abre as subcategorias da categoria; lá há `+ Nova Subcategoria` (janela com `Nome *` e `Ativa`), `Editar` e `Excluir` por subcategoria. vazio: "Nenhuma subcategoria ainda."
+- excluir pede confirmação; ao excluir categoria, os anúncios dela ficam sem categoria.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-classificados-categorias.png](../prints/painel-classificados-categorias.png) · dados brutos: [json](../prints/json/painel-classificados-categorias.json)

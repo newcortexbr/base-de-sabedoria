@@ -7,7 +7,7 @@
 
 ## o que você vê
 Endereço antigo das fotos de um evento: hoje ele leva direto para a lista de eventos.
-- as fotos e vídeos do evento agora ficam dentro do próprio formulário do evento, em Galeria de fotos e vídeos.
+- as fotos e vídeos do evento agora ficam dentro do formulário do evento (`Editar` na lista de eventos), em "Galeria de fotos e vídeos".
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-eventos-id-fotos.png](../prints/painel-turismo-eventos-id-fotos.png) · dados brutos: [json](../prints/json/painel-turismo-eventos-id-fotos.json)

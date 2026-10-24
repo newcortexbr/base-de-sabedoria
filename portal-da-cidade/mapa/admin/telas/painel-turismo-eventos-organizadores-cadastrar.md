@@ -1,7 +1,7 @@
 # /painel/turismo/eventos/organizadores/cadastrar (`.../cadastrar/page.tsx`)
 - gate: módulo `eventos` (prefixo `/painel/turismo/eventos`, avaliado antes de `turismo` na lista de prefixos); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`). Produto separado do Turismo, embora more no mesmo caminho.
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
-- campos: Nome (obrigatório), Descrição, Logo, Cor do logo, acesso do proprietário (login opcional).
+- campos: Nome (obrigatório), Descrição, Logo, Cor do logo, "Acesso do proprietário (opcional)".
 - ações: salvar (`organizadoresEvento.criar`, :69) e criar acesso (`criarAcesso`, :75); se o acesso falha, modal com "Editar" (:104).
 - estados: acesso inválido "Corrija os campos do acesso do proprietário" (:57); `formatApiError` (:79).
 - problemas: nenhum confirmado.
@@ -9,8 +9,10 @@
 
 ## o que você vê
 Tela para cadastrar um organizador de eventos.
-- nome *, descrição, Logo e Cor do logo: como o organizador aparece no site.
-- Painel do proprietário (opcional): cria e-mail e senha para o responsável entrar e criar os próprios eventos; os dados também vão por e-mail.
+- chega-se por `+ Novo Organizador` na aba `Organizadores` de eventos.
+- Nome *, Descrição, Logo e Cor do logo: como o organizador aparece no site.
+- "Acesso do proprietário (opcional)": Nome do responsável *, E-mail de login * e Senha (`Gerar senha`, `Mostrar`) criam o login para o responsável entrar pela Área do cliente e criar os próprios eventos; os dados também vão por e-mail. Em branco, não cria acesso.
+- `Criar Organizador` grava; `Cancelar` volta.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-eventos-organizadores-cadastrar.png](../prints/painel-turismo-eventos-organizadores-cadastrar.png) · dados brutos: [json](../prints/json/painel-turismo-eventos-organizadores-cadastrar.json)

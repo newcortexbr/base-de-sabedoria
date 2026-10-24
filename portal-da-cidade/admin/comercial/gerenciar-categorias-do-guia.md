@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: configuracao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - 09n3Eiwn418
@@ -28,30 +28,25 @@ aqui você vê, cria e muda as categorias do Guia. Categoria desligada esconde d
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Gerenciar Categorias`. [guia=menu:/painel/guia/categorias] [t=14]
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Gerenciar Categorias`. [guia=menu:/painel/guia/categorias] [t=22]
 2. Para criar uma nova, clique em `+ Nova Categoria`. Ela abre uma janela com o formulário. [guia=guia-categorias.nova] [t=35]
-3. Escreva o nome da categoria. [guia=guia-categorias.nome] [t=37]
-4. Escolha um ícone na lista (ela tem busca). [guia=guia-categorias.icone] [t=37]
+3. Preencha `Nome *`. [guia=guia-categorias.nome] [t=37]
+4. Escolha o `Ícone`. [guia=guia-categorias.icone] [t=37]
 5. Marque `Ativa` para a categoria aparecer no site. [guia=guia-categorias.ativa] [t=42]
-6. Marque a opção de aparecer no formulário de orçamento só quando as empresas da categoria prestam serviço (por exemplo, pintor ou eletricista). [guia=guia-categorias.aceita-orcamento] [t=45]
-7. Escolha uma cor. ela aparece no ícone da categoria em todo o portal. [guia=guia-categorias.cor] [t=57]
-8. Em `O que as empresas desta categoria oferecem`, marque `Cardápio` (restaurante, bar, lanchonete), `Delivery` (pedido pelo site) ou `Quartos` (hotel, pousada). Serviços, equipe e catálogo de produtos valem para qualquer categoria: já vêm marcados e travados, e não dá para desmarcar. [guia=guia-categorias.oferece] [t=62]
-9. Clique em `Salvar` e confira a mensagem que aparece. [guia=guia-categorias.salvar]
+6. Ajuste `Aparece no formulário de Orçamento` para decidir se a categoria participa dos pedidos de orçamento. [guia=guia-categorias.aceita-orcamento] [t=47]
+7. Escolha a `Cor`. [guia=guia-categorias.cor] [t=57]
+8. Ajuste `Cardápio — restaurante, bar, lanchonete`, se necessário. [guia=guia-categorias.cardapio] [t=71]
+9. Ajuste `Delivery — aceita pedido pelo site`, se necessário. [guia=guia-categorias.delivery] [t=73]
+10. Ajuste `Acomodações — hotel, pousada, hospedagem`, se necessário. [guia=guia-categorias.acomodacoes] [t=78]
+11. Clique em `Salvar` e confira a mensagem que aparece. [guia=guia-categorias.salvar]
 
 ## explicação
 
-- a lista mostra cada categoria com ícone, o que ela oferece, quantas empresas usam, se aparece no orçamento e se está ativa. em cada linha você pode editar ou excluir.
-- os recursos (cardápio, delivery, quartos, serviços, equipe, catálogo) dependem também do plano da empresa: no plano grátis eles não aparecem.
-- ao desmarcar um recurso numa categoria que já tem empresas, o portal avisa quantas empresas serão afetadas. o conteúdo não é apagado, só deixa de aparecer no site, e volta se você marcar o recurso de novo.
+A tabela mostra os recursos, o total de empresas, a participação no orçamento e a situação. Serviços, equipe e catálogo vêm marcados e travados para todas as categorias. A disponibilidade nas empresas depende também da ficha completa; a cortesia do portal não exige plano pago.
 
 ## subcategorias
 
-as subcategorias detalham cada categoria e ficam em `Gerenciar Subcategorias`, no mesmo menu `Guia Comercial`.
-
-- à esquerda você escolhe a categoria e vê quantas subcategorias ela tem. para cada subcategoria, a tela mostra quantas empresas estão nela e se aparece no formulário de orçamento.
-- os botões de marcar e desmarcar as exibidas mudam todas de uma vez.
-- uma bolinha amarela indica que a categoria está fora do orçamento: nesse caso nenhuma subcategoria dela aparece no formulário de orçamento, mesmo marcada.
-- para criar, clique em `Nova subcategoria`, escolha a categoria, dê um nome e marque se está ativa e se aparece no orçamento. para mudar uma que já existe, clique no lápis.
+As subcategorias ficam em `Gerenciar Subcategorias`, no mesmo menu. Este artigo cobre apenas categorias.
 
 ## resultado
 
@@ -67,9 +62,9 @@ peça ajuda se houver empresas vinculadas ou se a ação puder ocultar cadastros
 
 ## fontes
 
-- `portal-cidade/docs/DECISIONS.md:101-109`
-- `portal-cidade/frontend/src/app/painel/guia/empresas/page.tsx:67-73`
+- `portal-cidade/frontend/src/app/painel/guia/categorias/page.tsx:122-219,262-341`.
+- `portal-cidade/frontend/src/components/painel/EmpresaEditor.tsx:943-980`.
 
 ## lacunas
 
-A tela de categorias foi localizada no código, mas seus controles atuais não foram revisados em detalhe; não descrevemos criação, exclusão ou campos específicos.
+Sem validação no navegador. O rótulo atual `Acomodações — hotel, pousada, hospedagem` substitui `Quartos` usado no vídeo.

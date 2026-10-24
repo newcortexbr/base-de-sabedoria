@@ -1,8 +1,10 @@
 # /painel/guia/empresas/[id]/quartos — quartos e suítes (`.../[id]/quartos/page.tsx`)
 - gate: módulo `guia` (prefixo `/painel/guia`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
+- título `Quartos & Suítes`.
+- chegar: `Guia Comercial` > `Listar Empresas` > ícone de editar na linha da empresa > bloco `Conteúdo da ficha` > botão `Gerenciar` do cartão `Quartos e suítes` (só aparece para categoria com acomodações). Não há botão disso na lista de empresas.
 - faz: seções e quartos de hospedagem, com fotos.
-- campos do quarto: Título (obrigatório, :123), Descrição, Preço por noite, Comodidades do quarto, ativo, fotos.
+- campos do modal `Novo quarto`/`Editar quarto`: `Título *`, `Subtítulo`, `Descrição`, `Preço por noite`, `Preço promocional`, `Comodidades do quarto` (digite e use `+`), `Ordem`; botão `Salvar quarto`. Seção nova: campo "Nova seção (Ex: Suítes, Chalés, Quartos Standard)…" + botão de adicionar; em cada seção `+ Quarto`, `Renomear`, setas de mover e excluir; em cada quarto `Fotos` (janela `Fotos — <quarto>` com `+ Adicionar fotos`), `Editar` e chave `Publicado`/`Despublicado`.
 - ações: seções (criar/renomear/excluir/reordenar, :370,565-605), quartos (criar/editar/ativar/excluir, :139-140,388,412), fotos (:237,260,272).
 - APIs: `guia.quartos.listarSecoes|criarSecao|atualizarSecao|excluirSecao|listarItens|criarItem|atualizarItem|excluirItem|listarFotos|criarFoto|excluirFoto`, `guia.empresas.detalhe` (:554).
 - estados: qualquer falha ao carregar seções/empresa cai em `.catch(() => setSemAcesso(true))` e mostra `SemAcessoEmpresa` (`components/painel/SemAcessoEmpresa.tsx`). (:558). Vazio "Nenhum quarto nesta seção ainda" (:501) e "Nenhuma seção cadastrada" (:657).
@@ -12,8 +14,8 @@
 ## o que você vê
 Quartos de um hotel ou pousada, organizados em seções (ex.: Suítes, Chalés, Quartos Standard).
 - seções: criar, renomear, mudar a ordem e apagar.
-- quarto: nome (ex.: Suíte Master), Subtítulo (ex.: Para 2 pessoas, com varanda), descrição, Preço por noite, Preço promocional e Comodidades do quarto (ex.: Wi-Fi, Vista mar).
-- fotos do quarto.
+- quarto (`+ Quarto`): `Título *` (ex.: Suíte Master), `Subtítulo` (ex.: Para 2 pessoas, com varanda), descrição, Preço por noite, Preço promocional e Comodidades do quarto (ex.: Wi-Fi, Vista mar).
+- fotos do quarto: botão `Fotos`.
 - ligar ou desligar: mostra ou esconde o quarto no site.
 
 ## posições na tela (print de 2026-10-16, 1280x900)

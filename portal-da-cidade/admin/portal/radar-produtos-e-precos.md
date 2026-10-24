@@ -8,7 +8,7 @@ categoria: radar
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-22
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - VhMHVZujDvQ
@@ -16,34 +16,43 @@ videos:
 
 ## objetivo
 
-aqui você vê os produtos e preços que estão no Radar e lança um preço por conta própria, sem esperar foto de morador.
+Adicione um preço digitado ao catálogo do Radar.
 
 ## pré-requisitos
 
 - Ter acesso de administrador ao painel do portal.
-- Ter o mercado cadastrado e aprovado em `Mercados`.
 
 ## passos
 
-1. No menu da esquerda, clique em `Radar de Preços` e depois em `Produtos e preços`. [guia=menu:/painel/radar/produtos]
-2. Use a busca para achar um produto. A lista mostra os mercados, o menor preço e quando foi atualizado. [guia=menu:/painel/radar/produtos]
-3. Para lançar um preço, clique em `Adicionar preço`, escolha o produto (ou escreva um novo e sua categoria), o mercado e o preço, e salve. Se o preço daquele mercado já existe, ele é atualizado. [guia=radar-produtos.adicionar-preco]
-4. Para corrigir o nome, a categoria ou a foto de um produto, abra a linha dele e edite. Para tirar o preço de um mercado, apague o preço na linha. [guia=radar-produtos.editar]
-5. Se o mesmo produto aparece duas vezes, use a opção de juntar e escolha o produto certo; os preços passam para ele. [guia=radar-produtos.editar]
+1. Na parte `Conteúdo` do menu, em `Radar de Preços`, clique em `Produtos e preços`. [guia=menu:/painel/radar/produtos]
+2. Clique em `Adicionar preço`. [t=65] [guia=radar-produtos.adicionar-preco]
+3. Escolha `Categoria *`.  [guia=radar-adicionar.categoria]
+4. Clique na aba `Digitar`.  [t=69] [guia=radar-adicionar.digitar]
+5. Escolha `Estabelecimento *`.  [t=74] [guia=radar-adicionar.estabelecimento]
+6. Em `Produto *`, busque um produto ou escreva o nome de um novo.  [t=71] [guia=radar-adicionar.produto]
+7. Preencha `Preço (R$) *`.  [t=76] [guia=radar-adicionar.preco]
+8. Clique em `Salvar preço`.  [t=79] [guia=radar-adicionar.salvar]
 
 ## resultado
 
-preço lançado por você entra no site na hora, sem passar por aprovação.
+O preço é salvo no produto escolhido; um produto novo é criado na categoria selecionada.
 
-## desvios
+## consultar preços de um produto
 
-- o nome do produto não pode repetir: o portal avisa `Já existe um produto com esse nome.`
+1. Na parte `Conteúdo` do menu, em `Radar de Preços`, clique em `Produtos e preços`. [guia=menu:/painel/radar/produtos]
+2. Preencha `Buscar produto` com o nome.  [t=20] [guia=radar-produtos.busca]
+3. Clique em `Ver preços` na linha do produto. [guia=radar-produtos.apagar]
+
+A marca existente `radar-produtos.apagar` está no botão `Ver preços`: ele abre o detalhe e não apaga nada. Para editar o nome/categoria, veja “editar um produto do Radar de Preços”; para enviar uma imagem diretamente, veja “lançar preço pela foto no Radar”. Para alterar valores, juntar duplicados ou apagar o cadastro, veja “corrigir ou remover o preço de um estabelecimento no Radar”, “juntar produtos repetidos do Radar” e “excluir um produto e todos os preços do Radar”.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/radar/produtos/page.tsx:96`
-- `portal-cidade/docs/RADAR-CONTRATO.md`
+- `frontend/src/components/painel/radar/AdicionarPreco.tsx:97`
+- `frontend/src/components/painel/radar/AdicionarPreco.tsx:137`
+- `frontend/src/app/painel/radar/produtos/page.tsx:161`
+
+- Catálogo: `portal-da-cidade/videos.json`; legendas: `videos/legendas/VhMHVZujDvQ.srt`.
 
 ## lacunas
 
-não verificado visualmente. Os nomes exatos dos botões de editar, apagar e juntar produto não foram transcritos um a um.
+- Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.

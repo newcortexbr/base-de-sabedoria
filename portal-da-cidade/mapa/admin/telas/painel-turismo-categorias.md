@@ -10,10 +10,11 @@
 
 ## o que você vê
 Lista dos tipos de ponto turístico (ex.: Praias, Museus), usados para separar os pontos no site.
-- Nome * (ex.: Praias), Ícone e Cor: como a categoria aparece no site.
-- Status / Ativa: categoria desligada não aparece para escolher.
-- Editar muda; apagar pede confirmação, e os pontos dela não são apagados, só ficam sem categoria.
-- ← Pontos volta para a lista de pontos turísticos.
+- `Nova Categoria` (ou `Editar` na linha) abre o formulário. Nome * (ex.: Praias), Ícone (com `limpar`) e Cor: como a categoria aparece no site. Salvar é `Salvar`; `Cancelar` fecha.
+- Na parte Conteúdo do menu, em `Guia Turístico / Eventos`, clique em `Categorias` para abrir a tela.
+- Ativa (caixa): categoria desligada não aparece para escolher; na lista a coluna Status mostra Ativa ou Inativa, e a coluna Pontos conta os pontos.
+- `Editar` muda; `Excluir` pede confirmação, e os pontos dela não são apagados, só ficam sem categoria.
+- `← Pontos` volta para a lista de pontos turísticos.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-categorias.png](../prints/painel-turismo-categorias.png) · dados brutos: [json](../prints/json/painel-turismo-categorias.json)

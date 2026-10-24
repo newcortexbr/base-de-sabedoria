@@ -15,7 +15,7 @@ Arquivo: `src/app/minha-conta/delivery/pedidos/page.tsx`
   - a mensagem vem do servidor (`formatErroCliente`).
 
 ## o que faz
-- lista os pedidos de delivery recebidos pela empresa num período, com totais, e deixa concluir ou cancelar.
+- (título da tela: "Pedidos do delivery"; item do menu: grupo "Delivery" > `Pedidos`) lista os pedidos de delivery recebidos pela empresa num período, com totais, e deixa concluir ou cancelar.
 
 ## ações e campos
 - período: atalhos Hoje (padrão), Ontem, 7 dias, 30 dias; datas "De" e "Até" manuais.
@@ -63,5 +63,5 @@ Lista dos pedidos de delivery que sua empresa recebeu, com totais do período.
 - Chamar cliente: abre o WhatsApp com mensagem pronta.
 - Ver pedido: abre o pedido em outra aba.
 - Concluir: marca como entregue (pede confirmação).
-- Cancelar: pede o motivo (obrigatório, até 300 letras).
+- Cancelar: abre a janela "Cancelar o pedido #…?" ("O cancelamento não pode ser desfeito"), com o campo `Motivo do cancelamento` (obrigatório, até 300 letras) e os botões `Voltar` e `Cancelar pedido`.
 - Atualizar: busca pedidos novos; a lista também se atualiza sozinha.

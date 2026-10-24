@@ -8,13 +8,17 @@
 - problemas: nenhum confirmado.
 - admin vs cliente: equivale a completar perfil do cliente; o admin ainda define "Verificado" e senha inicial (cliente não).
 
+## como chegar
+- na parte Conteúdo do menu, abra `Classificados`, clique em `Anunciantes` e depois em `+ Novo Anunciante`.
+
 ## o que você vê
-Tela para cadastrar uma pessoa ou empresa que publica anúncios classificados.
-- Nome *, Descrição, Logo e Cor do logo: como o anunciante aparece no site.
-- Localização: cidade e bairro (escolha a cidade primeiro).
-- Redes sociais e contato: E-mail, WhatsApp, Site, Instagram, LinkedIn, YouTube.
-- Verificado: dá o selo de anunciante conferido.
-- Painel do proprietário (opcional): cria e-mail e senha para o responsável entrar e cuidar dos próprios anúncios; os dados também são enviados por e-mail.
+Tela `Novo Anunciante`, para cadastrar uma pessoa ou empresa que publica anúncios classificados.
+- `Nome *`, `Descrição`, `Logo` e `Cor do logo`: como o anunciante aparece no site.
+- bloco `Localização`: só a cidade (não há bairro).
+- bloco `Redes sociais e contato`: `LinkedIn`, `Instagram`, `Site`, `YouTube`, `WhatsApp` e `E-mail`.
+- caixa `Verificado`: dá o selo de anunciante conferido.
+- bloco `Acesso do proprietário` (opcional): `Nome do responsável`, `E-mail de login` e `Senha inicial`; cria o login para ele cuidar dos próprios anúncios, e os dados também vão por e-mail.
+- botão `Criar Anunciante`.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-classificados-anunciantes-cadastrar.png](../prints/painel-classificados-anunciantes-cadastrar.png) · dados brutos: [json](../prints/json/painel-classificados-anunciantes-cadastrar.json)

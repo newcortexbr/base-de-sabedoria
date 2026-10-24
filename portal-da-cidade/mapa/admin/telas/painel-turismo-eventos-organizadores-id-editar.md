@@ -9,8 +9,10 @@
 
 ## o que você vê
 Tela para mudar um organizador de eventos.
-- nome, descrição, Logo e Cor do logo: como o organizador aparece no site.
-- Painel do proprietário: cria o acesso do responsável, envia nova senha por e-mail ou remove o acesso.
+- chega-se por `Editar` na linha do organizador.
+- Nome *, Descrição, Logo (deixe em branco para manter) e Cor do logo: como o organizador aparece no site.
+- "Painel do proprietário": se há acesso, mostra "Acesso ativo" com `Redefinir senha` (campo "Nova senha"; a nova senha vai por e-mail) e `Remover acesso`; se não há, `Criar acesso`.
+- `Salvar Alterações` grava; `Cancelar` volta.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-eventos-organizadores-id-editar.png](../prints/painel-turismo-eventos-organizadores-id-editar.png) · dados brutos: [json](../prints/json/painel-turismo-eventos-organizadores-id-editar.json)

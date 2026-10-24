@@ -2,53 +2,55 @@
 id: editorial-visibilidade
 titulo: "publicação e visibilidade: notícias"
 publico:
-  - administrador do portal
-  - jornalista
-  - colunista
-modulo: Notícias, Artigos, Turismo e Agenda de Eventos
+  - admin
+modulo: notícias
 categoria: conteúdo
 aba: não-se-aplica
 tipo_problema: visibilidade
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
+videos:
+  - gAa2NdnitZU
 ---
 
 ## objetivo
-aqui você descobre por que um conteúdo aparece ou não aparece para o público. Rascunho, data no futuro, evento encerrado e módulo desligado deixam o conteúdo escondido. Colocar em destaque não publica nada.
 
-## pré-requisitos/permissões
-Entrar no painel como administrador, ou na área do cliente se você for jornalista ou colunista.
+Aqui você verifica a situação de uma notícia pelo painel. `Publicado` com data futura fica como `agendado` e não é exibido ao público antes da data.
 
-## veja também
-- para conferir a situação de um artigo, veja o artigo "ver se um artigo está no ar".
-- para conferir a situação de um evento, veja o artigo "ver se um evento está no ar".
+## pré-requisitos
+
+- Entrar no painel como administrador.
 
 ## passos
 
-1. Abra a lista do tipo de conteúdo. Para notícias, no menu `Notícias`, clique em `Listar Notícias`. [guia=menu:/painel/noticias]
-2. Na coluna `Status`, veja a situação. Quando houver, compare também a data de publicação ou de término. [guia=noticias.status-linha]
-3. Em notícias, uma notícia publicada com data no futuro aparece como `agendado` e não aparece para o público antes dessa data. [guia=noticias.status-linha]
-4. Para ter certeza, abra o conteúdo no site do portal, como um visitante faria. [guia=fora]
+1. Na seção `Conteúdo` do menu lateral, em `Notícias`, clique em `Listar Notícias`. [t=23] [guia=menu:/painel/noticias]
+2. Digite o título em `Buscar por título...`. [t=25] [guia=noticias.buscar]
+3. Confira a situação na coluna `Status`. [t=36] [guia=noticias.status-linha]
+4. Para conferir a configuração, clique no lápis `Editar` da notícia. [guia=noticias.editar]
+5. Confira o valor de `Status`. [guia=noticias-cadastrar.status]
+6. Se `Agendar notícia` estiver ligado, confira a data e a hora em `Publicar em`. [guia=noticias-cadastrar.publicar-em]
 
 ## resultado
-estado, datas e regras de vigência em conjunto determinam se o conteúdo pode aparecer. Destaque e publicação são conceitos diferentes.
+
+`Rascunho` e `Arquivado` ficam fora da consulta pública. `agendado` indica uma notícia publicada com data futura. Destaque não substitui publicação.
 
 ## desvios
-- `Publicado` em Notícias pode estar agendado para o futuro.
-- Evento ativo pode estar encerrado pela data; inativo é outra condição.
-- A home pode ter blocos configurados para mostrar somente destaques e sumir quando não houver destaque.
-- Módulo desligado fica oculto, mas não apaga conteúdo.
 
-## quando pedir ajuda
-peça ajuda se o conteúdo estiver publicado, vigente e no módulo ativo, mas continuar ausente; informe módulo, rota e estado observado. Não altere configuração ou dados fora do seu papel.
+- Para publicar em outra data, veja “agendar uma notícia”.
+- Para esconder uma notícia publicada, veja “tirar uma notícia do ar”.
+- Se a consulta pública falhar, confira o status e a data em `Editar` antes de presumir que é atraso do site.
+- Para Artigos e Eventos, consulte os artigos de visibilidade próprios desses módulos.
 
 ## fontes
-- `portal-cidade/frontend/src/app/painel/noticias/page.tsx:12` — notícia agendada.
-- `portal-cidade/frontend/src/app/painel/blog/page.tsx:27` — estados dos artigos.
-- `portal-cidade/frontend/src/app/painel/turismo/eventos/page.tsx:41` — estado de eventos.
-- `docs/PRODUCT.md:48` — bloco da home somente com destaques.
-- `docs/PRODUCT.md:180` — desligar módulo oculta sem apagar.
+
+- `frontend/src/app/painel/noticias/page.tsx:24` — status agendado.
+- `frontend/src/app/painel/noticias/page.tsx:568` — situação na linha.
+- `frontend/src/components/painel/noticias/NoticiaFormBase.tsx:572` — controle de agendamento e data.
+- `backend/noticias/views.py:180` — filtro público.
+- `backend/noticias/views.py:230` — detalhe público exige publicado e data atingida.
+- Vídeo `gAa2NdnitZU`, legenda em 23s–38s.
 
 ## lacunas
-sem validação de navegador, ambiente ou conteúdo real. Visibilidade pública também depende de rotas, consultas e configuração por portal, não examinadas em runtime nesta tarefa.
+
+Não executada consulta pública. Estado do módulo, domínio e cache no ambiente publicado não foram verificados.

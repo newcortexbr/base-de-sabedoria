@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - 2ShbACG2mHE
@@ -23,6 +23,7 @@ aqui você cadastra os produtos que o cliente pode pedir com entrega, com tamanh
 
 - Ter acesso administrativo ao portal.
 - O módulo Guia Comercial estar disponível no portal.
+- A empresa ter ficha completa; a cortesia do portal também atende a essa condição.
 - A categoria da empresa ter `Delivery` marcado em `Gerenciar Categorias`.
 
 ## veja também
@@ -37,18 +38,18 @@ aqui você cadastra os produtos que o cliente pode pedir com entrega, com tamanh
 5. Escreva o nome da seção (por exemplo, Açaí). [guia=delivery-cardapio.nome-secao]
 6. Clique em `Criar`. [guia=delivery-cardapio.criar-secao]
 7. Escolha a seção na lista da esquerda. [guia=delivery-cardapio.secao]
-8. À direita aparecem os produtos da seção, com foto, preço e quantos grupos de opções cada um tem; em cada produto dá para editar ou excluir. Para cadastrar, clique em `+ Novo produto`. [guia=delivery-cardapio.novo-produto] [t=43]
-9. Escreva o `Nome *` do produto. [guia=delivery-cardapio.nome] [t=46]
+8. Clique em `+ Novo produto`. [guia=delivery-cardapio.novo-produto] [t=45]
+9. Escreva o `Nome *` do produto. [guia=delivery-cardapio.nome] [t=45]
 10. Se quiser, escreva a `Descrição`. [guia=delivery-cardapio.descricao]
-11. Em `Preço base (R$)`, informe o valor. Deixe zero quando o preço depender do tamanho. [guia=delivery-cardapio.preco] [t=49]
+11. Em `Preço base (R$) — deixe 0 se o preço é definido pelos tamanhos`, informe o valor. Deixe zero quando o preço depender do tamanho. [guia=delivery-cardapio.preco] [t=48]
 12. Marque `Disponível` para o produto aparecer na loja. [guia=delivery-cardapio.disponivel] [t=59]
 13. Marque `Destaque` se quiser mais visibilidade. [guia=delivery-cardapio.destaque] [t=61]
-14. Envie a foto do produto. [guia=delivery-cardapio.foto] [t=64]
+14. Envie a foto do produto. [guia=delivery-cardapio.foto] [t=63]
 15. Clique em `Criar produto`. [guia=delivery-cardapio.salvar-produto] [t=66]
 
 ## resultado
 
-os produtos disponíveis aparecem na loja de delivery da empresa; os pedidos chegam na `Fila de pedidos`. Na loja, o cliente vê a taxa e o tempo de entrega, se a loja está aberta, o cupom disponível e os produtos por seção. Ao escolher um produto, ele marca os adicionais respeitando os limites de cada grupo; o carrinho mostra subtotal, taxa de entrega e total, e o pedido finalizado vai para a fila de pedidos da empresa.
+O produto é criado na seção escolhida. Produtos disponíveis entram na listagem pública do delivery quando a loja e as demais condições de exibição permitem.
 
 ## desvios
 
@@ -62,10 +63,10 @@ peça ajuda se o cartão não aparecer, se o produto não salvar ou se o cliente
 
 ## fontes
 
-- `portal-cidade/frontend/src/components/painel/EmpresaEditor.tsx:933-946,1655-1686` — cartões de `Conteúdo da ficha`.
-- `portal-cidade/frontend/src/app/painel/delivery/cardapio/page.tsx:1` — tela `Cardápio de Delivery`.
-- vídeo `2ShbACG2mHE`.
+- `portal-cidade/frontend/src/components/painel/EmpresaEditor.tsx:950,982-984,1735-1744`.
+- `portal-cidade/frontend/src/app/painel/delivery/cardapio/page.tsx:243-301,375-455`.
+- `portal-cidade/backend/delivery/serializers.py:50`.
 
 ## lacunas
 
-não verificado visualmente nesta tarefa; passos conferidos com o vídeo de suporte e com o código da tela. O nome exato do campo de preço base não foi confirmado no código.
+Conferência documental no código b2f62d3f e nas legendas dos vídeos citados. Sem execução no navegador; não foram medidos cache, entrega de pedidos, impressão ou upload reais.

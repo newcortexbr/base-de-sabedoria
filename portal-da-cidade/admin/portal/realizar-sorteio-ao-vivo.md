@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - uN4FHHHGgEs
@@ -16,45 +16,42 @@ videos:
 ---
 
 ## objetivo
-aqui você sorteia o ganhador depois que as inscrições encerram. Depois chama a pessoa no WhatsApp e marca a entrega do prêmio.
+
+Sorteie os ganhadores e acompanhe a entrega do prêmio.
 
 ## pré-requisitos
 
-- Ter acesso administrativo ao portal.
-- O módulo Sorteios estar disponível no portal.
+- Ter acesso de administrador ao painel do portal.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Sorteios` e depois em `Sorteios`. [guia=menu:/painel/sorteios]
-2. Depois que as inscrições encerrarem, na linha do sorteio que você quer, clique em `Realizar sorteio` para abrir a tela de sortear ao vivo. [guia=sorteios.realizar]
-3. Se for transmitir, clique em `Tela cheia`. [guia=sorteios-ao-vivo.tela-cheia]
-4. Clique em `Sortear 1º ganhador`. [guia=sorteios-ao-vivo.sortear]
-5. No cartão do ganhador, clique em `Chamar no WhatsApp` para combinar a entrega. [guia=sorteios-ao-vivo.whatsapp]
-6. Em `Entrega do prêmio`, marque a situação: `Aguardando contato`, `Contatado`, `Prêmio entregue` ou `Não respondeu`. [guia=sorteios-ao-vivo.entrega]
-7. Se o ganhador não responder, clique em `Sortear outro no lugar`. [guia=sorteios-ao-vivo.entrega]
+1. Na parte `Conteúdo` do menu, em `Sorteios`, clique em `Sorteios`. [t=17] [guia=menu:/painel/sorteios]
+2. Depois do fim das inscrições, clique em `Realizar sorteio` na linha do sorteio. [guia=sorteios.realizar]
+3. Se quiser transmitir em tela cheia, clique em `Tela cheia`. [t=191] [guia=sorteios-ao-vivo.tela-cheia]
+4. Clique em `Sortear 1º ganhador`. [t=194] [guia=sorteios-ao-vivo.sortear]
+5. No cartão do ganhador, clique em `Chamar no WhatsApp`. [t=211] [guia=sorteios-ao-vivo.whatsapp]
+6. Em `Entrega do prêmio`, escolha a situação da entrega. [t=213] [guia=sorteios-ao-vivo.entrega]
 
 ## resultado
-O ganhador sorteado aparece na tela, com o número da sorte e o WhatsApp, e a situação da entrega fica registrada. O resultado vai ao portal sozinho: o sorteio passa a `sorteado` e o nome do ganhador aparece de forma parcial. Quando você troca um ganhador que não respondeu, a troca fica registrada e o portal mostra que ele foi substituído por esse motivo.
+
+O ganhador aparece no painel. Se há mais ganhadores previstos, o botão passa ao próximo número.
+
+## se o ganhador não responder
+
+1. No cartão desse ganhador, clique em `Não respondeu? Sortear outro no lugar`. [t=223] [guia=sorteios-ao-vivo.substituir]
 
 ## desvios
 
-- Na lista, o botão `Ganhadores` (ou `Participantes`) também abre a tela de sortear ao vivo.
-- Para guardar o sorteio sem publicar, clique em `Salvar rascunho` no lugar de `Publicar`.
-- Depois que alguém se inscreve, não dá para mudar o início das inscrições, a quantidade de ganhadores nem a roleta.
-- Em `Participantes de Sorteios` você busca, filtra ganhadores e exporta em `CSV` ou `Excel`.
-- Cada aparelho só se inscreve uma vez por sorteio.
-
-## quando pedir ajuda
-
-peça ajuda se o sorteio não aparecer no portal, se a roleta não abrir ou se houver dúvida sobre trocar um ganhador.
+- Se abrir antes do horário do sorteio, a lista pode pedir confirmação para antecipar. Leia o aviso antes de confirmar.
+- A tela cheia depende do navegador.
 
 ## fontes
 
-- `portal-cidade/frontend/src/components/painel/Sidebar.tsx:207-214` — menu Sorteios.
-- `portal-cidade/frontend/src/components/painel/sorteios/ModalSorteio.tsx:1` — formulário.
-- `portal-cidade/frontend/src/app/painel/sorteios/[id]/ao-vivo/page.tsx:1` — sortear ao vivo.
-- vídeo `uN4FHHHGgEs`.
+- `frontend/src/app/painel/sorteios/[id]/ao-vivo/page.tsx:110`
+- `frontend/src/app/painel/sorteios/[id]/ao-vivo/page.tsx:145`
+
+- Catálogo: `portal-da-cidade/videos.json`; legendas: `videos/legendas/uN4FHHHGgEs.srt`, `videos/legendas/REgRSXekqpA.srt`.
 
 ## lacunas
 
-não verificado visualmente nesta tarefa; passos conferidos com o vídeo de suporte e com o código da tela.
+- Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.

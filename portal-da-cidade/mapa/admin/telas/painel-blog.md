@@ -8,15 +8,20 @@
 - problemas: fato — falha em colunistas/categorias é engolida (:131-132), então os filtros ficam vazios sem aviso.
 - admin vs cliente: o colunista cria/edita o próprio artigo em `/minha-conta/colunista-blog`. O admin vê todos, edita e exclui qualquer um. Não há aprovar/reprovar aqui (isso está em `/painel/aprovacoes`). Admin não vê o limite semanal nem o plano do colunista (cliente vê `PainelPlanoBlog`, `limiteSemanal.ts`).
 
+## como chegar
+- na parte Conteúdo do menu, abra `Artigos` e clique em `Lista de Artigos`.
+
 ## o que você vê
 Lista de todos os artigos dos colunistas do portal, para achar, abrir, ver no site ou apagar um artigo.
 - cartões Todos / Publicados / Agendados / Rascunhos / Arquivados: quantos artigos há em cada situação; clicar em um cartão mostra só aqueles (clicar de novo tira o filtro).
-- Buscar por título, Colunista, Categoria: filtros para encontrar um artigo.
+- campos `Título` (busca), `Colunista`, `Categoria` e `Status`: filtros para encontrar um artigo.
+- botões `Colunistas`, `Categorias` e `+ Novo Artigo` no alto, à direita.
+- colunas da tabela: `Artigo`, `Colunista`, `Categoria`, `Status`, `Data` e `Ações`.
 - coluna Status: Publicado (está no site), Agendado (vai entrar no site na data marcada), Rascunho (ainda não está no site), Arquivado (tirado do ar).
 - coluna Data: quando foi publicado ou quando está agendado para entrar.
 - ícone de abrir no site: mostra o artigo como o público vê (só funciona se ele já estiver no site).
 - lápis (Editar): abre o artigo para mudar texto, foto ou categoria.
-- lixeira (Excluir): apaga o artigo, depois de pedir confirmação.
+- lixeira (Excluir): apaga o artigo, depois de pedir confirmação no botão `Excluir`.
 - a aprovação de artigos enviados pelos colunistas não é feita aqui, e sim em Aprovações e Denúncias.
 
 ## posições na tela (print de 2026-10-16, 1280x900)

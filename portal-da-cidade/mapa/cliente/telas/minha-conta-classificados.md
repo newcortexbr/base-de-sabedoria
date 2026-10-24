@@ -14,7 +14,7 @@ Arquivo: `src/app/minha-conta/classificados/page.tsx`
 - lista anúncios do cliente com contadores (no ar, em análise, vendidos), filtro por situação, faixa de plano, `BoasVindasDoPerfil`.
 
 ## ações e campos
-- Novo anúncio, editar, pausar/reativar, marcar como vendido (`confirm`: "Marcar … como vendido? O anúncio sai do site."), excluir (`confirm`), ver no site (só quando visível de fato: ativo, com foto, no prazo, `page.tsx:49-52`).
+- botão `Novo anúncio` (no topo); em cada anúncio, botões só de ícone (o nome aparece ao passar o mouse/leitor de tela): `Ver <título> no site`, `Editar <título>`, `Pausar`/`Reativar <título>`, `Marcar <título> como vendido`, `Excluir <título>`. Detalhe das ações: Novo anúncio, editar, pausar/reativar, marcar como vendido (`confirm`: "Marcar … como vendido? O anúncio sai do site."), excluir (`confirm`: Excluir o anúncio "…" permanentemente?), ver no site (só quando visível de fato: ativo, com foto, no prazo, `page.tsx:49-52`).
 - filtros: Todos, Ativo, Pausado, Aguardando aprovação, Reprovado, Vendido, Encerrado.
 - notas por item: sem foto, em análise, vendido, motivo de reprovação com "Corrigir e reenviar".
 
@@ -60,12 +60,14 @@ Arquivo: `src/app/minha-conta/classificados/page.tsx`
 
 ## o que você vê
 Lista dos seus anúncios de classificados (coisas à venda), com a situação de cada um.
-- No ar / Em análise / Vendidos: contagem dos seus anúncios em cada situação.
+- Anúncios no ar / Em análise / Vendidos: contagem dos seus anúncios em cada situação (o primeiro mostra "de N do seu plano").
 - Faixa do plano: quantos anúncios ativos seu plano permite. Todo cliente tem o plano Grátis.
-- Novo anúncio: fica desligado quando você chega ao limite do plano; pause um anúncio ou mude de plano.
+- Novo anúncio: fica desligado quando você chega ao limite do plano; pause um anúncio ou mude de plano (aparece o link `Ver planos de Classificados`).
 - Filtros: Todos, Ativo, Pausado, Aguardando aprovação (o portal ainda vai revisar), Reprovado, Vendido, Encerrado.
 - Pausar / Reativar: tira o anúncio do site por um tempo e depois devolve.
 - Marcar como vendido: o anúncio sai do site.
 - Excluir: apaga o anúncio (pede confirmação).
 - Ver no site: só aparece quando o anúncio está de fato visível (ativo, com foto e dentro do prazo).
-- Reprovado: mostra o motivo e o botão "Corrigir e reenviar".
+- Reprovado: mostra o motivo e o link `Corrigir e reenviar`.
+- Sem anúncios: "Publique seu primeiro anúncio", com o botão `Criar meu primeiro anúncio`.
+- Anúncio sem foto: nota "Sem foto, este anúncio não aparece no site", com o link `Adicionar uma foto`.

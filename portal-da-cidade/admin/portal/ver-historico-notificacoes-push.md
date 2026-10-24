@@ -8,14 +8,15 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - -ZLL7Cqwcok
 ---
 
 ## objetivo
-aqui você vê quantas pessoas aceitaram receber avisos, quantos avisos foram enviados no mês e quantos foram abertos.
+
+Consulte os inscritos e os resultados dos avisos enviados.
 
 ## pré-requisitos
 
@@ -23,27 +24,21 @@ aqui você vê quantas pessoas aceitaram receber avisos, quantos avisos foram en
 
 ## passos
 
-1. No menu da esquerda, na parte `Sistema`, clique em `Notificações Push`. [guia=menu:/painel/notificacoes]
-2. No topo da página, veja quantas pessoas aceitaram receber avisos, quantos avisos já foram enviados no mês e quantas pessoas abriram. Um indicador mostra a média de pessoas que abriram. [guia=notificacoes.resumo]
-3. Mais abaixo, no quadro `Histórico`, veja o que já foi enviado: o texto, o dia e a hora do envio, quantas pessoas receberam e quantas abriram. [guia=notificacoes.historico]
+1. Na parte `Sistema` do menu da esquerda, clique em `Notificações Push`. [t=9] [guia=menu:/painel/notificacoes]
+2. Consulte os indicadores no quadro `Notificações`. [t=12] [guia=notificacoes.resumo]
+3. Consulte os envios no `Histórico`. [t=43] [guia=notificacoes.historico]
 
 ## resultado
-Você vê os números do topo e a lista do que já foi enviado.
 
-## desvios
-
-- Se aparecer o aviso de que o envio não está disponível, o botão de enviar fica apagado e não funciona.
-- Notificação enviada não volta.
-
-## quando pedir ajuda
-
-peça ajuda se a página não carregar, se o salvamento der erro ou se a opção esperada não aparecer.
+O resumo mostra os totais do portal; o histórico mostra a situação e os números de cada aviso.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/notificacoes/page.tsx`
-- `suporte-kb/mapa/admin/telas/painel-notificacoes.md`
+- `frontend/src/app/painel/notificacoes/page.tsx:280`
+- `frontend/src/app/painel/notificacoes/page.tsx:357`
+
+- Catálogo: `portal-da-cidade/videos.json`; legendas: `videos/legendas/-ZLL7Cqwcok.srt`.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os textos dos botões podem mudar.
+- Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.

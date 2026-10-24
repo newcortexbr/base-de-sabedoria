@@ -7,7 +7,7 @@
 
 ## o que você vê
 Endereço antigo das fotos de um roteiro: hoje ele leva direto para a lista de roteiros.
-- as fotos e vídeos do roteiro agora ficam dentro do próprio formulário do roteiro.
+- as fotos e vídeos do roteiro agora ficam dentro do formulário do roteiro (`Editar` na lista de roteiros), em "Galeria de fotos e vídeos".
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-roteiros-id-fotos.png](../prints/painel-turismo-roteiros-id-fotos.png) · dados brutos: [json](../prints/json/painel-turismo-roteiros-id-fotos.json)

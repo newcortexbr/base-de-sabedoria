@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - VV8BxCbIfz4
@@ -21,22 +21,31 @@ aqui você escolhe os botões que aparecem no cardápio, o tema claro ou escuro 
 
 - Ter acesso administrativo ao portal.
 - O módulo Guia Comercial estar disponível no portal.
+- A empresa ter ficha completa; a cortesia do portal também atende a essa condição.
 - A categoria da empresa ter `Cardápio` marcado em `Gerenciar Categorias`; sem isso o cartão não aparece.
 
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas]
-2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar]
-3. Desça até `Conteúdo da ficha` e, no cartão `Cardápio`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-cardapio]
-4. No topo, ligue ou desligue o botão `Fazer meu pedido` (ele leva o cliente ao delivery da loja). [guia=guia-empresas-cardapio.botoes]
-5. Ligue ou desligue o botão `Chamar no WhatsApp` (ele abre a conversa com o número da empresa). Se o cardápio for só para consulta nas mesas, deixe os dois desligados. [guia=guia-empresas-cardapio.botoes]
-6. Em `Aparência do cardápio`, escolha o tema claro ou escuro. [guia=guia-empresas-cardapio.tema]
-7. Para imprimir o QR code, escolha o tamanho da placa (`A4` para parede, `A5` para balcão, `A6` para mesa ou adesivo de 10 por 10 cm). [guia=guia-empresas-cardapio.tamanho-placa]
-8. Clique em `Gerar QR Code para imprimir`. [guia=guia-empresas-cardapio.gerar-qrcode]
-9. Se preferir, baixe a imagem do QR code ou copie o link para mandar no WhatsApp e nas redes sociais. [guia=guia-empresas-cardapio.gerar-qrcode]
+2. Na linha da empresa, clique no lápis (`Editar`). [guia=guia-empresas.editar]
+3. Em `Conteúdo da ficha`, clique em `Gerenciar` no cartão `Cardápio`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-cardapio] [t=22]
+4. Ajuste `Fazer meu pedido` para mostrar ou ocultar esse botão no cardápio. [guia=guia-empresas-cardapio.botao-pedido] [t=34]
+5. Ajuste `Chamar no WhatsApp` para mostrar ou ocultar esse botão. [guia=guia-empresas-cardapio.botao-whatsapp] [t=37]
+6. Em `Aparência do cardápio`, escolha `Claro` ou `Escuro`. [guia=guia-empresas-cardapio.tema] [t=49]
+7. Em `Tamanho da placa`, escolha o formato para impressão. [guia=guia-empresas-cardapio.tamanho-placa] [t=61]
+8. Clique em `Gerar QR Code para imprimir`. [guia=guia-empresas-cardapio.gerar-qrcode] [t=69]
+
+## baixar a imagem
+
+1. Depois de abrir o cardápio pelos três primeiros passos, clique em `Baixar imagem`. [guia=guia-empresas-cardapio.baixar-imagem] [t=72]
+
+## copiar o link
+
+1. Depois de abrir o cardápio pelos três primeiros passos, clique em `Copiar link`. [guia=guia-empresas-cardapio.copiar-link] [t=74]
 
 ## resultado
-O cardápio mostra os botões e o tema escolhidos, e o QR code fica pronto para imprimir. no portal, a página da empresa mostra o bloco `cardápio digital` com o número de seções e de itens e o botão `ver cardápio completo`. a página do cardápio tem capa, logo, busca, seções em abas e, no rodapé, os botões que você ligou.
+
+As opções de botão e tema são gravadas ao alterá-las. O comando de QR code abre a impressão da placa.
 
 ## desvios
 
@@ -51,10 +60,11 @@ peça ajuda se o cartão `Cardápio` não aparecer mesmo com a categoria marcada
 
 ## fontes
 
-- `portal-cidade/frontend/src/components/painel/EmpresaEditor.tsx:933-946,1655-1686` — cartões de `Conteúdo da ficha`.
-- `portal-cidade/frontend/src/app/painel/guia/empresas/[id]/cardapio/page.tsx:1` — tela `Gerenciar Cardápio`.
-- vídeo `VV8BxCbIfz4` (tutorial Gerenciar Cardápio).
+- `portal-cidade/frontend/src/components/painel/EmpresaEditor.tsx:949-974,1735-1744`.
+- `portal-cidade/frontend/src/components/guia/CardapioBotoes.tsx:15-16,71-78`.
+- `portal-cidade/frontend/src/components/guia/CardapioTema.tsx:65-105`.
+- `portal-cidade/frontend/src/components/guia/CardapioQRCode.tsx:112-161`.
 
 ## lacunas
 
-não verificado visualmente nesta tarefa; passos conferidos com o vídeo de suporte e com o código da tela. O botão do prato é `+ Adicionar prato`, como no vídeo.
+Conferência documental no código b2f62d3f e nas legendas dos vídeos citados. Sem execução no navegador; não foram medidos cache, entrega de pedidos, impressão ou upload reais.

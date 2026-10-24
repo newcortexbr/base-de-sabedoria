@@ -13,7 +13,7 @@ Arquivo: `src/app/minha-conta/autor/page.tsx`
 - edita a "assinatura" do jornalista, o que o leitor vê em cada notícia.
 
 ## ações e campos
-- usa o componente compartilhado `AutorFormBase` (painel) com `variante="area"` (`page.tsx:26-31`). Os campos vêm de lá (não lidos nesta rodada: hipótese de nome, bio, foto etc.).
+- usa o componente compartilhado `AutorFormBase` (painel) com `variante="area"` (`page.tsx:26-31`). Campos (conferidos no print da tela): `Foto do autor`, `Nome` (obrigatório, até 150), `Cargo`, `Bio` (até 500), `Site`, `Instagram`, `Facebook`, `LinkedIn`, `WhatsApp`, `E-mail público`; botão `Salvar perfil`; ao lado, a prévia "Como aparece na notícia".
 - ao salvar chama `recarregar` da casca para atualizar o nome no menu.
 
 ## APIs

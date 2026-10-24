@@ -3,7 +3,7 @@
 Arquivo: `src/app/minha-conta/eventos/page.tsx`
 
 ## quem acessa
-- empresa (menu "Eventos"). Os outros perfis são redirecionados.
+- empresa (menu "Agenda de Eventos"; o título da tela também é "Agenda de Eventos"). Os outros perfis são redirecionados.
 
 ## gate de módulo/plano
 - evento NÃO é assinatura: é pagamento avulso por evento (ou pacote que inclui N eventos) (`page.tsx:3-5`, `secoes-do-cliente.ts:27-30,237`). Está em `MODULOS_POR_ITEM`: `planos/eventos` redireciona para esta tela (`planos/[secao]/page.tsx:182-185`).
@@ -14,7 +14,7 @@ Arquivo: `src/app/minha-conta/eventos/page.tsx`
 - mostra pacotes contratados ("X de Y eventos usados", renova em …).
 
 ## ações e campos
-- Novo evento, Editar ou "Continuar pagamento" (se aguardando pagamento), ver no site (se `no_ar`), "Corrigir e reenviar" (reprovado).
+- botão `Novo evento`; em cada evento, link `Editar` ou `Continuar pagamento`. Detalhe: Novo evento, Editar ou "Continuar pagamento" (se aguardando pagamento), ver no site (se `no_ar`), "Corrigir e reenviar" (reprovado).
 - filtro: Todos, Aguardando pagamento, Em análise, Publicado, Encerrados, Reprovado.
 - notas: "Depois de pago, todo evento entra em análise do dono do portal antes de ir ao ar." (se o portal exige aprovação).
 
@@ -51,7 +51,7 @@ Arquivo: `src/app/minha-conta/eventos/page.tsx`
 Lista dos seus eventos. Evento não é assinatura: cada um é pago à parte, ou entra num pacote que inclui vários eventos.
 - Situação: Publicado, Aguardando pagamento, Em análise (o portal vai revisar), Reprovado, Encerrado (o evento já saiu do ar).
 - Pacotes: "X de Y eventos usados" mostra quanto do pacote você já gastou e quando ele renova.
-- Novo evento: cria um evento.
+- Novo evento: cria um evento. Cartões de número: No ar, Aguardando pagamento, Em análise. Selo "Com destaque" no evento que tem destaque.
 - Continuar pagamento: aparece no evento que ainda não foi pago.
 - Corrigir e reenviar: no evento reprovado.
 - Ver no site: só para evento no ar.

@@ -8,13 +8,14 @@
 - admin vs cliente: equivale a `/minha-conta/vagas/[id]/editar`.
 
 ## o que você vê
-Tela para mudar uma vaga de emprego que já existe; os campos são os mesmos do cadastro.
-- Contratante *: a empresa que oferece a vaga; se ela não existir, use Cadastrar contratante.
-- Dados da Vaga: Título * (ex.: Desenvolvedor Full Stack Pleno), Área, Tipo de contrato, Carga horária (ex.: 44h, 12x36), Modelo de trabalho, Salário (ou a combinar), cidade e bairro.
-- Descrição da vaga *, Requisitos e benefícios (um por linha).
-- Contato / Candidatura: WhatsApp para contato, E-mail para currículo (mostra botão de e-mail na vaga) e link de site de recrutamento (mostra botão "Candidatar-se").
-- Configurações: Status (Ativa, Pausada, Encerrada), Expira em (data em que a vaga sai do ar), Destaque e Urgente.
-- Estatísticas: Visualizações (quantas vezes a vaga foi vista) e Cliques no WhatsApp (quantas pessoas clicaram para chamar).
+Tela para mudar uma vaga de emprego que já existe; os campos são os mesmos do cadastro. Para abrir: na parte Conteúdo do menu, em `Vagas de Emprego`, clique em `Listar Vagas` e, na linha da vaga, em `Editar`. `Salvar alterações` grava.
+- "Empresa Contratante": campo Contratante * (lista "Selecione um contratante"), a empresa que oferece a vaga. O link `Cadastrar contratante` só aparece quando ainda não existe nenhum contratante; com contratantes já cadastrados, crie um novo em `Contratantes` do menu.
+- "Dados da Vaga": Título * (ex.: Desenvolvedor Full Stack Pleno), Área, Tipo de contrato (CLT, PJ / Autônomo, Estágio, Trainee, Temporário, Freelancer), Carga horária (ex.: 44h, 12x36), cidade e bairro, Modelo de trabalho (Presencial, Home Office, Híbrido) e as caixas Vaga PCD, 1º Emprego, Urgente e Destaque.
+- "Salário": caixa "A combinar" ou campo "Salário (R$)" (um valor único).
+- "Descrição": Descrição da vaga *, Requisitos e "Benefícios (um por linha)".
+- "Contato / Candidatura": "URL de candidatura (site externo)", "WhatsApp para contato" e "E-mail para currículo".
+- "Configurações": Status (Ativa, Pausada, Encerrada) e Expira em (data em que a vaga sai do ar).
+- "Estatísticas": Visualizações (quantas vezes a vaga foi vista) e Cliques no WhatsApp (quantas pessoas clicaram para chamar).
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-vagas-id-editar.png](../prints/painel-vagas-id-editar.png) · dados brutos: [json](../prints/json/painel-vagas-id-editar.json)

@@ -3,15 +3,12 @@ id: admin-configurar-rodape-do-portal
 titulo: "mudar o rodapé do portal"
 publico:
   - admin
-modulo: configuracoes
+modulo: configurações
 categoria: admin
 aba: nao-se-aplica
-tipo_problema:
-  - mudar o rodapé
-  - cor do rodapé
-  - logo do rodapé
+tipo_problema: configuracao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - vPnHq9kRWW8
@@ -19,38 +16,78 @@ videos:
 ---
 
 ## objetivo
-aqui você muda o modelo, o texto, as cores e o tamanho do logo no rodapé do portal.
+
+aqui você muda o modelo, o texto, as cores e o tamanho da logo do rodapé.
 
 ## pré-requisitos
 
-- Ter acesso de administrador ao painel.
+- Ter acesso de administrador ao painel do portal.
 
 ## passos
 
-1. No menu da esquerda, clique em `Configurações` e depois em `Layout`. [guia=menu:/painel/configuracoes/layout]
-2. Clique em `Rodapé`. [guia=configuracoes-layout.partes]
-3. Em `Modelo do rodapé`, escolha `Linha única`, `Centralizado` ou `Faixa de chamada`. [guia=fora]
-4. Escreva o texto curto que aparece abaixo da logo no rodapé (até 300 caracteres). [guia=menu:/painel/configuracoes/layout]
-5. Escolha a `Cor de fundo do rodapé` e a `Cor dos textos e links`. [guia=fora]
-6. Em `Tamanho da logo no rodapé`, escolha `Pequena`, `Média` ou `Grande`. [guia=fora]
-7. Clique em `Salvar`. [guia=configuracoes-layout.salvar]
+### abrir a edição
+
+1. Na parte `Sistema` do menu da esquerda, clique em `Configurações` para abrir as opções, se estiverem fechadas. [t=5] [guia=configuracoes.abrir-menu]
+2. Clique em `Layout`. [t=7] [guia=menu:/painel/configuracoes/layout]
+3. Clique no cartão `Rodapé`. [t=9] [guia=configuracoes-layout.rodape]
+
+### escolher o modelo
+
+Use apenas a opção desejada.
+
+1. Para o modelo em uma linha, clique em `Linha única`. [t=11] [guia=rodape.modelo-1]
+
+2. Para o modelo centralizado, clique em `Centralizado`. [t=12] [guia=rodape.modelo-2]
+
+3. Para o modelo com chamada, clique em `Faixa de chamada`. [t=14] [guia=rodape.modelo-3]
+
+### ajustar e salvar
+
+1. Preencha `Texto abaixo da logo` com até 300 caracteres. [t=16] [guia=rodape.texto]
+2. Para copiar a cor atual da barra de navegação, clique em `Herdar cor do topo`. [t=20] [guia=rodape.herdar-cor-topo]
+3. Em `Cor dos textos e links`, preencha o campo de código da cor, no formato `#FFFFFF`. [t=22] [guia=rodape.cor-texto]
+4. Em `Tamanho da logo no rodapé`, clique em `Média` para usar o tamanho médio. [t=25] [guia=rodape.tamanho-media]
+5. Clique em `Salvar`. [t=28] [guia=configuracoes-layout.salvar]
+
+### usar fundo de cor sólida própria
+
+Esta sequência substitui o passo de herdar a cor do topo; use-a antes de salvar.
+
+1. Em `Cor de fundo do rodapé`, clique em `Cor sólida`. [t=19] [guia=rodape.fundo-solido]
+2. No campo de código dessa cor, digite o valor no formato `#084A43`. [guia=rodape.fundo-codigo]
+3. Clique em `Salvar`. [t=28] [guia=configuracoes-layout.salvar]
+
+### usar um gradiente pronto no fundo
+
+Esta sequência é uma alternativa ao fundo sólido ou à cópia da cor do topo.
+
+1. Em `Cor de fundo do rodapé`, clique em `Gradiente`. [t=19] [guia=rodape.fundo-gradiente]
+2. Clique na amostra com a descrição `#134E4A → #0F8C7C`. [guia=rodape.fundo-combinacao]
+3. Clique em `Salvar`. [t=28] [guia=configuracoes-layout.salvar]
+
+### outros tamanhos da logo
+
+Escolha apenas um tamanho; depois salve o rodapé.
+
+1. Para a logo menor, clique em `Pequena` em `Tamanho da logo no rodapé`. [t=25] [guia=rodape.tamanho-pequena]
+2. Para a logo maior, clique em `Grande` no mesmo quadro. [t=25] [guia=rodape.tamanho-grande]
+3. Clique em `Salvar`. [t=28] [guia=configuracoes-layout.salvar]
 
 ## resultado
-aparece "Salvo com sucesso!". o novo rodapé passa a aparecer em todas as páginas do site.
 
-## desvios
+aparece `Rodapé salvo` e as escolhas são enviadas ao site. A prévia é um rascunho até salvar. `Herdar cor do topo` copia a cor atual; não cria um vínculo automático para mudanças futuras no topo.
 
-- `Herdar cor do topo` usa no rodapé a mesma cor da barra do topo.
-- Se o site ainda mostrar o rodapé antigo, veja "salvei, mas o site ainda mostra o antigo".
+## explicação
 
-## quando pedir ajuda
-
-peça ajuda se aparecer erro ao salvar.
+Também existem `Pequena` e `Grande` para a logo, e `Gradiente` para o fundo. Para manter o tamanho atual, não altere essa escolha.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/configuracoes/layout/rodape/page.tsx:127,195-351`.
+- `portal-cidade/frontend/src/app/painel/configuracoes/layout/rodape/page.tsx:43` — cor sólida.
+- `portal-cidade/frontend/src/app/painel/configuracoes/layout/rodape/page.tsx:198` — modelos.
+- `portal-cidade/frontend/src/app/painel/configuracoes/layout/rodape/page.tsx:267` — texto, cópia de cor e tamanho.
+- `portal-cidade/frontend/src/app/painel/configuracoes/layout/rodape/page.tsx:352` — salvar.
 
 ## lacunas
 
-tela não validada no navegador nesta tarefa.
+Sem validação no navegador ou medição do tempo de atualização pública. O exemplo de gradiente usa uma combinação pronta.

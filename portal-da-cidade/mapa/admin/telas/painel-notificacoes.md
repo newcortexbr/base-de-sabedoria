@@ -3,27 +3,27 @@
 Arquivo: `app/painel/notificacoes/page.tsx`
 
 ## o que você vê
-Envia avisos (notificações) ao celular ou navegador de quem aceitou receber, e mostra o histórico.
-- resumo: inscritos, enviadas no mês e taxa média de abertura.
-- Convidar visitantes a receber notificações: liga ou desliga o convite no site; salva na hora.
-- Nova notificação: Título, Mensagem e Link (endereço começando com https).
-- Quando: enviar agora ou agendar com Data e Hora.
-- Enviar para N / Agendar para N: N é quantas pessoas vão receber; depois de enviada, a notificação não volta.
-- Histórico: situação (Agendada, Enviando, Enviada, Cancelada, Falhou), quantos receberam e quantos abriram; agendada pode ser cancelada.
-- aviso amarelo de envio indisponível: o envio ainda não está disponível neste ambiente.
+Envia avisos (notificações) ao celular ou navegador de quem aceitou receber, e mostra o histórico. No menu lateral, na parte Sistema, clique em `Notificações Push`.
+- resumo: `inscritos`, `enviadas no mês` e taxa média de abertura.
+- caixa `Convidar visitantes a receber notificações`: liga ou desliga o convite no site; salva na hora. Com o convite ligado, aparecem `Título do convite` e `Descrição` (com prévia "como o visitante vê", botões `Sim, quero` / `Não, obrigado`) e o botão `Salvar texto`; campo apagado volta ao texto padrão.
+- `Nova notificação`: `Título`, `Mensagem` e `Link` (endereço completo, começando com http:// ou https://), com prévia da notificação.
+- `Quando`: `Agora` ou `Agendar` (aparecem `Data` e `Hora`).
+- botão `Enviar para N` / `Agendar para N`: N é quantas pessoas vão receber; o painel pede confirmação (`Enviar` / `Agendar`) e, depois de enviada, a notificação não volta.
+- `Histórico`: colunas Notificação, Enviada, Entregues e Abriram; situação (Agendada, Enviando…, Enviada, Cancelada, Falhou); notificação agendada tem o botão `Cancelar`.
+- aviso amarelo de envio indisponível: o envio ainda não está disponível neste ambiente; dá para preencher, mas o botão fica desativado.
 
 ## rota e gate
-- `/painel/notificacoes`. client. gate `PainelGuard`; sem gate de módulo (rota ausente de `lib/painel-menu.ts`).
+- `/painel/notificacoes`; menu: parte Sistema, `Notificações Push` (`Sidebar.tsx:274`). client. gate `PainelGuard`; sem gate de módulo (rota ausente de `lib/painel-menu.ts`).
 
 ## o que faz
 - envio de notificações push do portal a quem se inscreveu, com histórico e liga/desliga do convite no site.
 
 ## campos e ações
 - resumo: inscritos, enviadas no mês, taxa média de abertura.
-- caixa "Convidar visitantes a receber notificações" (`push_convite_ativo`): salva na hora, reverte se falhar, revalida o layout (`:126-141`).
-- formulário "Nova notificação": Título (máx. 50), Mensagem (máx. 120), Link (https obrigatório, máx. 500), Quando: agora ou agendar (Data + Hora). botão "Enviar para N" ou "Agendar para N".
-- `window.confirm` antes de enviar ("Depois de enviada, a notificação não volta", `:176-178`). chave de idempotência `crypto.randomUUID()` por envio (`:81`).
-- histórico: tabela com status (Agendada, Enviando…, Enviada, Cancelada, Falhou), entregues, abriram; botão cancelar com `window.confirm` (`:205`).
+- caixa `Convidar visitantes a receber notificações` (`push_convite_ativo`): salva na hora, reverte se falhar, revalida o layout (`:126-141`). Texto do convite editável: `Título do convite`, `Descrição`, `Salvar texto` (`:319-346`).
+- formulário `Nova notificação`: `Título`, `Mensagem`, `Link` (http:// ou https:// obrigatório), `Quando`: `Agora` ou `Agendar` (`Data` + `Hora`). botão `Enviar para N` ou `Agendar para N` (`:257-262`).
+- aviso de confirmação do painel antes de enviar ("Depois de enviada, a notificação não volta", `:211-215`). chave de idempotência `crypto.randomUUID()` por envio (`:81`).
+- histórico: tabela com status (Agendada, Enviando…, Enviada, Cancelada, Falhou), entregues, abriram; botão `Cancelar` com aviso de confirmação (`:242`).
 - recarrega a cada 10 s enquanto houver item `na_fila` ou `enviando` (`:116-120`).
 
 ## apis
@@ -37,7 +37,7 @@ Envia avisos (notificações) ao celular ou navegador de quem aceitou receber, e
 - fato: o texto do histórico mostra "Falhou" sem motivo nem botão de reenviar (`ROTULO_STATUS`, `:11-18`).
 - fato: erro numa recarga automática (a cada 10 s) aparece como erro do histórico (`:104-106`) e o polling continua; pode piscar o mesmo erro.
 - fato: `enviar` envia ao número de inscritos do último resumo (`:174`); se o número mudou, o texto do confirm está defasado (menor).
-- fato: título/mensagem/link não passam por moderação nem prévia além do texto "Aparece exatamente assim no celular", sem prévia visual real (não encontrei componente de prévia).
+- fato: título/mensagem/link não passam por moderação; há prévia visual (`Prévia da notificação`, `:463`).
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-notificacoes.png](../prints/painel-notificacoes.png) · dados brutos: [json](../prints/json/painel-notificacoes.json)

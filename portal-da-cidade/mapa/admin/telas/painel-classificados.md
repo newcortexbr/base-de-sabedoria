@@ -2,19 +2,23 @@
 - gate: módulo `classificados` (prefixo `/painel/classificados`, `src/lib/painel-menu.ts`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`). ATENÇÃO: "classificados" no frontend = anúncios de venda.
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
 - faz: lista paginada (20) de anúncios com abas "Todos / Publicados no site / Incompletos (sem foto)" (:41-45, resumo vem do servidor), filtros de busca/categoria/status na URL (:138).
-- ações: encerrar/reativar (alterna `ativo`↔`encerrado`, :178), marcar como vendido com confirmação (:192-196), excluir com `confirm` (:165), abrir editar; revalida o site após cada ação.
+- ações: clicar no selo de status alterna `ativo`↔`encerrado` (`toggleStatus`, :182), marcar como vendido com confirmação (:192-196), excluir com `confirm` (:165), abrir editar; revalida o site após cada ação.
 - APIs: `classificados.anuncios.listar|atualizar|excluir`, `classificados.categorias.listar` (:112-113).
 - estados: erro em `error` (:120,173,185,200); vazio "Nenhum anúncio encontrado" (:285). Rótulos calculados "sem foto" e "expirado" (:36,80-90) espelham o que o visitante vê.
 - problemas: fato — o admin alterna `ativo/encerrado` (:178) e o cliente alterna `ativo/pausado` (`minha-conta/classificados/page.tsx:149`): estados diferentes para a mesma ideia. fato — não há botão de aprovar/reprovar aqui (fica em `/painel/aprovacoes`).
 - admin vs cliente: cliente (`/minha-conta/classificados`) pausa/reativa, marca vendido, vê motivo de reprovação, prazo, plano/limite e cobrança de item pago. Admin faz pausar apenas via editar (campo status), vê todos, exclui e ignora limite de plano.
 
+## como chegar
+- na parte Conteúdo do menu, abra `Classificados` e clique em `Listar Anúncios`.
+
 ## o que você vê
 Lista de todos os anúncios classificados (compra e venda) do portal.
-- abas Todos / Publicados no site / Incompletos (sem foto): anúncio sem foto não aparece no site.
-- Buscar por título ou descrição, categoria e Status, depois Filtrar.
-- Status: Ativo (no site), Pausado (escondido por enquanto), Encerrado (fechado), Vendido (marcado como vendido).
-- Preço: valor pedido; Local: cidade e bairro; Destaque: anúncio com mais visibilidade; WhatsApp: tem contato por WhatsApp.
-- botões: encerrar ou reativar, marcar como vendido (pede confirmação), Ver no site, Editar e apagar (com confirmação).
+- no alto, botões `Anunciantes`, `Categorias` e `+ Novo Anúncio`.
+- abas `Todos`, `Publicados no site` e `Incompletos (sem foto)`, cada uma com a contagem; anúncio sem foto não aparece no site.
+- filtros: busca `Buscar por título ou descrição...`, lista `Todas as categorias`, lista `Todos os status` e botão `Filtrar`.
+- colunas: `Anúncio`, `Categoria`, `Preço`, `Local`, `WhatsApp` (cliques), `Status`.
+- selo na coluna `Status` (`ativo`, `pausado`, `encerrado`, `vendido`, `sem foto` ou `expirado`): clicar nele alterna entre `ativo` e `encerrado`.
+- links/botões de cada linha: `Ver` (abre no site), `Editar`, `Marcar como vendido` (só em anúncio ativo; pede confirmação) e `Excluir` (pede confirmação).
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-classificados.png](../prints/painel-classificados.png) · dados brutos: [json](../prints/json/painel-classificados.json)

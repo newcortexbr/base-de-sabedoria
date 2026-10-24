@@ -21,7 +21,7 @@ Arquivos: `app/painel/configuracoes/layout/topo/page.tsx` (521 linhas), `topo/Or
 
 ## estados
 - carregando; falha de carga: mensagem em rosa e o formulário não aparece (`:190`, `:207`).
-- salvar: `feedback` "Salvo!" por 2 s ou a mensagem do servidor (rosa).
+- salvar: aviso "Topo salvo" (`avisos.sucesso`) ou a mensagem do servidor.
 - sem estado vazio. `modulos` ausente (portal antigo) é tratado como tudo ligado (`:203`).
 
 ## em nome do cliente
@@ -31,7 +31,7 @@ Arquivos: `app/painel/configuracoes/layout/topo/page.tsx` (521 linhas), `topo/Or
 - fato: `parseCorInput` só entende o gradiente no formato `linear-gradient(dir, #hex, #hex)` (`cores-utils.ts:36-42`); qualquer outro valor vindo do servidor (rgb, nome de cor) vira "sólida" com o texto cru e o campo de cor nativo (`type=color`) pode não mostrar a cor certa (hipótese de impacto).
 - fato: `sanitizeHex` só põe `#` na frente (`cores-utils.ts:56`); não limita tamanho nem caracteres, portanto cor incompleta pode ser enviada (validação do backend não verificada).
 - fato: o contraste entre `cor_links_nav` e a barra de navegação não é avisado (diferente da tela de Cores); com links brancos e barra clara, o menu some.
-- fato: `revalidarLayout` falho só vai para `console.error` (`:226`); "Salvo!" aparece mesmo se o cache do site não for invalidado.
+- fato: `revalidarLayout` falho só vai para `console.error` (`:226`); "Topo salvo" aparece mesmo se o cache do site não for invalidado.
 - fato: `ordem_menu` é enviada inteira a cada salvamento; se módulos mudarem depois, itens novos dependem de `ordenarMenu` completar a lista (comportamento em `lib/menu-ordem.ts`, não lido a fundo).
 
 ## posições na tela (print de 2026-10-16, 1280x900)
@@ -66,12 +66,14 @@ Arquivos: `app/painel/configuracoes/layout/topo/page.tsx` (521 linhas), `topo/Or
 - [botão] "Voltar à ordem padrão" — conteúdo, mais abaixo (rolando a página), à esquerda (300,2023,129,36)
 - [botão] "Salvar Topo" — conteúdo, no fim da página, à esquerda, logo abaixo de “Voltar à ordem padrão” (300,2094,149,46)
 
+## como chegar
+- na parte Sistema do menu, abra `Configurações`, clique em `Layout` e depois no cartão `Topo`.
+
 ## o que você vê
 Muda o cabeçalho do site (a parte de cima, com logo e menu). A prévia ao lado atualiza enquanto você mexe.
-- Modelo do cabeçalho: Topo 1 a Topo 4 são arrumações diferentes de logo e menu; Topo 5 também mostra a previsão do tempo.
-- Tamanho da logo: Pequena, Média ou Grande.
-- Barra superior e Barra de navegação: cor de cada faixa do topo, em "Cor sólida" (uma cor) ou "Gradiente" (Cor 1 passando para Cor 2).
-- Links da navegação: cor do texto dos itens do menu.
-- Ordem do menu: arraste ou use as setas para subir e descer cada item. "Início" fica sempre primeiro. Item marcado "não aparece no site" está com o módulo desligado. "Voltar à ordem padrão" desfaz a ordem personalizada.
-- Como fica no seu site: prévia; nada muda no ar até salvar.
-- Salvar Topo: grava e publica.
+- `Modelo do cabeçalho`: `Topo 1` a `Topo 4` são arrumações diferentes de logo e menu; `Topo 5 — Com previsão do tempo` também mostra a previsão do tempo.
+- `Tamanho da logo`: `Pequena`, `Média` ou `Grande`.
+- `Cores`: `Barra superior` e `Barra de navegação`, cada uma em `Cor sólida` (uma cor) ou `Gradiente` (`Cor 1` passando para `Cor 2`); e `Links da navegação`, a cor do texto dos itens do menu.
+- `Ordem do menu`: arraste ou use as setas `Subir`/`Descer` de cada item. "Início" fica sempre primeiro ("sempre primeiro"). Item marcado "não aparece no site" está com o módulo desligado. `Voltar à ordem padrão` desfaz a ordem personalizada.
+- `Como fica no seu site`: prévia; nada muda no ar até salvar.
+- `Salvar Topo`: grava e publica.

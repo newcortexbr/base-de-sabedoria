@@ -1,7 +1,9 @@
 # /painel/guia/banners/[id]/editar (`.../[id]/editar/page.tsx`)
 - gate: NÃO depende do módulo `guia`: `/painel/guia/banners` está em `ROTAS_FORA_DO_MODULO` (`src/lib/painel-menu.ts`); é publicidade do portal. Posições de banner dependem do módulo de cada posição (`MODULO_POR_POSICAO`, `banners/page.tsx:91`, `posicoesOferecidas` :113).
+- menu: item solto `Banners Publicitários` na parte Conteúdo do menu lateral (não fica dentro de `Guia Comercial`, `Sidebar.tsx:246`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
-- faz: edita o banner com os mesmos campos do cadastro; troca de imagem opcional.
+- chegar: `Banners Publicitários` > `Editar` na linha do banner. título `Editar Banner`.
+- faz: edita o banner com os mesmos campos do cadastro (`Título *`, `Imagem`, `URL de Destino`, `Posição *`, `Categoria do Guia`, campos de ponto/roteiro, `Dados da venda`, `Data início`, `Data fim`, `Ordem`, `Ativo`); imagem opcional ("Deixe em branco para manter a imagem atual."). botões `Salvar Alterações` e `Cancelar`.
 - APIs: `guia.banners.listar` (:80) e procura o id no resultado; `guia.banners.atualizar` (:182); `guia.categorias.listar` (:52, `.catch` vazio).
 - estados: erro de carga `erroCarregamento` (:110); "Banner não encontrado." se id não existe (:207); "A data fim não pode ser antes da data início" (:131).
 - problemas: fato — não existe endpoint de detalhe: baixa todos os banners para editar um (:80). Em portal com muitos banners, custa carga a cada abertura. fato — categorias engolidas (:52).

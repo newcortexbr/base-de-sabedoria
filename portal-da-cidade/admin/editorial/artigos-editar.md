@@ -1,49 +1,57 @@
 ---
 id: artigos-editar
-titulo: "editar um artigo"
+titulo: "editar um artigo pelo painel"
 publico:
   - administrador do portal
-  - colunista
 modulo: Artigos
 categoria: conteúdo
 aba: Artigos
 tipo_problema: publicação
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - CRiUbh7wHdc
 ---
 
 ## objetivo
-aqui você muda um artigo que já foi cadastrado e salva.
+Alterar o texto, a categoria ou a capa de um artigo existente. O botão de conclusão depende do colunista.
 
 ## pré-requisitos/permissões
-O administrador usa o painel. O colunista usa a área do cliente, não o painel.
+Acesso de administrador. O colunista usa a área do cliente; este artigo cobre somente o painel.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Artigos` e depois em `Lista de Artigos`. [guia=menu:/painel/blog]
-2. Para mudar um artigo, clique no ícone de editar na linha do artigo que você quer. [guia=blog.editar]
-3. Faça as mudanças e clique no botão de salvar do formulário. [guia=blog-novo.publicar]
+1. No menu lateral, dentro de `Artigos`, clique em `Lista de Artigos`. [t=13] [guia=menu:/painel/blog]
+2. Na linha do artigo, clique no ícone de lápis, `Editar`. [t=26] [guia=blog.editar]
+3. Se quiser mudar o autor, escolha outro em `Colunista`. [guia=blog-novo.colunista]
+4. Se quiser mudar o tema, escolha a `Categoria`. [guia=blog-form.categoria]
+5. Altere `Título *`, se necessário. [guia=blog-novo.titulo]
+6. Altere `Subtítulo`, se necessário. [guia=blog-novo.subtitulo]
+7. Altere `Chamada`, se necessário. [guia=blog-novo.chamada]
+8. Altere `Texto do artigo`, se necessário. [guia=blog-novo.texto]
+9. Para trocar a capa, selecione um arquivo em `Nova foto de capa (opcional)`. [guia=blog-novo.capa]
+10. Altere `Legenda da foto`, se necessário. [guia=blog-form.legenda]
+11. Altere `Créditos da foto`, se necessário. [guia=blog-form.creditos]
+12. Altere `Título SEO`, se necessário. [guia=blog-form.seo-titulo]
+13. Altere `Descrição SEO`, se necessário. [guia=blog-form.seo-descricao]
+
+### concluir com colunista da casa
+
+14. Clique em `Publicar`. Este botão aparece quando o autor original e o selecionado são da casa. [guia=blog-editar.salvar]
+
+### concluir com colunista de autocadastro ou troca para autor da casa
+
+14. Clique em `Salvar alterações`. Este botão salva os campos sem mudar a situação de publicação. [guia=blog-editar.salvar]
 
 ## resultado
-O artigo fica com as mudanças.
-
-## desvios
-- Não trate Notícias e Artigos como o mesmo módulo: têm telas, papéis e estados distintos.
-- Jornalistas não são colunistas; seus fluxos são separados.
-- Se o estado não mudar, consulte o erro apresentado e peça ajuda; não repita uma ação sem verificar a lista.
-
-## quando pedir ajuda
-peça ajuda se o colunista esperado não estiver disponível, se o cadastro falhar ou se a lista não refletir o estado após recarregar.
+O painel mostra `Artigo salvo`. `Publicar` também publica um artigo arquivado. Trocar um autor de autocadastro por um da casa exige salvar a troca primeiro; só depois o botão passa a permitir publicação.
 
 ## fontes
-- `portal-cidade/frontend/src/app/painel/blog/page.tsx:27` — estados e rótulos.
-- `portal-cidade/frontend/src/app/painel/blog/novo/page.tsx:16` — comportamento de criação e colunista da casa.
-- `portal-cidade/frontend/src/app/painel/blog/novo/page.tsx:41` — formulário de novo artigo.
-- `docs/PRODUCT.md:25` — áreas de jornalista e colunista.
-- `docs/PRODUCT.md:40` — módulo Notícias.
+- Código b2f62d3f: `frontend/src/app/painel/blog/page.tsx:375` — editar.
+- `frontend/src/app/painel/blog/ArtigoCamposForm.tsx:73` — campos.
+- `frontend/src/app/painel/blog/[id]/page.tsx:130` — duas origens; `:159` — publicação; `:338` — capa; `:348` — botão.
+- `videos/legendas/CRiUbh7wHdc.srt` — navegação e edição na lista, 13 e 26 segundos; não demonstra salvar uma edição.
 
 ## lacunas
-não verificado visualmente. A decisão de publicar diretamente vale para a criação pelo administrador com colunista da casa, não para qualquer perfil ou edição.
+Sem execução no navegador. As marcas propostas não foram implementadas neste lote.

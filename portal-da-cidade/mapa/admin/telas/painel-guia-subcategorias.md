@@ -1,18 +1,19 @@
 # /painel/guia/subcategorias (`.../subcategorias/page.tsx`)
 - gate: módulo `guia` (prefixo `/painel/guia`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
-- faz: CRUD de subcategorias, com filtro/busca e controle de "aceita orçamento" (efetivo = herda da categoria, `orcamento-efetivo.ts`), inclusive em lote por categoria (:175-226).
-- ações: criar/editar (:42-44), excluir com aviso (:142-144), alternar orçamento (:175,204), ligar orçamento da categoria (:226).
+- menu: parte Conteúdo, grupo `Guia Comercial` > `Gerenciar Subcategorias` (`Sidebar.tsx:130`). título `Guia Comercial — Subcategorias`.
+- faz: CRUD de subcategorias (botão `+ Nova Subcategoria`; modal `Nova Subcategoria`/`Editar Subcategoria` com `Categoria *`, `Nome *`, caixa `Subcategoria ativa`, caixa `Aparece no formulário de Orçamento`, `Salvar`, `Cancelar`), com filtro/busca (`Buscar subcategoria…`, lista de categorias com `Todas as categorias`) e controle de "aceita orçamento" (efetivo = herda da categoria, `orcamento-efetivo.ts`), inclusive em lote por categoria (:175-226).
+- ações: criar/editar (:42-44), excluir com aviso (:142-144), alternar orçamento por linha (caixa na coluna Orçamento: `Aparece` / `Não aparece` / `Fora — categoria desmarcada`), `Marcar todas` / `Desmarcar todas` por categoria (`Marcar as exibidas` com busca ativa), `Incluir no orçamento` (liga a categoria fora do orçamento). cada linha tem ícones de editar e excluir (nomes de acessibilidade `Editar <nome>` e `Excluir <nome>`).
 - APIs: `guia.subcategorias.listar|criar|atualizar|excluir`, `guia.categorias.listar|atualizar`.
-- estados: vazio "Nenhuma subcategoria cadastrada" ou "...encontrada com esse filtro" (:323); erro do modal (:49).
+- estados: vazio "Nenhuma subcategoria cadastrada." ou "Nenhuma subcategoria encontrada com esse filtro." (`:325`); sem categoria: aviso "Cadastre uma categoria antes de criar subcategorias" com link `Ir para Categorias`; erro do modal (:49).
 - problemas: fato — `carregar` só tem `try/finally` (:126-131): falha de listar subcategorias/categorias vira lista vazia ("Nenhuma subcategoria cadastrada") com rejeição não tratada.
 - admin vs cliente: o cliente escolhe a subcategoria da empresa (obrigatória, ver teste `subcategoria-obrigatoria.test.tsx`); não edita o catálogo.
 
 ## o que você vê
 Lista dos ramos mais específicos dentro de cada categoria do Guia (ex.: dentro de Saúde, Dentista).
-- Buscar subcategoria e filtro de categorias.
+- `Buscar subcategoria…` e lista de categorias (`Todas as categorias`).
 - Subcategoria ativa: desligada, não aparece para escolher.
-- orçamento: liga ou desliga se a subcategoria aparece no pedido de orçamento. Se a categoria inteira está fora do orçamento, nenhuma subcategoria dela aparece lá (botão Ir para Categorias para mudar).
+- Orçamento: liga ou desliga se a subcategoria aparece no pedido de orçamento. Se a categoria inteira está fora do orçamento, nenhuma subcategoria dela aparece lá (o aviso na categoria tem o botão `Incluir no orçamento`; a caixa do modal tem o link `Ir para Categorias`).
 - Editar muda; apagar pede confirmação. É preciso ter uma categoria antes de criar subcategorias.
 
 ## posições na tela (print de 2026-10-16, 1280x900)

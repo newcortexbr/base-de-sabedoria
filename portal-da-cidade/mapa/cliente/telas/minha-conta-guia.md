@@ -12,7 +12,7 @@ Arquivo: `src/app/minha-conta/guia/page.tsx` (2495 linhas; lido por trechos: cab
   - sem contratação mas com plano gratuito na seção (e sem pendente de plano pago): abre o formulário no piso Grátis.
   - pendente de plano pago: só a faixa "Aguardando confirmação do pagamento" + "Ir para o pagamento" (`:1610-1623`). Campos não aparecem antes do pagamento (decisão do dono, 2026-08-22, `:745-751`).
   - vencida, cancelada ou nunca contratou sem plano grátis: `SemPlano` com botão "Ver os planos" (`:487-527`). Texto: "Seu plano terminou, então sua empresa saiu do ar. Os dados que você preencheu continuam salvos…".
-- campos individuais: o servidor devolve `campos_liberados` e `ficha_completa`; campo não liberado não tem entrada, a seção aparece trancada dizendo qual plano a libera (`:6-17`). Seções: Dados da empresa, Categoria e horário, Telefone/WhatsApp/redes, Logo/capa/galeria, Comodidades e pagamento, Cupom, Pedidos de orçamento, Links e páginas (`secoes-da-ficha.ts:31-111`).
+- campos individuais: o servidor devolve `campos_liberados` e `ficha_completa`; campo não liberado não tem entrada, a seção aparece trancada dizendo qual plano a libera (`:6-17`). Seções (títulos exatos): Dados da empresa, Categoria e horário, Telefone, WhatsApp e redes, Logo, capa e galeria de fotos, Comodidades e pagamento, Cupom de desconto, Pedidos de orçamento, Links e páginas (`secoes-da-ficha.ts:31-111`).
 - delivery e orçamento vêm deste plano (`delivery_liberado`, `orcamentos_liberado`); o formulário tem blocos para Delivery (`ConfigDoDelivery`, `AreasDoDelivery`).
 - `AvisoBloqueioCliente modulo="guia"` mostra aviso se a conta/módulo está bloqueado (`:1603`).
 
@@ -20,9 +20,9 @@ Arquivo: `src/app/minha-conta/guia/page.tsx` (2495 linhas; lido por trechos: cab
 - ficha da empresa no Guia Comercial: cadastra e edita a empresa única do cliente (não há "nova empresa"). Mostra estado de publicação.
 
 ## ações e campos
-- seções (acordeão): dados (nome *, descrição, CEP, cidade, bairro, endereço, razão social fora da tela), categoria e subcategoria, horários por dia da semana (fechado, 24h, abre/fecha), telefone (máscara), e-mail, WhatsApp, Instagram, site, logo, capa, galeria (até 10 fotos), comodidades, formas de pagamento, cupom (código, tipo, valor, validade), orçamento, links e páginas, delivery.
-- busca no Google (`BuscaNoGoogle`): preenche campos e pode importar fotos (custo e importação única, regra do projeto).
-- botão do cabeçalho "Publicar" (primeira vez) ou "Salvar"; "Ver no site" quando no ar.
+- seções (acordeão, uma aberta por vez): dados (`Nome da empresa *`, `Descrição`, CEP, cidade, bairro, `Endereço`; razão social fora da tela), `Categoria *` e `Subcategoria *`, `Horário de funcionamento` (com atalho para repetir o horário nos outros dias), por dia da semana (fechado, 24h, abre/fecha), telefone (máscara), e-mail, WhatsApp, Instagram, site, logo, capa, galeria (até 10 fotos), comodidades, formas de pagamento, cupom (código, tipo, valor, validade), orçamento, links e páginas, delivery.
+- busca no Google (`BuscaNoGoogle`, faixa no topo de "Dados da empresa"; janela "Buscar no Google Meu Negócio" com `Buscar`, `Cadastrar manualmente`, `Tentar outro nome`): preenche campos e pode importar fotos (custo e importação única, regra do projeto).
+- botão do cabeçalho `Publicar` (primeira vez) ou `Salvar`; `Ver no site` quando no ar. No fim do formulário: `Publicar no Guia` (primeira vez) ou `Salvar alterações`; entre as seções do acordeão: `Continuar` e `Salvar e ir para a próxima`.
 - apagar foto: `window.confirm("Apagar esta foto? Ela some do seu perfil na hora e não há como recuperar depois.")` (`:1564`).
 - após salvar, janela `JanelaAposSalvar` (salvando, pronto, erro; com link público e atalho para a galeria).
 - avisos de estado: "Seu cadastro está em análise" (`aguardando_aprovacao`), "Sua empresa ainda não está no ar", reprovada com "O que precisa mudar: …", inativa, e contagem regressiva do rascunho apagado ("será apagado em N dias", `:1670-1675`); verde "Sua empresa está publicada no site." (`:1680`).
@@ -90,11 +90,13 @@ Arquivo: `src/app/minha-conta/guia/page.tsx` (2495 linhas; lido por trechos: cab
 
 ## o que você vê
 Ficha da sua empresa no Guia Comercial: aqui você cadastra e muda os dados que o público vê. Cada conta tem uma empresa.
-- Seções que abrem e fecham: Dados da empresa, Categoria e horário, Telefone/WhatsApp/redes, Logo/capa/galeria, Comodidades e pagamento, Cupom, Pedidos de orçamento, Links e páginas, Delivery.
+- Seções que abrem e fecham: Dados da empresa, Categoria e horário, Telefone, WhatsApp e redes, Logo, capa e galeria de fotos, Comodidades e pagamento, Cupom de desconto, Pedidos de orçamento, Links e páginas (e blocos de Delivery, quando o plano libera).
+- Nome da empresa, Categoria e Subcategoria são obrigatórios.
+- No fim: `Publicar no Guia` (primeira vez) ou `Salvar alterações`; entre seções, `Continuar` ou `Salvar e ir para a próxima`.
 - Seção com cadeado: seu plano não libera; ela diz qual plano libera.
 - Nome: obrigatório. Horários: por dia da semana (fechado, 24h, ou abre/fecha).
 - Galeria: até 10 fotos. Apagar foto não tem volta.
-- Buscar no Google: preenche os dados com o que está no Google.
+- Buscar no Google Meu Negócio: preenche os dados com o que está no Google (`Cadastrar manualmente` se não achar).
 - Publicar (primeira vez) / Salvar; Ver no site quando está no ar.
 - Avisos: "Seu cadastro está em análise", "ainda não está no ar", reprovada com "O que precisa mudar", rascunho que "será apagado em N dias", e em verde "Sua empresa está publicada no site".
 - Sem plano: "Ver os planos"; seus dados continuam salvos.

@@ -8,14 +8,15 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - pBHdF3bd1QI
 ---
 
 ## objetivo
-aqui você muda um cupom que já existe.
+
+Aqui você altera o cupom de uma empresa. A empresa fica fixa durante a edição.
 
 ## pré-requisitos
 
@@ -23,29 +24,38 @@ aqui você muda um cupom que já existe.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Cupons de Desconto`. [guia=menu:/painel/cupons]
-2. Veja na lista a empresa, o código, o desconto e a validade de cada cupom. Cupom vencido aparece marcado. [guia=menu:/painel/cupons]
-3. Para mudar um cupom, clique em `Editar` na linha do cupom que você quer. [guia=cupons.editar]
-4. Na edição, a empresa do cupom fica fixa. Você ajusta a foto, o código, o desconto e as condições. Depois clique em `Salvar cupom`. [guia=cupons.salvar]
+1. Na parte `Conteúdo` do menu, em `Guia Comercial`, clique em `Cupons de Desconto`. [t=9] [guia=menu:/painel/cupons]
+2. Clique em `Editar` na linha da empresa desejada. [t=52] [guia=cupons.editar]
+3. Se quiser, envie uma imagem em `Foto de capa do cupom`. [guia=cupons.foto]
+4. Preencha `Código do cupom *` com letras e números, sem espaço nem acento. [guia=cupons.codigo]
+5. Preencha `Desconto (texto exibido) *`, como `10% OFF`. [guia=cupons.desconto-texto]
+6. Se quiser, preencha `Descrição do cupom`. [guia=cupons.descricao]
+7. Se quiser, preencha `Condições de uso`. [guia=cupons.condicoes]
+8. Escolha `Tipo de desconto`: `Percentual (%)` ou `Valor fixo (R$)`. [guia=cupons.tipo]
+9. Informe `Valor`; no desconto percentual, use um número entre 0 e 100. [guia=cupons.valor]
+10. Se quiser definir um prazo, preencha `Validade`. [guia=cupons.validade]
+11. Clique em `Salvar cupom`. [guia=cupons.salvar]
 
 ## resultado
-O cupom fica com as mudanças.
+
+O painel mostra `Cupom salvo`. A validade e o benefício de cupom continuam condicionando a exibição pública.
 
 ## desvios
 
-- Se a lista de empresas vier vazia, todas já podem ter cupom ou não há empresas no Guia.
-- Se a foto falhar, o cupom já foi salvo; edite e envie a foto de novo.
-- Cupom depende do plano da empresa.
+- Se a foto falhar, o texto já pode ter sido salvo; corrija o envio da foto sem criar outro cupom.
 
 ## quando pedir ajuda
 
-peça ajuda se a página não carregar, se o salvamento der erro ou se a opção esperada não aparecer.
+Peça ajuda se a tela não carregar ou se a ação mostrar erro. Informe a mensagem e a ação tentada, sem enviar senha.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/cupons/`
-- `suporte-kb/mapa/admin/telas/painel-cupons.md`, `painel-cupons-novo.md`
+- Código do portal no HEAD `b2f62d3f`; base revisada a partir de `814f097`.
+- `frontend/src/app/painel/cupons/page.tsx:195`.
+- `frontend/src/app/painel/cupons/CupomForm.tsx:251`.
+- `frontend/src/app/painel/cupons/CupomForm.tsx:169`.
+- Vídeo `pBHdF3bd1QI`: catálogo `portal-da-cidade/videos.json`, transcrição `videos/conteudo/pBHdF3bd1QI.md` e legenda `videos/legendas/pBHdF3bd1QI.srt`.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os textos dos botões podem mudar.
+Não houve validação no navegador nem execução do produto. As regras e os rótulos descritos foram conferidos por leitura do código. Tempos indicam o trecho da transcrição/legenda, não uma reprodução validada da interface atual.

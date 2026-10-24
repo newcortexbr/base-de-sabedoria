@@ -8,48 +8,50 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - ufB3QTKfPsM
 ---
 
 ## objetivo
-aqui você apaga uma vaga. A exclusão é definitiva.
+
+Aqui você apaga uma vaga de emprego permanentemente.
 
 ## pré-requisitos
 
-- Ter acesso administrativo ao portal.
-- O módulo correspondente estar ativo.
+- Ter acesso de administrador ao painel do portal.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Vagas de Emprego` e depois em `Listar Vagas`. [guia=menu:/painel/vagas]
-2. No topo da lista de vagas, escreva o cargo ou a empresa no campo de busca. [guia=vagas.busca]
-3. Se quiser, escolha a situação da vaga. [guia=vagas.situacao]
-4. Clique em `Filtrar`. [guia=vagas.filtrar]
-5. Para apagar, clique em `Excluir` na linha da vaga. [guia=vagas.excluir]
-6. Leia a pergunta que o navegador abre: a exclusão é definitiva. Só então confirme. [guia=vagas.excluir]
+1. Na parte `Conteúdo` do menu, em `Vagas de Emprego`, clique em `Listar Vagas`. [t=18] [guia=menu:/painel/vagas]
+2. Digite o cargo ou a empresa em `Buscar por cargo ou empresa...`. [t=34] [guia=vagas.busca]
+3. Clique em `Filtrar`. [t=36] [guia=vagas.filtrar]
+4. Clique em `Excluir` na linha da vaga. [t=45] [guia=vagas.excluir]
+5. Na pergunta `Excluir esta vaga permanentemente?`, clique em `Excluir`. [guia=confirmacao.confirmar]
 
 ## resultado
-A vaga some da lista.
+
+A vaga é excluída; o painel mostra `Vaga excluída`.
 
 ## desvios
 
-- Para anúncios de classificados, veja o artigo "localizar e gerenciar classificados no painel".
-no código, `classificados` designa vagas e `anuncios` designa classificados; para o usuário, as telas reais são `Vagas` e `Classificados`. Anúncio vencido pode sair do ar automaticamente. Este artigo não define regras de cobrança ou publicação.
+- Se quiser somente encerrar a publicação, use o botão `ativa` na coluna `Status`, em vez de excluir o cadastro.
 
 ## quando pedir ajuda
 
-peça ajuda se o registro não aparecer ou se houver dúvida sobre edição, remoção ou situação. A IA não publica, exclui nem altera registros.
+Peça ajuda se a tela não carregar ou se a ação mostrar erro. Informe a mensagem e a ação tentada, sem enviar senha.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/vagas/page.tsx:1`
-- `portal-cidade/frontend/src/app/painel/classificados/page.tsx:1`
-- `portal-cidade/CLAUDE.md:55-56`
-- `portal-cidade/docs/PRODUCT.md:43-44`
+- Código do portal no HEAD `b2f62d3f`; base revisada a partir de `814f097`.
+- `frontend/src/app/painel/vagas/page.tsx:113`.
+- `frontend/src/app/painel/vagas/page.tsx:265`.
+- `frontend/src/components/painel/ModalAvisoConfirmacao.tsx:153`.
+- Vídeo `ufB3QTKfPsM`: catálogo `portal-da-cidade/videos.json`, transcrição `videos/conteudo/ufB3QTKfPsM.md` e legenda `videos/legendas/ufB3QTKfPsM.srt`.
 
 ## lacunas
 
-os filtros e ações internas das listas não foram examinados em detalhe; orientamos somente as rotas confirmadas.
+Não houve validação no navegador nem execução do produto. As regras e os rótulos descritos foram conferidos por leitura do código. Tempos indicam o trecho da transcrição/legenda, não uma reprodução validada da interface atual.
+
+O vídeo cita Excluir, mas não demonstra a janela de confirmação. Não há tempo atribuído ao que não foi demonstrado.

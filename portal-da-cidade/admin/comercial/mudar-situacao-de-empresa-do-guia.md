@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - wukhVMFEHWg
@@ -26,14 +26,13 @@ aqui você muda a situação de uma empresa do Guia: pendente, ativo, inativo, b
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas]
-2. No topo da lista, escreva o nome em `Buscar empresa...`. [guia=guia-empresas.busca]
-3. Se quiser, escolha uma categoria e uma situação (`Todos os status`) nos filtros ao lado. [guia=guia-empresas.filtro-status]
-4. Clique em `Buscar`. [guia=guia-empresas.buscar]
-5. Para mudar a situação (`Pendente`, `Ativo`, `Inativo`, `Banido` ou `Reprovado`), escolha a nova opção na coluna `Status` da linha da empresa. [guia=guia-empresas.status-linha]
-6. Confira na lista se a situação mudou. [guia=guia-empresas.status-linha]
+2. Escreva o nome em `Buscar empresa...`. [guia=guia-empresas.busca] [t=63]
+3. Clique em `Buscar`. [guia=guia-empresas.buscar]
+4. Na coluna `Status` da empresa, escolha `Pendente`, `Ativo`, `Inativo`, `Banido` ou `Reprovado`. [guia=guia-empresas.status-linha] [t=74]
 
 ## resultado
-A nova situação aparece na lista. só empresas ativas aparecem no site.
+
+A mudança é gravada ao escolher a situação, sem botão de salvar. O painel mostra `Status atualizado` quando a operação dá certo. `Ativo` é necessário para aparecer no Guia; categoria, módulo e regras de visibilidade também podem impedir a exibição.
 
 ## desvios
 
@@ -45,9 +44,9 @@ peça ajuda se a empresa não aparecer, se houver dúvida entre reprovar, inativ
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/guia/empresas/page.tsx:18-29,31-45,59-73,81-89`
-- `portal-cidade/docs/DECISIONS.md:101-109`
+- `portal-cidade/frontend/src/app/painel/guia/empresas/page.tsx:81-89,128-145,202-207`.
+- `portal-cidade/backend/guia/moderacao.py:8-12`.
 
 ## lacunas
 
-os rótulos e consequências de cada ação de status não foram validados visualmente; não há promessa de efeito imediato em todas as páginas públicas.
+Sem execução no navegador ou medição do cache público.

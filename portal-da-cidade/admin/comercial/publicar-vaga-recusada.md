@@ -12,42 +12,50 @@ tipo_problema:
   - aprovar vaga reprovada
   - voltar atrás na reprovação
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
+videos:
+  - ufB3QTKfPsM
 ---
 
 ## objetivo
-aqui você coloca no ar uma vaga que foi recusada, se recusou por engano.
+
+Aqui você aprova e publica uma vaga que ficou reprovada por engano.
 
 ## pré-requisitos
 
-- Ter acesso de administrador ao painel.
+- Ter acesso de administrador ao painel do portal.
 
 ## passos
 
-1. No menu da esquerda, clique em `Vagas de Emprego` e depois em `Listar Vagas`. [guia=menu:/painel/vagas]
-2. No filtro de status, escolha `Reprovada`. [guia=vagas.situacao]
+1. Na parte `Conteúdo` do menu, em `Vagas de Emprego`, clique em `Listar Vagas`. [t=18] [guia=menu:/painel/vagas]
+2. No filtro `Todos os status`, escolha `Reprovada`. [guia=vagas.situacao]
 3. Clique em `Filtrar`. [guia=vagas.filtrar]
-4. Na coluna `Status` da vaga, clique em `reprovada`. [guia=fora]
-5. Confirme em "Aprovar e publicar a vaga". [guia=fora]
+4. Na coluna `Status` da vaga, clique em `reprovada`. [guia=vagas.alterar-status]
+5. Na pergunta de aprovação e publicação, clique em `Publicar`. [guia=confirmacao.confirmar]
 
 ## resultado
-a vaga fica ativa e vai ao ar.
+
+A vaga passa para `ativa`, e o painel mostra `Vaga publicada`. A visibilidade pública também depende das regras do contratante.
 
 ## desvios
 
-- Para outros envios recusados (anúncio, evento, banner), não há botão de desfazer: o cliente corrige e reenvia, e o envio volta para `Aprovações e Denúncias`.
+- Este caminho é da lista de vagas. Não conclua que outras telas de moderação tenham a mesma ação.
 
 ## quando pedir ajuda
 
-peça ajuda se a vaga não ficar ativa depois de confirmar.
+Peça ajuda se a tela não carregar ou se a ação mostrar erro. Informe a mensagem e a ação tentada, sem enviar senha.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/vagas/page.tsx:122-135,172-180` — filtro "Reprovada" e `toggleStatus` com confirmação.
-- `portal-cidade/frontend/src/app/painel/aprovacoes/AprovacoesClient.tsx:171-185` — a recusa tira o item da fila.
-- `portal-cidade/frontend/src/app/minha-conta/classificados/page.tsx` e `eventos/page.tsx` — "Corrigir e reenviar".
+- Código do portal no HEAD `b2f62d3f`; base revisada a partir de `814f097`.
+- `frontend/src/app/painel/vagas/page.tsx:129`.
+- `frontend/src/app/painel/vagas/page.tsx:178`.
+- `backend/classificados/views_public.py:30`.
+- Vídeo `ufB3QTKfPsM`: catálogo `portal-da-cidade/videos.json`, transcrição `videos/conteudo/ufB3QTKfPsM.md` e legenda `videos/legendas/ufB3QTKfPsM.srt`.
 
 ## lacunas
 
-tela não validada no navegador nesta tarefa. Em Classificados, o filtro do painel não tem as opções Pendente nem Reprovado, e o campo Status do formulário não lista Reprovado; não confirmei um jeito de desfazer a recusa ali.
+Não houve validação no navegador nem execução do produto. As regras e os rótulos descritos foram conferidos por leitura do código. Tempos indicam o trecho da transcrição/legenda, não uma reprodução validada da interface atual.
+
+O vídeo mostra a lista, mas não demonstra a reversão da reprovação; os passos dessa ação foram conferidos no código. Não há tempo atribuído ao que não foi demonstrado.

@@ -1,10 +1,11 @@
 # /painel/guia/categorias — categorias do Guia (`.../categorias/page.tsx`)
 - gate: módulo `guia` (prefixo `/painel/guia`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
-- faz: CRUD de categorias de empresas em modal (Nome, ícone, cor, ativo, "aceita orçamento", :124).
-- ações: criar/editar (:128-130), excluir com `confirm` (:278), avisos (`confirm`) ao mudar orçamento (:83,106); revalida (:279).
+- menu: parte Conteúdo, grupo `Guia Comercial` > `Gerenciar Categorias` (`Sidebar.tsx:129`). título da tela `Guia Comercial — Categorias`.
+- faz: CRUD de categorias de empresas em modal (`Nova Categoria` / `Editar Categoria`): `Nome *`, `Ícone`, `Cor`, caixa `Ativa`, caixa `Aparece no formulário de Orçamento`, e `O que as empresas desta categoria oferecem` (`Cardápio`, `Delivery`, `Acomodações`; `Serviços`, `Equipe` e `Catálogo de produtos` vêm marcados e travados); botões `Salvar` e `Cancelar` (`categorias/page.tsx:115-219`). botão `+ Nova Categoria` no topo. tabela: Categoria, Oferece, Empresas, Orçamento, Status, Ações (`Editar`, `Excluir`).
+- ações: criar/editar (:128-130), excluir com aviso de confirmação do painel (`Excluir esta categoria?`, `:244`); avisos de confirmação também ao desativar categoria com empresas (`Desativar`, `:51`) e ao desmarcar o que ela oferece (`Alterar`, `:73`); revalida (:279).
 - APIs: `guia.categorias.listar|criar|atualizar|excluir`.
-- estados: vazio "Nenhuma categoria cadastrada" (:323); erro de exclusão por `alert` (:286, "categoria em uso" é recusada pela API).
+- estados: vazio "Nenhuma categoria cadastrada." (`:290`); erro de exclusão por `alert` (:286, "categoria em uso" é recusada pela API).
 - problemas: fato — `carregar` sem `catch` (:269-273): falha da listagem vira lista vazia e rejeição não tratada. fato — erros em `alert()`.
 - admin vs cliente: o cliente escolhe categoria/subcategoria na ficha; não edita o catálogo.
 
@@ -13,9 +14,9 @@ Lista dos ramos (categorias) em que as empresas do Guia Comercial são separadas
 - Nome, Ícone e Cor: como a categoria aparece no site; o endereço da categoria no site não muda se o nome mudar.
 - Ativa: categoria desligada não aparece para escolher.
 - Empresas: quantas empresas estão nessa categoria.
-- Oferece: o que as empresas da categoria têm na página: Cardápio (restaurante, bar), Delivery (pedido pelo site) ou Quartos (hotel, pousada).
-- Orçamento: se a categoria aparece no formulário de pedido de orçamento; ao mudar, a tela avisa o efeito nas subcategorias.
-- Excluir pede confirmação.
+- Oferece: o que as empresas da categoria têm na página: `Cardápio` (restaurante, bar, lanchonete), `Delivery` (aceita pedido pelo site) ou `Acomodações` (hotel, pousada, hospedagem; na lista aparece como `Quartos`). Serviços, equipe e catálogo de produtos valem para toda categoria.
+- Orçamento: `Aparece` ou `Não aparece` no formulário de pedido de orçamento (caixa `Aparece no formulário de Orçamento`); desmarcar tira todas as subcategorias dela do orçamento.
+- `Excluir` pede confirmação; ao desativar ou mudar o que oferece, avisa quantas empresas serão afetadas.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-guia-categorias.png](../prints/painel-guia-categorias.png) · dados brutos: [json](../prints/json/painel-guia-categorias.json)

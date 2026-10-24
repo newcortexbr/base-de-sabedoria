@@ -1,18 +1,19 @@
 # /painel/noticias/autor — autor das notícias (`.../autor/page.tsx`, 41 linhas)
 - gate: módulo `noticias` (prefixo `/painel/noticias`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
-- faz: perfil editorial do próprio admin como autor (foto, nome, cargo, bio etc.) via `AutorFormBase` (`components/painel/noticias/AutorFormBase.tsx`) com `adminApi.noticias.autor` (:21). Prévia "Como aparece na notícia".
+- menu: parte Conteúdo, grupo `Notícias` > `Autor` (`Sidebar.tsx:108`). título `Notícias — Autor`; cabeçalho `Autor das notícias`.
+- faz: perfil editorial que assina as notícias do portal (as escritas pelo admin e as importadas por RSS; matérias de jornalistas são assinadas pelo perfil de cada um) (foto, nome, cargo, bio etc.) via `AutorFormBase` (`components/painel/noticias/AutorFormBase.tsx`) com `adminApi.noticias.autor` (:21). Prévia "Como aparece na notícia".
 - ações: obter (`api.obter`, :166) e salvar (`api.salvar` com FormData, :219).
 - estados: erro de campo "Corrija os campos destacados" (:198,234); 404 é tratado como "ainda não existe" (:175).
 - problemas: nenhum confirmado.
 - admin vs cliente: o jornalista usa `/minha-conta/autor` com o mesmo `AutorFormBase` (mesmo componente, API diferente). Equivalente.
 
 ## o que você vê
-Seu perfil como autor das notícias que você publica pelo painel.
-- foto, nome, cargo (ex.: Repórter) e apresentação: como você aparece nas notícias.
-- E-mail, WhatsApp (só DDD e número; o botão é montado sozinho), Instagram (sem @), Facebook, LinkedIn, Site: contatos do autor.
-- Como aparece na notícia: prévia de como o quadro do autor fica no site.
-- salvar: grava o perfil; campos com problema ficam destacados.
+Perfil do autor que assina as notícias do portal: as que você publica pelo painel e as que entram sozinhas por RSS.
+- foto (`Foto do autor`), `Nome *`, `Cargo` (ex.: Repórter) e `Bio`: como o autor aparece nas notícias.
+- `Site`, `Instagram` (sem @), `Facebook`, `LinkedIn`, `WhatsApp` (só DDD e número; o botão é montado sozinho) e `E-mail público`: contatos do autor.
+- `Como aparece na notícia`: prévia de como o quadro do autor fica no site.
+- `Salvar`: grava o perfil; campos com problema ficam destacados.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-noticias-autor.png](../prints/painel-noticias-autor.png) · dados brutos: [json](../prints/json/painel-noticias-autor.json)

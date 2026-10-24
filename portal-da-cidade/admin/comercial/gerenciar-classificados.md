@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - Ps1cgdLQ1FI
@@ -16,61 +16,41 @@ videos:
 
 ## objetivo
 
-aqui você acha, muda e apaga os anúncios de classificados do portal. Vagas de emprego têm outro artigo.
+Aqui você encontra um anúncio classificado e abre a edição. Vagas de emprego ficam no menu `Vagas de Emprego`.
 
 ## pré-requisitos
 
-- Ter acesso administrativo ao portal.
-- O módulo de classificados estar ativo.
-
-## veja também
-- para apagar um anúncio, veja o artigo "excluir um anúncio classificado".
+- Ter acesso de administrador ao painel do portal.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Classificados` e depois em `Listar Anúncios`. [guia=menu:/painel/classificados]
-2. No topo da lista de anúncios, escreva o título ou a descrição no campo de busca. [guia=classificados.busca]
-3. Se quiser, escolha a situação do anúncio. [guia=classificados.situacao]
+1. Na parte `Conteúdo` do menu, em `Classificados`, clique em `Listar Anúncios`. [t=18] [guia=menu:/painel/classificados]
+2. Digite o título ou a descrição em `Buscar por título ou descrição...`. [t=31] [guia=classificados.busca]
+3. Se quiser, escolha uma opção em `Todos os status`. [t=31] [guia=classificados.situacao]
 4. Clique em `Filtrar`. [guia=classificados.filtrar]
-5. Para mudar um anúncio, clique em `Editar` na linha do anúncio que você quer. [guia=classificados.editar]
+5. Na linha do anúncio, clique em `Editar`. [t=49] [guia=classificados.editar]
 
 ## resultado
 
-A lista mostra os anúncios disponíveis para administração naquele portal.
-
-## o que a lista mostra
-
-- No alto da lista há as abas, a busca, a categoria e o status, e os contadores de total, publicados no site e incompletos (sem foto).
-- Cada linha traz a foto, o título, o anunciante, a categoria, o preço, o local, os cliques no WhatsApp e o status (ativo, vendido ou encerrado). Os selos de destaque ficam abaixo do título.
-- As ações da linha são ver no site, editar, marcar como vendido e excluir.
-
-## quem cria os anúncios
-
-- Os anunciantes criam e gerenciam os próprios anúncios pela área do cliente. O `Novo anúncio` pelo painel é opcional, para casos especiais, como ajudar um cliente.
-- O anúncio enviado pelo cliente pode passar pela aprovação do admin, na tela `Aprovações e denúncias`, que também recebe as denúncias feitas pelos visitantes.
-
-## outras telas de classificados
-
-- `Categorias`: organiza as seções (imóveis, veículos, eletrônicos etc.). Cada uma tem subcategorias, mostra quantos anúncios tem e pode ser ativada ou desativada.
-- `Anunciantes`: as pessoas e empresas que anunciam, com o e-mail de acesso e o selo de verificado.
-- Os planos de classificados ficam em `Meus Planos`: limite de anúncios, dias no ar, fotos e benefícios.
+O formulário do anúncio escolhido é aberto.
 
 ## desvios
 
-- Para vagas de emprego, veja o artigo "localizar e gerenciar vagas de emprego no painel".
-- Anúncio vencido pode sair do ar automaticamente. Este artigo não define regras de cobrança ou publicação.
+- Para tirar do site um anúncio que já foi vendido sem apagar os dados, veja “marcar um classificado como vendido”.
+- Para apagar o cadastro, veja “excluir um anúncio classificado”.
+- `Categorias` e `Anunciantes` ficam no grupo `Classificados`; os preços para anunciar ficam em `Meus Planos`.
 
 ## quando pedir ajuda
 
-peça ajuda se o anúncio não aparecer ou se houver dúvida sobre edição, remoção ou situação. A IA não publica, exclui nem altera registros.
+Peça ajuda se a tela não carregar ou se a ação mostrar erro. Informe a mensagem e a ação tentada, sem enviar senha.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/vagas/page.tsx:1`
-- `portal-cidade/frontend/src/app/painel/classificados/page.tsx:1`
-- `portal-cidade/CLAUDE.md:55-56`
-- `portal-cidade/docs/PRODUCT.md:43-44`
+- Código do portal no HEAD `b2f62d3f`; base revisada a partir de `814f097`.
+- `frontend/src/app/painel/classificados/page.tsx:265`.
+- `frontend/src/app/painel/classificados/page.tsx:359`.
+- Vídeo `Ps1cgdLQ1FI`: catálogo `portal-da-cidade/videos.json`, transcrição `videos/conteudo/Ps1cgdLQ1FI.md` e legenda `videos/legendas/Ps1cgdLQ1FI.srt`.
 
 ## lacunas
 
-os filtros e ações internas da lista não foram examinados em detalhe; orientamos somente as rotas confirmadas.
+Não houve validação no navegador nem execução do produto. As regras e os rótulos descritos foram conferidos por leitura do código. Tempos indicam o trecho da transcrição/legenda, não uma reprodução validada da interface atual.

@@ -2,14 +2,15 @@
 
 Arquivo: `app/painel/denuncias/page.tsx:1-8`
 
-- rota `/painel/denuncias`. só `redirect` para `/painel/aprovacoes?aba=denuncias` (`HREF_ABA_DENUNCIAS`). existe para link antigo não quebrar.
+- rota `/painel/denuncias`. só `redirect` para `/painel/aprovacoes?aba=denuncias` (`HREF_ABA_DENUNCIAS`). existe para link antigo não quebrar. no menu lateral não há item `Denúncias` neste lugar: o caminho é `Aprovações e Denúncias` (item solto, perto do topo do menu) > aba `Denúncias`. o número no item do menu soma aprovações e denúncias pendentes (`Sidebar.tsx:98,383`).
+- a lista (aba `Denúncias`, `denuncias/ListaDeDenuncias.tsx`) cobre Guia Comercial, Vagas, Classificados e Eventos, com filtros `Status` e `Módulo` (opção `Todos`); cada linha abre o detalhe (`painel-denuncias-id.md`). vazio: "Nenhuma denúncia nesta lista."
 - gate: `PainelGuard` (admin/master).
 - sem chamadas de API, sem estados próprios.
 - não confundir com `/painel/utilidade/denuncias` (Voz do Povo, outro módulo) — ver `painel-utilidade-denuncias.md`.
 - problema: nenhum encontrado.
 
 ## o que você vê
-Endereço antigo das denúncias: abre a aba Denúncias da tela Aprovações e Denúncias.
+Endereço antigo das denúncias: abre a aba `Denúncias` da tela `Aprovações e Denúncias` (menu lateral, item `Aprovações e Denúncias`). a aba lista denúncias de Guia Comercial, Vagas, Classificados e Eventos; filtre por `Status` e `Módulo` e clique numa denúncia para abri-la.
 - não tem conteúdo próprio; serve para links antigos continuarem funcionando.
 
 ## posições na tela (print de 2026-10-16, 1280x900)

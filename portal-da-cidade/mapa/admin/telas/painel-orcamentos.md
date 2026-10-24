@@ -2,14 +2,14 @@
 
 Arquivo: `app/painel/orcamentos/page.tsx`
 
-- rota `/painel/orcamentos`: só `redirect` para `/painel/orcamentos/categorias`.
+- rota `/painel/orcamentos`; no menu lateral o caminho é parte Conteúdo, grupo `Orçamentos Online` > `Todas as Solicitações` (`Sidebar.tsx:202-207`). A rota só `redirect` para `/painel/orcamentos/categorias`.
 - gate: `PainelGuard`; módulo `orcamentos` (`lib/painel-menu.ts:103`).
 - sem API, sem estados.
 - observação: a tela do empresário saiu do painel (D-352, comentário `:3-5`); a lista dele fica na área do cliente.
 - problemas: nenhum. nome "categorias" na URL final é enganoso (a tela é de solicitações, não de categorias): fato.
 
 ## o que você vê
-Endereço antigo de orçamentos: abre direto a lista de pedidos de orçamento.
+Endereço antigo de orçamentos: abre direto a tela `Orçamentos — Todas as Solicitações` (menu `Orçamentos Online` > `Todas as Solicitações`).
 - não tem conteúdo próprio; leva para a tela de solicitações de orçamento.
 
 ## posições na tela (print de 2026-10-16, 1280x900)

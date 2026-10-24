@@ -13,7 +13,8 @@ Arquivo: `src/app/minha-conta/seguranca/page.tsx`
 - troca a senha da conta. Jornalista usa outro endpoint e é deslogado ao final.
 
 ## ações e campos
-- senha atual, nova senha (ajuda `AJUDA_DA_SENHA`), confirmar nova senha, botão "Mostrar senhas", "Salvar nova senha" (`page.tsx:109-130`).
+- `Senha atual`, `Nova senha` (ajuda `AJUDA_DA_SENHA`), `Confirmar nova senha`, botão `Mostrar senhas` (vira `Ocultar senhas`), botão `Salvar nova senha` (`page.tsx:109-130`).
+- marcas do guia interativo (`data-guia`) desta tela: `seguranca:senha-atual`, `seguranca:nova-senha`, `seguranca:confirmacao-senha`, `seguranca.mostrar-senhas`, `seguranca.salvar` (mistura `:` e `.` no padrão).
 - painel lateral explica: outros aparelhos serão desconectados; e-mail de aviso (só não-jornalista).
 - jornalista após trocar: tela "Entrar de novo" que chama `logout` (`page.tsx:92-98`).
 
@@ -49,6 +50,6 @@ Arquivo: `src/app/minha-conta/seguranca/page.tsx`
 ## o que você vê
 Tela para trocar a senha da sua conta.
 - Senha atual, nova senha e confirmar nova senha.
-- Mostrar senhas: deixa ver o que foi digitado.
+- Mostrar senhas / Ocultar senhas: mostra ou esconde o que foi digitado.
 - Salvar nova senha: os outros aparelhos são desconectados; você continua conectado neste.
-- Você recebe um e-mail avisando da troca (jornalista não recebe e precisa entrar de novo depois).
+- Você recebe um e-mail avisando da troca (jornalista não recebe e precisa entrar de novo depois: aparece "Senha trocada. Por segurança, entre de novo com a senha nova." e o botão `Entrar de novo`).

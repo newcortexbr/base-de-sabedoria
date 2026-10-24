@@ -1,9 +1,11 @@
 # /painel/guia/empresas/[id]/cardapio — cardápio da empresa (`.../[id]/cardapio/page.tsx`)
 - gate: módulo `guia` (prefixo `/painel/guia`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
+- título `Gerenciar Cardápio`; link `← Voltar para empresa`.
+- chegar: `Guia Comercial` > `Listar Empresas` > ícone de editar na linha da empresa > bloco `Conteúdo da ficha` > botão `Gerenciar` do cartão `Cardápio` (só aparece para categoria que tem cardápio). Não há botão disso na lista de empresas.
 - faz: o admin gerencia o cardápio digital de uma empresa: seções (categorias do cardápio) com pratos; botões "pedido"/"WhatsApp" e tema do cardápio.
-- campos do prato: Nome do prato (obrigatório, :102), Descrição, Preço, Preço promocional, foto, tags, ativo.
-- ações: criar/renomear/excluir/ativar/reordenar seção (:560-607), criar/editar/excluir/ativar prato (:120-121,361,397), salvar botões do cardápio (`atualizarBotoesDoCardapio`, :637,644). Confirmações nativas (:359,575).
+- botões: `+ Nova seção` (campo "Ex: Carnes, Bebidas, Sobremesas..." + `Criar`), `+ Adicionar prato` (em cada seção). modal `Novo prato`/`Editar prato`: `Nome do prato *`, `Descrição`, `Preço (R$)`, `Preço promocional (R$)`, foto (`Adicionar foto` / `Trocar foto`), `Tags`, botões `Salvar prato` e `Cancelar`. a chave `Publicado`/`Despublicado` liga ou desliga o prato; a seção tem setas de mover, renomear e excluir. blocos no topo: `Botões do cardápio` (`Fazer meu pedido`, `Chamar no WhatsApp`, cada um `Ligado`/`Desligado`), `Aparência do cardápio` (claro/escuro) e `QR Code do cardápio` (`Tamanho da placa`, `Copiar link`).
+- ações: criar/renomear/excluir/ativar/reordenar seção (:560-607), criar/editar/excluir/ativar prato (:120-121,361,397), salvar botões do cardápio (`atualizarBotoesDoCardapio`, :637,644). Confirmações pelo aviso do painel (`Excluir este prato?`, `Excluir esta seção e todos os seus pratos?`).
 - APIs: `guia.cardapio.listarSecoes|criarSecao|atualizarSecao|excluirSecao|listarProdutos|criarProduto|atualizarProduto|excluirProduto`, `guia.empresas.detalhe` (:548), `guia.empresas.atualizarBotoesDoCardapio`.
 - estados: qualquer falha ao carregar seções/empresa cai em `.catch(() => setSemAcesso(true))` e mostra `SemAcessoEmpresa` (`components/painel/SemAcessoEmpresa.tsx`). (:553)
 - problemas: fato — o `.catch` único (:553) transforma erro de rede, 500 ou módulo desligado em "sem acesso", escondendo a causa real. fato — a carga dos pratos de cada seção (:345) não tem catch.
@@ -11,12 +13,12 @@
 
 ## o que você vê
 Cardápio digital de uma empresa (restaurante, bar, lanchonete), separado em seções com pratos.
-- seções (ex.: Carnes, Bebidas): criar, renomear, mudar a ordem com as setas ou apagar.
-- prato: Nome do prato *, descrição (ingredientes, tamanho), preço, preço promocional, foto (JPG ou PNG, até 10MB) e Tags (Mais pedido, Novidade, Recomendado, Veg).
-- botão de publicar / despublicar: mostra ou esconde o prato no cardápio público.
+- seções (ex.: Carnes, Bebidas): `+ Nova seção`, renomear, mudar a ordem com as setas ou apagar.
+- prato (`+ Adicionar prato`): `Nome do prato *`, `Descrição` (ingredientes, tamanho), `Preço (R$)`, `Preço promocional (R$)`, foto (JPG ou PNG, até 10MB) e `Tags` (Mais pedido, Novidade, Recomendado, Veg). Salve com `Salvar prato`.
+- chave `Publicado` / `Despublicado`: mostra ou esconde o prato no cardápio público.
 - Botões do cardápio: o que aparece no rodapé do cardápio público (Chamar no WhatsApp, Fazer meu pedido).
 - Aparência do cardápio: escolhe o visual que o cliente vê.
-- placa com QR code: imprime um código para o cliente abrir o cardápio pelo celular, em vários tamanhos.
+- `QR Code do cardápio`: imprime um código para o cliente abrir o cardápio pelo celular, em vários tamanhos.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-guia-empresas-id-cardapio.png](../prints/painel-guia-empresas-id-cardapio.png) · dados brutos: [json](../prints/json/painel-guia-empresas-id-cardapio.json)

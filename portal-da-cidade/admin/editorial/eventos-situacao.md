@@ -8,41 +8,38 @@ categoria: conteúdo
 aba: Eventos
 tipo_problema: publicação
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - Hyh3UxHW_jU
 ---
 
 ## objetivo
-aqui você vê se cada evento está no ar, encerrado ou inativo.
+Consultar a indicação de situação na lista de eventos. A disponibilidade pública pode ser conferida pelo caminho indicado ao final.
 
 ## pré-requisitos/permissões
-Entrar no painel como administrador, com o módulo de eventos ativo no portal.
+Acesso de administrador ao módulo de eventos.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Turístico / Eventos` e depois em `Eventos`. [guia=menu:/painel/turismo/eventos]
-2. Na lista, veja a situação de cada evento: `No ar` (aparecendo no site), `Encerrado` (a data já passou) ou `Inativo` (você mesmo tirou do ar). [guia=eventos.status-linha]
+1. No menu lateral, dentro de `Guia Turístico / Eventos`, clique em `Eventos`. [t=48] [guia=menu:/painel/turismo/eventos]
+2. Leia a indicação de situação na linha do evento. [guia=eventos.status-linha]
+3. Para conferir as datas e a opção de publicação, clique em `Editar` na linha do evento. [guia=eventos.editar]
+4. Confira `Data *`. [guia=eventos.data]
+5. Confira `Data de término (opcional)`. [guia=eventos.data-fim]
+6. Confira a opção `Ativo`. [guia=eventos.ativo]
 
 ## resultado
-Você vê a situação de cada evento na lista.
+A lista mostra `Inativo` quando `Ativo` está desmarcado. Com `Ativo` marcado, mostra `No ar` se o servidor indicar que o evento está liberado e vigente. Caso contrário, a lista mostra `Encerrado`, inclusive quando a pendência não é de data. O último dia é a data de término, ou a data do evento se não houver término; não há um dia extra de tolerância.
 
 ## desvios
-- Ativo não significa necessariamente no ar: a data pode ter encerrado a vigência.
-- Inativo é diferente de encerrado.
-- Falha de upload: confirme que o evento foi salvo e que está editando o registro certo; não reenvie repetidamente.
-- Agenda de Eventos e Turismo são ligáveis separadamente.
-
-## quando pedir ajuda
-peça ajuda se status e datas parecerem contraditórios, se a galeria não abrir após salvar ou se evento ativo e vigente não aparecer ao público.
+A leitura pública também exige que o evento esteja liberado no fluxo de publicação. Um evento de cliente ainda aguardando pagamento ou aprovação não se torna público apenas por ter `Ativo` marcado; na lista, ele pode aparecer como `Encerrado`. Veja [ver se um evento está no ar](publicacao-e-visibilidade-eventos.md).
 
 ## fontes
-- `portal-cidade/frontend/src/app/painel/turismo/eventos/page.tsx:41` — estado derivado da data e campo ativo.
-- `portal-cidade/frontend/src/app/painel/turismo/eventos/page.tsx:110` — galeria na criação e edição.
-- `docs/PRODUCT.md:41` — módulos Turismo e eventos separados.
-- `docs/PRODUCT.md:42` — recursos e ressalva de QA de navegador.
+- Código b2f62d3f: `frontend/src/app/painel/turismo/eventos/page.tsx:52` — cálculo do rótulo; `:909` — situação; `:921` — editar.
+- `backend/turismo/vigencia.py:17` e `:46` — ausência de tolerância e data de referência.
+- `backend/turismo/views_public.py:63` — ativo e situação de publicação exigidos.
+- `videos/legendas/Hyh3UxHW_jU.srt` — menu em 48 segundos; os estados iniciais do vídeo são da área do cliente.
 
 ## lacunas
-A Epic de eventos não teve QA de navegador conforme `PRODUCT.md`; este conteúdo não declara validação visual. O rótulo exato das ações do formulário pode variar conforme estado.
-- revisão 2026-10-19: a galeria do evento agora fica dentro do formulário de edição; `/painel/turismo/eventos/[id]/fotos` só redireciona para a lista. Em evento novo, a galeria pode ser preenchida antes de salvar (envio ocorre após salvar).
+Sem consulta ao banco ou navegador. O rótulo `Encerrado` não distingue data vencida de uma pendência de liberação. O cálculo no servidor foi conferido em `backend/turismo/serializers.py:608`.

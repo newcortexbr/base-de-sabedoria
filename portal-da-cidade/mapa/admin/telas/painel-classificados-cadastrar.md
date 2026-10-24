@@ -8,14 +8,19 @@
 - problemas: fato — o anunciante precisa existir antes (cadastrar em `/painel/classificados/anunciantes`). hipótese — a cidade vem de `guia.config` (módulo Guia), e a leitura é independente do gate do módulo.
 - admin vs cliente: equivale ao `/minha-conta/classificados/novo`, mas o admin escolhe o anunciante, o status e o destaque, e não passa pelo limite do plano nem por cobrança.
 
+## como chegar
+- na parte Conteúdo do menu, abra `Classificados` e clique em `Novo Anúncio`.
+
 ## o que você vê
-Tela para cadastrar um anúncio classificado em nome de um anunciante.
-- Empresa anunciante *: quem anuncia; se não houver nenhum, cadastre um primeiro.
-- Dados do Anúncio: Título * (ex.: iPhone 13 128GB Azul), Descrição *, Categoria, Subcategoria, Condição e Preço (vazio = "A combinar").
-- fotos: pelo menos uma foto é obrigatória para publicar o anúncio; também aceita vídeo do YouTube.
-- Localização: cidade e bairro.
-- Contato: Nome do anunciante (quem responde), WhatsApp e E-mail de contato.
-- Configurações: Status (Ativo, Pausado, Encerrado, Vendido), Expira em (data em que sai do ar) e destaque.
+Tela `Novo Anúncio`, para cadastrar um anúncio classificado em nome de um anunciante.
+- Anunciante: lista `Empresa anunciante *` (escolha quem anuncia); se não houver nenhum, aparece o link `Cadastre um primeiro.`
+- bloco `Dados do Anúncio`: `Título *` (ex.: iPhone 13 128GB Azul), `Categoria`, `Subcategoria`, `Condição` (`Novo`, `Usado - Excelente`, `Usado - Bom`, `Com defeito ou avarias`) e `Descrição *`.
+- bloco `Preço`: `Valor (R$)` (vazio = "A combinar") e as caixas `Negociável` e `Aceita troca`.
+- bloco `Fotos`: pelo menos uma foto é obrigatória para publicar. não há vídeo nem link do YouTube em anúncio.
+- bloco `Localização`: cidade e bairro (listas com busca).
+- bloco `Contato`: `Nome do anunciante` (quem responde), `WhatsApp`, `E-mail de contato` e a caixa `Mostrar telefone publicamente`.
+- bloco `Configurações`: `Status` (`Ativo`, `Pausado`, `Encerrado`, `Vendido`), `Expira em` (data em que sai do ar) e a caixa `Destacar anúncio` (aparece no topo com borda amarela).
+- botões `Cancelar` e `Publicar anúncio`.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-classificados-cadastrar.png](../prints/painel-classificados-cadastrar.png) · dados brutos: [json](../prints/json/painel-classificados-cadastrar.json)

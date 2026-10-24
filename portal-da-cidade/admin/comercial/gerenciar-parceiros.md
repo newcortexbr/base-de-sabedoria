@@ -1,6 +1,6 @@
 ---
 id: gerenciar-parceiros
-titulo: cadastrar um parceiro
+titulo: "cadastrar e gerenciar parceiros"
 publico:
   - admin
 modulo: parceiros
@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - 8gIDPdapN0E
@@ -16,50 +16,51 @@ videos:
 
 ## objetivo
 
-aqui você cadastra quem vende o portal por você. Ele recebe acesso à área própria de parceiro.
+Aqui você cadastra um parceiro e escolhe o plano dele. Os percentuais de comissão ficam em `Planos de parceiro` > `Editar` e valem para todos os parceiros daquele plano.
 
 ## pré-requisitos
 
 - Ter acesso administrativo ao portal.
-- O Programa de Parceiros estar ligado no portal.
-
-## veja também
-- para guardar o link do grupo dos parceiros, veja o artigo "guardar o link do grupo de WhatsApp dos parceiros".
+- O Programa de Parceiros deve estar ligado e deve existir um plano ativo.
 
 ## passos
 
-1. No menu da esquerda, na parte `Comercial`, clique em `Parceiros`. [guia=menu:/painel/parceiros] [t=6] No topo, uma chave liga ou desliga o programa de parceiros.
-2. Para cadastrar, clique em `Novo parceiro`. [guia=parceiros.novo] [t=73]
-3. Escreva o `Nome *`. [guia=parceiros.nome] [t=75]
-4. Escreva o `E-mail (login) *`, que o parceiro usa para entrar. [guia=parceiros.email] [t=75]
-5. Escreva a `Senha inicial *` (mínimo de 6 caracteres). [guia=parceiros.senha] [t=77]
-6. Preencha o `Telefone`. [guia=parceiros.telefone] [t=77]
-7. Preencha o `WhatsApp`. [guia=parceiros.whatsapp] [t=77]
-8. Escolha o `Plano do parceiro`. [guia=parceiros.plano] [t=80]
-9. Clique em `Salvar` (em plano pago, o botão é `Salvar e gerar link`, que gera o link de pagamento do parceiro). [guia=parceiros.salvar]
+1. No menu da esquerda, na parte `Comercial`, clique em `Parceiros`. [t=8] [guia=menu:/painel/parceiros]
+2. Clique em `Novo parceiro`. [t=73] [guia=parceiros.novo]
+3. Preencha `Nome *`. [t=75] [guia=parceiros.nome]
+4. Preencha `E-mail (login) *`. [t=77] [guia=parceiros.email]
+5. Preencha `Senha inicial *`, com pelo menos 6 caracteres. [t=77] [guia=parceiros.senha]
+6. Se quiser, preencha `Telefone`. [t=77] [guia=parceiros.telefone]
+7. Se quiser, preencha `WhatsApp`. [t=80] [guia=parceiros.whatsapp]
+8. Escolha um plano em `Plano do parceiro *`. [t=80] [guia=parceiros.plano]
+9. Se escolheu um plano pago já acertado fora do portal, selecione `Já paguei / acertei por fora`. [guia=parceiros.plano-por-fora]
+10. Clique em `Salvar`. [guia=parceiros.salvar]
 
 ## resultado
 
-o parceiro recebe acesso à área dele.
+O cadastro é salvo. No plano pago acertado por fora, o plano vale imediatamente e o sistema não cobra esse acerto.
 
-## desvios
+## outros caminhos
 
-- Para pagar comissões, veja os artigos "pagar a comissão de um parceiro por fora do portal" e "mandar a comissão do parceiro direto pelo Asaas".
-- Na lista `Seus parceiros` há busca por nome, e-mail ou número e filtros por plano, forma de recebimento e situação. Os ícones da linha editam dados e plano, trocam a senha, desativam ou excluem o parceiro.
-- Existem três planos de parceiro: Start (gratuito e opcional), Pro e Premium (pagos). Em editar o plano você ajusta nome, periodicidade, valor, o percentual de venda e o percentual residual (o que o parceiro recebe todo mês enquanto o cliente renovar). Você pode mudar o plano de um parceiro a qualquer momento.
-- Ligar ou desligar o programa inteiro é outra tarefa; veja o artigo de módulos.
+- Para cobrar o plano pelo Asaas, veja `cobrar-plano-de-parceiro-pelo-asaas.md`.
+- Para mudar os percentuais de venda e renovação, veja `mudar-comissao-do-plano-de-parceiro.md`.
+- Para mudar os dados ou o plano de alguém já cadastrado, veja `mudar-plano-de-um-parceiro.md`.
+- Para ligar ou desligar o programa, veja `ativar-modulos-e-programa-de-parceiros.md`.
+
+Na lista `Seus parceiros`, os ícones permitem editar, trocar a senha, desativar e excluir. O e-mail de acesso não pode ser alterado pela janela de edição.
 
 ## quando pedir ajuda
 
-peça ajuda humana antes de marcar comissão como paga se houver dúvida, ou se o pagamento automático não cair.
+Peça ajuda se a tela mostrar erro ou se o resultado não corresponder ao que você salvou. Não envie senhas, chaves ou comprovantes ao assistente.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/parceiros/page.tsx:1`
-- `portal-cidade/frontend/src/components/painel/parceiros/ModalBaixaComissao.tsx:70,146,151`
-- `portal-cidade/frontend/src/components/painel/parceiros/CartaoGrupoWhatsapp.tsx:1`
-- vídeo `8gIDPdapN0E`.
+- `portal-cidade/frontend/src/app/painel/parceiros/page.tsx:323`
+- `portal-cidade/frontend/src/app/painel/parceiros/page.tsx:381`
+- `portal-cidade/frontend/src/app/painel/parceiros/page.tsx:416`
+- `portal-cidade/frontend/src/app/painel/parceiros/page.tsx:469`
+- `portal-cidade/frontend/src/app/painel/parceiros/page.tsx:601`
 
 ## lacunas
 
-não verificado visualmente nesta tarefa; passos conferidos com o vídeo de suporte e com o código da tela. Os planos de parceiro (Start, Pro, Premium) e a edição de percentuais não foram detalhados.
+Conferência documental com o código em b2f62d3f e as transcrições/legendas do catálogo. Sem validação no navegador, execução financeira ou teste de integração nesta auditoria. Tempos indicam trechos da legenda; passos sem tempo não foram localizados no vídeo.

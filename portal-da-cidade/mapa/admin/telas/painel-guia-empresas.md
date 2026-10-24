@@ -1,23 +1,25 @@
 # /painel/guia/empresas — lista de empresas (`src/app/painel/guia/empresas/page.tsx`)
 - gate: módulo `guia` (prefixo `/painel/guia`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
-- faz: lista de empresas do Guia, com filtros por status (pendente, ativo, inativo, banido, reprovado; lido de `?status=` na URL, :38), categoria e busca; 20 por página.
-- ações: alterar status (:85), excluir com `confirm` e trava de duplo clique (:93-96), ir para editar, cardápio, catálogo etc., importar planilha; revalida o Guia do cliente (:86,97).
+- menu: parte Conteúdo, grupo `Guia Comercial` > `Listar Empresas` (`Sidebar.tsx:128`). título `Guia Comercial — Empresas`. botões no topo: `+ Cadastrar Empresa` e `Importar do Google Maps`.
+- tabela: Empresa, Categoria, Cidade, Plano, Status (lista para mudar na linha), Contato (WhatsApp e `🌐 Site`), Ações: três ícones — editar (`Editar`), `Ver no portal` e `Excluir`. paginação `← Anterior` / `Próxima →`. as telas de cardápio, catálogo, quartos, serviços e equipe NÃO têm botão na lista: abrem pelos botões `Gerenciar` dentro da edição da empresa.
+- faz: lista de empresas do Guia, com filtros (`Todos os status`, `Todas as categorias`, busca `Buscar empresa...` + botão `Buscar`) por status (pendente, ativo, inativo, banido, reprovado; lido de `?status=` na URL, :38), categoria e busca; 20 por página.
+- ações: alterar status (:85), excluir com aviso de confirmação do painel (`Excluir a empresa "..."?`) e trava de duplo clique (:97), ir para editar, cardápio, catálogo etc., importar planilha; revalida o Guia do cliente (:86,97).
 - APIs: `guia.empresas.listar` (:67), `guia.categorias.listar` (:68), `guia.empresas.alterarStatus` (:85), `guia.empresas.excluir` (:96).
-- estados: vazio "Nenhuma empresa encontrada" (:162); erros de ação por `alert()` (:88,104).
+- estados: vazio "Nenhuma empresa encontrada." (:168); erros de ação por `alert()` (:88,104).
 - problemas: fato — `carregar` tem só `try/finally`, sem `catch` (:60-76): se a API falha, a lista fica vazia mostrando "Nenhuma empresa encontrada" e a promessa rejeitada não é tratada (mesmo defeito já corrigido em banners, comentário `banners/page.tsx:353`). fato — erros usam `alert()` nativo.
 - admin vs cliente: o dono da empresa edita a ficha em `/minha-conta/guia` (2495 linhas, por seções), com plano em `/minha-conta/guia/plano`. O admin edita tudo, muda status (aprovar/banir) e exclui; o cliente não muda o próprio status.
 
 ## o que você vê
 Lista das empresas do Guia Comercial do portal, para buscar, mudar a situação, editar ou apagar.
-- Buscar empresa, categoria e status: filtros da lista.
+- `Buscar empresa...` (botão `Buscar`), `Todas as categorias` e `Todos os status`: filtros da lista.
 - status: Pendente (esperando aprovação), Ativo (aparece no site), Inativo (escondida), Reprovado (não aprovada), Banido (bloqueada). Dá para mudar o status direto na lista.
-- Empresa, Categoria, Cidade: quem é, de que ramo e onde fica.
-- plano: o plano da empresa; "Sem plano" quando não tem nenhum.
-- ⭐ Destaque: empresa com mais visibilidade; 🌐 Site: tem site próprio informado.
-- Ver no portal abre a página pública; os outros botões levam à edição e às partes extras (cardápio, catálogo, quartos, serviços, equipe).
-- importar: traz várias empresas de uma vez a partir de uma planilha do Google Maps.
-- apagar pede confirmação.
+- Empresa, Categoria, Cidade: quem é, de que ramo e onde fica. Contato: WhatsApp e link do site.
+- Plano: o plano da empresa; "Sem plano" quando não tem nenhum.
+- ⭐ Destaque: empresa com mais visibilidade; 🌐 Site: link do site informado.
+- três ícones por linha: editar (abre a edição), `Ver no portal` (página pública) e `Excluir`. Cardápio, catálogo, quartos, serviços e equipe ficam dentro da edição, nos botões `Gerenciar`.
+- `Importar do Google Maps`: traz várias empresas de uma vez a partir de uma planilha do Google Maps.
+- `Excluir` pede confirmação.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-guia-empresas.png](../prints/painel-guia-empresas.png) · dados brutos: [json](../prints/json/painel-guia-empresas.json)

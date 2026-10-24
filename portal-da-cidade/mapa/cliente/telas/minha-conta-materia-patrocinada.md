@@ -3,7 +3,7 @@
 Arquivo: `src/app/minha-conta/materia-patrocinada/page.tsx`
 
 ## quem acessa
-- empresa. Entrada do menu "Notícias" via `rotaDaSecao('noticias')` → `materia-patrocinada` (`secoes-do-cliente.ts:46,53-56`).
+- empresa. Entrada do menu "Notícias" (grupo "O que eu publico"; título da tela: "Matéria patrocinada") via `rotaDaSecao('noticias')` → `materia-patrocinada` (`secoes-do-cliente.ts:46,53-56`).
 - jornalista tem outra tela (`/minha-conta/noticias`) e não alcança esta (`perfil-da-area.ts:63`). Colunista e pessoa física também não.
 
 ## gate de módulo/plano

@@ -12,7 +12,7 @@ Arquivos: `publicidade/[id]/editar/page.tsx`, `publicidade/EditarBanner.tsx`
 - troca a arte e o link de destino de um banner existente. Salvar um banner reprovado reenvia à análise (`:192`).
 
 ## ações e campos
-- arte atual / nova arte (PNG ou JPG, até 5 MB, proporção por posição), "Trocar a arte", "Apagar a arte", link de destino (opcional, normalizado no blur), segundo campo opcional na linha 259 (provavelmente título; não lido), "Salvar alterações".
+- arte atual / nova arte (PNG ou JPG, até 5 MB, proporção por posição), "Trocar a arte" (área de envio) e, depois de escolher uma arte nova, "Apagar a arte" (descarta a nova), `Link de destino` (opcional, normalizado no blur), `Nome do banner` (opcional), botão `Salvar alterações`.
 - aguardando pagamento: `InstrucoesDePagamento` + re-leitura ao fechar.
 
 ## APIs
@@ -42,6 +42,7 @@ Arquivos: `publicidade/[id]/editar/page.tsx`, `publicidade/EditarBanner.tsx`
 ## o que você vê
 Tela para trocar a imagem ou o link de um banner que você já comprou.
 - Situação: publicado (com data final), aguardando aprovação, reprovado (com motivo) ou aguardando pagamento (com instruções para pagar).
-- Arte: PNG ou JPG, até 5 MB, no formato da posição. "Trocar a arte" e "Apagar a arte".
+- Arte: PNG ou JPG, até 5 MB, no formato da posição. "Trocar a arte" envia uma nova; "Apagar a arte" descarta a nova escolhida.
+- Nome do banner: opcional.
 - Link de destino: para onde vai quem clica (opcional).
 - Salvar alterações: em banner reprovado, reenvia para análise.

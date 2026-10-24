@@ -1,20 +1,21 @@
 # /painel/guia/empresas/importar — importar planilha (`.../importar/page.tsx`, 661 linhas)
 - gate: módulo `guia` (prefixo `/painel/guia`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
-- faz: assistente em 4 etapas (enviar arquivo → revisão → importando → concluída). Importa empresas em lote a partir de arquivo (extrator de Google Maps), com mapeamento de categorias.
-- ações: enviar (`importacoes.enviar`, :117), salvar mapeamento (:184), processar em blocos (`processar` :147, pausa/continua), desfazer lote com `confirm` "apaga as N empresas criadas" (:221-224), reabrir lote anterior (`detalhe` :237), listar anteriores (:87).
+- menu: parte Conteúdo, `Guia Comercial` > `Listar Empresas` > botão `Importar do Google Maps`. título `Guia Comercial — Importar do Google Maps`.
+- faz: assistente em 4 etapas (enviar arquivo → revisão → importando → concluída; indicador `Enviar arquivo`, `Revisão`, `Importação`). aceita só arquivo `.xlsx` "Base para Portal" do extrator do Google Maps (`importar/page.tsx:369-381`). Importa empresas em lote a partir de arquivo (extrator de Google Maps), com mapeamento de categorias.
+- ações: enviar (`importacoes.enviar`, :117), salvar mapeamento (:184), processar em blocos (`processar` :147, pausa/continua), desfazer lote (botão `Desfazer importação`) com aviso de confirmação do painel "Isto apaga as N empresas criadas por este lote. Confirma?" (botão `Apagar`, :224), reabrir lote anterior (`detalhe` :237), listar anteriores (:87).
 - estados: erro de processamento com opção de continuar; "Nenhuma categoria para mapear" (:429); "Nenhuma importação ainda" (:627).
-- problemas: fato — "Desfazer" apaga as empresas do lote; só há `confirm()` nativo. hipótese — empresas editadas depois da importação também seriam apagadas (regra do servidor).
+- problemas: fato — "Desfazer" apaga as empresas do lote; só há o aviso de confirmação. hipótese — empresas editadas depois da importação também seriam apagadas (regra do servidor).
 - admin vs cliente: sem equivalente no cliente (operação de portal).
 
 ## o que você vê
 Traz várias empresas de uma vez para o Guia, a partir de uma planilha tirada do Google Maps.
-- passos: Enviar arquivo, Revisão, Importação.
+- passos: `Enviar arquivo` (escolha a planilha .xlsx do extrator do Google Maps), `Revisão`, `Importação`.
 - Revisão: para cada categoria da planilha, escolha a categoria do portal (há sugestão); as que ficarem sem escolha serão ignoradas.
-- números: Total de linhas, Novas (serão criadas), Já existem (já estão no Guia), Ignoradas, Com problema.
-- Importação: Criadas e Com erro mostram o andamento; Pausar para e Continuar retoma.
+- números na revisão: `Total de linhas`, `Novas` (serão criadas), `Já existem` (já estão no Guia), `Com problema` (lista em `Linhas com problema`). botão final `Importar N empresas`; ele só libera depois de escolher todas as categorias.
+- Importação: `Criadas`, `Ignoradas` e `Com erro` mostram o andamento; `Pausar` para e `Continuar` retoma. Não feche a aba durante a importação. Ao fim: `Ver empresas`, `Desfazer importação`, `Importar outra planilha`.
 - fotos que não vierem podem ser enviadas depois, na edição da empresa.
-- Importações anteriores: lista de envios passados (Data, Arquivo); dá para reabrir ou desfazer um lote, o que apaga as empresas criadas nele, com confirmação.
+- `Importações anteriores`: lista de envios passados (Arquivo, Data, Status, Criadas, Ignoradas, Com erro); clique numa linha para reabrir o lote. `Desfazer importação` apaga as empresas criadas nele, com confirmação.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-guia-empresas-importar.png](../prints/painel-guia-empresas-importar.png) · dados brutos: [json](../prints/json/painel-guia-empresas-importar.json)

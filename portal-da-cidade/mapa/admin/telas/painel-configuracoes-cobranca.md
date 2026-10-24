@@ -2,6 +2,26 @@
 
 Arquivos: `app/painel/configuracoes/cobranca/page.tsx` (474 linhas), `CartaoPix.tsx`, `ModaisAutenticador.tsx`, `erro-do-servidor.ts`, `lib/asaas-cobrando.ts`
 
+## como chegar
+- na parte Sistema do menu, abra `Configurações` e clique em `Cobrança`.
+
+## o que você vê
+Tela `Cobrança pelo Asaas`. Tem dois cartões independentes: `Conta Asaas` (cobrança automática por link) e `Recebimento por Pix` (a chave Pix manual, usada como reserva).
+
+### cartão `Conta Asaas`
+- selo de estado: `Não conectada`, `✓ Conectada` ou `Desligada`.
+- campo `Chave de API da sua conta Asaas`: cole a chave que começa com `$aact_`. Conectada, o campo mostra a chave escondida e `clique para trocar`; a chave antiga só é trocada se a nova funcionar.
+- botão `Conectar`: liga a conta e a cobrança automática de uma vez. Se falhar, aparece o motivo.
+- botão `Testar conexão`: confere se a chave continua valendo.
+- chave `Cobrar pelo Asaas` (liga/desliga sem apagar a chave): ligada, o cliente paga por link (Pix, boleto ou cartão) e a confirmação é automática; desligada, todo pagamento mostra a sua chave Pix e você confirma no Financeiro. Ao desligar com cobranças já emitidas, aparece um aviso com o link `Ver quais`.
+- sem conta conectada, o bloco `Onde pegar essa chave, no Asaas` traz os passos para gerar a chave.
+
+### cartão `Recebimento por Pix`
+- selo `✓ Em uso` (sem Asaas cobrando) ou `Reserva` (com Asaas ligado, a chave só aparece se a cobrança não puder ser gerada).
+- `Chave Pix`: travada; o botão `cadastrar com autenticador` / `trocar com autenticador` abre a janela de segurança para cadastrar ou trocar a chave.
+- `Instruções para o cliente`: só leitura (travado).
+- campo `WhatsApp que recebe os comprovantes` e botão `Salvar WhatsApp`. Não é o WhatsApp de contato do portal.
+
 ## rota e gate
 - `/painel/configuracoes/cobranca`. client. gate `PainelGuard` (admin/master); sem gate de módulo. menu: "Cobrança" (`components/painel/Sidebar.tsx:254`).
 
@@ -11,13 +31,13 @@ Arquivos: `app/painel/configuracoes/cobranca/page.tsx` (474 linhas), `CartaoPix.
 
 ## campos e ações
 - chave de API (campo `password`, `$aact_…`). quando conectada, mostra `chave_mascarada` (vinda do servidor) com "clique para trocar"; a chave antiga só é trocada se a nova funcionar (`:256-259`).
-- Conectar (`conectar`, `:111`): POST com a chave; sucesso "Conectado com sucesso."
+- Conectar (`conectar`, `:111`): POST com a chave; sucesso "Conectado com sucesso"
 - Interruptor "Cobrar pelo Asaas" (`alternarCobranca`, `:129`, `role=switch`): liga/desliga sem apagar a chave; erro em `erroInterruptor`.
 - Testar conexão (`testar`, `:148`): mostra `mensagem` do servidor, `ok` ou falha.
 - selo: "Não conectada", "✓ Conectada", "Desligada" (`:211`). data "Conectada em …".
 - aviso `aviso-cobrancas-abertas` (cobranças já abertas no Asaas ao desligar), com link "Ver quais" para `/painel/financeiro`.
 - aviso `aviso-webhook-pendente`: conta ligada sem aviso automático de pagamento (texto vem do servidor, `conta.webhook_pendente`).
-- `CartaoPix` (abaixo): WhatsApp para comprovante e configuração Pix; fica "em uso" quando não há Asaas cobrando (`emUso={!(conectada && cobrancaLigada)}`, `:167`). `ModaisAutenticador` serve ao fluxo do autenticador do Pix.
+- `CartaoPix` (abaixo): chave Pix (cadastro/troca só pelo botão com autenticador; instruções travadas) e WhatsApp dos comprovantes; fica "em uso" quando não há Asaas cobrando (`emUso={!(conectada && cobrancaLigada)}`, `:167`). `ModaisAutenticador` serve ao fluxo do autenticador do Pix.
 
 ## apis (`lib/admin-api.ts`)
 - `comercial.asaas.obter` (`:1200`), `.conectar` (POST, `:1201`), `.testar` (POST `/testar/`, `:1206`), `.definirCobranca` (POST `/cobranca/`, `:1208`)

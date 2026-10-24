@@ -8,43 +8,52 @@ categoria: conteúdo
 aba: Roteiros
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - CMEOWthwqtI
 ---
 
 ## objetivo
-aqui você muda um roteiro turístico que já foi cadastrado e salva.
+Mudar os dados de um roteiro e os dados de suas paradas. A galeria salva separadamente durante a edição.
 
 ## pré-requisitos/permissões
-Entrar no painel como administrador, com o módulo de turismo ativo no portal.
+Acesso de administrador e roteiro já cadastrado.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Turístico / Eventos` e depois em `Roteiros`. [guia=menu:/painel/turismo/roteiros]
-2. Para mudar um roteiro, clique em `Editar` na linha do roteiro que você quer. [guia=roteiros.editar]
-3. Faça as mudanças e clique em `Salvar`. [guia=roteiros.salvar]
+1. No menu lateral, dentro de `Guia Turístico / Eventos`, clique em `Roteiros`. [t=7] [guia=menu:/painel/turismo/roteiros]
+2. Clique em `Editar` na linha do roteiro. [guia=roteiros.editar]
+3. Altere `Título *`, se necessário. [guia=roteiros.titulo]
+4. Para trocar a capa, clique em `Foto de capa` para selecionar outro arquivo. [guia=roteiros.foto]
+5. Altere `Badge`, se necessário. [guia=roteiros.badge]
+6. Altere `Duração`, se necessário. [guia=roteiros.duracao]
+7. Altere a `Descrição` do roteiro, se necessário. [guia=roteiros.descricao]
+8. Altere `Ponto de partida`, se necessário. [guia=roteiros.partida]
+9. Altere `Vídeo do roteiro (YouTube)`, se necessário. [guia=roteiros.video]
+10. Clique em `Salvar`. [guia=roteiros.salvar]
+
+### alterar uma parada
+Depois de abrir a edição do roteiro:
+
+1. Clique em `Editar` ao lado da parada. [guia=roteiros.parada-editar]
+2. Altere `Nome da parada *`, se necessário. [guia=roteiros.parada-nome]
+3. Altere a `Descrição` da parada, se necessário. [guia=roteiros.parada-descricao]
+4. Altere `Tempo sugerido`, se necessário. [guia=roteiros.parada-tempo]
+5. Ajuste `Destaque` dentro do formulário da parada, se necessário. [guia=roteiros.parada-destaque]
+6. Clique em `Salvar alterações`. [guia=roteiros.parada-confirmar]
+7. Clique em `Salvar` no formulário do roteiro. [guia=roteiros.salvar]
 
 ## resultado
-O roteiro fica com as mudanças.
+`Salvar alterações` atualiza a montagem na tela; o botão `Salvar` do roteiro envia essa montagem ao servidor. Na edição, a galeria envia cada inclusão ou remoção diretamente, sem depender do salvamento do roteiro.
 
 ## desvios
-- A tela de roteiros tem testes persistentes para revalidação de conteúdo; isso não substitui conferência do estado salvo.
-- Para cadastrar dicas, veja o artigo "turismo: dicas para visitantes". Para mudar a ordem das paradas, use as setas ao lado de cada uma. O endereço antigo de fotos do roteiro agora só leva de volta à lista.
-- Link de vídeo do YouTube é aceito em galeria de Turismo segundo o produto; não significa que qualquer URL de vídeo seja aceita.
-- Não confunda a rota de eventos, que é módulo separado.
-
-## quando pedir ajuda
-peça ajuda se a galeria não puder ser acessada, se salvar retornar erro ou se o roteiro não surgir na listagem após recarga.
+Para incluir novas paradas, veja [cadastrar um roteiro](turismo-roteiros-dicas.md). Para mudar a sequência, veja [reordenar paradas](turismo-roteiros-reordenar-paradas.md). O endereço antigo de fotos do roteiro redireciona para a lista.
 
 ## fontes
-- `portal-cidade/frontend/src/app/painel/turismo/roteiros/page.tsx:1` — tela de roteiros.
-- `portal-cidade/frontend/src/app/painel/turismo/dicas/page.tsx:1` — tela de dicas.
-- `portal-cidade/frontend/src/app/painel/turismo/roteiros/[id]/fotos/page.tsx:1` — fotos do roteiro.
-- `docs/PRODUCT.md:41` — galeria de Turismo com vídeo do YouTube.
-- `docs/PRODUCT.md:193` — independência entre Turismo e Agenda de Eventos.
+- Código b2f62d3f: `frontend/src/app/painel/turismo/roteiros/page.tsx:125` — edição; `:146` — parada local; `:340` — galeria; `:389` — confirmar parada; `:418` — editar parada; `:438` — salvar.
+- `frontend/src/app/painel/turismo/roteiros/[id]/fotos/page.tsx:1` — redirecionamento.
+- `videos/legendas/CMEOWthwqtI.srt` — menu em 7 segundos; o restante demonstra cadastro, não edição.
 
 ## lacunas
-não verificado visualmente nem por teste nesta tarefa. Rótulos específicos de botões do formulário não são afirmados aqui.
-- revisão 2026-10-19: `Dicas para Visitantes` (`/painel/turismo/dicas`) não tem link no menu nem em outra tela do painel; só se chega pelo endereço. A rota `roteiros/[id]/fotos` só redireciona.
+Sem navegador. Os tempos de criação não foram reutilizados como demonstração de edição.

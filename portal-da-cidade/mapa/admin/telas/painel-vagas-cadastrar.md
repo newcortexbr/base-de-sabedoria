@@ -2,19 +2,20 @@
 - gate: módulo `vagas` (prefixo `/painel/vagas`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`). ATENÇÃO: "vagas" no frontend = vagas de emprego.
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
 - faz: `<VagaForm />` (`vagas/VagaForm.tsx`), modo criar.
-- campos: Contratante (obrigatório), Título, Área, Tipo de contrato (CLT, PJ, Estágio, Trainee, Temporário, Freelancer), Carga horária, Modelo de trabalho (home office/híbrido), PCD, 1º emprego, Urgente, Destaque, Descrição, Requisitos, Benefícios (um por linha), Salário único ou "A combinar", WhatsApp, E-mail, Link externo de candidatura, cidade/bairro, expira em, status.
+- campos: Contratante (obrigatório), Título, Área, Tipo de contrato (CLT, PJ / Autônomo, Estágio, Trainee, Temporário, Freelancer), Carga horária, Modelo de trabalho (home office/híbrido), PCD, 1º emprego, Urgente, Destaque, Descrição, Requisitos, Benefícios (um por linha), Salário único ou "A combinar", WhatsApp, E-mail, Link externo de candidatura, cidade/bairro, expira em, status.
 - APIs: `vagas.areas.listar`, `vagas.contratantes.listar`, `guia.config.get` (:137-139), `vagas.vagas.criar` (:257); volta a `/painel/vagas` (:262).
 - estados: "Não foi possível carregar áreas, contratantes ou cidades" (:141); "Preencha os campos obrigatórios" (:214); "O salário não pode ser negativo" (:225); telefone (:193).
 - problemas: fato — salário vai para `salario_min`, `salario_max` sempre nulo; vagas antigas com faixa avisam e colapsam no salvar (comentário :73-95).
 - admin vs cliente: equivale a `/minha-conta/vagas/nova` (`minha-conta/vagas/VagaForm.tsx`, outro componente). Admin escolhe o contratante, destaque e status; cliente não.
 
 ## o que você vê
-Tela para cadastrar uma vaga de emprego em nome de uma empresa contratante.
-- Contratante *: a empresa que oferece a vaga; se ela não existir, use Cadastrar contratante.
-- Dados da Vaga: Título * (ex.: Desenvolvedor Full Stack Pleno), Área, Tipo de contrato, Carga horária (ex.: 44h, 12x36), Modelo de trabalho, Salário (ou a combinar), cidade e bairro.
-- Descrição da vaga *, Requisitos e benefícios (um por linha).
-- Contato / Candidatura: WhatsApp para contato, E-mail para currículo (mostra botão de e-mail na vaga) e link de site de recrutamento (mostra botão "Candidatar-se").
-- Configurações: Status (Ativa, Pausada, Encerrada), Expira em (data em que a vaga sai do ar), Destaque e Urgente.
+Tela para cadastrar uma vaga de emprego em nome de uma empresa contratante. Para abrir: na parte Conteúdo do menu, em `Vagas de Emprego`, clique em `Nova Vaga` (ou em `+ Nova Vaga` na lista). `Publicar vaga` grava; `Cancelar` volta.
+- "Empresa Contratante": campo Contratante * (lista "Selecione um contratante"), a empresa que oferece a vaga. O link `Cadastrar contratante` só aparece quando ainda não existe nenhum contratante; com contratantes já cadastrados, crie um novo em `Contratantes` do menu.
+- "Dados da Vaga": Título * (ex.: Desenvolvedor Full Stack Pleno), Área, Tipo de contrato (CLT, PJ / Autônomo, Estágio, Trainee, Temporário, Freelancer), Carga horária (ex.: 44h, 12x36), cidade e bairro, Modelo de trabalho (Presencial, Home Office, Híbrido) e as caixas Vaga PCD, 1º Emprego, Urgente e Destaque.
+- "Salário": caixa "A combinar" ou campo "Salário (R$)" (um valor único).
+- "Descrição": Descrição da vaga *, Requisitos e "Benefícios (um por linha)".
+- "Contato / Candidatura": "URL de candidatura (site externo)", "WhatsApp para contato" e "E-mail para currículo".
+- "Configurações": Status (Ativa, Pausada, Encerrada) e Expira em (data em que a vaga sai do ar).
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-vagas-cadastrar.png](../prints/painel-vagas-cadastrar.png) · dados brutos: [json](../prints/json/painel-vagas-cadastrar.json)

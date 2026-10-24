@@ -12,7 +12,7 @@ tipo_problema:
   - colocar meu show na agenda
   - salvar evento
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - aNqs6gSprvs
@@ -29,38 +29,40 @@ aqui você cadastra um evento seu e paga a divulgação. O pagamento é por even
 
 ## passos
 
-1. No menu da esquerda da sua área, clique em `Agenda de Eventos`. [guia=menu:/minha-conta/eventos]
-2. No topo, veja os contadores `no ar`, `aguardando pagamento` e `em análise`. Clique em `Novo evento`. O formulário tem três partes e uma prévia à direita. [guia=fora]
-3. Escreva o `Título do evento *` e escolha a categoria (shows e música, festivais, gastronomia etc.). O organizador vem preenchido com o nome da empresa. [guia=fora]
-4. Escolha a `Data *` do evento. Se durar mais de um dia, preencha também a data de término. [guia=fora]
-5. Preencha o horário (texto livre, por exemplo "sábado das 16h às 23h"), o local e os outros campos que quiser. O CEP preenche o endereço e a cidade já vem escolhida. O local aparece em destaque na página, com o botão `como chegar`. [guia=fora]
-6. Em `Fotos, vídeo e ingressos`, clique em `+ Adicionar fotos` e envie ao menos uma foto. A foto de capa é horizontal, 1280 por 720 px, e aparece no cartão da agenda e no topo da página. A galeria aceita até 10 itens, foto ou vídeo do YouTube; remova pelo X. Nessa parte há também o preço (por exemplo, entrada gratuita), o link de ingresso (vira botão na página), o WhatsApp para contato e a opção de mostrar o telefone na página. [guia=galeria.adicionar-fotos]
-7. Em `Como você quer divulgar?`, escolha a opção de divulgação (por exemplo, destaque do evento e destaque na página inicial de eventos). A prévia mostra o evento com a escolha. [guia=fora]
-8. Role até o fim e clique em `Pagar e publicar`. [guia=fora]
-9. Pague com Pix ou cartão na janela que abre. [guia=fora]
+1. Na parte `O que eu publico` do menu da esquerda, clique em `Agenda de Eventos`. [t=6] [guia=menu:/minha-conta/eventos]
+2. Clique em `Novo evento`. O formulário tem três partes e o quadro `Como vai aparecer` mostra a prévia. [t=25] [guia=eventos.novo]
+3. Escreva o `Título do evento *`. A categoria é opcional e o organizador já vem com o nome da empresa. [t=42] [guia=evento-form.titulo]
+4. Escolha a `Data *` do evento. Se durar mais de um dia, preencha também a `Data de término`. [t=67] [guia=evento-form.data]
+5. Escreva o `Horário` (texto livre, por exemplo "sábado das 16h às 23h") e o `Local`. O CEP preenche o endereço e a cidade já vem escolhida. [t=75] [guia=evento-form.horario]
+6. Em `Fotos, vídeo e ingressos`, clique em `Enviar foto de capa` e escolha a imagem principal (recomendado: 1280 × 720 px, deitada). [t=106] [guia=evento-form.capa]
+7. Na galeria logo abaixo, clique em `+ Adicionar fotos` e envie ao menos uma foto. A galeria aceita até 10 itens, foto ou vídeo do YouTube. [t=120] [guia=evento-form.galeria]
+8. Se quiser, preencha `Preço` (por exemplo, "Entrada gratuita"), `Link de ingresso` (vira botão na página), `WhatsApp para contato` e marque `Mostrar telefone na página`. [t=142] [guia=evento-form.preco]
+9. Em `Como você quer divulgar?`, clique na opção de divulgação que quer. A prévia mostra o evento com a escolha. [t=163] [guia=evento-form.divulgacao]
+10. Clique em `Pagar e publicar`. [t=185] [guia=evento-form.pagar]
+11. Pague com Pix ou cartão na janela que abre. [t=191] [guia=pagamento.janela]
 
 ## resultado
-depois de pago, o evento entra em análise do portal antes de ir ao ar. Na lista, a situação é `aguardando pagamento` (com o botão `continuar pagamento`), `em análise` após o pagamento e `publicado` após a aprovação. Use `editar` para alterar e a setinha para abrir a página pública do evento.
+depois de pago, se o portal exigir aprovação, o evento entra em análise antes de ir ao ar. Na lista, a situação é `Aguardando pagamento` (com o botão `Continuar pagamento`), `Em análise` após o pagamento e `Publicado` após a aprovação. Use `Editar` para alterar e a setinha para abrir a página pública do evento. [t=200]
 
 ## desvios
 
 - Se você já pagou um pacote de eventos com saldo, o botão do fim se chama `Publicar pelo pacote` e não cobra de novo.
 - Evento reprovado: leia o `Motivo da reprovação`, clique em `Corrigir e reenviar`, ajuste e salve.
-- O título não muda depois que o evento foi publicado.
+- O título não muda depois que o evento foi publicado (aviso da tela).
 - Ao editar um evento, o botão do fim se chama `Salvar alterações`.
+- Os filtros da lista são `Todos`, `Aguardando pagamento`, `Em análise`, `Publicado`, `Encerrados` e `Reprovado`.
 
 ## quando pedir ajuda
 
-peça ajuda se aparecer "Divulgação indisponível no momento." ou se o evento pago não entrar em análise.
+peça ajuda se aparecer "Divulgação indisponível no momento. Volte mais tarde." ou se o evento pago não entrar em análise.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/minha-conta/eventos/page.tsx:142-143,182,226-227` — "Novo evento", aviso de análise, reprovação.
-- `portal-cidade/frontend/src/app/minha-conta/eventos/EventoForm.tsx:333-340` — título, data e uma foto obrigatórios.
-- `portal-cidade/frontend/src/app/minha-conta/eventos/EventoForm.tsx:572-832` — seções, "Como você quer divulgar?", botões finais.
-- `portal-cidade/frontend/src/app/minha-conta/eventos/GaleriaDoEvento.tsx:279` — "+ Adicionar fotos".
-- `portal-cidade/backend/comercial/catalogo.py` — rótulo "Agenda de Eventos" da seção, usado no menu (`rotuloDoModulo`).
+- `frontend/src/app/minha-conta/eventos/page.tsx:35-40` — situações; `:136-143` `Novo evento`; `:185-193` filtros; `:226-237` reprovação e `Continuar pagamento`.
+- `frontend/src/app/minha-conta/eventos/EventoForm.tsx:332-340` — título, data e uma foto obrigatórios; `:572-760` campos e seções; `:827-832` botões finais; `:584-586` aviso do título.
+- `frontend/src/app/minha-conta/eventos/GaleriaDoEvento.tsx:280` — `+ Adicionar fotos`.
+- `backend/comercial/views_eventos.py:295` — título travado depois de publicado.
 
 ## lacunas
 
-tela não validada no navegador nesta tarefa. A ficha `mapa/cliente/telas/minha-conta-eventos-novo.md` fala em foto de capa obrigatória; o código exige uma foto na galeria (`EventoForm.tsx:339`). Não há prazo de análise no código.
+tela não validada no navegador nesta tarefa. Não há prazo de análise no código além do aviso "24h a 48h úteis" mostrado após o pagamento. A foto de capa é opcional no código; a validação exige ao menos uma foto na galeria (`EventoForm.tsx:339`).

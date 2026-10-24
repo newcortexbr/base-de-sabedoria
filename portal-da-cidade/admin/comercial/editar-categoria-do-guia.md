@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: configuracao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - 09n3Eiwn418
@@ -24,18 +24,22 @@ aqui você muda o nome, o ícone ou a situação de uma categoria do Guia.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Gerenciar Categorias`. [guia=menu:/painel/guia/categorias]
-2. Procure na lista a categoria que você quer ver. A lista mostra o ícone, os recursos que a categoria oferece, quantas empresas estão nela, se aparece no orçamento e se está ativa. Cada linha tem editar e excluir. [guia=guia-categorias.tabela]
-3. Antes de desligar uma categoria, veja se há empresas nela. Se houver, pense em passar essas empresas para outra categoria, porque elas somem do site junto com a categoria. [guia=guia-categorias.tabela]
-4. Para mudar uma categoria, clique em `Editar` na linha dela. [guia=guia-categorias.editar]
-5. Faça as mudanças e clique em `Salvar`. [guia=guia-categorias.salvar]
+1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Gerenciar Categorias`. [guia=menu:/painel/guia/categorias] [t=14]
+2. Na linha da categoria, clique em `Editar`. [guia=guia-categorias.editar] [t=112]
+3. Altere `Nome *`, se necessário. [guia=guia-categorias.nome]
+4. Escolha o `Ícone`, se necessário. [guia=guia-categorias.icone]
+5. Ajuste `Ativa` para mostrar ou ocultar a categoria. [guia=guia-categorias.ativa]
+6. Ajuste `Aparece no formulário de Orçamento`, se necessário. [guia=guia-categorias.aceita-orcamento]
+7. Escolha a `Cor`, se necessário. [guia=guia-categorias.cor]
+8. Clique em `Salvar`. [guia=guia-categorias.salvar]
+9. Se aparecer a confirmação de desativação, clique em `Desativar` para confirmar a retirada da categoria e das empresas dela do Guia. [guia=confirmacao.confirmar]
 
 ## resultado
 A categoria fica com as mudanças.
 
 ## sobre os recursos da categoria
 
-os recursos cardápio, delivery e quartos podem ser ligados ou desligados por categoria. Ao desmarcar um recurso numa categoria que já tem empresas, o portal avisa quantas serão afetadas. O conteúdo não é apagado: só deixa de aparecer no site e volta se o recurso for marcado de novo. Esses recursos dependem do plano da empresa e não aparecem no plano grátis.
+Em `O que as empresas desta categoria oferecem`, os controles são `Cardápio — restaurante, bar, lanchonete`, `Delivery — aceita pedido pelo site` e `Acomodações — hotel, pousada, hospedagem`. Serviços, equipe e catálogo valem para todas as categorias. A disponibilidade também depende da ficha completa; cortesia do portal não exige plano pago. Veja "liberar cardápio, delivery ou acomodações para uma categoria".
 
 ## desvios
 
@@ -47,9 +51,8 @@ peça ajuda se houver empresas vinculadas ou se a ação puder ocultar cadastros
 
 ## fontes
 
-- `portal-cidade/docs/DECISIONS.md:101-109`
-- `portal-cidade/frontend/src/app/painel/guia/empresas/page.tsx:67-73`
+- `portal-cidade/frontend/src/app/painel/guia/categorias/page.tsx:44-82,122-219,340`.
 
 ## lacunas
 
-A tela de categorias foi localizada no código, mas seus controles atuais não foram revisados em detalhe; não descrevemos criação, exclusão ou campos específicos.
+Sem validação no navegador. A confirmação de desativação só aparece ao desligar uma categoria ativa que tenha empresas.

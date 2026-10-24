@@ -3,7 +3,7 @@
 Arquivos: `app/painel/planos/page.tsx`, `hub.css`
 
 ## rota e gate
-- `/painel/planos`. client, `Header`. gate `PainelGuard`; a rota não está em `lib/painel-menu.ts`, sem gate de módulo.
+- `/painel/planos`. client, `Header`. gate `PainelGuard`; a rota não está em `lib/painel-menu.ts`, sem gate de módulo. no menu lateral, parte Comercial, item `Meus Planos` (`Sidebar.tsx:265`).
 
 ## o que faz
 - visão geral dos planos comerciais que o admin vende aos clientes do portal, por seção (vagas, guia, classificados, eventos, blog, notícias, turismo, publicidade). só definição e gestão: nome, preço, duração (comentário `:3-15`).
@@ -11,8 +11,8 @@ Arquivos: `app/painel/planos/page.tsx`, `hub.css`
 
 ## o que exibe
 - indicadores animados (contagem de seções, "seções sem nada à venda" em alerta etc.).
-- um cartão por seção (`/painel/planos/<chave>`) com até 5 planos e o que está à venda; "à venda" = `ativo`, ou preço > 0 nas seções sem `ativo` (`estaAVenda`, `:56-58`).
-- bloco "Espaço de publicidade (banners)" para seções do tipo banner, com "espaços com preço".
+- um cartão por seção (`/painel/planos/<chave>`; botão `Gerenciar`, ou `Definir preço` quando nada está à venda) com até 5 planos e o que está à venda; "à venda" = `ativo`, ou preço > 0 nas seções sem `ativo` (`estaAVenda`, `:56-58`).
+- bloco "Espaço de publicidade (banners)" para seções do tipo banner, com "espaços com preço" e o botão `Gerenciar espaços`.
 
 ## apis
 - `adminApi.comercial.catalogo.listar` (GET `/painel/<slug>/comercial/catalogo/`, `lib/admin-api.ts:1078`) e `comercial.planos.listar` (`:1081`).

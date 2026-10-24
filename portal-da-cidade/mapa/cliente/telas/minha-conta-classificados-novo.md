@@ -12,9 +12,10 @@ Arquivos: `classificados/novo/page.tsx`, `classificados/AnuncioForm.tsx`, `_comp
 - cria um anúncio com fotos.
 
 ## ações e campos
-- título*, categoria e subcategoria (opcionais, catálogo com busca), descrição*, condição, preço (R$) ou "a combinar" (hipótese pela caixa de seleção em `:470`), duas caixas adicionais (`:486,490`, não lidas), fotos (*obrigatória ao criar), nome, WhatsApp e e-mail de contato, mais uma caixa em `:578` (não lida) (`AnuncioForm.tsx:398-578`).
+- campos (`AnuncioForm.tsx:398-581`): `Título do anúncio *`, `Categoria (opcional)`, `Subcategoria (opcional)` (catálogo com busca), `Descrição *`, `Condição`, caixa `Preço a combinar` ou campo `Preço (R$)`, caixas `Aceito negociar` e `Aceito troca`, `Fotos *` (obrigatória ao criar; quadro `Adicionar`; o plano pode limitar o número de fotos), `Nome para contato`, `WhatsApp para contato`, `E-mail para contato (opcional)`, caixa `Mostrar telefone no anúncio (além do botão de WhatsApp)`.
+- botões no rodapé: `Publicar anúncio` e `Cancelar`.
 - validação: título, descrição, ao menos 1 foto (`:308-312`).
-- ao salvar, o status que volta do servidor decide se diz "no ar" ou "em análise" (mesmo padrão de Vagas).
+- ao salvar abre uma janela: "Anúncio enviado para aprovação" (a análise leva de 24h a 48h úteis e você é avisado por e-mail) ou "Seu anúncio foi publicado com sucesso."; ao fechar, volta para a lista.
 
 ## APIs
 - `POST /painel/{portal}/classificados/` com fotos (`cliente-api.ts:2354`), `POST …/{id}/fotos/` (`:2399`).
@@ -57,9 +58,9 @@ Formulário para criar um anúncio de classificados com fotos.
 - Complete seu cadastro: pode aparecer antes do formulário; "Preencher depois" pula por agora.
 - Título e Descrição: obrigatórios.
 - Categoria e subcategoria: opcionais, escolhidas numa lista com busca.
-- Condição: estado do produto.
-- Preço (R$): o valor pedido.
+- Condição: estado do produto. Preço (R$): o valor pedido, ou marque "Preço a combinar". "Aceito negociar" e "Aceito troca" são marcações opcionais.
 - Fotos: pelo menos uma é obrigatória para criar.
-- Nome, WhatsApp e e-mail de contato: como o interessado fala com você.
+- Nome, WhatsApp e e-mail de contato: como o interessado fala com você; "Mostrar telefone no anúncio" mostra o número além do botão de WhatsApp.
+- Publicar anúncio: envia. Cancelar: volta sem salvar.
 - Ao salvar, a tela diz se o anúncio já entrou no ar ou se ficou em análise pelo portal.
 - Campos com erro ficam destacados com a mensagem "Preencha os campos obrigatórios destacados abaixo".

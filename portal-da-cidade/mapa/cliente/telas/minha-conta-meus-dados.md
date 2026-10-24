@@ -16,9 +16,9 @@ Arquivo: `src/app/minha-conta/meus-dados/page.tsx`
 - colunista: edita o perfil público de colunista (nome, cargo, bio, redes, foto, foco).
 
 ## ações e campos
-- pessoa física, `MeusDados.tsx`: nome, WhatsApp (editáveis); e-mail e CPF somente leitura (CPF mascarado, "Para corrigir o CPF, fale com o portal."); botão "Salvar dados".
-- `ApresentacaoDoAnunciante`: foto e sobre (não lido em detalhe).
-- colunista: `ColunistaPerfil` (nome, cargo, bio, site, instagram, facebook, linkedin, whatsapp, e-mail público, foto).
+- pessoa física, `MeusDados.tsx` (cartão "Contato"): `Nome`, `WhatsApp` (editáveis); `E-mail` e `CPF` somente leitura (CPF mascarado, "Para corrigir o CPF, fale com o portal."); botão `Salvar dados`.
+- `ApresentacaoDoAnunciante` (cartão "Foto e apresentação"): foto e "Sobre você", botão `Salvar`, mensagem "Foto e apresentação salvas."
+- colunista: `ColunistaPerfil` (nome, cargo, bio, site, instagram, facebook, linkedin, whatsapp, e-mail público, foto, ponto de foco da imagem); botão `Salvar perfil`. Sem plano de Artigos, aparece o link `Ver planos de Artigos`.
 
 ## APIs
 - `PATCH /{portal}/comercial/meus-dados/` (`salvarMeusDados`, `cliente-api.ts:763-767`).

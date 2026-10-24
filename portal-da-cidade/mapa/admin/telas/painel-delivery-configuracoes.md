@@ -2,16 +2,18 @@
 
 Arquivo: `app/painel/delivery/configuracoes/page.tsx`
 
+## como chegar
+- não há item no menu. Na parte Conteúdo do menu, abra `Guia Comercial`, clique em `Listar Empresas` e depois em `Editar` na empresa. Na ficha dela, clique no cartão `Configurações do delivery` (só aparece em empresa de categoria com delivery; a ficha é salva antes de abrir).
+
 ## o que você vê
-Ajustes do delivery de uma empresa: se está ligado, quanto custa a entrega, prazos, formas de pagamento e onde entrega.
-- delivery ativo: liga ou desliga a página de pedidos da empresa no site.
-- Taxa de entrega (R$): valor cobrado pela entrega; use 0 para entrega grátis. Pedido mínimo (R$): menor valor aceito.
-- Tempo mínimo (min) e Tempo máximo (min): prazo de entrega mostrado ao cliente.
-- Raio de entrega (km): apenas informativo por enquanto.
-- Formas de Pagamento: dinheiro, cartão e PIX; com PIX ligado, aparece o campo Chave PIX.
-- Mensagem de Boas-Vindas: texto no topo da página de pedidos.
-- Áreas de Atendimento: para cada Cidade, escolha Município todo ou Bairros específicos (Bairros atendidos); dá para criar, editar e excluir.
-- a tela é aberta pelo botão na edição da empresa; sem empresa escolhida, avisa que nenhuma foi selecionada.
+Tela `Configurações de Delivery`. Ajustes do delivery de uma empresa: se está ligado, quanto custa a entrega, prazos, formas de pagamento e onde entrega.
+- bloco `Status`: chave `Delivery ativo (página pública visível)` liga ou desliga a página de pedidos da empresa no site.
+- bloco `Entrega`: `Taxa de entrega (R$)` (use 0 para entrega grátis), `Pedido mínimo (R$)`, `Tempo mínimo (min)`, `Tempo máximo (min)` (prazo mostrado ao cliente) e `Raio de entrega (km)` (apenas informativo por enquanto).
+- bloco `Formas de Pagamento`: chaves `Dinheiro (troco na entrega)`, `Cartão na entrega` e `PIX`; com PIX ligado, aparece o campo `Chave PIX`.
+- bloco `Áreas de Atendimento`: o cliente só vê no pedido as cidades listadas. Cada área mostra `Município todo` ou `Parcial — N bairros`, com `Editar` e `Excluir`. Para criar: `+ Adicionar cidade` com `Cidade`, `Cobertura` (`Município todo` ou `Bairros específicos`), `Bairros atendidos` e o botão `Adicionar área`. Se não houver cidade liberada, aparece "Fale com o portal".
+- bloco `Mensagem de Boas-Vindas`: texto no topo da página de pedidos.
+- botão `Salvar configurações` no fim da página (as áreas têm botões próprios).
+- sem empresa escolhida, a tela avisa que nenhuma foi selecionada.
 
 ## rota e gate
 - `/painel/delivery/configuracoes?empresa=<id>`. client, `Header`, `VoltarParaAEmpresa`. gate `PainelGuard`; módulo `guia` (`lib/painel-menu.ts:95`). acesso pelo editor da empresa (`EmpresaEditor.tsx:944`).
@@ -35,8 +37,8 @@ Ajustes do delivery de uma empresa: se está ligado, quanto custa a entrega, pra
 - Server Action `revalidarGuia` (`app/painel/guia/actions`).
 
 ## estados
-- carregando; erro ao salvar config: `alert('Erro ao salvar configurações.')` (`:208`); erros de área: `alert(formatApiError(...))`; sucesso temporário (3 s); aviso âmbar quando a cidade não tem bairros cadastrados (`:121-125`).
-- erro ao carregar áreas e cidades: engolido (`.catch(() => {})`, `:157`, `:159`).
+- carregando; erro ao salvar config: `avisos.avisar(formatApiError(...))` (`:211`); erros de área: idem; sucesso: aviso "Configurações salvas", "Área cadastrada", "Área salva", "Área excluída"; aviso âmbar quando a cidade não tem bairros cadastrados (`:121-125`).
+- erro ao carregar áreas e cidades: aviso do painel (`avisos.avisar`, `:158`, `:160`).
 
 ## possíveis problemas
 - fato: se `config.get` falhar, o formulário vira `DEFAULT` com `ativo: false` (`:155`) e continua editável; salvar depois sobrescreve a config real com valores padrão (dados perdidos, risco alto).

@@ -8,16 +8,17 @@ Arquivo: `src/app/minha-conta/page.tsx`
 - sem login: `layout.tsx:16-20` manda para `/minha-conta/login`.
 
 ## gate de módulo/plano
-- nenhum gate na tela. Os cartões dependem de `secoes` (`/comercial/minhas-secoes/`): "Outras opções" só mostra módulo sem contratação e com `tem_planos`, ou `publicidade` sempre (`page.tsx:62-66`).
-- "Seu plano" só para módulos com vitrine de planos (`temVitrineDePlanos`).
+- nenhum gate na tela. Os cartões dependem de `secoes` (`/comercial/minhas-secoes/`): "Você também pode…" (cartões de outras seções) só mostra módulo sem contratação e com `tem_planos`, ou `publicidade` sempre (`page.tsx:62-66`).
+- o bloco de planos (título "Seus planos" com várias seções, ou "Seu plano no <seção>" com uma) só para módulos com vitrine de planos (`temVitrineDePlanos`). Eventos, Banners e Notícias (pagos por item) não entram.
 
 ## o que faz
-- painel de entrada: faixa de alertas, herói (estado: vazio/novo/um módulo/vários), avisos, plano atual, outras opções, chamada final.
-- barra fixa "Concluir cadastro" ou "Sair do grátis" conforme o próximo passo (`page.tsx:140-152`).
+- painel de entrada: faixa de alertas, herói (estado: vazio/novo/um módulo/vários), avisos, plano atual, "Você também pode…", chamada final.
+- barra fixa no rodapé: "Falta só um passo / para aparecer no portal" com o botão `Concluir cadastro`, ou "Você está no Grátis" com o botão `Sair do grátis`, conforme o próximo passo (`page.tsx:140-152`).
+- se a conta tem empresa vinculada, aparece também o cartão "Concorrendo" (`CartaoConcorrendoDoCliente`).
 
 ## ações e campos
 - trocar aba de plano (rola até "Seu plano"), links para planos, completar cadastro, ações de avisos (`BlocoAvisos`, recarrega).
-- banners de uma visita: "Cadastro feito!" e aviso de parceiro, lidos de `sessionStorage` (`page.tsx:38-54`).
+- banners de uma visita: "Cadastro feito! Bem-vindo." e aviso de parceiro, lidos de `sessionStorage` (`page.tsx:38-54`).
 - aviso de vencimento só quando faltam 15 dias ou menos (`page.tsx:79-81`).
 
 ## APIs
@@ -48,8 +49,10 @@ Arquivo: `src/app/minha-conta/page.tsx`
 ## o que você vê
 Tela de início da sua área: mostra em que ponto está seu cadastro, seus planos e o que mais você pode contratar.
 - Faixa de avisos: recados importantes da sua conta; alguns têm botão para resolver na hora.
-- Seu plano: o plano que você tem em cada seção (ex.: Guia, Vagas), com abas para trocar de seção.
+- Seus planos / Seu plano no Guia (o título muda conforme o número de seções): o plano que você tem em cada seção (ex.: Guia, Vagas), com abas para trocar de seção; o plano em uso mostra `Seu plano atual`.
 - Aviso de vencimento: aparece quando faltam 15 dias ou menos para o plano vencer.
-- Outras opções: seções que você ainda não contratou e que têm planos à venda; Banners aparece sempre.
+- Você também pode…: cartões das seções que você ainda não contratou e que têm planos à venda; Banners aparece sempre.
 - Concluir cadastro / Sair do grátis: barra fixa com o próximo passo sugerido.
-- "Cadastro feito!": aviso que aparece só uma vez, logo depois de criar a conta.
+- "Cadastro feito! Bem-vindo.": aviso que aparece só uma vez, logo depois de criar a conta.
+- Botão principal do herói: `Gerenciar` + o nome da seção (ex.: `Gerenciar minha ficha` no Guia, `Gerenciar minhas vagas`, `Gerenciar meus eventos`, `Gerenciar meus banners`).
+- Menu lateral (empresa): `Início`; grupo "O que eu publico" com as seções (Guia Comercial, Vagas de Emprego, Agenda de Eventos, Classificados, Notícias, Banners Publicitários — cada uma leva à própria tela, com etiqueta do plano; `Cupons` aparece logo abaixo do Guia só se o plano libera cupom); grupo "Orçamentos" com `Pedidos recebidos` (só se o plano libera); grupo "Delivery" com `Pedidos` (só se o plano libera); grupo "Minha conta" com `Minha empresa`, `Planos e assinaturas` e `Segurança`. O nome da pessoa fica no rodapé do menu, com o ícone de sair ao lado (botão `Sair`, só ícone).

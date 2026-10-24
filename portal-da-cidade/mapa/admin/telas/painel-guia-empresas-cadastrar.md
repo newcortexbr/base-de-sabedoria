@@ -1,6 +1,7 @@
 # /painel/guia/empresas/cadastrar (`.../cadastrar/page.tsx`, 17 linhas)
 - gate: módulo `guia` (prefixo `/painel/guia`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
+- menu: parte Conteúdo, `Guia Comercial` > `Listar Empresas` > botão `+ Cadastrar Empresa`. título `Guia Comercial — Cadastrar Empresa`; botão final `Cadastrar Empresa` (e `Cancelar`).
 - faz: `<EmpresaEditor modo="criar" />` (`components/painel/EmpresaEditor.tsx`, 1701 linhas).
 - campos principais: Nome da empresa, Categoria, Subcategoria (obrigatória: é por ela que chegam pedidos de orçamento, :712), Plano, Status, Descrição, Telefone, WhatsApp, E-mail, Site, Instagram, Facebook, Endereço (`SeletorDeLocal`), Comodidades, Formas de pagamento, horários, fotos, busca no Google (`BuscaNoGoogle`/`FotosDoGoogle`), cupom (código, desconto, validade, foto), link de cardápio/delivery/reserva, acesso do proprietário.
 - ações: salvar (cria empresa, depois horários :633 e fotos :642 em chamadas separadas), criar acesso do proprietário (:816), importar ficha e fotos do Google.
@@ -11,17 +12,11 @@
 
 ## o que você vê
 Tela para cadastrar uma empresa no Guia Comercial.
-- Dados da Empresa: Nome da empresa *, Categoria * e Subcategoria * (é pela subcategoria que chegam os pedidos de orçamento), Descrição, Plano e Status.
-- Contato: Telefone, WhatsApp, E-mail da empresa, Site, Instagram, Facebook.
-- Endereço e Localização: o ponto no mapa é achado sozinho pelo endereço e cidade.
-- Logo e capa e Galeria de Fotos: imagens da página da empresa.
-- Horários de Funcionamento: dias e horas, 24 horas ou Fechado.
-- Comodidades & Pagamento (ex.: Wi-Fi, PIX): viram informações na página.
-- Botões de ação e Reserva & Delivery: links (agendamento, orçamento, reserva, delivery como iFood) que viram botões na página; vazio = sem botão.
-- Hospedagem: opções próprias de hotel ou pousada.
-- Cupom de Desconto: código (só letras e números), tipo e valor do desconto, validade; código vazio não mostra cupom.
-- SEO: ajuda a página a aparecer no Google; vazio usa nome e descrição.
-- Empresa em destaque e Acesso à Área do cliente (login para o dono cuidar da própria ficha).
+- Dados da Empresa: `Nome da empresa *` e `Descrição`. Classificação: `Categoria *`, `Subcategoria *` (é pela subcategoria que chegam os pedidos de orçamento), `Plano` (lista com `Cortesia do portal (todos os itens)` e os planos do portal), `Status` e a caixa `Empresa em destaque`.
+- Localização: CEP, cidade, bairro e `Endereço`; o ponto no mapa é achado sozinho pelo endereço e cidade.
+- Contato: `Telefone`, `WhatsApp`, `E-mail da empresa` (uso interno, não aparece no site), `Site`, `Instagram`, `Facebook`.
+- as partes seguintes são blocos que abrem e fecham ao clicar no título: `Logo e capa`, `Cardápio` (só categoria com cardápio), `Reserva & Delivery` (idem), `Cupom de Desconto`, `Botões de ação` (`Link para agendamento`, `Link para solicitar orçamento`), `Hospedagem` (só categoria com acomodações), `Comodidades & Pagamento`, `Horários de Funcionamento` (dias e horas, 24 horas ou `Fechado`), `Galeria de Fotos` e `Acesso à Área do cliente` (login para o dono cuidar da própria ficha). No fim, `SEO` (`Título SEO`, `Descrição SEO`; vazio usa nome e descrição da empresa).
+- `Cupom de Desconto`: `Código do cupom` (só letras e números), `Tipo de desconto` (`Percentual (%)` ou `Valor fixo (R$)`), `Válido até`; código vazio não mostra cupom. Depois de salvar, os botões `Gerenciar` (`Conteúdo da ficha`) aparecem para cardápio, serviços, equipe, catálogo etc.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-guia-empresas-cadastrar.png](../prints/painel-guia-empresas-cadastrar.png) · dados brutos: [json](../prints/json/painel-guia-empresas-cadastrar.json)

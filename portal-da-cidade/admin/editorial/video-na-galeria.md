@@ -2,53 +2,57 @@
 id: video-na-galeria
 titulo: "colocar um vídeo do YouTube na galeria"
 publico:
-  - administrador do portal
-  - jornalista
-  - colunista
-modulo: Notícias, Artigos, Turismo e Agenda de Eventos
+  - admin
+modulo: Agenda de Eventos
 categoria: conteúdo
 aba: não-se-aplica
 tipo_problema: mídia
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
+videos:
+  - Hyh3UxHW_jU
 ---
 
 ## objetivo
-aqui você coloca um vídeo do YouTube na galeria de um evento, ponto turístico ou roteiro.
 
-## pré-requisitos/permissões
-Entrar no painel como administrador e abrir o formulário do conteúdo que vai receber a mídia.
+Aqui você adiciona um vídeo do YouTube à galeria de um evento já cadastrado.
+
+## pré-requisitos
+
+- Entrar no painel como administrador.
+- Ter o evento cadastrado e o link do vídeo.
 
 ## passos
 
-1. Em evento, ponto turístico ou roteiro, abra a lista da tela correspondente. Aqui o exemplo é `Eventos`: no menu `Guia Turístico / Eventos`, clique em `Eventos`. [guia=menu:/painel/turismo/eventos]
-2. Clique em `Editar` na linha do item que você quer. [guia=eventos.editar]
-3. Dentro do formulário, desça até a parte `Galeria de fotos e vídeos`. [guia=galeria.adicionar-fotos]
-4. Para colocar um vídeo, clique em `Vídeo do YouTube`. [guia=galeria.modo-video]
-5. Cole o link do YouTube no campo de vídeo da galeria. [guia=galeria.link-video]
+1. Na seção `Conteúdo` do menu lateral, em `Guia Turístico / Eventos`, clique em `Eventos`. [t=44] [guia=menu:/painel/turismo/eventos]
+2. Na linha do evento, clique em `Editar`. [guia=eventos.editar]
+3. Em `Galeria de fotos e vídeos`, clique em `Vídeo do YouTube`. [guia=galeria.modo-video]
+4. Cole o endereço em `Link do vídeo no YouTube`. [guia=galeria.link-video]
+5. Se quiser, preencha `Legenda (opcional)`. [guia=galeria.legenda-video]
 6. Clique em `Adicionar vídeo`. [guia=galeria.enviar-video]
-7. Clique em `Salvar`. [guia=eventos.salvar]
 
 ## resultado
-O vídeo aparece na galeria do item.
+
+No evento existente, o vídeo é gravado na galeria ao adicionar, sem depender do botão `Salvar` do evento.
 
 ## desvios
-- Não foi identificada uma tela única de biblioteca editorial reutilizável; as galerias são por tipo de conteúdo.
-- Uma prévia local não prova que o arquivo foi salvo nem que está visível ao público.
-- Não faça exclusão em lote nem tente corrigir arquivo diretamente no servidor.
-- A galeria de evento novo depende de salvar o evento antes.
 
-## quando pedir ajuda
-peça ajuda se upload falhar, a prévia desaparecer após salvar, ou remoção afetar mídia compartilhada. Informe tipo de conteúdo e mensagem, sem encaminhar dados pessoais.
+- O campo `Vídeo do YouTube` do evento, fora da galeria, alimenta um bloco próprio; não é o mesmo controle.
+- Em evento novo, o vídeo da galeria só é enviado após o primeiro `Salvar`.
+- Em caso de erro, o link permanece no campo para correção.
+- Para alterar legenda, ordem ou remover, veja “mudar legenda, ordem ou remover mídia de um evento”.
+- Pontos turísticos e roteiros têm galerias nas telas próprias. Este artigo descreve Eventos, não Notícias ou Artigos.
 
 ## fontes
-- `portal-cidade/frontend/src/app/painel/turismo/eventos/page.tsx:101` — prévia e remoção da capa.
-- `portal-cidade/frontend/src/app/painel/turismo/eventos/page.tsx:110` — galeria do evento novo após criação.
-- `portal-cidade/frontend/src/components/painel/GaleriaDeMidia.tsx:1` — componente de galeria.
-- `AGENTS.md:46` — limpeza protegida de mídia e exigência de backup para operações em lote.
-- `docs/PRODUCT.md:41` — vídeo YouTube nas galerias de Turismo.
+
+- `frontend/src/app/painel/turismo/eventos/page.tsx:598` — galeria na edição.
+- `frontend/src/app/painel/turismo/eventos/page.tsx:660` — vídeo próprio do evento.
+- `frontend/src/components/painel/GaleriaDeMidia.tsx:172` — modo de vídeo.
+- `frontend/src/components/painel/GaleriaDeMidia.tsx:209` — link, legenda e envio.
+- `frontend/src/app/painel/turismo/GaleriaDoRegistro.tsx:147` — gravação imediata.
+- Vídeo `Hyh3UxHW_jU`, legenda: acesso à lista a partir de 44s; menciona galeria de fotos e vídeos.
 
 ## lacunas
-não verificado visualmente nem por upload real. Formatos e limites variam por formulário e não foram generalizados.
-- revisão 2026-10-19: galerias de evento, ponto e roteiro ficam dentro do formulário de edição; as rotas `[id]/fotos` de evento e roteiro só redirecionam.
+
+Não executado no navegador. A legenda do vídeo de orientação não detalha os cliques para adicionar YouTube; esses passos ficam sem tempo.

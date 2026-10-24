@@ -8,14 +8,15 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - JYDoZB_vyX8
 ---
 
 ## objetivo
-aqui você vê as denúncias enviadas por visitantes, filtra por situação ou parte do site e abre os detalhes.
+
+Filtre as denúncias de conteúdo e abra seus detalhes.
 
 ## pré-requisitos
 
@@ -23,35 +24,25 @@ aqui você vê as denúncias enviadas por visitantes, filtra por situação ou p
 
 ## passos
 
-1. No menu da esquerda, logo no começo, clique em `Aprovações e Denúncias`. [guia=menu:/painel/aprovacoes]
-2. Para ver as denúncias, clique na aba `Denúncias`. [guia=aprovacoes-aba:denuncias]
-3. Escolha quais quer ver no filtro `Status`: `Pendentes`, `Resolvidas` ou `Ignoradas`. [guia=denuncias.filtro-status]
-4. Escolha de qual parte do site no filtro `Módulo`: `Todos`, `Guia`, `Vagas`, `Classificados` ou `Eventos`. [guia=denuncias.filtro-modulo]
-5. Clique na denúncia que você quer ver, para abrir os detalhes. [guia=denuncias.abrir]
-6. Na denúncia aberta, se quiser ver o conteúdo, clique em `Ver página denunciada`. [guia=denuncias.ver-pagina]
-
-## explicação
-
-- ver a denúncia não obriga a excluir nem bloquear: pode ignorar. Denúncia não é aprovação; aprovação é de envios de clientes ainda fora do ar.
+1. No começo do menu da esquerda, clique em `Aprovações e Denúncias`. [guia=menu:/painel/aprovacoes]
+2. Clique na aba `Denúncias`. [t=82] [guia=aprovacoes-aba:denuncias]
+3. No filtro `Status`, escolha `Pendentes`, `Resolvidas` ou `Ignoradas`. [guia=denuncias.filtro-status]
+4. No filtro `Módulo`, escolha a parte do portal que deseja consultar. [guia=denuncias.filtro-modulo]
+5. Clique na linha da denúncia. [t=84] [guia=denuncias.abrir]
+6. Se o conteúdo ainda existir, clique em `Ver página denunciada`. [t=87] [guia=denuncias.ver-pagina]
 
 ## resultado
-Você vê os detalhes da denúncia escolhida.
 
-## desvios
-
-- Com a fila desligada, os envios dos clientes não passam por você.
-- `A Voz do Povo` é outra coisa: são relatos de moradores, em outra tela.
-
-## quando pedir ajuda
-
-peça ajuda se a página não carregar, se o salvamento der erro ou se a opção esperada não aparecer.
+Você vê o item, o motivo e a descrição. Abrir a denúncia não exclui conteúdo nem bloqueia o responsável.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/aprovacoes/`: `AprovacoesEDenuncias.tsx`, `ConfigDaFila.tsx`
-- `suporte-kb/mapa/admin/telas/painel-aprovacoes.md`
+- `frontend/src/app/painel/denuncias/ListaDeDenuncias.tsx:65`
+- `frontend/src/app/painel/denuncias/[id]/page.tsx:101`
+
+- Catálogo: `portal-da-cidade/videos.json`; legendas: `videos/legendas/JYDoZB_vyX8.srt`.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os textos dos botões podem mudar.
+- Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.
 

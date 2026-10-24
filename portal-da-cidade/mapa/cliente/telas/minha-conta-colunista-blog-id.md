@@ -13,7 +13,7 @@ Arquivos: `colunista-blog/[id]/page.tsx`, `colunista-blog/ArtigoForm.tsx`
 - edita artigo existente (rascunho, agendado ou publicado).
 
 ## ações e campos
-- os mesmos de `minha-conta-colunista-blog-novo.md`, com os valores carregados (`ArtigoForm artigo=`).
+- os mesmos de `minha-conta-colunista-blog-novo.md`, com os valores carregados (`ArtigoForm artigo=`), exceto: artigo já publicado ou agendado não tem o campo `Agendar publicação` e o botão vira `Salvar alterações` (artigo ainda não publicado segue com `Publicar`/`Agendar`); botão `Voltar`; janela final "Alterações salvas" (`ArtigoForm.tsx:355,446-462`).
 
 ## APIs
 - `buscarMeuArtigo(portalSlug, id)` de `blog-cliente-api` (URL não lida). Só é chamada se há plano ativo e `id` numérico (`:33`).
@@ -35,6 +35,6 @@ Arquivos: `colunista-blog/[id]/page.tsx`, `colunista-blog/ArtigoForm.tsx`
 
 ## o que você vê
 Formulário para mudar um artigo que você já escreveu.
-- Os mesmos campos de "Novo artigo", já preenchidos (título, corpo, capa, agendamento, SEO).
+- Os mesmos campos de "Novo artigo", já preenchidos (título, texto, capa, SEO). Artigo já no ar: o botão é `Salvar alterações` e não há agendamento.
 - Editar exige plano de Artigos ativo; sem ele aparece "Editar exige um plano de Artigos ativo", mas você ainda pode ver e apagar artigos na lista.
 - "Artigo não encontrado": o artigo não existe mais ou não é seu.

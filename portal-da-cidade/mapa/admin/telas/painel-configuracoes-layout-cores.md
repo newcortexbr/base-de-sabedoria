@@ -2,6 +2,9 @@
 
 Arquivos: `app/painel/configuracoes/layout/cores/page.tsx` (278 linhas), `cores-do-portal.ts`, `../PreviaDoSite.tsx`, `../actions.ts`, `components/previa/previa-do-painel.tsx`
 
+## como chegar
+- na parte Sistema do menu, abra `Configurações`, clique em `Layout` e depois no cartão `Cores`.
+
 ## rota e gate
 - `/painel/configuracoes/layout/cores`. client. gate `PainelGuard` (admin/master); sem gate de módulo. chega pelo cartão "Cores" do índice do Layout.
 
@@ -24,14 +27,14 @@ Arquivos: `app/painel/configuracoes/layout/cores/page.tsx` (278 linhas), `cores-
 
 ## estados
 - carregando ("Carregando…"); falha de carga: mensagem vermelha e o formulário não aparece (evita gravar o padrão por cima das cores reais, `:48-52`).
-- falha ao salvar: texto vermelho abaixo do botão (`erro`); sucesso: "✓ Salvo!" por 2,5 s.
+- falha ao salvar: texto vermelho abaixo do botão (`erro`); sucesso: aviso "Cores salvas" (`avisos.sucesso`, `:90`).
 - empresas/notícias da prévia são melhor esforço (`Promise.allSettled`): sem elas, a prévia só não oferece essas páginas. sem estado "vazio".
 
 ## possíveis problemas
 - fato: o campo hex aceita valor incompleto (`#0F8`, `#`); `handleSave` envia como está (`:87`). se o backend não validar, pode gravar cor inválida (hipótese; não verifiquei o serializer).
 - fato: aviso de contraste não impede salvar uma cor ruim; o dono pode deixar botões ilegíveis (decisão de produto aparente).
 - fato: a Primária é avaliada só contra branco (`avisoDaCor`); se algum lugar do site usa texto escuro sobre a Primária, o aviso não cobre.
-- fato: `revalidarLayout` falho vai só para `console.error` (`:91`); "Salvo!" aparece mesmo que o site público não atualize.
+- fato: `revalidarLayout` falho vai só para `console.error` (`:91`); "Cores salvas" aparece mesmo que o site público não atualize.
 - fato: `getPortalSlug()` no painel vem do JWT/armazenamento; a prévia abre o domínio atual (`window.location.origin`), então só mostra o portal certo se o painel estiver acessado pelo domínio do próprio portal (hipótese).
 
 ## posições na tela (print de 2026-10-16, 1280x900)
@@ -78,9 +81,9 @@ Arquivos: `app/painel/configuracoes/layout/cores/page.tsx` (278 linhas), `cores-
 
 ## o que você vê
 Escolhe as duas cores principais do site.
-- Cor Primária: a cor de tudo que se clica — botões, links, paginação, campos de formulário e a área do cliente. Os exemplos ao lado ("Ver guia completo", "Pedir orçamento") mostram como fica.
-- Cor de Destaque: a cor que chama atenção sem ser botão — nome da seção, barrinha do título, selos e etiquetas (ex. "DESTAQUE").
+- `Cor Primária`: a cor de tudo que se clica — botões, links, paginação, campos de formulário e a área do cliente. Os exemplos ao lado ("Ver guia completo", "Pedir orçamento") mostram como fica.
+- `Cor de Destaque`: a cor que chama atenção sem ser botão — nome da seção, barrinha do título, selos e etiquetas (ex. "DESTAQUE").
 - campo com código (ex. #000000): a mesma cor escrita em código; dá para colar uma cor exata.
 - "O que não muda aqui": a faixa do topo, o menu e o rodapé têm cores próprias, nas telas Topo e Rodapé.
-- Prévia do seu site: mostra o site como está publicado, com as cores novas; nada muda no ar até salvar. Computador / Celular trocam o tamanho; "Tudo", "Só a Primária", "Só a de Destaque" acendem onde cada cor aparece.
-- Salvar cores: grava e publica as cores.
+- `Prévia do seu site`: mostra o site como está publicado, com as cores novas; nada muda no ar até salvar. Computador / Celular trocam o tamanho; `Tudo`, `Só a Primária`, `Só a de Destaque` (controle `Acender`) acendem onde cada cor aparece.
+- `Salvar cores`: grava e publica as cores.

@@ -4,12 +4,14 @@ Arquivo: `app/painel/utilidade/telefones/page.tsx`
 
 ## o que você vê
 Lista de telefones úteis (polícia, hospital, prefeitura etc.) mostrados na seção de utilidades do site.
-- Exibir no site: liga ou desliga a seção de telefones inteira no site.
+- para abrir: na parte Conteúdo do menu, em `A Voz do Povo`, clique em `Telefones Úteis`.
+- "Exibir no site": interruptor (mostra Ligado/Desligado) que liga ou desliga a seção de telefones inteira no site.
+- `Cadastrar telefone` (botão do topo) abre a janela "Cadastrar telefone"; `Salvar` grava.
 - Órgão/serviço *: nome do lugar ou serviço.
 - Telefone e Número curto de emergência (ex.: 190): preencha ao menos um dos dois.
 - Endereço e Horário de atendimento (ex.: 24 horas, ou 08h às 18h).
-- clique no status para ativar ou desativar; lápis edita; lixeira apaga, com confirmação.
-- contador de registros: quantos telefones estão na lista.
+- na tabela (Órgão/serviço, Telefone, Endereço, Horário, Status, Ações): clique no status para ativar ou desativar; o lápis (`Editar`) edita; a lixeira (`Excluir`) apaga, com confirmação.
+- contador "N registro(s)": quantos telefones estão na lista.
 - mudanças podem levar alguns minutos para aparecer no site.
 
 ## rota e gate

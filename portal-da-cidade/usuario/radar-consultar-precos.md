@@ -8,41 +8,50 @@ categoria: radar
 aba: nao-se-aplica
 tipo_problema: orientacao
 status: rascunho-documental
-revisado_em: 2026-10-22
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - O3sdByn6xK8
-  - msl8PXbZ9Ak
 ---
 
 ## objetivo
 
 achar onde o produto ou o combustível está mais barato na sua cidade.
 
+## pré-requisitos
+
+- a seção `Radar de Preços` precisa estar ligada no portal.
+
 ## passos
 
-1. Abra o Radar de Preços do portal (`/radar-de-precos`). [guia=menu:/radar-de-precos]
-2. Escolha a categoria: supermercados, farmácias ou postos.
-3. Digite o produto (por exemplo, arroz ou protetor solar) e, se quiser, escolha o bairro.
-4. Veja os mercados do mais barato para o mais caro, com a data de cada preço. O botão `Abrir no Maps` mostra o caminho.
-5. Em postos, escolha Gasolina, Etanol ou Diesel e a ordem (menor preço, maior preço ou mais recentes). Cada posto aparece num cartão, com selo no menor preço.
-6. Para saber qual mercado sai mais barato para toda a sua compra, use a lista de compras (`/radar-de-precos/lista`): monte a lista e o portal soma em cada mercado.
+1. No menu do topo do portal, clique em `Radar de Preços`. [guia=topo.radar]
+2. Em `O que você quer consultar?`, clique em uma categoria: `Supermercados`, `Farmácias` ou `Postos de combustível`. As ofertas aparecem logo abaixo, na mesma página. [guia=radar.categoria] [t=27]
+3. Se preferir pesquisar, em `Consulte um preço`, escreva o produto no campo `Buscar produto` (por exemplo, arroz 5 kg ou protetor solar). [guia=radar.busca] [t=45]
+4. Se quiser, filtre pela categoria e pelo bairro (`Todas as categorias`, `Todos os bairros`). [guia=radar.busca] [t=51]
+5. Clique em `Buscar preços`. [guia=radar.buscar] [t=54]
+6. Veja o preço de cada mercado, do mais barato para o mais caro, com o endereço e a data da atualização. O botão `Abrir no Maps` mostra o caminho. [guia=radar.resultados] [t=54]
+7. Em postos, em `Preços dos postos`, escolha o combustível em `Comparar` e a ordem em `Ordenar` (`Menor preço`, `Maior preço` ou `Mais recentes`). Cada posto aparece num cartão, com o selo `MENOR` no mais barato. [guia=radar.postos] [t=60]
 
 ## resultado
 
-você vê preços atualizados e o melhor lugar para comprar.
+você vê preços atualizados e o melhor lugar para comprar. Para somar a compra inteira, veja o artigo "comparar uma lista de compras no Radar de Preços".
 
 ## desvios
 
 - preço pode ter mudado desde a data mostrada. Confira no local.
-- só aparecem preços que o portal já conferiu.
+- só aparecem preços que a equipe do portal já conferiu.
+- sem resultado aparece `Nenhum preço para essa busca.` com o botão `Limpar busca e filtros`.
+- se falhar, aparece `Não foi possível carregar os preços agora.` com o botão `Tentar de novo`.
 
 ## fontes
 
-- `portal-cidade/frontend/src/components/radar/PostosRadar.tsx:23`
-- `portal-cidade/frontend/src/components/radar/ConsultaRadar.tsx:140`
-- `portal-cidade/frontend/src/app/radar-de-precos/lista/page.tsx:11`
+- `portal-cidade/frontend/src/components/radar/ConsultaRadar.tsx:109-196`
+- `portal-cidade/frontend/src/components/radar/PostosRadar.tsx:24-27,43,87-124`
+- `portal-cidade/frontend/src/components/radar/CartaoProduto.tsx:44-60`
+- `portal-cidade/frontend/src/components/radar/NavegacaoRadar.tsx:7-11`
+- `portal-cidade/backend/radar/migrations/0005_recomecar_radar.py:13-15`
+- vídeo `O3sdByn6xK8`.
 
 ## lacunas
 
-não verificado visualmente. Rotas públicas conferidas em `app/radar-de-precos/`.
+não verificado visualmente nesta rodada. Os nomes das categorias vêm da migração do backend; o administrador do portal pode ter alterado. O vídeo cita "até 10 produtos" na lista de compras, mas o código limita a 30 (veja o artigo da lista de compras).

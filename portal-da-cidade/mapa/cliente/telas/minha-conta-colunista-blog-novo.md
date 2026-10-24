@@ -14,8 +14,8 @@ Arquivos: `colunista-blog/novo/page.tsx`, `colunista-blog/ArtigoForm.tsx`, `_com
 - escreve, publica ou agenda um artigo.
 
 ## ações e campos
-- título*, subtítulo, corpo (editor), categoria, agendar publicação (data/hora, opcional), foto de capa com legenda e créditos, título SEO e descrição SEO (`ArtigoForm.tsx:277-412`).
-- botão "Publicar" ou "Agendar" (muda conforme a data) (`:434`). Não há "salvar rascunho": decisão do dono, comentário `:119`.
+- campos (`ArtigoForm.tsx:285-425`): `Título *`, `Subtítulo`, `Chamada` (resumo, até 500), `Texto do artigo *` (editor; para inserir imagens no texto é preciso preencher o título antes), `Categoria` ("Sem categoria"), `Agendar publicação (opcional)` (data/hora), bloco `Foto de capa` ("Arraste ou clique aqui") com `Legenda da foto` e `Créditos da foto`, bloco `Para os buscadores` com `Título SEO` e `Descrição SEO` (160).
+- botão `Publicar` ou `Agendar` (muda conforme a data) e botão `Voltar` (`:434-455`); ao concluir abre a janela "Artigo publicado" ou "Artigo agendado". Não há "salvar rascunho": decisão do dono, comentário `:119`.
 
 ## APIs
 - criação de artigo e upload de foto via `blog-cliente-api` (URLs não lidas).
@@ -43,10 +43,10 @@ Arquivos: `colunista-blog/novo/page.tsx`, `colunista-blog/ArtigoForm.tsx`, `_com
 ## o que você vê
 Formulário para escrever e publicar (ou agendar) um artigo. Só abre com plano de Artigos ativo ou gratuito.
 - Complete seu cadastro: pode aparecer antes; "Preencher depois" pula por agora.
-- Título: obrigatório. Subtítulo: opcional.
-- Corpo: o texto do artigo.
+- Título: obrigatório. Subtítulo e Chamada (resumo curto, até 500 letras): opcionais.
+- Texto do artigo: o conteúdo, obrigatório.
 - Categoria: o assunto do artigo.
 - Agendar publicação: escolha data e hora para o artigo entrar no ar depois (opcional).
 - Foto de capa, com legenda e créditos (quem fez a foto).
-- Título SEO e descrição SEO: como o artigo aparece em buscadores como o Google (opcional).
+- Para os buscadores: Título SEO e Descrição SEO, como o artigo aparece no Google (opcional).
 - Publicar / Agendar: o botão muda conforme a data escolhida. Não existe "salvar rascunho".

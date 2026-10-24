@@ -8,48 +8,47 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - 8gIDPdapN0E
 ---
 
 ## objetivo
-aqui você guarda o link de convite do grupo de WhatsApp dos parceiros.
+
+Aqui você salva o convite do grupo e escolhe se o botão aparece para os parceiros.
 
 ## pré-requisitos
 
 - Ter acesso administrativo ao portal.
-- O Programa de Parceiros estar ligado no portal.
 
 ## passos
 
-1. No menu da esquerda, na parte `Comercial`, clique em `Parceiros`. [guia=menu:/painel/parceiros]
-2. Para o grupo de WhatsApp dos parceiros, cole o link de convite em `Link do grupo`. [guia=parceiros.link-grupo]
-3. Clique em `Salvar` ao lado do link. [guia=parceiros.salvar-grupo]
-4. Use o botão `testar link` para conferir se o convite abre. [guia=parceiros.link-grupo]
-5. Deixe marcada a chave `mostrar o botão para os parceiros`: com ela, o convite aparece no painel de cada parceiro. [guia=parceiros.salvar-grupo]
+1. No menu da esquerda, na parte `Comercial`, clique em `Parceiros`. [t=8] [guia=menu:/painel/parceiros]
+2. Copie o convite do seu grupo no WhatsApp. [t=121] [guia=fora]
+3. No quadro `Grupo de WhatsApp dos parceiros`, cole o convite em `Link do grupo`. [t=124] [guia=parceiros.link-grupo]
+4. Clique em `Salvar` ao lado do campo. [t=124] [guia=parceiros.salvar-grupo]
+5. Clique em `Testar link` para abrir e conferir o convite. [t=127] [guia=parceiros.testar-grupo]
+6. Marque `Mostrar o botão para os parceiros` para exibir o convite na área deles. [t=129] [guia=parceiros.mostrar-grupo]
 
 ## resultado
-O link do grupo fica salvo. com a chave marcada, o parceiro vê a faixa `grupo dos parceiros` com o botão `entrar no grupo` na área dele, e o mesmo atalho fica fixo no menu lateral dele.
+
+Com link válido e visibilidade ligada, o convite fica disponível na área dos parceiros. A mudança da caixa de visibilidade salva automaticamente.
 
 ## desvios
 
-- Para pagar comissões, veja os artigos "pagar a comissão de um parceiro por fora do portal" e "mandar a comissão do parceiro direto pelo Asaas".
-- Na lista `Seus parceiros`, os ícones editam dados e plano, trocam a senha ou excluem.
-- Ligar ou desligar o programa inteiro é outra tarefa; veja o artigo de módulos.
+Sem link, o botão não aparece. Para esconder sem apagar o convite, desmarque `Mostrar o botão para os parceiros`. Se o endereço for inválido, a tela pede `Cole o link de convite do grupo (começa com https://chat.whatsapp.com/).`
 
 ## quando pedir ajuda
 
-peça ajuda humana antes de marcar comissão como paga se houver dúvida, ou se o pagamento automático não cair.
+Peça ajuda se a tela mostrar erro ou se o resultado não corresponder ao que você salvou. Não envie senhas, chaves ou comprovantes ao assistente.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/parceiros/page.tsx:1`
-- `portal-cidade/frontend/src/components/painel/parceiros/ModalBaixaComissao.tsx:70,146,151`
-- `portal-cidade/frontend/src/components/painel/parceiros/CartaoGrupoWhatsapp.tsx:1`
-- vídeo `8gIDPdapN0E`.
+- `portal-cidade/frontend/src/components/painel/parceiros/CartaoGrupoWhatsapp.tsx:25`
+- `portal-cidade/frontend/src/components/painel/parceiros/CartaoGrupoWhatsapp.tsx:60`
+- `portal-cidade/frontend/src/components/painel/parceiros/CartaoGrupoWhatsapp.tsx:77`
 
 ## lacunas
 
-não verificado visualmente nesta tarefa; passos conferidos com o vídeo de suporte e com o código da tela. Os planos de parceiro (Start, Pro, Premium) e a edição de percentuais não foram detalhados.
+Conferência documental com o código em b2f62d3f e as transcrições/legendas do catálogo. Sem validação no navegador, execução financeira ou teste de integração nesta auditoria. Tempos indicam trechos da legenda; passos sem tempo não foram localizados no vídeo.

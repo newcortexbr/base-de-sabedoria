@@ -2,6 +2,9 @@
 
 Arquivos: `app/painel/configuracoes/modulos/page.tsx` (300 linhas), `../layout/actions.ts` (`revalidarLayout`)
 
+## como chegar
+- na parte Sistema do menu, abra `Configurações` e clique em `Módulos do Portal`.
+
 ## rota e gate
 - `/painel/configuracoes/modulos`. client. gate `PainelGuard` (admin/master). a rota em si não depende de módulo (Configurações ficam fora de `MODULO_POR_PREFIXO_DE_ROTA`), então nunca se tranca sozinha. menu: "Módulos do Portal" (`components/painel/Sidebar.tsx:260`).
 
@@ -24,7 +27,7 @@ Arquivos: `app/painel/configuracoes/modulos/page.tsx` (300 linhas), `../layout/a
 - carregando; falha de carga: cartão vermelho com a mensagem (`:148`), sem botão de repetir (só recarregar a página).
 - vazio: "Nenhum módulo disponível para este portal." (`:154`).
 - erro ao salvar: fecha a confirmação, mostra `feedback` vermelho e mantém os interruptores como o usuário deixou (`:114-119`).
-- sucesso: "Módulos salvos. Atualizando o menu…" seguido de reload.
+- sucesso: aviso "Módulos salvos" (`avisos.sucesso`, `:96`), uma pausa curta e reload da página.
 
 ## em nome do cliente
 - não age em nome de cliente. desligar módulo afeta o que os visitantes e os clientes do portal veem; as rotas do painel desse módulo passam a mostrar `ModuloDesativado` (`app/painel/layout.tsx:96`), e as APIs do módulo respondem 404 (comentário `layout.tsx:48`).
@@ -51,9 +54,10 @@ Arquivos: `app/painel/configuracoes/modulos/page.tsx` (300 linhas), `../layout/a
 
 ## o que você vê
 Liga e desliga as partes do portal (Notícias, Guia Comercial, Vagas, Classificados etc.).
-- cada linha é um módulo com um interruptor: "Ligado" está no ar, "Desligado" está fora do ar para os visitantes.
+- cada linha é um módulo com um interruptor (chave com `Ligado`/`Desligado`): "Ligado" está no ar, "Desligado" está fora do ar para os visitantes.
 - desligar tira o módulo do site na hora (menu, página inicial e buscadores) e também a seção correspondente do seu painel. Nenhum dado é apagado: tudo volta ao religar.
 - Programa de Parceiros: liga ou desliga o cadastro e a área dos parceiros. Desligado, a aba Parceiros continua no painel para pagar as comissões já geradas.
-- os interruptores só valem depois de "Salvar módulos". Se algum módulo for desligado, aparece "Isto vai tirar do ar: …" e é preciso clicar em "Confirmar e desligar".
-- Cancelar: volta os interruptores como estavam.
-- depois de salvar aparece "Módulos salvos. Atualizando o menu…" e a página recarrega.
+- os interruptores só valem depois de `Salvar módulos`. Se algum módulo for desligado, aparece "Isto vai tirar do ar: …" e é preciso clicar em `Confirmar e desligar`.
+- `Cancelar`: volta os interruptores como estavam.
+- depois de salvar aparece o aviso "Módulos salvos" e a página recarrega sozinha, para o menu refletir a mudança.
+- `Voltar` (na confirmação) desiste de desligar. `Cancelar` só fica ativo depois de mexer num interruptor.

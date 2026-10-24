@@ -4,10 +4,11 @@ Arquivo: `app/painel/sugestoes/page.tsx`
 
 ## o que você vê
 Lugar para o administrador enviar ideias de funções novas à equipe da plataforma e ver as já enviadas.
+- onde fica: no rodapé do menu lateral, o cartão `Sugestões de Funções` ("Diga o que falta no portal"), só para o administrador.
 - Título e Descrição: a ideia, em poucas palavras e em detalhes.
-- anexos: fotos, documentos ou vídeo para explicar melhor; os limites de quantidade e tamanho aparecem na tela.
-- Nome e WhatsApp: para a equipe falar com você; o E-mail vem da sua conta e não muda aqui.
-- enviar: manda a sugestão; aparece Sugestão enviada. Obrigado!
+- Anexos (opcional): `Clique para escolher` ou arraste fotos, documentos ou vídeo para explicar melhor; os limites de quantidade e tamanho aparecem na tela.
+- "Seus dados para retorno": Nome e WhatsApp, para a equipe falar com você; o E-mail vem da sua conta e não muda aqui.
+- `Enviar sugestão`: manda a sugestão; aparece "Sugestão enviada. Obrigado!"
 - Suas sugestões enviadas: lista com título, data e anexos.
 - muitas sugestões em pouco tempo: é preciso esperar um pouco antes de enviar outra.
 - só o administrador do portal usa esta tela.
@@ -21,7 +22,7 @@ Lugar para o administrador enviar ideias de funções novas à equipe da platafo
 
 ## campos e ações
 - Título (máx. 120), Descrição (máx. 5000), anexos (fotos, documentos, vídeo; tipos por extensão em `EXTENSOES`, limites vindos do servidor: nº de arquivos, MB por foto/doc, MB por vídeo, MB total, `:140-175`), Nome, E-mail (somente leitura, vem do servidor), WhatsApp (máscara, validação `motivoTelefoneInvalido`).
-- botão enviar; modal "Enviando sua sugestão" e "Sugestão enviada. Obrigado!".
+- botão `Enviar sugestão`; modal "Enviando sua sugestão" e "Sugestão enviada. Obrigado!".
 - lista "Suas sugestões enviadas" (título, data, nº de anexos).
 
 ## apis

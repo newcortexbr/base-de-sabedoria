@@ -18,7 +18,7 @@ Arquivo: `src/app/minha-conta/planos/[secao]/page.tsx`
 - `?plano=<id>` pré-seleciona e pede confirmação; `?entrada=1` vem do Início para Guia/Vagas.
 
 ## ações e campos
-- "Quero este" (sem plano), "Fazer upgrade", "Mudar para este plano" (descida), "Voltar ao grátis", "Continuar neste plano" (desfaz volta ao grátis), "Continuar no Grátis", "Desistir da troca" (`page.tsx:347-391`).
+- botões do cartão: `Quero este` (sem plano), `Fazer upgrade`, `Mudar para este plano` (descida), `Voltar ao grátis`, `Continuar neste plano` (desfaz volta ao grátis); no plano em uso: `Seu plano atual` (desabilitado) ou, no Grátis, `Continuar no Grátis` (leva à tela da seção); `Desistir` (pagamento pendente ou troca pedida) e `Desistir sem reembolso` (`page.tsx:347-391,486-565`). Abas de período: Semanal, Mensal, Semestral, Anual, conforme os planos do portal (`vitrine.ts:9-12`). Confirmações inline: `Confirmar`, `Confirmar descida`, `Confirmar volta ao Grátis`. Link do topo: `Voltar para o início`.
 - confirmações inline antes de cobrar (upgrade, descida, volta ao grátis).
 - checkout (modal): CPF/CNPJ e e-mail, só se a ficha não tiver (`page.tsx:216-217,311-329`); validação "Informe seu CPF ou CNPJ.", "CPF ou CNPJ inválido.", "Informe um e-mail válido.".
 - pagamento em `ModalPagamentoFatura` (Pix ou cartão) e `InstrucoesDePagamento`.
@@ -56,8 +56,8 @@ Arquivo: `src/app/minha-conta/planos/[secao]/page.tsx`
 Tela para escolher, assinar ou trocar o plano de uma seção (ex.: Guia, Vagas).
 - Cartões de plano: preço, período e benefícios; mostra também o que o Grátis não tem.
 - Plano atual: marcado no cartão; o Grátis vale quando você não tem plano pago.
-- Quero este (assinar), Fazer upgrade (subir), Mudar para este plano (descer), Voltar ao grátis.
-- Desistir da troca / Continuar neste plano: desfaz uma troca agendada.
+- Quero este (assinar), Fazer upgrade (subir), Mudar para este plano (descer), Voltar ao grátis. O plano que você já usa mostra "Seu plano atual".
+- Desistir (ou Desistir sem reembolso): cancela a troca pedida ou o pagamento pendente. Continuar neste plano: desfaz uma volta ao Grátis agendada.
 - Antes de cobrar, a tela pede confirmação.
 - Pagamento: pede CPF/CNPJ e e-mail se ainda não tiver; paga por Pix ou cartão.
 - Depois de pago, você vai para a tela da seção.

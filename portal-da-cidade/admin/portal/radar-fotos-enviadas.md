@@ -8,7 +8,7 @@ categoria: radar
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-22
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - CSYITekPVcw
@@ -16,7 +16,7 @@ videos:
 
 ## objetivo
 
-aqui você decide se a foto de preço enviada por um morador vai ao ar. Aprovada, o portal lê os preços da foto e eles entram no Radar.
+Confira as fotos de preços enviadas pelos moradores antes de aprová-las.
 
 ## pré-requisitos
 
@@ -24,32 +24,43 @@ aqui você decide se a foto de preço enviada por um morador vai ao ar. Aprovada
 
 ## passos
 
-1. No menu da esquerda, clique em `Radar de Preços` e depois em `Fotos enviadas`. [guia=menu:/painel/radar/fotos]
-2. Fique na aba `Aguardando`. As outras são `Lidos` (já aprovadas) e `Recusados`. [guia=radar-fotos.aprovar]
-3. Confira a foto. Clique nela para ampliar; use os botões de girar se estiver de lado. Veja o tipo (produto ou encarte), o mercado, o preço informado e quem enviou. [guia=radar-fotos.corrigir]
-4. Se o mercado ou o preço estiverem errados, clique em `Corrigir`, ajuste o `Mercado *` ou o `Preço informado` e salve. [guia=radar-fotos.corrigir]
-5. Se estiver certo, clique em `Aprovar e ler`. Quando o mercado ainda é novo, o botão se chama `Aprovar foto e mercado` e aprova os dois. [guia=radar-fotos.aprovar]
-6. Se não serve, clique em `Recusar` e confirme em `Recusar esta foto?`. Nada é lido. [guia=radar-fotos.recusar]
+1. Na parte `Conteúdo` do menu, em `Radar de Preços`, clique em `Fotos enviadas`. [guia=menu:/painel/radar/fotos]
+2. Clique na aba `Aguardando`.  [guia=radar-fotos.aguardando]
+3. Clique na foto para ampliar e conferir.  [guia=radar-fotos.ampliar]
+4. Clique em `Fechar a foto`.  [guia=radar-fotos.fechar-foto]
+5. Na foto conferida, clique em `Aprovar e ler`; se o estabelecimento é novo, o botão se chama `Aprovar foto e estabelecimento`; em foto de preços de combustível, `Aprovar preços` ou `Aprovar preços e posto`. [t=93] [guia=radar-fotos.aprovar]
 
 ## resultado
 
-foto aprovada vai para `Lidos` e, em alguns minutos, o portal lê os preços e os publica. Foto recusada vai para `Recusados`.
+O envio segue para leitura. O resultado informa o que foi lido, e preços retidos exigem revisão separada.
+
+## corrigir antes de aprovar
+
+1. Na parte `Conteúdo` do menu, em `Radar de Preços`, clique em `Fotos enviadas`. [guia=menu:/painel/radar/fotos]
+2. Clique em `Corrigir` na foto. [t=65] [guia=radar-fotos.corrigir]
+3. Escolha o `Estabelecimento *` correto.  [t=65] [guia=radar-fotos.estabelecimento]
+4. Se necessário, ajuste `Preço informado`.  [t=69] [guia=radar-fotos.preco]
+5. Clique em `Salvar`. [t=74] [guia=radar-fotos.salvar]
+
+## recusar uma foto
+
+1. Na parte `Conteúdo` do menu, em `Radar de Preços`, clique em `Fotos enviadas`. [guia=menu:/painel/radar/fotos]
+2. Clique em `Recusar` na foto. [t=82] [guia=radar-fotos.recusar]
+3. Na janela `Recusar esta foto?`, clique em `Recusar`. [t=82] [guia=confirmacao.confirmar]
 
 ## desvios
 
-- se a leitura falhar, a foto fica com erro e aparecem `Tentar de novo` e `Corrigir`. O portal nunca inventa preço.
-- se o mercado continuar `Pendente`, os preços só aparecem no site depois que o mercado for aprovado (veja "aprovar e juntar mercados do Radar de Preços").
-- preço lido que parece fora do normal vai para `Preços retidos`.
-
-## quando pedir ajuda
-
-peça ajuda se a foto ficar muito tempo em `Lidos` sem os preços aparecerem.
+- Use `Lidos` e `Recusados` para consultar os outros envios.
+- Uma foto recusada não segue para leitura.
+- O tempo de leitura não foi medido; não há garantia de publicação em minutos.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/radar/fotos/page.tsx:19`
-- `portal-cidade/docs/RADAR-CONTRATO.md`
+- `frontend/src/app/painel/radar/fotos/page.tsx:274`
+- `frontend/src/app/painel/radar/fotos/page.tsx:310`
+
+- Catálogo: `portal-da-cidade/videos.json`; legendas: `videos/legendas/CSYITekPVcw.srt`.
 
 ## lacunas
 
-não verificado visualmente. O tempo de leitura depende de um processo automático do servidor; não foi medido.
+- Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.

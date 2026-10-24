@@ -7,13 +7,15 @@ Detalhe de uma denúncia feita por visitante sobre uma empresa, vaga, anúncio o
 - Item denunciado, responsável, motivo, data e Descrição do denunciante.
 - Imagens anexadas: provas enviadas; Nenhuma imagem quando não há.
 - Ver página denunciada abre o conteúdo; Item não existe mais quando já foi apagado.
-- Ignorar denúncia: fecha a denúncia e o conteúdo continua no ar.
-- Excluir item: apaga o conteúdo do site, sem volta.
-- Bloquear: tira do ar tudo daquele responsável naquela seção do portal. Desfazer bloqueio volta atrás.
+- `Ignorar denúncia`: fecha a denúncia e o conteúdo continua no ar.
+- `Excluir item`: apaga o conteúdo do site, sem volta.
+- `Bloquear empresa/conta`: tira do ar tudo daquele responsável naquela seção do portal. `Desfazer bloqueio` volta atrás.
+- `Ignorar denúncia`, `Excluir item` e `Bloquear empresa/conta` só aparecem enquanto a denúncia está pendente; antes de cada ação o painel pede confirmação.
+- `← Voltar para Denúncias` volta para a lista (aba `Denúncias` de `Aprovações e Denúncias`).
 - depois de resolvida, mostra a ação tomada, a data e quem resolveu.
 
 ## rota e gate
-- `/painel/denuncias/<id>`. client. gate `PainelGuard`; prefixo `/painel/denuncias` não pertence a módulo em `lib/painel-menu.ts`.
+- `/painel/denuncias/<id>` (aberta a partir da lista na aba `Denúncias` de `Aprovações e Denúncias`; sem item próprio no menu). client. gate `PainelGuard`; prefixo `/painel/denuncias` não pertence a módulo em `lib/painel-menu.ts`.
 
 ## o que faz
 - detalhe de denúncia de conteúdo (guia, vagas, classificados, eventos) e decisão do admin.
@@ -22,11 +24,11 @@ Detalhe de uma denúncia feita por visitante sobre uma empresa, vaga, anúncio o
 - módulo, status, item denunciado, responsável (nome, tipo, "(bloqueado)"), motivo, data, descrição, imagens anexadas, link "Ver página denunciada" (`hrefDaPaginaDenunciada`) ou "Item não existe mais".
 - se não pendente: ação tomada, data e quem resolveu (`:99-106`).
 
-## ações (todas com `confirm()` nativo, `:12-17,39`)
+## ações (todas pedem confirmação em aviso do painel, `avisos.confirmar`, `page.tsx:50-52`; ações só com status pendente, `:130-146`)
 - Ignorar denúncia (item continua no ar)
 - Excluir item (apaga do site, irreversível) — desativado se `!denuncia.pagina`
-- Bloquear empresa/conta (tira do ar tudo do responsável naquele módulo) — desativado se responsável não existe ou já bloqueado
-- Desfazer bloqueio — aparece se `bloqueio_desta_denuncia`
+- `Bloquear empresa/conta` (tira do ar tudo do responsável naquele módulo) — desativado se responsável não existe ou já bloqueado
+- `Desfazer bloqueio` — aparece se `bloqueio_desta_denuncia`
 - o admin age sobre o conteúdo e a conta do cliente (bloqueio/exclusão), sem o cliente participar.
 
 ## apis
@@ -36,7 +38,6 @@ Detalhe de uma denúncia feita por visitante sobre uma empresa, vaga, anúncio o
 - carregando "Carregando…"; erro `role=alert` com `formatApiError`; sem imagens "Nenhuma imagem."
 
 ## possíveis problemas
-- fato: usa `window.confirm` (`:39`), fora do padrão visual do painel (existe `ModalAvisoConfirmacao`); em navegador que bloqueia diálogos a ação não roda.
 - fato: `Number(id)` sem validação (`:33`); id inválido vira erro de API, não 404 amigável.
 - fato: após `desbloquear` o botão some se a resposta não trouxer `bloqueio_desta_denuncia` (depende do backend).
 

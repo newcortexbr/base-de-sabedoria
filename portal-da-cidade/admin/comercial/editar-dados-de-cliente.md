@@ -8,14 +8,15 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - -FASO6flcCw
 ---
 
 ## objetivo
-aqui você muda os dados de um cliente que já está cadastrado.
+
+aqui você altera o cadastro de um cliente existente.
 
 ## pré-requisitos
 
@@ -23,28 +24,35 @@ aqui você muda os dados de um cliente que já está cadastrado.
 
 ## passos
 
-1. No menu da esquerda, na parte `Comercial`, clique em `Meus Clientes`. [guia=menu:/painel/clientes]
-2. Para achar alguém, escreva em `Buscar por nome, documento ou telefone…`. [guia=clientes.busca]
-3. Para mudar os dados, clique no lápis (`Editar`) na linha do cliente que você quer. [guia=clientes.editar]
-4. Mude o que precisar e clique em `Salvar`. [guia=clientes.salvar]
+1. Na parte `Comercial` do menu da esquerda, clique em `Meus Clientes`. [t=10] [guia=menu:/painel/clientes]
+2. Escreva o nome, o documento ou o telefone em `Buscar por nome, documento ou telefone…`. [t=44] [guia=clientes.busca]
+3. Pressione Enter no campo de busca para carregar os resultados. [guia=clientes.busca]
+4. Na coluna `Ações`, clique no lápis com a descrição `Editar`. [t=65] [guia=clientes.editar]
+5. Em `Editar cliente`, corrija `Nome *`, se necessário. [guia=clientes.nome]
+6. Corrija `Nome fantasia`, se necessário. [guia=clientes.nome-fantasia]
+7. Em `Tipo`, escolha `Pessoa jurídica` ou `Pessoa física`, conforme o cliente. [guia=clientes.tipo]
+8. Corrija `CPF/CNPJ`, se necessário. [guia=clientes.documento]
+9. Corrija `Telefone`, se necessário. [guia=clientes.telefone]
+10. Corrija `WhatsApp`, se necessário. [guia=clientes.whatsapp]
+11. Corrija `E-mail`, se necessário. [guia=clientes.email]
+12. Corrija `Observações`, se necessário. [guia=clientes.observacoes]
+13. Clique em `Salvar`. [guia=clientes.salvar]
 
 ## resultado
-Os novos dados do cliente ficam salvos.
+
+aparece `Cliente atualizado`, a janela fecha e a lista é recarregada.
 
 ## desvios
 
-- Excluir e bloquear pedem confirmação; confira antes.
-- O arquivo exportado tem dados de contato: guarde com cuidado.
-
-## quando pedir ajuda
-
-peça ajuda se a página não carregar, se o salvamento der erro ou se a opção esperada não aparecer.
+- Nome é sempre obrigatório. Quando a tela exibe o aviso do Asaas, `CPF/CNPJ *` e `E-mail *` também são obrigatórios; o documento é conferido conforme o `Tipo` escolhido.
+- `CPF inválido.`, `CNPJ inválido.` ou telefone incompleto impedem o envio.
+- Em caso de falha, a janela permanece aberta com `Não foi possível salvar` e o motivo.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/clientes/page.tsx`
-- `suporte-kb/mapa/admin/telas/painel-clientes.md`
+- `portal-cidade/frontend/src/app/painel/clientes/page.tsx:52` — formulário, validações, campos e aviso.
+- `portal-cidade/frontend/src/app/painel/clientes/page.tsx:934` — fechamento e atualização da lista.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os textos dos botões podem mudar.
+Sem validação no navegador. O botão de edição dentro da ficha individual não foi auditado neste artigo.

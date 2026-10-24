@@ -9,12 +9,14 @@
 
 ## o que você vê
 Tela para cadastrar uma empresa que oferece vagas.
+- chega-se por `+ Criar Contratante` na lista de Contratantes.
 - Nome *, Descrição, Logo e Cor do logo: como a empresa aparece no site.
-- Localização: cidade e bairro (escolha a cidade primeiro).
-- Áreas de atuação: as áreas em que a empresa contrata.
-- Redes sociais e contato: E-mail, WhatsApp, Site, Instagram, LinkedIn, YouTube.
-- Verificado: dá o selo de empresa conferida.
-- Painel do proprietário (opcional): cria e-mail e senha para o responsável pela empresa entrar e cuidar das próprias vagas; os dados também são enviados por e-mail.
+- "Localização": cidade e bairro (escolha a cidade primeiro).
+- "Áreas de atuação": as áreas em que a empresa contrata.
+- "Redes sociais e contato": LinkedIn, Instagram, Site, YouTube, WhatsApp, E-mail.
+- caixa Verificado: dá o selo de empresa conferida.
+- "Acesso do proprietário (opcional)": Nome do responsável *, E-mail de login * e Senha (`Gerar senha`, `Mostrar`) criam o login para o responsável pela empresa cuidar das próprias vagas; os dados também são enviados por e-mail.
+- `Criar Contratante` grava; `Cancelar` volta.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-vagas-contratantes-cadastrar.png](../prints/painel-vagas-contratantes-cadastrar.png) · dados brutos: [json](../prints/json/painel-vagas-contratantes-cadastrar.json)

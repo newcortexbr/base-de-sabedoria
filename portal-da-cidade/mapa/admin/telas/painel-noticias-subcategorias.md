@@ -1,17 +1,19 @@
 # /painel/noticias/subcategorias — subcategorias (`.../subcategorias/page.tsx`)
 - gate: módulo `noticias` (prefixo `/painel/noticias`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
+- menu: parte Conteúdo, grupo `Notícias` > `Gerenciar Subcategorias` (`Sidebar.tsx:107`). título `Notícias — Subcategorias`; botão `+ Cadastrar Subcategoria`; lista `Todas as categorias` para filtrar.
+- modal `Cadastrar Subcategoria`/`Editar Subcategoria`: `Categoria *`, `Nome *`; botão `Salvar`. tabela: Subcategoria, Categoria, Ativo, Ações.
 - faz: CRUD de subcategorias, filtrável por categoria (`SelectComBusca`), com ativar/desativar.
 - APIs: `subcategorias.listar|criar|atualizar|excluir` (:41-43,122,131,142), `categorias.listar` (:126).
-- estados: erro do modal (:51); vazio "Nenhuma subcategoria encontrada" (:185).
+- estados: erro do modal (:51); vazio "Nenhuma subcategoria encontrada." (:187).
 - problemas: fato — `categorias.listar().then(setCategorias)` sem `catch` (:126); falha deixa o filtro vazio sem aviso.
 - admin vs cliente: sem equivalente no cliente.
 
 ## o que você vê
 Lista dos assuntos menores dentro de cada categoria de notícia (ex.: dentro de Esportes, Futebol).
-- filtro de categoria: mostra só as subcategorias de uma categoria.
-- Subcategoria e Categoria *: o nome e a categoria de que ela faz parte.
-- Ativo: clique para ligar ou desligar.
+- lista `Todas as categorias`: mostra só as subcategorias de uma categoria.
+- `Subcategoria` (`Nome *`) e `Categoria *`: o nome e a categoria de que ela faz parte.
+- `Ativo` / `Inativo`: clique para ligar ou desligar.
 - lápis edita; lixeira apaga, com confirmação.
 
 ## posições na tela (print de 2026-10-16, 1280x900)

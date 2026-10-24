@@ -7,10 +7,10 @@ Arquivos: `app/painel/login/page.tsx`, `login/mensagem-de-falha.ts`, `contexts/A
 - o painel é só do administrador: papéis fora de admin/master/sem_portal recebem erro "Esta conta não tem acesso ao painel administrativo." e o token nem é guardado (`AuthContext.tsx:72`, `lib/painel-permissoes.ts:31-36`).
 
 ## o que faz
-- login por e-mail e senha, ou "Entrar com a Área do Cliente" (SSO, popup).
+- login por e-mail e senha, ou `Entrar com a Área do Cliente` (SSO, popup). quais portas aparecem vem do servidor pelo domínio (`GET /auth/login-modo/`, `page.tsx:16-19,127-134`): no domínio do franqueado só `Entrar com a Área do Cliente` (texto "Entre com a sua conta da Área do Cliente."); na vitrine, e-mail e senha (e o SSO se o servidor liberar). se a consulta falha, mostra as duas.
 
 ## campos e ações
-- E-mail, Senha (com botão mostrar/ocultar), checkbox "Manter conectado" (marcado por padrão), botão Entrar, botão "Esqueceu a senha?", botão SSO (só se `NEXT_PUBLIC_SSO_HABILITADO === 'true'`, `page.tsx:48`), link de ajuda `mailto:contato@newcortex.ia.br`.
+- `E-mail`, `Senha` (com botão mostrar/ocultar), caixa `Manter conectado` (marcada por padrão), botão `Efetuar Login`, botão `Esqueceu a senha?`, botão `Entrar com a Área do Cliente` (só se `modo.sso`, `page.tsx:346`), link "Entre em contato com o administrador." (`mailto:contato@newcortex.ia.br`).
 - depois do login: `master` vai a `/master`; `sem_portal` ou sem `portal_slug` vai a `/painel/sem-acesso`; os demais a `/painel` (`AuthContext.tsx:78-93`).
 
 ## apis
@@ -23,7 +23,6 @@ Arquivos: `app/painel/login/page.tsx`, `login/mensagem-de-falha.ts`, `contexts/A
 ## possíveis problemas
 - fato: o botão "Esqueceu a senha?" não tem `onClick` nem link (`page.tsx:315-318`); clicar não faz nada. nenhuma rota de recuperação neste arquivo.
 - fato: o checkbox "Manter conectado" guarda `lembrar` mas o valor nunca é usado: `login(email, password)` não o recebe (`page.tsx:165`); o token sempre vai para `localStorage`.
-- fato: a flag `NEXT_PUBLIC_SSO_HABILITADO` é de build e global, e é uma segunda fonte de verdade do interruptor do backend (comentário `page.tsx:35-47`); SSO ligado só no backend fica invisível.
 - fato: a tela importa fonte do Google Fonts por `@import` (`page.tsx:191`), requisição externa a cada carga do login.
 - fato: `API_URL` com `!` (`page.tsx:9`); variável ausente quebra o build/clique.
 
@@ -39,9 +38,9 @@ Arquivos: `app/painel/login/page.tsx`, `login/mensagem-de-falha.ts`, `contexts/A
 
 ## o que você vê
 Entrada do painel do portal, com e-mail e senha.
-- E-mail e Senha: os dados da sua conta de administrador. O olho ao lado da senha mostra ou esconde o que você digitou.
-- Efetuar Login: entra no painel.
-- Manter conectado: hoje não muda nada; a sessão fica salva no navegador de qualquer jeito.
-- Esqueceu a senha?: hoje este botão não faz nada ao clicar.
-- "Entrar com a Área do Cliente": aparece só quando ativado; abre uma janelinha para entrar com a conta da Área do Cliente.
+- `E-mail` e `Senha`: os dados da sua conta de administrador. O olho ao lado da senha mostra ou esconde o que você digitou.
+- `Efetuar Login`: entra no painel.
+- `Manter conectado`: hoje não muda nada; a sessão fica salva no navegador de qualquer jeito.
+- `Esqueceu a senha?`: hoje este botão não faz nada ao clicar.
+- `Entrar com a Área do Cliente`: aparece conforme o domínio (no domínio do portal do franqueado é a única forma de entrar); abre uma janelinha para entrar com a conta da Área do Cliente.
 - se a conta não estiver ligada a nenhum portal, você vai para uma tela que explica isso.

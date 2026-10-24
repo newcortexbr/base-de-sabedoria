@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - -ZLL7Cqwcok
@@ -16,48 +16,40 @@ videos:
 
 ## objetivo
 
-aqui você envia avisos para quem aceitou receber e vê quantas pessoas abriram.
+Envie um aviso aos inscritos do portal.
 
 ## pré-requisitos
 
 - Ter acesso de administrador ao painel do portal.
 
-## veja também
-- para mandar um aviso em outro dia e hora, veja o artigo "agendar uma notificação push para outro dia".
-- para conferir números e histórico dos avisos, veja o artigo "ver quantas pessoas recebem e abrem as notificações push".
-- para escolher se o site convida visitantes a receber avisos, veja o artigo "ligar ou desligar o convite para receber notificações push".
-- para cancelar um aviso que ainda não foi enviado, veja o artigo "cancelar uma notificação push agendada".
-
 ## passos
 
-1. No menu da esquerda, na parte `Sistema`, clique em `Notificações Push`. [guia=menu:/painel/notificacoes] [t=6]
-2. No quadro `Nova notificação`, escreva o `Título` (até 50 letras). [guia=notificacoes.titulo] [t=51]
-3. Escreva a `Mensagem` (até 120 letras). [guia=notificacoes.mensagem] [t=54]
-4. Escreva o `Link`, que é o endereço completo da página que vai abrir (começa com `https://` ou `http://`). Ao lado, a prévia mostra como o aviso vai aparecer no celular. [guia=notificacoes.link] [t=57]
-5. Em `Quando`, deixe marcado `Agora`. [guia=notificacoes.quando]
-6. Clique no botão `Enviar para…`, que mostra quantas pessoas vão receber. [guia=notificacoes.enviar]
-7. Confirme na janela que aparece. Depois de enviado, o aviso não pode ser desfeito. [guia=notificacoes.enviar]
+1. Na parte `Sistema` do menu da esquerda, clique em `Notificações Push`. [t=9] [guia=menu:/painel/notificacoes]
+2. No quadro `Nova notificação`, preencha `Título` (até 50 caracteres). [t=54] [guia=notificacoes.titulo]
+3. Preencha `Mensagem` (até 120 caracteres). [t=57] [guia=notificacoes.mensagem]
+4. Preencha `Link` com o endereço completo da página que deve abrir, começando com `https://` ou `http://`. [t=60] [guia=notificacoes.link]
+5. Em `Quando`, escolha `Agora`. [t=72] [guia=notificacoes.quando]
+6. Clique em `Enviar para…`, com a quantidade de destinatários. [t=82] [guia=notificacoes.enviar]
+7. Na confirmação, clique em `Enviar`. [guia=confirmacao.confirmar]
 
 ## resultado
 
-o aviso chega a quem aceitou receber; o `Histórico` mostra quantos receberam e quantos abriram.
+A notificação entra na fila de envio e aparece no `Histórico`.
 
 ## desvios
 
-- Se aparecer o aviso de que o envio não está disponível, o botão de enviar fica apagado e não funciona.
-- Notificação enviada não volta.
-- O envio vai para todos os inscritos do portal; não há escolha de público.
-- O envio entra em fila e é processado em instantes.
-
-## quando pedir ajuda
-
-peça ajuda se a página não carregar, se o salvamento der erro ou se a opção esperada não aparecer.
+- O agendamento exige data e hora posteriores ao momento atual.
+- O envio depende da disponibilidade indicada na tela e do processamento do servidor. Não há prazo de entrega garantido.
+- Uma notificação já enviada não pode ser desfeita.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/notificacoes/page.tsx`
-- `suporte-kb/mapa/admin/telas/painel-notificacoes.md`
+- `frontend/src/app/painel/notificacoes/page.tsx:182`
+- `frontend/src/app/painel/notificacoes/page.tsx:210`
+- `frontend/src/components/painel/ModalAvisoConfirmacao.tsx:173`
+
+- Catálogo: `portal-da-cidade/videos.json`; legendas: `videos/legendas/-ZLL7Cqwcok.srt`.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os textos dos botões podem mudar.
+- Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.

@@ -9,7 +9,7 @@ aba: Vagas
 tipo_problema:
   - vagas-proprias
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - 525qfVrQ4iY
@@ -22,24 +22,37 @@ publicar uma vaga nova da sua empresa.
 
 ## pré-requisitos
 
-- ter vínculo de contratante e estar na área de cliente autenticada.
+- ter vínculo de contratante e estar na área do cliente autenticada.
 - este artigo não trata de acesso, cadastro de conta ou plano.
 
 ## passos
 
-1. No menu da esquerda da sua área, na parte `O que eu publico`, clique em `Vagas de Emprego` (`/minha-conta/vagas`). [guia=menu:/minha-conta/vagas]
-2. Clique em `Nova vaga`. Na primeira vez aparece antes a página `Complete seu cadastro`: adicione o logo e a descrição da empresa (CPF ou CNPJ é opcional) e clique em `Salvar e continuar` (ou `Preencher depois`). O topo da página mostra o nome do plano contratado e contadores de vagas no ar e em análise. [guia=minhas-vagas.nova]
-3. Preencha pelo menos o título, a cidade e a descrição da vaga (obrigatória). Há também área, tipo de contrato (CLT, PJ, estágio, temporário, outros), bairro, carga horária e modelo de trabalho (presencial, home office, híbrida), além dos requisitos, dos benefícios (um por linha) e do salário (ou `Salário a combinar`). Você pode marcar `Vaga PCD`, `Primeiro emprego` e `Urgente`. [guia=vaga-cliente.salvar]
-4. Preencha pelo menos um canal de candidatura (WhatsApp ou e-mail); um link externo de candidatura também é aceito. [guia=vaga-cliente.salvar]
-5. Clique em `Publicar vaga`. Aparece a mensagem de vaga enviada para aprovação. [guia=vaga-cliente.salvar]
+1. Na parte `O que eu publico` do menu da esquerda, clique em `Vagas de Emprego`. [t=6] [guia=menu:/minha-conta/vagas]
+2. Clique em `Nova vaga`. [t=22] [guia=minhas-vagas.nova]
+3. Só na primeira vez, aparece `Complete seu cadastro`: clique em `Adicionar logo` e escolha a imagem da empresa. [t=27] [guia=empresa.logo]
+4. Ainda em `Complete seu cadastro`, escreva em `Descrição da empresa` o que a empresa faz (CPF ou CNPJ pode ficar em branco). [t=31] [guia=empresa.descricao]
+5. Clique em `Salvar e continuar` (ou em `Preencher depois`). [t=40] [guia=cadastro-vagas.salvar]
+6. Escreva o `Título da vaga` (obrigatório) e escolha a cidade. [t=45] [guia=vaga-cliente.titulo]
+7. Escreva a `Descrição da vaga` (obrigatória). Área, tipo de contrato, bairro, carga horária, modelo de trabalho, requisitos, benefícios e salário são opcionais; você pode marcar `Vaga PCD`, `Primeiro emprego` e `Urgente`. [t=83] [guia=vaga-cliente.descricao]
+8. Preencha pelo menos um canal de candidatura: `WhatsApp para contato` ou `E-mail para currículo`. O `Link externo de candidatura` também existe. [t=102] [guia=vaga-cliente.contato]
+9. Clique em `Publicar vaga`. [t=114] [guia=vaga-cliente.salvar]
 
 ## resultado
 
-a vaga fica `aguardando aprovação` e o autor é avisado por e-mail quando ela for analisada. Depois de aprovada, aparece `ativa` com os dias restantes. Na lista há ícones para editar, pausar e excluir.
+se o portal exige aprovação, aparece `Vaga enviada para aprovação` (análise de 24h a 48h úteis, aviso por e-mail) e a vaga fica `Aguardando aprovação` até ser analisada; depois fica `Ativa` com os dias restantes. Sem aprovação, aparece `Vaga publicada`. Na lista há ícones para editar, pausar e excluir.
+
+## desvios
+
+- com o limite do plano atingido, o botão `Nova vaga` fica desabilitado: encerre uma vaga ou mude de plano.
+- `Cancelar` no fim do formulário sai sem publicar.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/minha-conta/vagas/page.tsx:4`
-- `portal-cidade/frontend/src/app/minha-conta/vagas/page.tsx:45`
-- `portal-cidade/frontend/src/app/minha-conta/vagas/page.tsx:80`
-- `portal-cidade/docs/PRODUCT.md:43`
+- `frontend/src/app/minha-conta/vagas/page.tsx:208-232` — título `Vagas de Emprego` e `Nova vaga`.
+- `frontend/src/app/minha-conta/vagas/VagaForm.tsx:279-500` — campos, `Publicar vaga`, mensagens de aprovação.
+- `frontend/src/app/minha-conta/_completar/EtapaCompletarPerfil.tsx:138` e `_completar/FormularioContratanteVagas.tsx:107-129` — `Complete seu cadastro`, `Salvar e continuar`.
+- `frontend/src/app/minha-conta/minha-empresa/CamposDeEmpresa.tsx:74-110` — logo e descrição (marcas `empresa.logo`, `empresa.descricao`).
+
+## lacunas
+
+tela não validada no navegador nesta tarefa. Se é obrigatório ter WhatsApp ou e-mail (e não o link) é regra de validação do servidor, não conferida; a tela diz "Ao menos um dos dois".

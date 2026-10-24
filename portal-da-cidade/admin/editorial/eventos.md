@@ -1,6 +1,6 @@
 ---
 id: editorial-eventos
-titulo: "agenda de eventos: cadastro, status e vigência"
+titulo: "cadastrar um evento pelo painel"
 publico:
   - administrador do portal
 modulo: Agenda de Eventos
@@ -8,58 +8,58 @@ categoria: conteúdo
 aba: Eventos
 tipo_problema: publicação
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - Hyh3UxHW_jU
 ---
 
 ## objetivo
-aqui você cadastra e cuida dos eventos da agenda. Eventos têm tela própria, separada do Turismo.
+Cadastrar um evento na agenda pelo painel do administrador. Este fluxo é separado do cadastro pela área do cliente.
 
 ## pré-requisitos/permissões
-Entrar no painel como administrador, com o módulo de eventos ativo no portal.
-
-## veja também
-- para mudar um evento que já existe, veja o artigo "editar um evento".
-- para ver quais eventos estão no ar, veja o artigo "ver a situação dos eventos".
+Acesso de administrador ao módulo de eventos.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Turístico / Eventos` e depois em `Eventos`. [guia=menu:/painel/turismo/eventos] [t=48]
-2. Para cadastrar, clique em `+ Novo Evento` no topo da página. [guia=eventos.novo] [t=55]
-3. Escreva o `Título *` do evento. [guia=eventos.titulo]
-4. Escolha a `Data *` do evento. [guia=eventos.data]
-5. Escreva o `Horário`, por exemplo "19h00 às 23h00". [guia=eventos.horario]
-6. Preencha o local, o CEP, a cidade, a categoria, o `Organizador`, o preço, o link de ingresso, o WhatsApp, a descrição e a programação. [guia=eventos.local]
-7. Envie a foto de capa do evento, além da galeria. [guia=eventos.salvar]
-8. Na parte `Galeria de fotos e vídeos`, clique em `+ Adicionar fotos` para enviar as fotos. [guia=galeria.adicionar-fotos]
-9. Role a página até o fim e clique em `Salvar`. Sem este clique, o evento não é gravado. [guia=eventos.salvar]
+1. No menu lateral, dentro de `Guia Turístico / Eventos`, clique em `Eventos`. [t=48] [guia=menu:/painel/turismo/eventos]
+2. Clique em `+ Novo Evento`. [t=55] [guia=eventos.novo]
+3. Preencha `Título *`. [t=58] [guia=eventos.titulo]
+4. Escolha a `Data *`. [t=58] [guia=eventos.data]
+5. Se o evento durar vários dias, preencha `Data de término (opcional)`. [t=58] [guia=eventos.data-fim]
+6. Preencha `Horário`, se houver. [t=58] [guia=eventos.horario]
+7. Preencha `Local`, se houver. [t=58] [guia=eventos.local]
+8. Informe o `CEP`, se souber. [t=58] [guia=campo-cep.cep]
+9. Confira ou escolha a `Cidade`. [guia=eventos.cidade]
+10. Se quiser, escolha a `Categoria`. [t=61] [guia=eventos.categoria]
+11. Se quiser, escolha o `Organizador`. [t=61] [guia=eventos.organizador]
+12. Para enviar a capa, clique em `Escolher foto`, na parte `Foto de capa`. [t=61] [guia=eventos.capa]
+13. Se quiser mais fotos, clique em `+ Adicionar fotos`, na `Galeria de fotos e vídeos`. [t=61] [guia=galeria.adicionar-fotos]
+14. Confira ou complete `Endereço completo`. [guia=eventos.endereco]
+15. Se quiser, preencha `Organização`. [guia=eventos.organizacao]
+16. Preencha `Preço / Ingresso`, se houver informação a mostrar ao visitante. [t=64] [guia=eventos.preco]
+17. Se quiser, preencha `Link de compra de ingresso ou rede social`. [t=64] [guia=eventos.link-ingresso]
+18. Se quiser, preencha `WhatsApp de contato`. [t=64] [guia=eventos.whatsapp]
+19. Se quiser, preencha `Vídeo do evento (YouTube)`. [guia=eventos.video]
+20. Preencha `Descrição`, se houver. [t=67] [guia=eventos.descricao]
+21. Se quiser exibir o evento em destaque, marque `Destaque`. [guia=eventos.destaque]
+22. Confira se `Ativo` está marcado para manter o evento ligado. [guia=eventos.ativo]
+23. Clique em `Salvar`. [t=70] [guia=eventos.salvar]
 
 ## resultado
-evento ativo permanece no ar segundo as datas reconhecidas pelo servidor; depois de vencido, sai do ar. Destaques e filtros públicos fazem parte do produto, mas a exibição depende também da configuração e da vigência.
+O formulário fecha após o salvamento. Em cadastro novo, a galeria é enviada depois que o evento é criado. Se parte do envio falhar, o evento já existe: abra sua edição e envie só os itens que faltaram.
 
 ## desvios
-
-- A lista da agenda tem busca, filtros e abas de categorias e de organizadores.
-- Evento enviado por um cliente passa pela aprovação do administrador depois do pagamento.
-- Os planos de eventos (pacotes mensais ou pagamento único, com ou sem destaque) ficam em `Meus planos`; este artigo não cobre essa tela.
-
-- Para pôr um vídeo do YouTube na galeria, veja "colocar um vídeo do YouTube na galeria".
-- Ativo não significa necessariamente no ar: a data pode ter encerrado a vigência.
-- Inativo é diferente de encerrado.
-- Falha de upload: confirme que o evento foi salvo e que está editando o registro certo; não reenvie repetidamente.
-- Agenda de Eventos e Turismo são ligáveis separadamente.
-
-## quando pedir ajuda
-peça ajuda se status e datas parecerem contraditórios, se a galeria não abrir após salvar ou se evento ativo e vigente não aparecer ao público.
+- Para incluir os horários de cada atividade, veja [montar a programação de um evento](eventos-programacao.md).
+- `Preço / Ingresso` informa o visitante; não configura cobrança ou plano do portal.
+- `Data de término (opcional)` controla o último dia de vigência; sem ela, vale `Data *`.
+- O vídeo separado do evento e os vídeos da galeria são campos diferentes. Para a galeria, veja [colocar um vídeo do YouTube na galeria](video-na-galeria.md).
 
 ## fontes
-- `portal-cidade/frontend/src/app/painel/turismo/eventos/page.tsx:41` — estado derivado da data e campo ativo.
-- `portal-cidade/frontend/src/app/painel/turismo/eventos/page.tsx:110` — galeria na criação e edição.
-- `docs/PRODUCT.md:41` — módulos Turismo e eventos separados.
-- `docs/PRODUCT.md:42` — recursos e ressalva de QA de navegador.
+- Código b2f62d3f: `frontend/src/components/painel/Sidebar.tsx:187`.
+- `frontend/src/app/painel/turismo/eventos/page.tsx:434` — novo; `:448` — campos; `:343` — envio da galeria; `:803` — salvar.
+- `backend/turismo/vigencia.py:46` — data de referência.
+- `videos/legendas/Hyh3UxHW_jU.srt` — cadastro administrativo entre 48 e 72 segundos.
 
 ## lacunas
-A Epic de eventos não teve QA de navegador conforme `PRODUCT.md`; este conteúdo não declara validação visual. O rótulo exato das ações do formulário pode variar conforme estado.
-- revisão 2026-10-19: a galeria do evento agora fica dentro do formulário de edição; `/painel/turismo/eventos/[id]/fotos` só redireciona para a lista. Em evento novo, a galeria pode ser preenchida antes de salvar (envio ocorre após salvar).
+Sem navegador ou envio real de arquivos. As marcas propostas precisam de implementação. SEO e opções comerciais não são necessários para este cadastro básico e não foram demonstrados no vídeo.

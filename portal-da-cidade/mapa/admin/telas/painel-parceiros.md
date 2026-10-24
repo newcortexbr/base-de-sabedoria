@@ -3,20 +3,20 @@
 Arquivo: `app/painel/parceiros/page.tsx` (1399 linhas; leitura até `:1052`)
 
 ## rota e gate
-- `/painel/parceiros`. client, `Header`. gate `PainelGuard`; item "Parceiros" na seção Comercial da `Sidebar.tsx:237`. sem gate de módulo em `painel-menu.ts`.
-- o liga/desliga do programa NÃO mora aqui: a tela mostra "Programa ligado/desligado" e aponta para `/painel/configuracoes/modulos` (`:1003-1012`, D-245).
+- `/painel/parceiros`. client, `Header`. gate `PainelGuard`; item `Parceiros` na parte Comercial do menu (`Sidebar.tsx:273`). sem gate de módulo em `painel-menu.ts`.
+- o liga/desliga do programa NÃO mora aqui: a tela mostra `Programa ligado` / `Programa desligado` com o link `desligar` / `ligar`, que leva a `Configurações` > `Módulos do Portal` (`:973-983`, D-245).
 
 ## o que faz
 - gestão do programa de parceiros (quem indica clientes e ganha comissão): planos, cadastro de parceiros, comissões a pagar, split no Asaas.
 
 ## ações e campos
 - resumo no topo (parceiros ativos, clientes indicados, "pagar por fora", atenção para comissões atrasadas e parceiros sem carteira).
-- planos: editar plano (`ModalPlano`, `:106`) e ativar/desativar o plano gratuito (`alternarGratuito`, `:724`).
-- parceiros: busca (debounce 300 ms), filtros plano / como recebe (Asaas ou por fora) / situação (ativos, desativados, removidos), chips, paginação, "ver sem carteira" (`:815`).
-- novo parceiro e editar (`ModalParceiro`, `:262`): nome, e-mail, senha, telefone, WhatsApp, plano, forma de pagamento, documento, e-mail de cobrança.
-- por linha: editar, resetar senha (`ModalResetSenha`, `:514`), desativar/reativar (com `confirm`), excluir (irreversível, com `confirm`), ver link de cobrança pendente.
+- `Planos de parceiro`: botão `Editar` em cada plano (modal `Editar plano`: `Nome do plano *`, `Periodicidade`, `Valor (R$)`, `% de venda`, `% residual`, caixa de plano ativo; `Salvar`) e a chave `Oferecer o plano gratuito` (`alternarGratuito`, `:724`).
+- `Seus parceiros`: busca `Buscar` ("Nome, e-mail ou número"), filtros `Plano`, `Como recebe` (`Automático (Asaas)` ou `Por fora`) e `Situação` (`Ativos`, `Desativados`, `Removidos`), chips, paginação, `Ver quem` (parceiros sem carteira, `:815`).
+- botão `Novo parceiro`; modal `Novo parceiro` / `Editar parceiro` (`ModalParceiro`, `:262`): `Nome *`, `E-mail (login) *`, `Senha inicial *`, `Telefone`, `WhatsApp`, plano, forma de pagamento (por fora, ou pelo Asaas com `CPF ou CNPJ do parceiro *` e `E-mail da cobrança *`); botão `Salvar` (ou `Salvar e gerar link` no Asaas).
+- por linha (ícones com dica, `:590-612`): `Ver link de pagamento` (cobrança pendente), `Editar dados e plano`, `Trocar a senha` (modal `Resetar senha — <nome>`, `Nova senha`, `Redefinir`, `:514`), `Desativar` / `Reativar` e `Excluir` (irreversível). Desativar/reativar e excluir pedem confirmação em aviso do painel (`avisos.confirmar`, `:837,855`).
 - interruptor do split Asaas (`alternarSplitAsaas`, `:837`).
-- comissões: modal de três abas, dar baixa (com comprovante) e extrato (`components/painel/ComissoesParceiros.tsx`).
+- bloco `Comissões para pagar por fora` com `Extrato de pagas` e `Ver todas as comissões`; aviso `Precisa da sua atenção` com `Pagar agora` e `Ver quem`; modal `Comissões` de abas, dar baixa (com comprovante) e extrato (`components/painel/ComissoesParceiros.tsx`).
 
 ## apis
 - `adminApi.parceiros` (`lib/admin-api.ts:1005-1064`): `planos.listar/atualizar`, `listar(filtros)`, `criar`, `definirPlano`, `atualizar`, `excluir`, `resetarSenha`, `resumo`, `config.obter/atualizar`, `comissoes.listar/darBaixa/anexarComprovante`.
@@ -73,11 +73,11 @@ Arquivo: `app/painel/parceiros/page.tsx` (1399 linhas; leitura até `:1052`)
 
 ## o que você vê
 Parceiros são pessoas que indicam clientes para o seu portal e ganham comissão por isso; aqui você cadastra, define planos e paga as comissões.
-- Programa ligado/desligado: mostra se o programa está no ar. desligado, a página de cadastro e a área dos parceiros saem do ar, mas as comissões já geradas continuam aqui. liga e desliga em Módulos, não nesta tela.
+- Programa ligado/desligado: mostra se o programa está no ar. desligado, a página de cadastro e a área dos parceiros saem do ar, mas as comissões já geradas continuam aqui. liga e desliga em `Configurações` > `Módulos do Portal`, não nesta tela. Na parte Comercial do menu, clique em `Parceiros`.
 - resumo: Parceiros ativos, Clientes indicados, Pagar por fora (comissões pagas à mão) e "Precisa da sua atenção" ("Ver quem" mostra quais).
 - Planos de parceiro: quanto cada plano custa, a periodicidade e quanto o parceiro ganha: "% de venda" na primeira venda e "% residual" nas renovações. "Oferecer o plano gratuito" liga ou desliga o plano grátis.
 - Como você paga os parceiros / Mandar a comissão direto pelo Asaas: ligado, a parte do parceiro cai na carteira Asaas dele quando o cliente paga pelo link. desligado, você paga todos por fora.
 - Seus parceiros: busca por nome, e-mail ou número; filtros Plano, Como recebe (Automático Asaas ou Por fora) e Situação (Ativos, Desativados, Removidos).
 - Novo parceiro / Editar: nome, e-mail de login, senha inicial, telefone, WhatsApp, plano e, se o plano é pago, CPF/CNPJ e e-mail da cobrança. "Salvar e gerar link" cria o link de pagamento; o plano vale quando ele pagar.
-- ícones da linha: editar, trocar a senha, ver link de pagamento, desativar/reativar e excluir.
-- Comissões para pagar por fora / Pagar agora: pague por Pix ou transferência e depois marque como paga.
+- ícones da linha: `Editar dados e plano`, `Trocar a senha`, `Ver link de pagamento`, `Desativar` / `Reativar` e `Excluir`.
+- `Comissões para pagar por fora` / `Pagar agora`: pague por Pix ou transferência e depois marque como paga. `Extrato de pagas` mostra o que já foi pago.

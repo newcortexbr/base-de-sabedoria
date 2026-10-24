@@ -1,18 +1,20 @@
 # /painel/noticias/categorias — categorias (`.../categorias/page.tsx`)
 - gate: módulo `noticias` (prefixo `/painel/noticias`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
+- menu: parte Conteúdo, grupo `Notícias` > `Gerenciar Categorias` (`Sidebar.tsx:106`). título `Notícias — Categorias`; botão `+ Cadastrar Categoria`.
+- tabela: Cor, Categoria, Notícias (quantas), Ativo (clique liga/desliga), Ações (lápis, lixeira). modal `Cadastrar Categoria`/`Editar Categoria`: `Nome *` (até 100 letras), `Cor`; botão `Salvar`.
 - faz: CRUD de categorias com ativar/desativar na tabela.
 - ações: criar/editar em modal (:59-61), excluir com `ModalAvisoConfirmacao` (:151), alternar `ativo` (:162); revalida o site (:66,153,164).
 - APIs: `categorias.listar|criar|atualizar|excluir` (compartilhado com notícias).
-- estados: erro do modal (`erro`, :71); vazio "Nenhuma categoria cadastrada" (:212).
+- estados: erro do modal (`erro`, :71); vazio "Nenhuma categoria cadastrada." (:201).
 - problemas: fato — o modal de exclusão avisa quando há notícias vinculadas (comentário :29). Nada mais confirmado.
 - admin vs cliente: o jornalista só escolhe categoria. Sem equivalente.
 
 ## o que você vê
 Lista dos grandes assuntos (categorias) das notícias, como os do menu do site.
-- Categoria: o nome; Cor: cor usada para destacar a categoria no site.
-- Ativo: clique para ligar ou desligar; categoria desligada não aparece para escolher.
-- lápis edita; lixeira apaga. Ao apagar, a tela pede confirmação.
+- `Categoria`: o nome; `Cor`: cor usada para destacar a categoria no site.
+- `Ativo` / `Inativo`: clique para ligar ou desligar; categoria desligada não aparece para escolher. `Notícias` mostra quantas notícias usam a categoria.
+- lápis edita; lixeira apaga. Ao apagar, a tela pede confirmação e avisa que as subcategorias dela também serão excluídas.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-noticias-categorias.png](../prints/painel-noticias-categorias.png) · dados brutos: [json](../prints/json/painel-noticias-categorias.json)
