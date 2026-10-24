@@ -30,7 +30,7 @@ total: 148 linhas, 105 com tópico, 100 com link (100 ids distintos), 100 public
 
 ## tópicos sem link
 
-- painel-admin #1: Painel - Mostrando Todo Painel
+- painel-admin #1: Painel - Mostrando Todo Painel [Onboarding do Painel Admin]
 - claude-videos-basicos-area-do-cliente #1: Vídeo de ONBOARDING
 - claude-videos-basicos-area-do-cliente #2: Processo de Compra e Pós Pagamento
 - claude-videos-basicos-area-do-cliente #10: Treinamentos  - Navegando rapidamente pelas opcoes
