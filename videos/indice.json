@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23",
+ "gerado_em": "2026-10-24",
  "planilha": "https://docs.google.com/spreadsheets/d/1T-8uwGcdqZxnH0W3l86UP6S8v5IeeIX7fwVUuH7f5Uc",
  "totais": {
   "geral": {
@@ -126,7 +126,7 @@
    "gid": 1014831656,
    "linha": 2,
    "id_planilha": 1,
-   "topico": "Painel - Mostrando Todo Painel",
+   "topico": "Painel - Mostrando Todo Painel [Onboarding do Painel Admin]",
    "status": {
     "gravacao": "Pendente",
     "edicao": null,
