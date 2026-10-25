@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-24",
+ "gerado_em": "2026-10-25",
  "planilha": "https://docs.google.com/spreadsheets/d/1T-8uwGcdqZxnH0W3l86UP6S8v5IeeIX7fwVUuH7f5Uc",
  "totais": {
   "geral": {
@@ -8,7 +8,7 @@
    "com_link": 100,
    "publicadas": 100,
    "com_legenda": 99,
-   "com_artigo": 99,
+   "com_artigo": 98,
    "ids_distintos": 100
   },
   "por_aba": {
@@ -18,7 +18,7 @@
     "com_link": 63,
     "publicadas": 63,
     "com_legenda": 63,
-    "com_artigo": 63
+    "com_artigo": 62
    },
    "area-empresa-parceiro-portal": {
     "linhas": 26,
@@ -76,7 +76,7 @@
     "com_link": 85,
     "publicadas": 85,
     "com_legenda": 84,
-    "com_artigo": 84
+    "com_artigo": 83
    },
    "dados-pj": {
     "linhas": 5,
@@ -162,9 +162,12 @@
    "conteudo": "videos/conteudo/JYDoZB_vyX8.md",
    "artigos": [
     "aprovacoes-e-denuncias",
+    "aprovar-cadastro-de-empresa",
     "bloquear-conta-denunciada",
+    "desfazer-bloqueio-denuncia",
     "excluir-item-denunciado",
     "ignorar-denuncia",
+    "recusar-cadastro-de-empresa",
     "recusar-envio-para-aprovacao",
     "regras-de-aprovacao-e-denuncias",
     "ver-denuncias"
@@ -192,13 +195,27 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/gAa2NdnitZU.md",
    "artigos": [
+    "admin-subcategorias-de-noticias",
+    "agendar-noticia",
+    "autor-das-noticias",
     "bloquear-jornalista",
+    "desbloquear-jornalista",
+    "destacar-noticia",
+    "editar-categorias-de-noticias",
     "editar-jornalista",
+    "editar-subcategorias-de-noticias",
+    "editorial-categorias",
     "editorial-noticias",
     "editorial-noticias-editar",
     "editorial-noticias-encontrar-e-filtrar",
+    "editorial-visibilidade",
     "jornalistas",
-    "resetar-senha-de-jornalista"
+    "noticias-cadastrar-rapido",
+    "noticias-excluir",
+    "noticias-seo-e-endereco",
+    "resetar-senha-de-jornalista",
+    "restaurar-rascunho-de-noticia",
+    "tirar-noticia-do-ar"
    ]
   },
   {
@@ -225,6 +242,7 @@
    "artigos": [
     "noticias-automaticas-fontes-rss",
     "rss-colar-endereco",
+    "rss-editar-endereco-e-quantidade",
     "rss-excluir",
     "rss-ligar-desligar",
     "rss-publicar-direto",
@@ -253,9 +271,13 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/wukhVMFEHWg.md",
    "artigos": [
+    "alterar-whatsapp-de-empresa-do-guia",
     "cadastrar-empresa-no-guia",
+    "excluir-empresa-do-guia",
     "gerenciar-empresas-do-guia",
-    "mudar-situacao-de-empresa-do-guia"
+    "mudar-situacao-de-empresa-do-guia",
+    "trocar-categoria-de-empresa-do-guia",
+    "trocar-plano-de-empresa-do-guia"
    ]
   },
   {
@@ -280,6 +302,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/jl7GHmHVJcM.md",
    "artigos": [
+    "desfazer-importacao-de-empresas",
     "ext-escolher-o-nicho",
     "ext-importar-no-guia-do-portal",
     "ext-prospeccao-ou-base-para-portal",
@@ -309,6 +332,8 @@
    "conteudo": "videos/conteudo/VV8BxCbIfz4.md",
    "artigos": [
     "configurar-cardapio-digital-botoes-tema-qrcode",
+    "editar-preco-de-prato-do-cardapio",
+    "esconder-prato-do-cardapio",
     "gerenciar-cardapio-digital"
    ]
   },
@@ -335,6 +360,7 @@
    "conteudo": "videos/conteudo/2ShbACG2mHE.md",
    "artigos": [
     "acompanhar-fila-de-pedidos-do-delivery",
+    "editar-produto-do-delivery",
     "gerenciar-cardapio-do-delivery",
     "opcoes-de-produto-do-delivery",
     "operar-delivery-pedidos-e-configuracoes"
@@ -363,7 +389,9 @@
    "conteudo": "videos/conteudo/TgIUmqrRuBY.md",
    "artigos": [
     "acompanhar-fila-de-pedidos-do-delivery",
+    "cancelar-pedido-do-delivery",
     "gerenciar-cardapio-do-delivery",
+    "imprimir-pedido-do-delivery",
     "opcoes-de-produto-do-delivery",
     "operar-delivery-pedidos-e-configuracoes"
    ]
@@ -390,6 +418,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/aE3QL3ErK0k.md",
    "artigos": [
+    "editar-servico-da-empresa",
     "gerenciar-servicos-da-empresa"
    ]
   },
@@ -415,6 +444,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/okWcwnwq5Bk.md",
    "artigos": [
+    "editar-membro-da-equipe",
     "gerenciar-equipe-da-empresa"
    ]
   },
@@ -440,6 +470,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/Z45xwGT8U38.md",
    "artigos": [
+    "editar-produto-do-catalogo",
     "gerenciar-catalogo-de-produtos"
    ]
   },
@@ -465,6 +496,8 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/reZ3e1a4o-o.md",
    "artigos": [
+    "colocar-video-no-quarto",
+    "editar-quarto-ou-suite",
     "fotos-de-quarto",
     "gerenciar-quartos-e-suites"
    ]
@@ -492,7 +525,9 @@
    "conteudo": "videos/conteudo/09n3Eiwn418.md",
    "artigos": [
     "editar-categoria-do-guia",
-    "gerenciar-categorias-do-guia"
+    "excluir-categoria-do-guia",
+    "gerenciar-categorias-do-guia",
+    "liberar-recursos-de-categoria-do-guia"
    ]
   },
   {
@@ -519,7 +554,8 @@
    "artigos": [
     "editar-cupom-do-portal",
     "gerenciar-cupons-do-portal",
-    "remover-cupom-do-portal"
+    "remover-cupom-do-portal",
+    "usuario-encontrar-usar-cupom"
    ]
   },
   {
@@ -544,11 +580,15 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/ufB3QTKfPsM.md",
    "artigos": [
+    "admin-insights-de-vaga",
+    "admin-publicar-vaga-recusada",
+    "alterar-salario-de-vaga",
     "cadastrar-areas-de-vagas",
     "cadastrar-contratante-de-vagas",
     "cadastrar-vagas-areas-e-contratantes",
     "excluir-vaga",
-    "gerenciar-vagas-e-classificados"
+    "gerenciar-vagas-e-classificados",
+    "usuario-localizar-candidatar-vaga"
    ]
   },
   {
@@ -573,8 +613,13 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/Ps1cgdLQ1FI.md",
    "artigos": [
+    "admin-anunciantes-de-classificados",
+    "admin-categorias-de-classificados",
+    "criar-subcategoria-de-classificados",
     "excluir-classificado",
-    "gerenciar-classificados"
+    "gerenciar-classificados",
+    "marcar-classificado-como-vendido",
+    "usuario-buscar-anuncios-classificados"
    ]
   },
   {
@@ -600,6 +645,10 @@
    "conteudo": "videos/conteudo/QrkL_nJEa-c.md",
    "artigos": [
     "editorial-turismo-pontos",
+    "turismo-categorias",
+    "turismo-pontos-dicas",
+    "turismo-pontos-editar",
+    "turismo-pontos-horarios",
     "turismo-pontos-trocar-fotos"
    ]
   },
@@ -626,7 +675,8 @@
    "conteudo": "videos/conteudo/CMEOWthwqtI.md",
    "artigos": [
     "editorial-turismo-roteiros",
-    "turismo-roteiros-editar"
+    "turismo-roteiros-editar",
+    "turismo-roteiros-reordenar-paradas"
    ]
   },
   {
@@ -651,9 +701,16 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/Hyh3UxHW_jU.md",
    "artigos": [
+    "admin-eventos-categorias",
+    "admin-eventos-organizadores",
     "editorial-eventos",
+    "editorial-midia",
     "eventos-editar",
-    "eventos-situacao"
+    "eventos-programacao",
+    "eventos-situacao",
+    "galeria-evento-legenda-ordem-remover",
+    "publicacao-e-visibilidade-eventos",
+    "video-na-galeria"
    ]
   },
   {
@@ -678,8 +735,14 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/CRiUbh7wHdc.md",
    "artigos": [
+    "acesso-colunista",
+    "admin-colunistas",
+    "artigos-colunista-autocadastro",
     "artigos-editar",
-    "editorial-artigos"
+    "artigos-tirar-do-ar",
+    "editar-colunista",
+    "editorial-artigos",
+    "publicacao-e-visibilidade-artigos"
    ]
   },
   {
@@ -730,8 +793,11 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/1a0wZmdXDLk.md",
    "artigos": [
+    "admin-utilidade-linhas-de-onibus",
+    "admin-utilidade-telefones-uteis",
     "voz-do-povo",
-    "voz-do-povo-ler-relato"
+    "voz-do-povo-ler-relato",
+    "voz-do-povo-tratar-denuncias"
    ]
   },
   {
@@ -756,9 +822,12 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/8gIDPdapN0E.md",
    "artigos": [
+    "cobrar-plano-de-parceiro-pelo-asaas",
     "comissao-de-parceiro-pelo-asaas",
     "gerenciar-parceiros",
     "grupo-whatsapp-parceiros",
+    "mudar-comissao-do-plano-de-parceiro",
+    "mudar-plano-de-um-parceiro",
     "pagar-comissao-de-parceiro-por-fora"
    ]
   },
@@ -784,9 +853,13 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/8M4kdEfP7Eg.md",
    "artigos": [
+    "adicionar-ou-remover-cidades-do-portal",
+    "colocar-pixels-de-rastreamento-no-portal",
     "configurar-fale-conosco-do-portal",
     "configurar-identidade-do-portal",
-    "configurar-redes-sociais-do-portal"
+    "configurar-redes-sociais-do-portal",
+    "ligar-aviso-baixar-app-do-portal",
+    "mostrar-convite-do-grupo-whatsapp-no-portal"
    ]
   },
   {
@@ -816,7 +889,9 @@
     "configurar-fale-conosco-do-portal",
     "configurar-identidade-do-portal",
     "configurar-layout-do-portal",
-    "configurar-redes-sociais-do-portal"
+    "configurar-redes-sociais-do-portal",
+    "configurar-topo-do-portal",
+    "montar-tela-inicio-do-portal"
    ]
   },
   {
@@ -841,10 +916,8 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/He7XF-kolwk.md",
    "artigos": [
-    "configurar-fale-conosco-do-portal",
-    "configurar-identidade-do-portal",
     "configurar-layout-do-portal",
-    "configurar-redes-sociais-do-portal"
+    "configurar-topo-do-portal"
    ]
   },
   {
@@ -869,10 +942,8 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/_YSN9di_ZOU.md",
    "artigos": [
-    "configurar-fale-conosco-do-portal",
-    "configurar-identidade-do-portal",
     "configurar-layout-do-portal",
-    "configurar-redes-sociais-do-portal"
+    "montar-tela-inicio-do-portal"
    ]
   },
   {
@@ -898,10 +969,7 @@
    "conteudo": "videos/conteudo/vPnHq9kRWW8.md",
    "artigos": [
     "admin-configurar-rodape-do-portal",
-    "configurar-fale-conosco-do-portal",
-    "configurar-identidade-do-portal",
-    "configurar-layout-do-portal",
-    "configurar-redes-sociais-do-portal"
+    "configurar-layout-do-portal"
    ]
   },
   {
@@ -927,10 +995,7 @@
    "conteudo": "videos/conteudo/lrTaEV5JnVM.md",
    "artigos": [
     "admin-configurar-cores-do-portal",
-    "configurar-fale-conosco-do-portal",
-    "configurar-identidade-do-portal",
-    "configurar-layout-do-portal",
-    "configurar-redes-sociais-do-portal"
+    "configurar-layout-do-portal"
    ]
   },
   {
@@ -956,6 +1021,7 @@
    "conteudo": "videos/conteudo/lwaG-T87hJI.md",
    "artigos": [
     "conectar-asaas-e-entender-cobranca",
+    "marcar-fatura-como-recebida",
     "receber-por-pix-na-sua-chave",
     "testar-conexao-asaas",
     "whatsapp-de-comprovantes-pix"
@@ -987,6 +1053,7 @@
     "cancelar-notificacao-push-agendada",
     "convite-notificacoes-push",
     "enviar-notificacoes-push",
+    "mudar-texto-convite-notificacoes-push",
     "ver-historico-notificacoes-push"
    ]
   },
@@ -1125,7 +1192,8 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/31ftVMQ_yr4.md",
    "artigos": [
-    "configurar-planos-comerciais"
+    "configurar-planos-comerciais",
+    "mudar-valor-do-anuncio-de-vaga"
    ]
   },
   {
@@ -1143,15 +1211,13 @@
    "youtube_id": "MbMNv59z7Bg",
    "link_drive_ou_pagina": null,
    "produto": "portal-da-cidade",
-   "observacao": null,
+   "observacao": "publicado, sem artigo vinculado.",
    "titulo_youtube": null,
    "duracao_s": null,
    "upload_date": "20261016",
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/MbMNv59z7Bg.md",
-   "artigos": [
-    "configurar-planos-comerciais"
-   ]
+   "artigos": []
   },
   {
    "aba": "painel-admin",
@@ -1200,7 +1266,8 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/zHOxx6KFIrk.md",
    "artigos": [
-    "cliente-publicar-anuncio-novo"
+    "cliente-publicar-anuncio-novo",
+    "cliente-quem-pode-anunciar-classificados"
    ]
   },
   {
@@ -1451,7 +1518,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/msl8PXbZ9Ak.md",
    "artigos": [
-    "usuario-radar-consultar-precos"
+    "usuario-radar-comparar-lista"
    ]
   },
   {
@@ -1528,7 +1595,9 @@
    "conteudo": "videos/conteudo/uN4FHHHGgEs.md",
    "artigos": [
     "realizar-sorteio-ao-vivo",
-    "sorteios"
+    "sorteios",
+    "tirar-sorteio-do-ar",
+    "ver-participantes-sorteios"
    ]
   },
   {
@@ -1628,6 +1697,11 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/VhMHVZujDvQ.md",
    "artigos": [
+    "corrigir-preco-radar",
+    "editar-produto-radar",
+    "excluir-produto-radar",
+    "juntar-produtos-radar",
+    "lancar-preco-pela-foto-radar",
     "radar-produtos-e-precos"
    ]
   },
@@ -1678,6 +1752,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/Xfc771aD4z8.md",
    "artigos": [
+    "cadastrar-estabelecimento-radar",
     "radar-mercados"
    ]
   },
@@ -1703,6 +1778,9 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/ajzmuupRJMM.md",
    "artigos": [
+    "decidir-votos-suspeitos-melhores-da-cidade",
+    "editar-datas-de-votacao-melhores-da-cidade",
+    "encerrar-votacao-melhores-da-cidade",
     "montar-e-acompanhar-votacao-melhores-da-cidade"
    ]
   },
@@ -1728,7 +1806,11 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/grm3bUrPBxM.md",
    "artigos": [
-    "cadastrar-instituicoes-e-causas-doacoes"
+    "adicionar-fotos-instituicao-doacoes",
+    "cadastrar-causa-doacao",
+    "cadastrar-instituicoes-e-causas-doacoes",
+    "editar-contato-instituicao-doacoes",
+    "excluir-instituicao-doacoes"
    ]
   },
   {
@@ -1855,7 +1937,8 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/v7uO6kjwVOA.md",
    "artigos": [
-    "cliente-gerenciar-cupons-empresa"
+    "cliente-gerenciar-cupons-empresa",
+    "usuario-encontrar-usar-cupom"
    ]
   },
   {
@@ -1905,7 +1988,9 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/525qfVrQ4iY.md",
    "artigos": [
-    "cliente-criar-vaga-nova"
+    "cliente-criar-vaga-nova",
+    "cliente-gerenciar-vagas-empresa",
+    "cliente-pausar-ou-excluir-vaga"
    ]
   },
   {
@@ -1930,7 +2015,8 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/Mu5xmUB7w9o.md",
    "artigos": [
-    "cliente-contratar-banner-publicitario"
+    "cliente-contratar-banner-publicitario",
+    "cliente-parar-renovacao-de-banner"
    ]
   },
   {
@@ -1956,6 +2042,7 @@
    "conteudo": "videos/conteudo/S-YcDWiimEo.md",
    "artigos": [
     "cliente-gerenciar-anuncios-proprios",
+    "cliente-pausar-vender-ou-excluir-anuncio",
     "cliente-publicar-anuncio-novo"
    ]
   },
@@ -2084,6 +2171,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/FwKU_0GF6iU.md",
    "artigos": [
+    "editar-servico-da-empresa",
     "gerenciar-servicos-da-empresa"
    ]
   },
@@ -2109,6 +2197,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/-cq2YnG0vis.md",
    "artigos": [
+    "editar-membro-da-equipe",
     "gerenciar-equipe-da-empresa"
    ]
   },
@@ -2134,6 +2223,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/X2BpMhoYKiA.md",
    "artigos": [
+    "editar-produto-do-catalogo",
     "gerenciar-catalogo-de-produtos"
    ]
   },
@@ -2233,6 +2323,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/aSRf0hwUrrc.md",
    "artigos": [
+    "editar-quarto-ou-suite",
     "gerenciar-quartos-e-suites"
    ]
   },
@@ -2283,6 +2374,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/8VRaUwhuhO0.md",
    "artigos": [
+    "cliente-colunista-atualizar-perfil",
     "cliente-colunista-publicar-artigo"
    ]
   },
@@ -2308,7 +2400,11 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/yuJhd0nadEE.md",
    "artigos": [
+    "cliente-cancelar-plano",
     "cliente-contratar-plano",
+    "cliente-descer-de-plano",
+    "cliente-o-que-cada-plano-do-guia-libera",
+    "cliente-subir-de-plano",
     "cliente-ver-planos-e-assinaturas"
    ]
   },
@@ -2660,6 +2756,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/jl7GHmHVJcM.md",
    "artigos": [
+    "desfazer-importacao-de-empresas",
     "ext-escolher-o-nicho",
     "ext-importar-no-guia-do-portal",
     "ext-prospeccao-ou-base-para-portal",
@@ -3651,9 +3748,12 @@
    "conteudo": "videos/conteudo/JYDoZB_vyX8.md",
    "artigos": [
     "aprovacoes-e-denuncias",
+    "aprovar-cadastro-de-empresa",
     "bloquear-conta-denunciada",
+    "desfazer-bloqueio-denuncia",
     "excluir-item-denunciado",
     "ignorar-denuncia",
+    "recusar-cadastro-de-empresa",
     "recusar-envio-para-aprovacao",
     "regras-de-aprovacao-e-denuncias",
     "ver-denuncias"
@@ -3676,13 +3776,27 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/gAa2NdnitZU.md",
    "artigos": [
+    "admin-subcategorias-de-noticias",
+    "agendar-noticia",
+    "autor-das-noticias",
     "bloquear-jornalista",
+    "desbloquear-jornalista",
+    "destacar-noticia",
+    "editar-categorias-de-noticias",
     "editar-jornalista",
+    "editar-subcategorias-de-noticias",
+    "editorial-categorias",
     "editorial-noticias",
     "editorial-noticias-editar",
     "editorial-noticias-encontrar-e-filtrar",
+    "editorial-visibilidade",
     "jornalistas",
-    "resetar-senha-de-jornalista"
+    "noticias-cadastrar-rapido",
+    "noticias-excluir",
+    "noticias-seo-e-endereco",
+    "resetar-senha-de-jornalista",
+    "restaurar-rascunho-de-noticia",
+    "tirar-noticia-do-ar"
    ],
    "linhas": [
     {
@@ -3704,6 +3818,7 @@
    "artigos": [
     "noticias-automaticas-fontes-rss",
     "rss-colar-endereco",
+    "rss-editar-endereco-e-quantidade",
     "rss-excluir",
     "rss-ligar-desligar",
     "rss-publicar-direto",
@@ -3727,9 +3842,13 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/wukhVMFEHWg.md",
    "artigos": [
+    "alterar-whatsapp-de-empresa-do-guia",
     "cadastrar-empresa-no-guia",
+    "excluir-empresa-do-guia",
     "gerenciar-empresas-do-guia",
-    "mudar-situacao-de-empresa-do-guia"
+    "mudar-situacao-de-empresa-do-guia",
+    "trocar-categoria-de-empresa-do-guia",
+    "trocar-plano-de-empresa-do-guia"
    ],
    "linhas": [
     {
@@ -3749,6 +3868,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/jl7GHmHVJcM.md",
    "artigos": [
+    "desfazer-importacao-de-empresas",
     "ext-escolher-o-nicho",
     "ext-importar-no-guia-do-portal",
     "ext-prospeccao-ou-base-para-portal",
@@ -3780,6 +3900,8 @@
    "conteudo": "videos/conteudo/VV8BxCbIfz4.md",
    "artigos": [
     "configurar-cardapio-digital-botoes-tema-qrcode",
+    "editar-preco-de-prato-do-cardapio",
+    "esconder-prato-do-cardapio",
     "gerenciar-cardapio-digital"
    ],
    "linhas": [
@@ -3801,6 +3923,7 @@
    "conteudo": "videos/conteudo/2ShbACG2mHE.md",
    "artigos": [
     "acompanhar-fila-de-pedidos-do-delivery",
+    "editar-produto-do-delivery",
     "gerenciar-cardapio-do-delivery",
     "opcoes-de-produto-do-delivery",
     "operar-delivery-pedidos-e-configuracoes"
@@ -3824,7 +3947,9 @@
    "conteudo": "videos/conteudo/TgIUmqrRuBY.md",
    "artigos": [
     "acompanhar-fila-de-pedidos-do-delivery",
+    "cancelar-pedido-do-delivery",
     "gerenciar-cardapio-do-delivery",
+    "imprimir-pedido-do-delivery",
     "opcoes-de-produto-do-delivery",
     "operar-delivery-pedidos-e-configuracoes"
    ],
@@ -3846,6 +3971,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/aE3QL3ErK0k.md",
    "artigos": [
+    "editar-servico-da-empresa",
     "gerenciar-servicos-da-empresa"
    ],
    "linhas": [
@@ -3866,6 +3992,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/okWcwnwq5Bk.md",
    "artigos": [
+    "editar-membro-da-equipe",
     "gerenciar-equipe-da-empresa"
    ],
    "linhas": [
@@ -3886,6 +4013,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/Z45xwGT8U38.md",
    "artigos": [
+    "editar-produto-do-catalogo",
     "gerenciar-catalogo-de-produtos"
    ],
    "linhas": [
@@ -3906,6 +4034,8 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/reZ3e1a4o-o.md",
    "artigos": [
+    "colocar-video-no-quarto",
+    "editar-quarto-ou-suite",
     "fotos-de-quarto",
     "gerenciar-quartos-e-suites"
    ],
@@ -3928,7 +4058,9 @@
    "conteudo": "videos/conteudo/09n3Eiwn418.md",
    "artigos": [
     "editar-categoria-do-guia",
-    "gerenciar-categorias-do-guia"
+    "excluir-categoria-do-guia",
+    "gerenciar-categorias-do-guia",
+    "liberar-recursos-de-categoria-do-guia"
    ],
    "linhas": [
     {
@@ -3950,7 +4082,8 @@
    "artigos": [
     "editar-cupom-do-portal",
     "gerenciar-cupons-do-portal",
-    "remover-cupom-do-portal"
+    "remover-cupom-do-portal",
+    "usuario-encontrar-usar-cupom"
    ],
    "linhas": [
     {
@@ -3970,11 +4103,15 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/ufB3QTKfPsM.md",
    "artigos": [
+    "admin-insights-de-vaga",
+    "admin-publicar-vaga-recusada",
+    "alterar-salario-de-vaga",
     "cadastrar-areas-de-vagas",
     "cadastrar-contratante-de-vagas",
     "cadastrar-vagas-areas-e-contratantes",
     "excluir-vaga",
-    "gerenciar-vagas-e-classificados"
+    "gerenciar-vagas-e-classificados",
+    "usuario-localizar-candidatar-vaga"
    ],
    "linhas": [
     {
@@ -3994,8 +4131,13 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/Ps1cgdLQ1FI.md",
    "artigos": [
+    "admin-anunciantes-de-classificados",
+    "admin-categorias-de-classificados",
+    "criar-subcategoria-de-classificados",
     "excluir-classificado",
-    "gerenciar-classificados"
+    "gerenciar-classificados",
+    "marcar-classificado-como-vendido",
+    "usuario-buscar-anuncios-classificados"
    ],
    "linhas": [
     {
@@ -4016,6 +4158,10 @@
    "conteudo": "videos/conteudo/QrkL_nJEa-c.md",
    "artigos": [
     "editorial-turismo-pontos",
+    "turismo-categorias",
+    "turismo-pontos-dicas",
+    "turismo-pontos-editar",
+    "turismo-pontos-horarios",
     "turismo-pontos-trocar-fotos"
    ],
    "linhas": [
@@ -4037,7 +4183,8 @@
    "conteudo": "videos/conteudo/CMEOWthwqtI.md",
    "artigos": [
     "editorial-turismo-roteiros",
-    "turismo-roteiros-editar"
+    "turismo-roteiros-editar",
+    "turismo-roteiros-reordenar-paradas"
    ],
    "linhas": [
     {
@@ -4057,9 +4204,16 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/Hyh3UxHW_jU.md",
    "artigos": [
+    "admin-eventos-categorias",
+    "admin-eventos-organizadores",
     "editorial-eventos",
+    "editorial-midia",
     "eventos-editar",
-    "eventos-situacao"
+    "eventos-programacao",
+    "eventos-situacao",
+    "galeria-evento-legenda-ordem-remover",
+    "publicacao-e-visibilidade-eventos",
+    "video-na-galeria"
    ],
    "linhas": [
     {
@@ -4079,8 +4233,14 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/CRiUbh7wHdc.md",
    "artigos": [
+    "acesso-colunista",
+    "admin-colunistas",
+    "artigos-colunista-autocadastro",
     "artigos-editar",
-    "editorial-artigos"
+    "artigos-tirar-do-ar",
+    "editar-colunista",
+    "editorial-artigos",
+    "publicacao-e-visibilidade-artigos"
    ],
    "linhas": [
     {
@@ -4121,8 +4281,11 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/1a0wZmdXDLk.md",
    "artigos": [
+    "admin-utilidade-linhas-de-onibus",
+    "admin-utilidade-telefones-uteis",
     "voz-do-povo",
-    "voz-do-povo-ler-relato"
+    "voz-do-povo-ler-relato",
+    "voz-do-povo-tratar-denuncias"
    ],
    "linhas": [
     {
@@ -4142,9 +4305,12 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/8gIDPdapN0E.md",
    "artigos": [
+    "cobrar-plano-de-parceiro-pelo-asaas",
     "comissao-de-parceiro-pelo-asaas",
     "gerenciar-parceiros",
     "grupo-whatsapp-parceiros",
+    "mudar-comissao-do-plano-de-parceiro",
+    "mudar-plano-de-um-parceiro",
     "pagar-comissao-de-parceiro-por-fora"
    ],
    "linhas": [
@@ -4165,9 +4331,13 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/8M4kdEfP7Eg.md",
    "artigos": [
+    "adicionar-ou-remover-cidades-do-portal",
+    "colocar-pixels-de-rastreamento-no-portal",
     "configurar-fale-conosco-do-portal",
     "configurar-identidade-do-portal",
-    "configurar-redes-sociais-do-portal"
+    "configurar-redes-sociais-do-portal",
+    "ligar-aviso-baixar-app-do-portal",
+    "mostrar-convite-do-grupo-whatsapp-no-portal"
    ],
    "linhas": [
     {
@@ -4192,7 +4362,9 @@
     "configurar-fale-conosco-do-portal",
     "configurar-identidade-do-portal",
     "configurar-layout-do-portal",
-    "configurar-redes-sociais-do-portal"
+    "configurar-redes-sociais-do-portal",
+    "configurar-topo-do-portal",
+    "montar-tela-inicio-do-portal"
    ],
    "linhas": [
     {
@@ -4212,10 +4384,8 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/He7XF-kolwk.md",
    "artigos": [
-    "configurar-fale-conosco-do-portal",
-    "configurar-identidade-do-portal",
     "configurar-layout-do-portal",
-    "configurar-redes-sociais-do-portal"
+    "configurar-topo-do-portal"
    ],
    "linhas": [
     {
@@ -4235,10 +4405,8 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/_YSN9di_ZOU.md",
    "artigos": [
-    "configurar-fale-conosco-do-portal",
-    "configurar-identidade-do-portal",
     "configurar-layout-do-portal",
-    "configurar-redes-sociais-do-portal"
+    "montar-tela-inicio-do-portal"
    ],
    "linhas": [
     {
@@ -4259,10 +4427,7 @@
    "conteudo": "videos/conteudo/vPnHq9kRWW8.md",
    "artigos": [
     "admin-configurar-rodape-do-portal",
-    "configurar-fale-conosco-do-portal",
-    "configurar-identidade-do-portal",
-    "configurar-layout-do-portal",
-    "configurar-redes-sociais-do-portal"
+    "configurar-layout-do-portal"
    ],
    "linhas": [
     {
@@ -4283,10 +4448,7 @@
    "conteudo": "videos/conteudo/lrTaEV5JnVM.md",
    "artigos": [
     "admin-configurar-cores-do-portal",
-    "configurar-fale-conosco-do-portal",
-    "configurar-identidade-do-portal",
-    "configurar-layout-do-portal",
-    "configurar-redes-sociais-do-portal"
+    "configurar-layout-do-portal"
    ],
    "linhas": [
     {
@@ -4307,6 +4469,7 @@
    "conteudo": "videos/conteudo/lwaG-T87hJI.md",
    "artigos": [
     "conectar-asaas-e-entender-cobranca",
+    "marcar-fatura-como-recebida",
     "receber-por-pix-na-sua-chave",
     "testar-conexao-asaas",
     "whatsapp-de-comprovantes-pix"
@@ -4333,6 +4496,7 @@
     "cancelar-notificacao-push-agendada",
     "convite-notificacoes-push",
     "enviar-notificacoes-push",
+    "mudar-texto-convite-notificacoes-push",
     "ver-historico-notificacoes-push"
    ],
    "linhas": [
@@ -4446,7 +4610,8 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/31ftVMQ_yr4.md",
    "artigos": [
-    "configurar-planos-comerciais"
+    "configurar-planos-comerciais",
+    "mudar-valor-do-anuncio-de-vaga"
    ],
    "linhas": [
     {
@@ -4465,9 +4630,7 @@
    "upload_date": "20261016",
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/MbMNv59z7Bg.md",
-   "artigos": [
-    "configurar-planos-comerciais"
-   ],
+   "artigos": [],
    "linhas": [
     {
      "aba": "painel-admin",
@@ -4506,7 +4669,8 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/zHOxx6KFIrk.md",
    "artigos": [
-    "cliente-publicar-anuncio-novo"
+    "cliente-publicar-anuncio-novo",
+    "cliente-quem-pode-anunciar-classificados"
    ],
    "linhas": [
     {
@@ -4707,7 +4871,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/msl8PXbZ9Ak.md",
    "artigos": [
-    "usuario-radar-consultar-precos"
+    "usuario-radar-comparar-lista"
    ],
    "linhas": [
     {
@@ -4769,7 +4933,9 @@
    "conteudo": "videos/conteudo/uN4FHHHGgEs.md",
    "artigos": [
     "realizar-sorteio-ao-vivo",
-    "sorteios"
+    "sorteios",
+    "tirar-sorteio-do-ar",
+    "ver-participantes-sorteios"
    ],
    "linhas": [
     {
@@ -4849,6 +5015,11 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/VhMHVZujDvQ.md",
    "artigos": [
+    "corrigir-preco-radar",
+    "editar-produto-radar",
+    "excluir-produto-radar",
+    "juntar-produtos-radar",
+    "lancar-preco-pela-foto-radar",
     "radar-produtos-e-precos"
    ],
    "linhas": [
@@ -4889,6 +5060,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/Xfc771aD4z8.md",
    "artigos": [
+    "cadastrar-estabelecimento-radar",
     "radar-mercados"
    ],
    "linhas": [
@@ -4909,6 +5081,9 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/ajzmuupRJMM.md",
    "artigos": [
+    "decidir-votos-suspeitos-melhores-da-cidade",
+    "editar-datas-de-votacao-melhores-da-cidade",
+    "encerrar-votacao-melhores-da-cidade",
     "montar-e-acompanhar-votacao-melhores-da-cidade"
    ],
    "linhas": [
@@ -4929,7 +5104,11 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/grm3bUrPBxM.md",
    "artigos": [
-    "cadastrar-instituicoes-e-causas-doacoes"
+    "adicionar-fotos-instituicao-doacoes",
+    "cadastrar-causa-doacao",
+    "cadastrar-instituicoes-e-causas-doacoes",
+    "editar-contato-instituicao-doacoes",
+    "excluir-instituicao-doacoes"
    ],
    "linhas": [
     {
@@ -5031,7 +5210,8 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/v7uO6kjwVOA.md",
    "artigos": [
-    "cliente-gerenciar-cupons-empresa"
+    "cliente-gerenciar-cupons-empresa",
+    "usuario-encontrar-usar-cupom"
    ],
    "linhas": [
     {
@@ -5071,7 +5251,9 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/525qfVrQ4iY.md",
    "artigos": [
-    "cliente-criar-vaga-nova"
+    "cliente-criar-vaga-nova",
+    "cliente-gerenciar-vagas-empresa",
+    "cliente-pausar-ou-excluir-vaga"
    ],
    "linhas": [
     {
@@ -5091,7 +5273,8 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/Mu5xmUB7w9o.md",
    "artigos": [
-    "cliente-contratar-banner-publicitario"
+    "cliente-contratar-banner-publicitario",
+    "cliente-parar-renovacao-de-banner"
    ],
    "linhas": [
     {
@@ -5112,6 +5295,7 @@
    "conteudo": "videos/conteudo/S-YcDWiimEo.md",
    "artigos": [
     "cliente-gerenciar-anuncios-proprios",
+    "cliente-pausar-vender-ou-excluir-anuncio",
     "cliente-publicar-anuncio-novo"
    ],
    "linhas": [
@@ -5215,6 +5399,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/FwKU_0GF6iU.md",
    "artigos": [
+    "editar-servico-da-empresa",
     "gerenciar-servicos-da-empresa"
    ],
    "linhas": [
@@ -5235,6 +5420,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/-cq2YnG0vis.md",
    "artigos": [
+    "editar-membro-da-equipe",
     "gerenciar-equipe-da-empresa"
    ],
    "linhas": [
@@ -5255,6 +5441,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/X2BpMhoYKiA.md",
    "artigos": [
+    "editar-produto-do-catalogo",
     "gerenciar-catalogo-de-produtos"
    ],
    "linhas": [
@@ -5334,6 +5521,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/aSRf0hwUrrc.md",
    "artigos": [
+    "editar-quarto-ou-suite",
     "gerenciar-quartos-e-suites"
    ],
    "linhas": [
@@ -5374,6 +5562,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/8VRaUwhuhO0.md",
    "artigos": [
+    "cliente-colunista-atualizar-perfil",
     "cliente-colunista-publicar-artigo"
    ],
    "linhas": [
@@ -5394,7 +5583,11 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/yuJhd0nadEE.md",
    "artigos": [
+    "cliente-cancelar-plano",
     "cliente-contratar-plano",
+    "cliente-descer-de-plano",
+    "cliente-o-que-cada-plano-do-guia-libera",
+    "cliente-subir-de-plano",
     "cliente-ver-planos-e-assinaturas"
    ],
    "linhas": [
