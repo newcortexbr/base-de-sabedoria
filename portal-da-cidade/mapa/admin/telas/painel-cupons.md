@@ -9,7 +9,7 @@ Arquivo: `app/painel/cupons/page.tsx`
 - lista os cupons do portal. cupom não é registro próprio: são campos `cupom_*` de uma empresa do Guia, um por empresa (`page.tsx:22-27`).
 
 ## ações
-- "Novo cupom" (link), "Editar" por linha, "Remover" por linha (`window.confirm`, `:91`). remover só limpa os campos de cupom, a empresa continua.
+- "Novo cupom" (link), "Editar" por linha, "Remover" por linha (confirmação `avisos.confirmar`, `:95`). remover só limpa os campos de cupom, a empresa continua.
 - o admin cria, altera e remove cupom de qualquer empresa do portal em nome do lojista.
 - após remover: `revalidarGuia` e `revalidarCupons` (Server Actions com o token do painel) e recarrega a lista.
 
@@ -40,13 +40,16 @@ Arquivo: `app/painel/cupons/page.tsx`
 - [link] "Falar com o suporte no WhatsApp" — conteúdo, no meio da tela, à direita (1200,820,56,56)
 - [selo] "··" — menu lateral, no meio da tela, à esquerda (16,858,32,32)
 
+## como chegar
+- na parte Conteúdo do menu, abra `Guia Comercial` e clique em `Cupons de Desconto`.
+
 ## o que você vê
-Lista os cupons de desconto das empresas do Guia; cada empresa tem no máximo um cupom.
-- Novo cupom: cria um cupom para uma empresa.
-- Capa: foto do cupom ("Sem foto" quando não tem).
-- Empresa: a empresa do Guia dona do cupom.
-- Código: o código que o visitante usa (ex.: PORTAL10).
-- Selo: o desconto mostrado no site. em cinza, o cupom não está aparecendo: o plano atual da empresa não libera cupom ou ele está fora da validade.
-- Validade: até quando o cupom vale; o selo "Vencido" aparece quando a data já passou.
-- Editar: muda o cupom.
-- Remover: apaga só o cupom (pede confirmação); a empresa continua no Guia.
+Tela `Cupons`. Lista os cupons de desconto das empresas do Guia; cada empresa tem no máximo um cupom.
+- botão `Novo cupom`: cria um cupom para uma empresa.
+- coluna `Capa`: foto do cupom ("Sem foto" quando não tem).
+- coluna `Empresa`: a empresa do Guia dona do cupom.
+- coluna `Código`: o código que o visitante usa (ex.: PORTAL10).
+- coluna `Selo`: o desconto mostrado no site. em cinza, o cupom não está aparecendo: o plano atual da empresa não libera cupom ou ele está fora da validade.
+- coluna `Validade`: até quando o cupom vale; o selo "Vencido" aparece quando a data já passou.
+- `Editar`: muda o cupom.
+- `Remover`: apaga só o cupom (pede confirmação); a empresa continua no Guia.

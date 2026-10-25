@@ -4,14 +4,18 @@ Arquivo: `app/painel/assistente/page.tsx`
 
 ## o que você vê
 Mostra o que os visitantes perguntam ao Assistente de IA do site e deixa ligá-lo ou desligá-lo.
-- Mostrar o Assistente de IA: liga ou desliga o assistente no site; salva na hora.
-- período 7, 30 ou 90 dias: escolhe o intervalo dos números.
-- indicadores: total de perguntas, quantas tiveram resposta, quantas ficaram sem resultado e a média por dia.
-- seções, categorias, palavras e cidades: o que mais é procurado.
-- perguntas sem resultado: o que o visitante procurou e o site não tinha; bom para ver o que falta no portal.
-- últimas perguntas: as mais recentes.
+- cartão `Assistente de IA no site`, com a caixa `Mostrar o Assistente de IA`: liga ou desliga o círculo de atendimento nas páginas iniciais e nas listagens do site; salva na hora.
+- botões `7 dias`, `30 dias` e `90 dias` (no alto, à direita): escolhem o intervalo dos números.
+- quatro cartões de números: `Perguntas`, `Com resultado`, `Sem resultado` e `Média por dia`.
+- quadros `Onde mais procuram` (seções do site), `Categorias mais pedidas`, `Palavras mais buscadas` e `Cidades citadas` (este só aparece se alguém citou uma cidade).
+- quadro `Perguntas sem resultado`: o que o visitante procurou e o portal não tinha; mostra quem falta anunciar.
+- quadro `Últimas perguntas`: as mais recentes, cada uma com a marca `achou` ou `não achou`.
+- no rodapé: as perguntas ficam guardadas por 180 dias e, se houver, quantas mensagens impróprias foram recusadas.
 - também aparece quantas mensagens impróprias o assistente recusou.
 - Ainda não há perguntas neste período: ninguém perguntou no intervalo escolhido.
+
+## como chegar
+- na parte Sistema do menu, clique em `Assistente de IA`.
 
 ## rota e gate
 - `/painel/assistente`. client. gate `PainelGuard` (`app/painel/layout.tsx:38`); item "Assistente de IA" na seção Sistema da `Sidebar.tsx:239`. não está em `MODULO_POR_PREFIXO_DE_ROTA`, sem gate de módulo.
@@ -21,10 +25,10 @@ Mostra o que os visitantes perguntam ao Assistente de IA do site e deixa ligá-l
 - mostra o que os visitantes perguntam ao assistente e deixa ligar/desligar o assistente no site.
 
 ## ações e campos
-- seletor de período 7/30/90 dias (`:144-160`).
-- caixa "Mostrar o Assistente de IA": salva na hora, desfaz se o servidor recusar (`alternar`, `:116-132`). depois chama `revalidarLayout` (`:13-16`) para o site refletir.
+- botões de período `7 dias`/`30 dias`/`90 dias` (`:143-157`).
+- caixa `Mostrar o Assistente de IA`: salva na hora, desfaz se o servidor recusar (`alternar`, `:116-132`). depois chama `revalidarLayout` (`:13-16`) para o site refletir.
 - botão "Tentar de novo" no erro do resumo.
-- só leitura: indicadores (perguntas, com resultado, sem resultado, média por dia), barras por seção, categorias, palavras, cidades, "perguntas sem resultado" e "últimas perguntas".
+- só leitura: indicadores (perguntas, com resultado, sem resultado, média por dia), quadros `Onde mais procuram`, `Categorias mais pedidas`, `Palavras mais buscadas`, `Cidades citadas`, `Perguntas sem resultado` e `Últimas perguntas`.
 
 ## apis
 - `adminApi.assistente.resumo(dias)`: GET `/painel/<slug>/assistente/resumo/?dias=` (`lib/admin-api.ts:756`).

@@ -17,7 +17,7 @@ Arquivo: `src/app/minha-conta/cupons/page.tsx`
 - edita o cupom da própria empresa do Guia (uma empresa, um cupom). É o mesmo dado do formulário do Guia (`page.tsx:3-12,248-252`).
 
 ## ações e campos
-- foto de capa (opcional, só se liberada): Adicionar/Trocar/Remover.
+- `Foto de capa do cupom` (opcional, só se liberada): `Adicionar` / `Trocar` / `Remover`. Título da tela: "Cupons" (seta de voltar ao início).
 - Cupom de desconto (texto, ex.: "10% OFF no rodízio"), 2ª linha do card (opcional, 140), Condições de uso (opcional, 200 com contador), Código do cupom (vira maiúsculo, sem espaços), Tipo de desconto (Percentual ou Valor fixo), Valor do cupom (máscara por tipo), Cupom vale até (data).
 - botão "Salvar cupom"; "Salvo." ao concluir.
 - selo de situação: No ar, Vencido, Não publicado (sem código), Empresa fora do ar (`:75-93`).

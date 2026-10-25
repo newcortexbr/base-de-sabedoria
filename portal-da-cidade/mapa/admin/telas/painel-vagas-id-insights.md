@@ -7,13 +7,13 @@
 - admin vs cliente: o link só existe na lista do painel (`painel/vagas/page.tsx:248`); não há link de insights em `minha-conta/vagas/page.tsx` (grep sem resultado). Admin vê, cliente não (neste frontend).
 
 ## o que você vê
-Números de desempenho de uma vaga de emprego.
+Números de desempenho de uma vaga de emprego (título "Insights da Vaga"). Para abrir: na parte Conteúdo do menu, em `Vagas de Emprego`, clique em `Listar Vagas` e, na linha da vaga, em `Insights`. Botão `Editar vaga` abre a edição.
 - Visualizações totais: quantas vezes a página da vaga foi aberta.
 - Média por dia: média de visualizações por dia.
-- Dias ativos: há quantos dias a vaga está publicada; Publicada em: a data em que entrou.
-- Dias restantes e Expira em: quanto falta e em que dia a vaga sai do ar sozinha.
+- "Linha do tempo": Publicada em (data em que entrou), Expira em e Dias ativos (há quantos dias a vaga está publicada).
+- Dias restantes (ou Expirada) e Expira em: quanto falta e em que dia a vaga sai do ar sozinha.
 - selos ⭐ Destaque e ⚡ Urgente: mostram se a vaga tem essas marcas.
-- ← Voltar para vagas: volta à lista.
+- `← Voltar para vagas`: volta à lista.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-vagas-id-insights.png](../prints/painel-vagas-id-insights.png) · dados brutos: [json](../prints/json/painel-vagas-id-insights.json)

@@ -12,32 +12,38 @@ tipo_problema:
   - não consigo entrar no painel
   - recuperar senha do administrador
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 ---
 
 ## objetivo
-aqui você sabe o que fazer se esqueceu a senha de administrador do painel.
 
-## o que acontece
+Solicite ajuda para recuperar o acesso ao painel. O botão Esqueceu a senha? não inicia recuperação no código conferido.
 
-a tela de entrada do painel mostra `Esqueceu a senha?`, mas hoje esse botão não faz nada: o painel não envia e-mail de recuperação para o administrador.
+## pré-requisitos
 
-## o que fazer
+- Estar sem acesso por ter esquecido a senha.
 
-- Fale com a equipe que entregou o seu portal. Ela consegue definir uma senha nova para a sua conta.
-- Ao receber a senha nova, entre no painel e troque por uma só sua. Veja "trocar a minha senha do painel".
-- Não envie a sua senha por mensagem a ninguém.
+## passos
 
-## quando pedir ajuda
+1. Abra a [entrada do painel](/painel/login) do seu portal. [guia=fora]
+2. Clique em `Entre em contato com o administrador.`.  [guia=login.contato]
+3. No aplicativo de e-mail, informe o portal e o e-mail da conta, sem enviar sua senha. [guia=fora]
 
-sempre que não conseguir entrar no painel por causa da senha.
+## resultado
+
+O link abre uma mensagem de e-mail para o contato definido na tela. O envio e a recuperação dependem do atendimento.
+
+## desvios
+
+Se o aplicativo de e-mail não abrir, use seu serviço de e-mail para escrever a contato@newcortex.ia.br, endereço público configurado no link da tela.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/login/page.tsx:317-320` — botão "Esqueceu a senha?" sem `onClick`.
-- `portal-cidade/frontend/src/lib/master-api.ts:187-188` — `resetSenha` na área da equipe da plataforma (Master).
+- `frontend/src/app/painel/login/page.tsx:304`
+- `frontend/src/app/painel/login/page.tsx:380`
 
 ## lacunas
 
-o botão sem ação é um defeito do produto, registrado aqui como divergência. O canal de contato com a equipe da plataforma não está no código.
+- Não foi identificado vídeo específico desta tarefa no catálogo; nenhum tempo foi atribuído.
+- Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.

@@ -1,21 +1,22 @@
 # /painel/noticias/fontes-rss/cadastrar (`.../cadastrar/page.tsx`, 65 linhas)
 - gate: módulo `noticias` (prefixo `/painel/noticias`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
+- menu: `Notícias Automáticas` > `Fontes de RSS` > botão `+ Cadastrar RSS`. título `Cadastrar Fonte de RSS`; botões `Adicionar` e `Cancelar`.
 - faz: `FonteRssCatalogoPicker` (catálogo de feeds prontos) + `FonteRssForm`. O picker preenche o formulário.
-- campos (`FonteRssForm`): Título, URL do RSS, Quantidade de notícias por vez, Status, categoria/subcategoria; botão de verificar feed (`verificarFeed`, :110).
+- campos (`FonteRssForm`): `Título *`, `URL do RSS *`, `Status *` (`Ligada`/`Desligada`), `Quantidade de notícias por vez *`, `Publicar direto no site`. Sem categoria/subcategoria (saíram do formulário, `FonteRssForm.tsx:146-153`). O feed é conferido sozinho ao digitar a URL (`verificarFeed`), sem botão.
 - APIs: `noticias.fontesRss.verificarFeed|criar` (:110,161). Salvou → `/painel/noticias/fontes-rss` (:164).
 - estados: erro `formatApiError` (:180); se a verificação falha mas o erro é só do feed, não bloqueia (:180 `soDoFeed`).
 - admin vs cliente: sem equivalente.
 
 ## o que você vê
 Tela para adicionar um site de onde o portal vai puxar notícias automaticamente.
-- catálogo (ex.: Portal G1): lista de fontes prontas; busque por editoria, estado ou região e clique para preencher. "já cadastrada" indica que o portal já tem essa.
-- Título *: nome da fonte.
-- URL do RSS *: o endereço do feed de notícias do site.
-- Quantidade de notícias por vez *: quantas notícias novas são trazidas em cada busca.
-- Status *: ligada ou desligada; desligada, a fonte não importa nada.
-- categoria e subcategoria: onde as notícias trazidas serão colocadas.
-- verificar: testa se o endereço funciona antes de salvar.
+- catálogo (ex.: Portal G1): lista de fontes prontas; busque em `Buscar por editoria, estado ou região...` e clique para preencher. "já cadastrada" indica que o portal já tem essa.
+- `Título *`: nome da fonte.
+- `URL do RSS *`: o endereço do feed de notícias do site. O painel confere o endereço sozinho (não há botão de verificar): mostra o nome do canal encontrado ou o motivo do erro; se não der para conferir, dá para salvar mesmo assim.
+- `Status *`: `Ligada` ou `Desligada`; desligada, a fonte não importa nada.
+- `Quantidade de notícias por vez *`: quantas notícias novas são trazidas em cada busca.
+- `Publicar direto no site`: ligado, as notícias importadas vão ao ar sozinhas; desligado, entram como rascunho para você revisar.
+- Não há escolha de categoria nem subcategoria nesta tela. As notícias entram no portal às 7h e às 19h.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-noticias-fontes-rss-cadastrar.png](../prints/painel-noticias-fontes-rss-cadastrar.png) · dados brutos: [json](../prints/json/painel-noticias-fontes-rss-cadastrar.json)

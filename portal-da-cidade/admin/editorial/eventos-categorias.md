@@ -2,51 +2,45 @@
 id: admin-eventos-categorias
 titulo: "criar categorias de eventos"
 publico:
-  - admin
-modulo: eventos
-categoria: admin
-aba: nao-se-aplica
-tipo_problema:
-  - categoria de evento
-  - tipo de evento
-  - show feira festival
+  - administrador do portal
+modulo: Agenda de Eventos
+categoria: conteúdo
+aba: Categorias
+tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
+videos:
+  - Hyh3UxHW_jU
 ---
 
 ## objetivo
-aqui você cria os tipos de evento, como Show, Feira ou Festival, usados para organizar a agenda.
+Criar os tipos usados para organizar os eventos, como Show, Feira ou Festival.
 
-## pré-requisitos
-
-- Ter acesso de administrador ao painel.
+## pré-requisitos/permissões
+Acesso de administrador ao módulo de eventos.
 
 ## passos
 
-1. No menu da esquerda, clique em `Guia Turístico / Eventos` e depois em `Eventos`. [guia=menu:/painel/turismo/eventos]
-2. No topo da página, clique na aba `Categorias`. [guia=fora]
-3. Clique em `+ Nova Categoria`. [guia=fora]
-4. Escreva o `Nome *` e, se quiser, escolha o `Ícone` e a `Cor`. [guia=fora]
-5. Clique em `Salvar`. [guia=fora]
+1. No menu lateral, dentro de `Guia Turístico / Eventos`, clique em `Eventos`. [t=48] [guia=menu:/painel/turismo/eventos]
+2. Clique na aba `Categorias`. [t=53] [guia=eventos.aba-categorias]
+3. Clique em `+ Nova Categoria`. [guia=eventos-categorias.nova]
+4. Preencha `Nome *`. [guia=eventos-categorias.nome]
+5. Se quiser, escolha o `Ícone`. [guia=eventos-categorias.icone]
+6. Se quiser outra cor, escolha uma opção em `Cor`. [guia=eventos-categorias.cor]
+7. Confira a opção `Ativa`. [guia=eventos-categorias.ativa]
+8. Clique em `Salvar`. [guia=eventos-categorias.salvar]
 
 ## resultado
-a categoria entra na lista como `Ativa`.
+A categoria aparece na lista. Se mantiver a opção inicial `Ativa`, a situação será `Ativa`; se desmarcar, será `Inativa`. A mensagem de sucesso é `Categoria salva`.
 
 ## desvios
-
-- Desmarcar `Ativa` esconde a categoria na hora de escolher.
-- Excluir uma categoria deixa os eventos dela sem categoria.
-
-## quando pedir ajuda
-
-peça ajuda se o salvamento der erro.
+As categorias de eventos são separadas das categorias dos pontos turísticos. A confirmação de exclusão avisa que os eventos vinculados ficarão sem categoria.
 
 ## fontes
-
-- `portal-cidade/frontend/src/components/painel/AbasEventos.tsx` — abas Eventos, Categorias, Organizadores.
-- `portal-cidade/frontend/src/app/painel/turismo/eventos/categorias/page.tsx` — campos, botões e confirmação.
+- Código b2f62d3f: `frontend/src/components/painel/AbasEventos.tsx:11` e `:49` — aba.
+- `frontend/src/app/painel/turismo/eventos/categorias/page.tsx:32` — estado inicial; `:45` — salvar; `:66` — formulário; `:164` — exclusão.
+- `videos/legendas/Hyh3UxHW_jU.srt` — só acesso à agenda e apresentação das abas entre 48 e 55 segundos.
 
 ## lacunas
-
-tela não validada no navegador nesta tarefa.
+Sem navegador. O vídeo não demonstra o formulário de criação de categoria; não há tempo atribuído a esses passos.

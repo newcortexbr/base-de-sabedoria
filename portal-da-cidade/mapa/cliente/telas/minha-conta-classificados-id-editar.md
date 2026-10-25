@@ -12,7 +12,7 @@ Arquivos: `classificados/[id]/editar/page.tsx`, `classificados/AnuncioForm.tsx`
 - edita anúncio e fotos. Reprovado: "Corrigir e reenviar" da lista vem para cá (`classificados/page.tsx:324`).
 
 ## ações e campos
-- os mesmos de `minha-conta-classificados-novo.md`; título "Editar anúncio" (`AnuncioForm.tsx:380`); foto não é obrigatória em edição (`:312`).
+- os mesmos de `minha-conta-classificados-novo.md`; título "Editar anúncio" (`AnuncioForm.tsx:380`); o botão de enviar vira `Salvar alterações` (ao lado de `Cancelar`) e a janela final diz "Seu anúncio foi salvo com sucesso."; foto não é obrigatória em edição (`:312`).
 - apagar foto: `DELETE …/classificados/{id}/fotos/{fotoId}/` (`cliente-api.ts:2414`).
 
 ## APIs
@@ -51,5 +51,6 @@ Arquivos: `classificados/[id]/editar/page.tsx`, `classificados/AnuncioForm.tsx`
 ## o que você vê
 Formulário para mudar um anúncio de classificados que já existe, inclusive as fotos.
 - Editar anúncio: os mesmos campos da criação (título, descrição, categoria, preço, contatos).
-- Fotos: dá para apagar ou adicionar; na edição a foto não é obrigatória.
+- Fotos: dá para apagar (`Apagar foto`) ou adicionar (`Adicionar`); na edição a foto não é obrigatória, mas sem foto o anúncio não aparece no site.
+- Salvar alterações: grava e volta para a lista.
 - Se o anúncio foi reprovado, você chega aqui pelo botão "Corrigir e reenviar" da lista.

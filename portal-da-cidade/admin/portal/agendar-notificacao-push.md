@@ -8,14 +8,15 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - -ZLL7Cqwcok
 ---
 
 ## objetivo
-aqui você escreve um aviso e marca o dia e a hora para ele ser enviado. Quem aceitou receber avisos recebe na hora marcada.
+
+Agende um aviso para os inscritos do portal.
 
 ## pré-requisitos
 
@@ -23,33 +24,34 @@ aqui você escreve um aviso e marca o dia e a hora para ele ser enviado. Quem ac
 
 ## passos
 
-1. No menu da esquerda, na parte `Sistema`, clique em `Notificações Push`. [guia=menu:/painel/notificacoes]
-2. No quadro `Nova notificação`, escreva o `Título` (até 50 letras). [guia=notificacoes.titulo]
-3. Escreva a `Mensagem` (até 120 letras). [guia=notificacoes.mensagem]
-4. Escreva o `Link`, que é o endereço completo da página que vai abrir (começa com `https://` ou `http://`). Ao lado, a prévia mostra como o aviso vai aparecer no celular. [guia=notificacoes.link]
-5. Em `Quando`, escolha `Agendar`. [guia=notificacoes.quando]
-6. Informe a `Data`. [guia=notificacoes.data]
-7. Informe também a `Hora`. [guia=notificacoes.hora]
-8. Clique no botão `Agendar para…`, que mostra quantas pessoas vão receber. [guia=notificacoes.enviar]
-9. Confirme na janela que aparece. Depois de enviado, o aviso não pode ser desfeito. [guia=notificacoes.enviar]
+1. Na parte `Sistema` do menu da esquerda, clique em `Notificações Push`. [t=9] [guia=menu:/painel/notificacoes]
+2. No quadro `Nova notificação`, preencha `Título` (até 50 caracteres). [t=54] [guia=notificacoes.titulo]
+3. Preencha `Mensagem` (até 120 caracteres). [t=57] [guia=notificacoes.mensagem]
+4. Preencha `Link` com o endereço completo da página que deve abrir, começando com `https://` ou `http://`. [t=60] [guia=notificacoes.link]
+5. Em `Quando`, escolha `Agendar`. [t=75] [guia=notificacoes.quando]
+6. Preencha `Data` com um dia futuro. [t=75] [guia=notificacoes.data]
+7. Preencha `Hora` com um horário futuro. [t=77] [guia=notificacoes.hora]
+8. Clique em `Agendar para…`, com a quantidade de destinatários. [t=82] [guia=notificacoes.enviar]
+9. Na confirmação, clique em `Agendar`. [guia=confirmacao.confirmar]
 
 ## resultado
-O aviso aparece no `Histórico` como agendado e sai na data e hora escolhidas.
+
+A notificação fica agendada no `Histórico`.
 
 ## desvios
 
-- Se aparecer o aviso de que o envio não está disponível, o botão de enviar fica apagado e não funciona.
-- Notificação enviada não volta.
-
-## quando pedir ajuda
-
-peça ajuda se a página não carregar, se o salvamento der erro ou se a opção esperada não aparecer.
+- O agendamento exige data e hora posteriores ao momento atual.
+- O envio depende da disponibilidade indicada na tela e do processamento do servidor. Não há prazo de entrega garantido.
+- Uma notificação já enviada não pode ser desfeita.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/notificacoes/page.tsx`
-- `suporte-kb/mapa/admin/telas/painel-notificacoes.md`
+- `frontend/src/app/painel/notificacoes/page.tsx:182`
+- `frontend/src/app/painel/notificacoes/page.tsx:210`
+- `frontend/src/components/painel/ModalAvisoConfirmacao.tsx:173`
+
+- Catálogo: `portal-da-cidade/videos.json`; legendas: `videos/legendas/-ZLL7Cqwcok.srt`.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os textos dos botões podem mudar.
+- Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.

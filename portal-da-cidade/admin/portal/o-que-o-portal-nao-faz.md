@@ -18,36 +18,41 @@ tipo_problema:
   - enviar sms
   - aplicativo do portal
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 ---
 
 ## objetivo
-aqui estão as funções que o painel não tem hoje, com o que existe no lugar quando há.
 
-## o que não tem
+Entenda limites confirmados do painel e como pedir uma função que falta.
 
-- Enquete: não existe. Foi retirada do portal em setembro de 2026.
-- Newsletter: não existe. Também foi retirada; não há lista de assinantes.
-- Google AdSense: não existe campo para isso. Para vender espaço, use `Banners Publicitários`.
-- Avaliação com nota feita pelos leitores: não existe. Nos planos pagos do Guia, a empresa mostra as avaliações do Google.
-- Bloco "Construção" no perfil de empresa: não existe. Foi retirado porque nunca teve tela. Os blocos de empresa são cardápio, delivery, serviços, equipe, quartos e catálogo.
-- Pagar a mensalidade do seu portal pelo painel: não existe tela para isso. Fale com a equipe que entregou o portal.
-- SMS: o portal não envia SMS. Os avisos saem por e-mail e por notificação push.
-- Aplicativo em loja (Play Store ou App Store): não existe. No celular, o site oferece ao visitante `Instalar`, que põe o portal na tela inicial como atalho.
+## pré-requisitos
 
-## quando pedir ajuda
+- Ter acesso de administrador ao painel do portal.
 
-para pedir uma função nova, use `Sugestões de Funções`, no rodapé do menu da esquerda.
+## passos
+
+1. No rodapé do menu da esquerda, clique em `Sugestões de Funções`. [guia=menu:/painel/sugestoes]
+2. Explique o recurso desejado em `Descrição`, no formulário de sugestão. [guia=sugestoes.descricao]
+
+## resultado
+
+O pedido pode ser detalhado pelo artigo “pedir uma função nova (Sugestões de Funções)”, que orienta todos os campos e o envio.
+
+## limites conferidos
+
+- O campo antigo de Google AdSense foi retirado do estado do modelo. Para publicidade, existe `Banners Publicitários` no menu.
+- O botão `Esqueceu a senha?` do painel não inicia recuperação; veja “esqueci a senha do painel”.
+- Não confunda um módulo desligado com uma função inexistente. Para tirar Sorteios do ar, existem rascunho e desligamento do módulo; veja os artigos específicos.
 
 ## fontes
 
-- `portal-cidade/docs/PRODUCT.md:63-70,92-93,107-108` — Enquetes, Newsletter, AdSense e bloco "Construção" removidos.
-- `portal-cidade/backend/portais/migrations/0040_remover_assinante_e_google_adsense.py`.
-- `portal-cidade/backend/portais/views_assinatura.py` — rota de assinatura só leitura e sem cobrança; nenhuma tela do painel chama essa rota (busca por `assinatura/` em `frontend/src`).
-- `portal-cidade/frontend/src/components/convites/AvisoBaixarApp.tsx` — convite "Instalar".
-- `portal-cidade/frontend/src/components/painel/Sidebar.tsx:535-550` — "Sugestões de Funções".
+- `backend/portais/migrations/0040_remover_assinante_e_google_adsense.py:14`
+- `frontend/src/app/painel/login/page.tsx:304`
+- `frontend/src/app/painel/sugestoes/page.tsx:295`
 
 ## lacunas
 
-não verifiquei no navegador. O convite `Instalar` depende do navegador do visitante.
+- Não foi identificado vídeo específico desta tarefa no catálogo; nenhum tempo foi atribuído.
+- Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.
+- Não foi comprovada por esta auditoria a inexistência geral de SMS, aplicativo em lojas, avaliações de leitores ou cobrança da licença. O código local não prova serviços externos; não negar essas funções por suposição.

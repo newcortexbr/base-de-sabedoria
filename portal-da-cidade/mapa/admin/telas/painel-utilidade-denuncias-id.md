@@ -4,12 +4,14 @@ Arquivo: `app/painel/utilidade/denuncias/[id]/page.tsx`
 
 ## o que você vê
 Relato completo de um morador, para ler e mudar a situação.
-- categoria, data em que chegou e local (bairro, cidade e referência).
+- chega-se por `Ver detalhes` na lista de Denúncias (A Voz do Povo).
+- categoria (título), data em que chegou, "Local" (bairro, cidade) e "Referência do local".
 - quando aconteceu: data ou hora informada pelo morador.
 - Contato: nome e WhatsApp de quem enviou; o link abre a conversa.
 - O que foi relatado: texto escrito; Relato em áudio: gravação, quando houver.
-- fotos e Vídeo enviado: arquivos mandados junto.
-- Status: escolha Recebida, Em análise, Resolvida ou Arquivada; salva ao trocar.
+- "Foto enviada"/"Fotos enviadas" e "Vídeo enviado": arquivos mandados junto.
+- se o morador não se identificou, aparece o aviso de que a denúncia foi enviada sem identificação.
+- Status (lista de escolha no topo): Recebida, Em análise, Resolvida ou Arquivada; salva ao trocar.
 - o relato em si não pode ser editado.
 
 ## rota e gate

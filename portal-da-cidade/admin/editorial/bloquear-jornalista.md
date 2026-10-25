@@ -8,44 +8,40 @@ categoria: admin
 aba: Notícias
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - gAa2NdnitZU
 ---
 
 ## objetivo
-aqui você tira o acesso de um jornalista. As matérias já publicadas continuam no ar.
+
+Aqui você suspende o acesso de um jornalista sem apagar o cadastro nem as matérias existentes.
 
 ## pré-requisitos
 
-- Ter acesso administrativo ao portal.
-- Ter o e-mail da pessoa que vai escrever.
+- Entrar no painel como administrador.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Notícias` e depois em `Jornalistas`. [guia=menu:/painel/noticias/jornalistas]
-2. Para tirar o acesso, clique no cadeado (`Bloquear`) na linha do jornalista. [guia=jornalistas.bloquear]
-3. Confirme na janela do navegador. As matérias já publicadas continuam no ar. [guia=jornalistas.bloquear]
+1. Na seção `Conteúdo` do menu lateral, em `Notícias`, clique em `Jornalistas`. [t=109] [guia=menu:/painel/noticias/jornalistas]
+2. Na linha da pessoa, clique no cadeado `Bloquear`. [t=135] [guia=jornalistas.bloquear]
+3. Na confirmação dentro do portal, clique em `Bloquear`. [guia=confirmacao.confirmar]
 
 ## resultado
-O jornalista não consegue mais entrar.
+
+O acesso fica suspenso e a lista mostra `Bloqueado`. O cadastro e as matérias não são excluídos.
 
 ## desvios
 
-- Jornalista não entra no painel: o login dele é na área do cliente.
-- Quem esquecer a senha pode recuperar sozinho em `Esqueci minha senha`, na tela de entrada.
-- Para devolver o acesso, clique de novo no cadeado (`Desbloquear`).
-
-## quando pedir ajuda
-
-peça ajuda se o jornalista não receber o e-mail ou não conseguir entrar mesmo com a senha nova.
+Para devolver o acesso, veja “desbloquear um jornalista”. A tela não oferece exclusão de jornalista.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/noticias/jornalistas/page.tsx` — lista, cadastro, senha e bloqueio.
-- vídeo `gAa2NdnitZU` 01:32–02:35.
+- `frontend/src/app/painel/noticias/jornalistas/page.tsx:299` — confirmação e alteração de acesso.
+- `backend/noticias/api_admin.py:830` — edição sem DELETE e revogação de tokens ao bloquear.
+- Vídeo `gAa2NdnitZU`, legenda em 109s e 135s.
 
 ## lacunas
 
-não verificado visualmente; tempos tirados da legenda automática.
+Conferido por código; bloqueio em sessão real não executado.

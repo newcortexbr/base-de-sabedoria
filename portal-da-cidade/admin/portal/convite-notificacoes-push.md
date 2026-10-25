@@ -8,14 +8,15 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - -ZLL7Cqwcok
 ---
 
 ## objetivo
-aqui você escolhe se o site pergunta aos visitantes se eles querem receber avisos. A mudança vale na hora.
+
+Escolha se o site convida visitantes a receber avisos.
 
 ## pré-requisitos
 
@@ -23,26 +24,19 @@ aqui você escolhe se o site pergunta aos visitantes se eles querem receber avis
 
 ## passos
 
-1. No menu da esquerda, na parte `Sistema`, clique em `Notificações Push`. [guia=menu:/painel/notificacoes]
-2. Para o site perguntar aos visitantes se querem receber avisos, marque a opção `Convidar visitantes a receber notificações`. Não precisa salvar: muda na hora. O convite pode aparecer já na primeira página que o visitante abre, depois dos convites do aplicativo e do WhatsApp, e nunca nas áreas logadas (painel, minha conta). Se ele recusar, o convite volta depois de 5 dias. [guia=notificacoes.convidar]
+1. Na parte `Sistema` do menu da esquerda, clique em `Notificações Push`. [t=9] [guia=menu:/painel/notificacoes]
+2. Marque ou desmarque `Convidar visitantes a receber notificações`. [t=24] [guia=notificacoes.convidar]
 
 ## resultado
-O site passa a convidar (ou deixa de convidar) os visitantes. Não precisa salvar.
 
-## desvios
-
-- Se aparecer o aviso de que o envio não está disponível, o botão de enviar fica apagado e não funciona.
-- Notificação enviada não volta.
-
-## quando pedir ajuda
-
-peça ajuda se a página não carregar, se o salvamento der erro ou se a opção esperada não aparecer.
+A chave é salva ao ser alterada. Para mudar a frase do convite, veja “mudar o texto do convite de notificações push”.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/notificacoes/page.tsx`
-- `suporte-kb/mapa/admin/telas/painel-notificacoes.md`
+- `frontend/src/app/painel/notificacoes/page.tsx:301`
+
+- Catálogo: `portal-da-cidade/videos.json`; legendas: `videos/legendas/-ZLL7Cqwcok.srt`.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os textos dos botões podem mudar.
+- Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.

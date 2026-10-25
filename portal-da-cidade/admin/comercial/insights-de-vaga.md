@@ -12,38 +12,46 @@ tipo_problema:
   - quantas pessoas viram
   - quando a vaga expira
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
+videos:
+  - ufB3QTKfPsM
 ---
 
 ## objetivo
-aqui você vê os números de uma vaga: visualizações, há quantos dias está no ar e quando expira.
+
+Aqui você vê as visualizações registradas para uma vaga, a média por dia e os dados de publicação e expiração. Visualizações não significam pessoas únicas.
 
 ## pré-requisitos
 
-- Ter acesso de administrador ao painel.
+- Ter acesso de administrador ao painel do portal.
 
 ## passos
 
-1. No menu da esquerda, clique em `Vagas de Emprego` e depois em `Listar Vagas`. [guia=menu:/painel/vagas]
-2. Na linha da vaga, clique em `Insights`. [guia=fora]
+1. Na parte `Conteúdo` do menu, em `Vagas de Emprego`, clique em `Listar Vagas`. [t=18] [guia=menu:/painel/vagas]
+2. Digite o cargo ou a empresa em `Buscar por cargo ou empresa...`. [t=34] [guia=vagas.busca]
+3. Clique em `Filtrar`. [t=36] [guia=vagas.filtrar]
+4. Clique em `Insights` na linha da vaga. [t=42] [guia=vagas.insights]
 
 ## resultado
-a tela mostra as visualizações totais, a média por dia, os dias no ar, a data de publicação, os dias restantes e a data em que a vaga sai do ar sozinha.
+
+A tela mostra `Visualizações totais`, `Média por dia`, `Dias restantes` e a `Linha do tempo`. Sem prazo, mostra `Sem prazo definido`.
 
 ## desvios
 
-- Para mudar a vaga, clique em `Editar vaga` nessa mesma tela.
+- Se aparecer `Vaga não encontrada. Ela pode ter sido excluída.`, volte à lista e confirme qual vaga abriu.
 
 ## quando pedir ajuda
 
-peça ajuda se os números não carregarem.
+Peça ajuda se a tela não carregar ou se a ação mostrar erro. Informe a mensagem e a ação tentada, sem enviar senha.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/vagas/page.tsx:257` — link "Insights".
-- `suporte-kb/mapa/admin/telas/painel-vagas-id-insights.md` — campos da tela.
+- Código do portal no HEAD `b2f62d3f`; base revisada a partir de `814f097`.
+- `frontend/src/app/painel/vagas/page.tsx:263`.
+- `frontend/src/app/painel/vagas/[id]/insights/page.tsx:121`.
+- Vídeo `ufB3QTKfPsM`: catálogo `portal-da-cidade/videos.json`, transcrição `videos/conteudo/ufB3QTKfPsM.md` e legenda `videos/legendas/ufB3QTKfPsM.srt`.
 
 ## lacunas
 
-tela não validada no navegador nesta tarefa.
+Não houve validação no navegador nem execução do produto. As regras e os rótulos descritos foram conferidos por leitura do código. Tempos indicam o trecho da transcrição/legenda, não uma reprodução validada da interface atual.

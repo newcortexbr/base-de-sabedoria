@@ -8,48 +8,44 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: pagamento
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - lwaG-T87hJI
 ---
 
 ## objetivo
-aqui você escolhe o número de WhatsApp que recebe os comprovantes de pagamento.
+
+Aqui você troca o WhatsApp que recebe os comprovantes de pagamento Pix. Esse campo é separado do WhatsApp de contato do portal.
 
 ## pré-requisitos
 
 - Ter acesso administrativo ao portal.
-- Ter um aplicativo autenticador no celular, como o Google Authenticator.
-- Sem o Asaas conectado, ou com `Cobrar pelo Asaas` desligado, o quadro `Recebimento por Pix` fica `✓ Em uso`. Para receber pelo Asaas, veja o artigo "conectar a conta Asaas e entender a cobrança".
 
 ## passos
 
-1. No menu da esquerda do painel, na parte `Sistema`, clique em `Configurações` e depois em `Cobrança`. [guia=menu:/painel/configuracoes/cobranca]
-2. Desça até o quadro `Recebimento por Pix`. [guia=pix.quadro]
-3. Em `WhatsApp que recebe os comprovantes`, escreva o número que vai receber os comprovantes. [guia=pix.whatsapp]
-4. Clique em `Salvar WhatsApp`. Deve aparecer `✓ WhatsApp salvo.` [guia=pix.salvar-whatsapp]
+1. No menu da esquerda, na parte `Sistema`, abra `Configurações`. [t=11] [guia=sidebar.grupo-configuracoes]
+2. Clique em `Cobrança`. [t=14] [guia=menu:/painel/configuracoes/cobranca]
+3. No quadro `Recebimento por Pix`, preencha `WhatsApp que recebe os comprovantes`. [t=210] [guia=pix.whatsapp]
+4. Clique em `Salvar WhatsApp`. [t=212] [guia=pix.salvar-whatsapp]
 
 ## resultado
-O número fica salvo e aparece `✓ WhatsApp salvo.`
+
+O número é salvo quando a operação funciona, e o resultado aparece abaixo do campo.
 
 ## desvios
 
-- Para dar baixa quando o comprovante chegar, use `Já recebi` na fatura do `Financeiro` (veja o artigo de faturas e pagamentos).
-- Perdeu o celular: na janela `Trocar a chave Pix`, clique em `Usar um código de reserva` e digite um dos códigos guardados.
-- Sem celular e sem código de reserva, só a plataforma (Master) zera o autenticador.
-- O WhatsApp dos comprovantes é um campo próprio: não é o WhatsApp de contato do portal.
+Este campo não pede código do autenticador: a proteção é da chave Pix e das instruções. `Salvar WhatsApp` fica desabilitado se nada mudou ou se o número é inválido. Para registrar o pagamento depois de receber e conferir o dinheiro, veja `marcar-fatura-como-recebida.md`.
 
 ## quando pedir ajuda
 
-peça ajuda se perdeu o celular e os códigos de reserva, ou se a chave não for trocada mesmo com o código certo.
+Peça ajuda se a tela mostrar erro ou se o resultado não corresponder ao que você salvou. Não envie senhas, chaves ou comprovantes ao assistente.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/configuracoes/cobranca/CartaoPix.tsx:49-135` — quadro `Recebimento por Pix`.
-- `portal-cidade/frontend/src/app/painel/configuracoes/cobranca/ModaisAutenticador.tsx` — janelas do autenticador e de troca da chave.
-- vídeo `lwaG-T87hJI` 02:35–03:35.
+- `portal-cidade/frontend/src/app/painel/configuracoes/cobranca/CartaoPix.tsx:93`
+- `portal-cidade/frontend/src/app/painel/configuracoes/cobranca/CartaoPix.tsx:108`
 
 ## lacunas
 
-não verificado visualmente; tempos tirados da legenda automática.
+Conferência documental com o código em b2f62d3f e as transcrições/legendas do catálogo. Sem validação no navegador, execução financeira ou teste de integração nesta auditoria. Tempos indicam trechos da legenda; passos sem tempo não foram localizados no vídeo.

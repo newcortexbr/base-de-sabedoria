@@ -2,12 +2,15 @@
 
 Arquivos: `app/painel/configuracoes/page.tsx` (910 linhas), `PixelsCard.tsx`, `layout/actions.ts` (`revalidarLayout`)
 
+## como chegar
+- na parte Sistema do menu, abra `Configurações` e clique em `Configurações Gerais`.
+
 ## rota e gate
 - `/painel/configuracoes`. client. gate `PainelGuard` (admin/master); sem gate de módulo (Configurações não pertencem a módulo, `lib/painel-menu.ts`). menu: "Configurações Gerais" (`components/painel/Sidebar.tsx:247`).
 
 ## o que faz
-- cartões independentes, cada um com o seu botão Salvar e mensagem "Salvo!" por 2 s (`:99-290`).
-- Identidade: nome do portal (`saveNome`, `:99`), logo (enviar/trocar/remover, `confirm('Remover a logo do portal?')`), favicon (idem).
+- cartões independentes, cada um com o seu botão de salvar e aviso "Salvo com sucesso" (`avisos.sucesso`, `:99-290`).
+- Identidade: nome do portal (`saveNome`, `:99`), logo (`Enviar logo`/`Trocar logo`/`Remover`; remover pede confirmação "Remover a logo do portal?"), favicon (`Enviar favicon`/`Trocar favicon`/`Remover`, idem).
 - Cidades do Portal (`:511`): só lista. campo e botão "Adicionar" ficam desabilitados de propósito; texto manda falar com o time comercial, com link wa.me (`NUMERO_SUPORTE_PLATAFORMA`). remover cidade também é pela plataforma.
 - Redes sociais (`saveSocial`, `:157`): WhatsApp (DDD+número, `maxLength 20`, validado por `motivoTelefoneInvalido`), Instagram, Facebook, YouTube, TikTok.
 - Fale Conosco (`saveContato`, `:189`): e-mail de contato (`email_resposta`), telefone (validação comercial), título (120), texto (300).
@@ -24,7 +27,7 @@ Arquivos: `app/painel/configuracoes/page.tsx` (910 linhas), `PixelsCard.tsx`, `l
 
 ## estados
 - carregando; falha de carga: mensagem em rosa no lugar dos cartões (`:353`) e as telas de edição não aparecem, o que evita gravar vazio sobre dados reais (`:49-54`).
-- erros de cada cartão aparecem como texto de feedback (mensagem do servidor via `formatApiError`); sucesso é o conjunto fechado "Salvo!", "Logo atualizada!" etc. (`:292`).
+- erros de cada cartão aparecem como texto de feedback (mensagem do servidor via `formatApiError`); sucesso é o conjunto fechado "Salvo com sucesso", "Logo atualizada", "Favicon atualizado", "Pixel salvo" etc. (`avisos.sucesso`).
 - cidades vazias: "Nenhuma cidade cadastrada ainda." (`:526`).
 
 ## possíveis problemas
@@ -75,10 +78,10 @@ Arquivos: `app/painel/configuracoes/page.tsx` (910 linhas), `PixelsCard.tsx`, `l
 
 ## o que você vê
 Dados básicos do portal: nome, logo, cidades, redes sociais, contato, aviso do app, grupo de WhatsApp e pixels. Cada cartão tem o seu botão de salvar.
-- Identidade: Nome do portal, Logo do portal e Favicon (o ícone pequeno que aparece na aba do navegador).
-- Cidades do Portal: cidades que aparecem como filtro no Guia Comercial. Aqui só dá para ver; para incluir ou tirar cidade, fale com o time comercial pelo link indicado.
-- Redes Sociais: WhatsApp (com DDD), Instagram, Facebook, YouTube e TikTok do portal, mostrados no site. Botão "Salvar Redes Sociais".
-- Página Fale Conosco: o que o visitante vê na página de contato. "E-mail de contato" também recebe as respostas dos e-mails que o portal manda aos clientes. Só aparece o que estiver preenchido.
-- Aplicativo do portal: "Mostrar o aviso Baixar app" liga ou desliga, na hora, o convite para instalar o app. Só aparece no celular, só no site, e quem tocar "Não quero" vê de novo em 30 dias. O ícone do app é a logo e o nome é o nome do portal.
-- Grupo de WhatsApp: "Exibir o convite no site" mostra o convite para o grupo ou canal; só funciona com um link do WhatsApp preenchido.
-- Pixels de rastreamento: cole o código que a plataforma de anúncios ou estatísticas entregou e clique em "Identificar pixel"; a tela mostra o que reconheceu ("Identificamos:") e você confirma em Salvar. Só o número do pixel é guardado. "Remover" apaga um pixel salvo.
+- cartão `Identidade`: `Nome do portal` (botão `Salvar`), `Logo do portal` (`Enviar logo`/`Trocar logo` e `Remover`) e `Favicon` (o ícone pequeno que aparece na aba do navegador; `Enviar favicon`/`Trocar favicon` e `Remover`).
+- cartão `Cidades do Portal`: cidades que aparecem como filtros no Guia Comercial. Aqui só dá para ver (o campo e o botão `Adicionar` ficam desligados); para incluir ou tirar cidade, use o botão `Chamar no WhatsApp` para falar com o time comercial.
+- cartão `Redes Sociais`: `WhatsApp` (com DDD), `Instagram`, `Facebook`, `YouTube` e `TikTok` do portal, mostrados no site. Botão `Salvar Redes Sociais`.
+- cartão `Página Fale Conosco`: o que o visitante vê na página de contato: `E-mail de contato`, `Telefone`, `Título da página` e `Texto da página`. O e-mail de contato também recebe as respostas dos e-mails que o portal manda aos clientes. Só aparece o que estiver preenchido. Botão `Salvar Fale Conosco`.
+- cartão `Aplicativo do portal`: caixa `Mostrar o aviso "Baixar app"` liga ou desliga, na hora, o convite para instalar o app. Só aparece no celular, só no site, e quem tocar "Não quero" vê de novo em 30 dias. O ícone do app é a logo e o nome é o nome do portal.
+- cartão `Grupo de WhatsApp`: caixa `Exibir o convite no site` mostra o convite para o grupo ou canal; só funciona com o `Link do grupo ou canal` preenchido. Botão `Salvar grupo de WhatsApp`.
+- cartão `Pixels de rastreamento`: cole o código que a plataforma de anúncios ou estatísticas entregou e clique em `Identificar pixel`; a tela mostra o que reconheceu ("Identificamos:") e você confirma em `Salvar`. Só o número do pixel é guardado. `Remover` apaga um pixel salvo (pede confirmação).

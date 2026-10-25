@@ -8,14 +8,15 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - BqIfSq7bVXM
 ---
 
 ## objetivo
-aqui você apaga um banner de vez.
+
+Aqui você apaga o cadastro de um banner. Para apenas tirá-lo do ar e guardar os dados, use “ativar ou desativar um banner publicitário”.
 
 ## pré-requisitos
 
@@ -23,28 +24,28 @@ aqui você apaga um banner de vez.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Banners Publicitários`. [guia=menu:/painel/guia/banners]
-2. No topo da lista, escreva o título na busca ou escolha `Página`, `Formato` ou `Situação` para achar um banner. [guia=guia-banners.filtros]
-3. Para apagar, clique em `Excluir` na linha dele. [guia=guia-banners.excluir]
-4. Confirme na janela que o navegador abre. [guia=guia-banners.excluir]
+1. Na parte `Conteúdo` do menu, clique em `Banners Publicitários`. [t=10] [guia=menu:/painel/guia/banners]
+2. Digite o título do banner em `Buscar por título…`. [t=19] [guia=guia-banners.busca]
+3. Clique em `Excluir` na linha do banner. [t=40] [guia=guia-banners.excluir]
+4. Na janela `Confirmar ação`, clique em `Excluir` para confirmar a exclusão. [guia=confirmacao.confirmar]
 
 ## resultado
-O banner some da lista.
 
-## desvios
-
-- Algumas posições dependem de módulos ligados.
-- Se o campo de categoria vier vazio, recarregue a página.
+O banner é removido da lista; o painel mostra `Banner excluído`.
 
 ## quando pedir ajuda
 
-peça ajuda se a página não carregar, se o salvamento der erro ou se a opção esperada não aparecer.
+Peça ajuda se a tela não carregar ou se a ação mostrar erro. Informe a mensagem e a ação tentada, sem enviar senha.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/guia/banners/`
-- `suporte-kb/mapa/admin/telas/painel-guia-banners.md`, `painel-guia-banners-cadastrar.md`
+- Código do portal no HEAD `b2f62d3f`; base revisada a partir de `814f097`.
+- `frontend/src/app/painel/guia/banners/page.tsx:146`.
+- `frontend/src/components/painel/ModalAvisoConfirmacao.tsx:153`.
+- Vídeo `BqIfSq7bVXM`: catálogo `portal-da-cidade/videos.json`, transcrição `videos/conteudo/BqIfSq7bVXM.md` e legenda `videos/legendas/BqIfSq7bVXM.srt`.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os textos dos botões podem mudar.
+Não houve validação no navegador nem execução do produto. As regras e os rótulos descritos foram conferidos por leitura do código. Tempos indicam o trecho da transcrição/legenda, não uma reprodução validada da interface atual.
+
+O vídeo cita Excluir, mas não demonstra a janela de confirmação. Não há tempo atribuído ao que não foi demonstrado.

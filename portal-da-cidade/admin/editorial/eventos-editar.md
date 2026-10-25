@@ -8,42 +8,40 @@ categoria: conteúdo
 aba: Eventos
 tipo_problema: publicação
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - Hyh3UxHW_jU
 ---
 
 ## objetivo
-aqui você muda um evento que já foi cadastrado e salva.
+Alterar o título, as datas, o local ou a descrição de um evento existente.
 
 ## pré-requisitos/permissões
-Entrar no painel como administrador, com o módulo de eventos ativo no portal.
+Acesso de administrador ao módulo de eventos.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Turístico / Eventos` e depois em `Eventos`. [guia=menu:/painel/turismo/eventos]
-2. Para mudar um evento que já existe, clique em `Editar` na linha do evento que você quer. [guia=eventos.editar]
-3. Faça as mudanças, role até o fim e clique em `Salvar`. [guia=eventos.salvar]
+1. No menu lateral, dentro de `Guia Turístico / Eventos`, clique em `Eventos`. [t=48] [guia=menu:/painel/turismo/eventos]
+2. Clique em `Editar` na linha do evento. [guia=eventos.editar]
+3. Altere `Título *`, se necessário. [guia=eventos.titulo]
+4. Altere `Data *`, se necessário. [guia=eventos.data]
+5. Altere `Data de término (opcional)`, se necessário. [guia=eventos.data-fim]
+6. Altere `Horário`, se necessário. [guia=eventos.horario]
+7. Altere `Local`, se necessário. [guia=eventos.local]
+8. Altere `Descrição`, se necessário. [guia=eventos.descricao]
+9. Clique em `Salvar`. [guia=eventos.salvar]
 
 ## resultado
-O evento fica com as mudanças.
+As alterações são enviadas ao servidor e o formulário fecha após o salvamento.
 
 ## desvios
-- Ativo não significa necessariamente no ar: a data pode ter encerrado a vigência.
-- Inativo é diferente de encerrado.
-- Falha de upload: confirme que o evento foi salvo e que está editando o registro certo; não reenvie repetidamente.
-- Agenda de Eventos e Turismo são ligáveis separadamente.
-
-## quando pedir ajuda
-peça ajuda se status e datas parecerem contraditórios, se a galeria não abrir após salvar ou se evento ativo e vigente não aparecer ao público.
+Os demais campos estão descritos em [cadastrar um evento](eventos.md). Na edição, a galeria salva cada inclusão ou remoção diretamente, separada do botão `Salvar` do evento. A página antiga de fotos só redireciona para a lista; use a galeria dentro de `Editar Evento`.
 
 ## fontes
-- `portal-cidade/frontend/src/app/painel/turismo/eventos/page.tsx:41` — estado derivado da data e campo ativo.
-- `portal-cidade/frontend/src/app/painel/turismo/eventos/page.tsx:110` — galeria na criação e edição.
-- `docs/PRODUCT.md:41` — módulos Turismo e eventos separados.
-- `docs/PRODUCT.md:42` — recursos e ressalva de QA de navegador.
+- Código b2f62d3f: `frontend/src/app/painel/turismo/eventos/page.tsx:163` — carregar edição; `:598` — galeria; `:803` — salvar; `:921` — editar.
+- `frontend/src/app/painel/turismo/GaleriaDoRegistro.tsx` — operações diretas da galeria.
+- `videos/legendas/Hyh3UxHW_jU.srt` — menu administrativo em 48 segundos; o vídeo descreve criação, não edição.
 
 ## lacunas
-A Epic de eventos não teve QA de navegador conforme `PRODUCT.md`; este conteúdo não declara validação visual. O rótulo exato das ações do formulário pode variar conforme estado.
-- revisão 2026-10-19: a galeria do evento agora fica dentro do formulário de edição; `/painel/turismo/eventos/[id]/fotos` só redireciona para a lista. Em evento novo, a galeria pode ser preenchida antes de salvar (envio ocorre após salvar).
+Sem execução no navegador. Não foram atribuídos tempos de criação aos passos de edição.

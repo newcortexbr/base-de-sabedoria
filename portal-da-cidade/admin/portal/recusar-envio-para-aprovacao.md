@@ -8,14 +8,15 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - JYDoZB_vyX8
 ---
 
 ## objetivo
-aqui você recusa o que um cliente enviou para o portal e explica o motivo. O cliente recebe o motivo para corrigir e reenviar.
+
+Recuse um envio e informe o motivo.
 
 ## pré-requisitos
 
@@ -23,29 +24,23 @@ aqui você recusa o que um cliente enviou para o portal e explica o motivo. O cl
 
 ## passos
 
-1. No menu da esquerda, logo no começo, clique em `Aprovações e Denúncias`. [guia=menu:/painel/aprovacoes]
-2. Na aba `Aprovações`, clique em `Ver detalhe` na linha do envio que você quer conferir. [guia=aprovacoes.ver-detalhe]
-3. Para não publicar, clique em `Recusar`. [guia=aprovacoes.recusar]
-4. Escreva o motivo da recusa (é obrigatório). O cliente recebe o motivo para corrigir e reenviar. [guia=aprovacoes.motivo]
+1. No começo do menu da esquerda, clique em `Aprovações e Denúncias`. [guia=menu:/painel/aprovacoes]
+2. Clique na aba `Aprovações`. [t=54] [guia=aprovacoes-aba:aprovacoes]
+3. Na linha do envio, clique em `Recusar`. [t=69] [guia=aprovacoes.recusar]
+4. Escreva o motivo da recusa no campo de texto. [guia=aprovacoes.motivo]
 5. Clique em `Confirmar recusa`. [guia=aprovacoes.confirmar-recusa]
 
 ## resultado
-O envio não vai ao ar e o cliente recebe o motivo.
 
-## desvios
-
-- Com a fila desligada, os envios dos clientes não passam por você.
-- `A Voz do Povo` é outra coisa: são relatos de moradores, em outra tela.
-
-## quando pedir ajuda
-
-peça ajuda se a página não carregar, se o salvamento der erro ou se a opção esperada não aparecer.
+O envio é recusado com o motivo informado.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/aprovacoes/`: `AprovacoesEDenuncias.tsx`, `ConfigDaFila.tsx`
-- `suporte-kb/mapa/admin/telas/painel-aprovacoes.md`
+- `frontend/src/app/painel/aprovacoes/AprovacoesClient.tsx:255`
+- `frontend/src/app/painel/aprovacoes/AprovacoesClient.tsx:432`
+
+- Catálogo: `portal-da-cidade/videos.json`; legendas: `videos/legendas/JYDoZB_vyX8.srt`.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os textos dos botões podem mudar.
+- Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.

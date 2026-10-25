@@ -1,8 +1,10 @@
 # /painel/guia/empresas/[id]/servicos — serviços (`.../[id]/servicos/page.tsx`)
 - gate: módulo `guia` (prefixo `/painel/guia`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
+- título `Serviços oferecidos`.
+- chegar: `Guia Comercial` > `Listar Empresas` > ícone de editar na linha da empresa > bloco `Conteúdo da ficha` > botão `Gerenciar` do cartão `Serviços`. Não há botão disso na lista de empresas.
 - faz: tabela de serviços e valores por seção.
-- campos: Nome (obrigatório, :69), Descrição, Detalhe (opcional), Duração (opcional), Valor (R$), ícone, ativo.
+- campos do modal `Novo serviço`/`Editar serviço`: `Nome *`, `Descrição`, `Valor (R$)`, `Texto de valor (opcional)` (aparece no site no lugar do valor, ex.: a partir de R$ 1.800/m²), `Duração (opcional)`, `Detalhe (opcional)`, `Ícone (opcional)`; botão `Salvar serviço`. Seção: `Criar seção`, `Renomear`, setas de mover, `Excluir seção`; serviço: `Editar`, lixeira e chave `No ar`/`Fora do ar`.
 - ações: seções (:400,416,428,444), serviços (criar/editar :86-87, ativar :258, excluir :236-238).
 - APIs: `guia.servicos.listarSecoes|criarSecao|atualizarSecao|excluirSecao|listarItens|criarItem|atualizarItem|excluirItem`, `guia.empresas.detalhe` (:384).
 - estados: qualquer falha ao carregar seções/empresa cai em `.catch(() => setSemAcesso(true))` e mostra `SemAcessoEmpresa` (`components/painel/SemAcessoEmpresa.tsx`). (:388). Vazio "Nenhum serviço cadastrado nesta seção" (:337), "Nenhuma seção criada ainda" (:493).
@@ -11,9 +13,9 @@
 
 ## o que você vê
 Lista de serviços e valores de uma empresa, separados em seções (ex.: Consultas, Procedimentos, Pacotes).
-- Criar seção, Renomear, mudar ordem e Excluir seção.
-- serviço: nome (ex.: Consulta médica), descrição, detalhe (ex.: a partir de 30m²), duração (ex.: 30-90 dias) e valor.
-- chave de publicado: mostra ou esconde o serviço no site; a lixeira apaga, com confirmação.
+- `Criar seção`, `Renomear`, mudar ordem e `Excluir seção`.
+- serviço: `Nome` (ex.: Consulta médica), `Descrição`, `Detalhe` (ex.: a partir de 30m²), `Duração` (ex.: 30-90 dias), `Valor (R$)` e `Texto de valor`.
+- chave `No ar` / `Fora do ar`: mostra ou esconde o serviço no site; a lixeira apaga, com confirmação.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-guia-empresas-id-servicos.png](../prints/painel-guia-empresas-id-servicos.png) · dados brutos: [json](../prints/json/painel-guia-empresas-id-servicos.json)

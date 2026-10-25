@@ -10,10 +10,13 @@
 
 ## o que você vê
 Lista dos pontos turísticos da cidade (praias, mirantes, museus etc.) mostrados no Guia Turístico.
-- Buscar ponto turístico: acha pelo nome.
+- para abrir: na parte Conteúdo do menu, em `Guia Turístico / Eventos`, clique em `Pontos Turísticos`.
+- campo "Buscar ponto turístico..." com o botão de buscar: acha pelo nome.
+- atalhos no topo para `Categorias`, `Roteiros` e `Eventos`.
 - Foto e Nome: imagem principal e nome do ponto.
-- Ver abre a página pública; editar abre o ponto; apagar pede confirmação e não pode ser desfeito.
-- novo ponto: abre o cadastro.
+- colunas Foto, Nome, Categoria, Cidade, Status (Ativo/Inativo, com selo Destaque) e Ações.
+- `Ver` abre a página pública; `Editar` abre o ponto; `Excluir` pede confirmação e não pode ser desfeito.
+- `Novo Ponto` (botão do topo) abre o cadastro; o item `Novo Ponto` do menu faz o mesmo.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-pontos.png](../prints/painel-turismo-pontos.png) · dados brutos: [json](../prints/json/painel-turismo-pontos.json)

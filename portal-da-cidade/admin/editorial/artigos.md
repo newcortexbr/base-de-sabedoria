@@ -1,64 +1,50 @@
 ---
 id: editorial-artigos
-titulo: "artigos: criar conteúdo e entender estados"
+titulo: "cadastrar e publicar um artigo de colunista da casa"
 publico:
   - administrador do portal
-  - colunista
 modulo: Artigos
 categoria: conteúdo
 aba: Artigos
 tipo_problema: publicação
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - CRiUbh7wHdc
 ---
 
 ## objetivo
-aqui você escreve, publica e acompanha os artigos do portal. Artigos são textos de colunistas e não são a mesma coisa que Notícias.
+Escrever e publicar um artigo pelo painel, com um colunista cadastrado pelo administrador. Artigos e Notícias são conteúdos separados.
 
 ## pré-requisitos/permissões
-O administrador usa o painel. O colunista usa a área do cliente, não o painel.
-
-## veja também
-- para mudar um artigo que já existe, veja o artigo "editar um artigo".
+Acesso de administrador e um colunista da casa cadastrado. Para colunista de autocadastro, veja [cadastrar um artigo para colunista de autocadastro](artigos-colunista-autocadastro.md).
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Artigos` e depois em `Lista de Artigos`. [guia=menu:/painel/blog] [t=13]
-   A lista mostra contadores de artigos publicados, agendados, rascunhos e arquivados, e filtros por título, colunista, categoria e status. Em cada linha há ações para abrir no site, editar e excluir.
-2. Para escrever um novo, clique no botão `+ Novo Artigo` no topo da lista. [guia=blog.novo] [t=26]
-3. Na página `Cadastrar Artigo`, escolha em `Colunista` quem assina o texto. [guia=blog-novo.colunista] [t=29]
-4. Escreva o `Título *` do artigo. [guia=blog-novo.titulo] [t=33]
-5. Se quiser, escreva o `Subtítulo`. [guia=blog-novo.subtitulo]
-6. Se quiser, escreva a `Chamada`, um resumo curto que aparece na lista. [guia=blog-novo.chamada]
-7. Escreva o texto no quadro `Texto do artigo`. [guia=blog-novo.texto] [t=36]
-8. Envie a `Foto de capa` clicando no campo de arquivo e, se quiser, preencha a legenda e os créditos da foto. [guia=blog-novo.capa] [t=38]
-9. Se quiser, preencha o título e a descrição para o Google (SEO); são opcionais. [guia=blog-novo.texto]
-10. Clique em `Publicar`. Para colunista da casa, o artigo vai direto para o ar. [guia=blog-novo.publicar] [t=45]
-11. Volte à `Lista de Artigos` e confira a coluna `Status`. [guia=blog.status-linha]
+1. No menu lateral, dentro de `Artigos`, clique em `Lista de Artigos`. [t=13] [guia=menu:/painel/blog]
+2. Clique em `+ Novo Artigo`. [t=29] [guia=blog.novo]
+3. Em `Colunista`, escolha o autor da casa. [t=31] [guia=blog-novo.colunista]
+4. Se quiser, escolha a `Categoria`. [t=31] [guia=blog-form.categoria]
+5. Preencha `Título *`. [t=33] [guia=blog-novo.titulo]
+6. Se quiser, preencha `Subtítulo`. [t=33] [guia=blog-novo.subtitulo]
+7. Se quiser, preencha `Chamada`, um resumo do artigo. [t=36] [guia=blog-novo.chamada]
+8. Escreva em `Texto do artigo`. [t=36] [guia=blog-novo.texto]
+9. Se quiser, selecione um arquivo em `Foto de capa`. [t=38] [guia=blog-novo.capa]
+10. Se quiser, preencha `Legenda da foto`. [t=40] [guia=blog-form.legenda]
+11. Se quiser, preencha `Créditos da foto`. [t=40] [guia=blog-form.creditos]
+12. Se quiser, preencha `Título SEO`, o título para buscadores. [t=43] [guia=blog-form.seo-titulo]
+13. Se quiser, preencha `Descrição SEO`, o resumo para buscadores. [t=43] [guia=blog-form.seo-descricao]
+14. Clique em `Publicar`. [t=47] [guia=blog-novo.publicar]
 
 ## resultado
-os estados da lista são `Rascunho`, `Agendado`, `Publicado` e `Arquivado`. Artigo criado pelo administrador como colunista da casa pode ser publicado diretamente. Ao escolher colunista não pertencente à casa, a criação gera rascunho; o colunista pagante publica pela área do cliente.
-
-## desvios
-- Não trate Notícias e Artigos como o mesmo módulo: têm telas, papéis e estados distintos.
-- Jornalistas não são colunistas; seus fluxos são separados.
-- As categorias e os colunistas ficam no menu `Artigos`, em `Categorias` e `Colunistas`.
-- Em `Colunistas`, cada colunista tem nome, foto, especialidade, descrição curta e redes sociais, e você pode ativar ou desativar cada um sem mexer nos artigos.
-- Em `Categorias`, cada categoria de artigo tem nome e cor.
-- Se o estado não mudar, consulte o erro apresentado e peça ajuda; não repita uma ação sem verificar a lista.
-
-## quando pedir ajuda
-peça ajuda se o colunista esperado não estiver disponível, se o cadastro falhar ou se a lista não refletir o estado após recarregar.
+O cadastro de colunista da casa envia o artigo para publicação. Não há opção de salvar como rascunho nesse fluxo. Confira `Publicado` na lista.
 
 ## fontes
-- `portal-cidade/frontend/src/app/painel/blog/page.tsx:27` — estados e rótulos.
-- `portal-cidade/frontend/src/app/painel/blog/novo/page.tsx:16` — comportamento de criação e colunista da casa.
-- `portal-cidade/frontend/src/app/painel/blog/novo/page.tsx:41` — formulário de novo artigo.
-- `docs/PRODUCT.md:25` — áreas de jornalista e colunista.
-- `docs/PRODUCT.md:40` — módulo Notícias.
+- Código b2f62d3f: `frontend/src/components/painel/Sidebar.tsx:195`.
+- `frontend/src/app/painel/blog/ArtigoCamposForm.tsx:73` — campos compartilhados.
+- `frontend/src/app/painel/blog/novo/page.tsx:113` — publicação condicionada ao colunista; `:178` — botão.
+- `videos/legendas/CRiUbh7wHdc.srt` — trechos de 13 a 49 segundos.
 
 ## lacunas
-não verificado visualmente. A decisão de publicar diretamente vale para a criação pelo administrador com colunista da casa, não para qualquer perfil ou edição.
+Conferência documental, sem navegador. As marcas propostas ainda precisam ser adicionadas ao frontend por seu responsável.

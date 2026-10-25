@@ -12,43 +12,42 @@ tipo_problema:
   - falta uma função
   - sugestão
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 ---
 
 ## objetivo
-aqui você manda à equipe da plataforma a ideia de uma função que falta no portal.
+
+Envie uma ideia de melhoria à equipe da plataforma.
 
 ## pré-requisitos
 
-- Ser o administrador do portal.
+- Ter acesso de administrador ao painel do portal.
 
 ## passos
 
 1. No rodapé do menu da esquerda, clique em `Sugestões de Funções`. [guia=menu:/painel/sugestoes]
-2. Escreva o `Título` da ideia. [guia=fora]
-3. Explique a ideia em `Descrição`. [guia=fora]
-4. Se ajudar, anexe fotos, documentos ou vídeo. [guia=fora]
-5. Confira o `Nome` e o `WhatsApp` para a equipe falar com você. [guia=fora]
-6. Clique em `Enviar sugestão`. [guia=fora]
+2. Preencha `Título`.  [guia=sugestoes.titulo]
+3. Preencha `Descrição`.  [guia=sugestoes.descricao]
+4. Se necessário, anexe arquivos na área de anexos.  [guia=sugestoes.anexos]
+5. Confira ou ajuste `Nome`.  [guia=sugestoes.nome]
+6. Confira ou ajuste `WhatsApp`.  [guia=sugestoes.whatsapp]
+7. Clique em `Enviar sugestão`.  [guia=sugestoes.enviar]
 
 ## resultado
-aparece "Sugestão enviada. Obrigado!" e ela entra em `Suas sugestões enviadas`.
+
+Aparece `Sugestão enviada. Obrigado!`. O histórico fica em `Suas sugestões enviadas`.
 
 ## desvios
 
-- O E-mail vem da sua conta e não muda nesta tela.
-- Muitas sugestões em pouco tempo: espere um pouco antes de mandar outra.
-
-## quando pedir ajuda
-
-peça ajuda se o envio der erro mais de uma vez.
+O campo E-mail vem da conta e é somente leitura. Enviar uma ideia não define prazo de implementação.
 
 ## fontes
 
-- `portal-cidade/frontend/src/components/painel/Sidebar.tsx:535-550` — cartão "Sugestões de Funções".
-- `suporte-kb/mapa/admin/telas/painel-sugestoes.md` — campos e mensagens.
+- `frontend/src/app/painel/sugestoes/page.tsx:286`
+- `frontend/src/app/painel/sugestoes/page.tsx:450`
 
 ## lacunas
 
-tela não validada no navegador nesta tarefa.
+- Não foi identificado vídeo específico desta tarefa no catálogo; nenhum tempo foi atribuído.
+- Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.

@@ -5,16 +5,17 @@
 - ações: criar/editar (:62,65), excluir com `confirm` (:76-80), revalida (:81).
 - APIs: `turismo.dicas.listar|criar|atualizar|excluir`.
 - estados: `erroCarga` (:31,71); vazio "Nenhuma dica cadastrada ainda" (:221).
-- problemas: nenhum confirmado. hipótese — não há item "Dicas" na lista `MODULO_POR_HREF`; só o prefixo `/painel/turismo` o protege (suficiente para o gate).
+- problemas: fato — nenhum item do menu lateral (`components/painel/Sidebar.tsx:183-187`) nem link de outra tela leva a esta rota; a IA não deve mandar o admin "pelo menu" até ela. o prefixo `/painel/turismo` protege o gate.
 - admin vs cliente: Turismo não tem área do cliente em `src/app/minha-conta` (sem pasta de turismo). Só o admin gerencia; não há lacuna de paridade.
 
 ## o que você vê
-Dicas gerais para quem visita a cidade, mostradas no Guia Turístico (não são as dicas de cada ponto).
+Dicas gerais para quem visita a cidade, mostradas no Guia Turístico (não são as dicas de cada ponto). Atenção: esta tela não tem item no menu lateral nem link em outra tela do painel; só abre pelo endereço direto.
+- `+ Nova Dica` abre o formulário "Nova Dica"; salvar é `Salvar Dica`.
 - Título * (ex.: Vá cedo para evitar filas) e Descrição: o texto da dica.
-- ícone: um emoji que aparece ao lado da dica.
+- Ícone: um emoji (escolha na lista ou digite o seu) que aparece ao lado da dica.
 - Ordem: posição da dica na lista do site.
-- ativo: mostra ou esconde a dica.
-- editar muda; apagar pede confirmação.
+- Ativa: mostra ou esconde a dica (na lista aparece Ativa ou Inativa).
+- editar muda; `Excluir` pede confirmação ("Excluir esta dica?").
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-dicas.png](../prints/painel-turismo-dicas.png) · dados brutos: [json](../prints/json/painel-turismo-dicas.json)

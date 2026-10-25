@@ -1,7 +1,8 @@
 # /painel/guia/empresas/[id]/editar (`.../[id]/editar/page.tsx`, 9 linhas)
 - gate: módulo `guia` (prefixo `/painel/guia`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
-- faz: `<EmpresaEditor empresaId={Number(params.id)} />`; mesmos campos do cadastrar, mais gestores (lista/remover, EmpresaEditor:384,606), reset de senha do proprietário (:1594) e atalhos para cardápio/catálogo/quartos/serviços/equipe conforme o tipo de empresa.
+- menu: parte Conteúdo, `Guia Comercial` > `Listar Empresas` > ícone de editar na linha da empresa. título `Editar: <nome da empresa>`; botões `Salvar Alterações` e `Cancelar`.
+- faz: `<EmpresaEditor empresaId={Number(params.id)} />`; mesmos campos do cadastrar, mais gestores (lista/remover, EmpresaEditor:384,606), reset de senha do proprietário (:1594) e bloco `Conteúdo da ficha` com botões `Gerenciar` (`EmpresaEditor.tsx:1716-1746`): `Cardápio` (categoria com cardápio), `Serviços`, `Equipe`, `Catálogo de produtos` (todas as categorias, exceto ficha básica do plano Grátis), `Quartos e suítes` (categoria com acomodações) e, se a categoria tem delivery, `Cardápio do delivery`, `Fila de pedidos` e `Configurações do delivery` (telas em `/painel/delivery/...`).
 - APIs: `guia.empresas.detalhe` (:362), `guia.fotos.listar|criar|excluir`, `guia.horarios.listar|salvar`, `guia.empresas.atualizar` (via editor), `guia.subcategorias.listar` (:439).
 - estados: erro de carga com checagem de módulo (:433); `Number(params.id)` sem validação — id inválido vira `NaN` (hipótese; não vi tratamento em 9 linhas).
 - problemas: nenhum confirmado além do acima.
@@ -9,18 +10,13 @@
 
 ## o que você vê
 Tela para mudar os dados de uma empresa do Guia Comercial; os campos são os do cadastro.
-- Dados da Empresa: Nome da empresa *, Categoria * e Subcategoria * (é pela subcategoria que chegam os pedidos de orçamento), Descrição, Plano e Status.
-- Contato: Telefone, WhatsApp, E-mail da empresa, Site, Instagram, Facebook.
-- Endereço e Localização: o ponto no mapa é achado sozinho pelo endereço e cidade.
-- Logo e capa e Galeria de Fotos: imagens da página da empresa.
-- Horários de Funcionamento: dias e horas, 24 horas ou Fechado.
-- Comodidades & Pagamento (ex.: Wi-Fi, PIX): viram informações na página.
-- Botões de ação e Reserva & Delivery: links (agendamento, orçamento, reserva, delivery como iFood) que viram botões na página; vazio = sem botão.
-- Hospedagem: opções próprias de hotel ou pousada.
-- Cupom de Desconto: código (só letras e números), tipo e valor do desconto, validade; código vazio não mostra cupom.
-- SEO: ajuda a página a aparecer no Google; vazio usa nome e descrição.
-- Empresa em destaque e Acesso à Área do cliente (login para o dono cuidar da própria ficha).
-- atalhos Gerenciar (Cardápio, catálogo, quartos, serviços, equipe): abrem a parte extra da empresa, conforme o tipo dela; o formulário é salvo antes de sair.
+- Dados da Empresa: `Nome da empresa *` e `Descrição`. Classificação: `Categoria *`, `Subcategoria *` (é pela subcategoria que chegam os pedidos de orçamento), `Plano` (lista com `Cortesia do portal (todos os itens)` e os planos do portal), `Status` e a caixa `Empresa em destaque`.
+- Localização: CEP, cidade, bairro e `Endereço`; o ponto no mapa é achado sozinho pelo endereço e cidade.
+- Contato: `Telefone`, `WhatsApp`, `E-mail da empresa` (uso interno, não aparece no site), `Site`, `Instagram`, `Facebook`.
+- as partes seguintes são blocos que abrem e fecham ao clicar no título: `Logo e capa`, `Cardápio` (só categoria com cardápio), `Reserva & Delivery` (idem), `Cupom de Desconto`, `Botões de ação` (`Link para agendamento`, `Link para solicitar orçamento`), `Hospedagem` (só categoria com acomodações), `Comodidades & Pagamento`, `Horários de Funcionamento` (dias e horas, 24 horas ou `Fechado`), `Galeria de Fotos` e `Acesso à Área do cliente` (login para o dono cuidar da própria ficha). No fim, `SEO` (`Título SEO`, `Descrição SEO`; vazio usa nome e descrição da empresa).
+- empresa no plano Grátis mostra só a ficha básica (aviso no topo; sem capa, cupom, botões, comodidades, fotos e SEO).
+- `Acesso à Área do cliente`: `Criar acesso` (nome, e-mail de login e senha inicial), `Redefinir senha`, remover acesso e gestores com `Remover`.
+- `Conteúdo da ficha`: botões `Gerenciar` para `Cardápio`, `Serviços`, `Equipe`, `Catálogo de produtos`, `Quartos e suítes` (conforme a categoria) e delivery; o formulário é salvo antes de sair.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-guia-empresas-id-editar.png](../prints/painel-guia-empresas-id-editar.png) · dados brutos: [json](../prints/json/painel-guia-empresas-id-editar.json)

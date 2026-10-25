@@ -8,56 +8,63 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-21
-validacao: video
+revisado_em: 2026-10-24
+validacao: docs-e-codigo
 videos:
   - grm3bUrPBxM
 ---
 
 ## objetivo
-aqui você cadastra as instituições (ONGs e projetos sociais) que aparecem na página de doações do portal e as causas que organizam essas instituições.
+
+Cadastre uma instituição para aparecer na página de Doações. Se a causa ainda não existe, use antes o artigo “cadastrar uma causa de doação”.
 
 ## pré-requisitos
-- Ter acesso de administrador ao painel do portal.
-- Cadastrar a causa antes da instituição, porque a instituição pede uma causa da lista.
 
-## explicação
-- doações é uma vitrine: o portal divulga ONGs e projetos sociais da cidade para o morador conhecer e ajudar. O portal não recebe nem repassa dinheiro; o morador fala com a instituição pelos botões de contato.
-- `Causa` é o assunto da instituição (por exemplo, animais, crianças, saúde). Serve para o visitante filtrar a página de doações.
-- a página pública de doações mostra cada instituição num card, com busca por nome, cidade ou pelo que ela faz.
-- as causas viram os filtros dessa página pública.
-- salvou, está no site: a instituição aparece na hora. Para tirar uma instituição do ar, exclua.
-- cada botão de contato (conheça a instituição, WhatsApp, Instagram, Facebook, e-mail) só aparece no site se estiver preenchido.
-- a galeria é opcional; se ficar vazia, a seção some do site.
+- Ter acesso de administrador ao painel do portal.
 
 ## passos
-1. No menu da esquerda, clique em `Doações`. Há duas telas: `Instituições` e `Causas`. [guia=menu:/painel/doacoes]
-2. Para criar uma causa, entre em `Causas`, clique em `Nova causa`, digite o nome e clique em `Criar causa`. Os quadros do topo mostram o total de causas, quantas estão em uso e quantas instituições existem. Cada cartão mostra a causa e quantas instituições ela tem, com os botões de editar e excluir. [guia=menu:/painel/doacoes/causas]
-3. Para cadastrar uma instituição, entre em `Instituições` e clique em `+ Nova instituição`. A lista tem busca por nome e, em cada linha, a causa, a cidade e os botões de editar, ver no site e excluir. [guia=menu:/painel/doacoes]
-4. Em identificação, escreva o `Nome da instituição *`, escolha a `Causa *` na lista e escreva o `Resumo do card`, que aparece na listagem. [guia=menu:/painel/doacoes]
-5. Em capa da página, monte o slide do topo com fotos e vídeos do YouTube. Use as setas para ordenar: o primeiro item é o que abre. [guia=menu:/painel/doacoes]
-6. Envie a foto de capa do card e a logo, que aparece como um selo quadrado sobre a capa. [guia=menu:/painel/doacoes]
-7. Em texto, escreva a `Frase de destaque` (opcional, aparece em letra grande numa faixa rosa) e a `Descrição completa *`. [guia=menu:/painel/doacoes]
-8. Em endereço, digite o CEP e escolha a cidade e o bairro: o mapa é encontrado sozinho. Os campos são os mesmos do guia comercial. [guia=menu:/painel/doacoes]
-9. Se quiser, adicione mais fotos e vídeos na galeria. [guia=menu:/painel/doacoes]
-10. Em botões e contato, preencha o link `Conheça a instituição`, o WhatsApp, o Instagram, o Facebook e o e-mail. [guia=menu:/painel/doacoes]
-11. Confira tudo e clique em salvar a instituição. [guia=menu:/painel/doacoes]
+
+1. Na parte `Conteúdo` do menu, em `Doações`, clique em `Instituições`. [t=17] [guia=menu:/painel/doacoes]
+2. Clique em `+ Nova instituição`.  [t=39] [guia=doacoes.nova]
+3. Preencha `Nome da instituição *`.  [t=43] [guia=doacoes.nome]
+4. Escolha `Causa *` na lista.  [t=43] [guia=doacoes.causa]
+5. Se quiser, preencha `Resumo do card`.  [t=46] [guia=doacoes.resumo]
+6. Em `Foto de capa do card *`, clique em `Clique para escolher a imagem` para selecionar a capa.  [t=58] [guia=doacoes.capa]
+7. Se quiser, selecione uma imagem em `Logo`.  [t=60] [guia=doacoes.logo]
+8. Se quiser, preencha `Frase de destaque`.  [t=65] [guia=doacoes.frase]
+9. Preencha `Descrição completa *`.  [t=69] [guia=doacoes.descricao]
+10. Se souber, preencha `CEP`.  [t=73] [guia=campo-cep.cep]
+11. Escolha `Cidade *` na lista.  [t=75] [guia=local:cidade]
+12. Se quiser, escolha `Bairro`.  [t=75] [guia=local.bairro]
+13. Se quiser, preencha `Endereço` com rua e número.  [guia=doacoes.endereco]
+14. Se houver, preencha `Link "Conheça a instituição"`.  [t=85] [guia=doacoes.link]
+15. Se houver, preencha `WhatsApp`.  [t=88] [guia=doacoes.whatsapp]
+16. Se houver, preencha `Instagram`.  [t=88] [guia=doacoes.instagram]
+17. Se houver, preencha `Facebook`.  [t=91] [guia=doacoes.facebook]
+18. Se houver, preencha `E-mail`.  [t=91] [guia=doacoes.email]
+19. Clique em `Salvar instituição`.  [t=98] [guia=doacoes.salvar]
+20. Na janela `Publicar no site agora?`, clique em `Sim, publicar`. [guia=confirmacao.confirmar]
 
 ## resultado
-a instituição aparece na página de doações, com a causa escolhida como filtro. Na página dela ficam a capa, a causa, a cidade, os botões de contato, as redes sociais, o botão de copiar o link, a descrição, o mapa com o botão `Como chegar` e a galeria.
 
-## desvios
-- se a causa que você precisa não está na lista, crie-a primeiro em `Causas`.
-- excluir uma instituição a tira do site.
+Após a publicação, aparece `Instituição salva` e a lista de instituições é aberta. Os contatos preenchidos podem aparecer no site.
 
-## quando pedir ajuda
-peça ajuda se a instituição não aparecer no site depois de salvar ou se o mapa não for encontrado a partir do CEP.
+## explicação
+
+- Nome, causa, descrição completa, cidade e foto de capa do card são obrigatórios.
+- A localização do mapa é descoberta a partir do endereço e da cidade; digitar somente o CEP não garante o mapa.
+- Capa da página e Galeria são áreas opcionais de fotos e vídeos. Veja “adicionar fotos à página de uma instituição de doações”. A publicação pode concluir com erro em alguma mídia; nesse caso, a tela informa o que precisa ser enviado novamente.
+- Para mudar dados já publicados, abra `Editar` na lista de instituições; para retirar uma instituição, veja “excluir uma instituição de doações”.
 
 ## fontes
-- vídeo `grm3bUrPBxM`.
-- `portal-cidade/frontend/src/components/painel/Sidebar.tsx:231` — menu `Doações`.
-- `portal-cidade/frontend/src/app/painel/doacoes/EditorInstituicao.tsx` — rótulos do formulário.
-- `portal-cidade/frontend/src/app/painel/doacoes/causas/page.tsx` — `Nova causa` e `Criar causa`.
+
+- `frontend/src/components/painel/Sidebar.tsx:259`
+- `frontend/src/app/painel/doacoes/EditorInstituicao.tsx:188`
+- `frontend/src/app/painel/doacoes/EditorInstituicao.tsx:249`
+- `frontend/src/app/painel/doacoes/EditorInstituicao.tsx:451`
+
+- Catálogo: `portal-da-cidade/videos.json`; legendas: `videos/legendas/grm3bUrPBxM.srt`.
 
 ## lacunas
-não verificado visualmente. O nome exato do botão de salvar a instituição não foi conferido. A causa é obrigatória no cadastro da instituição (campo `Causa *`, aviso "Escolha a causa."), por isso a causa vem antes.
+
+- Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.

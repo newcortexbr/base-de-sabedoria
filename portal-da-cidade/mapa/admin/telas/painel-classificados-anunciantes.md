@@ -8,12 +8,15 @@
 - problemas: nenhum confirmado. excluir usa `confirm()` nativo avisando que os anúncios perdem o vínculo (:49).
 - admin vs cliente: o cliente cria o próprio anunciante ao completar perfil (`minha-conta/_completar/FormularioAnunciante.tsx`); o admin cadastra por ele e cria o login.
 
+## como chegar
+- na parte Conteúdo do menu, abra `Classificados` e clique em `Anunciantes`.
+
 ## o que você vê
 Lista das pessoas ou empresas que publicam anúncios classificados (anunciantes).
-- Buscar por nome ou e-mail e filtro Verificado / Não verificado.
-- Verificado: selo de anunciante conferido por você.
-- Acesso: se o anunciante tem login para cuidar dos próprios anúncios (Sim / Não, ou "Sem acesso").
-- Editar abre o cadastro; apagar pede confirmação.
+- botão `+ Novo Anunciante` no alto, à direita.
+- filtros `Nome ou e-mail` (busca) e `Status` (`Todos`, `Verificado`, `Não verificado`); aparecem quando já há anunciantes.
+- colunas `Anunciante`, `Acesso` (e-mail do login do responsável, ou `Sem acesso`) e `Verificado` (`Sim` ou `Não`: selo de anunciante conferido por você).
+- `Editar` abre o cadastro; `Excluir` pede confirmação (os anúncios dele perdem o vínculo).
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-classificados-anunciantes.png](../prints/painel-classificados-anunciantes.png) · dados brutos: [json](../prints/json/painel-classificados-anunciantes.json)

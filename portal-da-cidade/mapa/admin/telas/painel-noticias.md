@@ -1,23 +1,25 @@
 # /painel/noticias — lista de notícias (`src/app/painel/noticias/page.tsx`, 650 linhas)
 - gate: módulo `noticias` (prefixo `/painel/noticias`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
+- menu: parte Conteúdo, grupo `Notícias` > `Listar Notícias` (`Sidebar.tsx:105`). título da tela `Notícias`; botão `+ Cadastrar Notícia`.
+- colunas: caixa de seleção, Título, Categoria, Postado por, Data, Status, Views, Ações. em cada linha: chave verde/cinza para publicar/despublicar (dica `Publicar`/`Despublicar`), lápis (`Editar`) e lixeira (`Excluir`). com linhas marcadas aparecem `Limpar seleção` e `Excluir N selecionadas`.
 - faz: lista de notícias com filtros (categoria, subcategoria, busca, ordenação por coluna), seleção em lote e paginação.
 - ações: publicar/despublicar (`toggleStatus`, :235), excluir uma (:259) ou em lote (`excluirLote`, :306; resumo "Nenhuma das N foi excluída" :103), editar, revalidar (`revalidarAposAcao`, :76,251,260,325).
 - APIs: `noticias.listar` (:185), `noticias.toggleStatus`, `noticias.excluir`, `noticias.excluirLote`, `categorias.listar` (:197), `subcategorias.listar` (:201).
-- estados: erro "Erro ao carregar notícias: …" (:190); vazio "Nenhuma notícia encontrada" (:537).
+- estados: erro "Erro ao carregar notícias: …" (:190); vazio "Nenhuma notícia encontrada." (:546).
 - problemas: fato — `categorias.listar().then(setCategorias)` e `subcategorias.listar().then(...)` sem `catch` (:197,201): falha vira promessa rejeitada e filtros vazios, sem aviso.
 - admin vs cliente: o jornalista (`/minha-conta/noticias`) cria/edita as próprias matérias e só envia para aprovação. Admin publica direto, edita qualquer autor, exclui em lote. O cliente não tem lote.
 
 ## o que você vê
 Lista de todas as notícias do portal, para buscar, publicar, tirar do ar, editar ou apagar.
-- Buscar por título, categoria, subcategoria, Status e datas (Publicada de / até): filtros da lista.
+- `Buscar por título...`, `Todas as categorias`, `Todas as subcategorias`, `Todos os status` e datas (`Publicada de` / `Publicada até`): filtros da lista.
 - Status: Publicado (está no site), Rascunho (guardada, não aparece), Arquivado (tirada do ar). Um aviso de agendada indica que ela fica escondida até a data de publicação.
 - Postado por: quem escreveu ou enviou a notícia.
 - Views: quantas vezes a notícia foi vista no site.
 - Data: data de publicação; clicar nos títulos das colunas muda a ordem.
 - caixinhas de seleção: marcam várias notícias para apagar de uma vez.
-- botão Publicar / Despublicar: coloca no site ou tira do site na hora.
-- lápis edita; lixeira apaga, sempre com confirmação.
+- chave de publicar (dica `Publicar` / `Despublicar`): coloca no site ou tira do site na hora.
+- lápis edita; lixeira apaga, sempre com confirmação (`Excluir notícia?`). Para apagar várias: marque as caixas e use `Excluir N selecionadas`.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-noticias.png](../prints/painel-noticias.png) · dados brutos: [json](../prints/json/painel-noticias.json)

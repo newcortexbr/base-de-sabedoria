@@ -1,6 +1,6 @@
 ---
 id: receber-por-pix-na-sua-chave
-titulo: receber por Pix direto na sua chave, sem o Asaas
+titulo: "receber por Pix direto na sua chave, sem o Asaas"
 publico:
   - admin
 modulo: financeiro
@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: pagamento
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - lwaG-T87hJI
@@ -16,57 +16,53 @@ videos:
 
 ## objetivo
 
-aqui você cadastra a chave Pix do portal e o WhatsApp que recebe os comprovantes, para cobrar as empresas sem o Asaas. A chave é protegida por um código do celular.
+Aqui você cadastra ou troca a chave Pix e as instruções que o cliente vê para pagar. A alteração é protegida pelo autenticador.
 
 ## pré-requisitos
 
 - Ter acesso administrativo ao portal.
-- Ter um aplicativo autenticador no celular, como o Google Authenticator.
-- Sem o Asaas conectado, ou com `Cobrar pelo Asaas` desligado, o quadro `Recebimento por Pix` fica `✓ Em uso`. Para receber pelo Asaas, veja o artigo "conectar a conta Asaas e entender a cobrança".
-
-## veja também
-- para escolher o número que recebe os comprovantes, veja o artigo "definir o WhatsApp que recebe os comprovantes do Pix".
+- Ter um aplicativo autenticador no celular. O procedimento abaixo inclui a ativação na primeira vez.
+- Para o Pix ser a via em uso, o Asaas deve estar sem conexão ou com `Cobrar pelo Asaas` desligado.
 
 ## passos
 
-1. No menu da esquerda do painel, na parte `Sistema`, clique em `Configurações` e depois em `Cobrança`. [guia=menu:/painel/configuracoes/cobranca] [t=155]
-2. Desça até o quadro `Recebimento por Pix`. [guia=pix.quadro] [t=158]
-3. Em `Chave Pix`, clique em `cadastrar com autenticador` (ou `trocar com autenticador`, se já houver chave). [guia=pix.chave] [t=164]
-4. Na primeira vez, abra o aplicativo autenticador no celular e leia o QR Code que aparece na janela `Proteja a sua chave Pix`. [guia=autenticador.qr] [t=170]
-5. Digite em `Código do autenticador` os 6 números que aparecem no aplicativo. [guia=autenticador.codigo] [t=176]
-6. Clique em `Ativar`. [guia=autenticador.ativar] [t=180]
-7. Aparecem 6 códigos de reserva, que servem se você perder o celular. Clique em `Baixar` ou `Copiar` e guarde em lugar seguro. [guia=autenticador.ja-guardei] [t=183]
-8. Clique em `Já guardei`. [guia=autenticador.ja-guardei]
-9. Na janela `Trocar a chave Pix`, escreva a chave em `Nova chave Pix`. [guia=pix.nova-chave] [t=193]
-10. Em `Instruções para o cliente`, escreva o que a empresa deve saber para pagar (por exemplo, em nome de quem está a chave). [guia=pix.instrucoes] [t=195]
-11. Digite de novo o código do aplicativo autenticador. [guia=autenticador.codigo] [t=198]
-12. Clique em `Trocar chave`. [guia=pix.trocar-chave] [t=200]
+1. No menu da esquerda, na parte `Sistema`, abra `Configurações`. [t=11] [guia=sidebar.grupo-configuracoes]
+2. Clique em `Cobrança`. [t=14] [guia=menu:/painel/configuracoes/cobranca]
+3. No quadro `Recebimento por Pix`, clique em `cadastrar com autenticador` ou `trocar com autenticador`, junto de `Chave Pix`. [t=174] [guia=pix.chave]
+4. Se abrir `Proteja a sua chave Pix`, leia o QR Code com o aplicativo autenticador do celular. Se já estiver ativo, vá direto ao campo `Nova chave Pix`. [t=183] [guia=autenticador.qr]
+5. Na ativação, preencha `Código do autenticador` com os 6 números do aplicativo. [t=186] [guia=autenticador.codigo]
+6. Na ativação, clique em `Ativar`. [t=188] [guia=autenticador.ativar]
+7. Na tela dos códigos de reserva, clique em `Baixar`. Guarde o arquivo em lugar seguro. [t=197] [guia=autenticador.baixar-reservas]
+8. Clique em `Já guardei`. [t=200] [guia=autenticador.ja-guardei]
+9. Na janela `Trocar a chave Pix`, preencha `Nova chave Pix`. [t=202] [guia=pix.nova-chave]
+10. Preencha `Instruções para o cliente`. [t=204] [guia=pix.instrucoes]
+11. Preencha `Código do autenticador` com o código atual do aplicativo. [t=207] [guia=autenticador.codigo]
+12. Clique em `Trocar chave`. [t=207] [guia=pix.trocar-chave]
 
 ## resultado
 
-quando a empresa contrata um plano, ela vê a sua chave Pix, o botão de copiar e as suas instruções, e manda o comprovante pelo WhatsApp com a mensagem pronta. a fatura aparece no `Financeiro` com o selo de Pix aguardando comprovante.
+Após salvar, a chave e as instruções ficam no quadro de Pix. A confirmação do dinheiro recebido continua sendo manual.
 
 ## desvios
 
-- A mensagem pronta do WhatsApp de comprovante traz o nome do cliente, o plano, o número da fatura e o valor.
-- No `Financeiro`, um cartão mostra quantas faturas aguardam o Pix.
-- Para dar baixa quando o comprovante chegar, use `Já recebi` na fatura do `Financeiro` (veja o artigo de faturas e pagamentos): escolha como o cliente pagou, confira a data e o valor, escreva uma observação se quiser, marque a caixa de confirmação e clique em `Sim, já recebi`. A fatura vai para paga, a contratação é ativada e a próxima fatura do ciclo é gerada.
-- Também dá para dar baixa pela ficha do cliente, em `Meus Clientes`, aba `Financeiro`, com o botão `Confirmar pagamento`.
-- Os dois caminhos convivem: mesmo com o Asaas, se o cliente pagar por fora, use o `Já recebi`. Uma fatura que já mostrou a chave Pix segue por Pix, mesmo se o Asaas for ligado depois.
-- Perdeu o celular: na janela `Trocar a chave Pix`, clique em `Usar um código de reserva` e digite um dos códigos guardados.
-- Sem celular e sem código de reserva, só a plataforma (Master) zera o autenticador.
-- O WhatsApp dos comprovantes é um campo próprio: não é o WhatsApp de contato do portal.
+Se o autenticador já estava ativo, os passos de ativação e de reserva não aparecem: depois de clicar na chave, preencha `Nova chave Pix`. Para configurar o recebimento de comprovantes, veja `whatsapp-de-comprovantes-pix.md`.
+
+Quem perdeu o aplicativo pode usar `Usar um código de reserva` na janela de troca. Não envie esses códigos ao assistente. Sem acesso ao aplicativo e sem reserva, peça ajuda humana.
+
+Uma fatura já cobrada por Pix não muda automaticamente para Asaas quando você liga a integração.
 
 ## quando pedir ajuda
 
-peça ajuda se perdeu o celular e os códigos de reserva, ou se a chave não for trocada mesmo com o código certo.
+Peça ajuda se a tela mostrar erro ou se o resultado não corresponder ao que você salvou. Não envie senhas, chaves ou comprovantes ao assistente.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/configuracoes/cobranca/CartaoPix.tsx:49-135` — quadro `Recebimento por Pix`.
-- `portal-cidade/frontend/src/app/painel/configuracoes/cobranca/ModaisAutenticador.tsx` — janelas do autenticador e de troca da chave.
-- vídeo `lwaG-T87hJI` 02:35–03:35.
+- `portal-cidade/frontend/src/app/painel/configuracoes/cobranca/CartaoPix.tsx:73`
+- `portal-cidade/frontend/src/app/painel/configuracoes/cobranca/ModaisAutenticador.tsx:161`
+- `portal-cidade/frontend/src/app/painel/configuracoes/cobranca/ModaisAutenticador.tsx:173`
+- `portal-cidade/frontend/src/app/painel/configuracoes/cobranca/ModaisAutenticador.tsx:242`
+- `portal-cidade/frontend/src/app/painel/financeiro/LinhaDaFatura.tsx:151`
 
 ## lacunas
 
-não verificado visualmente; tempos tirados da legenda automática.
+Conferência documental com o código em b2f62d3f e as transcrições/legendas do catálogo. Sem validação no navegador, execução financeira ou teste de integração nesta auditoria. Tempos indicam trechos da legenda; passos sem tempo não foram localizados no vídeo.

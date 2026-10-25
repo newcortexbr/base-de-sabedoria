@@ -59,4 +59,6 @@ Lista das notícias que você, jornalista, escreveu.
 - Nova notícia: abre o formulário.
 - Ver no site: só para notícia publicada.
 - Editar, Publicar/Despublicar (põe ou tira do site) e Excluir (pede confirmação).
-- Sem nenhuma notícia: sugere preencher antes o seu perfil em Autor, que é a assinatura da matéria.
+- Sem nenhuma notícia: "Escreva sua primeira notícia", sugerindo preencher antes o seu perfil em Autor (link `Preencher meu perfil`), que é a assinatura da matéria.
+- Busca: campo `Buscar pelo título`; navegação `Anterior` / `Próxima`.
+- Ver no site, Editar, Publicar/Despublicar e Excluir são botões só de ícone: o nome aparece ao passar o mouse.

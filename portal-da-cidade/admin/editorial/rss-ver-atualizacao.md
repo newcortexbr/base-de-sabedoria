@@ -8,42 +8,43 @@ categoria: conteúdo
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - r5rFCgAV0mg
 ---
 
 ## objetivo
-aqui você vê quando cada site trouxe notícias pela última vez.
+
+Aqui você consulta a última tentativa de atualização de uma fonte e o resumo do resultado. Uma tentativa não garante que tenha entrado notícia nova.
 
 ## pré-requisitos
 
-- Ter acesso de administrador ao painel do portal.
+- Entrar no painel como administrador.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Notícias Automáticas` e depois em `Fontes de RSS`. [guia=menu:/painel/noticias/fontes-rss]
-2. Na coluna `Última Atualização`, veja quando cada site trouxe notícias pela última vez. [guia=fontes-rss.ultima-atualizacao]
+1. Na seção `Conteúdo` do menu lateral, em `Notícias Automáticas`, clique em `Fontes de RSS`. [t=9] [guia=menu:/painel/noticias/fontes-rss]
+2. Se necessário, localize a fonte em `Buscar por título ou URL...`. [guia=fontes-rss.buscar]
+3. Leia a data e o resumo na célula `Última Atualização` da fonte. [t=15] [guia=fontes-rss.atualizacao-linha]
 
 ## resultado
-Você vê a data da última atualização de cada fonte.
+
+Sem uma tentativa registrada, a célula mostra `Nunca atualizado`. Quando há registro, mostra data e hora, com resumo quando disponível; erro aparece em vermelho.
 
 ## desvios
 
-- Fonte desativada para de trazer notícias.
-- Se a verificação do endereço falhar, confira o link do RSS.
-
-## quando pedir ajuda
-
-peça ajuda se a página não carregar, se o salvamento der erro ou se a opção esperada não aparecer.
+- A coluna não é um botão para atualizar agora.
+- Não confunda fonte ligada com importação bem-sucedida.
+- Ao pedir ajuda, informe a fonte e o texto do resumo, sem presumir que a data signifique publicação.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/noticias/fontes-rss/`
-- `suporte-kb/mapa/admin/telas/painel-noticias-fontes-rss.md`
+- `frontend/src/app/painel/noticias/fontes-rss/page.tsx:36` — última tentativa, resumo e erro.
+- `frontend/src/app/painel/noticias/fontes-rss/page.tsx:183` — busca.
+- `frontend/src/app/painel/noticias/fontes-rss/page.tsx:264` — célula de cada fonte.
+- Vídeo `r5rFCgAV0mg`, legenda em 9s e 15s.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os textos dos botões podem mudar.
-- revisão 2026-10-19: o formulário não tem mais campo de categoria (o artigo antigo citava). A conferência do endereço é automática ao sair do campo, não há botão de verificar. O catálogo adiciona direto pelo botão `Adicionar`, não preenche o formulário.
+Não conferidos os registros reais nem a execução dos agendadores em produção.

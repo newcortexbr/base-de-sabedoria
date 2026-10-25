@@ -13,7 +13,7 @@ Arquivos: `src/app/minha-conta/vagas/[id]/editar/page.tsx`, `vagas/VagaForm.tsx`
 - vaga reprovada: o link "Corrigir e reenviar" da lista leva aqui (`vagas/page.tsx:303`).
 
 ## ações e campos
-- os mesmos de Nova vaga (ver `minha-conta-vagas-nova.md`). Título muda para "Editar vaga".
+- os mesmos de Nova vaga (ver `minha-conta-vagas-nova.md`). Título muda para "Editar vaga" e o botão de enviar vira `Salvar alterações` (com `Cancelar`); janela final "Alterações salvas".
 
 ## APIs
 - `GET /painel/{portal}/vagas/{id}/` (`cliente-api.ts:2040`), `PATCH` do mesmo (`:2064`), áreas, contratante, config do portal.

@@ -1,10 +1,13 @@
 # /painel/guia/banners — banners publicitários (`.../banners/page.tsx`, 736 linhas)
 - gate: NÃO depende do módulo `guia`: `/painel/guia/banners` está em `ROTAS_FORA_DO_MODULO` (`src/lib/painel-menu.ts`); é publicidade do portal. Posições de banner dependem do módulo de cada posição (`MODULO_POR_POSICAO`, `banners/page.tsx:91`, `posicoesOferecidas` :113).
+- menu: item solto `Banners Publicitários` na parte Conteúdo do menu lateral (não fica dentro de `Guia Comercial`, `Sidebar.tsx:246`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
-- faz: lista todos os banners do portal, com filtros por página, formato, situação e busca; resolve nomes de ponto, roteiro e categoria por 3 chamadas auxiliares.
-- ações: ativar/desativar (`definirAtivo`, :443), excluir com `confirm` (:453-457), ir para novo/editar. Revalida o turismo quando o banner é de ponto/roteiro (`revalidarTurismoSePreciso`).
+- tela `Banners Publicitários`; botão `+ Novo Banner` (vazio: "Nenhum banner encontrado." com `+ Cadastrar banner`). cada banner tem `Desativar`/`Ativar`, `Editar` e `Excluir`.
+- filtros numa linha: busca `Buscar por título…`, lista `Página` (`Todas as páginas`, Home, Notícias, Guia Comercial, Vagas de Emprego, Classificados, Turismo, Eventos, Cupons, Artigos, Orçamentos, Radar de Preços, Doações, Sorteios, Melhores da Cidade; `regras.ts:146-160`), lista `Formato` (só depois de escolher a página; em Guia Comercial vira `Onde no Guia`, com `Topo — todo o Guia` e categorias), lista `Situação` (`No ar`, `Agendado`, `Vencido`, `Fora do ar`, `Aguardando pagamento`, `Pendente de aprovação`, `Reprovado`, `page.tsx:121-124`) e `Limpar`. a lista é paginada.
+- faz: lista todos os banners do portal; resolve nomes de ponto, roteiro e categoria por 3 chamadas auxiliares.
+- ações: ativar/desativar (`definirAtivo`, :443), excluir com aviso de confirmação do painel (`Excluir este banner?`, `page.tsx:147`), ir para novo/editar. Revalida o turismo quando o banner é de ponto/roteiro (`revalidarTurismoSePreciso`).
 - APIs: `guia.banners.listar|definirAtivo|excluir`, `guia.categorias.listar` (:388), buscas de pontos/roteiros.
-- estados: erro principal `erroCarregamento` (:364); erro auxiliar `erroAuxiliar` (:388) só avisa; vazio "Nenhum banner encontrado" (:591).
+- estados: erro principal `erroCarregamento` (:364); erro auxiliar `erroAuxiliar` (:388) só avisa; vazio "Nenhum banner encontrado." (`page.tsx:288`).
 - problemas: fato — `page.tsx` exporta valores e funções (`POSICOES_VENDAVEIS`, `posicoesOferecidas`, :30,113 etc.) importados por cadastrar/editar (`import { posicoesOferecidas } from '../page'`). Hipótese — o Next só aceita certos exports em `page.tsx`; o build atual passa, mas é acoplamento frágil. fato — a edição carrega a lista inteira e procura por id (ver editar).
 - admin vs cliente: o cliente compra e edita banner em `/minha-conta/publicidade` (nova, [id]/editar) via plano. O admin cria banner manualmente (CamposDeVenda: cliente, valor, contato) sem pagamento pelo portal e vê todos.
 

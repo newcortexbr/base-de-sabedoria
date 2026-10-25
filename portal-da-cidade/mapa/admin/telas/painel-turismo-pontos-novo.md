@@ -10,14 +10,18 @@
 
 ## o que você vê
 Tela para cadastrar um ponto turístico.
-- Dados básicos: nome, categoria (dá para criar uma categoria na hora), descrição e Tags (ex.: cachoeira, trilha, mirante).
-- Endereço completo: CEP, cidade e bairro.
-- Preço da entrada (ex.: R$ 20,00) ou Entrada gratuita.
-- horário em texto (ex.: Terça a domingo, 9h às 17h), que aparece como resumo, e horários de funcionamento por dia (24 horas ou Fechado).
+- para abrir: na parte Conteúdo do menu, em `Guia Turístico / Eventos`, clique em `Novo Ponto`.
+- "Foto principal": `Escolher foto`.
+- "Dados básicos": Nome *, Categoria (dá para criar uma na hora), Descrição e Tags (ex.: cachoeira, trilha, mirante; `+ Add` inclui a tag).
+- CEP, Cidade, Bairro e "📍 Endereço completo".
+- caixas Destaque, Ativo e Entrada gratuita; campo "Preço da entrada" (ex.: R$ 20,00).
+- "Horário (texto livre)" (ex.: Terça a domingo, 9h às 17h), que aparece como resumo, e "Horários de funcionamento" por dia da semana (caixas Fechado e 24 horas).
+- bloco "Informações": dados do quadro "Informações" da página pública.
 - Foto principal (recomendado 1200×800px) e galeria de fotos e vídeos do YouTube, que aparecem na página pública.
-- Dicas para visitantes: textos curtos sobre o ponto (+ Add, Salvar dica).
+- "Dicas para visitantes": textos curtos sobre o ponto (`+ Nova dica`, campos Título * e Descrição, `Salvar dica`).
 - SEO: ajuda a aparecer no Google; vazio usa nome e descrição.
-- Ativo (aparece no site) e Destaque (mais visibilidade).
+- Ativo (aparece no site) e Destaque (mais visibilidade) ficam em "Dados básicos".
+- `Cadastrar ponto` grava; `Cancelar` volta.
 - se algum item extra (foto, dica, horário) não for salvo, a tela avisa e abre a edição do ponto.
 
 ## posições na tela (print de 2026-10-16, 1280x900)

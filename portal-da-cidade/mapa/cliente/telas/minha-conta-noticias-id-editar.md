@@ -46,5 +46,5 @@ Arquivo: `src/app/minha-conta/noticias/[id]/editar/page.tsx`
 
 ## o que você vê
 Formulário para mudar uma notícia que você escreveu.
-- Os mesmos campos de "Nova notícia", já preenchidos; o botão é "Salvar".
+- Os mesmos campos de "Nova notícia", já preenchidos; os botões são `Salvar` e `Cancelar`.
 - "Esta notícia não existe ou não é uma das suas": você só edita as notícias que escreveu.

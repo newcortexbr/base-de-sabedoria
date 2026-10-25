@@ -8,14 +8,15 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - JYDoZB_vyX8
 ---
 
 ## objetivo
-aqui você tira do ar tudo o que o responsável publicou naquela parte do site. Dá para desfazer depois.
+
+O responsável fica bloqueado neste módulo, e o conteúdo dele nesse módulo sai do ar. O bloqueio pode ser desfeito.
 
 ## pré-requisitos
 
@@ -23,29 +24,23 @@ aqui você tira do ar tudo o que o responsável publicou naquela parte do site. 
 
 ## passos
 
-1. No menu da esquerda, logo no começo, clique em `Aprovações e Denúncias`. [guia=menu:/painel/aprovacoes]
-2. Para ver as denúncias, clique na aba `Denúncias`. [guia=aprovacoes-aba:denuncias]
-3. Clique na denúncia que você quer ver, para abrir os detalhes. [guia=denuncias.abrir]
-4. Para tirar do ar tudo o que aquele responsável publicou nessa parte do site, clique em `Bloquear empresa/conta` (pode ser desfeito depois). [guia=denuncias.bloquear]
-5. Confirme na janela que aparece. [guia=denuncias.bloquear]
+1. No começo do menu da esquerda, clique em `Aprovações e Denúncias`. [guia=menu:/painel/aprovacoes]
+2. Clique na aba `Denúncias`. [t=82] [guia=aprovacoes-aba:denuncias]
+3. Clique na linha da denúncia pendente. [t=84] [guia=denuncias.abrir]
+4. Clique em `Bloquear empresa/conta`. [t=96] [guia=denuncias.bloquear]
+5. Na confirmação, clique em `Bloquear`. [guia=confirmacao.confirmar]
 
 ## resultado
-O que aquele responsável publicou naquela parte do site sai do ar.
 
-## desvios
-
-- Com a fila desligada, os envios dos clientes não passam por você.
-- `A Voz do Povo` é outra coisa: são relatos de moradores, em outra tela.
-
-## quando pedir ajuda
-
-peça ajuda se a página não carregar, se o salvamento der erro ou se a opção esperada não aparecer.
+O responsável fica bloqueado neste módulo, e o conteúdo dele nesse módulo sai do ar. O bloqueio pode ser desfeito.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/aprovacoes/`: `AprovacoesEDenuncias.tsx`, `ConfigDaFila.tsx`
-- `suporte-kb/mapa/admin/telas/painel-aprovacoes.md`
+- `frontend/src/app/painel/denuncias/[id]/page.tsx:24`
+- `frontend/src/app/painel/denuncias/[id]/page.tsx:158`
+
+- Catálogo: `portal-da-cidade/videos.json`; legendas: `videos/legendas/JYDoZB_vyX8.srt`.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os textos dos botões podem mudar.
+- Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.

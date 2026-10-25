@@ -3,7 +3,7 @@
 Arquivo: `src/app/minha-conta/vagas/page.tsx`
 
 ## quem acessa
-- empresa (menu "Vagas de emprego", via `rotaDaSecao('vagas')`, `secoes-do-cliente.ts:46`).
+- empresa (menu "Vagas de Emprego", via `rotaDaSecao('vagas')`, `secoes-do-cliente.ts:46`).
 - colunista, pessoa física e jornalista: redirecionados (fora das listas).
 
 ## gate de módulo/plano
@@ -15,7 +15,7 @@ Arquivo: `src/app/minha-conta/vagas/page.tsx`
 - lista todas as vagas do cliente (todas as páginas, até um teto), com contadores "Vagas no ar" e "Em análise", filtro por situação e faixa do plano.
 
 ## ações e campos
-- Nova vaga, editar (lápis), pausar/reativar (só ativa/pausada), excluir com `confirm()` do navegador (`page.tsx:185`).
+- botão `Nova vaga` (topo); em cada vaga, botões só de ícone `Editar <título>`, `Pausar`/`Reativar <título>`, `Excluir <título>`. Detalhe: Nova vaga, editar (lápis), pausar/reativar (só ativa/pausada), excluir com `confirm()` do navegador (`page.tsx:185`).
 - filtro: Todas, Ativa, Pausada, Aguardando aprovação, Reprovada, Encerrada.
 - vaga reprovada mostra motivo e link "Corrigir e reenviar".
 - vaga pendente: "Sua vaga está aguardando aprovação do dono do portal. Assim que for aprovada, ela entra no ar." (`page.tsx:330`).

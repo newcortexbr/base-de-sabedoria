@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - VV8BxCbIfz4
@@ -23,6 +23,7 @@ aqui você monta o cardápio com fotos e preços de um restaurante, bar ou lanch
 
 - Ter acesso administrativo ao portal.
 - O módulo Guia Comercial estar disponível no portal.
+- A empresa ter ficha completa; a cortesia do portal também atende a essa condição.
 - A categoria da empresa ter `Cardápio` marcado em `Gerenciar Categorias`; sem isso o cartão não aparece.
 
 ## veja também
@@ -32,23 +33,22 @@ aqui você monta o cardápio com fotos e preços de um restaurante, bar ou lanch
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas]
 2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar] [t=17]
-3. Desça até `Conteúdo da ficha` e, no cartão `Cardápio`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-cardapio] [t=22]
-4. Para criar uma seção (por exemplo, Bebidas), clique em `+ Nova seção`. [guia=guia-empresas-cardapio.nova-secao] [t=85]
+3. Desça até `Conteúdo da ficha` e, no cartão `Cardápio`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-cardapio] [t=20]
+4. Para criar uma seção (por exemplo, Bebidas), clique em `+ Nova seção`. [guia=guia-empresas-cardapio.nova-secao] [t=88]
 5. Escreva o nome da seção. [guia=guia-empresas-cardapio.nome-secao] [t=88]
-6. Clique em `Criar`. [guia=guia-empresas-cardapio.criar-secao] [t=88]
-7. No fim da seção, clique em `+ Adicionar prato`. [guia=guia-empresas-cardapio.adicionar-prato] [t=109]
-8. Envie a foto do prato (JPG ou PNG, até 10 MB). [guia=guia-empresas-cardapio.foto] [t=112]
-9. Escreva o `Nome do prato *`. [guia=guia-empresas-cardapio.nome-prato] [t=115]
-10. Escreva a `Descrição` (ingredientes ou modo de preparo). [guia=guia-empresas-cardapio.descricao] [t=119]
-11. Informe o `Preço (R$)`. [guia=guia-empresas-cardapio.preco] [t=123]
-12. Para promoção, preencha também o `Preço promocional (R$)`. [guia=guia-empresas-cardapio.preco-promocional] [t=125]
-13. Se quiser, marque as `Tags` (viram selos no prato). [guia=guia-empresas-cardapio.tags] [t=132]
-14. Clique em `Salvar prato`. [guia=guia-empresas-cardapio.salvar-prato] [t=138]
-15. Para mudar um prato depois, clique no lápis dele. [guia=guia-empresas-cardapio.nome-prato]
+6. Clique em `Criar`. [guia=guia-empresas-cardapio.criar-secao] [t=90]
+7. No fim da seção, clique em `+ Adicionar prato`. [guia=guia-empresas-cardapio.adicionar-prato] [t=111]
+8. Em `Adicionar foto`, escolha a imagem do prato. [guia=guia-empresas-cardapio.foto] [t=113]
+9. Escreva o `Nome do prato *`. [guia=guia-empresas-cardapio.nome-prato] [t=117]
+10. Escreva a `Descrição` (ingredientes ou modo de preparo). [guia=guia-empresas-cardapio.descricao] [t=120]
+11. Informe o `Preço (R$)`. [guia=guia-empresas-cardapio.preco] [t=122]
+12. Para promoção, preencha também o `Preço promocional (R$)`. [guia=guia-empresas-cardapio.preco-promocional] [t=126]
+13. Se quiser, marque as `Tags` (viram selos no prato). [guia=guia-empresas-cardapio.tags] [t=131]
+14. Clique em `Salvar prato`. [guia=guia-empresas-cardapio.salvar-prato] [t=140]
 
 ## resultado
 
-o prato aparece na seção e, quando publicado, no cardápio da página da empresa no portal. se você preencheu o preço promocional, o site mostra o preço antigo riscado ao lado do novo.
+O prato é salvo na seção escolhida e aparece o aviso `Prato salvo`. A publicação também depende do estado da seção e da disponibilidade do cardápio na ficha da empresa.
 
 ## desvios
 
@@ -63,10 +63,11 @@ peça ajuda se o cartão `Cardápio` não aparecer mesmo com a categoria marcada
 
 ## fontes
 
-- `portal-cidade/frontend/src/components/painel/EmpresaEditor.tsx:933-946,1655-1686` — cartões de `Conteúdo da ficha`.
-- `portal-cidade/frontend/src/app/painel/guia/empresas/[id]/cardapio/page.tsx:1` — tela `Gerenciar Cardápio`.
-- vídeo `VV8BxCbIfz4` (tutorial Gerenciar Cardápio).
+- `portal-cidade/frontend/src/components/painel/EmpresaEditor.tsx:949-974,1735-1744`.
+- `portal-cidade/frontend/src/app/painel/guia/empresas/[id]/cardapio/page.tsx:100-124,172-271,478-492,649-669`.
 
 ## lacunas
 
-não verificado visualmente nesta tarefa; passos conferidos com o vídeo de suporte e com o código da tela. O botão do prato é `+ Adicionar prato`, como no vídeo.
+A tela informa `JPG ou PNG, máx. 10MB` (`cardapio/page.tsx:185`), mas não foi auditada a validação desse limite no servidor.
+
+Conferência documental no código b2f62d3f e nas legendas dos vídeos citados. Sem execução no navegador; não foram medidos cache, entrega de pedidos, impressão ou upload reais.

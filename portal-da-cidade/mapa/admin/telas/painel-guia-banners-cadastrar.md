@@ -1,8 +1,12 @@
 # /painel/guia/banners/cadastrar — novo banner (`.../cadastrar/page.tsx`)
 - gate: NÃO depende do módulo `guia`: `/painel/guia/banners` está em `ROTAS_FORA_DO_MODULO` (`src/lib/painel-menu.ts`); é publicidade do portal. Posições de banner dependem do módulo de cada posição (`MODULO_POR_POSICAO`, `banners/page.tsx:91`, `posicoesOferecidas` :113).
+- menu: item solto `Banners Publicitários` na parte Conteúdo do menu lateral (não fica dentro de `Guia Comercial`, `Sidebar.tsx:246`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
-- campos: Título, Imagem (obrigatória, :79), URL de destino, Posição (`SeletorDePosicao`), Categoria do Guia (para topo do guia), Data início/fim, Ordem, ativo; para ponto turístico (`CamposDoPontoTuristico`) ou roteiro (`CamposDoRoteiro`); venda manual (`CamposDeVenda`: nome da empresa, telefone, valor do plano, cliente, contato/endereço público); exibição (`CamposDeExibicao`); prévia ao lado (`PreviaDoBanner`).
-- APIs: `guia.categorias.listar` (:40, `.catch(() => {})`), `guia.banners.criar` (:125). Salvou → lista (:130).
+- chegar: `Banners Publicitários` > botão `+ Novo Banner`. título da tela `Novo Banner`.
+- campos (rótulos exatos, `cadastrar/page.tsx:147-285`): `Título *`, `Imagem *` (obrigatória), `URL de Destino`, `Posição *` (lista de locais com busca `Filtrar local de exibição`, agrupada por página; `SeletorDePosicao`), `Categoria do Guia` (só na posição de topo do Guia; opção `Todas as categorias (banner geral do Guia)`), `Data início`, `Data fim`, `Ordem`, caixa `Ativo`. botões `Salvar Banner` e `Cancelar`.
+- só em posição de ponto turístico (`CamposDoPontoTuristico`): `Ponto turístico`, `Texto acima do banner`, `Empresa do Guia (opcional)`, `Distância digitada (km)`; e bloco `O que aparece no card` com `WhatsApp (botão CONTATO)` e `Endereço (botão COMO CHEGAR)` (`CamposDeExibicao`). só em posição de roteiro (`CamposDoRoteiro`): `Roteiro sugerido`, `Texto acima do banner`.
+- bloco `Dados da venda` (sempre; `CamposDeVenda`): `Nome da Empresa *`, `Telefone *`, `Valor do Plano *`, `Atrelar a um cliente`. prévia do banner ao lado (`PreviaDoBanner`).
+- APIs: `guia.categorias.listar` (:40, `.catch(() => {})`), `guia.banners.criar` (:125). Salvou → volta para a lista de banners (:130). a seta `←` no topo também volta.
 - estados: "Selecione uma imagem." (:79); telefone inválido (:81); `formatApiError` (:132).
 - problemas: fato — erro de categorias engolido (:40): o campo de categoria fica vazio sem aviso.
 - admin vs cliente: o cliente usa `/minha-conta/publicidade/nova` (escolhe plano, paga, imagem, URL). Admin não passa pelo pagamento e pode usar posições de ponto/roteiro.

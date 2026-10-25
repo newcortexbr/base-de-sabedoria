@@ -8,48 +8,50 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-20
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - Ps1cgdLQ1FI
 ---
 
 ## objetivo
-aqui você apaga um anúncio. A exclusão é definitiva.
+
+Aqui você apaga permanentemente um anúncio classificado.
 
 ## pré-requisitos
 
-- Ter acesso administrativo ao portal.
-- O módulo de classificados estar ativo.
+- Ter acesso de administrador ao painel do portal.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Classificados` e depois em `Listar Anúncios`. [guia=menu:/painel/classificados]
-2. No topo da lista de anúncios, escreva o título ou a descrição no campo de busca. [guia=classificados.busca]
-3. Se quiser, escolha a situação do anúncio. [guia=classificados.situacao]
-4. Clique em `Filtrar`. [guia=classificados.filtrar]
-5. Para apagar, clique em `Excluir` na linha do anúncio. [guia=classificados.excluir]
-6. Leia a pergunta que o navegador abre: a exclusão é definitiva. Só então confirme. [guia=classificados.excluir]
+1. Na parte `Conteúdo` do menu, em `Classificados`, clique em `Listar Anúncios`. [t=18] [guia=menu:/painel/classificados]
+2. Digite o título ou a descrição em `Buscar por título ou descrição...`. [t=31] [guia=classificados.busca]
+3. Clique em `Filtrar`. [guia=classificados.filtrar]
+4. Clique em `Excluir` na linha do anúncio. [t=52] [guia=classificados.excluir]
+5. Na pergunta `Excluir este anúncio permanentemente?`, clique em `Excluir`. [guia=confirmacao.confirmar]
 
 ## resultado
-O anúncio some da lista.
+
+O anúncio é removido da lista após a exclusão.
 
 ## desvios
 
-- Para vagas de emprego, veja o artigo "localizar e gerenciar vagas de emprego no painel".
-- Anúncio vencido pode sair do ar automaticamente. Este artigo não define regras de cobrança ou publicação.
+- Se o produto já foi vendido e você quer guardar o cadastro, veja “marcar um classificado como vendido”.
 
 ## quando pedir ajuda
 
-peça ajuda se o anúncio não aparecer ou se houver dúvida sobre edição, remoção ou situação. A IA não publica, exclui nem altera registros.
+Peça ajuda se a tela não carregar ou se a ação mostrar erro. Informe a mensagem e a ação tentada, sem enviar senha.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/vagas/page.tsx:1`
-- `portal-cidade/frontend/src/app/painel/classificados/page.tsx:1`
-- `portal-cidade/CLAUDE.md:55-56`
-- `portal-cidade/docs/PRODUCT.md:43-44`
+- Código do portal no HEAD `b2f62d3f`; base revisada a partir de `814f097`.
+- `frontend/src/app/painel/classificados/page.tsx:168`.
+- `frontend/src/app/painel/classificados/page.tsx:365`.
+- `frontend/src/components/painel/ModalAvisoConfirmacao.tsx:153`.
+- Vídeo `Ps1cgdLQ1FI`: catálogo `portal-da-cidade/videos.json`, transcrição `videos/conteudo/Ps1cgdLQ1FI.md` e legenda `videos/legendas/Ps1cgdLQ1FI.srt`.
 
 ## lacunas
 
-os filtros e ações internas da lista não foram examinados em detalhe; orientamos somente as rotas confirmadas.
+Não houve validação no navegador nem execução do produto. As regras e os rótulos descritos foram conferidos por leitura do código. Tempos indicam o trecho da transcrição/legenda, não uma reprodução validada da interface atual.
+
+O vídeo cita a exclusão, mas não demonstra a confirmação. Não há tempo atribuído ao que não foi demonstrado.

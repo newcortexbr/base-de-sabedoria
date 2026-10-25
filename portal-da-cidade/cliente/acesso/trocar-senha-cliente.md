@@ -15,7 +15,7 @@ tipo_problema:
   - troco minha senha
 modulo: acesso
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 ---
 
@@ -30,38 +30,38 @@ trocar a senha de uma conta que já está conectada na área do cliente.
 
 ## passos
 
-1. No menu da esquerda da sua área, na parte `Minha conta`, clique em `Segurança` (`/minha-conta/seguranca`). [guia=menu:/minha-conta/seguranca]
+1. No menu da esquerda, clique em `Segurança` (na área de empresa fica na parte `Minha conta`). [guia=menu:/minha-conta/seguranca]
 2. No quadro `Senha`, escreva a senha que você usa hoje em `Senha atual`. [guia=seguranca:senha-atual]
 3. Escreva a senha nova em `Nova senha`. [guia=seguranca:nova-senha]
-4. Repita a senha nova em `Confirmar nova senha`. Para ver o que digitou, clique em `Mostrar senhas`. [guia=seguranca:nova-senha]
-5. Clique em `Salvar nova senha`. Aparece "Senha alterada. Você continua conectado neste aparelho." [guia=seguranca.salvar]
+4. Repita a senha nova em `Confirmar nova senha`. [guia=seguranca:confirmacao-senha]
+5. Se quiser conferir o que digitou, clique em `Mostrar senhas`. [guia=seguranca.mostrar-senhas]
+6. Clique em `Salvar nova senha`. [guia=seguranca.salvar]
 
 ## resultado
 
-cliente: a senha é alterada e você continua conectado neste aparelho. Os outros aparelhos em que você entrou são desconectados.
-
-jornalista: a sessão é encerrada. A tela mostra “Senha trocada” e o botão “Entrar de novo”; entre com a senha nova.
+cliente: aparece "Senha alterada. Você continua conectado neste aparelho." e a senha é trocada. Os outros aparelhos em que você entrou são desconectados.
+jornalista: a tela mostra "Senha trocada. Por segurança, entre de novo com a senha nova." e o botão `Entrar de novo`; entre com a senha nova.
 
 ## desvios
 
-- Senha atual errada: o erro aparece no campo “Senha atual”.
-- Confirmação diferente: a tela mostra “As senhas não conferem.” e nada é salvo.
-- A nova senha precisa atender à regra mostrada abaixo do campo “Nova senha”; o servidor pode recusar a senha se ela for considerada fraca.
-- Aviso de muitas tentativas: aguarde alguns minutos e tente de novo.
-- Administrador do painel não troca a senha aqui. Veja "trocar a minha senha do painel".
+- senha atual errada: o erro aparece no campo `Senha atual`.
+- confirmação diferente: a tela mostra "As senhas não conferem." e nada é salvo.
+- a regra da senha aparece abaixo de `Nova senha`: pelo menos 8 caracteres, e não pode ser só números nem uma senha comum.
+- aviso de muitas tentativas: aguarde alguns minutos e tente de novo.
+- administrador do painel não troca a senha aqui. Veja "trocar a minha senha do painel".
 
 ## quando pedir ajuda
 
-se não souber a senha atual, esta tela não resolve. Use “Esqueci minha senha” na tela de entrada (`cliente/acesso/recuperar-senha-cliente.md`). Não envie senha nem código ao suporte.
+se não souber a senha atual, esta tela não resolve. Use `Esqueci minha senha` na tela de entrada (veja "recuperar a senha da área do cliente"). Não envie senha nem código ao suporte.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/minha-conta/seguranca/page.tsx:30-75,94-135`
-- `portal-cidade/frontend/src/app/minha-conta/perfil-da-area.ts:46,56,67`
-- `portal-cidade/frontend/src/lib/painel-menu.ts:121`
-- `portal-cidade/frontend/src/app/minha-conta/seguranca/page.tsx:95,123` — textos de sucesso do jornalista e do cliente.
+- `portal-cidade/frontend/src/app/minha-conta/seguranca/page.tsx:37,87-135` — campos, botões e mensagens.
+- `portal-cidade/frontend/src/lib/politica-de-senha.ts:5-9` — regra da senha.
+- `portal-cidade/frontend/src/app/minha-conta/perfil-da-area.ts:46,56,67` — `Segurança` existe em todos os perfis.
 
 ## lacunas
 
-- Tela não validada no navegador nesta tarefa; passos vêm do código.
-- O e-mail de aviso citado pela tela depende da fila de e-mails do portal; entrega não verificada.
+- tela não validada no navegador; passos vêm do código.
+- o e-mail de aviso citado na tela depende da fila de e-mails; entrega não verificada.
+- o texto "outros aparelhos desconectados" é o da tela; o comportamento no servidor não foi verificado.

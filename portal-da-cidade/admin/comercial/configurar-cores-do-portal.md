@@ -3,15 +3,12 @@ id: admin-configurar-cores-do-portal
 titulo: "mudar as cores do portal"
 publico:
   - admin
-modulo: configuracoes
+modulo: configurações
 categoria: admin
 aba: nao-se-aplica
-tipo_problema:
-  - mudar a cor do portal
-  - cor dos botões
-  - cor de destaque
+tipo_problema: configuracao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - lrTaEV5JnVM
@@ -19,40 +16,40 @@ videos:
 ---
 
 ## objetivo
-aqui você muda as duas cores do portal: a primária, de tudo que se clica, e a de destaque.
+
+aqui você muda a cor primária, usada nos elementos clicáveis, e a cor de destaque, usada em títulos de seção, selos e etiquetas.
 
 ## pré-requisitos
 
-- Ter acesso de administrador ao painel.
+- Ter acesso de administrador ao painel do portal.
 
 ## passos
 
-1. No menu da esquerda, clique em `Configurações` e depois em `Layout`. [guia=menu:/painel/configuracoes/layout]
-2. Clique em `Cores`. [guia=configuracoes-layout.partes]
-3. Em `Cor Primária`, clique numa das cores prontas ou escolha na paleta. [guia=fora]
-4. Em `Cor de Destaque`, escolha a cor do mesmo jeito. [guia=fora]
-5. Clique em `Salvar cores`. [guia=configuracoes-layout.salvar]
-
-a cor primária vale para botões, links, paginação, campos de formulário e a área do cliente. A cor de destaque vale para o nome das seções, a barrinha do título, selos e etiquetas.
-
-em `Onde ela aparece`, você vê exemplos com a cor escolhida, e um aviso confirma se o texto fica legível. Na prévia, escolha a página que quer ver (início, guia, empresa, notícia, vagas, classificados ou telas de conta) e, em `Acender`, destaque só a primária ou só a de destaque para ver onde cada uma aparece.
+1. Na parte `Sistema` do menu da esquerda, clique em `Configurações` para abrir as opções, se estiverem fechadas. [t=4] [guia=configuracoes.abrir-menu]
+2. Clique em `Layout`. [t=6] [guia=menu:/painel/configuracoes/layout]
+3. Clique no cartão `Cores`. [t=7] [guia=configuracoes-layout.cores]
+4. Em `Cor Primária`, preencha o campo de código da cor, no formato `#000000`. [t=10] [guia=cores.primaria]
+5. Em `Cor de Destaque`, preencha o campo de código da outra cor, no mesmo formato. [t=16] [guia=cores.destaque]
+6. Clique em `Salvar cores`. [t=32] [guia=configuracoes-layout.salvar]
 
 ## resultado
-aparece "✓ Salvo!" e o site passa a usar as cores novas.
+
+aparece `Cores salvas` e o site recebe as novas cores. Antes de salvar, os exemplos e a prévia mostram o rascunho.
+
+## explicação
+
+Cada cor também tem sugestões prontas e uma paleta. O quadro `Onde ela aparece` mostra exemplos e avisos de legibilidade. As cores das barras do cabeçalho e do rodapé são ajustadas nos artigos de `Topo` e `Rodapé`.
 
 ## desvios
 
-- Se o site ainda mostrar a cor antiga, veja "salvei, mas o site ainda mostra o antigo".
-
-## quando pedir ajuda
-
-peça ajuda se aparecer "Falha ao revalidar layout".
+Se salvar falhar, a tela mostra o erro. A prévia sozinha não confirma que o site foi atualizado.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/configuracoes/layout/cores/page.tsx:12-38,134,166,197`.
-- `portal-cidade/frontend/src/app/painel/configuracoes/layout/page.tsx:31,85`.
+- `portal-cidade/frontend/src/app/painel/configuracoes/layout/cores/page.tsx:76` — salvamento.
+- `portal-cidade/frontend/src/app/painel/configuracoes/layout/cores/page.tsx:133` — duas cores.
+- `portal-cidade/frontend/src/app/painel/configuracoes/layout/cores/page.tsx:256` — campos de código.
 
 ## lacunas
 
-tela não validada no navegador nesta tarefa.
+Sem validação no navegador ou medição do tempo de atualização pública.

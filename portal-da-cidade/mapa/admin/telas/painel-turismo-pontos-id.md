@@ -10,15 +10,18 @@
 
 ## o que você vê
 Tela para mudar um ponto turístico; os campos são os do cadastro, e cada bloco (dados, informações, horários, fotos, dicas) tem seu próprio botão de salvar.
-- Dados básicos: nome, categoria (dá para criar uma categoria na hora), descrição e Tags (ex.: cachoeira, trilha, mirante).
+- chega-se por `Editar` na lista de Pontos Turísticos. Título da tela: "Editar Ponto Turístico"; `← Voltar` volta.
+- Dados básicos: Nome *, Categoria (dá para criar uma categoria na hora), descrição e Tags (ex.: cachoeira, trilha, mirante).
 - Endereço completo: CEP, cidade e bairro.
-- Preço da entrada (ex.: R$ 20,00) ou Entrada gratuita.
-- horário em texto (ex.: Terça a domingo, 9h às 17h), que aparece como resumo, e horários de funcionamento por dia (24 horas ou Fechado).
+- campo "Preço da entrada" (ex.: R$ 20,00) e caixa Entrada gratuita.
+- "Horário (texto livre)" e "Horários de funcionamento" por dia (Fechado ou 24 horas); `Salvar horários` grava só os horários.
 - Foto principal (recomendado 1200×800px) e galeria de fotos e vídeos do YouTube, que aparecem na página pública.
-- Dicas para visitantes: textos curtos sobre o ponto (+ Add, Salvar dica).
+- "Dicas para visitantes": textos curtos sobre o ponto (`+ Nova dica`, `Salvar dica`).
 - SEO: ajuda a aparecer no Google; vazio usa nome e descrição.
 - Ativo (aparece no site) e Destaque (mais visibilidade).
-- Informações: dados que aparecem no quadro "Informações" da página pública; a legenda de cada foto vira o texto alternativo da imagem.
+- "Informações": dados do quadro "Informações" da página pública, com `Salvar informações` próprio.
+- "Galeria de fotos e vídeos": `+ Adicionar fotos`; cada foto tem legenda com `Salvar legenda` (vira o texto alternativo da imagem).
+- `Salvar alterações` (no fim da tela) grava os dados básicos, SEO e o restante.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-pontos-id.png](../prints/painel-turismo-pontos-id.png) · dados brutos: [json](../prints/json/painel-turismo-pontos-id.json)

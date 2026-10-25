@@ -11,41 +11,50 @@ tipo_problema:
   - subcategoria de classificados
   - criar categoria classificados
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
+videos:
+  - Ps1cgdLQ1FI
 ---
 
 ## objetivo
-aqui você cria as categorias e subcategorias que organizam os anúncios classificados.
+
+Aqui você cria uma categoria para organizar os anúncios classificados.
 
 ## pré-requisitos
 
-- Ter acesso de administrador ao painel.
+- Ter acesso de administrador ao painel do portal.
 
 ## passos
 
-1. No menu da esquerda, clique em `Classificados` e depois em `Categorias`. [guia=menu:/painel/classificados/categorias]
-2. Clique em `+ Nova Categoria`. [guia=fora]
-3. Escreva o `Nome *` e, se quiser, escolha a `Cor` e o `Ícone`. [guia=fora]
-4. Clique em `Salvar`. [guia=fora]
+1. Na parte `Conteúdo` do menu, em `Classificados`, clique em `Categorias`. [t=66] [guia=menu:/painel/classificados/categorias]
+2. Clique em `+ Nova Categoria`. [guia=classificados-categorias.nova]
+3. Preencha `Nome *`. [guia=classificados-categorias.nome]
+4. Se quiser, escolha `Ícone`. [guia=classificados-categorias.icone]
+5. Deixe `Ativa` marcada para cadastrar uma categoria ativa. [guia=classificados-categorias.ativa]
+6. Escolha `Cor`. [guia=classificados-categorias.cor]
+7. Clique em `Salvar`. [guia=classificados-categorias.salvar]
 
 ## resultado
-a categoria entra na lista como `Ativa`.
+
+A categoria entra na lista com o estado escolhido em `Ativa`.
 
 ## desvios
 
-- Para criar subcategoria, clique em `▼ Subs` na linha da categoria e depois em `+ Nova Subcategoria`.
-- Desmarcar `Ativa` desliga a categoria sem apagar.
-- Excluir uma categoria deixa os anúncios dela sem categoria.
+- Para subdividir uma categoria, veja “criar uma subcategoria de classificados”.
+- Excluir uma categoria deixa os anúncios vinculados sem categoria.
 
 ## quando pedir ajuda
 
-peça ajuda antes de excluir uma categoria com muitos anúncios.
+Peça ajuda se a tela não carregar ou se a ação mostrar erro. Informe a mensagem e a ação tentada, sem enviar senha.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/classificados/categorias/page.tsx:69-317` — botões, campos e confirmação.
+- Código do portal no HEAD `b2f62d3f`; base revisada a partir de `814f097`.
+- `frontend/src/app/painel/classificados/categorias/page.tsx:72`.
+- `frontend/src/app/painel/classificados/categorias/page.tsx:216`.
+- Vídeo `Ps1cgdLQ1FI`: catálogo `portal-da-cidade/videos.json`, transcrição `videos/conteudo/Ps1cgdLQ1FI.md` e legenda `videos/legendas/Ps1cgdLQ1FI.srt`.
 
 ## lacunas
 
-tela não validada no navegador nesta tarefa.
+Não houve validação no navegador nem execução do produto. As regras e os rótulos descritos foram conferidos por leitura do código. Tempos indicam o trecho da transcrição/legenda, não uma reprodução validada da interface atual.

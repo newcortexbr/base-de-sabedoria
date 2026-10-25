@@ -20,7 +20,7 @@ Arquivo: `src/app/minha-conta/colunista-blog/page.tsx`
 - lista os artigos do autor com contadores "No ar" e "Agendados", faixa do plano com limite semanal.
 
 ## ações e campos
-- Novo artigo, Ver no site (só publicado com plano ativo), Editar (só com plano ativo), Excluir (`confirm`: "Excluir este artigo? Esta ação não pode ser desfeita.").
+- botão `Novo artigo` (topo, só com plano ativo ou gratuito valendo); em cada artigo, botões só de ícone `Ver no site`, `Editar`, `Excluir`. Detalhe: Novo artigo, Ver no site (só publicado com plano ativo), Editar (só com plano ativo), Excluir (`confirm`: "Excluir este artigo? Esta ação não pode ser desfeita.").
 - link "Meus dados" para o perfil de colunista (só para empresa, `:238-243`).
 
 ## APIs
@@ -55,3 +55,4 @@ Lista dos seus artigos (seção Artigos), com a situação do seu plano.
 - Plano vencido ou cancelado: os planos aparecem de novo; você ainda vê e apaga seus artigos, mas não cria nem edita.
 - Aguardando pagamento: só aparece o quadro de pagamento.
 - Meus dados: atalho para o seu perfil de colunista (para empresas).
+- Lista "Seus artigos"; sem nenhum: "Você ainda não escreveu nenhum artigo."

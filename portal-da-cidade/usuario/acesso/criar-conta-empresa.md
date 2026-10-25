@@ -11,16 +11,16 @@ permissoes:
   - visitante
 modulo: acesso
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
-  - Uv6Zt7V9YN0
   - d2EweodukHg
+  - Uv6Zt7V9YN0
 ---
 
 ## objetivo
 
-criar a conta ligada ao cadastro da empresa, entrar na área do cliente e cadastrar a empresa no Guia Comercial.
+criar a conta da empresa pelo cadastro do portal e entrar na área do cliente. O cadastro grátis pede o nome, o WhatsApp, o e-mail e uma senha, e confirma o e-mail com um código.
 
 ## pré-requisitos
 
@@ -29,37 +29,29 @@ criar a conta ligada ao cadastro da empresa, entrar na área do cliente e cadast
 
 ## passos
 
-1. Abra a página `Anuncie Aqui` do portal, no endereço `/anuncie`.
-2. Desça até o formulário de cadastro e preencha seus dados: nome, `E-mail`, `WhatsApp`, `Senha` e os dados da empresa que forem pedidos.
-3. Clique no botão de criar conta, no fim do formulário.
-4. Abra seu e-mail. Você recebe um código de 6 números. Digite esses números no quadro `Confirme seu e-mail`. Se não chegou, clique em `Reenviar código`.
-5. Quando aparecer `Conta criada!`, clique em `Entrar na minha conta` para ir à página de entrada (`/minha-conta/login`).
+1. Na página inicial do portal, procure a faixa `Divulgue seu negócio no portal da cidade` (na página do `Guia Comercial` ela se chama `Divulgue sua Empresa em nosso portal`) e clique em `Quero anunciar`. [guia=anuncie.quero-anunciar] [t=49]
+2. Na página que abrir, no quadro `Cadastre sua empresa`, preencha `Nome completo` e `Nome da empresa`. [guia=conta.formulario]
+3. Preencha `WhatsApp` e `E-mail`. [guia=conta.formulario]
+4. Em `Senha`, crie uma senha com no mínimo 8 caracteres. [guia=conta.formulario]
+5. Clique em `Criar conta`, no fim do quadro. [guia=conta.criar]
+6. Abra o seu e-mail e copie o código de 6 números que o portal enviou. [guia=fora]
+7. Na tela `Confirme seu e-mail`, digite os 6 números nos quadradinhos e clique em `Confirmar e continuar`. [guia=conta.codigo]
 
 ## explicação
 
-- no Guia Comercial, a empresa ganha uma página própria, sem precisar de site: galeria de fotos, lista de serviços, mapa com o botão de como chegar, WhatsApp, cardápio digital e delivery (para restaurantes), catálogo de produtos, cupons, sorteios, pedidos de orçamento, avaliações do Google e destaque na busca.
-- o cadastro da empresa no guia só é feito depois de contratar um plano do Guia (veja "cadastrar sua empresa no Guia Comercial").
+- no celular, a página mostra o botão `Cadastrar minha empresa grátis`, que leva ao mesmo quadro.
+- se o portal não conseguir entrar sozinho, aparece `Conta criada!`; clique em `Entrar na minha conta` e use o e-mail e a senha que você acabou de criar.
+- esta página cria só a conta. O cadastro da empresa no Guia Comercial é feito depois, dentro da área do cliente, no menu `Guia Comercial`; veja os artigos "cadastrar sua empresa no Guia Comercial" e "completar a ficha da empresa no Guia Comercial".
 
 ## resultado
 
-A conta e o cadastro são criados depois da confirmação do e-mail. A empresa pode ser associada à conta de cliente.
-
-## depois de entrar
-
-1. Contrate um plano do Guia Comercial em `Planos e assinaturas`.
-2. No menu da esquerda da área do cliente, clique em `Guia Comercial`. No topo aparece o plano com os recursos que ele inclui.
-3. Preencha os dados da empresa: pegue os dados do Google Meu Negócio pela busca do nome ou cadastre manualmente (nome e descrição; o CEP preenche bairro e rua e a localização no mapa é descoberta pelo endereço).
-4. Escolha a categoria (ela define as páginas extras, como cardápio e delivery para restaurantes) e a subcategoria, que é obrigatória.
-5. Preencha o horário de funcionamento (há atalho para aplicar o mesmo horário a todos os dias, e marcação de fechado ou aberto 24 horas).
-6. Clique em `Publicar no guia`: o cadastro vai para análise e aparece "seu cadastro está em análise". Quando o portal aprova, a tela mostra "Sua empresa está publicada no site" e o botão `Ver no site`.
-
-Detalhes completos: artigos "cadastrar sua empresa no Guia Comercial" e "completar a ficha da empresa no Guia Comercial".
+A conta é criada depois da confirmação do e-mail; em seguida o portal entra na conta sozinho e abre a área do cliente.
 
 ## desvios
 
-- `/anuncie/cadastro` redireciona para `/anuncie`; comece pelo formulário dessa página.
-- Se o código não chegar, confira se informou o e-mail certo e se consegue receber mensagens nele. O formulário oferece reenvio.
-- Não conclua que o cadastro foi criado antes da confirmação: a conta não nasce pela metade.
+- Se o código não chegou, na tela `Confirme seu e-mail` clique em `Reenviar código`; se digitou o e-mail errado, clique em `Trocar e-mail`.
+- O endereço antigo `/anuncie/cadastro` redireciona para a mesma página de cadastro.
+- Não conclua que a conta foi criada antes da confirmação do e-mail: ela só nasce depois do código.
 
 ## quando pedir ajuda
 
@@ -67,13 +59,13 @@ se não conseguir receber ou confirmar o código, peça ajuda ao suporte do port
 
 ## fontes
 
+- `portal-cidade/frontend/src/components/shared/ChamadaAnuncie.tsx:105-120`
+- `portal-cidade/frontend/src/components/shared/ChamadaAnuncieHome.tsx`
 - `portal-cidade/frontend/src/app/anuncie/page.tsx:55-99`
 - `portal-cidade/frontend/src/app/anuncie/cadastro/page.tsx:5-14`
-- `portal-cidade/frontend/src/components/lp/FormularioLP.tsx:122-124,297-320,402-415`
-- `portal-cidade/docs/DECISIONS.md:11852-11858`
-- `portal-cidade/docs/PRODUCT.md:207-212`
+- `portal-cidade/frontend/src/components/lp/FormularioLP.tsx:296-367,402-445,513-584`
 
 ## lacunas
 
-- A documentação canônica sobre o fluxo de empresa está inconsistente: `FLOWS.md` ainda diz que autocadastro não existe (`portal-cidade/docs/FLOWS.md:62-81`), enquanto `PRODUCT.md` e o código atuais mostram o cadastro público. Este artigo segue a decisão D-331 e o código atual.
+- O vídeo `Uv6Zt7V9YN0` diz "depois de contratar um plano do guia, entre na sua área de cliente"; a página `Cadastre sua empresa` diz "grátis". O código consultado não mostra qual plano o Guia exige para publicar; não afirmar preço nem plano.
 - O envio final, a confirmação e a aparência do formulário não foram testados em navegador.

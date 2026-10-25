@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - 0nkWIgiQfwM
@@ -16,7 +16,7 @@ videos:
 
 ## objetivo
 
-aqui você liga ou desliga o assistente no site e vê o que os visitantes perguntam.
+Ligue ou desligue o assistente público e consulte o que os visitantes procuram.
 
 ## pré-requisitos
 
@@ -24,37 +24,26 @@ aqui você liga ou desliga o assistente no site e vê o que os visitantes pergun
 
 ## passos
 
-1. No menu da esquerda, na parte `Sistema`, clique em `Assistente de IA`. [guia=menu:/painel/assistente] [t=81]
-2. No quadro `Assistente de IA no site`, marque ou desmarque `Mostrar o Assistente de IA`. Não precisa salvar: muda na hora e aparece "Salvo!". [guia=assistente.mostrar] [t=83]
-3. No alto da página, em `O que os visitantes procuram no seu portal`, escolha o período nos botões `7 dias`, `30 dias` ou `90 dias`. [guia=assistente.periodo] [t=94]
-4. Veja os quadros com o que as pessoas perguntaram: `Perguntas sem resultado`, `Palavras mais buscadas`, `Cidades citadas`, `Categorias mais pedidas`, `Onde mais procuram` e `Últimas perguntas`. [guia=assistente.quadros]
-
-## explicação
-- o assistente aparece como um robozinho no canto da tela, nas páginas iniciais e nas listagens.
-- ele responde só com o que está publicado e no ar no portal; não inventa.
-- os cartões do topo mostram o total de perguntas, as com resultado, as sem resultado e a média por dia.
-- `Perguntas sem resultado` é uma lista de quem falta anunciar, ou seja, uma oportunidade de venda.
-- `Últimas perguntas` marca se a busca achou ou não achou.
-- as perguntas ficam guardadas por até 180 dias (a limpeza apaga as mais antigas) e o portal não guarda quem perguntou.
+1. Na parte `Sistema` do menu, clique em `Assistente de IA`. [t=81] [guia=menu:/painel/assistente]
+2. Marque ou desmarque `Mostrar o Assistente de IA`. [t=86] [guia=assistente.mostrar]
+3. Escolha `7 dias`, `30 dias` ou `90 dias` no período. [t=93] [guia=assistente.periodo]
+4. Consulte os quadros de perguntas e buscas. [t=100] [guia=assistente.quadros]
 
 ## resultado
 
-o assistente aparece ou some do site, e você acompanha o uso. A tela é só de leitura.
+A chave controla a exibição do assistente no site. Os quadros mostram buscas e resultados do período selecionado.
 
-## desvios
+## explicação
 
-- Se a tela mostrar acesso restrito, entre com conta de administrador.
-- Se der erro, use `Tentar de novo`.
-
-## quando pedir ajuda
-
-peça ajuda se a página não carregar, se o salvamento der erro ou se a opção esperada não aparecer.
+O assistente público é diferente do chat de suporte do administrador. As consultas ajudam a identificar conteúdos procurados pelos visitantes; os dados da tela não garantem que toda resposta da IA esteja correta.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/assistente/page.tsx`
-- `suporte-kb/mapa/admin/telas/painel-assistente.md`
+- `frontend/src/app/painel/assistente/page.tsx:143`
+- `frontend/src/app/painel/assistente/page.tsx:176`
+
+- Catálogo: `portal-da-cidade/videos.json`; legendas: `videos/legendas/0nkWIgiQfwM.srt`.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os textos dos botões podem mudar.
+- Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.

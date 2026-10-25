@@ -11,12 +11,14 @@
 
 ## o que você vê
 Roteiros turísticos: passeios prontos com várias paradas em ordem (ex.: Vitória clássica em 1 dia).
-- + Novo Roteiro: abre o formulário na mesma tela.
+- para abrir: na parte Conteúdo do menu, em `Guia Turístico / Eventos`, clique em `Roteiros`.
+- `+ Novo Roteiro`: abre o formulário "Novo Roteiro" na mesma tela; `Editar` na linha abre "Editar Roteiro".
+- lista: campo "Buscar por título...", filtro "Todos os status" / Ativo / Inativo, `Editar` e `Excluir` (pede confirmação).
 - título, Badge (selo, ex.: ⭐ Mais popular), Duração (ex.: 1 dia · 8 paradas), Ponto de partida e descrição.
-- Paradas do roteiro: os pontos do passeio, em ordem, com Nome da parada *, Tempo sugerido (ex.: 1h30) e Parada em destaque.
-- vídeo do YouTube: aparece num bloco próprio, abaixo da galeria; vazio não mostra.
-- foto de capa e galeria de fotos e vídeos, enviadas quando o roteiro é salvo.
-- Ativo (no site) e ★ destaque (mais visibilidade); apagar pede confirmação.
+- "Paradas do roteiro": os pontos do passeio, em ordem. `+ Adicionar parada` abre "Nova parada" com Nome da parada *, Descrição, Tempo sugerido (ex.: 1h30) e a caixa "Parada em destaque"; `Adicionar` (ou `Salvar alterações`) confirma. Cada parada tem setas para subir/descer, `Editar` e `Excluir`.
+- "Vídeo do roteiro (YouTube)": aparece num bloco próprio, abaixo da galeria; vazio não mostra.
+- foto de capa e "Galeria de fotos e vídeos", enviadas quando o roteiro é salvo; `Salvar` grava e `Cancelar` fecha.
+- caixas Destaque (mais visibilidade) e Ativo (no site).
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-turismo-roteiros.png](../prints/painel-turismo-roteiros.png) · dados brutos: [json](../prints/json/painel-turismo-roteiros.json)

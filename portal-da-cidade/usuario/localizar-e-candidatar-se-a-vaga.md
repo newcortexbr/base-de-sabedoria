@@ -10,40 +10,46 @@ tipo_problema:
   - procurar-vaga
   - candidatura
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
+videos:
+  - ufB3QTKfPsM
 ---
 
 ## objetivo
-encontrar vagas e consultar como a empresa responsável recebe candidaturas.
+encontrar vagas e candidatar-se pelo canal que a empresa escolheu (site, WhatsApp ou e-mail).
 
 ## pré-requisitos
-- estar no portal que atende a cidade ou região desejada.
+- estar no portal que atende a cidade ou região desejada. A seção `Vagas` precisa estar ligada no portal.
 
 ## passos
 
-1. No menu do topo do portal, clique em `Vagas`. Abre a página `Vagas de Emprego`.
-2. No campo `Cargo, área ou empresa…`, escreva o que você procura.
-3. Use os filtros da página, como cidade, tipo de contrato (`CLT`, `Estágio`, `PJ / Autônomo`…) e os botões rápidos como home office, PCD, primeiro emprego ou urgente.
-4. Clique na vaga que te interessa e leia os requisitos e como se candidatar.
-5. Use o botão ou o contato que a vaga mostra (por exemplo, `Enviar currículo`). Se tiver dúvida, confirme direto com quem está contratando.
+1. No menu do topo do portal, clique em `Vagas`. Abre a página `Vagas de Emprego`. [guia=topo.vagas]
+2. No campo `Cargo, área ou empresa...`, escreva o que você procura. [guia=caixa-busca.campo] [t=110]
+3. Abaixo do campo, escolha a cidade (`Todas as cidades`, se o portal tiver mais de uma) e o tipo de contrato (`Todos os tipos`, `CLT`, `Estágio`, `Trainee`, `PJ / Autônomo`, `Temporário` ou `Freelancer`). [guia=caixa-busca.filtros] [t=113]
+4. Clique na lupa (botão `Buscar`) no fim do campo. [guia=caixa-busca.buscar]
+5. Se quiser, em `Filtros rápidos`, clique em `CLT`, `PJ`, `Estágio`, `Home Office`, `PCD`, `1º Emprego` ou `Urgente` (`Todas` mostra tudo). [guia=vagas.filtros-rapidos]
+6. Clique na vaga que te interessa e leia a descrição, os requisitos e os benefícios. [guia=vagas.vaga] [t=118]
+7. Para se candidatar, clique no botão da vaga: `Candidatar-se` (abre o site da empresa), `Falar no WhatsApp` ou, mais abaixo, `Enviar currículo por e-mail`. [guia=vagas.candidatar] [t=120]
 
 ## resultado esperado
-você localiza vagas compatíveis e encontra na página da vaga as informações que o contratante publicou. este guia não presume envio de currículo dentro do portal.
+você localiza vagas compatíveis e se candidata pelo canal que a empresa publicou. O portal não recebe o currículo: ele só leva ao site, ao WhatsApp ou ao e-mail da empresa.
 
 ## desvios
-- `/vagas` redireciona para a seção `Vagas de Emprego`.
-- sem resultados, remova filtros e tente outra palavra-chave ou cidade.
+- se a vaga não tem nenhum canal, aparece o botão `Como se candidatar`, que leva ao quadro `Pronto pra se candidatar?` com a mensagem `Entre em contato com a empresa para se candidatar.`
+- sem resultados, remova filtros e tente outra palavra-chave ou cidade; `Limpar ×` remove os filtros.
+- o endereço antigo `/vagas` redireciona para `Vagas de Emprego`.
 - requisitos e canal de candidatura dependem de cada vaga.
 
 ## quando pedir ajuda
 se a página da vaga não abrir ou o contato publicado estiver inválido, informe ao suporte o título público da vaga e o endereço da página. não envie currículo ao suporte.
 
 ## fontes
-- `portal-cidade/frontend/src/app/vagas/page.tsx:3`
-- `portal-cidade/frontend/src/app/vagasdeemprego/page.tsx:51`
-- `portal-cidade/frontend/src/app/vagasdeemprego/page.tsx:133`
-- `portal-cidade/docs/PRODUCT.md:43`
+- `portal-cidade/frontend/src/app/vagasdeemprego/page.tsx:138-166,215-262`
+- `portal-cidade/frontend/src/app/vagasdeemprego/[cidade]/[slug]/page.tsx:221-238,470-560`
+- `portal-cidade/backend/classificados/views_public.py:318-329`
+- `portal-cidade/frontend/src/components/layout/HeaderClient.tsx:566`
+- vídeo `ufB3QTKfPsM` (110–122 s).
 
 ## lacunas
-não confirmei no código um formulário público para candidatura; os passos ficam limitados a consultar a vaga e seguir as instruções do contratante.
+não executado em tela. Os nomes dos filtros rápidos vêm do servidor e podem mudar. A página da vaga repete os botões de candidatura no topo e no quadro `Pronto pra se candidatar?`; os rótulos do quadro vêm em maiúsculas (`CANDIDATAR-SE GRÁTIS`, `FALAR NO WHATSAPP`).

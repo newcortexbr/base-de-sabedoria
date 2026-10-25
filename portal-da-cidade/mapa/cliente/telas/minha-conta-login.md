@@ -15,9 +15,10 @@ Arquivo: `src/app/minha-conta/login/page.tsx`
 - lado esquerdo mostra logo/nome do portal e seis cartões de áreas (Empresa, Vagas, Anúncios, Eventos, Artigos, Banners).
 
 ## ações e campos
-- entrar: e-mail, senha (com olho para mostrar), "Esqueci minha senha", "Voltar para o portal".
-- recuperar: e-mail, 6 caixinhas de código (aceita colar), "Reenviar código", "Trocar e-mail".
-- senha nova: nova + repetir, mínimo 8 caracteres (`page.tsx:279`, `SENHA_MINIMA`), "Salvar e entrar" já loga.
+- entrar ("Entrar na sua conta"): `E-mail`, `Senha` (olho para mostrar/ocultar), botão `Entrar`, `Esqueci minha senha`, `Voltar para o portal`.
+- recuperar ("Esqueceu a senha?"): `E-mail do cadastro`, botão `Enviar código`, `Voltar para o login`.
+- código ("Confira seu e-mail"): 6 caixinhas (aceita colar), botão `Continuar`, `Reenviar código`, `Trocar e-mail`.
+- senha nova ("Crie uma senha nova"): `Nova senha` + `Repita a nova senha`, mínimo 8 caracteres (`page.tsx:279`), botão `Salvar e entrar` (já loga), `Voltar para o código`. Senhas diferentes: "As senhas não são iguais."
 
 ## APIs
 - `POST /token/` via `login` do contexto (`cliente-api.ts:694`).
@@ -51,7 +52,7 @@ Arquivo: `src/app/minha-conta/login/page.tsx`
 ## o que você vê
 Tela para entrar na sua área do cliente ou recuperar a senha.
 - E-mail e senha: o olho mostra a senha digitada.
-- Esqueci minha senha: manda um código de 6 números para o seu e-mail.
+- Esqueci minha senha: leva à tela de recuperar; digite o e-mail e clique em `Enviar código` para receber 6 números por e-mail (valem 15 minutos); depois `Continuar`.
 - Código: digite ou cole os 6 números; "Reenviar código" manda outro; "Trocar e-mail" volta.
 - Senha nova: mínimo de 8 caracteres, digitada duas vezes; "Salvar e entrar" já entra na conta.
 - Cartões ao lado: as áreas do portal (Empresa, Vagas, Anúncios, Eventos, Artigos, Banners).

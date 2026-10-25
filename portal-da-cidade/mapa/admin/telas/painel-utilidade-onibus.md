@@ -4,9 +4,11 @@ Arquivo: `app/painel/utilidade/onibus/page.tsx`, `onibus/ExibirNoSite.tsx`
 
 ## o que você vê
 Lista das linhas de ônibus mostradas na seção de utilidades do site.
-- Exibir no site: liga ou desliga a seção de ônibus inteira no site.
-- linha: Número *, nome (ex.: Centro — Terminal), Itinerário (por onde passa), Horários e Observação.
-- clique no status para ativar ou desativar uma linha; lápis edita; lixeira apaga, com confirmação.
+- para abrir: na parte Conteúdo do menu, em `A Voz do Povo`, clique em `Linhas de Ônibus`.
+- "Exibir no site": interruptor (mostra Ligado/Desligado) que liga ou desliga a seção de ônibus inteira no site.
+- `Cadastrar linha` (botão do topo) abre a janela "Cadastrar linha"; `Salvar` grava.
+- linha: Número *, Nome (ex.: Centro — Terminal), Itinerário (por onde passa), Horários e Observação.
+- na tabela (Número, Nome, Itinerário, Horários, Status, Ações): clique no status para ativar ou desativar uma linha; o lápis (`Editar`) edita; a lixeira (`Excluir`) apaga, com confirmação.
 - mudanças nas linhas podem levar alguns minutos para aparecer no site.
 
 ## rota e gate
@@ -16,7 +18,7 @@ Lista das linhas de ônibus mostradas na seção de utilidades do site.
 - cadastro das linhas de ônibus do portal.
 
 ## ações e campos
-- modal "Cadastrar/Editar linha": Número (obrigatório), Nome, Itinerário, Horários, Observação.
+- botão `Cadastrar linha`; modal "Cadastrar linha"/"Editar linha": Número (obrigatório), Nome, Itinerário, Horários, Observação.
 - por linha: editar, ativar/desativar, excluir (confirmação em modal).
 - `ExibirNoSite secao="onibus"` (interruptor).
 

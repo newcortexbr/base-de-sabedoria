@@ -4,11 +4,13 @@ Arquivo: `app/painel/utilidade/denuncias/page.tsx`
 
 ## o que você vê
 Caixa de entrada dos relatos enviados por moradores (A Voz do Povo); aqui só se muda a situação de cada relato.
-- filtro de status: Em aberto (Recebida e Em análise), Recebida, Em análise, Resolvida, Arquivada ou Todos.
+- para abrir: na parte Conteúdo do menu, em `A Voz do Povo`, clique em `Denúncias`.
+- filtro "Filtrar por status": Em aberto (Recebida e Em análise), Recebida, Em análise, Resolvida, Arquivada ou "Todos os status".
+- colunas Categoria, Local, Recebida em e Status.
 - Recebida: chegou e ninguém olhou. Em análise: alguém está cuidando. Resolvida: problema resolvido. Arquivada: guardada sem ação.
-- botões da linha Em análise, Resolvida e Arquivar mudam a situação na hora.
-- Desfazer: volta a última mudança.
-- Ver detalhes: abre o relato completo, com fotos, áudio e contato.
+- botões da linha `Em análise`, `Resolvida` e `Arquivar` mudam a situação na hora.
+- `Desfazer`: volta a última mudança.
+- `Ver detalhes`: abre o relato completo, com fotos, áudio e contato.
 - não confundir com as denúncias de conteúdo (empresas, vagas, anúncios), que ficam em Aprovações e Denúncias.
 
 ## rota e gate
@@ -19,7 +21,7 @@ Caixa de entrada dos relatos enviados por moradores (A Voz do Povo); aqui só se
 - lista os relatos enviados por moradores, sem mural público nem protocolo; admin só muda o status.
 
 ## ações
-- filtro de status: Em aberto (padrão, recebida + em análise), Recebida, Em análise, Resolvida, Arquivada, Todos.
+- filtro de status: Em aberto (padrão, recebida + em análise), Recebida, Em análise, Resolvida, Arquivada, "Todos os status".
 - ações rápidas por linha: Em análise, Resolvida, Arquivar (esconde o botão do status atual) e "Ver detalhes".
 - "Desfazer" depois de uma mudança (volta ao status anterior, recarrega a lista).
 

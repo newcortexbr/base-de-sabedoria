@@ -12,45 +12,65 @@ tipo_problema:
   - números de emergência
   - telefone da prefeitura
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
+videos:
+  - 1a0wZmdXDLk
 ---
 
 ## objetivo
-aqui você cadastra os telefones úteis da cidade que aparecem no site, como polícia, hospital e prefeitura.
+
+Cadastre os telefones úteis da cidade.
 
 ## pré-requisitos
 
-- Ter acesso de administrador ao painel.
+- Ter acesso de administrador ao painel do portal.
 
 ## passos
 
-1. No menu da esquerda, clique em `A Voz do Povo` e depois em `Telefones Úteis`. [guia=menu:/painel/utilidade/telefones]
-2. Clique em `Cadastrar telefone`. [guia=fora]
-3. Escreva o `Órgão/serviço *`. [guia=fora]
-4. Preencha o `Telefone` ou o `Número curto de emergência`, por exemplo 190. [guia=fora]
-5. Se quiser, preencha o `Endereço` e o `Horário de atendimento`. [guia=fora]
-6. Clique em `Salvar`. [guia=fora]
+1. Na parte `Conteúdo` do menu, em `A Voz do Povo`, clique em `Telefones Úteis`. [guia=menu:/painel/utilidade/telefones]
+2. Clique em `Cadastrar telefone`.  [guia=utilidade-telefones.novo]
+3. Preencha `Órgão/serviço *`. [guia=utilidade-telefones.nome]
+4. Preencha `Telefone`. [guia=utilidade-telefones.telefone]
+5. Se quiser, preencha `Endereço`. [guia=utilidade-telefones.endereco]
+6. Se quiser, preencha `Horário de atendimento`. [guia=utilidade-telefones.horario]
+7. Clique em `Salvar`.  [guia=utilidade-telefones.salvar]
 
 ## resultado
-o telefone entra na lista e aparece no site.
 
-## desvios
+O cadastro entra na lista. A presença no site depende da seção estar ligada e do cadastro estar visível.
 
-- É preciso preencher ao menos um dos dois: telefone ou número curto.
-- Para mudar ou apagar, use o lápis (`Editar`) ou a lixeira (`Excluir`) na linha.
-- A opção `Exibir no site`, no topo da página, mostra ou esconde a seção inteira no site.
+## número curto de emergência
 
-## quando pedir ajuda
+Para cadastrar somente um número curto, no passo do telefone preencha `Número curto de emergência` em vez de `Telefone`. É obrigatório ter pelo menos um dos dois.
 
-peça ajuda se a lista não carregar ou se o salvamento der erro.
+## editar um cadastro
+
+1. Na parte `Conteúdo` do menu, em `A Voz do Povo`, clique em `Telefones Úteis`. [guia=menu:/painel/utilidade/telefones]
+2. Na linha do cadastro, clique no lápis `Editar`.  [guia=utilidade-telefones.editar]
+3. Corrija `Órgão/serviço *` conforme necessário. [guia=utilidade-telefones.nome]
+4. Clique em `Salvar` após os ajustes.  [guia=utilidade-telefones.salvar]
+
+## excluir um cadastro
+
+1. Na parte `Conteúdo` do menu, em `A Voz do Povo`, clique em `Telefones Úteis`. [guia=menu:/painel/utilidade/telefones]
+2. Na linha do cadastro, clique na lixeira `Excluir`.  [guia=utilidade-telefones.excluir]
+3. Na confirmação, clique em `Excluir`. [guia=confirmacao.confirmar]
+
+## esconder a seção inteira
+
+1. Na parte `Conteúdo` do menu, em `A Voz do Povo`, clique em `Telefones Úteis`. [guia=menu:/painel/utilidade/telefones]
+2. No topo, desligue `Exibir no site`.  [guia=utilidade.exibir-no-site]
+
+Os cadastros continuam salvos e editáveis. Ligue a mesma chave para voltar a mostrar a seção.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/utilidade/telefones/page.tsx:151,219` — botão, campos e mensagens.
-- `portal-cidade/frontend/src/app/painel/utilidade/onibus/ExibirNoSite.tsx` — "Exibir no site".
-- `portal-cidade/frontend/src/components/painel/Sidebar.tsx:198-204` — menu "A Voz do Povo".
+- `frontend/src/app/painel/utilidade/telefones/page.tsx:151`
+- `frontend/src/app/painel/utilidade/onibus/ExibirNoSite.tsx:65`
+
+- Catálogo: `portal-da-cidade/videos.json`; legendas: `videos/legendas/1a0wZmdXDLk.srt`.
 
 ## lacunas
 
-tela não validada no navegador nesta tarefa. A tela não tem marcas `data-guia` além do menu.
+- Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.

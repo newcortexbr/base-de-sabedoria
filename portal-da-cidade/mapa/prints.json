@@ -391,6 +391,24 @@
  },
  {
   "perfil": "admin",
+  "ficha": "painel-doacoes",
+  "rota": "/painel/doacoes",
+  "print": "mapa/admin/prints/painel-doacoes.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-doacoes-causas",
+  "rota": "/painel/doacoes/causas",
+  "print": "mapa/admin/prints/painel-doacoes-causas.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-doacoes-nova",
+  "rota": "/painel/doacoes/nova",
+  "print": "mapa/admin/prints/painel-doacoes-nova.png"
+ },
+ {
+  "perfil": "admin",
   "ficha": "painel-financeiro",
   "rota": "/painel/financeiro",
   "print": "mapa/admin/prints/painel-financeiro.png"
@@ -478,6 +496,24 @@
   "ficha": "painel-login",
   "rota": "/painel/login",
   "print": "mapa/admin/prints/painel-login.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-melhores-da-cidade",
+  "rota": "/painel/melhores-da-cidade",
+  "print": "mapa/admin/prints/painel-melhores-da-cidade.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-melhores-da-cidade-nova",
+  "rota": "/painel/melhores-da-cidade/nova",
+  "print": "mapa/admin/prints/painel-melhores-da-cidade-nova.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-meus-links",
+  "rota": "/painel/meus-links",
+  "print": "mapa/admin/prints/painel-meus-links.png"
  },
  {
   "perfil": "admin",
@@ -577,9 +613,51 @@
  },
  {
   "perfil": "admin",
+  "ficha": "painel-radar-categorias",
+  "rota": "/painel/radar/categorias",
+  "print": "mapa/admin/prints/painel-radar-categorias.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-radar-fotos",
+  "rota": "/painel/radar/fotos",
+  "print": "mapa/admin/prints/painel-radar-fotos.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-radar-mercados",
+  "rota": "/painel/radar/mercados",
+  "print": "mapa/admin/prints/painel-radar-mercados.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-radar-produtos",
+  "rota": "/painel/radar/produtos",
+  "print": "mapa/admin/prints/painel-radar-produtos.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-radar-retidos",
+  "rota": "/painel/radar/retidos",
+  "print": "mapa/admin/prints/painel-radar-retidos.png"
+ },
+ {
+  "perfil": "admin",
   "ficha": "painel-sem-acesso",
   "rota": "/painel/sem-acesso",
   "print": "mapa/admin/prints/painel-sem-acesso.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-sorteios",
+  "rota": "/painel/sorteios",
+  "print": "mapa/admin/prints/painel-sorteios.png"
+ },
+ {
+  "perfil": "admin",
+  "ficha": "painel-sorteios-participantes",
+  "rota": "/painel/sorteios/participantes",
+  "print": "mapa/admin/prints/painel-sorteios-participantes.png"
  },
  {
   "perfil": "admin",

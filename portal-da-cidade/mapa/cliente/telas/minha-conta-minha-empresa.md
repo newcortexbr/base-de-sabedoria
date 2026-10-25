@@ -13,7 +13,7 @@ Arquivo: `src/app/minha-conta/minha-empresa/page.tsx`
 - edita logo, descrição e contatos da empresa, valendo para Guia, Vagas, Classificados etc. (`page.tsx:189`).
 
 ## ações e campos
-- logo (envio de arquivo com prévia), descrição, WhatsApp (com máscara), e-mail de contato, site (normaliza a URL) (`page.tsx:205-238`).
+- blocos "Identidade" (`Adicionar logo` / `Trocar logo`, `Remover seleção`, `Descrição da empresa` com contador) e "Contatos" (`WhatsApp` com máscara, `E-mail de contato`, `Site`, que normaliza a URL) (`page.tsx:197-238`).
 - botão "Salvar". Só envia o que mudou (`page.tsx:147-154`).
 - painel lateral "Onde isso aparece" lista as seções afetadas; sem seções diz "Estes dados passam a valer quando você publicar algo." (`page.tsx:261-272`).
 - ao salvar, revalida a página pública do Guia via Server Action (`revalidarFichaDaEmpresa`, `page.tsx:68-77`), best-effort.
@@ -55,4 +55,4 @@ Dados básicos da sua empresa que valem para todas as seções (Guia, Vagas, Cla
 - Descrição: texto sobre a empresa.
 - WhatsApp, e-mail de contato e site.
 - Onde isso aparece: lista das seções em que esses dados são usados; sem nada publicado, eles passam a valer quando você publicar algo.
-- Salvar: grava só o que mudou; aparece "Dados atualizados em todas as suas seções".
+- Salvar: grava só o que mudou; aparece "Dados atualizados em todas as suas seções." Sem mudança, mostra "Você ainda não alterou nada para salvar."

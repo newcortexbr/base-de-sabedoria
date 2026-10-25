@@ -9,12 +9,14 @@
 
 ## o que você vê
 Tela para mudar os dados de uma empresa contratante; os campos são os do cadastro.
+- chega-se por `Editar` na lista de Contratantes.
 - Nome *, Descrição, Logo e Cor do logo: como a empresa aparece no site.
-- Localização: cidade e bairro (escolha a cidade primeiro).
-- Áreas de atuação: as áreas em que a empresa contrata.
-- Redes sociais e contato: E-mail, WhatsApp, Site, Instagram, LinkedIn, YouTube.
-- Verificado: dá o selo de empresa conferida.
-- Painel do proprietário: cria o acesso do responsável, envia nova senha por e-mail ou remove o acesso.
+- "Localização": cidade e bairro (escolha a cidade primeiro).
+- "Áreas de atuação": as áreas em que a empresa contrata.
+- "Redes sociais e contato": LinkedIn, Instagram, Site, YouTube, WhatsApp, E-mail.
+- caixa Verificado: dá o selo de empresa conferida.
+- "Painel do proprietário": com acesso mostra "Acesso ativo", `Redefinir senha` (campo "Nova senha"; vai por e-mail) e `Remover acesso`; sem acesso, `Criar acesso`.
+- `Salvar Alterações` grava; `Cancelar` volta.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-vagas-contratantes-id-editar.png](../prints/painel-vagas-contratantes-id-editar.png) · dados brutos: [json](../prints/json/painel-vagas-contratantes-id-editar.json)

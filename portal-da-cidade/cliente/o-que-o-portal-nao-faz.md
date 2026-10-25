@@ -16,7 +16,7 @@ tipo_problema:
   - baixar app
   - lista de faturas
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 ---
 

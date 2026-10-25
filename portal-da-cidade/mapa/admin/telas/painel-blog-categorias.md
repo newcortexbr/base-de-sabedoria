@@ -7,12 +7,15 @@
 - problemas: nenhum confirmado. hipótese — excluir categoria com artigos depende da regra do servidor (a tela só mostra o erro).
 - admin vs cliente: o cliente (colunista) só escolhe categoria; não gerencia. Sem equivalente.
 
+## como chegar
+- na parte Conteúdo do menu, abra `Artigos` e clique em `Categorias`.
+
 ## o que você vê
 Lista dos assuntos (categorias) em que os artigos são separados no site.
-- + Nova Categoria: cria um assunto novo, com nome e cor.
-- Cor: cor usada para destacar a categoria no site.
-- Buscar categoria e Status (Todas / Ativas / Inativas): filtros da lista. Categoria inativa não aparece para escolher.
-- lápis: muda nome, cor ou situação; lixeira: apaga, depois de confirmação. Se o sistema não deixar apagar, a tela mostra o motivo.
+- `+ Nova Categoria`: abre a janela `Cadastrar Categoria`, com `Nome` e `Cor`; `Salvar` grava.
+- `Cor`: cor usada para destacar a categoria no site.
+- filtros `Nome` (busca) e `Status` (`Todas`, `Ativas`, `Inativas`). Categoria inativa aparece com a marca `Inativa`; a janela de cadastro não tem campo para ativar/desativar.
+- lápis (Editar): muda nome ou cor; lixeira (Excluir): apaga, depois de confirmação na janela `Excluir categoria`. Se o sistema não deixar apagar, a tela mostra o motivo.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-blog-categorias.png](../prints/painel-blog-categorias.png) · dados brutos: [json](../prints/json/painel-blog-categorias.json)

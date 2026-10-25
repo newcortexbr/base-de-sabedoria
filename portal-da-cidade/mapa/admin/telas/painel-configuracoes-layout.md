@@ -2,13 +2,16 @@
 
 Arquivos: `app/painel/configuracoes/layout/page.tsx` (135 linhas), `actions.ts`, `PreviaDoSite.tsx`, `cores-utils.ts`
 
+## como chegar
+- na parte Sistema do menu, abra `Configurações` e clique em `Layout`.
+
 ## rota e gate
 - `/painel/configuracoes/layout`. Server Component (sem `'use client'`), só `metadata` "Layout — Configurações". gate `PainelGuard` do layout do painel (admin/master); sem gate de módulo. menu: "Layout" (`components/painel/Sidebar.tsx:248`).
 
 ## o que faz
 - menu de entrada com quatro cartões que levam às telas de aparência. não lê nem grava nada.
 - trilha "Configurações › Layout" com link para `/painel/configuracoes`.
-- cartões: Topo ("modelo do cabeçalho, cores das barras e links") → `/layout/topo`; Tela Início ("monte os blocos da página inicial com drag & drop") → `/layout/inicio`; Cores ("cor primária e de destaque") → `/layout/cores`; Rodapé ("cores, tamanho da logo e textos") → `/layout/rodape`.
+- cartões: Topo ("Modelo do cabeçalho, cores das barras e links") → `/layout/topo`; Tela Início ("monte os blocos da página inicial com drag & drop") → `/layout/inicio`; Cores ("cor primária e de destaque") → `/layout/cores`; Rodapé ("cores, tamanho da logo e textos") → `/layout/rodape`.
 
 ## apis
 - nenhuma. o arquivo compartilhado `actions.ts` exporta a Server Action `revalidarLayout(token)` (`:33`): confere o token em `GET <API_URL>/auth/me/` e, se ok, `revalidatePath('/', 'layout')` e `revalidatePath('/')`. usada por Cores, Topo, Rodapé, Início, Módulos e Configurações gerais.
@@ -35,7 +38,8 @@ Arquivos: `app/painel/configuracoes/layout/page.tsx` (135 linhas), `actions.ts`,
 
 ## o que você vê
 Menu da aparência do site: escolha qual parte quer mudar.
-- Topo: modelo do cabeçalho, cores, tamanho da logo e ordem do menu.
-- Tela Início: monta os blocos da página inicial, arrastando para mudar a ordem.
-- Cores: cor primária e cor de destaque do portal.
-- Rodapé: modelo, cores, tamanho da logo e texto do rodapé.
+- `Topo`: modelo do cabeçalho, cores das barras e links.
+- `Tela Início`: monta os blocos da página inicial, arrastando para mudar a ordem.
+- `Cores`: cor primária e de destaque do portal.
+- `Rodapé`: cores, tamanho da logo e textos do rodapé.
+- no alto, o caminho `Configurações › Layout` leva de volta às configurações.

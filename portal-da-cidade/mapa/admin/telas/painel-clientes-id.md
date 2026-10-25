@@ -2,14 +2,18 @@
 
 Arquivos: `app/painel/clientes/[id]/page.tsx` (1110 linhas); usa `ModalConfirmarPagamento` compartilhado com `/painel/financeiro`
 
+## como chegar
+- na parte Comercial do menu, clique em `Meus Clientes` e depois no nome do cliente. `← Meus Clientes` volta para a lista.
+
 ## o que você vê
 Ficha de um cliente: contato, planos contratados, faturas e o que ele tem no portal.
 - topo: nome, documento, telefone, WhatsApp, e-mail e observações; Editar muda esses dados.
-- aba Contratações: planos ativos e pendentes com preço, Período e Status; Histórico guarda os cancelados.
-- Registrar contratação: escolhe Seção, Onde aparece, Plano, Data de início, Preço cobrado (R$) e observações.
-- confirmar pagamento: marca como pago um plano que esperava pagamento e libera o conteúdo.
-- renovar: cria uma nova contratação do mesmo plano. Cancelar contratação pede um Motivo.
-- aba Financeiro: lista as faturas com Vencimento, Valor e Status (Em aberto, Paga, Vencida, Cancelada); dá para confirmar o pagamento ou Cancelar fatura com motivo.
+- três abas: `Contratações`, `Financeiro` e `No portal`.
+- aba `Contratações`: planos ativos e pendentes com `Plano`, `Preço`, `Período` e `Status`; `Histórico` guarda os cancelados.
+- botão `+ Registrar contratação`: escolhe `Seção`, `Onde aparece` (só em publicidade), `Plano`, `Data de início`, `Validade`/`Data de fim`, `Preço cobrado (R$)` e `Observações`; `Registrar` grava.
+- botão `Confirmar pagamento` na linha: marca como pago um plano que esperava pagamento e libera o conteúdo (pede confirmação).
+- botão `Renovar`: cria uma nova contratação do mesmo plano (pede confirmação). `Cancelar` abre a janela `Cancelar contratação`, que pede um `Motivo *`; `Confirmar cancelamento` fecha.
+- aba `Financeiro`: filtros `Todas as contratações` e `Todos os status`; tabela com `Fatura`, `Contratação`, `Vencimento`, `Valor` e `Status` (`Em aberto`, `Vencida`, `Paga`, `Cancelada`); dá para confirmar o pagamento ou `Cancelar` a fatura (janela `Cancelar fatura`, com `Motivo *`).
 - aba No portal: empresas do Guia, contratantes de vagas, anunciantes de classificados e banners ligados a este cliente.
 - bloquear, excluir e trocar senha ficam na lista de clientes, não nesta ficha.
 
@@ -29,8 +33,8 @@ Ficha de um cliente: contato, planos contratados, faturas e o que ele tem no por
 ## o que o admin pode fazer em nome do cliente
 - editar o cadastro (`ModalEditarCliente`, `:87`): nome, contato etc., com validação de telefone/WhatsApp.
 - registrar contratação (`ModalContratacao`, `:181`): seção, local/item (publicidade), plano, data início, data fim (quando o plano não vence por data), preço cobrado (editável), observações. pré-visualiza a vigência pelo servidor (`planos.vigencia`). com Asaas cobrando, avisa quando o preço é menor que R$ 5,00 (`aviso-minimo-asaas`, `:404`).
-- confirmar pagamento de contratação pendente (Pix manual): `window.confirm`, depois POST sem corpo; o servidor recalcula datas a partir de hoje e libera o conteúdo (`:904`). sem "desfazer".
-- renovar contratação (`handleRenovar`, `:881`): `window.confirm`, cria nova contratação.
+- confirmar pagamento de contratação pendente (Pix manual): confirmação (`avisos.confirmar`), depois POST sem corpo; o servidor recalcula datas a partir de hoje e libera o conteúdo (`:911`). sem "desfazer".
+- renovar contratação (`handleRenovar`, `:891`): confirmação (`avisos.confirmar`), cria nova contratação.
 - cancelar contratação com motivo obrigatório (`ModalCancelar`, `:429`).
 - fatura aberta/vencida: confirmar pagamento (modal com meio, data, valor, observação e `idempotency_key`) e cancelar com motivo obrigatório (`ModalCancelarFatura`, `:555`).
 - o que NÃO existe aqui: bloquear/desbloquear, excluir e resetar senha (só na lista `/painel/clientes`); trocar plano de uma contratação existente (só cancelar e registrar outra, ou renovar); excluir contratação (`contratacoes.excluir` existe na API mas a tela não usa).

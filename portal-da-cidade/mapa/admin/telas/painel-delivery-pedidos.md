@@ -2,14 +2,17 @@
 
 Arquivo: `app/painel/delivery/pedidos/page.tsx`
 
+## como chegar
+- não há item no menu. Na parte Conteúdo do menu, abra `Guia Comercial`, clique em `Listar Empresas` e depois em `Editar` na empresa. Na ficha dela, clique no cartão `Fila de pedidos` (só aparece em empresa de categoria com delivery; a ficha é salva antes de abrir).
+
 ## o que você vê
-Fila de pedidos do delivery de uma empresa, para acompanhar e mudar a situação de cada pedido.
-- filtro de status: Todos, Recebido, Em Preparo, Saiu p/ Entrega, Entregue, Cancelado.
-- Em andamento: pedidos ainda abertos. Finalizados / Cancelados: pedidos encerrados.
-- botões do pedido: Iniciar preparo, Saiu para entrega, Marcar entregue e Cancelar levam o pedido à próxima etapa.
-- imprimir: abre o pedido em formato de cupom para impressora pequena.
-- Ativar som: toca um bip quando chega pedido novo (só com o filtro Todos).
-- Atualizar: recarrega na hora; a lista também se atualiza sozinha a cada 20 segundos.
+Tela `Pedidos de Delivery`. Fila de pedidos do delivery de uma empresa, para acompanhar e mudar a situação de cada pedido.
+- filtro de status: `Todos`, `Recebido`, `Em Preparo`, `Saiu p/ Entrega`, `Entregue`, `Cancelado`.
+- seções `Em andamento` (pedidos ainda abertos) e `Finalizados / Cancelados` (pedidos encerrados).
+- botões do pedido: `Iniciar preparo`, `Saiu para entrega`, `Marcar entregue` e `Cancelar` levam o pedido à próxima etapa.
+- ícone `Imprimir pedido`: abre o pedido em formato de cupom para impressora pequena.
+- `Ativar som`: toca um bip quando chega pedido novo (só com o filtro Todos).
+- `Atualizar`: recarrega na hora; a lista também se atualiza sozinha a cada 20 segundos.
 - Nenhum pedido encontrado: não há pedidos no filtro, ou a lista não carregou.
 - a tela é aberta pelo cartão da fila de pedidos na edição da empresa.
 
@@ -35,7 +38,7 @@ Fila de pedidos do delivery de uma empresa, para acompanhar e mudar a situação
 ## estados
 - carregando; vazio com "Nenhum pedido encontrado."
 - erro na listagem: engolido (`.catch(() => setLoading(false))`, `:83`), vira "vazio".
-- erro ao mudar status: `alert('Erro ao atualizar status.')` (`:158`), sem motivo do servidor.
+- erro ao mudar status: `avisos.avisar(formatApiError(err))` (`:161`).
 
 ## possíveis problemas
 - fato: o HTML da impressão é montado por string com dados do cliente sem escape (`cliente_nome`, endereço, `observacao`, nomes de item, `:97-125`) e escrito em `document.write` (`:136`). um nome com HTML ou script vira marcação na janela de impressão (risco de XSS gravado por quem faz o pedido; impacto exato é hipótese).

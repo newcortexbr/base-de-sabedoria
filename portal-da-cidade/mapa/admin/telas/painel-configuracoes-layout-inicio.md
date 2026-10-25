@@ -7,14 +7,14 @@ Arquivos: `app/painel/configuracoes/layout/inicio/page.tsx` (1516 linhas), `../P
 
 ## o que faz
 - monta a página inicial do portal por blocos: lista ordenável (arrastar) de blocos, cada um com tipo, modelo de layout e configuração. "Arraste para reordenar. Clique em + para adicionar blocos." (`:1473`).
-- tipos (`TIPOS`, `:50`): Notícias, Guia Comercial, Vagas de Emprego, Eventos, Guia Turístico, Classificados, Publicidade (banner), Categorias, A Voz do Povo (utilidade). `TIPOS` não é filtrado por módulo de propósito, para que blocos antigos de módulo desligado continuem visíveis na lista (desligar esconde, não apaga).
+- tipos (`TIPOS`, `:49-61`): Notícias, Guia Comercial, Vagas de Emprego, Eventos, Guia Turístico, Classificados, Publicidade (banner), Categorias, A Voz do Povo (utilidade), Carrossel de sorteios, Melhores da Cidade, Campeões do Melhores da Cidade. `TIPOS` não é filtrado por módulo de propósito, para que blocos antigos de módulo desligado continuem visíveis na lista (desligar esconde, não apaga).
 - cada tipo tem modelos (`MODELOS_POR_TIPO`, ex.: Notícias "Modelo 1: grade 3 colunas — 6 notícias").
 
 ## ações e campos
 - Adicionar bloco (modal de 3 passos): 1 escolher tipo (só módulos ligados), 2 escolher modelo (passar o mouse mostra a prévia, clicar escolhe), 3 configurar. editar abre direto no passo 3.
 - configuração por tipo (campos `config`): título, seção, categoria (`categoria_slug`), subcategoria (`subcategoria_slug`), área de vagas (`area_slug`); listas vêm de categorias de Notícias, Guia, Classificados, Turismo e áreas de Vagas.
 - prévia ao lado do modal: a home real do portal com o bloco desenhado (`/previa-painel/inicio?tipo=…&modelo=…&config=…`), com atraso de 700 ms ao digitar (`:910`, `:1362`).
-- na lista: arrastar para reordenar (`handleDragEnd`, `:1403`, otimista com reversão se falhar), ativar/desativar (`handleToggle`, `:1446`), editar, remover (`confirm('Remover este bloco?')`, `:1436`).
+- na lista: arrastar para reordenar (`handleDragEnd`, `:1403`, otimista com reversão se falhar), ativar/desativar (`handleToggle`, `:1446`), editar, remover (confirmação "Remover este bloco?" via `avisos.confirmar`, `:1458`).
 - toda alteração bem-sucedida chama `revalidarLayoutBestEffort` (`:31`).
 
 ## apis (`lib/admin-api.ts`)
@@ -26,7 +26,7 @@ Arquivos: `app/painel/configuracoes/layout/inicio/page.tsx` (1516 linhas), `../P
 ## estados
 - carregando; falha de carga: texto vermelho e lista oculta, para não mostrar falso "nenhum bloco" nem permitir criar sem ver os existentes (`:1381-1393`).
 - vazio: "Nenhum bloco ainda — Adicione blocos para montar a página inicial" + botão "+ Adicionar primeiro bloco" (`:1487`).
-- erro de ação: toast no rodapé por 2,5 s (reordenar, remover, ativar); erro ao salvar no modal fica dentro do modal (`erro`).
+- erro de ação: aviso do painel (`avisos.avisar`) ao reordenar, remover ou ocultar/exibir; erro ao salvar no modal fica dentro do modal (`erro`).
 - falha ao carregar categorias: `erroCategorias` avisa que a lista pode estar incompleta (`:929`).
 - falha ao carregar módulos ativos é silenciosa (`.catch(() => {})`, `:1396-1399`) e libera todos os tipos.
 
@@ -37,7 +37,7 @@ Arquivos: `app/painel/configuracoes/layout/inicio/page.tsx` (1516 linhas), `../P
 - fato: arquivo único de 1516 linhas, com modal e dados de modelo; difícil de manter e de testar (hipótese: risco de regressão ao mexer em qualquer tipo).
 - fato: erros de feedback no toast somem em 2,5 s (`showFeedback`); mensagens longas do servidor podem ser perdidas.
 - fato: `.catch(() => {})` na carga de módulos ativos (`:1398`) libera tipos de módulos desligados; o dono pode criar bloco que nunca será exibido (a própria tela diz que isso é bug, `:62-64`).
-- fato: remoção usa `confirm()` nativo e remove sem desfazer.
+- fato: remoção pede confirmação (`avisos.confirmar`) e remove sem desfazer.
 - fato: o modal não declara `role="dialog"`/`aria-modal` nem trata Esc (grep sem ocorrências); acessibilidade fraca (hipótese de impacto para teclado/leitor de tela).
 - fato: a lista na tela deixa o toggle ativo/inativo sem feedback de sucesso (só erro).
 - fato: reordenar envia só `ids` (sem versão); duas abas/admins ao mesmo tempo podem sobrescrever a ordem (hipótese, última escrita vence).
@@ -55,13 +55,16 @@ Arquivos: `app/painel/configuracoes/layout/inicio/page.tsx` (1516 linhas), `../P
 - [link] "Falar com o suporte no WhatsApp" — conteúdo, no meio da tela, à direita (1200,820,56,56)
 - [selo] "··" — menu lateral, no meio da tela, à esquerda (16,858,32,32)
 
+## como chegar
+- na parte Sistema do menu, abra `Configurações`, clique em `Layout` e depois no cartão `Tela Início`.
+
 ## o que você vê
 Monta a página inicial do site, bloco por bloco (notícias, guia, vagas, banners etc.).
 - lista de blocos: cada linha é um pedaço da página inicial, na ordem em que aparece. Arraste para mudar a ordem; a nova ordem é gravada na hora.
 - ícone de olho (Ocultar / Exibir): esconde ou mostra o bloco no site, sem apagar.
 - Editar: muda o estilo e as opções do bloco. Remover: apaga o bloco (pede confirmação).
-- botão +: adiciona bloco em 3 passos — "Escolha o tipo" (Notícias, Guia Comercial, Vagas de Emprego, Eventos, Guia Turístico, Classificados, Publicidade, Categorias, A Voz do Povo, Carrossel de sorteios, Melhores da Cidade, Campeões), "Escolha o modelo" (o visual do bloco) e a configuração.
-- configuração: Título do bloco, Subtítulo (opcional), Exibir título, e filtros como Categoria ou "Destaques" para escolher o que entra.
-- Publicidade: escolhe o tamanho do banner — Cabeçalho (728×90), Cabeçalho Grande (970×90) ou Outdoor (970×250).
-- "Nenhum bloco ainda": a página inicial ainda não tem blocos.
+- botão `Adicionar bloco` (no alto, à direita): abre a janela em 3 passos — `Escolha o tipo` (`Notícias`, `Guia Comercial`, `Vagas de Emprego`, `Eventos`, `Guia Turístico`, `Classificados`, `Publicidade`, `Categorias`, `A Voz do Povo`, `Carrossel de sorteios`, `Melhores da Cidade`, `Campeões do Melhores da Cidade`), `Escolha o modelo` (o visual do bloco) e `Configure o bloco`. No último passo o botão é `Adicionar bloco` (ao editar, `Salvar`); `← Voltar` volta o passo. Ao editar, `Alterar estilo de layout` troca só o modelo.
+- configuração: `Título do bloco`, `Subtítulo (opcional)`, `Exibir título`, e filtros como `Categoria`, `Subcategoria` ou `Destaques` para escolher o que entra (Guia Comercial tem `Coluna 1/2/3 — Categoria`).
+- Publicidade: escolhe o tamanho do banner — `Cabeçalho` (728×90), `Cabeçalho Grande` (970×90) ou `Outdoor` (970×250). A arte do banner não se envia aqui: é cadastrada na tela de banners (`Banners Publicitários` no menu).
+- `Nenhum bloco ainda`: a página inicial ainda não tem blocos; use `+ Adicionar primeiro bloco`.
 - tipos de módulo desligado não aparecem para criar; um bloco antigo deles continua na lista.

@@ -1,8 +1,10 @@
 # /painel/guia/empresas/[id]/catalogo — catálogo de produtos (`.../[id]/catalogo/page.tsx`)
 - gate: módulo `guia` (prefixo `/painel/guia`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
+- título `Catálogo de Produtos`.
+- chegar: `Guia Comercial` > `Listar Empresas` > ícone de editar na linha da empresa > bloco `Conteúdo da ficha` > botão `Gerenciar` do cartão `Catálogo de produtos` (vale para qualquer categoria, menos ficha básica do plano Grátis). Não há botão disso na lista de empresas.
 - faz: seções e produtos do catálogo de uma empresa, com fotos e vídeos do YouTube por produto (`GaleriaDeMidia`).
-- campos: Título/Nome, Subtítulo, Descrição, Preço, Preço promocional, Marca, Tags, "Publicado" (`ChavePublicado`), fotos/vídeos.
+- campos do modal `Novo produto`/`Editar produto`: `Título *`, `Marca`, `Descrição`, `Preço (R$)`, `Destaque no produto (opcional)` (`Nenhum`, `Mais vendido`, `Oferta`, `Novo`, `Recente`), `Specs (uma por linha)`, `Fotos e vídeo`; botão `Salvar produto`. Não há preço promocional nem subtítulo nesta tela. Seção nova: campo `Nova seção…` + `+ Adicionar seção`; produto novo: `+ Novo produto`; cada produto tem chave `No ar`/`Fora do ar`, botão `Fotos`, editar e excluir (`catalogo/page.tsx:248-319,519-675`).
 - ações: criar/excluir/ativar/reordenar seção (:401-445), criar/editar produto (:206-207), subir fotos após criar (:216-217), excluir foto (:120).
 - APIs: `guia.catalogo.secoes.listar|criar|atualizar|excluir`, `guia.catalogo.produtos.listar|criar|atualizar`, `guia.catalogo.fotos.listar|criar|criarVideo|excluir`, `guia.empresas.detalhe` (:374).
 - estados: qualquer falha ao carregar seções/empresa cai em `.catch(() => setSemAcesso(true))` e mostra `SemAcessoEmpresa` (`components/painel/SemAcessoEmpresa.tsx`). (:384)
@@ -11,10 +13,10 @@
 
 ## o que você vê
 Catálogo de produtos de uma empresa (ex.: loja, revenda de carros), separado em seções.
-- seções: criar, apagar e mudar a ordem.
-- produto: Título * (ex.: Corolla XEi 2.0 Flex 2023), descrição, preço, preço promocional, Marca, detalhes (para veículos: ano, km, combustível, cor) e selo (Novo, Oferta, Mais vendido, Recente).
+- seções: `+ Adicionar seção`, apagar e mudar a ordem com as setas.
+- produto (`+ Novo produto`): `Título *` (ex.: Corolla XEi 2.0 Flex 2023), `Descrição`, `Preço (R$)`, `Marca`, `Specs (uma por linha)` (para veículos: ano, km, combustível, cor) e `Destaque no produto` (Novo, Oferta, Mais vendido, Recente). Salve com `Salvar produto`.
 - fotos e vídeo do YouTube: enviados ao salvar o produto; se algum arquivo não entrar, a tela avisa qual.
-- chave No ar / Fora do ar: mostra ou esconde o produto na página da empresa.
+- chave `No ar` / `Fora do ar`: mostra ou esconde o produto na página da empresa.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-guia-empresas-id-catalogo.png](../prints/painel-guia-empresas-id-catalogo.png) · dados brutos: [json](../prints/json/painel-guia-empresas-id-catalogo.json)

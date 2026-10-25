@@ -1,20 +1,20 @@
 # /painel/noticias/jornalistas — jornalistas (`.../jornalistas/page.tsx`)
 - gate: módulo `noticias` (prefixo `/painel/noticias`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
+- menu: parte Conteúdo, grupo `Notícias` > `Jornalistas` (`Sidebar.tsx:112`). título `Notícias — Jornalistas`; botão `Novo jornalista`.
 - faz: o admin cadastra jornalistas (contas com login em `/minha-conta/login`) e gerencia o acesso.
 - ações: criar (`criar`, :79), renomear (`atualizar`, :75), ativar/desativar (:281), redefinir senha (`resetarSenha`, :189).
 - APIs: `noticias.jornalistas.listar|criar|atualizar|resetarSenha`.
-- estados: erro `mensagemDeAcesso(err,'salvar')` (:85,192); carga `formatApiError(err,'carregar')` (:257); vazio "Nenhum jornalista cadastrado" (:328).
+- estados: erro `mensagemDeAcesso(err,'salvar')` (:85,192); carga `formatApiError(err,'carregar')` (:257); vazio "Nenhum jornalista cadastrado." (:322).
 - problemas: fato — não há botão de excluir jornalista (só desativar).
 - admin vs cliente: o jornalista não se cadastra pelo painel; o admin cria a conta e define a senha. O cliente troca a senha em `/minha-conta/seguranca`.
 
 ## o que você vê
 Cadastro dos jornalistas, pessoas que enviam notícias pela área própria delas.
-- Nome e E-mail: quem é o jornalista e o e-mail que ele usa para entrar.
-- novo jornalista: cria a conta e mostra os dados de acesso.
-- Bloquear / Desbloquear: impede ou libera a entrada do jornalista sem apagar a conta.
-- Resetar senha: cria uma nova senha, que é enviada por e-mail ao jornalista.
-- lápis: muda o nome. Não há botão para apagar; use Bloquear.
+- Nome e E-mail: quem é o jornalista e o e-mail que ele usa para entrar (o e-mail não pode ser alterado depois).
+- `Novo jornalista`: modal com `Nome *` e o bloco `Acesso do jornalista` (e-mail de login e senha inicial); `Salvar` cria a conta e mostra os dados de acesso (`Anotei os dados, fechar`).
+- por jornalista, três ícones: `Resetar senha` (janela `Resetar senha — <nome>` com `Nova senha`, botão `Redefinir`), `Editar` (lápis, muda o nome) e `Bloquear` / `Desbloquear` (impede ou libera a entrada sem apagar a conta; pede confirmação).
+- Não há botão para apagar; use Bloquear.
 - o jornalista entra pela página de login de clientes, não pelo painel.
 
 ## posições na tela (print de 2026-10-16, 1280x900)

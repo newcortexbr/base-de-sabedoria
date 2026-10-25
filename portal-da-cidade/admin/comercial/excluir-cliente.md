@@ -8,14 +8,15 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - -FASO6flcCw
 ---
 
 ## objetivo
-aqui você apaga um cliente. Leia o aviso da tela antes de confirmar.
+
+aqui você exclui um cadastro de cliente. A confirmação avisa que a ação não pode ser desfeita.
 
 ## pré-requisitos
 
@@ -23,27 +24,28 @@ aqui você apaga um cliente. Leia o aviso da tela antes de confirmar.
 
 ## passos
 
-1. No menu da esquerda, na parte `Comercial`, clique em `Meus Clientes`. [guia=menu:/painel/clientes]
-2. Para achar alguém, escreva em `Buscar por nome, documento ou telefone…`. [guia=clientes.busca]
-3. Para apagar o cliente, clique em `Excluir` na linha dele e confira o aviso antes de confirmar. [guia=clientes.excluir]
+1. Na parte `Comercial` do menu da esquerda, clique em `Meus Clientes`. [t=10] [guia=menu:/painel/clientes]
+2. Escreva o nome, o documento ou o telefone em `Buscar por nome, documento ou telefone…`. [t=44] [guia=clientes.busca]
+3. Pressione Enter no campo de busca para carregar os resultados. [guia=clientes.busca]
+4. Na coluna `Ações` do cliente, clique na lixeira com a descrição `Excluir`. [t=69] [guia=clientes.excluir]
+5. Na confirmação, clique em `Excluir`. [guia=confirmacao.confirmar]
 
 ## resultado
-O cliente é apagado.
+
+aparece `Cliente excluído` e o cliente sai da lista.
 
 ## desvios
 
-- Excluir e bloquear pedem confirmação; confira antes.
-- O arquivo exportado tem dados de contato: guarde com cuidado.
+Se houver histórico protegido de contratações e faturas, a exclusão é recusada mesmo depois de cancelar. A mensagem é: `Não é possível excluir: este cliente tem histórico de contratações e faturas, que fica guardado como registro do dinheiro — mesmo depois de cancelado.` Use o bloqueio se só precisar suspender o acesso.
 
-## quando pedir ajuda
-
-peça ajuda se a página não carregar, se o salvamento der erro ou se a opção esperada não aparecer.
+Se a operação falhar, leia o motivo no aviso acima da lista.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/clientes/page.tsx`
-- `suporte-kb/mapa/admin/telas/painel-clientes.md`
+- `portal-cidade/frontend/src/app/painel/clientes/page.tsx:418` — confirmação e resultado.
+- `portal-cidade/frontend/src/app/painel/clientes/page.tsx:713` — busca enviada por Enter.
+- `portal-cidade/backend/comercial/views_admin.py:431` — proteção do histórico.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os textos dos botões podem mudar.
+Validação documental no código fixado; sem teste no navegador.

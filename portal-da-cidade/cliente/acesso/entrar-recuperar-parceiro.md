@@ -10,51 +10,48 @@ aba: nao-se-aplica
 tipo_problema: orientacao
 modulo: acesso
 status: rascunho-documental
-revisado_em: 2026-10-15
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 ---
 
 ## objetivo
 
-entrar na área de parceiro.
-
-Se esqueceu a senha, veja o artigo "esqueci minha senha: recuperar a senha da área de parceiro".
-
+entrar na área de parceiro (representante). Se esqueceu a senha, veja o artigo "esqueci minha senha: recuperar a senha da área de parceiro".
 
 ## pré-requisitos
 
-- Ter uma conta de parceiro ativa neste portal.
+- Ter uma conta de parceiro neste portal.
 - Ter acesso ao e-mail cadastrado.
 
 ## passos
 
-1. Abra a página de entrada do representante, no endereço `/parceiro/login`. [guia=fora]
-2. Escreva seu e-mail em `E-mail`. [guia=fora]
-3. Escreva sua senha em `Senha`. [guia=fora]
-4. Clique em `Entrar`. [guia=fora]
+1. Abra a página de entrada da área do representante do seu portal (tela `Entrar na sua conta`, com o selo `Área do representante`). [guia=fora]
+2. Escreva seu e-mail em `E-mail`. [guia=parceiro-login.email]
+3. Escreva sua senha em `Senha`. [guia=parceiro-login.senha]
+4. Clique em `Entrar`. [guia=parceiro-login.entrar]
 
 ## resultado
 
-com credenciais válidas e vínculo ativo, a área de parceiro é aberta. A recuperação da senha dessa área é separada da recuperação da área do cliente.
+com e-mail e senha corretos, a área do parceiro abre. A recuperação da senha é separada da área do cliente.
 
 ## desvios
 
-- Se o sistema indicar muitas tentativas, aguarde alguns minutos antes de tentar novamente.
-- Código incorreto ou expirado pode ser solicitado novamente.
-- O formulário informa que pode reenviar o código; por segurança, a resposta não confirma se o e-mail tem cadastro.
-- Se você entra apenas com outra conta ou serviço e nunca criou uma senha no portal, este fluxo não cria uma senha. Use a forma de entrada original ou peça ajuda ao suporte.
+- `Muitas tentativas seguidas. Espere alguns minutos e tente de novo.`: aguarde antes de tentar de novo.
+- senha ou e-mail errados: a tela mostra a recusa do servidor ou `E-mail ou senha inválidos.`.
+- esqueceu a senha: clique em `Esqueci minha senha`, logo abaixo do botão `Entrar`.
+- ainda não é representante: abaixo do botão há o link `Cadastre-se`.
+- se você entra só por outra conta ou serviço e nunca criou senha no portal, este fluxo não cria uma senha; peça ajuda ao suporte.
 
 ## quando pedir ajuda
 
-se sua senha estiver correta e o acesso continuar recusado, peça ao suporte do portal para verificar se o vínculo de parceiro está ativo. Não envie senha nem código.
+se a senha estiver correta e o acesso continuar recusado, peça ao suporte do portal para verificar a conta de parceiro. Não envie senha nem código.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/parceiro/login/ParceiroLoginClient.tsx:87-117,136-165,207-251,254-295`
-- `portal-cidade/backend/comercial/recuperar_senha.py:4-15,40-62,134-157`
-- `portal-cidade/docs/DECISIONS.md:12092-12100`
+- `portal-cidade/frontend/src/app/parceiro/login/ParceiroLoginClient.tsx:28-39,207-236` — textos, erros, `Cadastre-se`.
+- `portal-cidade/docs/DECISIONS.md:12092-12100`.
 
 ## lacunas
 
-- Não foi documentado neste artigo como solicitar o primeiro cadastro de parceiro; o cadastro é tratado fora do escopo de recuperação e login.
-- O e-mail e o fluxo real não foram validados em tela.
+- o endereço/atalho que leva à tela de entrada do representante não foi localizado no site público.
+- fluxo real e e-mail não validados em tela.

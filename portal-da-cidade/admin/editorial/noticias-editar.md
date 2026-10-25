@@ -2,52 +2,61 @@
 id: editorial-noticias-editar
 titulo: "editar uma notícia"
 publico:
-  - administrador do portal
-  - jornalista
+  - admin
 modulo: notícias
 categoria: conteúdo
 aba: Notícias
 tipo_problema: publicação
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - gAa2NdnitZU
 ---
 
 ## objetivo
-aqui você corrige uma notícia que já foi cadastrada. Você muda o texto, a foto ou a situação e salva.
 
-## pré-requisitos/permissões
-O administrador usa o painel. O jornalista não usa o painel: entra pela área do cliente e só vê o que o papel dele permite.
+Aqui você corrige o texto de uma notícia existente pelo painel.
+
+## pré-requisitos
+
+- Entrar no painel como administrador. O jornalista edita suas matérias pela área do cliente.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Notícias` e depois em `Listar Notícias`. [guia=menu:/painel/noticias]
-2. Para corrigir uma notícia, clique no ícone de lápis (`Editar`) na linha da notícia que você quer. [guia=noticias.editar]
-3. Mude o que precisar no formulário. [guia=noticias-cadastrar.titulo]
-4. Clique em `Salvar`. [guia=noticias-cadastrar.salvar]
+1. Na seção `Conteúdo` do menu lateral, em `Notícias`, clique em `Listar Notícias`. [t=23] [guia=menu:/painel/noticias]
+2. Digite o título em `Buscar por título...`. [t=25] [guia=noticias.buscar]
+3. Na linha da notícia, clique no lápis `Editar`. [guia=noticias.editar]
+4. Se necessário, corrija `Título *`. [guia=noticias-cadastrar.titulo]
+5. Se necessário, corrija `Subtítulo`. [guia=noticias-cadastrar.subtitulo]
+6. Se necessário, corrija `Título curto`. [guia=noticias-cadastrar.titulo-curto]
+7. Se necessário, corrija `Chamada da matéria`. [guia=noticias-cadastrar.chamada]
+8. Se necessário, corrija `Conteúdo da matéria *`. [guia=noticias-cadastrar.conteudo]
+9. Se necessário, ajuste `Tags / Palavras-chave`. [guia=noticias-cadastrar.tags]
+10. Se necessário, corrija `Fonte da matéria`. [guia=noticias-cadastrar.fonte]
+11. Se necessário, escolha outra `Categoria`. [guia=noticias-cadastrar.categoria]
+12. Se necessário, escolha a `Subcategoria` da categoria escolhida. [guia=noticias-cadastrar.subcategoria]
+13. Clique em `Salvar`. [guia=noticias-cadastrar.salvar]
 
 ## resultado
-A notícia fica com as mudanças. Confira na coluna `Status` da lista se ela está como você quer.
+
+A tela mostra `Notícia salva` e volta para a lista. Corrigir texto de uma notícia publicada sem alterar o agendamento mantém a data original.
 
 ## desvios
-- Não existe opção funcional para restringir uma notícia a leitores conectados; o antigo `ver_apenas_logado` foi removido.
-- Comentários de notícia e publieditorial não fazem parte do fluxo disponível no código.
-- Busca global não procura notícias.
-- Falha ao carregar ou salvar: leia a mensagem da tela; não presuma que a ação foi concluída.
 
-## quando pedir ajuda
-peça ajuda ao responsável pelo portal se a publicação não estiver visível após a data prevista, se categoria/subcategoria não aparecerem, ou se a API recusar a ação. Informe a rota e o texto do erro, sem enviar dados de leitores.
+- Para foto, legenda e créditos, use os campos de `Foto de Capa` descritos em “notícias: cadastrar e controlar a publicação”.
+- Para status, agendamento, destaque e Google, use os artigos próprios.
+- Se houver erro, leia a mensagem e permaneça na tela até conseguir salvar.
+- Matéria publicada guarda o rascunho automático neste navegador, sem publicá-lo. O botão `Salvar` confirma a alteração no servidor.
 
 ## fontes
-- `portal-cidade/frontend/src/app/painel/noticias/page.tsx:12` — estado agendado e visibilidade.
-- `portal-cidade/frontend/src/app/painel/noticias/page.tsx:126` — filtros da listagem.
-- `portal-cidade/frontend/src/app/painel/noticias/cadastrar/page.tsx:1` — rota de cadastro.
-- `docs/DECISIONS.md:56` — comentários removidos.
-- `docs/DECISIONS.md:65` — busca global.
-- `docs/DECISIONS.md:78` — campo de conteúdo para logados removido.
-- `docs/PRODUCT.md:40` — funcionalidades de Notícias.
+
+- `frontend/src/app/painel/noticias/page.tsx:595` — Editar.
+- `frontend/src/app/painel/noticias/[id]/editar/page.tsx:41` — mesmo formulário na edição.
+- `frontend/src/components/painel/noticias/NoticiaFormBase.tsx:327` — preservação da data.
+- `frontend/src/components/painel/noticias/NoticiaFormBase.tsx:377` — gravação e mensagem.
+- Vídeo `gAa2NdnitZU`, legenda em 23s–28s: acesso à lista e busca. Não detalha edição.
 
 ## lacunas
-não verificado visualmente nem em ambiente executável. A exibição do botão depende de permissões e do formulário atual; este guia não promete um fluxo de publicação único para todos os papéis.
+
+Não executado no navegador nem verificado o conteúdo público após salvar.

@@ -3,26 +3,27 @@
 Arquivos: `app/painel/orcamentos/categorias/page.tsx`, `SolicitacoesOrcamentoClient.tsx`
 
 ## o que você vê
-Lista de todos os pedidos de orçamento enviados por visitantes, para aprovar, reprovar ou encerrar.
-- cartões Total, Aguardando aprovação, Aprovados, Encerrados e Reprovados: contagem de cada situação; clicar filtra.
-- Aprovar: envia o pedido às empresas da categoria. Reprovar: o pedido não vai para ninguém. Encerrar: fecha um pedido.
-- filtros Status, Categoria, De e Até (datas) e Limpar filtros.
-- marcar várias linhas permite Aprovar e enviar, Reprovar, Encerrar ou Excluir em lote, sempre com confirmação.
-- abrir um pedido mostra título, código, descrição, link, fotos e contato, e permite trocar o status.
+Lista de todos os pedidos de orçamento enviados por visitantes, para aprovar, reprovar ou encerrar. No menu lateral, na parte Conteúdo, abra `Orçamentos Online` e clique em `Todas as Solicitações`. Título da tela: `Orçamentos — Todas as Solicitações`.
+- cartões `Total`, `Aguardando aprovação`, `Aprovados`, `Encerrados` e `Reprovados`: contagem de cada situação; clicar filtra.
+- tabela: Solicitação, Cliente, Subcategoria, Status, Recebido, Ações. Em cada linha, ícones com dica: `Ver detalhes`, `Editar status`, `Aprovar e enviar à empresa`, `Reprovar — não vai para a empresa` e `Excluir`.
+- Aprovar envia o pedido às empresas da categoria. Reprovar: o pedido não vai para ninguém. Encerrar: fecha um pedido.
+- filtros `Status`, `Categoria` (`Todas as categorias`), `De` e `Até` (datas) e `Limpar filtros`.
+- marcar várias linhas permite `Aprovar e enviar`, `Reprovar`, `Encerrar` ou `Excluir` em lote, sempre com confirmação (`Confirmar`).
+- abrir um pedido (`Ver detalhes`) mostra título, `Código`, status, descrição, link, fotos, `Cliente`, `WhatsApp`, `Categoria`, `Recebido em`, `Local` e `Serviços marcados`; pedido aguardando tem `Aprovar e enviar` e `Reprovar`, e a lista `Editar status` com `Salvar` troca o status.
 - o texto do pedido não pode ser editado; excluir apaga o pedido.
-- Carregar mais: mostra mais pedidos.
+- `Carregar mais (N restantes)`: mostra mais pedidos.
 
 ## rota e gate
-- `/painel/orcamentos/categorias`. gate `PainelGuard` + módulo `orcamentos` (`lib/painel-menu.ts:65`).
+- `/painel/orcamentos/categorias` (menu `Orçamentos Online` > `Todas as Solicitações`). gate `PainelGuard` + módulo `orcamentos` (`lib/painel-menu.ts:65`).
 
 ## o que faz
 - moderação dos pedidos de orçamento enviados por visitantes. "Aprovar" entrega o pedido às empresas da categoria; "Reprovar" não envia a ninguém.
 
 ## ações e campos
-- cartões de contagem clicáveis: Total, Aguardando aprovação, Aprovados, Encerrados, Reprovados.
-- filtros: Status, Categoria (`SelectComBusca`), De/Até (datas), "Limpar filtros".
-- tabela com seleção em lote; botões em lote: Aprovar e enviar, Reprovar, Encerrar, Excluir (todos com modal de confirmação próprio, `:455-490`).
-- modal de detalhe: título, código, descrição, link (só vira `<a>` se começa com http/https), fotos, contato (telefone mascarado) e `<select>` "Editar status" para qualquer um dos 4 status (`:212-221`).
+- cartões de contagem clicáveis: `Total`, `Aguardando aprovação`, `Aprovados`, `Encerrados`, `Reprovados`.
+- filtros: `Status`, `Categoria` (`SelectComBusca`), `De`/`Até` (datas), `Limpar filtros`.
+- tabela com seleção em lote; botões em lote: `Aprovar e enviar`, `Reprovar`, `Encerrar`, `Excluir` (todos com modal de confirmação, `:455-490`).
+- modal de detalhe: título, `Código`, descrição, link (só vira `<a>` se começa com http/https), fotos, `Cliente`, `WhatsApp` (mascarado), `Categoria`, `Recebido em`, `Local`, `Serviços marcados` e lista `Editar status` com `Salvar` para qualquer um dos 4 status (`:196-234`).
 - por linha: atualizar status e excluir.
 - o admin muda o status de pedidos do visitante e exclui pedidos; não edita o texto.
 - "Carregar mais" paginado.

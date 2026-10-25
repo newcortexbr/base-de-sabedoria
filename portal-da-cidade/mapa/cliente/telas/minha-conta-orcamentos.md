@@ -3,7 +3,7 @@
 Arquivo: `src/app/minha-conta/orcamentos/page.tsx`
 
 ## quem acessa
-- empresa (lojista com empresa no Guia). Perfis reduzidos não têm a rota.
+- empresa (lojista com empresa no Guia). Menu: grupo "Orçamentos" > `Pedidos recebidos`; título da tela: "Pedidos de orçamento". Perfis reduzidos não têm a rota.
 - login obrigatório (`layout.tsx`).
 
 ## gate de módulo/plano
@@ -61,5 +61,6 @@ Pedidos de orçamento que visitantes do site mandaram para o serviço da sua emp
 - Responder no WhatsApp: abre conversa com mensagem pronta e marca como visto.
 - Ver pedido completo / Marcar como visto.
 - Atualizar: busca pedidos novos (a lista não se atualiza sozinha).
-- "Falta escolher o seu serviço": sem ele no Guia, nenhum pedido novo chega.
+- "Falta escolher o seu serviço": sem ele no Guia, nenhum pedido novo chega (link `Escolher no Guia Comercial`).
+- Botões de cada pedido: `Responder no WhatsApp`, `Ver pedido completo` / `Recolher`, `Marcar como visto`.
 - Quando chega um pedido, você também recebe um e-mail.

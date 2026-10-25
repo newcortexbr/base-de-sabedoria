@@ -1,9 +1,11 @@
 # /painel/guia/empresas/[id]/equipe — equipe (`.../[id]/equipe/page.tsx`)
 - gate: módulo `guia` (prefixo `/painel/guia`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
+- título `Nossa Equipe`; botão `Adicionar membro`.
+- chegar: `Guia Comercial` > `Listar Empresas` > ícone de editar na linha da empresa > bloco `Conteúdo da ficha` > botão `Gerenciar` do cartão `Equipe`. Não há botão disso na lista de empresas.
 - faz: lista de membros ("Nossa Equipe") da empresa.
-- campos: Nome (obrigatório), Cargo / Especialidade (obrigatório), Registro profissional (opcional), foto, ativo.
-- ações: criar/editar (:87-88), excluir com `confirm` (:218-220), ativar/desativar (:233).
+- campos do modal `Novo membro`/`Editar membro`: `Nome *`, `Cargo / Especialidade *`, `Registro profissional (opcional)`, foto (`Adicionar foto`/`Trocar foto`); botão `Salvar membro`. cada membro tem chave `No ar`/`Fora do ar`, `Editar` e lixeira.
+- ações: criar/editar (:87-88), excluir com aviso de confirmação do painel (`Excluir este membro?`, :222), ativar/desativar (:233).
 - APIs: `guia.equipe.listar|criar|atualizar|excluir`, `guia.empresas.detalhe` (:198).
 - estados: qualquer falha ao carregar seções/empresa cai em `.catch(() => setSemAcesso(true))` e mostra `SemAcessoEmpresa` (`components/painel/SemAcessoEmpresa.tsx`). (:202). Vazio "Nenhum membro cadastrado ainda" (:280).
 - problemas: fato — catch único vira "sem acesso" (:202).
@@ -11,11 +13,11 @@
 
 ## o que você vê
 Equipe da empresa ("Nossa Equipe"), mostrada no perfil da empresa no site.
-- Nome * (ex.: Dr. João Silva) e Cargo / Especialidade * (ex.: Cardiologista).
+- `Nome *` (ex.: Dr. João Silva) e `Cargo / Especialidade *` (ex.: Cardiologista).
 - registro profissional (ex.: CRM-ES 12345), opcional.
 - foto, opcional.
-- chave de publicado: mostra ou esconde a pessoa no site.
-- Editar muda o membro; a lixeira apaga, com confirmação.
+- chave `No ar` / `Fora do ar`: mostra ou esconde a pessoa no site.
+- `Editar` muda o membro; a lixeira apaga, com confirmação.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-guia-empresas-id-equipe.png](../prints/painel-guia-empresas-id-equipe.png) · dados brutos: [json](../prints/json/painel-guia-empresas-id-equipe.json)

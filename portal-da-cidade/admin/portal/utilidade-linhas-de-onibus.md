@@ -11,43 +11,62 @@ tipo_problema:
   - linhas de ônibus
   - itinerário
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
+videos:
+  - 1a0wZmdXDLk
 ---
 
 ## objetivo
-aqui você cadastra as linhas de ônibus da cidade, com itinerário e horários, que aparecem no site.
+
+Cadastre as linhas de ônibus, com itinerário e horários.
 
 ## pré-requisitos
 
-- Ter acesso de administrador ao painel.
+- Ter acesso de administrador ao painel do portal.
 
 ## passos
 
-1. No menu da esquerda, clique em `A Voz do Povo` e depois em `Linhas de Ônibus`. [guia=menu:/painel/utilidade/onibus]
-2. Clique em `Cadastrar linha`. [guia=fora]
-3. Escreva o `Número *` da linha. [guia=fora]
-4. Escreva o `Nome`, por exemplo "Centro — Terminal". [guia=fora]
-5. Preencha o `Itinerário` e os `Horários`. [guia=fora]
-6. Clique em `Salvar`. [guia=fora]
+1. Na parte `Conteúdo` do menu, em `A Voz do Povo`, clique em `Linhas de Ônibus`. [guia=menu:/painel/utilidade/onibus]
+2. Clique em `Cadastrar linha`.  [guia=utilidade-onibus.novo]
+3. Preencha `Número *`. [guia=utilidade-onibus.numero]
+4. Se quiser, preencha `Nome`. [guia=utilidade-onibus.nome]
+5. Se quiser, preencha `Itinerário`. [guia=utilidade-onibus.itinerario]
+6. Se quiser, preencha `Horários`. [guia=utilidade-onibus.horarios]
+7. Se quiser, preencha `Observação`. [guia=utilidade-onibus.observacao]
+8. Clique em `Salvar`.  [guia=utilidade-onibus.salvar]
 
 ## resultado
-a linha entra na lista e aparece no site.
 
-## desvios
+O cadastro entra na lista. A presença no site depende da seção estar ligada e do cadastro estar visível.
 
-- Para mudar ou apagar, use o lápis (`Editar`) ou a lixeira (`Excluir`) na linha.
-- A opção `Exibir no site`, no topo da página, mostra ou esconde a seção inteira no site.
+## editar um cadastro
 
-## quando pedir ajuda
+1. Na parte `Conteúdo` do menu, em `A Voz do Povo`, clique em `Linhas de Ônibus`. [guia=menu:/painel/utilidade/onibus]
+2. Na linha do cadastro, clique no lápis `Editar`.  [guia=utilidade-onibus.editar]
+3. Corrija `Número *` conforme necessário. [guia=utilidade-onibus.numero]
+4. Clique em `Salvar` após os ajustes.  [guia=utilidade-onibus.salvar]
 
-peça ajuda se a lista não carregar ou se o salvamento der erro.
+## excluir um cadastro
+
+1. Na parte `Conteúdo` do menu, em `A Voz do Povo`, clique em `Linhas de Ônibus`. [guia=menu:/painel/utilidade/onibus]
+2. Na linha do cadastro, clique na lixeira `Excluir`.  [guia=utilidade-onibus.excluir]
+3. Na confirmação, clique em `Excluir`. [guia=confirmacao.confirmar]
+
+## esconder a seção inteira
+
+1. Na parte `Conteúdo` do menu, em `A Voz do Povo`, clique em `Linhas de Ônibus`. [guia=menu:/painel/utilidade/onibus]
+2. No topo, desligue `Exibir no site`.  [guia=utilidade.exibir-no-site]
+
+Os cadastros continuam salvos e editáveis. Ligue a mesma chave para voltar a mostrar a seção.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/utilidade/onibus/page.tsx:140,200` — botão e campos.
-- `portal-cidade/frontend/src/app/painel/utilidade/onibus/ExibirNoSite.tsx`.
+- `frontend/src/app/painel/utilidade/onibus/page.tsx:140`
+- `frontend/src/app/painel/utilidade/onibus/ExibirNoSite.tsx:65`
+
+- Catálogo: `portal-da-cidade/videos.json`; legendas: `videos/legendas/1a0wZmdXDLk.srt`.
 
 ## lacunas
 
-tela não validada no navegador nesta tarefa.
+- Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.

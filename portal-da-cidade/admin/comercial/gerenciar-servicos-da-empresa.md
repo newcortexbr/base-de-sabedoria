@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - aE3QL3ErK0k
@@ -23,7 +23,7 @@ aqui você monta a tabela de serviços e preços de uma empresa do Guia.
 
 - Ter acesso administrativo ao portal.
 - O módulo Guia Comercial estar disponível no portal.
-- A empresa ter um plano pago: no plano grátis este recurso não aparece.
+- A empresa ter ficha completa. A cortesia do portal também libera o recurso; o plano Grátis não.
 
 ## passos
 
@@ -31,20 +31,20 @@ aqui você monta a tabela de serviços e preços de uma empresa do Guia.
 2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar] [t=17]
 3. Desça até `Conteúdo da ficha` e, no cartão `Serviços`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-servicos] [t=20]
 4. Escreva o nome da seção (por exemplo, Consultas). [guia=guia-empresas-servicos.nome-secao] [t=33]
-5. Clique em `Criar seção`. [guia=guia-empresas-servicos.criar-secao] [t=33]
-6. Na seção, clique em `Adicionar serviço`. [guia=guia-empresas-servicos.adicionar-servico] [t=55]
+5. Clique em `Criar seção`. [guia=guia-empresas-servicos.criar-secao] [t=36]
+6. Na seção, clique em `Adicionar serviço`. [guia=guia-empresas-servicos.adicionar-servico] [t=54]
 7. Escreva o `Nome *` do serviço. [guia=guia-empresas-servicos.nome] [t=57]
-8. Escreva a `Descrição`. [guia=guia-empresas-servicos.descricao] [t=58]
+8. Escreva a `Descrição`. [guia=guia-empresas-servicos.descricao] [t=60]
 9. Informe o `Valor (R$)`. [guia=guia-empresas-servicos.valor] [t=60]
-10. Se o preço varia, preencha o `Texto de valor (opcional)` (por exemplo, "a partir de R$ 1.800/m²"): ele aparece no lugar do valor. [guia=guia-empresas-servicos.texto-de-valor] [t=63]
+10. Se o preço varia, preencha o `Texto de valor (opcional)` (por exemplo, "a partir de R$ 1.800/m²"): ele aparece no lugar do valor. [guia=guia-empresas-servicos.texto-de-valor] [t=65]
 11. Se quiser, preencha `Duração (opcional)`. [guia=guia-empresas-servicos.duracao] [t=73]
 12. Se quiser, preencha `Detalhe (opcional)`. [guia=guia-empresas-servicos.detalhe] [t=76]
-13. Se quiser, escolha um `Ícone (opcional)`. [guia=guia-empresas-servicos.icone] [t=80]
-14. Clique em `Salvar serviço`. [guia=guia-empresas-servicos.salvar] [t=83]
+13. Se quiser, escolha um `Ícone (opcional)`. [guia=guia-empresas-servicos.icone] [t=82]
+14. Clique em `Salvar serviço`. [guia=guia-empresas-servicos.salvar] [t=84]
 
 ## resultado
 
-a página da empresa ganha o bloco de serviços oferecidos, organizado por seções, com o preço de cada serviço e botão para agendar pelo WhatsApp. o botão `ver tabela completa de serviços` abre uma página só com os serviços, ao lado de contato, endereço e horário de funcionamento.
+O serviço fica salvo na seção escolhida. `Texto de valor (opcional)`, quando preenchido, substitui o valor fechado na apresentação.
 
 ## desvios
 
@@ -58,10 +58,9 @@ peça ajuda se o cartão não aparecer ou se salvar der erro.
 
 ## fontes
 
-- `portal-cidade/frontend/src/components/painel/EmpresaEditor.tsx:933-946,1655-1686` — cartões de `Conteúdo da ficha`.
-- `portal-cidade/frontend/src/app/painel/guia/empresas/[id]/servicos/page.tsx:1`
-- vídeo `aE3QL3ErK0k`.
+- `portal-cidade/frontend/src/components/painel/EmpresaEditor.tsx:948,975-979,1735-1744`.
+- `portal-cidade/frontend/src/app/painel/guia/empresas/[id]/servicos/page.tsx:113-165,338-339,454-467`.
 
 ## lacunas
 
-não verificado visualmente nesta tarefa; passos conferidos com o vídeo de suporte e com o código da tela.
+Conferência documental no código b2f62d3f e nas legendas dos vídeos citados. Sem execução no navegador; não foram medidos cache, entrega de pedidos, impressão ou upload reais.

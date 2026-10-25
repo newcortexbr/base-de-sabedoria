@@ -1,6 +1,7 @@
 # /painel/noticias/fontes-rss/[id]/editar (`.../[id]/editar/page.tsx`, 55 linhas)
 - gate: módulo `noticias` (prefixo `/painel/noticias`); desligado mostra "ModuloDesativado" (`painel/layout.tsx:91-98`).
 - permissão: só papéis admin/master entram no painel (`src/lib/painel-permissoes.ts`).
+- menu: `Notícias Automáticas` > `Fontes de RSS` > lápis da fonte. título `Editar: <título da fonte>`; botões `Salvar` e `Cancelar`.
 - faz: `fontesRss.detalhe(id)` (:24) e `FonteRssForm` preenchido (`atualizar`, FonteRssForm:159).
 - estados: erro na carga vira `fonte: null` → "Fonte de RSS não encontrada." (:26,44).
 - problemas: fato — qualquer erro de carga (rede, 500, 403) aparece como "não encontrada", como em `/painel/noticias/[id]/editar`.
@@ -8,12 +9,12 @@
 
 ## o que você vê
 Tela para mudar uma fonte de notícias automáticas já cadastrada; os campos são os do cadastro.
-- Título *: nome da fonte.
-- URL do RSS *: o endereço do feed de notícias do site.
-- Quantidade de notícias por vez *: quantas notícias novas são trazidas em cada busca.
-- Status *: ligada ou desligada; desligada, a fonte não importa nada.
-- categoria e subcategoria: onde as notícias trazidas serão colocadas.
-- verificar: testa se o endereço funciona antes de salvar.
+- `Título *`: nome da fonte.
+- `URL do RSS *`: o endereço do feed de notícias do site. O painel confere o endereço sozinho (não há botão de verificar): mostra o nome do canal encontrado ou o motivo do erro; se não der para conferir, dá para salvar mesmo assim.
+- `Status *`: `Ligada` ou `Desligada`; desligada, a fonte não importa nada.
+- `Quantidade de notícias por vez *`: quantas notícias novas são trazidas em cada busca.
+- `Publicar direto no site`: ligado, as notícias importadas vão ao ar sozinhas; desligado, entram como rascunho para você revisar.
+- Não há escolha de categoria nem subcategoria nesta tela. As notícias entram no portal às 7h e às 19h. Em fonte da `Plataforma`, `Título` e `URL do RSS` ficam travados.
 - "Fonte de RSS não encontrada": a fonte foi apagada ou houve falha ao carregar; tente recarregar.
 
 ## posições na tela (print de 2026-10-16, 1280x900)

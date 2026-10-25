@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - Ru3949-VUX4
@@ -16,44 +16,55 @@ videos:
 
 ## objetivo
 
-aprovar ou reprovar os pedidos de orçamento enviados por visitantes.
+Aqui você lê e aprova pedidos de orçamento enviados pelos visitantes. Reprovar ou corrigir o status são caminhos separados abaixo.
 
 ## pré-requisitos
 
 - Ter acesso de administrador ao painel do portal.
 
-## veja também
-- para cuidar de vários pedidos juntos, veja o artigo "aprovar ou reprovar vários pedidos de orçamento de uma vez".
-
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Orçamentos Online` e depois em `Todas as Solicitações`. [guia=menu:/painel/orcamentos/categorias] [t=85]
-2. A lista mostra o pedido, o cliente, a subcategoria do serviço, o status e a data de chegada. Na linha, o olho abre os detalhes, o lápis muda o status, o visto aprova, o X reprova e a lixeira exclui. [guia=orcamentos-categorias.ver-detalhes]
-3. No topo da página você vê quantos pedidos estão aguardando aprovação, quantos foram aprovados, encerrados e reprovados. Clicar num cartão filtra a lista por aquela situação. [guia=orcamentos-categorias.contadores] [t=90]
-4. Se quiser, filtre também por categoria ou por datas, nos campos logo abaixo. Para um período, comece pela data `De`. [guia=orcamentos-categorias.de] [t=100]
-5. Na linha do pedido que você quer, clique em `Ver detalhes` (o olho) para ler a descrição, ver as fotos, o WhatsApp, a categoria, o local e os serviços marcados. [guia=orcamentos-categorias.ver-detalhes] [t=116]
-6. Na janela de detalhes, clique em `Aprovar e enviar` para mandar o pedido às empresas daquela categoria. As empresas recebem o pedido por e-mail. [guia=orcamentos-categorias.detalhe-aprovar] [t=130]
-7. Se o pedido for inadequado, clique em `Reprovar` na mesma janela: o pedido não vai a ninguém. [guia=orcamentos-categorias.detalhe-reprovar] [t=168]
-8. Sem abrir os detalhes, também dá para usar o visto (aprovar) ou o X (reprovar) na linha do pedido. [guia=orcamentos-categorias.aprovar]
+1. Na parte `Conteúdo` do menu, em `Orçamentos Online`, clique em `Todas as Solicitações`. [t=85] [guia=menu:/painel/orcamentos/categorias]
+2. Se quiser limitar o período, preencha `De`. [t=142] [guia=orcamentos-categorias.de]
+3. Se quiser limitar o fim do período, preencha `Até`. [t=142] [guia=orcamentos-categorias.ate]
+4. Na linha do pedido, clique em `Ver detalhes` (ícone de olho). [t=116] [guia=orcamentos-categorias.ver-detalhes]
+5. Em um pedido `Aguardando aprovação`, clique em `Aprovar e enviar`. [t=133] [guia=orcamentos-categorias.detalhe-aprovar]
+
+## reprovar um pedido
+
+1. Na parte `Conteúdo` do menu, em `Orçamentos Online`, clique em `Todas as Solicitações`. [t=85] [guia=menu:/painel/orcamentos/categorias]
+2. Na linha do pedido, clique em `Ver detalhes` (ícone de olho). [t=116] [guia=orcamentos-categorias.ver-detalhes]
+3. Em um pedido `Aguardando aprovação`, clique em `Reprovar`. [t=168] [guia=orcamentos-categorias.detalhe-reprovar]
+
+## corrigir o status de um pedido
+
+1. Na parte `Conteúdo` do menu, em `Orçamentos Online`, clique em `Todas as Solicitações`. [t=85] [guia=menu:/painel/orcamentos/categorias]
+2. Na linha do pedido, clique em `Ver detalhes` (ícone de olho). [t=116] [guia=orcamentos-categorias.ver-detalhes]
+3. Escolha a situação desejada em `Editar status`. [guia=orcamentos-categorias.detalhe-status]
+4. Clique em `Salvar status`. [guia=orcamentos-categorias.detalhe-salvar]
 
 ## resultado
 
-pedido aprovado é enviado às empresas das subcategorias que o visitante escolheu no pedido (até 3); reprovado não é enviado. Só recebem pedidos aprovados as empresas do guia comercial com o plano mais completo: o benefício de receber orçamentos aparece como recurso faltante nos outros planos.
+O pedido passa para aprovado. Ele fica disponível para empresas elegíveis e o sistema solicita o envio dos avisos por e-mail; entrega do e-mail não é comprovada pelo clique.
 
 ## desvios
 
-- Você muda o status e pode excluir, mas não edita o texto do pedido.
-- Dá para corrigir o status pela janela de detalhe.
+- Receber pedidos depende do benefício `orcamentos`, da subcategoria do pedido e das condições de acesso da empresa; não basta o plano ter o nome de “mais completo”.
+- A tela permite alterar status, não reescrever o texto do pedido.
 
 ## quando pedir ajuda
 
-peça ajuda se a página não carregar, se o salvamento der erro ou se a opção esperada não aparecer.
+Peça ajuda se a tela não carregar ou se a ação mostrar erro. Informe a mensagem e a ação tentada, sem enviar senha.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/orcamentos/categorias/`
-- `suporte-kb/mapa/admin/telas/painel-orcamentos-categorias.md`
+- Código do portal no HEAD `b2f62d3f`; base revisada a partir de `814f097`.
+- `frontend/src/app/painel/orcamentos/categorias/SolicitacoesOrcamentoClient.tsx:190`.
+- `frontend/src/app/painel/orcamentos/categorias/SolicitacoesOrcamentoClient.tsx:216`.
+- `backend/orcamentos/views_admin.py:76`.
+- `backend/orcamentos/emails.py:72`.
+- Vídeo `Ru3949-VUX4`: catálogo `portal-da-cidade/videos.json`, transcrição `videos/conteudo/Ru3949-VUX4.md` e legenda `videos/legendas/Ru3949-VUX4.srt`.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os textos dos botões podem mudar.
+Não houve validação no navegador nem execução do produto. As regras e os rótulos descritos foram conferidos por leitura do código. Tempos indicam o trecho da transcrição/legenda, não uma reprodução validada da interface atual.

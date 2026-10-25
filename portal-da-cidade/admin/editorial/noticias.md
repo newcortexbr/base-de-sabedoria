@@ -2,80 +2,66 @@
 id: editorial-noticias
 titulo: "notícias: cadastrar e controlar a publicação"
 publico:
-  - administrador do portal
-  - jornalista
+  - admin
 modulo: notícias
 categoria: conteúdo
 aba: Notícias
 tipo_problema: publicação
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - gAa2NdnitZU
 ---
 
 ## objetivo
-aqui você escreve, publica e acompanha as notícias do portal. Rascunho fica guardado, agendada entra no ar numa data marcada e publicada já está no ar.
 
-## pré-requisitos/permissões
-O administrador usa o painel. O jornalista não usa o painel: entra pela área do cliente e só vê o que o papel dele permite.
+Aqui você cadastra uma notícia completa pelo painel. A publicação imediata, o agendamento e o destaque têm controles separados.
 
-## veja também
-- para mudar uma notícia que já existe, veja o artigo "editar uma notícia".
-- para achar uma notícia na lista ou ver a situação dela, veja o artigo "encontrar e filtrar notícias na lista".
+## pré-requisitos
+
+- Entrar no painel como administrador. Jornalistas usam a área do cliente e seus artigos próprios de orientação.
 
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Notícias` e depois em `Listar Notícias`. [guia=menu:/painel/noticias] [t=23]
-2. Para escrever uma notícia nova, clique no botão `+ Cadastrar Notícia` no topo da lista. [guia=noticias.cadastrar] [t=49]
-3. Escreva o `Título *` da notícia. [guia=noticias-cadastrar.titulo] [t=52]
-4. Se quiser, escreva o `Subtítulo`. [guia=noticias-cadastrar.subtitulo]
-5. Se quiser, escreva a `Chamada`, o resumo que aparece na lista. [guia=noticias-cadastrar.conteudo]
-6. Se quiser, escreva o `Título curto`: ele aparece nos cartões da página inicial. [guia=noticias-cadastrar.titulo-curto] [t=54]
-7. Escreva o texto da notícia no quadro `Conteúdo da matéria *`, que é um editor completo, com títulos, listas, links, imagens e vídeos no texto. [guia=noticias-cadastrar.conteudo] [t=62]
-8. Em `Categorização`, escolha a `Categoria`. [guia=noticias-cadastrar.categoria] [t=74]
-9. Escolha também a `Subcategoria` (ela só abre depois que você escolhe a categoria). Se precisar, crie a categoria ou a subcategoria na hora, na própria tela. [guia=noticias-cadastrar.subcategoria] [t=77]
-10. Se quiser, preencha as `Tags`, que ajudam a busca, e a fonte da matéria. [guia=noticias-cadastrar.conteudo]
-11. Em `Foto de Capa`, clique no quadro e envie a imagem; clicando na imagem você escolhe o ponto de foco do recorte. [guia=noticias-cadastrar.foto-capa] [t=80]
-12. Preencha a `Legenda` da foto. [guia=noticias-cadastrar.legenda] [t=87]
-13. Preencha os `Créditos` da foto. [guia=noticias-cadastrar.creditos]
-14. Em `Publicação`, escolha o `Status`: `Rascunho` (fica guardada), `Publicado` (vai ao ar) ou `Arquivado`. [guia=noticias-cadastrar.status] [t=89]
-15. Para entrar no ar em outro dia, ligue `Agendar notícia` (só aparece com o status `Publicado`). [guia=noticias-cadastrar.agendar] [t=92]
-16. Com `Agendar notícia` ligado, escolha o dia e a hora em `Publicar em`. [guia=noticias-cadastrar.publicar-em]
-17. Se quiser a notícia em evidência na página inicial, ligue `Destaque na janela principal`. [guia=noticias-cadastrar.destaque] [t=94]
-18. Clique em `Adicionar`. Ao corrigir uma notícia que já existe, o botão se chama `Salvar`. [guia=noticias-cadastrar.salvar] [t=98]
-
-## explicação
-- a lista mostra categoria, autor, data, status e número de visualizações de cada notícia.
-- o botão liga e desliga da própria lista publica a notícia ou a tira do ar na hora.
-- em `Autor`, você define a assinatura padrão do portal, com nome, cargo, foto e redes sociais.
-- em `Categorias`, você organiza as editorias, com cor, quantidade de notícias e se estão ativas; as subcategorias detalham cada editoria.
+1. Na seção `Conteúdo` do menu lateral, em `Notícias`, clique em `Cadastrar Notícia`. [t=49] [guia=menu:/painel/noticias/cadastrar]
+2. Preencha `Título *`. [t=52] [guia=noticias-cadastrar.titulo]
+3. Se quiser, preencha `Subtítulo`. [t=52] [guia=noticias-cadastrar.subtitulo]
+4. Se quiser, preencha `Título curto`, usado nos cartões da página inicial. [t=54] [guia=noticias-cadastrar.titulo-curto]
+5. Se quiser, preencha `Chamada da matéria`, o resumo da notícia. [t=57] [guia=noticias-cadastrar.chamada]
+6. Escreva o texto em `Conteúdo da matéria *`. [t=62] [guia=noticias-cadastrar.conteudo]
+7. Se quiser, preencha `Tags / Palavras-chave`; Enter ou vírgula confirma cada palavra ou expressão. [t=70] [guia=noticias-cadastrar.tags]
+8. Se quiser, preencha `Fonte da matéria`. [t=72] [guia=noticias-cadastrar.fonte]
+9. Em `Categoria`, escolha a editoria. [t=74] [guia=noticias-cadastrar.categoria]
+10. Se quiser, escolha a `Subcategoria`, após escolher a categoria. [t=77] [guia=noticias-cadastrar.subcategoria]
+11. Em `Foto de Capa`, envie a imagem pelo quadro `Arraste ou clique aqui`. [t=80] [guia=noticias-cadastrar.foto-capa]
+12. Se quiser, escolha o `Ponto de foco da imagem` no seletor que aparece abaixo da capa. [t=84] [guia=imagem.foco]
+13. Se quiser, preencha `Legenda`. [t=87] [guia=noticias-cadastrar.legenda]
+14. Se quiser, preencha `Créditos`. [t=89] [guia=noticias-cadastrar.creditos]
+15. Em `Status`, escolha `Publicado`. [t=92] [guia=noticias-cadastrar.status]
+16. Clique em `Adicionar`. [t=98] [guia=noticias-cadastrar.salvar]
 
 ## resultado
-A lista reflete o estado do conteúdo. Uma notícia marcada como publicada, mas com data futura, aparece como `agendado` e fica escondida do público até a data chegar.
+
+A tela mostra `Notícia cadastrada` e volta para a lista. Com `Publicado` e sem agendamento, a notícia pode ser consultada publicamente.
 
 ## desvios
 
-- Com várias notícias em `Destaque na janela principal`, a página inicial mostra primeiro a de publicação mais recente.
-- Não existe opção funcional para restringir uma notícia a leitores conectados; o antigo `ver_apenas_logado` foi removido.
-- Comentários de notícia e publieditorial não fazem parte do fluxo disponível no código.
-- Busca global não procura notícias.
-- Falha ao carregar ou salvar: leia a mensagem da tela; não presuma que a ação foi concluída.
-
-## quando pedir ajuda
-peça ajuda ao responsável pelo portal se a publicação não estiver visível após a data prevista, se categoria/subcategoria não aparecerem, ou se a API recusar a ação. Informe a rota e o texto do erro, sem enviar dados de leitores.
+- Para guardar sem publicar, escolha `Rascunho` em vez de `Publicado`.
+- Para publicar em outra data ou destacar na página inicial, veja “agendar uma notícia” e “colocar uma notícia em destaque”.
+- Para ajustar o texto para o Google ou o endereço da página, veja “mudar SEO e endereço de uma notícia”.
+- O clique no quadro da capa escolhe o arquivo; o ponto de foco é ajustado no seletor separado abaixo.
+- O formulário novo não salva sozinho antes do primeiro cadastro. Notícias já existentes têm salvamento automático próprio; ele não substitui confirmar a publicação.
 
 ## fontes
 
-- `portal-cidade/backend/noticias/views.py:179-198` e `backend/noticias/models.py:745` — destaques filtrados por `destaque_janela_principal` e ordenados por `-publicado_em`; `frontend/src/app/page.tsx:273-292` usa o primeiro como principal.
-- `portal-cidade/frontend/src/app/painel/noticias/page.tsx:12` — estado agendado e visibilidade.
-- `portal-cidade/frontend/src/app/painel/noticias/page.tsx:126` — filtros da listagem.
-- `portal-cidade/frontend/src/app/painel/noticias/cadastrar/page.tsx:1` — rota de cadastro.
-- `docs/DECISIONS.md:56` — comentários removidos.
-- `docs/DECISIONS.md:65` — busca global.
-- `docs/DECISIONS.md:78` — campo de conteúdo para logados removido.
-- `docs/PRODUCT.md:40` — funcionalidades de Notícias.
+- `frontend/src/components/painel/noticias/NoticiaFormBase.tsx:424` — campos de conteúdo.
+- `frontend/src/components/painel/noticias/NoticiaFormBase.tsx:496` — categoria e subcategoria.
+- `frontend/src/components/painel/noticias/NoticiaFormBase.tsx:556` — publicação.
+- `frontend/src/components/painel/noticias/NoticiaFormBase.tsx:637` — capa e foco separado.
+- `backend/noticias/views.py:180` — listagem pública exige publicado e data já atingida.
+- Vídeo `gAa2NdnitZU`, legenda em 49s–101s.
 
 ## lacunas
-não verificado visualmente nem em ambiente executável. A exibição do botão depende de permissões e do formulário atual; este guia não promete um fluxo de publicação único para todos os papéis.
+
+Não executado no navegador. Resultado visual da capa e publicação real não verificados.

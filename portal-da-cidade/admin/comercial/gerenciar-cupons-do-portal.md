@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - pBHdF3bd1QI
@@ -16,51 +16,49 @@ videos:
 
 ## objetivo
 
-aqui você cria, muda e apaga cupons de qualquer empresa do Guia, em nome do lojista.
+Aqui você cria um cupom para uma empresa do Guia Comercial. Cada empresa tem um cupom.
 
 ## pré-requisitos
 
 - Ter acesso de administrador ao painel do portal.
 
-## veja também
-- para mudar um cupom, veja o artigo "editar um cupom do portal".
-- para apagar um cupom, veja o artigo "remover um cupom do portal".
-
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Cupons de Desconto`. [guia=menu:/painel/cupons] [t=9]
-2. Para criar, clique em `Novo cupom`. [guia=cupons.novo] [t=22]
-3. Escolha a `Empresa`. Cada empresa só pode ter um cupom; por isso, as que já têm não aparecem na lista. [guia=cupons.empresa] [t=25]
-4. Envie a `Foto de capa do cupom`. [guia=cupons.foto] [t=28]
-5. Escreva o `Código do cupom *`, só com letras e números. [guia=cupons.codigo] [t=31]
-6. Escreva o `Desconto (texto exibido) *`, que aparece no selo (por exemplo, 10% off). [guia=cupons.desconto-texto] [t=33]
-7. Escreva a `Descrição do cupom`. [guia=cupons.descricao] [t=35]
-8. Escreva as `Condições de uso`. [guia=cupons.condicoes] [t=39]
-9. Escolha o `Tipo de desconto` (`Percentual (%)` ou `Valor fixo (R$)`). [guia=cupons.tipo] [t=41]
-10. Informe o `Valor`. [guia=cupons.valor] [t=43]
-11. Escolha a `Validade`. [guia=cupons.validade] [t=44]
-12. Clique em `Salvar cupom`. [guia=cupons.salvar] [t=46]
+1. Na parte `Conteúdo` do menu, em `Guia Comercial`, clique em `Cupons de Desconto`. [t=9] [guia=menu:/painel/cupons]
+2. Clique em `Novo cupom`. [t=25] [guia=cupons.novo]
+3. Escolha `Empresa *`. [t=28] [guia=cupons.empresa]
+4. Se quiser, envie uma imagem em `Foto de capa do cupom`. [t=28] [guia=cupons.foto]
+5. Preencha `Código do cupom *` com letras e números, sem espaço nem acento. [t=30] [guia=cupons.codigo]
+6. Preencha `Desconto (texto exibido) *`, como `10% OFF`. [t=33] [guia=cupons.desconto-texto]
+7. Se quiser, preencha `Descrição do cupom`. [t=38] [guia=cupons.descricao]
+8. Se quiser, preencha `Condições de uso`. [t=39] [guia=cupons.condicoes]
+9. Escolha `Tipo de desconto`: `Percentual (%)` ou `Valor fixo (R$)`. [t=41] [guia=cupons.tipo]
+10. Informe `Valor`; no desconto percentual, use um número entre 0 e 100. [t=44] [guia=cupons.valor]
+11. Se quiser definir um prazo, preencha `Validade`. [t=46] [guia=cupons.validade]
+12. Clique em `Salvar cupom`. [t=49] [guia=cupons.salvar]
 
 ## resultado
 
-o cupom aparece para os visitantes. na página pública de cupons, o visitante pode buscar, filtrar por categoria e clicar em `pegar cupom`: o código aparece na hora, com o botão `copiar`, e basta apresentá-lo no estabelecimento. Remover só apaga o cupom; a empresa continua no Guia.
+O painel mostra `Cupom salvo` e volta à lista. A exibição pública depende do benefício de cupom da empresa e da validade.
 
 ## desvios
 
-- Se a lista de empresas vier vazia, todas já podem ter cupom ou não há empresas no Guia.
-- Se a foto falhar, o cupom já foi salvo; edite e envie a foto de novo.
-- Cupom depende do plano da empresa.
-- Você não precisa cadastrar os cupons sozinho: a própria empresa pode gerenciar o cupom pelo painel do cliente, se o plano dela incluir cupom (o item `Cupons` aparece no menu dela, abaixo de `Guia Comercial`). ao salvar por lá, o selo muda para "no ar" e o cupom já aparece no portal. é o mesmo cupom que você vê no seu painel.
+- Empresas que já têm cupom não aparecem na seleção; use `Editar` na lista.
+- Se aparecer `O cupom foi salvo, mas a foto não:`, os textos foram gravados. Envie a foto novamente pela edição.
+- Para alterar um cupom, veja “editar um cupom do portal”; para apagar, veja “remover um cupom do portal”.
 
 ## quando pedir ajuda
 
-peça ajuda se a página não carregar, se o salvamento der erro ou se a opção esperada não aparecer.
+Peça ajuda se a tela não carregar ou se a ação mostrar erro. Informe a mensagem e a ação tentada, sem enviar senha.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/cupons/`
-- `suporte-kb/mapa/admin/telas/painel-cupons.md`, `painel-cupons-novo.md`
+- Código do portal no HEAD `b2f62d3f`; base revisada a partir de `814f097`.
+- `frontend/src/app/painel/cupons/CupomForm.tsx:95`.
+- `frontend/src/app/painel/cupons/CupomForm.tsx:169`.
+- `frontend/src/app/painel/cupons/page.tsx:171`.
+- Vídeo `pBHdF3bd1QI`: catálogo `portal-da-cidade/videos.json`, transcrição `videos/conteudo/pBHdF3bd1QI.md` e legenda `videos/legendas/pBHdF3bd1QI.srt`.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os textos dos botões podem mudar.
+Não houve validação no navegador nem execução do produto. As regras e os rótulos descritos foram conferidos por leitura do código. Tempos indicam o trecho da transcrição/legenda, não uma reprodução validada da interface atual.

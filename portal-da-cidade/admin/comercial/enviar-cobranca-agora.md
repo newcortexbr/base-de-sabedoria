@@ -5,47 +5,49 @@ publico:
   - admin
 modulo: financeiro
 categoria: admin
-aba: A vencer, Vencidas, Pagas ou Canceladas
+aba: nao-se-aplica
 tipo_problema: pagamento
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - 1RHf0fcXgyE
 ---
 
 ## objetivo
-aqui você manda a cobrança de uma fatura que ainda não foi enviada. Em caso de dúvida, peça ajuda humana.
+
+Aqui você tenta gerar a cobrança Asaas de uma fatura que ainda não foi enviada.
 
 ## pré-requisitos
 
-- Ter acesso administrativo.
-- Identificar o cliente ou a fatura sem compartilhar dados pessoais com a IA.
+- Ter acesso administrativo ao portal.
+- A cobrança pelo Asaas deve estar disponível e a fatura deve mostrar `Cobrança ainda não enviada`.
 
 ## passos
 
-1. No menu da esquerda, na parte `Comercial`, clique em `Financeiro`. [guia=menu:/painel/financeiro]
-2. Para achar uma fatura, escreva o nome do cliente em `Buscar por cliente…`. [guia=financeiro.busca]
-3. Se a linha avisar `Cobrança ainda não enviada`, clique em `Enviar agora` para mandar a cobrança. Em caso de dúvida, peça ajuda a uma pessoa. [guia=financeiro.enviar-agora]
+1. No menu da esquerda, na parte `Comercial`, clique em `Financeiro`. [t=11] [guia=menu:/painel/financeiro]
+2. Clique em `A vencer` ou `Vencidas`, conforme o vencimento da fatura. [t=38] [guia=financeiro.aba]
+3. Escreva o nome em `Buscar por cliente…`. [t=48] [guia=financeiro.busca]
+4. Clique em `Enviar agora` na fatura desejada. [guia=financeiro.enviar-agora]
 
 ## resultado
-A cobrança é enviada.
+
+Se a operação funcionar, a linha passa a mostrar a cobrança enviada e a opção de copiar o link. Se falhar, aparece o erro.
 
 ## desvios
 
-conectar uma conta Asaas não prova que uma fatura foi paga nem que toda fatura está sendo cobrada automaticamente. Sem conexão, o Financeiro pode servir para acompanhar quem cobrar e registrar depois um recebimento feito por fora. O valor da cobrança é determinado pelo sistema, não por instrução da IA.
+`Enviar agora` não confirma pagamento. Para faturas com `Cobrança não enviada`, a tela pode pedir correção dos dados ou oferecer nova tentativa. Fatura já cobrada por Pix tem uma ação diferente, `Enviar pelo Asaas mesmo assim`, com confirmação própria; ela não é este procedimento.
 
 ## quando pedir ajuda
 
-peça ajuda humana quando houver divergência entre pagamento recebido e estado da fatura, dúvida sobre cobrança pelo Asaas, Pix, comissão, cancelamento ou valor. Não invente valor, prazo, desconto, estorno ou promessa ao cliente.
+Peça ajuda se a tela mostrar erro ou se o resultado não corresponder ao que você salvou. Não envie senhas, chaves ou comprovantes ao assistente.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/financeiro/page.tsx:3-13,45-58,61-76`
-- `portal-cidade/frontend/src/app/painel/financeiro/regras.ts:4-15`
-- `portal-cidade/docs/PRODUCT.md:196-205`
-- `portal-cidade/CLAUDE.md:41-42`
+- `portal-cidade/frontend/src/app/painel/financeiro/LinhaDaFatura.tsx:151`
+- `portal-cidade/frontend/src/app/painel/financeiro/LinhaDaFatura.tsx:184`
+- `portal-cidade/frontend/src/app/painel/financeiro/page.tsx:177`
 
 ## lacunas
 
-não descrevemos valores, reembolsos, cancelamento de cobrança, taxas, prazo de compensação ou procedimento de contestação. O artigo não autoriza a IA a consultar ou alterar faturas.
+Conferência documental com o código em b2f62d3f e as transcrições/legendas do catálogo. Sem validação no navegador, execução financeira ou teste de integração nesta auditoria. Tempos indicam trechos da legenda; passos sem tempo não foram localizados no vídeo.

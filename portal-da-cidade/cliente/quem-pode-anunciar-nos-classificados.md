@@ -9,8 +9,10 @@ categoria: classificados
 aba: Classificados
 tipo_problema: orientacao
 status: rascunho-documental
-revisado_em: 2026-10-22
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
+videos:
+  - zHOxx6KFIrk
 ---
 
 ## objetivo
@@ -28,9 +30,11 @@ explicar, sem complicação, quem pode colocar um anúncio de venda nos classifi
 
 ## passos
 
-1. Abra `/anuncie/classificados` e preencha o formulário de cadastro. [guia=fora]
-2. Digite o código de 6 números que chega no seu e-mail. [guia=fora]
-3. Entre em `/minha-conta/login` e, no menu, clique em `Classificados`. Siga "publicar um anúncio novo na área do cliente". [guia=menu:/minha-conta/classificados]
+1. Na página `Anuncie nos Classificados` (bloco `Anuncie agora`), preencha o nome, o WhatsApp, o e-mail e a senha (mínimo de 8 caracteres). [guia=conta.formulario]
+2. Clique em `Criar conta`. [guia=conta.criar]
+3. Digite o código de 6 números que chega no seu e-mail. [guia=conta.codigo]
+4. Clique em `Entrar na minha conta`. [guia=conta.entrar]
+5. No menu da esquerda, clique em `Classificados`. Depois siga "publicar um anúncio novo na área do cliente". [guia=menu:/minha-conta/classificados]
 
 ## resultado
 
@@ -40,15 +44,16 @@ você tem conta de anunciante e pode publicar.
 
 - anúncio recusado pode ser corrigido e enviado de novo; ao editar, ele volta para a análise.
 - anúncio vendido pode ser marcado como vendido, sem apagar.
+- o formulário pode oferecer os botões `Pessoa física` e `Empresa`; o campo do nome muda para `Seu nome` ou `Nome da empresa` e pode pedir documento.
 
 ## fontes
 
-- `portal-cidade/backend/anuncios/views_admin.py:224`
-- `portal-cidade/backend/anuncios/views_admin.py:319`
-- `portal-cidade/backend/anuncios/models.py:26`
-- `portal-cidade/frontend/src/app/anuncie/classificados/page.tsx:1`
+- `backend/anuncios/views_admin.py:224`
+- `backend/anuncios/views_admin.py:319`
+- `backend/anuncios/models.py:26`
+- `frontend/src/app/anuncie/classificados/page.tsx:84-92` — formulário `Anuncie agora`, botão `Criar conta`.
+- `frontend/src/components/lp/FormularioLP.tsx:409-580` — campos, código de 6 dígitos, `Entrar na minha conta`.
 
 ## lacunas
 
-não verificado visualmente. Que o formulário de `/anuncie/classificados` cria o cadastro de anunciante foi inferido de `FormularioLP` com módulo `classificados` e de `Anunciante.origem=autocadastro`; o passo a passo exato do formulário não foi transcrito.
-
+não verificado visualmente. Que o formulário de `Anuncie nos Classificados` cria o cadastro de anunciante foi inferido de `FormularioLP` com módulo `classificados` e de `Anunciante.origem=autocadastro`. Como o visitante chega à página (link do portal) não foi mapeado.

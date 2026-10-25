@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - okWcwnwq5Bk
@@ -23,7 +23,7 @@ aqui você mostra os profissionais da empresa, com foto, nome e especialidade.
 
 - Ter acesso administrativo ao portal.
 - O módulo Guia Comercial estar disponível no portal.
-- A empresa ter um plano pago: no plano grátis este recurso não aparece.
+- A empresa ter ficha completa. A cortesia do portal também libera o recurso; o plano Grátis não.
 
 ## passos
 
@@ -31,15 +31,15 @@ aqui você mostra os profissionais da empresa, com foto, nome e especialidade.
 2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar] [t=19]
 3. Desça até `Conteúdo da ficha` e, no cartão `Equipe`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-equipe] [t=22]
 4. Clique em `Adicionar membro`. [guia=guia-empresas-equipe.adicionar] [t=43]
-5. Se quiser, envie a foto (é opcional, mas ajuda muito). [guia=guia-empresas-equipe.foto] [t=46]
+5. Se quiser, em `Adicionar foto`, escolha a imagem do profissional. [guia=guia-empresas-equipe.foto] [t=46]
 6. Escreva o `Nome *`. [guia=guia-empresas-equipe.nome] [t=50]
 7. Escreva o `Cargo / Especialidade *`. [guia=guia-empresas-equipe.cargo] [t=53]
 8. Se o profissional tiver registro em conselho, preencha `Registro profissional (opcional)` (por exemplo, CRM). [guia=guia-empresas-equipe.registro] [t=60]
-9. Clique em `Salvar membro`. [guia=guia-empresas-equipe.salvar] [t=66]
+9. Clique em `Salvar membro`. [guia=guia-empresas-equipe.salvar] [t=67]
 
 ## resultado
 
-a página da empresa ganha o bloco `Nossa Equipe` com foto, nome e especialidade. A foto aparece redonda, e no celular a ficha ganha a aba equipe.
+O membro é salvo na lista da equipe. Este cadastro mostra um profissional na ficha; não cria um login para ele.
 
 ## desvios
 
@@ -53,10 +53,9 @@ peça ajuda se o cartão não aparecer ou se salvar der erro.
 
 ## fontes
 
-- `portal-cidade/frontend/src/components/painel/EmpresaEditor.tsx:933-946,1655-1686` — cartões de `Conteúdo da ficha`.
-- `portal-cidade/frontend/src/app/painel/guia/empresas/[id]/equipe/page.tsx:1`
-- vídeo `okWcwnwq5Bk`.
+- `portal-cidade/frontend/src/components/painel/EmpresaEditor.tsx:948,975-979,1735-1744`.
+- `portal-cidade/frontend/src/app/painel/guia/empresas/[id]/equipe/page.tsx:123-150,178-180,275-276`.
 
 ## lacunas
 
-não verificado visualmente nesta tarefa; passos conferidos com o vídeo de suporte e com o código da tela.
+Conferência documental no código b2f62d3f e nas legendas dos vídeos citados. Sem execução no navegador; não foram medidos cache, entrega de pedidos, impressão ou upload reais.

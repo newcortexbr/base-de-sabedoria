@@ -63,17 +63,17 @@ Arquivo: `portal-cidade/frontend/src/app/painel/page.tsx`
 ## o que você vê
 Tela inicial do painel: quantas pessoas visitaram o site, quanto conteúdo está no ar e o que espera por você.
 - Tráfego do portal: visitas ao site, contadas pelo próprio portal (não pelo Google).
-- 7 dias / 30 dias / Este mês / Personalizado: escolhe o período; em Personalizado, escolha as datas e clique em Aplicar.
-- Baixar relatório PDF: baixa os números do período.
+- `7 dias` / `30 dias` / `Este mês` / `Personalizado`: escolhe o período; em Personalizado, escolha "Data inicial" e "Data final" e clique em `Aplicar`.
+- `Baixar relatório PDF`: baixa os números do período.
 - Acessos (páginas vistas): quantas páginas foram abertas no período; a mesma pessoa abrindo 3 páginas conta 3.
 - Visitantes: pessoas diferentes por dia, somadas; a mesma pessoa em três dias conta três vezes.
 - Tempo médio na página: quanto tempo, em média, alguém fica numa página.
 - Páginas por visitante: acessos divididos por visitantes.
 - selo com seta e %: quanto subiu ou caiu em relação ao período anterior do mesmo tamanho; "igual" quando não mudou.
 - Acessos por dia: gráfico com acessos e visitantes de cada dia.
-- Acessos por seção: quanto cada parte do site (Notícias, Guia Comercial etc.) recebeu.
+- Acessos por seção (`Ver as N seções` mostra todas): quanto cada parte do site (Notícias, Guia Comercial etc.) recebeu.
 - Mais lidas no período: páginas mais abertas, com acessos e tempo médio.
 - "As visitas são contadas desde…": antes dessa data não há dados.
-- "+ Notícia", "+ Empresa" etc.: atalhos para cadastrar.
+- atalhos `Notícia`, `Empresa`, `Vaga`, `Anúncio`, `Evento` e `Ponto turístico` (cada um com +): abrem o cadastro; `Evento` abre a lista de eventos, onde se clica em `+ Novo Evento`.
 - Notícias publicadas, Empresas ativas, Anúncios, Eventos, Rascunhos: quantos existem hoje; clique para abrir a lista.
-- Precisa da sua atenção: pendências (empresas aguardando aprovação, fila de aprovação, faturas vencidas, denúncias novas, comissões para pagar por fora), com botão para resolver.
+- Precisa da sua atenção: pendências (empresas aguardando aprovação, fila de aprovação, faturas vencidas, denúncias novas, comissões para pagar por fora), cada uma com um botão: `Revisar` (empresas), `Abrir fila`, `Ver no Financeiro`, `Ler` (denúncias da Voz do Povo) e `Ver parceiros`.

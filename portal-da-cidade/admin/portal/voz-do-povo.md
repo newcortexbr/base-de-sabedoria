@@ -8,7 +8,7 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - 1a0wZmdXDLk
@@ -16,44 +16,34 @@ videos:
 
 ## objetivo
 
-aqui você acompanha e dá andamento aos relatos enviados pelos moradores.
+Consulte os relatos enviados pelos moradores à Voz do Povo.
 
 ## pré-requisitos
 
 - Ter acesso de administrador ao painel do portal.
 
-## veja também
-- para decidir o que fazer com cada relato (em análise, resolvida, arquivar), veja o artigo "tratar uma denúncia da Voz do Povo".
-- para abrir e ler um relato, veja o artigo "ler um relato completo da Voz do Povo".
-
 ## passos
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `A Voz do Povo` e depois em `Denúncias`. A lista já abre com os relatos em aberto. [guia=menu:/painel/utilidade/denuncias] [t=51]
-2. No topo da lista, use a caixa de seleção para ver só um tipo: `Em aberto`, `Recebida`, `Em análise`, `Resolvida`, `Arquivada` ou `Todos os status`. [guia=utilidade-denuncias.filtro] [t=68]
-3. Em cada relato, clique em `Em análise`, `Resolvida` ou `Arquivar` para mudar a situação dele. [guia=utilidade-denuncias:em_analise] [t=62]
-4. Se clicou errado, use `Desfazer`, que aparece logo em seguida. [guia=utilidade-denuncias.desfazer]
-
-5. Em `Telefones Úteis`, cadastre os números de emergência e serviços da cidade, com horário de atendimento, e escolha quais aparecem no site. [guia=menu:/painel/utilidade/telefones]
-6. Em `Linhas de Ônibus`, cadastre as linhas que o morador consulta na página `A Voz do Povo` do site. [guia=menu:/painel/utilidade/onibus]
+1. Na parte `Conteúdo` do menu, em `A Voz do Povo`, clique em `Denúncias`. [t=53] [guia=menu:/painel/utilidade/denuncias]
+2. No filtro do topo, escolha `Em aberto`, `Recebida`, `Em análise`, `Resolvida`, `Arquivada` ou `Todos os status`. [t=70] [guia=utilidade-denuncias.filtro]
+3. Na linha do relato, clique em `Ver detalhes`. [t=72] [guia=utilidade-denuncias.detalhes]
 
 ## resultado
 
-o relato muda de situação; o texto do morador não é editado.
+O relato completo abre com os dados e anexos disponíveis.
 
-## desvios
+## explicação
 
-- Esta tela é diferente de `Aprovações e Denúncias`, que trata de conteúdo de empresas, vagas e eventos.
-- A lista mostra só a primeira página de relatos.
-
-## quando pedir ajuda
-
-peça ajuda se a página não carregar, se o salvamento der erro ou se a opção esperada não aparecer.
+- Esta caixa de entrada é diferente das denúncias de conteúdo em `Aprovações e Denúncias`.
+- A mesma seção do menu reúne `Telefones Úteis` e `Linhas de Ônibus`; consulte os artigos de cadastro de cada tela.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/utilidade/denuncias/`
-- `suporte-kb/mapa/admin/telas/painel-utilidade-denuncias.md`, `painel-utilidade-denuncias-id.md`
+- `frontend/src/app/painel/utilidade/denuncias/page.tsx:133`
+- `frontend/src/app/painel/utilidade/denuncias/page.tsx:209`
+
+- Catálogo: `portal-da-cidade/videos.json`; legendas: `videos/legendas/1a0wZmdXDLk.srt`.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os textos dos botões podem mudar.
+- Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.

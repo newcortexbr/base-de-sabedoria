@@ -8,48 +8,54 @@ categoria: notícias
 aba: Notícias
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-22
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
+videos:
+  - gAa2NdnitZU
 ---
 
 ## objetivo
 
-aqui você apaga de vez uma notícia, ou várias de uma vez.
+Aqui você exclui uma notícia ou um grupo selecionado na página atual. A confirmação informa que a ação não pode ser desfeita.
 
 ## pré-requisitos
 
-- Ter acesso de administrador ao painel do portal.
+- Entrar no painel como administrador.
 
 ## passos
 
-**uma notícia**
+### uma notícia
 
-1. No menu da esquerda, na parte `Conteúdo`, clique em `Notícias` e depois em `Listar Notícias`. [guia=menu:/painel/noticias]
-2. Ache a notícia pelo campo de busca. [guia=noticias.buscar]
-3. Na linha da notícia, clique na lixeira. [guia=noticias.excluir]
-4. Em `Excluir notícia?`, clique em `Excluir`. [guia=noticias.excluir]
+1. Na seção `Conteúdo` do menu lateral, em `Notícias`, clique em `Listar Notícias`. [t=23] [guia=menu:/painel/noticias]
+2. Digite o título em `Buscar por título...`. [t=25] [guia=noticias.buscar]
+3. Na linha da notícia, clique na lixeira `Excluir`. [guia=noticias.excluir]
+4. Na janela `Excluir notícia?`, clique em `Excluir`. [guia=confirmacao.confirmar]
 
-**várias notícias**
+### várias notícias
 
-1. Na lista, marque as caixinhas das notícias. Aparece uma barra no topo com a quantidade marcada. [guia=noticias.status-linha]
-2. Clique em `Excluir` na barra e confira o número em `Excluir N notícias?`. Só vale para as marcadas **nesta página**. [guia=noticias.excluir-selecionadas]
-3. Confirme em `Excluir N`. [guia=noticias.excluir-selecionadas]
+1. Na seção `Conteúdo` do menu lateral, em `Notícias`, clique em `Listar Notícias`. [t=23] [guia=menu:/painel/noticias]
+2. Marque a caixa ao lado de cada notícia que deseja excluir nesta página. [guia=noticias.selecionar]
+3. Clique em `Excluir N selecionadas`, na barra da seleção; N é a quantidade marcada. [guia=noticias.excluir-selecionadas]
+4. Após conferir os títulos na confirmação `Excluir N notícias?`, clique em `Excluir N`. [guia=confirmacao.confirmar]
 
 ## resultado
 
-a notícia sai da lista e do site.
+As notícias excluídas saem da lista. A seleção em lote é limitada à página atual; mudar de página ou filtros limpa a seleção.
 
 ## desvios
 
-- excluir **não tem volta**. Se só quer tirar do ar, mude a situação da notícia para rascunho ou arquivada (veja "editar uma notícia").
-- notícia trazida por RSS que você exclui pode voltar se a fonte ainda estiver ligada e a trouxer de novo; desligue a fonte se não quiser (veja "ligar ou desligar uma fonte de RSS").
+- Com uma selecionada, o botão diz `Excluir 1 selecionada` e a confirmação diz `Excluir 1 notícia?`.
+- Para apenas esconder, veja “tirar uma notícia do ar”, sem excluir.
+- Se parte do lote falhar, leia o resultado da exclusão antes de tentar novamente.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/noticias/page.tsx:595`
-- `portal-cidade/frontend/src/app/painel/noticias/page.tsx:621`
-- `portal-cidade/frontend/src/app/painel/noticias/page.tsx:636`
+- `frontend/src/app/painel/noticias/page.tsx:489` — botão com quantidade.
+- `frontend/src/app/painel/noticias/page.tsx:550` — seleção por notícia.
+- `frontend/src/app/painel/noticias/page.tsx:622` — confirmação individual.
+- `frontend/src/app/painel/noticias/page.tsx:636` — confirmação em lote.
+- Vídeo `gAa2NdnitZU`, legenda em 23s–28s: lista e busca; não detalha exclusão.
 
 ## lacunas
 
-não verificado visualmente. A volta de notícia excluída pelo RSS é inferência do desenho do RSS (identificador externo), não foi testada.
+Não executadas exclusões. Não foi confirmada a reimportação por RSS de notícia excluída; não se promete que excluir bloqueie importações futuras.

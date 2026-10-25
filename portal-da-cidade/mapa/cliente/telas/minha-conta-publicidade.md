@@ -14,7 +14,7 @@ Arquivo: `src/app/minha-conta/publicidade/page.tsx`
 - lista os banners comprados, com estado, vigência e contadores (No ar, Em análise, Aguardando pagamento).
 
 ## ações e campos
-- Novo banner, Editar ou "Continuar pagamento", "Parar renovação" (com `confirm()`), "Corrigir e reenviar" (reprovado).
+- botão `Novo banner` (topo); em cada banner: link `Editar` ou `Continuar pagamento`, botão `Parar renovação`. Detalhe: Novo banner, Editar ou "Continuar pagamento", "Parar renovação" (com `confirm()`), "Corrigir e reenviar" (reprovado).
 - filtro: Todos, No ar, Vencidos, Em análise, A pagar, Reprovados.
 - notas: pendente, aguardando pagamento, renovação cancelada.
 
@@ -51,7 +51,8 @@ Arquivo: `src/app/minha-conta/publicidade/page.tsx`
 
 ## o que você vê
 Lista dos banners que você comprou. Cada banner é uma compra separada (lugar no site + período).
-- No ar / Em análise / Aguardando pagamento: contagem dos seus banners.
+- No ar / Em análise / Aguardando pagamento: contagem dos seus banners. Título da tela e do menu: "Banners Publicitários"; lista "Meus banners".
+- Depois de pago, todo banner entra em análise do dono do portal antes de ir ao ar.
 - Filtros: Todos, No ar, Vencidos, Em análise, A pagar, Reprovados.
 - Novo banner: compra um banner.
 - Editar ou Continuar pagamento (quando ainda não pago).

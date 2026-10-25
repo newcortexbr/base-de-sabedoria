@@ -14,7 +14,7 @@ Arquivo: `src/app/minha-conta/noticias/nova/page.tsx`
 
 ## ações e campos
 - Título (obrigatório), Subtítulo, Título curto, imagem de capa com Legenda e Créditos, Chamada (até 500), Conteúdo (editor, obrigatório), Tags, Fonte, Categoria e Subcategoria (com opção de criar na hora, se a API do jornalista permitir), Status (Rascunho, Publicado, Arquivado), "Agendar notícia" (+ data "Publicar em"), campos de SEO (título e descrição) e "Endereço da página" (`NoticiaFormBase.tsx:415-713`).
-- botão "Adicionar"; ao salvar volta para `/minha-conta/noticias`.
+- botões `Adicionar` e `Cancelar` no formulário; ao salvar volta para `/minha-conta/noticias`.
 - autosave de rascunho no navegador, com aviso "Rascunho guardado neste navegador" e opção de restaurar (`:309-345,398-401`).
 - botão "Voltar" no cabeçalho.
 
@@ -73,4 +73,4 @@ Formulário para escrever uma notícia nova.
 - Agendar notícia: escolha "Publicar em" para entrar no ar depois.
 - SEO e Endereço da página: como a notícia aparece no Google e o final do link dela.
 - Rascunho guardado neste navegador: o texto é salvo sozinho no seu aparelho e pode ser recuperado.
-- Adicionar: salva e volta para a lista.
+- Adicionar: salva e volta para a lista. Cancelar: volta sem salvar.

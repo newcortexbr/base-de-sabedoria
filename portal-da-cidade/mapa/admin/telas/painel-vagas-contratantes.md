@@ -10,10 +10,12 @@
 
 ## o que você vê
 Lista das empresas que oferecem vagas (contratantes).
-- Buscar por nome ou e-mail e filtro Verificado / Não verificado.
+- para abrir: na parte Conteúdo do menu, em `Vagas de Emprego`, clique em `Contratantes`.
+- `+ Criar Contratante` abre o cadastro.
+- campo "Nome ou e-mail" ("Buscar por nome ou e-mail…") e filtro de Verificado / Não verificado.
 - Verificado: selo de empresa conferida por você, mostrado no site.
 - Proprietário: quem tem acesso para gerenciar as vagas dessa empresa; "Sem acesso" quando ninguém tem login.
-- Editar abre a empresa; ao apagar, as vagas ligadas a ela ficam sem contratante.
+- `Editar` abre a empresa; `Excluir` pede confirmação e as vagas ligadas a ela ficam sem contratante.
 
 ## posições na tela (print de 2026-10-16, 1280x900)
 - print: [painel-vagas-contratantes.png](../prints/painel-vagas-contratantes.png) · dados brutos: [json](../prints/json/painel-vagas-contratantes.json)

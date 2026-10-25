@@ -13,7 +13,8 @@ Arquivos: `src/app/minha-conta/vagas/nova/page.tsx`, `vagas/VagaForm.tsx`, `_com
 - cria uma vaga de emprego.
 
 ## ações e campos
-- título*, área (opcional), tipo de contrato (CLT, PJ/Autônomo, Estágio, Trainee, Temporário, Freelancer), carga horária, modelo de trabalho (home office, híbrido), cidade* e bairro, descrição*, requisitos, benefícios (um por linha), salário (ou "a combinar"), PCD, primeiro emprego, urgente, WhatsApp, e-mail para currículo, link externo de candidatura (`VagaForm.tsx:297-458`).
+- campos (`VagaForm.tsx:297-462`): `Título da vaga *`, `Área (opcional)`, `Tipo de contrato` (CLT, PJ / Autônomo, Estágio, Trainee, Temporário, Freelancer), `Carga horária (opcional)`, `Modelo de trabalho` (Presencial, Home office, Híbrido), cidade * e bairro (seletor com busca), caixas `Vaga PCD`, `1º Emprego` e `Urgente`, `Descrição da vaga *`, `Requisitos (opcional)`, `Benefícios (um por linha, opcional)`, caixa `Salário a combinar` ou `Salário (R$)`, `WhatsApp para contato (opcional)`, `E-mail para currículo (opcional)`, `Link externo de candidatura (opcional)`.
+- botões: `Publicar vaga` e `Cancelar`.
 - validação no navegador: título, descrição, cidade obrigatórios; telefone válido (`VagaForm.tsx:199-207`).
 - ao salvar abre modal; texto muda se a vaga foi para aprovação (`:249-258`).
 
@@ -67,7 +68,8 @@ Formulário para publicar uma vaga de emprego.
 - Tipo de contrato: CLT, PJ/Autônomo, Estágio, Trainee, Temporário, Freelancer.
 - Carga horária, modelo de trabalho (presencial, home office, híbrido), bairro.
 - Requisitos e benefícios (um por linha).
-- Salário: valor ou "a combinar".
-- PCD (vaga para pessoa com deficiência), Primeiro emprego, Urgente: marcações que destacam a vaga.
+- Salário (R$): valor, ou marque "Salário a combinar".
+- Vaga PCD (para pessoa com deficiência), 1º Emprego e Urgente: marcações que destacam a vaga.
+- Publicar vaga: envia. Cancelar: volta sem salvar.
 - WhatsApp, e-mail para currículo ou link externo: como o candidato se inscreve.
 - Ao salvar, a tela diz se a vaga entrou no ar ou foi para aprovação.

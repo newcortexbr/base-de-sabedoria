@@ -2,16 +2,17 @@
 
 Arquivo: `app/painel/delivery/cardapio/page.tsx`
 
+## como chegar
+- não há item no menu. Na parte Conteúdo do menu, abra `Guia Comercial`, clique em `Listar Empresas` e depois em `Editar` na empresa. Na ficha dela, clique no cartão `Cardápio do delivery` (só aparece em empresa de categoria com delivery; a ficha é salva antes de abrir).
+
 ## o que você vê
-Monta o cardápio do delivery de uma empresa: seções, produtos e opções.
-- Seções: grupos do cardápio (ex.: lanches, bebidas). aqui só dá para criar seção nova.
-- produtos: nome, descrição, preço base, foto, Disponível (pode ser pedido) e Destaque (aparece em evidência). Indisponível indica que não pode ser pedido agora.
-- preço base 0: o preço vem das opções escolhidas.
-- Grupos de opções: escolhas do produto, como tamanho ou cobertura; aparecem depois de salvar o produto.
-- Mín. seleções: quantas o cliente precisa marcar (0 = opcional). Máx. seleções: até quantas pode marcar (0 = sem limite).
-- cada opção tem nome e preço adicional; Excluir grupo e excluir opção removem.
-- Editar e Excluir no produto; excluir não pode ser desfeito.
-- a tela é aberta pelo cartão do cardápio na edição da empresa.
+Tela `Cardápio de Delivery`. Monta o cardápio do delivery de uma empresa: seções, produtos e opções.
+- coluna `Seções`: grupos do cardápio (ex.: lanches, bebidas). O botão `+` abre o campo `Nome da seção` e `Criar`; aqui só dá para criar seção nova.
+- botão `+ Novo produto` (aparece com uma seção escolhida) abre a janela `Novo produto` (`Editar produto` ao editar): `Nome *`, `Descrição`, `Preço base (R$)`, caixas `Disponível` e `Destaque`, `Foto`; botões `Criar produto` (ou `Salvar alterações`) e `Cancelar`. Produto `Indisponível` não pode ser pedido; `Destaque` aparece em evidência.
+- preço base 0: o preço vem das opções escolhidas (mostra `Preço por opção`).
+- bloco `Grupos de opções` (`+ Novo grupo`): escolhas do produto, como tamanho ou cobertura; só aparece depois de criar o produto. Campos `Nome do grupo`, `Mín. seleções (0 = opcional)` e `Máx. seleções (1 = radio, 0 = ∞)`; botão `Criar grupo`.
+- dentro do grupo, `+ Adicionar opção` pede `Nome da opção` e `Preço (0 = incluso)`; `Excluir grupo` remove o grupo e seus itens.
+- `Editar` e `Excluir` no produto; excluir pede confirmação e não pode ser desfeito.
 
 ## rota e gate
 - `/painel/delivery/cardapio?empresa=<id>`. client, `Header`, `VoltarParaAEmpresa`. gate `PainelGuard`; módulo `guia` (`lib/painel-menu.ts:95`). sem menu: entra pelo cartão "Cardápio do delivery" do editor da empresa (`EmpresaEditor.tsx:942`).
@@ -22,7 +23,7 @@ Monta o cardápio do delivery de uma empresa: seções, produtos e opções.
 
 ## ações e campos
 - criar seção (só nome, `:307-313`); não há renomear, ordenar nem excluir seção na tela (a API tem `secoes.atualizar` e `excluir`, `admin-api.ts:2058-2059`, sem uso aqui).
-- produto (modal): nome*, descrição, preço base (R$, 0 = preço por opção), disponível, destaque, foto. editar e excluir (com `confirm`).
+- produto (modal): nome*, descrição, preço base (R$, 0 = preço por opção), disponível, destaque, foto. editar e excluir (com confirmação `avisos.confirmar`).
 - grupos de opções (só em produto já criado): nome, mín. e máx. seleções (0 = sem limite); itens com nome e preço adicional; excluir grupo e item.
 
 ## apis

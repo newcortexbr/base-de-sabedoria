@@ -8,42 +8,45 @@ categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
 status: rascunho-documental
-revisado_em: 2026-10-19
+revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - -FASO6flcCw
 ---
 
 ## objetivo
-aqui você troca a senha de um cliente que perdeu o acesso.
+
+aqui você escolhe uma senha nova para um cliente que já tem login próprio.
 
 ## pré-requisitos
 
 - Ter acesso de administrador ao painel do portal.
+- O cadastro precisa estar vinculado a um usuário de acesso.
 
 ## passos
 
-1. No menu da esquerda, na parte `Comercial`, clique em `Meus Clientes`. [guia=menu:/painel/clientes]
-2. Para achar alguém, escreva em `Buscar por nome, documento ou telefone…`. [guia=clientes.busca]
-3. Para trocar a senha do cliente, clique em `Resetar senha` na linha dele. [guia=clientes.resetar-senha]
+1. Na parte `Comercial` do menu da esquerda, clique em `Meus Clientes`. [t=10] [guia=menu:/painel/clientes]
+2. Escreva o nome, o documento ou o telefone em `Buscar por nome, documento ou telefone…`. [t=44] [guia=clientes.busca]
+3. Pressione Enter no campo de busca para carregar os resultados. [guia=clientes.busca]
+4. Na coluna `Ações`, clique na chave com a descrição `Resetar senha`. [t=61] [guia=clientes.resetar-senha]
+5. Na janela `Resetar senha —` seguida do nome do cliente, preencha `Nova senha` com pelo menos 6 caracteres. [guia=clientes.nova-senha]
+6. Clique em `Redefinir`. [guia=clientes.redefinir-senha]
 
 ## resultado
-A senha do cliente é trocada.
+
+aparece `Senha redefinida` e a janela fecha. O servidor solicita um e-mail de aviso sem a senha. Combine com o cliente um canal para passar a senha escolhida.
 
 ## desvios
 
-- Excluir e bloquear pedem confirmação; confira antes.
-- O arquivo exportado tem dados de contato: guarde com cuidado.
-
-## quando pedir ajuda
-
-peça ajuda se a página não carregar, se o salvamento der erro ou se a opção esperada não aparecer.
+- Sem usuário vinculado: `Este cliente ainda não tem login próprio (autocadastro) para redefinir a senha.`
+- Menos de 6 caracteres: `A senha deve ter pelo menos 6 caracteres.`
+- A política de senha do servidor também é aplicada. Se houver recusa, o motivo aparece na janela.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/clientes/page.tsx`
-- `suporte-kb/mapa/admin/telas/painel-clientes.md`
+- `portal-cidade/frontend/src/app/painel/clientes/page.tsx:247` — janela e envio.
+- `portal-cidade/backend/comercial/views_admin.py:388` — vínculo de usuário, política e aviso por e-mail.
 
 ## lacunas
 
-não foi feita validação visual no navegador. Os textos dos botões podem mudar.
+Sem validação no navegador ou de entrega do e-mail. Não se verificou quando uma sessão já aberta perde o acesso.
