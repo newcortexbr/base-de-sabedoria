@@ -1,0 +1,1585 @@
+{
+ "rota": "/painel/meus-links",
+ "url": "/painel/meus-links",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    58,
+    16,
+    163,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    18,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    63,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Meus Links",
+   "regiao": "topo",
+   "caixa": [
+    330,
+    64,
+    896,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Links",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    97,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias 3",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    131,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar endereço do portal",
+   "regiao": "conteúdo",
+   "caixa": [
+    507,
+    183,
+    254,
+    46
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    197,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    231,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    265,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Todos 30",
+   "regiao": "conteúdo",
+   "caixa": [
+    560,
+    286,
+    88,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Site público 16",
+   "regiao": "conteúdo",
+   "caixa": [
+    656,
+    286,
+    125,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Páginas de venda 8",
+   "regiao": "conteúdo",
+   "caixa": [
+    789,
+    286,
+    156,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Acesso dos clientes 3",
+   "regiao": "conteúdo",
+   "caixa": [
+    954,
+    286,
+    172,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Institucional 3",
+   "regiao": "conteúdo",
+   "caixa": [
+    1134,
+    286,
+    122,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Radar de Preços",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    299,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    333,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Site público · 16",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    356,
+    956,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    367,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    401,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    435,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    464,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    435,
+    464,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Página inicial",
+   "regiao": "conteúdo",
+   "caixa": [
+    552,
+    464,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    640,
+    464,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    758,
+    464,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Notícias",
+   "regiao": "conteúdo",
+   "caixa": [
+    876,
+    464,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    964,
+    464,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1081,
+    464,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Guia Comercial",
+   "regiao": "conteúdo",
+   "caixa": [
+    1199,
+    464,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    469,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    503,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sorteios",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    537,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Doações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    571,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    605,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    605,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    435,
+    605,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Vagas de Emprego",
+   "regiao": "conteúdo",
+   "caixa": [
+    552,
+    605,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    640,
+    605,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    758,
+    605,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Classificados",
+   "regiao": "conteúdo",
+   "caixa": [
+    876,
+    605,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    964,
+    605,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1081,
+    605,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Guia Turístico",
+   "regiao": "conteúdo",
+   "caixa": [
+    1199,
+    605,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    639,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    705,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    739,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    747,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    435,
+    747,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Eventos",
+   "regiao": "conteúdo",
+   "caixa": [
+    552,
+    747,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    640,
+    747,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    758,
+    747,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Artigos",
+   "regiao": "conteúdo",
+   "caixa": [
+    876,
+    747,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    964,
+    747,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1081,
+    747,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Orçamento Online",
+   "regiao": "conteúdo",
+   "caixa": [
+    1199,
+    747,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    773,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de Funções Diga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    799,
+    255,
+    50
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    807,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    858,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    873,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    888,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    435,
+    888,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de A Voz do Povo",
+   "regiao": "conteúdo",
+   "caixa": [
+    552,
+    888,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    640,
+    888,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    758,
+    888,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Cupons de Desconto",
+   "regiao": "conteúdo",
+   "caixa": [
+    876,
+    888,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    964,
+    888,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1081,
+    888,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Sorteios",
+   "regiao": "conteúdo",
+   "caixa": [
+    1199,
+    888,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    907,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    941,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    1030,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    435,
+    1030,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Doações",
+   "regiao": "conteúdo",
+   "caixa": [
+    552,
+    1030,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    640,
+    1030,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    758,
+    1030,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Melhores da Cidade",
+   "regiao": "conteúdo",
+   "caixa": [
+    876,
+    1030,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    964,
+    1030,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1081,
+    1030,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Radar de Preços",
+   "regiao": "conteúdo",
+   "caixa": [
+    1199,
+    1030,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    1171,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    435,
+    1171,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Fale Conosco",
+   "regiao": "conteúdo",
+   "caixa": [
+    552,
+    1171,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Páginas de venda · 8",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    1252,
+    956,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    1359,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    435,
+    1359,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Anuncie (todas as opções)",
+   "regiao": "conteúdo",
+   "caixa": [
+    552,
+    1359,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    640,
+    1359,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    758,
+    1359,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Anuncie Vagas de Emprego",
+   "regiao": "conteúdo",
+   "caixa": [
+    876,
+    1359,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    964,
+    1359,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1081,
+    1359,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Anuncie nos Classificados",
+   "regiao": "conteúdo",
+   "caixa": [
+    1199,
+    1359,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    1501,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    435,
+    1501,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Anuncie Eventos",
+   "regiao": "conteúdo",
+   "caixa": [
+    552,
+    1501,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    640,
+    1501,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    758,
+    1501,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Seja Colunista",
+   "regiao": "conteúdo",
+   "caixa": [
+    876,
+    1501,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    964,
+    1501,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1081,
+    1501,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Publique Notícias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1199,
+    1501,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    1642,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    435,
+    1642,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Publicidade (banners)",
+   "regiao": "conteúdo",
+   "caixa": [
+    552,
+    1642,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    640,
+    1642,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    758,
+    1642,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Seja Parceiro",
+   "regiao": "conteúdo",
+   "caixa": [
+    876,
+    1642,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Acesso dos clientes · 3",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    1723,
+    956,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    1830,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    435,
+    1830,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Login da Área do Cliente",
+   "regiao": "conteúdo",
+   "caixa": [
+    552,
+    1830,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    640,
+    1830,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    758,
+    1830,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Criar conta",
+   "regiao": "conteúdo",
+   "caixa": [
+    876,
+    1830,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    964,
+    1830,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1081,
+    1830,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Login do Parceiro",
+   "regiao": "conteúdo",
+   "caixa": [
+    1199,
+    1830,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Institucional · 3",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    1911,
+    956,
+    23
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    317,
+    2018,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    435,
+    2018,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Política de Privacidade",
+   "regiao": "conteúdo",
+   "caixa": [
+    552,
+    2018,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    640,
+    2018,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    758,
+    2018,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Termos de Uso",
+   "regiao": "conteúdo",
+   "caixa": [
+    876,
+    2018,
+    40,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Copiar",
+   "regiao": "conteúdo",
+   "caixa": [
+    964,
+    2018,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Abrir",
+   "regiao": "conteúdo",
+   "caixa": [
+    1081,
+    2018,
+    112,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "QR Code de Política de Cookies",
+   "regiao": "conteúdo",
+   "caixa": [
+    1199,
+    2018,
+    40,
+    38
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  2109
+ ],
+ "titulo": "grandevix (local)"
+}

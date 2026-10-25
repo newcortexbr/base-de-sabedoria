@@ -1,0 +1,771 @@
+{
+ "rota": "/painel/doacoes/nova",
+ "url": "/painel/doacoes/nova",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    58,
+    16,
+    163,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver portal",
+   "regiao": "topo",
+   "caixa": [
+    1147,
+    16,
+    109,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    18,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Nova instituição",
+   "regiao": "topo",
+   "caixa": [
+    300,
+    19,
+    139,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    63,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Links",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    97,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "← Voltar",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    99,
+    54,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Nova instituição",
+   "regiao": "conteúdo",
+   "caixa": [
+    366,
+    105,
+    185,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias 4",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    131,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Identificação",
+   "regiao": "conteúdo",
+   "caixa": [
+    321,
+    188,
+    554,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Botões e contato",
+   "regiao": "conteúdo",
+   "caixa": [
+    937,
+    188,
+    298,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    197,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    231,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    265,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Nome da instituição *",
+   "regiao": "conteúdo",
+   "caixa": [
+    321,
+    270,
+    554,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Link \"Conheça a instituição\"",
+   "regiao": "conteúdo",
+   "caixa": [
+    937,
+    270,
+    298,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Radar de Preços",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    299,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    333,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Causa * (escolha na lista ou digite para filtrar)",
+   "regiao": "conteúdo",
+   "caixa": [
+    321,
+    352,
+    554,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "WhatsApp",
+   "regiao": "conteúdo",
+   "caixa": [
+    937,
+    352,
+    298,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    367,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    401,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Resumo do card (aparece na listagem e ao lado do nome)",
+   "regiao": "conteúdo",
+   "caixa": [
+    321,
+    434,
+    554,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Instagram",
+   "regiao": "conteúdo",
+   "caixa": [
+    937,
+    434,
+    298,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    435,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    469,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    503,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "Facebook",
+   "regiao": "conteúdo",
+   "caixa": [
+    937,
+    516,
+    298,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sorteios",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    537,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Capa da página",
+   "regiao": "conteúdo",
+   "caixa": [
+    321,
+    558,
+    554,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Doações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    571,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "campo",
+   "texto": "E-mail",
+   "regiao": "conteúdo",
+   "caixa": [
+    937,
+    598,
+    298,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Instituições",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    605,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Foto",
+   "regiao": "conteúdo",
+   "caixa": [
+    321,
+    632,
+    80,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vídeo do YouTube",
+   "regiao": "conteúdo",
+   "caixa": [
+    409,
+    632,
+    171,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Causas",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    637,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    673,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    707,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    773,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de Funções Diga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    799,
+    255,
+    50
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    807,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Abrir Suporte do portal",
+   "regiao": "conteúdo",
+   "caixa": [
+    1196,
+    816,
+    64,
+    64
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    841,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    858,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    875,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    941,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    975,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    1009,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Texto",
+   "regiao": "conteúdo",
+   "caixa": [
+    321,
+    1242,
+    554,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Frase de destaque (opcional — faixa rosa, letra grande)",
+   "regiao": "conteúdo",
+   "caixa": [
+    321,
+    1306,
+    554,
+    62
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo de texto longo",
+   "texto": "Descrição completa *",
+   "regiao": "conteúdo",
+   "caixa": [
+    321,
+    1435,
+    554,
+    142
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Endereço",
+   "regiao": "conteúdo",
+   "caixa": [
+    321,
+    1646,
+    554,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "00000-000",
+   "regiao": "conteúdo",
+   "caixa": [
+    321,
+    1728,
+    269,
+    38
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Cidade",
+   "regiao": "conteúdo",
+   "caixa": [
+    321,
+    1826,
+    269,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Bairro",
+   "regiao": "conteúdo",
+   "caixa": [
+    606,
+    1826,
+    269,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "campo",
+   "texto": "Endereço",
+   "regiao": "conteúdo",
+   "caixa": [
+    321,
+    1928,
+    554,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "título",
+   "texto": "Galeria",
+   "regiao": "conteúdo",
+   "caixa": [
+    321,
+    2052,
+    554,
+    24
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Foto",
+   "regiao": "conteúdo",
+   "caixa": [
+    321,
+    2126,
+    80,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vídeo do YouTube",
+   "regiao": "conteúdo",
+   "caixa": [
+    409,
+    2126,
+    171,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Cancelar",
+   "regiao": "conteúdo",
+   "caixa": [
+    998,
+    2455,
+    90,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Salvar instituição",
+   "regiao": "conteúdo",
+   "caixa": [
+    1100,
+    2455,
+    156,
+    44
+   ],
+   "linha": 0
+  }
+ ],
+ "full": [
+  1280,
+  2547
+ ],
+ "titulo": "grandevix (local)"
+}
