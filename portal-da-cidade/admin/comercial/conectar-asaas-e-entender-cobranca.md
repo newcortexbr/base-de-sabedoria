@@ -6,7 +6,11 @@ publico:
 modulo: financeiro
 categoria: admin
 aba: nao-se-aplica
-tipo_problema: pagamento
+tipo_problema:
+  - pagamento
+  - como recebo o dinheiro das empresas
+  - receber pagamento dos planos vendidos
+  - onde cai o dinheiro dos clientes
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo
