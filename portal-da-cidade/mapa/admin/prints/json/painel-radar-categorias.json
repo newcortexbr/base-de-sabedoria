@@ -1,0 +1,582 @@
+{
+ "rota": "/painel/radar/categorias",
+ "url": "/painel/radar/categorias",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    58,
+    16,
+    163,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver portal",
+   "regiao": "topo",
+   "caixa": [
+    1147,
+    16,
+    109,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    18,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Radar de Preços — Categorias",
+   "regiao": "topo",
+   "caixa": [
+    300,
+    19,
+    263,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    63,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Links",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    97,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Categorias",
+   "regiao": "conteúdo",
+   "caixa": [
+    354,
+    99,
+    848,
+    32
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias 4",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    131,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    197,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "coluna",
+   "texto": "CATEGORIA",
+   "regiao": "conteúdo",
+   "caixa": [
+    355,
+    200,
+    352,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "ORDEM",
+   "regiao": "conteúdo",
+   "caixa": [
+    707,
+    200,
+    108,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "PRODUTOS",
+   "regiao": "conteúdo",
+   "caixa": [
+    815,
+    200,
+    144,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "SITUAÇÃO",
+   "regiao": "conteúdo",
+   "caixa": [
+    958,
+    200,
+    136,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "coluna",
+   "texto": "AÇÕES",
+   "regiao": "conteúdo",
+   "caixa": [
+    1094,
+    200,
+    107,
+    41
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    231,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Supermercados",
+   "regiao": "conteúdo",
+   "caixa": [
+    1145,
+    253,
+    44,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    265,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Radar de Preços",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    299,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Farmácias",
+   "regiao": "conteúdo",
+   "caixa": [
+    1145,
+    322,
+    44,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Fotos enviadas",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    333,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Preços retidos",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    365,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Editar Postos de combustível",
+   "regiao": "conteúdo",
+   "caixa": [
+    1145,
+    391,
+    44,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Produtos e preços",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    397,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Estabelecimentos",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    429,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Categorias",
+   "regiao": "menu lateral",
+   "caixa": [
+    41,
+    461,
+    224,
+    32
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    497,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    531,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    565,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    599,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    633,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    667,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sorteios",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    701,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Doações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    735,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    769,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de Funções Diga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    799,
+    255,
+    50
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    803,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Abrir Suporte do portal",
+   "regiao": "conteúdo",
+   "caixa": [
+    1196,
+    816,
+    64,
+    64
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    858,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    869,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    903,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    937,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    971,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    1037,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    1071,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    1105,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  }
+ ],
+ "full": [
+  1280,
+  900
+ ],
+ "titulo": "grandevix (local)"
+}

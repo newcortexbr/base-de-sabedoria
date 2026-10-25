@@ -1,0 +1,457 @@
+{
+ "rota": "/painel/melhores-da-cidade",
+ "url": "/painel/melhores-da-cidade",
+ "itens": [
+  {
+   "tipo": "título",
+   "texto": "grandevix (local)",
+   "regiao": "menu lateral",
+   "caixa": [
+    58,
+    16,
+    163,
+    19
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Ver portal",
+   "regiao": "topo",
+   "caixa": [
+    1147,
+    16,
+    109,
+    34
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Recolher menu",
+   "regiao": "menu lateral",
+   "caixa": [
+    231,
+    18,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Melhores da Cidade",
+   "regiao": "topo",
+   "caixa": [
+    300,
+    19,
+    170,
+    28
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Painel",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    63,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Melhores da Cidade",
+   "regiao": "conteúdo",
+   "caixa": [
+    300,
+    95,
+    455,
+    42
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Links",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    97,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Criar votação",
+   "regiao": "conteúdo",
+   "caixa": [
+    1107,
+    121,
+    149,
+    44
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Aprovações e Denúncias 4",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    131,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    197,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Notícias Automáticas",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    231,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Comercial",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    265,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Radar de Preços",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    299,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "título",
+   "texto": "Nenhuma votação acontecendo",
+   "regiao": "conteúdo",
+   "caixa": [
+    322,
+    323,
+    912,
+    21
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Vagas de Emprego",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    333,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Classificados",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    367,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Criar votação",
+   "regiao": "conteúdo",
+   "caixa": [
+    694,
+    391,
+    168,
+    53
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Guia Turístico / Eventos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    401,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Artigos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    435,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Orçamentos Online",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    469,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "A Voz do Povo",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    503,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sorteios",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    537,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Doações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    571,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Melhores da Cidade",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    605,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Banners Publicitários",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    639,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Clientes",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    705,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Financeiro",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    739,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Meus Planos",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    773,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Sugestões de Funções Diga o que falta no portal",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    799,
+    255,
+    50
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "link",
+   "texto": "Parceiros",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    807,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Abrir Suporte do portal",
+   "regiao": "conteúdo",
+   "caixa": [
+    1196,
+    816,
+    64,
+    64
+   ],
+   "linha": 0
+  },
+  {
+   "tipo": "botão",
+   "texto": "Sair",
+   "regiao": "menu lateral",
+   "caixa": [
+    229,
+    858,
+    30,
+    30
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Notificações Push",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    873,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "link",
+   "texto": "Assistente de IA",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    907,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  },
+  {
+   "tipo": "botão",
+   "texto": "Configurações",
+   "regiao": "menu lateral",
+   "caixa": [
+    10,
+    941,
+    255,
+    34
+   ],
+   "linha": 0,
+   "agrupado": true
+  }
+ ],
+ "full": [
+  1280,
+  900
+ ],
+ "titulo": "grandevix (local)"
+}
