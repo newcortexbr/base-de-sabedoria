@@ -27,7 +27,7 @@ Aqui você muda entre notícia publicada e rascunho pela chave da lista, sem exc
 ### tirar do ar
 
 1. Na seção `Conteúdo` do menu lateral, em `Notícias`, clique em `Listar Notícias`. [t=23] [guia=menu:/painel/noticias]
-2. Na linha de uma notícia publicada, clique na chave `Despublicar`. [t=40] [guia=noticias.alternar-publicacao]
+2. Na linha de uma notícia publicada, clique na chave `Despublicar`; ela volta a `Rascunho` e sai do site. [t=40] [guia=noticias.alternar-publicacao]
 
 ### publicar
 

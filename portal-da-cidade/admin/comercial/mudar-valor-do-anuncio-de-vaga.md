@@ -16,7 +16,7 @@ videos:
 
 ## objetivo
 
-O preço das vagas é configurável em `Meus Planos`, no cartão `Vagas de Emprego`. Você muda o preço do plano oferecido aos clientes.
+O preço das vagas é configurável em `Meus Planos`, no cartão `Vagas de Emprego`. Você muda o preço do plano oferecido aos clientes. Se o valor que você quer mudar é o salário que aparece para o candidato, é outra tela: veja “alterar o salário de uma vaga de emprego”.
 
 ## pré-requisitos
 

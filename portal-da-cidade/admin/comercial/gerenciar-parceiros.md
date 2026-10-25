@@ -1,12 +1,16 @@
 ---
 id: gerenciar-parceiros
-titulo: "cadastrar e gerenciar parceiros"
+titulo: "cadastrar, editar, desativar e excluir parceiros"
 publico:
   - admin
 modulo: parceiros
 categoria: admin
 aba: nao-se-aplica
-tipo_problema: operacao
+tipo_problema:
+  - operacao
+  - cadastrar vendedor
+  - revendedor do portal
+  - quem vende o portal para mim
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

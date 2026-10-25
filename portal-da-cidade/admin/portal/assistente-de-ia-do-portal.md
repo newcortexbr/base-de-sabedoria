@@ -1,12 +1,17 @@
 ---
 id: assistente-de-ia-do-portal
-titulo: "Assistente de IA: ligar e ver o que perguntam"
+titulo: "Assistente de IA: ligar, desligar (tirar do site) e ver o que perguntam"
 publico:
   - admin
 modulo: assistente
 categoria: admin
 aba: nao-se-aplica
-tipo_problema: operacao
+tipo_problema:
+  - operacao
+  - robozinho do site
+  - tirar o robô
+  - esconder o assistente
+  - chat do site
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

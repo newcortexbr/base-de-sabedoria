@@ -17,6 +17,15 @@ tipo_problema:
   - pagar minha assinatura
   - enviar sms
   - aplicativo do portal
+  - votação
+  - enviar e-mail para leitores
+  - estrelas nas empresas
+  - avaliar empresa do guia
+  - trocar domínio
+  - apontar domínio
+  - criar usuário do painel
+  - outro administrador
+  - mensalidade do portal
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo
@@ -42,6 +51,12 @@ O pedido pode ser detalhado pelo artigo “pedir uma função nova (Sugestões d
 ## limites conferidos
 
 - O campo antigo de Google AdSense foi retirado do estado do modelo. Para publicidade, existe `Banners Publicitários` no menu.
+- O portal não tem enquete nem votação: a função foi retirada. Para ouvir os leitores, existe `A Voz do Povo`.
+- O portal não envia newsletter, e-mail em massa nem SMS para os leitores. Para avisar quem segue o portal, existe `Notificações Push`.
+- O Guia Comercial não tem estrelas nem avaliações próprias: na página da empresa aparecem só as avaliações do Google, quando a empresa tem.
+- Não existe tela para pagar a mensalidade (licença) do portal pelo painel: fale com a equipe que entregou o portal.
+- Não existe tela de domínio no painel: trocar ou apontar o endereço (.com.br) é feito pela equipe que entregou o portal.
+- Não existe cadastro de outros administradores ou usuários do painel (secretária, equipe). Para quem escreve, existem `Jornalistas` (em Notícias) e `Colunistas` (em Artigos).
 - O botão `Esqueceu a senha?` do painel não inicia recuperação; veja “esqueci a senha do painel”.
 - Não confunda um módulo desligado com uma função inexistente. Para tirar Sorteios do ar, existem rascunho e desligamento do módulo; veja os artigos específicos.
 
@@ -55,4 +70,4 @@ O pedido pode ser detalhado pelo artigo “pedir uma função nova (Sugestões d
 
 - Não foi identificado vídeo específico desta tarefa no catálogo; nenhum tempo foi atribuído.
 - Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.
-- Não foi comprovada por esta auditoria a inexistência geral de SMS, aplicativo em lojas, avaliações de leitores ou cobrança da licença. O código local não prova serviços externos; não negar essas funções por suposição.
+- Enquete: `backend/enquetes/models.py` (app esvaziado em 2026-09-06). Newsletter/SMS: nenhuma tela ou envio no código (busca em frontend/backend, 2026-10-25). Avaliações do Guia: só `GoogleAvaliacoes` na ficha pública. Aplicativo em lojas e cobrança da licença não foram comprovados; não negar essas por suposição.
