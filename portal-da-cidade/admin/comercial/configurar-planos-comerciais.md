@@ -6,7 +6,12 @@ publico:
 modulo: planos
 categoria: admin
 aba: nao-se-aplica
-tipo_problema: operacao
+tipo_problema:
+  - operacao
+  - cobrar mais caro
+  - preço do classificado
+  - valor do classificado
+  - alterar preço do plano
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo
@@ -44,7 +49,7 @@ Ao salvar com sucesso, a janela fecha e a lista de planos é atualizada.
 
 ## o que muda e o que fica fixo
 
-Na janela de edição do plano fixo, `Como o cliente paga` é somente leitura. `Limites e benefícios fixos` também não são editáveis ali. O preço pertence ao plano e à sua periodicidade, não a uma vaga individual já publicada. Os nomes e valores podem variar por portal.
+Na janela de edição do plano fixo, `Como o cliente paga` é somente leitura. `Limites e benefícios fixos` também não são editáveis ali: a duração (quantos dias o anúncio fica no ar), os limites e os benefícios são definidos pela plataforma. Você muda só o nome, o preço e se o plano está à venda. O preço pertence ao plano e à sua periodicidade, não a uma vaga individual já publicada. Os nomes e valores podem variar por portal.
 
 ## veja também
 

@@ -6,7 +6,11 @@ publico:
 modulo: aprovações
 categoria: admin
 aba: nao-se-aplica
-tipo_problema: operacao
+tipo_problema:
+  - operacao
+  - visitante reclamou de um anúncio
+  - reclamação de visitante
+  - reclamaram de um anúncio
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

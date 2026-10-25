@@ -6,7 +6,11 @@ publico:
 modulo: configurações
 categoria: admin
 aba: nao-se-aplica
-tipo_problema: operacao
+tipo_problema:
+  - operacao
+  - sumiu do menu
+  - não aparece no menu
+  - seção sumiu do site
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

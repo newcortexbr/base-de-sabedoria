@@ -6,7 +6,11 @@ publico:
 modulo: vagas
 categoria: admin
 aba: nao-se-aplica
-tipo_problema: operacao
+tipo_problema:
+  - operacao
+  - valor que aparece para o candidato
+  - valor da vaga
+  - quanto a vaga paga
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

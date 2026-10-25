@@ -6,7 +6,11 @@ publico:
 modulo: configurações
 categoria: admin
 aba: nao-se-aplica
-tipo_problema: configuracao
+tipo_problema:
+  - configuracao
+  - o que aparece lá embaixo
+  - parte de baixo do site
+  - final da página
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo
