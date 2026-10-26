@@ -32,8 +32,8 @@ aqui você monta o cardápio com fotos e preços de um restaurante, bar ou lanch
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas]
-2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar] [t=17]
-3. Desça até `Conteúdo da ficha` e, no cartão `Cardápio`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-cardapio] [t=20]
+2. Na linha da empresa, clique no lápis (`Editar`). [guia=guia-empresas.editar] [t=17]
+3. Em `Conteúdo da ficha`, no cartão `Cardápio`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-cardapio] [t=20]
 4. Para criar uma seção (por exemplo, Bebidas), clique em `+ Nova seção`. [guia=guia-empresas-cardapio.nova-secao] [t=88]
 5. Escreva o nome da seção. [guia=guia-empresas-cardapio.nome-secao] [t=88]
 6. Clique em `Criar`. [guia=guia-empresas-cardapio.criar-secao] [t=90]

@@ -32,7 +32,7 @@ Os cartões `Vencidos`, `Vence em 7 dias`, `Vence em 30 dias` e `Sem plano` resu
 
 1. Na parte `Comercial` do menu da esquerda, clique em `Meus Clientes`. [t=10] [guia=menu:/painel/clientes]
 2. Escreva o nome, o documento ou o telefone em `Buscar por nome, documento ou telefone…`. [t=44] [guia=clientes.busca]
-3. Pressione Enter no campo de busca para carregar os resultados. [guia=clientes.busca]
+3. Pressione Enter no campo de busca. [guia=clientes.busca]
 4. Se precisar, escolha a situação em `Filtrar por status`. [t=48] [guia=clientes.filtro-situacao]
 5. Clique no nome do cliente para abrir a ficha. [t=99] [guia=clientes.ver-cliente]
 

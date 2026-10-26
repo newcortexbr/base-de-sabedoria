@@ -24,7 +24,7 @@ aqui você consulta a cobertura do portal e encontra o contato para solicitar um
 
 ## passos
 
-1. Na parte `Sistema` do menu da esquerda, clique em `Configurações` para abrir as opções, se estiverem fechadas. [t=6] [guia=configuracoes.abrir-menu]
+1. Na parte `Sistema` do menu da esquerda, clique em `Configurações`. Só é preciso se as opções estiverem fechadas. [t=6] [guia=configuracoes.abrir-menu]
 2. Clique em `Configurações Gerais`. [t=9] [guia=menu:/painel/configuracoes]
 3. No quadro `Cidades do Portal`, clique em `Chamar no WhatsApp`. [t=27] [guia=configuracoes.cidades-comercial]
 4. No WhatsApp, informe ao time comercial qual cidade deseja adicionar ou remover. [guia=fora]

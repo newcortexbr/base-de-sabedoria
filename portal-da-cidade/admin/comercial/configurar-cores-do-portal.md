@@ -25,11 +25,11 @@ aqui você muda a cor primária, usada nos elementos clicáveis, e a cor de dest
 
 ## passos
 
-1. Na parte `Sistema` do menu da esquerda, clique em `Configurações` para abrir as opções, se estiverem fechadas. [t=4] [guia=configuracoes.abrir-menu]
+1. Na parte `Sistema` do menu da esquerda, clique em `Configurações`. Só é preciso se as opções estiverem fechadas. [t=4] [guia=configuracoes.abrir-menu]
 2. Clique em `Layout`. [t=6] [guia=menu:/painel/configuracoes/layout]
 3. Clique no cartão `Cores`. [t=7] [guia=configuracoes-layout.cores]
-4. Em `Cor Primária`, preencha o campo de código da cor, no formato `#000000`. [t=10] [guia=cores.primaria]
-5. Em `Cor de Destaque`, preencha o campo de código da outra cor, no mesmo formato. [t=16] [guia=cores.destaque]
+4. Em `Cor Primária`, preencha o código da cor. Use o formato `#000000`. [t=10] [guia=cores.primaria]
+5. Em `Cor de Destaque`, preencha o código da outra cor. Use o mesmo formato. [t=16] [guia=cores.destaque]
 6. Clique em `Salvar cores`. [t=32] [guia=configuracoes-layout.salvar]
 
 ## resultado

@@ -44,13 +44,13 @@ Aqui você muda o perfil de um colunista, desativa ou reativa a escrita e exclui
 ### desativar escrita
 
 1. Na seção `Conteúdo` do menu lateral, em `Artigos`, clique em `Colunistas`. [t=50] [guia=menu:/painel/blog/colunistas]
-2. Na linha da pessoa ativa, clique na chave com o nome `Desativar` seguido do nome do colunista. [t=54] [guia=colunistas.alternar-ativo]
+2. Na linha da pessoa ativa, clique na chave `Desativar`. O nome do colunista vem depois, no nome da chave. [t=54] [guia=colunistas.alternar-ativo]
 3. Na janela `Desativar colunista`, clique em `Desativar`. [guia=confirmacao.confirmar]
 
 ### reativar escrita
 
 1. Na seção `Conteúdo` do menu lateral, em `Artigos`, clique em `Colunistas`. [t=50] [guia=menu:/painel/blog/colunistas]
-2. Na linha da pessoa inativa, clique na chave com o nome `Ativar` seguido do nome do colunista. [t=54] [guia=colunistas.alternar-ativo]
+2. Na linha da pessoa inativa, clique na chave `Ativar`. O nome do colunista vem depois, no nome da chave. [t=54] [guia=colunistas.alternar-ativo]
 
 ### excluir
 

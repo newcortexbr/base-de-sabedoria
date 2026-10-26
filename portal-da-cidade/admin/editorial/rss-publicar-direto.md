@@ -26,7 +26,7 @@ Aqui você escolhe se as próximas notícias importadas por uma fonte entram pub
 ## passos
 
 1. Na seção `Conteúdo` do menu lateral, em `Notícias Automáticas`, clique em `Fontes de RSS`. [t=9] [guia=menu:/painel/noticias/fontes-rss]
-2. Na linha da fonte, clique no lápis `Editar`; em fonte da plataforma, o aviso do lápis é `Configurar (título e URL são da plataforma)`. [t=75] [guia=fontes-rss.editar]
+2. Clique no lápis `Editar` da fonte; em fonte da plataforma, o aviso do lápis é `Configurar (título e URL são da plataforma)`. [t=75] [guia=fontes-rss.editar]
 3. Ajuste `Publicar direto no site`: marcado recebe notícias publicadas; desmarcado recebe rascunhos. [t=83] [guia=fontes-rss-cadastrar.publicar-direto]
 4. Clique em `Salvar`. [guia=fontes-rss-cadastrar.enviar]
 

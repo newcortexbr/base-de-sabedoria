@@ -27,7 +27,7 @@ aqui você bloqueia ou libera o acesso comercial de um cliente sem apagar seu ca
 1. Na parte `Comercial` do menu da esquerda, clique em `Meus Clientes`. [t=10] [guia=menu:/painel/clientes]
 2. Escreva o nome, o documento ou o telefone em `Buscar por nome, documento ou telefone…`. [t=44] [guia=clientes.busca]
 3. Pressione Enter no campo de busca para carregar os resultados. [guia=clientes.busca]
-4. Na coluna `Ações` do cliente, clique no cadeado com a descrição `Bloquear` (ou `Desbloquear`, se já estiver bloqueado). [t=67] [guia=clientes.bloquear]
+4. Na coluna `Ações` do cliente, clique no cadeado `Bloquear`. Se o cliente já estiver bloqueado, o botão é `Desbloquear`. [t=67] [guia=clientes.bloquear]
 5. Na confirmação, clique em `Bloquear` (ou `Desbloquear`, conforme a ação escolhida). [guia=confirmacao.confirmar]
 
 ## resultado

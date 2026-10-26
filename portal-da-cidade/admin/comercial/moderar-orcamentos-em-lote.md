@@ -24,7 +24,7 @@ Aqui você aprova vários pedidos de orçamento de uma vez. Reprovar, encerrar e
 
 ## passos
 
-1. Na parte `Conteúdo` do menu, em `Orçamentos Online`, clique em `Todas as Solicitações`. [t=85] [guia=menu:/painel/orcamentos/categorias]
+1. Em `Conteúdo`, em `Orçamentos Online`, clique em `Todas as Solicitações`. [t=85] [guia=menu:/painel/orcamentos/categorias]
 2. Marque a caixa de seleção de cada pedido desejado. [t=171] [guia=orcamentos-categorias.selecionar]
 3. Na barra dos selecionados, clique em `Aprovar e enviar`. [t=173] [guia=orcamentos-categorias.lote-aprovar]
 4. Na janela que mostra a ação e a quantidade selecionada, clique em `Confirmar`. [guia=confirmacao.confirmar]

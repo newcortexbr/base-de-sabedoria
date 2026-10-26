@@ -27,7 +27,7 @@ aqui você muda o modelo do cabeçalho, o tamanho da logo, as cores e a ordem do
 
 ### abrir a edição
 
-1. Na parte `Sistema` do menu da esquerda, clique em `Configurações` para abrir as opções, se estiverem fechadas. [t=5] [guia=configuracoes.abrir-menu]
+1. Na parte `Sistema` do menu da esquerda, clique em `Configurações`. Só é preciso se as opções estiverem fechadas. [t=5] [guia=configuracoes.abrir-menu]
 2. Clique em `Layout`. [t=7] [guia=menu:/painel/configuracoes/layout]
 3. Clique no cartão `Topo`. [t=8] [guia=configuracoes-layout.topo]
 

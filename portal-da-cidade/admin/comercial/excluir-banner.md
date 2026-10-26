@@ -24,7 +24,7 @@ Aqui você apaga o cadastro de um banner. Para apenas tirá-lo do ar e guardar o
 
 ## passos
 
-1. Na parte `Conteúdo` do menu, clique em `Banners Publicitários`. [t=10] [guia=menu:/painel/guia/banners]
+1. Em `Conteúdo`, clique em `Banners Publicitários`. [t=10] [guia=menu:/painel/guia/banners]
 2. Digite o título do banner em `Buscar por título…`. [t=19] [guia=guia-banners.busca]
 3. Clique em `Excluir` na linha do banner. [t=40] [guia=guia-banners.excluir]
 4. Na janela `Confirmar ação`, clique em `Excluir` para confirmar a exclusão. [guia=confirmacao.confirmar]
