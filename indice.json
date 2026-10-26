@@ -1,12 +1,12 @@
 {
- "gerado_em": "2026-10-24",
+ "gerado_em": "2026-10-26",
  "produtos": {
   "area-do-cliente": 92,
   "dados-pj": 14,
   "extrator-maps": 21,
-  "portal-da-cidade": 270
+  "portal-da-cidade": 272
  },
- "total": 397,
+ "total": 399,
  "artigos": [
   {
    "id": "ac-ativar-conta-pelo-convite",
@@ -5503,7 +5503,12 @@
    "produto": null,
    "modulo": "vagas",
    "aba": "nao-se-aplica",
-   "tipos": [],
+   "tipos": [
+    "operacao",
+    "valor que aparece para o candidato",
+    "valor da vaga",
+    "quanto a vaga paga"
+   ],
    "videos": [
     "ufB3QTKfPsM"
    ],
@@ -5516,10 +5521,15 @@
     "emprego",
     "vagas",
     "aplica",
+    "operacao",
+    "valor",
+    "aparece",
+    "candidato",
+    "quanto",
+    "paga",
     "voce",
     "muda",
     "oferecido",
-    "candidato",
     "cadastrada",
     "preco",
     "cobrado",
@@ -5690,7 +5700,12 @@
    "produto": null,
    "modulo": "configurações",
    "aba": "nao-se-aplica",
-   "tipos": [],
+   "tipos": [
+    "operacao",
+    "sumiu do menu",
+    "não aparece no menu",
+    "seção sumiu do site"
+   ],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -5702,6 +5717,12 @@
     "parceiros",
     "configuracoes",
     "aplica",
+    "operacao",
+    "sumiu",
+    "menu",
+    "aparece",
+    "secao",
+    "site",
     "voce",
     "escolhe",
     "portal",
@@ -6024,6 +6045,54 @@
    "caminho": "portal-da-cidade/admin/comercial/cobrar-plano-de-parceiro-pelo-asaas.md"
   },
   {
+   "id": "colocar-espaco-de-banner-a-venda",
+   "titulo": "colocar um espaço de banner à venda e definir o preço",
+   "objetivo": "Aqui você coloca uma posição de banner do portal à venda, definindo o preço por semana, mês, semestre ou ano. Espaço sem preço fica `Fora de venda`.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "planos",
+   "aba": "nao-se-aplica",
+   "tipos": [
+    "vender espaço de banner",
+    "preço do banner",
+    "valor da publicidade"
+   ],
+   "videos": [
+    "MbMNv59z7Bg"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-25",
+   "termos": [
+    "colocar",
+    "espaco",
+    "banner",
+    "venda",
+    "definir",
+    "preco",
+    "planos",
+    "aplica",
+    "vender",
+    "valor",
+    "publicidade",
+    "voce",
+    "coloca",
+    "posicao",
+    "portal",
+    "definindo",
+    "semana",
+    "mes",
+    "semestre",
+    "ano",
+    "sem",
+    "fica",
+    "fora"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/comercial/colocar-espaco-de-banner-a-venda.md"
+  },
+  {
    "id": "colocar-pixels-de-rastreamento-no-portal",
    "titulo": "colocar pixels de rastreamento no portal",
    "objetivo": "aqui você cadastra ou remove os identificadores de rastreamento usados pelo portal.",
@@ -6137,7 +6206,12 @@
    "produto": null,
    "modulo": "financeiro",
    "aba": "nao-se-aplica",
-   "tipos": [],
+   "tipos": [
+    "pagamento",
+    "como recebo o dinheiro das empresas",
+    "receber pagamento dos planos vendidos",
+    "onde cai o dinheiro dos clientes"
+   ],
    "videos": [
     "lwaG-T87hJI"
    ],
@@ -6151,6 +6225,15 @@
     "cobranca",
     "financeiro",
     "aplica",
+    "pagamento",
+    "recebo",
+    "dinheiro",
+    "empresas",
+    "receber",
+    "planos",
+    "vendidos",
+    "cai",
+    "clientes",
     "voce",
     "conecta",
     "portal",
@@ -6351,7 +6434,13 @@
    "produto": null,
    "modulo": "planos",
    "aba": "nao-se-aplica",
-   "tipos": [],
+   "tipos": [
+    "operacao",
+    "cobrar mais caro",
+    "preço do classificado",
+    "valor do classificado",
+    "alterar preço do plano"
+   ],
    "videos": [
     "31ftVMQ_yr4"
    ],
@@ -6364,6 +6453,13 @@
     "preco",
     "vagas",
     "aplica",
+    "operacao",
+    "cobrar",
+    "caro",
+    "classificado",
+    "valor",
+    "alterar",
+    "plano",
     "voce",
     "ajusta",
     "nome",
@@ -6374,7 +6470,6 @@
     "caminho",
     "completo",
     "mudar",
-    "valor",
     "anuncio",
     "vaga",
     "emprego"
@@ -6426,7 +6521,12 @@
    "produto": null,
    "modulo": "configurações",
    "aba": "nao-se-aplica",
-   "tipos": [],
+   "tipos": [
+    "configuracao",
+    "o que aparece lá embaixo",
+    "parte de baixo do site",
+    "final da página"
+   ],
    "videos": [
     "vPnHq9kRWW8",
     "XekThBh1ygU"
@@ -6439,6 +6539,14 @@
     "portal",
     "configuracoes",
     "aplica",
+    "configuracao",
+    "aparece",
+    "embaixo",
+    "parte",
+    "baixo",
+    "site",
+    "final",
+    "pagina",
     "voce",
     "muda",
     "modelo",
@@ -7715,7 +7823,7 @@
   },
   {
    "id": "gerenciar-parceiros",
-   "titulo": "cadastrar e gerenciar parceiros",
+   "titulo": "cadastrar, editar, desativar e excluir parceiros",
    "objetivo": "Aqui você cadastra um parceiro e escolhe o plano dele. Os percentuais de comissão ficam em `Planos de parceiro` > `Editar` e valem para todos os parceiros daquele plano.",
    "publico": [
     "admin"
@@ -7723,7 +7831,12 @@
    "produto": null,
    "modulo": "parceiros",
    "aba": "nao-se-aplica",
-   "tipos": [],
+   "tipos": [
+    "operacao",
+    "cadastrar vendedor",
+    "revendedor do portal",
+    "quem vende o portal para mim"
+   ],
    "videos": [
     "8gIDPdapN0E"
    ],
@@ -7731,9 +7844,18 @@
    "revisado_em": "2026-10-24",
    "termos": [
     "cadastrar",
-    "gerenciar",
+    "editar",
+    "desativar",
+    "excluir",
     "parceiros",
     "aplica",
+    "operacao",
+    "vendedor",
+    "revendedor",
+    "portal",
+    "quem",
+    "vende",
+    "mim",
     "voce",
     "cadastra",
     "parceiro",
@@ -7744,7 +7866,6 @@
     "comissao",
     "ficam",
     "planos",
-    "editar",
     "valem",
     "todos",
     "daquele"
@@ -8127,7 +8248,13 @@
    "produto": null,
    "modulo": "financeiro",
    "aba": "nao-se-aplica",
-   "tipos": [],
+   "tipos": [
+    "pagamento",
+    "baixar fatura",
+    "dar baixa na fatura",
+    "cliente pagou em dinheiro",
+    "pagou na mão"
+   ],
    "videos": [
     "lwaG-T87hJI",
     "1RHf0fcXgyE"
@@ -8141,9 +8268,16 @@
     "fora",
     "financeiro",
     "aplica",
+    "pagamento",
+    "baixar",
+    "dar",
+    "baixa",
+    "cliente",
+    "pagou",
+    "dinheiro",
+    "mao",
     "voce",
     "registra",
-    "pagamento",
     "recebeu",
     "portal",
     "abrir",
@@ -8449,7 +8583,7 @@
   {
    "id": "mudar-valor-do-anuncio-de-vaga",
    "titulo": "mudar o valor do anúncio de vaga de emprego",
-   "objetivo": "O preço das vagas é configurável em `Meus Planos`, no cartão `Vagas de Emprego`. Você muda o preço do plano oferecido aos clientes.",
+   "objetivo": "O preço das vagas é configurável em `Meus Planos`, no cartão `Vagas de Emprego`. Você muda o preço do plano oferecido aos clientes. Se o valor que você quer mudar é o salário que aparece para o candidato, é outra tela: veja “alterar o salário de uma vaga de emprego”.",
    "publico": [
     "admin"
    ],
@@ -8479,7 +8613,15 @@
     "plano",
     "oferecido",
     "aos",
-    "clientes"
+    "clientes",
+    "quer",
+    "salario",
+    "aparece",
+    "candidato",
+    "outra",
+    "tela",
+    "veja",
+    "alterar"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/comercial/mudar-valor-do-anuncio-de-vaga.md"
@@ -10957,7 +11099,7 @@
   },
   {
    "id": "assistente-de-ia-do-portal",
-   "titulo": "Assistente de IA: ligar e ver o que perguntam",
+   "titulo": "Assistente de IA: ligar, desligar (tirar do site) e ver o que perguntam",
    "objetivo": "Ligue ou desligue o assistente público e consulte o que os visitantes procuram.",
    "publico": [
     "admin"
@@ -10965,7 +11107,13 @@
    "produto": null,
    "modulo": "assistente",
    "aba": "nao-se-aplica",
-   "tipos": [],
+   "tipos": [
+    "operacao",
+    "robozinho do site",
+    "tirar o robô",
+    "esconder o assistente",
+    "chat do site"
+   ],
    "videos": [
     "0nkWIgiQfwM"
    ],
@@ -10974,9 +11122,17 @@
    "termos": [
     "assistente",
     "ligar",
+    "desligar",
+    "tirar",
+    "site",
     "ver",
     "perguntam",
     "aplica",
+    "operacao",
+    "robozinho",
+    "robo",
+    "esconder",
+    "chat",
     "ligue",
     "desligue",
     "publico",
@@ -11281,6 +11437,45 @@
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/desligar-modulo-sorteios.md"
+  },
+  {
+   "id": "doacoes-para-onde-vai-o-dinheiro",
+   "titulo": "doações: para onde vai o dinheiro",
+   "objetivo": "Entenda que a área de Doações é uma vitrine das instituições: o portal não recebe nem repassa o dinheiro.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "doacoes",
+   "aba": "nao-se-aplica",
+   "tipos": [
+    "dinheiro da doação",
+    "doação cai na conta do portal",
+    "repasse de doação"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-25",
+   "termos": [
+    "doacoes",
+    "vai",
+    "dinheiro",
+    "aplica",
+    "doacao",
+    "cai",
+    "conta",
+    "portal",
+    "repasse",
+    "entenda",
+    "area",
+    "vitrine",
+    "instituicoes",
+    "recebe",
+    "nem",
+    "repassa"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/portal/doacoes-para-onde-vai-o-dinheiro.md"
   },
   {
    "id": "editar-contato-instituicao-doacoes",
@@ -11644,7 +11839,16 @@
     "pagar a mensalidade do portal",
     "pagar minha assinatura",
     "enviar sms",
-    "aplicativo do portal"
+    "aplicativo do portal",
+    "votação",
+    "enviar e-mail para leitores",
+    "estrelas nas empresas",
+    "avaliar empresa do guia",
+    "trocar domínio",
+    "apontar domínio",
+    "criar usuário do painel",
+    "outro administrador",
+    "mensalidade do portal"
    ],
    "videos": [],
    "status": "rascunho-documental",
@@ -11671,6 +11875,19 @@
     "enviar",
     "sms",
     "aplicativo",
+    "votacao",
+    "mail",
+    "estrelas",
+    "empresas",
+    "avaliar",
+    "empresa",
+    "guia",
+    "trocar",
+    "dominio",
+    "apontar",
+    "usuario",
+    "outro",
+    "administrador",
     "entenda",
     "limites",
     "confirmados",
@@ -12154,7 +12371,12 @@
    "produto": null,
    "modulo": "aprovações",
    "aba": "nao-se-aplica",
-   "tipos": [],
+   "tipos": [
+    "operacao",
+    "visitante reclamou de um anúncio",
+    "reclamação de visitante",
+    "reclamaram de um anúncio"
+   ],
    "videos": [
     "JYDoZB_vyX8"
    ],
@@ -12167,6 +12389,12 @@
     "portal",
     "aprovacoes",
     "aplica",
+    "operacao",
+    "visitante",
+    "reclamou",
+    "anuncio",
+    "reclamacao",
+    "reclamaram",
     "filtre",
     "conteudo",
     "abra",
@@ -13441,7 +13669,11 @@
     "nota de estrelas",
     "aplicativo na loja",
     "baixar app",
-    "lista de faturas"
+    "lista de faturas",
+    "apagar minha conta",
+    "excluir conta",
+    "verificação em duas etapas",
+    "autenticação de dois fatores"
    ],
    "videos": [],
    "status": "rascunho-documental",
@@ -13467,6 +13699,15 @@
     "app",
     "lista",
     "faturas",
+    "apagar",
+    "conta",
+    "excluir",
+    "verificacao",
+    "duas",
+    "etapas",
+    "autenticacao",
+    "dois",
+    "fatores",
     "estao",
     "coisas",
     "oferece",
