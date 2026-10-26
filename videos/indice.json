@@ -5,11 +5,11 @@
   "geral": {
    "linhas": 148,
    "com_topico": 105,
-   "com_link": 99,
-   "publicadas": 100,
-   "com_legenda": 98,
-   "com_artigo": 98,
-   "ids_distintos": 99
+   "com_link": 101,
+   "publicadas": 101,
+   "com_legenda": 99,
+   "com_artigo": 99,
+   "ids_distintos": 101
   },
   "por_aba": {
    "painel-admin": {
@@ -23,10 +23,10 @@
    "area-empresa-parceiro-portal": {
     "linhas": 26,
     "com_topico": 22,
-    "com_link": 21,
+    "com_link": 22,
     "publicadas": 22,
-    "com_legenda": 20,
-    "com_artigo": 20
+    "com_legenda": 21,
+    "com_artigo": 21
    },
    "sistema-dados-pj": {
     "linhas": 5,
@@ -47,8 +47,8 @@
    "claude-videos-basicos-area-do-cliente": {
     "linhas": 15,
     "com_topico": 13,
-    "com_link": 10,
-    "publicadas": 10,
+    "com_link": 11,
+    "publicadas": 11,
     "com_legenda": 10,
     "com_artigo": 10
    },
@@ -73,10 +73,10 @@
    "portal-da-cidade": {
     "linhas": 90,
     "com_topico": 86,
-    "com_link": 84,
+    "com_link": 85,
     "publicadas": 85,
-    "com_legenda": 83,
-    "com_artigo": 83
+    "com_legenda": 84,
+    "com_artigo": 84
    },
    "dados-pj": {
     "linhas": 5,
@@ -97,8 +97,8 @@
    "area-do-cliente": {
     "linhas": 15,
     "com_topico": 13,
-    "com_link": 10,
-    "publicadas": 10,
+    "com_link": 11,
+    "publicadas": 11,
     "com_legenda": 10,
     "com_artigo": 10
    },
@@ -2266,10 +2266,15 @@
     "thumbnail": "Pendente",
     "publicacao": "Publicado"
    },
-   "youtube_id": null,
+   "youtube_id": "qpocVX6gjVA",
    "link_drive_ou_pagina": null,
    "produto": "portal-da-cidade",
    "observacao": "título no YouTube é \"Tutorial Guia Empresa 09 Delivery Recebendo Pedidos\": não bate com o tópico da planilha (configuração e cardápio). vinculado pelo título do YouTube.",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": null,
+   "legenda_fonte": null,
+   "conteudo": null,
    "artigos": []
   },
   {
@@ -2284,16 +2289,19 @@
     "thumbnail": "Pendente",
     "publicacao": "Publicado"
    },
-   "youtube_id": "2BkFlsGlbUQ",
+   "youtube_id": "viWXA8_mZf4",
    "link_drive_ou_pagina": null,
    "produto": "portal-da-cidade",
    "observacao": "link quebrado: o YouTube responde Not Found (privado ou removido). fora dos videos.json.",
    "titulo_youtube": null,
    "duracao_s": null,
-   "upload_date": null,
-   "legenda_fonte": null,
-   "conteudo": null,
-   "artigos": []
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/viWXA8_mZf4.md",
+   "artigos": [
+    "cliente-cancelar-pedido-delivery",
+    "cliente-consultar-pedidos-delivery"
+   ]
   },
   {
    "aba": "area-empresa-parceiro-portal",
@@ -2836,7 +2844,7 @@
    "id_planilha": 2,
    "topico": "Processo de Compra e Pós Pagamento",
    "status": {
-    "gravacao": null,
+    "gravacao": "Pendente",
     "edicao": null,
     "thumbnail": "Pendente",
     "publicacao": null
@@ -3006,15 +3014,20 @@
    "id_planilha": 10,
    "topico": "Treinamentos  - Navegando rapidamente pelas opcoes",
    "status": {
-    "gravacao": "Pendente",
+    "gravacao": "Gravado",
     "edicao": null,
     "thumbnail": "Pendente",
-    "publicacao": "Pendente"
+    "publicacao": "Publicado"
    },
-   "youtube_id": null,
+   "youtube_id": "CYLv3j1aaNM",
    "link_drive_ou_pagina": "https://areacliente.newcortex.site/negocios/11507a1c-7e97-437f-b6ca-4c0b096082bd/treinamento",
    "produto": "area-do-cliente",
-   "observacao": "sem link do YouTube.",
+   "observacao": "publicado, sem artigo vinculado.",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": null,
+   "legenda_fonte": null,
+   "conteudo": null,
    "artigos": []
   },
   {
@@ -5471,13 +5484,34 @@
    ]
   },
   {
-   "youtube_id": "2BkFlsGlbUQ",
+   "youtube_id": "qpocVX6gjVA",
    "titulo_youtube": null,
    "duracao_s": null,
    "upload_date": null,
    "legenda_fonte": null,
    "conteudo": null,
    "artigos": [],
+   "linhas": [
+    {
+     "aba": "area-empresa-parceiro-portal",
+     "linha": 16,
+     "id_planilha": 15,
+     "topico": "Guia > Delivery: configuração e cardápio",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
+  {
+   "youtube_id": "viWXA8_mZf4",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261021",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/viWXA8_mZf4.md",
+   "artigos": [
+    "cliente-cancelar-pedido-delivery",
+    "cliente-consultar-pedidos-delivery"
+   ],
    "linhas": [
     {
      "aba": "area-empresa-parceiro-portal",
@@ -5863,6 +5897,24 @@
      "linha": 9,
      "id_planilha": 8,
      "topico": "Minha Plataforma -  Processo de Instalação - Etapa 3 - Portal no Ar",
+     "produto": "area-do-cliente"
+    }
+   ]
+  },
+  {
+   "youtube_id": "CYLv3j1aaNM",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": null,
+   "legenda_fonte": null,
+   "conteudo": null,
+   "artigos": [],
+   "linhas": [
+    {
+     "aba": "claude-videos-basicos-area-do-cliente",
+     "linha": 10,
+     "id_planilha": 10,
+     "topico": "Treinamentos  - Navegando rapidamente pelas opcoes",
      "produto": "area-do-cliente"
     }
    ]
