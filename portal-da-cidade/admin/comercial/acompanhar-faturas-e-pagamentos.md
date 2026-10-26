@@ -25,7 +25,7 @@ Aqui você consulta as faturas e separa o que está a vencer, vencido, pago ou c
 ## passos
 
 1. No menu da esquerda, na parte `Comercial`, clique em `Financeiro`. [t=11] [guia=menu:/painel/financeiro]
-2. Clique na aba `A vencer`, `Vencidas`, `Pagas` ou `Canceladas`, conforme a situação que deseja consultar. [t=38] [guia=financeiro.aba]
+2. Clique na aba da situação: `A vencer`, `Vencidas`, `Pagas` ou `Canceladas`. [t=38] [guia=financeiro.aba]
 3. Escreva o nome em `Buscar por cliente…`. [t=48] [guia=financeiro.busca]
 4. Confira cliente, plano, vencimento e valor na linha da fatura. [t=55] [guia=financeiro.fatura]
 

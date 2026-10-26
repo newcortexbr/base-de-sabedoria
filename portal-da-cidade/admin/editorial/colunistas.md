@@ -32,7 +32,7 @@ Aqui você cadastra o perfil de quem assina artigos no portal. O perfil e o logi
 2. Clique em `+ Novo Colunista`. [t=57] [guia=colunistas.novo]
 3. Preencha `Nome *`. [t=59] [guia=colunistas.nome]
 4. Se quiser, envie a foto pelo seletor de arquivo no topo da janela. [t=59] [guia=colunistas.foto]
-5. Se quiser, escolha o `Ponto de foco da imagem` no seletor que aparece após enviar a foto. [guia=imagem.foco]
+5. Se quiser, escolha o `Ponto de foco da imagem`. O seletor aparece após enviar a foto. [guia=imagem.foco]
 6. Se quiser, preencha `Cargo ou especialidade`. [t=59] [guia=colunistas.cargo]
 7. Se quiser, preencha `Descrição breve`. [t=62] [guia=colunistas.descricao]
 8. Se quiser, preencha `Site`. [guia=colunistas.site]

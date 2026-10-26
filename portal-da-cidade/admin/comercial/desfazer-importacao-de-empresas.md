@@ -29,7 +29,7 @@ Aqui você apaga as empresas criadas por um lote de importação. Confira o lote
 2. Clique em `Importar do Google Maps`. [guia=guia-empresas.importar]
 3. Em `Importações anteriores`, clique na linha do lote desejado. [guia=guia-empresas-importar.abrir-lote]
 4. No resultado do lote, clique em `Desfazer importação`. [guia=guia-empresas-importar.desfazer] [t=440]
-5. Na confirmação que informa quantas empresas serão apagadas, clique em `Apagar`. [guia=confirmacao.confirmar]
+5. Na confirmação, clique em `Apagar`. Ela informa quantas empresas serão apagadas. [guia=confirmacao.confirmar]
 
 ## resultado
 

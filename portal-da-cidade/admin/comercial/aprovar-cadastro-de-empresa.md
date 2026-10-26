@@ -31,7 +31,7 @@ Com `Exigir minha aprovação antes de publicar` ligado, os cadastros sujeitos �
 
 1. No menu da esquerda, clique em `Aprovações e Denúncias`. [guia=menu:/painel/aprovacoes] [t=5]
 2. No envio do tipo `Empresa`, clique em `Ver detalhe`. [guia=aprovacoes.ver-detalhe]
-3. Depois de conferir os dados, clique em `Aprovar` dentro da janela de detalhes. [guia=aprovacoes.aprovar-detalhe]
+3. Clique em `Aprovar` na janela de detalhes. Antes, confira os dados. [guia=aprovacoes.aprovar-detalhe]
 
 ## resultado
 

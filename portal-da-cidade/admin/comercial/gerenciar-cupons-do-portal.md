@@ -24,7 +24,7 @@ Aqui você cria um cupom para uma empresa do Guia Comercial. Cada empresa tem um
 
 ## passos
 
-1. Na parte `Conteúdo` do menu, em `Guia Comercial`, clique em `Cupons de Desconto`. [t=9] [guia=menu:/painel/cupons]
+1. Em `Conteúdo`, em `Guia Comercial`, clique em `Cupons de Desconto`. [t=9] [guia=menu:/painel/cupons]
 2. Clique em `Novo cupom`. [t=25] [guia=cupons.novo]
 3. Escolha `Empresa *`. [t=28] [guia=cupons.empresa]
 4. Se quiser, envie uma imagem em `Foto de capa do cupom`. [t=28] [guia=cupons.foto]

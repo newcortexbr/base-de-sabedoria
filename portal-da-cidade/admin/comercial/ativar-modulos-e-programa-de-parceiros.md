@@ -29,9 +29,9 @@ Aqui você escolhe quais módulos do portal ficam ligados e se o Programa de Par
 
 1. No menu da esquerda, na parte `Sistema`, abra `Configurações`. [guia=sidebar.grupo-configuracoes]
 2. Clique em `Módulos do Portal`. [guia=menu:/painel/configuracoes/modulos]
-3. Na linha do módulo ou do `Programa de Parceiros`, clique na chave para deixá-la `Ligado` ou `Desligado`, conforme deseja. [guia=configuracoes-modulos.chave]
+3. Clique na chave do módulo ou do `Programa de Parceiros`. Ela fica `Ligado` ou `Desligado`. [guia=configuracoes-modulos.chave]
 4. Clique em `Salvar módulos`. [guia=configuracoes-modulos.salvar]
-5. Se aparecer a confirmação de desligamento, clique em `Confirmar e desligar` após conferir os itens que sairão do ar. [guia=configuracoes-modulos.confirmar-desligar]
+5. Se aparecer a confirmação de desligamento, clique em `Confirmar e desligar`. Antes, confira os itens que sairão do ar. [guia=configuracoes-modulos.confirmar-desligar]
 
 ## resultado
 

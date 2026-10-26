@@ -25,7 +25,7 @@ aqui você altera os contatos e o texto da página Fale Conosco.
 
 ## passos
 
-1. Na parte `Sistema` do menu da esquerda, clique em `Configurações` para abrir as opções, se estiverem fechadas. [t=6] [guia=configuracoes.abrir-menu]
+1. Na parte `Sistema` do menu da esquerda, clique em `Configurações`. Só é preciso se as opções estiverem fechadas. [t=6] [guia=configuracoes.abrir-menu]
 2. Clique em `Configurações Gerais`. [t=9] [guia=menu:/painel/configuracoes]
 3. No quadro `Página Fale Conosco`, preencha `E-mail de contato`. [t=53] [guia=configuracoes.email-contato]
 4. Preencha `Telefone` com DDD. [t=53] [guia=configuracoes.telefone-contato]

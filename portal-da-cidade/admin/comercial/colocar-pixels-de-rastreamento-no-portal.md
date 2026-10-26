@@ -27,7 +27,7 @@ aqui você cadastra ou remove os identificadores de rastreamento usados pelo por
 
 ### cadastrar ou substituir um pixel
 
-1. Na parte `Sistema` do menu da esquerda, clique em `Configurações` para abrir as opções, se estiverem fechadas. [t=6] [guia=configuracoes.abrir-menu]
+1. Na parte `Sistema` do menu da esquerda, clique em `Configurações`. Só é preciso se as opções estiverem fechadas. [t=6] [guia=configuracoes.abrir-menu]
 2. Clique em `Configurações Gerais`. [t=9] [guia=menu:/painel/configuracoes]
 3. Em `Pixels de rastreamento`, cole o código em `Código do pixel`. [t=31] [guia=configuracoes.pixel-codigo]
 4. Clique em `Identificar pixel`. [t=36] [guia=configuracoes.pixel-identificar]
