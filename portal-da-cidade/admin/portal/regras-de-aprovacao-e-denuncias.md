@@ -46,6 +46,7 @@ Cada chave salva sozinha ao ser clicada. Se o salvamento falhar, a chave volta �
 
 - O que os clientes enviarem daí em diante vai direto ao ar.
 - O que já estava esperando continua na fila até você aprovar ou recusar. Não existe botão para liberar tudo de uma vez.
+  **O que fazer:** abra a aba `Aprovações` e clique em `Aprovar` em cada linha; não precisa abrir o detalhe. [guia=aprovacoes.aprovar] Para pedir essa função, use `Sugestões de Funções`, no rodapé do menu da esquerda. [guia=menu:/painel/sugestoes]
 - A aba `Aprovações` mostra o selo `desligada` e um aviso amarelo. Os dois somem quando você religa a chave e abre a página de novo.
 
 ## ao ligar a aprovação
@@ -70,7 +71,7 @@ Cada chave salva sozinha ao ser clicada. Se o salvamento falhar, a chave volta �
 
 ## perguntas comuns
 
-**posso exigir aprovação só de alguns tipos, como empresas sim e classificados não?** Não. A chave vale para todos os tipos da fila ao mesmo tempo.
+**posso exigir aprovação só de alguns tipos, como empresas sim e classificados não?** Não. A chave vale para todos os tipos da fila ao mesmo tempo. **O que fazer:** deixe a chave ligada e aprove direto na linha os tipos que você não precisa revisar; se quiser a escolha por tipo, peça a função em `Sugestões de Funções`, no rodapé do menu da esquerda.
 **por que artigos são exceção?** Foi uma decisão do portal: artigos não têm aprovação, todo colunista publica direto.
 
 ## fontes

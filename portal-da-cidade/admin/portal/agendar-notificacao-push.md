@@ -49,10 +49,14 @@ A notificação fica agendada no `Histórico`.
 ## desvios
 
 - O agendamento exige data e hora posteriores ao momento atual.
-- O envio depende da disponibilidade indicada na tela e do processamento do servidor. Não há prazo de entrega garantido.
+- O envio não tem horário exato de chegada. Enquanto sai, a linha no `Histórico` mostra `Enviando…` e a tela se atualiza sozinha a cada 10 segundos. Depois mostra `Enviada` (com data e hora), `Falhou` ou `Cancelada`.
+- **O que fazer para conferir se chegou:** no `Histórico`, veja as colunas `Entregues` (quantos aparelhos receberam) e `Abriram` (quantos tocaram). [guia=notificacoes.historico] Os números só aparecem quando a linha está `Enviada`.
+- Só recebe quem aceitou receber notificações do portal: o total está em `inscritos`, no alto da tela. [guia=notificacoes.resumo] Com zero inscritos, ninguém recebe. Para ganhar inscritos, deixe ligado `Convidar visitantes a receber notificações`.
+- Se a linha mostrar `Falhou`, a notificação não saiu: envie de novo e, se repetir, fale com a equipe que entregou o portal.
 - Uma notificação já enviada não pode ser desfeita.
 
 ## fontes
+- `frontend/src/app/painel/notificacoes/page.tsx:15-23` (situações), `:130-136` (atualiza a cada 10 s), `:280-309` (inscritos, convite), `:357-390` (Histórico, Entregues, Abriram)
 
 - `frontend/src/app/painel/notificacoes/page.tsx:182`
 - `frontend/src/app/painel/notificacoes/page.tsx:210`

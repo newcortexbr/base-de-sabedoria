@@ -55,7 +55,7 @@ Só há botão `Denunciar` no Guia Comercial, em Vagas, em Classificados e em Ev
 - A mais nova fica em cima. Cada denúncia é uma linha: dez pessoas denunciando o mesmo item geram dez linhas.
 - O clipe com número mostra quantas imagens foram anexadas; `—` quando nenhuma.
 - `Item removido` aparece quando o item não tem mais título guardado.
-- Data e hora aparecem como dia/mês e hora, sem o ano, no horário de Brasília.
+- Data e hora aparecem como dia/mês e hora, sem o ano, no horário de Brasília. O detalhe da denúncia mostra a data completa, com o ano.
 
 ## o detalhe
 
@@ -64,7 +64,7 @@ Só há botão `Denunciar` no Guia Comercial, em Vagas, em Classificados e em Ev
 - `Motivo` é um destes: Golpe ou fraude; Informação falsa ou enganosa; Conteúdo ofensivo; Produto ou serviço proibido; Spam ou duplicado; Outro.
 - `Descrição do denunciante` mostra `—` quando a pessoa não escreveu nada; escrever é opcional.
 - As imagens anexadas abrem em outra aba, onde podem ser salvas. Não há botão para baixar todas.
-- `Item não existe mais` aparece no lugar do link quando o item foi apagado depois da denúncia (pelo autor ou por alguém do portal). O nome e o responsável continuam aparecendo, porque foram guardados na denúncia.
+- `Item não existe mais` aparece no lugar do link quando o item foi apagado depois da denúncia (pelo autor ou por alguém do portal). O nome e o responsável continuam aparecendo, porque foram guardados na denúncia. A tela não diz quem apagou. **O que fazer:** pergunte à sua equipe; se ninguém apagou, foi o autor. Você ainda pode bloquear o responsável ou ignorar a denúncia.
 - `Ver página denunciada` abre o site em outra aba. Se o item estiver pausado, pendente ou bloqueado, a página pode mostrar "não encontrada".
 - `Voltar para Denúncias` volta à lista com os filtros no começo (`Pendentes` e `Todos`).
 - Depois de decidida, a denúncia mostra quando foi decidida e por quem: o nome do administrador que decidiu (ou o e-mail, se não houver nome).

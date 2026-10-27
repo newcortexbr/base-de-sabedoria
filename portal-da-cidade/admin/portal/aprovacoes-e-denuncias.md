@@ -75,11 +75,11 @@ Aparece o aviso `Publicação aprovada`, o envio sai da lista e o número da aba
 
 ## perguntas comuns
 
-**posso desfazer uma aprovação?** Não pelo painel. Também não há histórico de quem aprovou e quando.
+**posso desfazer uma aprovação?** Não pelo painel. Também não há histórico de quem aprovou e quando. **O que fazer:** se o item não devia estar no ar, tire-o do ar pela tela do módulo dele (Guia, Vagas, Classificados, Eventos ou Banners). Para saber quem aprovou, combine com a equipe quem cuida da fila. Para pedir essa função, use `Sugestões de Funções`, no rodapé do menu da esquerda. [guia=menu:/painel/sugestoes]
 **posso aprovar vários de uma vez?** Não. Cada envio é aprovado separadamente.
 **e se dois administradores decidirem o mesmo envio ao mesmo tempo?** Vale a primeira decisão. Quem chegou depois vê o aviso `Este envio já foi decidido, talvez por outra pessoa da equipe. Atualize a página.` e nada muda. Atualize a página para ver a lista em dia.
 **posso aprovar ou recusar de novo um envio que já foi decidido?** Não. O portal só aceita decisão sobre envio que ainda está esperando.
-**o cliente precisa esperar quanto tempo?** O portal não define prazo. Nada é aprovado ou recusado sozinho; o envio espera até um administrador decidir.
+**o cliente precisa esperar quanto tempo?** Não há prazo. Nada é aprovado ou recusado sozinho; o envio espera até um administrador decidir. **O que fazer:** olhe a fila todo dia; o número ao lado de `Aprovações e Denúncias` no menu mostra quantos esperam.
 
 ## fontes
 

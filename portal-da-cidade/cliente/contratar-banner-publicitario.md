@@ -60,6 +60,7 @@ depois de pago, se o portal exigir aprovação, o banner fica `Aguardando aprova
 - Fechou sem pagar: na linha do banner, clique em `Continuar pagamento`.
 - Outras posições e patrocínios são combinados com o dono do portal pelo WhatsApp (citado no vídeo).
 - Sem posição à venda, a tela mostra `Nenhuma posição de publicidade disponível para venda neste portal no momento.`
+- Prazo de análise: quando o portal exige aprovação, depois de pago todo banner entra em análise do dono do portal antes de ir ao ar. O prazo depende do portal; a tela não informa prazo. **O que fazer:** acompanhe em `Banners Publicitários` o cartão `Em análise` (`esperando o portal aprovar`) e a situação de cada banner. Se demorar, fale com o portal.
 
 ## quando pedir ajuda
 
@@ -74,4 +75,4 @@ peça ajuda se a lista de posições não carregar ou se o pagamento confirmado 
 
 ## lacunas
 
-tela não validada no navegador nesta tarefa. Não há prazo de análise definido no código. Preço e períodos vêm da configuração do portal.
+tela não validada no navegador nesta tarefa. Preço e períodos vêm da configuração do portal.
