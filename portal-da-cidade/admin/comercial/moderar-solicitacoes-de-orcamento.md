@@ -31,7 +31,7 @@ Aqui você lê e aprova pedidos de orçamento enviados pelos visitantes. Reprova
 
 ## passos
 
-1. Na parte `Conteúdo` do menu, em `Orçamentos Online`, clique em `Todas as Solicitações`. [t=85] [guia=menu:/painel/orcamentos/categorias]
+1. Em `Conteúdo`, em `Orçamentos Online`, clique em `Todas as Solicitações`. [t=85] [guia=menu:/painel/orcamentos/categorias]
 2. Se quiser limitar o período, preencha `De`. [t=142] [guia=orcamentos-categorias.de]
 3. Se quiser limitar o fim do período, preencha `Até`. [t=142] [guia=orcamentos-categorias.ate]
 4. Na linha do pedido, clique em `Ver detalhes` (ícone de olho). [t=116] [guia=orcamentos-categorias.ver-detalhes]

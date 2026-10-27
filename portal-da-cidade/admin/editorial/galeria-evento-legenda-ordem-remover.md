@@ -36,7 +36,7 @@ Aqui você ajusta legendas e ordem ou remove fotos e vídeos da galeria de um ev
 
 1. Na seção `Conteúdo` do menu lateral, em `Guia Turístico / Eventos`, clique em `Eventos`. [t=50] [guia=menu:/painel/turismo/eventos]
 2. Na linha do evento, clique em `Editar`. [guia=eventos.editar]
-3. Na galeria, preencha `Legenda (aparece como alt no site)` junto à foto ou `Legenda deste vídeo` junto ao vídeo. [guia=galeria.legenda-item]
+3. Preencha `Legenda (aparece como alt no site)` na foto. No vídeo, use `Legenda deste vídeo`. [guia=galeria.legenda-item]
 4. Pressione Enter no campo da legenda. [guia=galeria.legenda-item]
 
 ### mudar ordem

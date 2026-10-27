@@ -34,7 +34,7 @@ aqui você baixa a carteira em Excel, CSV ou PDF, ou todos os cadastros em CSV.
 
 1. Na parte `Comercial` do menu da esquerda, clique em `Meus Clientes`. [t=10] [guia=menu:/painel/clientes]
 2. Escreva o nome, o documento ou o telefone em `Buscar por nome, documento ou telefone…`. [t=44] [guia=clientes.busca]
-3. Pressione Enter no campo de busca para carregar os resultados. [guia=clientes.busca]
+3. Pressione Enter no campo de busca. [guia=clientes.busca]
 4. Se quiser restringir por situação, escolha uma opção em `Filtrar por status`. [t=48] [guia=clientes.filtro-situacao]
 5. Clique em `Exportar`. [t=90] [guia=clientes.exportar]
 6. No menu de formatos que abre, veja as opções de exportação. [guia=clientes.exportar-menu]

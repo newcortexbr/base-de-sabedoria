@@ -34,7 +34,7 @@ aqui você muda o nome, a logo e o favicon, que é o ícone da aba do navegador.
 
 ### mudar nome e imagens
 
-1. Na parte `Sistema` do menu da esquerda, clique em `Configurações` para abrir as opções, se estiverem fechadas. [t=6] [guia=configuracoes.abrir-menu]
+1. Na parte `Sistema` do menu da esquerda, clique em `Configurações`. Só é preciso se as opções estiverem fechadas. [t=6] [guia=configuracoes.abrir-menu]
 2. Clique em `Configurações Gerais`. [t=9] [guia=menu:/painel/configuracoes]
 3. Em `Identidade`, preencha `Nome do portal`. [t=11] [guia=configuracoes.nome]
 4. Clique em `Salvar` ao lado do nome. [t=14] [guia=configuracoes.salvar-nome]

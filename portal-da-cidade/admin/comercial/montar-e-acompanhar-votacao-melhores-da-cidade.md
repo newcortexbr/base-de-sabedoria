@@ -33,7 +33,7 @@ Aqui você cria uma votação do Melhores da Cidade e abre o placar. Cada compet
 
 ## passos
 
-1. Na parte `Conteúdo` do menu, clique em `Melhores da Cidade`. [t=13] [guia=menu:/painel/melhores-da-cidade]
+1. Em `Conteúdo`, clique em `Melhores da Cidade`. [t=13] [guia=menu:/painel/melhores-da-cidade]
 2. Clique em `Criar votação`. [t=114] [guia=melhores.criar]
 3. Se quiser, preencha `Nome da votação (opcional)`. [t=120] [guia=melhores-nova.nome]
 4. Preencha `Começa em`. [t=122] [guia=melhores-nova.inicio]

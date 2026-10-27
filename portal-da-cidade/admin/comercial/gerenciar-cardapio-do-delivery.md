@@ -40,8 +40,8 @@ aqui você cadastra os produtos que o cliente pode pedir com entrega, com tamanh
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas]
-2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar]
-3. Desça até `Conteúdo da ficha` e, no cartão `Cardápio do delivery`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-cardapio-delivery] [t=22]
+2. Na linha da empresa, clique no lápis (`Editar`). [guia=guia-empresas.editar]
+3. Em `Conteúdo da ficha`, no cartão `Cardápio do delivery`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-cardapio-delivery] [t=22]
 4. À esquerda, em `Seções`, clique no botão `+` para criar uma seção. [guia=delivery-cardapio.nova-secao] [t=29]
 5. Escreva o nome da seção (por exemplo, Açaí). [guia=delivery-cardapio.nome-secao]
 6. Clique em `Criar`. [guia=delivery-cardapio.criar-secao]
@@ -49,7 +49,7 @@ aqui você cadastra os produtos que o cliente pode pedir com entrega, com tamanh
 8. Clique em `+ Novo produto`. [guia=delivery-cardapio.novo-produto] [t=45]
 9. Escreva o `Nome *` do produto. [guia=delivery-cardapio.nome] [t=45]
 10. Se quiser, escreva a `Descrição`. [guia=delivery-cardapio.descricao]
-11. Em `Preço base (R$) — deixe 0 se o preço é definido pelos tamanhos`, informe o valor. Deixe zero quando o preço depender do tamanho. [guia=delivery-cardapio.preco] [t=48]
+11. Informe o valor em `Preço base (R$) — deixe 0 se o preço é definido pelos tamanhos`. Deixe zero quando o preço depender do tamanho. [guia=delivery-cardapio.preco] [t=48]
 12. Marque `Disponível` para o produto aparecer na loja. [guia=delivery-cardapio.disponivel] [t=59]
 13. Marque `Destaque` se quiser mais visibilidade. [guia=delivery-cardapio.destaque] [t=61]
 14. Envie a foto do produto. [guia=delivery-cardapio.foto] [t=63]

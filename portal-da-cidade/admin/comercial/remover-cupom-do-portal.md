@@ -31,7 +31,7 @@ Aqui você apaga o cupom de uma empresa. A empresa continua cadastrada no Guia.
 
 ## passos
 
-1. Na parte `Conteúdo` do menu, em `Guia Comercial`, clique em `Cupons de Desconto`. [t=9] [guia=menu:/painel/cupons]
+1. Em `Conteúdo`, em `Guia Comercial`, clique em `Cupons de Desconto`. [t=9] [guia=menu:/painel/cupons]
 2. Clique em `Remover` na linha do cupom. [t=22] [guia=cupons.remover]
 3. Na janela que pergunta se deseja remover o cupom, clique em `Remover`. [guia=confirmacao.confirmar]
 

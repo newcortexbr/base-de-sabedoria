@@ -36,8 +36,8 @@ aqui você cria grupos de opções, como tamanho ou adicionais, para um produto 
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas]
-2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar]
-3. Desça até `Conteúdo da ficha` e, no cartão `Cardápio do delivery`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-cardapio-delivery]
+2. Na linha da empresa, clique no lápis (`Editar`). [guia=guia-empresas.editar]
+3. Em `Conteúdo da ficha`, no cartão `Cardápio do delivery`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-cardapio-delivery]
 4. Para tamanhos e adicionais, clique em `Editar` na linha do produto que você quer. Os grupos de opções só existem depois que o produto foi criado. [guia=delivery-cardapio.editar-produto]
 5. Em `Grupos de opções`, clique em `+ Novo grupo`. [guia=delivery-cardapio.novo-grupo] [t=95]
 6. Escreva o nome do grupo (por exemplo, Tamanho). [guia=delivery-cardapio.nome-grupo]

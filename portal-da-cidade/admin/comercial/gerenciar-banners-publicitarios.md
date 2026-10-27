@@ -31,7 +31,7 @@ Aqui você cadastra um banner no painel. Para tirar um banner do ar sem apagar, 
 
 ## passos
 
-1. Na parte `Conteúdo` do menu, clique em `Banners Publicitários`. [t=10] [guia=menu:/painel/guia/banners]
+1. Em `Conteúdo`, clique em `Banners Publicitários`. [t=10] [guia=menu:/painel/guia/banners]
 2. Clique em `+ Novo Banner`. [t=46] [guia=guia-banners.novo]
 3. Preencha `Título *`. [t=48] [guia=guia-banners-cadastrar.titulo]
 4. Envie a arte em `Imagem *`. [t=48] [guia=guia-banners-cadastrar.imagem]

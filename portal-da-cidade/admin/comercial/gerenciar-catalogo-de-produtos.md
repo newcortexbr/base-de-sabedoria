@@ -36,18 +36,18 @@ aqui você monta a vitrine de produtos, com foto e preço, de uma empresa do Gui
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas]
-2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar] [t=18]
-3. Desça até `Conteúdo da ficha` e, no cartão `Catálogo de produtos`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-catalogo] [t=21]
+2. Na linha da empresa, clique no lápis (`Editar`). [guia=guia-empresas.editar] [t=18]
+3. Em `Conteúdo da ficha`, no cartão `Catálogo de produtos`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-catalogo] [t=21]
 4. Escreva o nome da seção (por exemplo, Feminino). [guia=guia-empresas-catalogo.nome-secao] [t=85]
 5. Clique em `+ Adicionar seção`. [guia=guia-empresas-catalogo.adicionar-secao] [t=85]
-6. Clique na seção que você quer, na lista da esquerda. Cada seção tem a chave de publicar, as setas de ordem e o x para excluir. [guia=guia-empresas-catalogo.secao] [t=91]
+6. Clique na seção, na lista da esquerda. Cada seção tem chave de publicar, setas de ordem e x para excluir. [guia=guia-empresas-catalogo.secao] [t=91]
 7. Clique em `+ Novo produto`. [guia=guia-empresas-catalogo.novo-produto] [t=91]
 8. Escreva o `Título *` do produto. [guia=guia-empresas-catalogo.titulo] [t=93]
 9. Escreva a `Marca`. [guia=guia-empresas-catalogo.marca] [t=96]
 10. Escreva a `Descrição`. [guia=guia-empresas-catalogo.descricao] [t=96]
 11. Informe o `Preço (R$)`. [guia=guia-empresas-catalogo.preco] [t=99]
 12. Se quiser, escolha um `Destaque no produto (opcional)`: `Mais vendido`, `Oferta`, `Novo` ou `Recente`. [guia=guia-empresas-catalogo.destaque] [t=101]
-13. Em `Specs (uma por linha)`, escreva uma especificação por linha (por exemplo, tamanhos, tecido e cores para roupas; ano, quilometragem e combustível para veículos). [guia=guia-empresas-catalogo.specs] [t=105]
+13. Em `Specs (uma por linha)`, escreva uma especificação por linha. Exemplos: tamanhos, tecido e cores para roupas; ano, quilometragem e combustível para veículos. [guia=guia-empresas-catalogo.specs] [t=105]
 14. Em `+ Adicionar fotos`, selecione as imagens. Elas são enviadas ao salvar. [guia=galeria.adicionar-fotos] [t=115]
 15. Clique em `Salvar produto`. [guia=guia-empresas-catalogo.salvar] [t=122]
 

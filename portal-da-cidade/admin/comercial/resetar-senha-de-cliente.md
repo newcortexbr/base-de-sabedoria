@@ -34,7 +34,7 @@ aqui você escolhe uma senha nova para um cliente que já tem login próprio.
 
 1. Na parte `Comercial` do menu da esquerda, clique em `Meus Clientes`. [t=10] [guia=menu:/painel/clientes]
 2. Escreva o nome, o documento ou o telefone em `Buscar por nome, documento ou telefone…`. [t=44] [guia=clientes.busca]
-3. Pressione Enter no campo de busca para carregar os resultados. [guia=clientes.busca]
+3. Pressione Enter no campo de busca. [guia=clientes.busca]
 4. Na coluna `Ações`, clique na chave com a descrição `Resetar senha`. [t=61] [guia=clientes.resetar-senha]
 5. Na janela `Resetar senha —` seguida do nome do cliente, preencha `Nova senha` com pelo menos 6 caracteres. [guia=clientes.nova-senha]
 6. Clique em `Redefinir`. [guia=clientes.redefinir-senha]

@@ -38,7 +38,7 @@ aqui você muda o modelo, o texto, as cores e o tamanho da logo do rodapé.
 
 ### abrir a edição
 
-1. Na parte `Sistema` do menu da esquerda, clique em `Configurações` para abrir as opções, se estiverem fechadas. [t=5] [guia=configuracoes.abrir-menu]
+1. Na parte `Sistema` do menu da esquerda, clique em `Configurações`. Só é preciso se as opções estiverem fechadas. [t=5] [guia=configuracoes.abrir-menu]
 2. Clique em `Layout`. [t=7] [guia=menu:/painel/configuracoes/layout]
 3. Clique no cartão `Rodapé`. [t=9] [guia=configuracoes-layout.rodape]
 

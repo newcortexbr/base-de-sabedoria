@@ -36,7 +36,7 @@ aqui você encontra as quatro partes da aparência do portal.
 
 ## passos
 
-1. Na parte `Sistema` do menu da esquerda, clique em `Configurações` para abrir as opções, se estiverem fechadas. [t=14] [guia=configuracoes.abrir-menu]
+1. Na parte `Sistema` do menu da esquerda, clique em `Configurações`. Só é preciso se as opções estiverem fechadas. [t=14] [guia=configuracoes.abrir-menu]
 2. Clique em `Layout`. [t=16] [guia=menu:/painel/configuracoes/layout]
 
 ## resultado

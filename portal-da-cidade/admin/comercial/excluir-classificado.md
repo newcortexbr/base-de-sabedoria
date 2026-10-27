@@ -29,7 +29,7 @@ Aqui você apaga permanentemente um anúncio classificado.
 
 ## passos
 
-1. Na parte `Conteúdo` do menu, em `Classificados`, clique em `Listar Anúncios`. [t=18] [guia=menu:/painel/classificados]
+1. Em `Conteúdo`, em `Classificados`, clique em `Listar Anúncios`. [t=18] [guia=menu:/painel/classificados]
 2. Digite o título ou a descrição em `Buscar por título ou descrição...`. [t=31] [guia=classificados.busca]
 3. Clique em `Filtrar`. [guia=classificados.filtrar]
 4. Clique em `Excluir` na linha do anúncio. [t=52] [guia=classificados.excluir]

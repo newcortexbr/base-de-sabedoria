@@ -35,7 +35,7 @@ Aqui você vê as visualizações registradas para uma vaga, a média por dia e 
 
 ## passos
 
-1. Na parte `Conteúdo` do menu, em `Vagas de Emprego`, clique em `Listar Vagas`. [t=18] [guia=menu:/painel/vagas]
+1. Em `Conteúdo`, em `Vagas de Emprego`, clique em `Listar Vagas`. [t=18] [guia=menu:/painel/vagas]
 2. Digite o cargo ou a empresa em `Buscar por cargo ou empresa...`. [t=34] [guia=vagas.busca]
 3. Clique em `Filtrar`. [t=36] [guia=vagas.filtrar]
 4. Clique em `Insights` na linha da vaga. [t=42] [guia=vagas.insights]

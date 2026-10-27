@@ -31,7 +31,7 @@ Aqui você pausa ou retoma as importações de uma fonte pela lista de RSS.
 ## passos
 
 1. Na seção `Conteúdo` do menu lateral, em `Notícias Automáticas`, clique em `Fontes de RSS`. [t=9] [guia=menu:/painel/noticias/fontes-rss]
-2. Na linha da fonte, clique na chave da coluna `Status`, cujo aviso é `Clique para desativar` quando ligada e `Clique para ativar` quando desligada. [t=17] [guia=fontes-rss.status]
+2. Clique na chave da coluna `Status`; o aviso é `Clique para desativar` quando ligada e `Clique para ativar` quando desligada. [t=17] [guia=fontes-rss.status]
 
 ## resultado
 

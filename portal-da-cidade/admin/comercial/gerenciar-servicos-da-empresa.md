@@ -34,8 +34,8 @@ aqui você monta a tabela de serviços e preços de uma empresa do Guia.
 ## passos
 
 1. No menu da esquerda, na parte `Conteúdo`, clique em `Guia Comercial` e depois em `Listar Empresas`. [guia=menu:/painel/guia/empresas]
-2. Na linha da empresa que você quer, clique no lápis (`Editar`). [guia=guia-empresas.editar] [t=17]
-3. Desça até `Conteúdo da ficha` e, no cartão `Serviços`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-servicos] [t=20]
+2. Na linha da empresa, clique no lápis (`Editar`). [guia=guia-empresas.editar] [t=17]
+3. Em `Conteúdo da ficha`, no cartão `Serviços`, clique em `Gerenciar`. O formulário da empresa é salvo antes de abrir a tela. [guia=guia-empresas-editar.gerenciar-servicos] [t=20]
 4. Escreva o nome da seção (por exemplo, Consultas). [guia=guia-empresas-servicos.nome-secao] [t=33]
 5. Clique em `Criar seção`. [guia=guia-empresas-servicos.criar-secao] [t=36]
 6. Na seção, clique em `Adicionar serviço`. [guia=guia-empresas-servicos.adicionar-servico] [t=54]

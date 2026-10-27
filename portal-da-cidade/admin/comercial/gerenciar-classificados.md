@@ -30,7 +30,7 @@ Aqui você encontra um anúncio classificado e abre a edição. Vagas de emprego
 
 ## passos
 
-1. Na parte `Conteúdo` do menu, em `Classificados`, clique em `Listar Anúncios`. [t=18] [guia=menu:/painel/classificados]
+1. Em `Conteúdo`, em `Classificados`, clique em `Listar Anúncios`. [t=18] [guia=menu:/painel/classificados]
 2. Digite o título ou a descrição em `Buscar por título ou descrição...`. [t=31] [guia=classificados.busca]
 3. Se quiser, escolha uma opção em `Todos os status`. [t=31] [guia=classificados.situacao]
 4. Clique em `Filtrar`. [guia=classificados.filtrar]

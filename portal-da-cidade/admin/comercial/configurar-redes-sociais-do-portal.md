@@ -32,7 +32,7 @@ aqui você altera o WhatsApp e os perfis sociais exibidos pelo portal.
 
 ## passos
 
-1. Na parte `Sistema` do menu da esquerda, clique em `Configurações` para abrir as opções, se estiverem fechadas. [t=6] [guia=configuracoes.abrir-menu]
+1. Na parte `Sistema` do menu da esquerda, clique em `Configurações`. Só é preciso se as opções estiverem fechadas. [t=6] [guia=configuracoes.abrir-menu]
 2. Clique em `Configurações Gerais`. [t=9] [guia=menu:/painel/configuracoes]
 3. Em `Redes Sociais`, preencha `WhatsApp` com DDD e número. [t=43] [guia=configuracoes.whatsapp]
 4. Preencha `Instagram` com o @usuário ou link do perfil. [t=45] [guia=configuracoes.instagram]

@@ -39,7 +39,7 @@ aqui você muda o nome, o ícone ou a situação de uma categoria do Guia.
 6. Ajuste `Aparece no formulário de Orçamento`, se necessário. [guia=guia-categorias.aceita-orcamento]
 7. Escolha a `Cor`, se necessário. [guia=guia-categorias.cor]
 8. Clique em `Salvar`. [guia=guia-categorias.salvar]
-9. Se aparecer a confirmação de desativação, clique em `Desativar` para confirmar a retirada da categoria e das empresas dela do Guia. [guia=confirmacao.confirmar]
+9. Se aparecer a confirmação de desativação, clique em `Desativar`. A categoria e as empresas dela saem do Guia. [guia=confirmacao.confirmar]
 
 ## resultado
 A categoria fica com as mudanças.

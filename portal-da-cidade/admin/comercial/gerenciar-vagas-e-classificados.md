@@ -31,7 +31,7 @@ Aqui você encontra as vagas de emprego e abre a edição. Para mudar o preço c
 
 ## passos
 
-1. Na parte `Conteúdo` do menu, em `Vagas de Emprego`, clique em `Listar Vagas`. [t=18] [guia=menu:/painel/vagas]
+1. Em `Conteúdo`, em `Vagas de Emprego`, clique em `Listar Vagas`. [t=18] [guia=menu:/painel/vagas]
 2. Digite o cargo ou a empresa em `Buscar por cargo ou empresa...`. [t=34] [guia=vagas.busca]
 3. Se quiser, escolha a `Área`. [t=34] [guia=vagas.area]
 4. Se quiser, escolha uma opção em `Todos os status`. [t=36] [guia=vagas.situacao]

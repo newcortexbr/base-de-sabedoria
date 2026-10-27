@@ -33,7 +33,7 @@ Aqui você cadastra fontes prontas do G1 para importar notícias. As opções na
 
 1. Na seção `Conteúdo` do menu lateral, em `Notícias Automáticas`, clique em `Fontes de RSS`. [t=9] [guia=menu:/painel/noticias/fontes-rss]
 2. Clique em `+ Cadastrar RSS`. [t=20] [guia=fontes-rss.cadastrar]
-3. Na aba `Escolher da lista`, já aberta, marque as fontes que deseja cadastrar; para notícias locais, procure seu estado ou região no grupo regional. [t=63] [guia=fontes-rss-cadastrar.lista]
+3. Na aba `Escolher da lista`, marque as fontes que deseja cadastrar; para notícias locais, procure seu estado ou região no grupo regional. [t=63] [guia=fontes-rss-cadastrar.lista]
 4. Clique em `Criar 1 fonte` ou `Criar N fontes`, conforme a quantidade marcada. [t=65] [guia=fontes-rss-cadastrar.criar]
 5. Após conferir o resultado, clique em `Ver na lista de fontes →`, quando houver fontes criadas. [guia=fontes-rss-cadastrar.ver-lista]
 

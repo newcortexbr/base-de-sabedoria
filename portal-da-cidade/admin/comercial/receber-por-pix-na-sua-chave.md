@@ -36,7 +36,7 @@ Aqui você cadastra ou troca a chave Pix e as instruções que o cliente vê par
 1. No menu da esquerda, na parte `Sistema`, abra `Configurações`. [t=11] [guia=sidebar.grupo-configuracoes]
 2. Clique em `Cobrança`. [t=14] [guia=menu:/painel/configuracoes/cobranca]
 3. No quadro `Recebimento por Pix`, clique em `cadastrar com autenticador` ou `trocar com autenticador`, junto de `Chave Pix`. [t=174] [guia=pix.chave]
-4. Se abrir `Proteja a sua chave Pix`, leia o QR Code com o aplicativo autenticador do celular. Se já estiver ativo, vá direto ao campo `Nova chave Pix`. [t=183] [guia=autenticador.qr]
+4. Se abrir `Proteja a sua chave Pix`, leia o QR Code com o autenticador do celular. Se já estiver ativo, vá direto a `Nova chave Pix`. [t=183] [guia=autenticador.qr]
 5. Na ativação, preencha `Código do autenticador` com os 6 números do aplicativo. [t=186] [guia=autenticador.codigo]
 6. Na ativação, clique em `Ativar`. [t=188] [guia=autenticador.ativar]
 7. Na tela dos códigos de reserva, clique em `Baixar`. Guarde o arquivo em lugar seguro. [t=197] [guia=autenticador.baixar-reservas]

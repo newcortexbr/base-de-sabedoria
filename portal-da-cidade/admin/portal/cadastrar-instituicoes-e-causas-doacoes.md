@@ -37,7 +37,7 @@ Cadastre uma instituição para aparecer na página de Doações. Se a causa ain
 3. Preencha `Nome da instituição *`.  [t=43] [guia=doacoes.nome]
 4. Escolha `Causa *` na lista.  [t=43] [guia=doacoes.causa]
 5. Se quiser, preencha `Resumo do card`.  [t=46] [guia=doacoes.resumo]
-6. Em `Foto de capa do card *`, clique em `Clique para escolher a imagem` para selecionar a capa.  [t=58] [guia=doacoes.capa]
+6. Em `Foto de capa do card *`, clique em `Clique para escolher a imagem`.  [t=58] [guia=doacoes.capa]
 7. Se quiser, selecione uma imagem em `Logo`.  [t=60] [guia=doacoes.logo]
 8. Se quiser, preencha `Frase de destaque`.  [t=65] [guia=doacoes.frase]
 9. Preencha `Descrição completa *`.  [t=69] [guia=doacoes.descricao]

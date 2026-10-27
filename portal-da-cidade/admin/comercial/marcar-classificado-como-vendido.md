@@ -30,7 +30,7 @@ Aqui você tira do site um anúncio que já foi vendido sem apagar o texto, as f
 
 ## passos
 
-1. Na parte `Conteúdo` do menu, em `Classificados`, clique em `Listar Anúncios`. [t=18] [guia=menu:/painel/classificados]
+1. Em `Conteúdo`, em `Classificados`, clique em `Listar Anúncios`. [t=18] [guia=menu:/painel/classificados]
 2. Digite o título em `Buscar por título ou descrição...`. [t=31] [guia=classificados.busca]
 3. Clique em `Filtrar`. [guia=classificados.filtrar]
 4. Na linha de um anúncio ativo, clique em `Marcar como vendido`. [t=49] [guia=classificados.vendido]

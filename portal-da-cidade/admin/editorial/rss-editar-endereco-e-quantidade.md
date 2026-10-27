@@ -32,7 +32,7 @@ Aqui você ajusta a quantidade importada e, em fonte própria, o nome e o endere
 ## passos
 
 1. Na seção `Conteúdo` do menu lateral, em `Notícias Automáticas`, clique em `Fontes de RSS`. [t=9] [guia=menu:/painel/noticias/fontes-rss]
-2. Na linha da fonte, clique no lápis `Editar`; para origem `Plataforma`, o aviso é `Configurar (título e URL são da plataforma)`. [t=75] [guia=fontes-rss.editar]
+2. Na linha da fonte, clique no lápis `Editar`; na origem `Plataforma`, o aviso é `Configurar (título e URL são da plataforma)`. [t=75] [guia=fontes-rss.editar]
 3. Se a fonte for própria e precisar mudar o nome, altere `Título *`. [guia=fontes-rss-cadastrar.titulo]
 4. Se a fonte for própria e precisar mudar o endereço, altere `URL do RSS *`. [guia=fontes-rss-cadastrar.url]
 5. Escolha `Quantidade de notícias por vez *`. [t=80] [guia=fontes-rss-cadastrar.quantidade]

@@ -34,7 +34,7 @@ Aqui você aprova e publica uma vaga que ficou reprovada por engano.
 
 ## passos
 
-1. Na parte `Conteúdo` do menu, em `Vagas de Emprego`, clique em `Listar Vagas`. [t=18] [guia=menu:/painel/vagas]
+1. Em `Conteúdo`, em `Vagas de Emprego`, clique em `Listar Vagas`. [t=18] [guia=menu:/painel/vagas]
 2. No filtro `Todos os status`, escolha `Reprovada`. [guia=vagas.situacao]
 3. Clique em `Filtrar`. [guia=vagas.filtrar]
 4. Na coluna `Status` da vaga, clique em `reprovada`. [guia=vagas.alterar-status]
