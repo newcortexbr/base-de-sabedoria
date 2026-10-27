@@ -53,4 +53,4 @@ Aparece `Denúncia ignorada` e ela passa para `Ignoradas`. O item segue no ar.
 
 ## lacunas
 
-- Conferido por leitura do código no HEAD e8f43702 (wt-suporte-tool). Sem execução do produto nem validação visual.
+- Conferido por leitura do código no HEAD 66d38db2 (wt-suporte-tool). Sem execução do produto nem validação visual.

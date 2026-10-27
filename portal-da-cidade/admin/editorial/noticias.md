@@ -48,6 +48,10 @@ Aqui você cadastra uma notícia completa pelo painel. A publicação imediata, 
 15. Em `Status`, escolha `Publicado`. [t=92] [guia=noticias-cadastrar.status]
 16. Clique em `Adicionar`. [t=98] [guia=noticias-cadastrar.salvar]
 
+## começar pela lista de notícias
+
+Na tela `Notícias`, o botão `+ Cadastrar Notícia` abre o mesmo formulário. [guia=noticias.cadastrar]
+
 ## resultado
 
 A tela mostra `Notícia cadastrada` e volta para a lista. Com `Publicado` e sem agendamento, a notícia pode ser consultada publicamente.

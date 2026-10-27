@@ -16,6 +16,7 @@ tags:
   - no ar
   - plano
   - desbloquear
+  - cobrar
 status: rascunho-documental
 revisado_em: 2026-10-27
 validacao: docs-e-codigo
@@ -66,5 +67,5 @@ Aparece `Responsável bloqueado` e a denúncia passa para `Resolvidas`.
 
 ## lacunas
 
-- Conferido por leitura do código no HEAD e8f43702 (wt-suporte-tool). Sem execução do produto nem validação visual.
+- Conferido por leitura do código no HEAD 66d38db2 (wt-suporte-tool). Sem execução do produto nem validação visual.
 - Se a cobrança deve parar com o bloqueio é decisão do dono; o portal não define.

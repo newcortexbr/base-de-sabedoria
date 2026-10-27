@@ -33,8 +33,9 @@ Aqui você testa uma chave Asaas que já está cadastrada, sem alterar a opção
 
 1. No menu da esquerda, na parte `Sistema`, abra `Configurações`. [t=11] [guia=sidebar.grupo-configuracoes]
 2. Clique em `Cobrança`. [t=14] [guia=menu:/painel/configuracoes/cobranca]
-3. Confira o estado no quadro `Conta Asaas`. [t=107] [guia=cobranca.estado]
-4. Clique em `Testar conexão`. [t=124] [guia=cobranca.testar]
+3. Vá até o quadro `Conta Asaas`. [t=107] [guia=cobranca.conta-asaas]
+4. Confira o selo de estado. [guia=cobranca.estado]
+5. Clique em `Testar conexão`. [t=124] [guia=cobranca.testar]
 
 ## resultado
 

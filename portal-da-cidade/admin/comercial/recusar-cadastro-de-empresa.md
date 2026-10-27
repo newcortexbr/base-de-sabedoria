@@ -55,4 +55,4 @@ A empresa fica `Reprovado` e o cliente recebe por e-mail o motivo que você escr
 
 ## lacunas
 
-- Conferido por leitura do código no HEAD e8f43702. Sem recusa real nem verificação da entrega do e-mail.
+- Conferido por leitura do código no HEAD 66d38db2. Sem recusa real nem verificação da entrega do e-mail.

@@ -64,5 +64,5 @@ Empresas pendentes também aparecem em `Guia Comercial` > `Listar Empresas`, fil
 
 ## lacunas
 
-- Conferido por leitura do código no HEAD e8f43702. Sem execução nem validação visual.
+- Conferido por leitura do código no HEAD 66d38db2. Sem execução nem validação visual.
 - Cadastro de parceiro: não encontrei aprovação de cadastro; o que espera o dono é o pedido de troca de plano. Não verificado a fundo.

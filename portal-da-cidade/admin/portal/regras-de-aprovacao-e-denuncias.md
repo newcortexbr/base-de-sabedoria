@@ -79,5 +79,5 @@ Cada chave salva sozinha ao ser clicada. Se o salvamento falhar, a chave volta �
 
 ## lacunas
 
-- Conferido por leitura do código no HEAD e8f43702 (wt-suporte-tool). Sem execução do produto nem validação visual.
+- Conferido por leitura do código no HEAD 66d38db2 (wt-suporte-tool). Sem execução do produto nem validação visual.
 - Reaprovação após edição só verificada para vagas e anúncios; empresa, evento e banner não verificados.

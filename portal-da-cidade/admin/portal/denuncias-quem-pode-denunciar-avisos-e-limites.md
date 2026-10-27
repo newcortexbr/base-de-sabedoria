@@ -53,6 +53,6 @@ As denúncias novas aparecem em `Pendentes`.
 
 ## lacunas
 
-- Conferido por leitura do código no HEAD e8f43702 (wt-suporte-tool). Sem execução do produto nem validação visual.
+- Conferido por leitura do código no HEAD 66d38db2 (wt-suporte-tool). Sem execução do produto nem validação visual.
 - A taxa 10/hora e o captcha vêm da resolução anterior; o valor em settings não foi relido nesta rodada.
 - Por quanto tempo as imagens ficam guardadas não está definido.

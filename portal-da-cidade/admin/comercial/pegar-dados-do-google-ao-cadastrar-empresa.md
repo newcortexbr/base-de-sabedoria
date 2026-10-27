@@ -32,9 +32,10 @@ aqui você cadastra (ou completa) uma empresa do Guia trazendo nome, endereço, 
 3. Na faixa `Sua empresa já está no Google?`, clique em `Pegar dados do Google Meu Negócio`. [guia=google.abrir]
 4. Na janela, escreva o nome da empresa (pelo menos 3 letras) e clique em `Buscar`. [guia=google.nome] [guia=google.buscar]
 5. Clique na empresa certa da lista. O portal nunca escolhe sozinho, nem quando aparece uma só. [guia=google.resultado]
-6. Se você já tinha preenchido algum campo, escolha `Usar os dados do Google` ou `Manter os meus e preencher só o que está vazio`.
-7. Confira os campos marcados em verde, complete `Categoria *`, `Subcategoria *` e o que faltou. [guia=empresa-editor:categoria]
-8. Clique em `Cadastrar Empresa` (ou salve a edição). [guia=empresa-editor.salvar]
+6. Confira os campos marcados em verde, complete `Categoria *`, `Subcategoria *` e o que faltou. [guia=empresa-editor:categoria]
+7. Clique em `Cadastrar Empresa` (ou salve a edição). [guia=empresa-editor.salvar]
+
+Se você já tinha preenchido algum campo, depois do passo 5 a tela pergunta: escolha `Usar os dados do Google` ou `Manter os meus e preencher só o que está vazio`.
 
 ## resultado
 

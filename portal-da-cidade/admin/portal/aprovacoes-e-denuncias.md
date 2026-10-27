@@ -37,8 +37,9 @@ Confira o que os clientes enviaram e libere para o site. Só passa por aqui o qu
 1. No começo do menu da esquerda, clique em `Aprovações e Denúncias`. [guia=menu:/painel/aprovacoes]
 2. Clique na aba `Aprovações`. [t=54] [guia=aprovacoes-aba:aprovacoes]
 3. No envio que deseja conferir, clique em `Ver detalhe`. [t=58] [guia=aprovacoes.ver-detalhe]
-4. Dentro do detalhe, clique em `Aprovar`. [guia=aprovacoes.aprovar-detalhe] Para só fechar, clique em `Fechar`. [guia=aprovacoes.fechar-detalhe]
-5. Ou aprove direto na linha do envio, em `Aprovar`. [t=64] [guia=aprovacoes.aprovar]
+4. Dentro do detalhe, clique em `Aprovar`. [guia=aprovacoes.aprovar-detalhe]
+5. Para só fechar o detalhe, clique em `Fechar`. [guia=aprovacoes.fechar-detalhe]
+6. Ou aprove direto na linha do envio, em `Aprovar`. [t=64] [guia=aprovacoes.aprovar]
 
 ## resultado
 
@@ -81,7 +82,7 @@ Aparece o aviso `Publicação aprovada`, o envio sai da lista e o número da aba
 ## fontes
 
 - frontend/src/app/painel/aprovacoes/AprovacoesClient.tsx:120-142,244-275,380-412
-- frontend/src/components (Sidebar) badge = fila + denúncias pendentes (resolução A1)
+- frontend/src/components/painel/Sidebar.tsx:332-342,385 (número do menu = fila + denúncias pendentes; recarrega a cada troca de página)
 - backend/portais/moderacao.py:42-76 (ISENTOS_DE_APROVACAO, admin publica direto)
 - backend/guia/moderacao.py:101-131; anuncios/moderacao.py:229-234; classificados/moderacao.py:70-90,246-251; turismo/moderacao.py:131-136; portais/moderacao_banner.py:116
 - backend/portais/views_admin.py:936-976 (sem checagem de status, sem histórico)
@@ -89,6 +90,5 @@ Aparece o aviso `Publicação aprovada`, o envio sai da lista e o número da aba
 
 ## lacunas
 
-- Conferido por leitura do código no HEAD e8f43702 (wt-suporte-tool). Sem execução do produto nem validação visual.
+- Conferido por leitura do código no HEAD 66d38db2 (wt-suporte-tool). Sem execução do produto nem validação visual.
 - Limite do plano verificado para vagas e anúncios; para empresa, evento e banner não verificado.
-- Sidebar.tsx não relido nesta rodada; contagem do menu vem da resolução anterior.

@@ -64,17 +64,17 @@ Só há botão `Denunciar` no Guia Comercial, em Vagas, em Classificados e em Ev
 - `Motivo` é um destes: Golpe ou fraude; Informação falsa ou enganosa; Conteúdo ofensivo; Produto ou serviço proibido; Spam ou duplicado; Outro.
 - `Descrição do denunciante` mostra `—` quando a pessoa não escreveu nada; escrever é opcional.
 - As imagens anexadas abrem em outra aba, onde podem ser salvas. Não há botão para baixar todas.
-- Se o item foi apagado depois, o nome e o responsável continuam aparecendo, porque foram guardados na denúncia.
+- `Item não existe mais` aparece no lugar do link quando o item foi apagado depois da denúncia (pelo autor ou por alguém do portal). O nome e o responsável continuam aparecendo, porque foram guardados na denúncia.
 - `Ver página denunciada` abre o site em outra aba. Se o item estiver pausado, pendente ou bloqueado, a página pode mostrar "não encontrada".
 - `Voltar para Denúncias` volta à lista com os filtros no começo (`Pendentes` e `Todos`).
+- Depois de decidida, a denúncia mostra quando foi decidida e por quem: o nome do administrador que decidiu (ou o e-mail, se não houver nome).
 
 ## fontes
 
 - frontend/src/app/painel/denuncias/ListaDeDenuncias.tsx:12-18,42-47,66-98
-- frontend/src/app/painel/denuncias/[id]/page.tsx:60,93-140
+- frontend/src/app/painel/denuncias/[id]/page.tsx:60,78 (voltar),93-140 (:98 Item não existe mais, :105 Item removido, :139-140 decidida em/por)
 - backend/denuncias/alvos.py (ALVOS, rotulo_responsavel); models.py:17,44-59; serializers.py:10; servicos.py:63-86
 
 ## lacunas
 
-- Conferido por leitura do código no HEAD e8f43702 (wt-suporte-tool). Sem execução do produto nem validação visual.
-- O texto exato do link de voltar e o rótulo "Item removido" vêm da resolução anterior; não relidos linha a linha.
+- Conferido por leitura do código no HEAD 66d38db2 (wt-suporte-tool). Sem execução do produto nem validação visual.

@@ -17,6 +17,7 @@ tags:
   - filtrar
   - numeros
   - ver
+  - lote
 status: rascunho-documental
 revisado_em: 2026-10-27
 validacao: docs-e-codigo
@@ -58,5 +59,5 @@ Você vê os envios esperando, do mais antigo para o mais novo.
 
 ## lacunas
 
-- Conferido por leitura do código no HEAD e8f43702 (wt-suporte-tool). Sem execução do produto nem validação visual.
+- Conferido por leitura do código no HEAD 66d38db2 (wt-suporte-tool). Sem execução do produto nem validação visual.
 - Defeito: decidir itens e depois `Carregar mais` pula um item por decisão (a página seguinte é pedida sobre a lista do servidor já encolhida).

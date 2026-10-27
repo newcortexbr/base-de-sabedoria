@@ -36,7 +36,7 @@ Libere de novo o responsável bloqueado.
 3. No filtro `Status`, escolha `Resolvidas`. [guia=denuncias.filtro-status]
 4. Clique na denúncia que gerou o bloqueio. [guia=denuncias.abrir]
 5. Clique em `Desfazer bloqueio`. [guia=denuncias.desfazer-bloqueio]
-6. Na confirmação, clique em `Desbloquear`. [guia=confirmacao.confirmar]
+6. Na confirmação `Desfazer o bloqueio? O que estava publicado volta ao ar.`, clique em `Desbloquear`. [guia=confirmacao.confirmar]
 
 ## resultado
 
@@ -54,4 +54,4 @@ Aparece `Bloqueio desfeito`. O que saiu do ar pelo bloqueio volta ao ar, e, sem 
 
 ## lacunas
 
-- Conferido por leitura do código no HEAD e8f43702 (wt-suporte-tool). Sem execução do produto nem validação visual.
+- Conferido por leitura do código no HEAD 66d38db2 (wt-suporte-tool). Sem execução do produto nem validação visual.

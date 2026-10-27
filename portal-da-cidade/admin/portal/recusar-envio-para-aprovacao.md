@@ -39,6 +39,8 @@ Recuse um envio e diga ao cliente o que corrigir.
 4. Escreva o motivo. [guia=aprovacoes.motivo]
 5. Clique em `Confirmar recusa`. [guia=aprovacoes.confirmar-recusa]
 
+Também dá para recusar de dentro do detalhe: clique em `Ver detalhe` e depois em `Recusar`. [guia=aprovacoes.recusar-detalhe]
+
 ## resultado
 
 Aparece `Publicação recusada`, o envio sai da lista e o cliente recebe por e-mail o motivo que você escreveu, com o link para a área dele.
@@ -60,5 +62,5 @@ Aparece `Publicação recusada`, o envio sai da lista e o cliente recebe por e-m
 
 ## lacunas
 
-- Conferido por leitura do código no HEAD e8f43702 (wt-suporte-tool). Sem execução do produto nem validação visual.
+- Conferido por leitura do código no HEAD 66d38db2 (wt-suporte-tool). Sem execução do produto nem validação visual.
 - Como cada tipo é reenviado pelo cliente não foi verificado; banner não tem reenvio.

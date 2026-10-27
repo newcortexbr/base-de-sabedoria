@@ -4,9 +4,9 @@
   "area-do-cliente": 92,
   "dados-pj": 14,
   "extrator-maps": 21,
-  "portal-da-cidade": 272
+  "portal-da-cidade": 279
  },
- "total": 399,
+ "total": 406,
  "artigos": [
   {
    "id": "ac-ativar-conta-pelo-convite",
@@ -5846,8 +5846,8 @@
   },
   {
    "id": "aprovar-cadastro-de-empresa",
-   "titulo": "aprovar o cadastro de empresa feito pelo próprio cliente",
-   "objetivo": "aqui você libera ou recusa a empresa que o próprio cliente cadastrou no Guia Comercial. Enquanto você não aprova, ela não aparece no site.",
+   "titulo": "aprovar ou recusar o cadastro de empresa feito pelo cliente (quanto tempo leva)",
+   "objetivo": "Libere a empresa que o próprio cliente cadastrou no Guia Comercial. Enquanto você não aprova, ela não aparece no site.",
    "publico": [
     "admin"
    ],
@@ -5857,37 +5857,45 @@
    "tipos": [],
    "tags": [
     "aprovar",
+    "recusar",
     "empresa",
     "guia",
     "cadastro",
-    "recusar",
+    "autocadastro",
     "pendente",
-    "aprovacao"
+    "aprovacao",
+    "prazo",
+    "conta"
    ],
    "videos": [
     "JYDoZB_vyX8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "aprovar",
+    "recusar",
     "cadastro",
     "empresa",
     "feito",
     "pelo",
-    "proprio",
     "cliente",
+    "quanto",
+    "tempo",
+    "leva",
     "aprovacoes",
     "guia",
-    "recusar",
+    "autocadastro",
     "pendente",
     "aprovacao",
-    "voce",
-    "libera",
-    "recusa",
+    "prazo",
+    "conta",
+    "libere",
+    "proprio",
     "cadastrou",
     "comercial",
     "enquanto",
+    "voce",
     "aprova",
     "ela",
     "aparece",
@@ -6150,7 +6158,7 @@
     "JdJr7pXVx98"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "cadastrar",
     "empresa",
@@ -8011,6 +8019,39 @@
    "caminho": "portal-da-cidade/admin/comercial/excluir-categoria-do-guia.md"
   },
   {
+   "id": "excluir-categoria-ou-subcategoria-de-classificados",
+   "titulo": "excluir categoria ou subcategoria de Classificados",
+   "objetivo": "aqui você apaga uma categoria ou subcategoria de Classificados.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "classificados",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "tags": [
+    "excluir",
+    "categoria",
+    "subcategoria",
+    "classificado"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "excluir",
+    "categoria",
+    "subcategoria",
+    "classificados",
+    "aplica",
+    "classificado",
+    "voce",
+    "apaga"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/comercial/excluir-categoria-ou-subcategoria-de-classificados.md"
+  },
+  {
    "id": "excluir-classificado",
    "titulo": "excluir um anúncio classificado",
    "objetivo": "Aqui você apaga permanentemente um anúncio classificado.",
@@ -8128,6 +8169,39 @@
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/comercial/excluir-empresa-do-guia.md"
+  },
+  {
+   "id": "excluir-subcategoria-do-guia",
+   "titulo": "excluir uma subcategoria do Guia",
+   "objetivo": "aqui você apaga uma subcategoria do Guia Comercial.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "guia",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "tags": [
+    "excluir",
+    "subcategoria",
+    "guia",
+    "empresa"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "excluir",
+    "subcategoria",
+    "guia",
+    "aplica",
+    "empresa",
+    "voce",
+    "apaga",
+    "comercial"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/comercial/excluir-subcategoria-do-guia.md"
   },
   {
    "id": "excluir-vaga",
@@ -9893,6 +9967,60 @@
    "caminho": "portal-da-cidade/admin/comercial/pagar-comissao-de-parceiro-por-fora.md"
   },
   {
+   "id": "pegar-dados-do-google-ao-cadastrar-empresa",
+   "titulo": "cadastrar empresa no Guia pegando os dados do Google",
+   "objetivo": "aqui você cadastra (ou completa) uma empresa do Guia trazendo nome, endereço, telefone, site, horários e localização do Google, sem digitar tudo.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "guia",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "tags": [
+    "google maps",
+    "empresa",
+    "guia",
+    "cadastro",
+    "importar",
+    "endereco",
+    "horario",
+    "foto"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "cadastrar",
+    "empresa",
+    "guia",
+    "pegando",
+    "dados",
+    "google",
+    "aplica",
+    "maps",
+    "cadastro",
+    "importar",
+    "endereco",
+    "horario",
+    "foto",
+    "voce",
+    "cadastra",
+    "completa",
+    "trazendo",
+    "nome",
+    "telefone",
+    "site",
+    "horarios",
+    "localizacao",
+    "sem",
+    "digitar",
+    "tudo"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/comercial/pegar-dados-do-google-ao-cadastrar-empresa.md"
+  },
+  {
    "id": "admin-publicar-vaga-recusada",
    "titulo": "publicar uma vaga que eu recusei",
    "objetivo": "Aqui você aprova e publica uma vaga que ficou reprovada por engano.",
@@ -9999,41 +10127,45 @@
   },
   {
    "id": "recusar-cadastro-de-empresa",
-   "titulo": "recusar o cadastro de uma empresa",
-   "objetivo": "Aqui você recusa uma empresa pendente e informa ao cliente o que precisa corrigir.",
+   "titulo": "recusar o cadastro de uma empresa (motivo enviado ao cliente)",
+   "objetivo": "Recuse uma empresa pendente e diga ao cliente o que corrigir.",
    "publico": [
     "admin"
    ],
    "produto": null,
-   "modulo": "guia",
-   "aba": "nao-se-aplica",
+   "modulo": "aprovações",
+   "aba": "Aprovações",
    "tipos": [],
    "tags": [
     "recusar",
     "empresa",
     "guia",
     "cadastro",
+    "autocadastro",
     "pendente",
-    "aprovacao"
+    "aprovacao",
+    "desfazer"
    ],
    "videos": [
     "JYDoZB_vyX8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "recusar",
     "cadastro",
     "empresa",
+    "motivo",
+    "enviado",
+    "cliente",
+    "aprovacoes",
     "guia",
-    "aplica",
+    "autocadastro",
     "pendente",
     "aprovacao",
-    "voce",
-    "recusa",
-    "informa",
-    "cliente",
-    "precisa",
+    "desfazer",
+    "recuse",
+    "diga",
     "corrigir"
    ],
    "base": "portal-da-cidade",
@@ -11276,6 +11408,39 @@
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/editorial/eventos.md"
+  },
+  {
+   "id": "excluir-categoria-de-artigos",
+   "titulo": "excluir uma categoria de Artigos",
+   "objetivo": "aqui você apaga uma categoria de Artigos.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "Artigos",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "tags": [
+    "excluir",
+    "categoria",
+    "artigo",
+    "remover"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "excluir",
+    "categoria",
+    "artigos",
+    "aplica",
+    "artigo",
+    "remover",
+    "voce",
+    "apaga"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/editorial/excluir-categoria-de-artigos.md"
   },
   {
    "id": "galeria-evento-legenda-ordem-remover",
@@ -12883,8 +13048,8 @@
   },
   {
    "id": "aprovacoes-e-denuncias",
-   "titulo": "aprovar conteúdo de clientes e ver denúncias",
-   "objetivo": "Confira os envios dos clientes antes de aprová-los para publicação.",
+   "titulo": "aprovar conteúdo de clientes (fila de aprovação) e ver denúncias",
+   "objetivo": "Confira o que os clientes enviaram e libere para o site. Só passa por aqui o que foi enviado com `Exigir minha aprovação antes de publicar` ligado.",
    "publico": [
     "admin"
    ],
@@ -12895,9 +13060,11 @@
    "tags": [
     "aprovar",
     "aprovacao",
-    "denuncia",
-    "moderacao",
+    "fila",
     "pendente",
+    "moderacao",
+    "denuncia",
+    "numeros",
     "ver",
     "painel"
    ],
@@ -12905,29 +13072,89 @@
     "JYDoZB_vyX8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "aprovar",
     "conteudo",
     "clientes",
+    "fila",
+    "aprovacao",
     "ver",
     "denuncias",
     "aprovacoes",
     "aplica",
-    "aprovacao",
-    "denuncia",
-    "moderacao",
     "pendente",
+    "moderacao",
+    "denuncia",
+    "numeros",
     "painel",
     "confira",
-    "envios",
+    "enviaram",
+    "libere",
+    "site",
+    "passa",
+    "foi",
+    "enviado",
+    "exigir",
     "antes",
-    "aprova",
-    "los",
-    "publicacao"
+    "publicar",
+    "ligado"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/aprovacoes-e-denuncias.md"
+  },
+  {
+   "id": "aprovacoes-lista-tempo-de-espera-e-carregar-mais",
+   "titulo": "lista de aprovações: tipo, cliente, tempo em espera, ordem e Carregar mais",
+   "objetivo": "Entenda o que cada linha da fila de aprovação mostra.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "aprovações",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "tags": [
+    "aprovacao",
+    "fila",
+    "lista",
+    "pendente",
+    "prazo",
+    "ordenar",
+    "filtrar",
+    "numeros",
+    "ver",
+    "lote"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "lista",
+    "aprovacoes",
+    "tipo",
+    "cliente",
+    "tempo",
+    "espera",
+    "ordem",
+    "carregar",
+    "aplica",
+    "aprovacao",
+    "fila",
+    "pendente",
+    "prazo",
+    "ordenar",
+    "filtrar",
+    "numeros",
+    "ver",
+    "lote",
+    "entenda",
+    "cada",
+    "linha",
+    "mostra"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/portal/aprovacoes-lista-tempo-de-espera-e-carregar-mais.md"
   },
   {
    "id": "assistente-de-ia-do-portal",
@@ -12988,8 +13215,8 @@
   },
   {
    "id": "bloquear-conta-denunciada",
-   "titulo": "bloquear a empresa ou conta de uma denúncia",
-   "objetivo": "O responsável fica bloqueado neste módulo, e o conteúdo dele nesse módulo sai do ar. O bloqueio pode ser desfeito.",
+   "titulo": "bloquear a empresa ou conta de uma denúncia (o que sai do ar, cobrança)",
+   "objetivo": "Tire do ar o que o responsável publicou naquele módulo e impeça novas publicações dele ali.",
    "publico": [
     "admin"
    ],
@@ -13003,33 +13230,38 @@
     "conta",
     "empresa",
     "moderacao",
-    "no ar"
+    "no ar",
+    "plano",
+    "desbloquear",
+    "cobrar"
    ],
    "videos": [
     "JYDoZB_vyX8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "bloquear",
     "empresa",
     "conta",
     "denuncia",
+    "sai",
+    "cobranca",
     "aprovacoes",
     "aplica",
     "moderacao",
+    "plano",
+    "desbloquear",
+    "cobrar",
+    "tire",
     "responsavel",
-    "fica",
-    "bloqueado",
-    "neste",
+    "publicou",
+    "naquele",
     "modulo",
-    "conteudo",
-    "dele",
-    "nesse",
-    "sai",
-    "bloqueio",
-    "ser",
-    "desfeito"
+    "impeca",
+    "novas",
+    "publicacoes",
+    "dele"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/bloquear-conta-denunciada.md"
@@ -13299,9 +13531,9 @@
    "caminho": "portal-da-cidade/admin/portal/corrigir-preco-radar.md"
   },
   {
-   "id": "desfazer-bloqueio-denuncia",
-   "titulo": "desfazer o bloqueio de uma conta denunciada",
-   "objetivo": "Reverta o bloqueio aplicado pela denúncia.",
+   "id": "denuncias-quem-pode-denunciar-avisos-e-limites",
+   "titulo": "denúncias: quem pode denunciar, se sou avisado e limites contra abuso",
+   "objetivo": "Entenda como as denúncias chegam e o que o portal faz sozinho.",
    "publico": [
     "admin"
    ],
@@ -13310,32 +13542,86 @@
    "aba": "nao-se-aplica",
    "tipos": [],
    "tags": [
-    "desfazer",
+    "denuncia",
+    "moderacao",
+    "regras",
+    "notificacao",
+    "imagem",
+    "quantidade",
+    "automatico",
+    "cliente"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "denuncias",
+    "quem",
+    "denunciar",
+    "sou",
+    "avisado",
+    "limites",
+    "contra",
+    "abuso",
+    "aprovacoes",
+    "aplica",
+    "denuncia",
+    "moderacao",
+    "regras",
+    "notificacao",
+    "imagem",
+    "quantidade",
+    "automatico",
+    "cliente",
+    "entenda",
+    "chegam",
+    "portal",
+    "faz",
+    "sozinho"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/portal/denuncias-quem-pode-denunciar-avisos-e-limites.md"
+  },
+  {
+   "id": "desfazer-bloqueio-denuncia",
+   "titulo": "desfazer o bloqueio feito por uma denúncia (ver bloqueados)",
+   "objetivo": "Libere de novo o responsável bloqueado.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "aprovações",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "tags": [
     "desbloquear",
+    "desfazer",
     "bloquear",
     "denuncia",
-    "conta",
-    "moderacao"
+    "moderacao",
+    "no ar"
    ],
    "videos": [
     "JYDoZB_vyX8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "desfazer",
     "bloqueio",
-    "conta",
-    "denunciada",
+    "feito",
+    "denuncia",
+    "ver",
+    "bloqueados",
     "aprovacoes",
     "aplica",
     "desbloquear",
     "bloquear",
-    "denuncia",
     "moderacao",
-    "reverta",
-    "aplicado",
-    "pela"
+    "libere",
+    "novo",
+    "responsavel",
+    "bloqueado"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/desfazer-bloqueio-denuncia.md"
@@ -13515,8 +13801,8 @@
   },
   {
    "id": "entender-o-trafego-do-portal",
-   "titulo": "entender os números do tráfego do portal (acessos, visitantes, tempo médio)",
-   "objetivo": "Consulte as visitas ao site público e compare períodos.",
+   "titulo": "entender os números do tráfego do portal (acessos, visitantes, tempo médio, gráfico, seções, mais lidas, relatório PDF)",
+   "objetivo": "Consulte as visitas ao site público do portal, compare com o período anterior e baixe o relatório.",
    "publico": [
     "admin"
    ],
@@ -13531,11 +13817,14 @@
     "ver",
     "exportar",
     "periodo",
-    "painel"
+    "painel",
+    "datas",
+    "quantidade",
+    "acesso"
    ],
    "videos": [],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "entender",
     "numeros",
@@ -13545,17 +13834,26 @@
     "visitantes",
     "tempo",
     "medio",
+    "grafico",
+    "secoes",
+    "lidas",
+    "relatorio",
+    "pdf",
     "painel",
     "visualizacao",
     "ver",
     "exportar",
     "periodo",
+    "datas",
+    "quantidade",
+    "acesso",
     "consulte",
     "visitas",
     "site",
     "publico",
     "compare",
-    "periodos"
+    "anterior",
+    "baixe"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/entender-o-trafego-do-portal.md"
@@ -13643,8 +13941,8 @@
   },
   {
    "id": "excluir-item-denunciado",
-   "titulo": "tirar do ar o conteúdo de uma denúncia",
-   "objetivo": "O item é apagado do site e não pode ser recuperado por esta ação.",
+   "titulo": "excluir o item denunciado (apaga do site, sem volta)",
+   "objetivo": "Apague do site o conteúdo denunciado.",
    "publico": [
     "admin"
    ],
@@ -13654,31 +13952,33 @@
    "tipos": [],
    "tags": [
     "excluir",
-    "remover",
     "denuncia",
     "moderacao",
-    "no ar"
+    "no ar",
+    "recuperar",
+    "desfazer"
    ],
    "videos": [
     "JYDoZB_vyX8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
-    "tirar",
-    "conteudo",
-    "denuncia",
+    "excluir",
+    "item",
+    "denunciado",
+    "apaga",
+    "site",
+    "sem",
+    "volta",
     "aprovacoes",
     "aplica",
-    "excluir",
-    "remover",
+    "denuncia",
     "moderacao",
-    "item",
-    "apagado",
-    "site",
-    "ser",
-    "recuperado",
-    "acao"
+    "recuperar",
+    "desfazer",
+    "apague",
+    "conteudo"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/excluir-item-denunciado.md"
@@ -13725,8 +14025,8 @@
   },
   {
    "id": "ignorar-denuncia",
-   "titulo": "ignorar uma denúncia",
-   "objetivo": "A denúncia fica ignorada; o item continua no ar.",
+   "titulo": "ignorar uma denúncia (o item continua no ar)",
+   "objetivo": "Encerre uma denúncia sem mexer no conteúdo.",
    "publico": [
     "admin"
    ],
@@ -13737,30 +14037,29 @@
    "tags": [
     "denuncia",
     "moderacao",
-    "recusar",
-    "ver",
-    "pendente",
-    "painel"
+    "no ar",
+    "desfazer",
+    "status"
    ],
    "videos": [
     "JYDoZB_vyX8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "ignorar",
     "denuncia",
+    "item",
+    "continua",
     "aprovacoes",
     "aplica",
     "moderacao",
-    "recusar",
-    "ver",
-    "pendente",
-    "painel",
-    "fica",
-    "ignorada",
-    "item",
-    "continua"
+    "desfazer",
+    "status",
+    "encerre",
+    "sem",
+    "mexer",
+    "conteudo"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/ignorar-denuncia.md"
@@ -13990,6 +14289,62 @@
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/o-que-o-portal-nao-faz.md"
+  },
+  {
+   "id": "painel-inicio-administracao-e-pendencias",
+   "titulo": "tela inicial do painel: ver portal, atalhos de cadastro, contadores e precisa da sua atenção (pendências)",
+   "objetivo": "Entenda os blocos da tela inicial do painel abaixo do tráfego.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "painel",
+   "aba": "painel",
+   "tipos": [],
+   "tags": [
+    "painel",
+    "pendente",
+    "fila",
+    "aprovacao",
+    "fatura",
+    "vencimento",
+    "comissao",
+    "numeros",
+    "voz do povo",
+    "notificacao"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "tela",
+    "inicial",
+    "painel",
+    "ver",
+    "portal",
+    "atalhos",
+    "cadastro",
+    "contadores",
+    "precisa",
+    "atencao",
+    "pendencias",
+    "pendente",
+    "fila",
+    "aprovacao",
+    "fatura",
+    "vencimento",
+    "comissao",
+    "numeros",
+    "voz",
+    "povo",
+    "notificacao",
+    "entenda",
+    "blocos",
+    "abaixo",
+    "trafego"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/portal/painel-inicio-administracao-e-pendencias.md"
   },
   {
    "id": "radar-categorias",
@@ -14303,8 +14658,8 @@
   },
   {
    "id": "recusar-envio-para-aprovacao",
-   "titulo": "recusar um envio que aguarda aprovação",
-   "objetivo": "Recuse um envio e informe o motivo.",
+   "titulo": "recusar um envio que aguarda aprovação (motivo, e-mail ao cliente)",
+   "objetivo": "Recuse um envio e diga ao cliente o que corrigir.",
    "publico": [
     "admin"
    ],
@@ -14315,38 +14670,44 @@
    "tags": [
     "recusar",
     "aprovacao",
-    "aprovar",
-    "moderacao",
+    "fila",
     "pendente",
-    "painel"
+    "moderacao",
+    "notificacao",
+    "desfazer",
+    "cliente"
    ],
    "videos": [
     "JYDoZB_vyX8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "recusar",
     "envio",
     "aguarda",
     "aprovacao",
+    "motivo",
+    "mail",
+    "cliente",
     "aprovacoes",
     "aplica",
-    "aprovar",
-    "moderacao",
+    "fila",
     "pendente",
-    "painel",
+    "moderacao",
+    "notificacao",
+    "desfazer",
     "recuse",
-    "informe",
-    "motivo"
+    "diga",
+    "corrigir"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/recusar-envio-para-aprovacao.md"
   },
   {
    "id": "regras-de-aprovacao-e-denuncias",
-   "titulo": "escolher as regras de aprovação e denúncias do portal",
-   "objetivo": "Escolha as regras de aprovação e de denúncia de conteúdo do portal.",
+   "titulo": "ligar ou desligar Exigir minha aprovação e Permitir denúncias (o que acontece)",
+   "objetivo": "Escolha se os envios dos clientes esperam sua aprovação e se visitantes podem denunciar conteúdo.",
    "publico": [
     "admin"
    ],
@@ -14358,28 +14719,41 @@
     "regras",
     "aprovacao",
     "denuncia",
+    "ligar",
+    "desligar",
     "moderacao",
-    "editar",
+    "configurar",
+    "fila",
     "painel"
    ],
    "videos": [
     "JYDoZB_vyX8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
-    "escolher",
-    "regras",
+    "ligar",
+    "desligar",
+    "exigir",
     "aprovacao",
+    "permitir",
     "denuncias",
-    "portal",
+    "acontece",
     "aprovacoes",
     "aplica",
+    "regras",
     "denuncia",
     "moderacao",
-    "editar",
+    "configurar",
+    "fila",
     "painel",
     "escolha",
+    "envios",
+    "clientes",
+    "esperam",
+    "visitantes",
+    "podem",
+    "denunciar",
     "conteudo"
    ],
    "base": "portal-da-cidade",
@@ -14627,55 +15001,53 @@
   },
   {
    "id": "ver-denuncias",
-   "titulo": "ver e filtrar as denúncias do portal",
-   "objetivo": "Filtre as denúncias de conteúdo e abra seus detalhes.",
+   "titulo": "ver e filtrar as denúncias de conteúdo do portal (lista, filtros e detalhe)",
+   "objetivo": "Veja as denúncias que visitantes fizeram sobre empresas, vagas, classificados e eventos.",
    "publico": [
     "admin"
    ],
    "produto": null,
    "modulo": "aprovações",
    "aba": "nao-se-aplica",
-   "tipos": [
-    "operacao",
-    "visitante reclamou de um anúncio",
-    "reclamação de visitante",
-    "reclamaram de um anúncio"
-   ],
+   "tipos": [],
    "tags": [
     "ver",
     "filtrar",
     "denuncia",
     "moderacao",
-    "painel",
-    "status"
+    "lista",
+    "status",
+    "modulo",
+    "painel"
    ],
    "videos": [
     "JYDoZB_vyX8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "ver",
     "filtrar",
     "denuncias",
+    "conteudo",
     "portal",
+    "lista",
+    "filtros",
+    "detalhe",
     "aprovacoes",
     "aplica",
-    "operacao",
-    "visitante",
-    "reclamou",
-    "anuncio",
-    "reclamacao",
-    "reclamaram",
     "denuncia",
     "moderacao",
-    "painel",
     "status",
-    "filtre",
-    "conteudo",
-    "abra",
-    "seus",
-    "detalhes"
+    "modulo",
+    "painel",
+    "veja",
+    "visitantes",
+    "fizeram",
+    "empresas",
+    "vagas",
+    "classificados",
+    "eventos"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/ver-denuncias.md"
@@ -14832,7 +15204,7 @@
     "1a0wZmdXDLk"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "tratar",
     "denuncia",

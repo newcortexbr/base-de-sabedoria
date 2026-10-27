@@ -37,9 +37,10 @@ aqui você baixa a carteira em Excel, CSV ou PDF, ou todos os cadastros em CSV.
 3. Pressione Enter no campo de busca para carregar os resultados. [guia=clientes.busca]
 4. Se quiser restringir por situação, escolha uma opção em `Filtrar por status`. [t=48] [guia=clientes.filtro-situacao]
 5. Clique em `Exportar`. [t=90] [guia=clientes.exportar]
-6. Clique em `Excel` para baixar a lista em planilha. [t=90] [guia=clientes.exportar-excel]
+6. No menu de formatos que abre, veja as opções de exportação. [guia=clientes.exportar-menu]
+7. Clique em `Excel` para baixar a lista em planilha. [t=90] [guia=clientes.exportar-excel]
 
-Para CSV ou PDF, use uma das sequências abaixo no lugar do passo 6.
+Para CSV ou PDF, use uma das sequências abaixo no lugar do passo 7.
 
 ### baixar a lista filtrada em CSV
 

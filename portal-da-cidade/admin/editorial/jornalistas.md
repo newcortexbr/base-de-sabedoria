@@ -34,12 +34,13 @@ Aqui você cadastra um jornalista para escrever notícias pelo próprio acesso n
 
 1. Na seção `Conteúdo` do menu lateral, em `Notícias`, clique em `Jornalistas`. [t=109] [guia=menu:/painel/noticias/jornalistas]
 2. Clique em `Novo jornalista`. [t=116] [guia=jornalistas.novo]
-3. Em `Acesso do jornalista`, preencha `Nome do responsável *`. [t=118] [guia=acesso-proprietario.nome]
-4. Preencha `E-mail de login *`. [t=118] [guia=acesso-proprietario.email]
-5. Preencha `Senha inicial *`. [t=120] [guia=acesso-proprietario.senha]
-6. Clique em `Salvar`. [t=120] [guia=jornalistas.salvar]
-7. Anote os dados mostrados em `Painel do proprietário`; a senha só aparece nessa ocasião. [guia=acesso-proprietario.dados]
-8. Clique em `Anotei os dados, fechar`. [guia=acesso-proprietario.confirmar-dados]
+3. Vá até o quadro `Acesso do jornalista`. [guia=jornalistas.acesso]
+4. Preencha `Nome do responsável *`. [t=118] [guia=acesso-proprietario.nome]
+5. Preencha `E-mail de login *`. [t=118] [guia=acesso-proprietario.email]
+6. Preencha `Senha inicial *`. [t=120] [guia=acesso-proprietario.senha]
+7. Clique em `Salvar`. [t=120] [guia=jornalistas.salvar]
+8. Anote os dados mostrados em `Painel do proprietário`; a senha só aparece nessa ocasião. [guia=acesso-proprietario.dados]
+9. Clique em `Anotei os dados, fechar`. [guia=acesso-proprietario.confirmar-dados]
 
 ## resultado
 

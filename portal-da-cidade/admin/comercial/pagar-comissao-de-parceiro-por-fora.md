@@ -32,12 +32,13 @@ Aqui você registra uma comissão que já pagou por Pix, transferência ou outro
 
 1. No menu da esquerda, na parte `Comercial`, clique em `Parceiros`. [t=8] [guia=menu:/painel/parceiros]
 2. Pague o parceiro fora do portal antes de registrar a baixa. [t=37] [guia=fora]
-3. Em `Comissões para pagar por fora`, clique em `Marcar paga` na comissão correta. [t=39] [guia=parceiros.marcar-paga]
-4. Na janela `Marcar comissão como paga`, confira `Pago em`. [guia=parceiros.baixa-data]
-5. Escolha `Como pagou`. [guia=parceiros.baixa-forma]
-6. Se quiser guardar o recibo, selecione o arquivo em `Comprovante (opcional)`. [guia=parceiros.baixa-comprovante]
-7. Se precisar, preencha `Observação (opcional)`. [guia=parceiros.baixa-observacao]
-8. Clique em `Marcar paga` na janela. [guia=parceiros.confirmar-marcar-paga]
+3. Role até o quadro `Comissões para pagar por fora`. [guia=parceiros.comissoes]
+4. Clique em `Marcar paga` na comissão correta. [t=39] [guia=parceiros.marcar-paga]
+5. Na janela `Marcar comissão como paga`, confira `Pago em`. [guia=parceiros.baixa-data]
+6. Escolha `Como pagou`. [guia=parceiros.baixa-forma]
+7. Se quiser guardar o recibo, selecione o arquivo em `Comprovante (opcional)`. [guia=parceiros.baixa-comprovante]
+8. Se precisar, preencha `Observação (opcional)`. [guia=parceiros.baixa-observacao]
+9. Clique em `Marcar paga` na janela. [guia=parceiros.confirmar-marcar-paga]
 
 ## resultado
 

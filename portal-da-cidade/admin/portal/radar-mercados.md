@@ -54,6 +54,13 @@ O estabelecimento é aprovado. Aprovar não é obrigatório se ele duplica um ca
 
 Para reativar, encontre o estabelecimento na aba `Desativados` e use `Ativar`.
 
+## corrigir os dados de um estabelecimento
+
+1. Na parte `Conteúdo` do menu, em `Radar de Preços`, clique em `Estabelecimentos`. [guia=menu:/painel/radar/mercados]
+2. Clique no lápis `Editar` do estabelecimento. [guia=radar-mercados.editar]
+3. Corrija o `Nome *` ou os outros dados. [guia=radar-mercados.nome]
+4. Clique em `Salvar`. [guia=radar-mercados.salvar]
+
 ## excluir
 
 1. Na parte `Conteúdo` do menu, em `Radar de Preços`, clique em `Estabelecimentos`. [guia=menu:/painel/radar/mercados]
