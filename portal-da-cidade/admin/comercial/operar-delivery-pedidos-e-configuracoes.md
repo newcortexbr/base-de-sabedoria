@@ -15,7 +15,7 @@ tags:
   - horario
   - preco
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - TgIUmqrRuBY
@@ -64,6 +64,15 @@ As configurações ficam salvas e o painel mostra `Configurações salvas`. As �
 
 - O cliente só escolhe no checkout as áreas cadastradas em `Áreas de Atendimento`.
 - Para acompanhar os pedidos, veja o artigo "acompanhar a fila de pedidos do delivery".
+
+## campos
+- a empresa também acompanha os pedidos na área dela e configura o próprio delivery.
+- `Delivery ativo` desligado tira a página de pedidos do ar.
+- `Taxa de entrega (R$)` 0 = entrega grátis. tempo mínimo e máximo (min) aparecem para o cliente na loja.
+- `Chave PIX`: a chave da loja (CPF, CNPJ, e-mail, telefone ou aleatória).
+- `Áreas de Atendimento`: no checkout o cliente só escolhe as áreas listadas. `Cobertura`: município todo ou só alguns bairros.
+- `Mensagem de Boas-Vindas` aparece no topo da loja. ex.: pedidos até as 22 horas, entregamos em toda a cidade.
+- na loja o cliente vê taxa, tempo, `Aberto agora` e a mensagem como configurados.
 
 ## quando pedir ajuda
 

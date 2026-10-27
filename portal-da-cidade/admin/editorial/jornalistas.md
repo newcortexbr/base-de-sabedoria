@@ -15,7 +15,7 @@ tags:
   - noticia
   - equipe
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - gAa2NdnitZU
@@ -48,6 +48,9 @@ A pessoa entra pela área do cliente, publica direto e só acessa as próprias m
 
 ## desvios
 
+- Serve para colaboradores, como estudantes de jornalismo: quanto mais gente publicando, mais conteúdo novo o portal tem.
+- O jornalista pode trocar a própria senha na área do cliente.
+- Na lista, cada linha permite redefinir a senha, editar e bloquear.
 - O cartão informa se o e-mail será enviado ou se não foi enviado. Não conte com entrega garantida.
 - Não cadastre novamente só porque o e-mail não chegou; confira o cartão e os dados de acesso.
 - Para mudar nome, senha ou bloqueio, use os artigos próprios.

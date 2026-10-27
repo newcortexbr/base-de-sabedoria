@@ -51,6 +51,13 @@ Aparece o aviso `Publicação aprovada`, o envio sai da lista e o número da aba
 - Não entram: artigos (todo colunista publica direto, por decisão do portal), orçamentos, cupons e fotos do Radar.
 - O que você mesmo publica como administrador vai direto ao ar, sem passar pela fila.
 
+## como funciona
+
+- No topo da página ficam as duas regras do portal (valem para o portal inteiro e salvam na hora). Veja "ligar ou desligar Exigir minha aprovação e Permitir denúncias".
+- Na aba `Aprovações`, cada envio pendente mostra há quanto tempo espera. No detalhe de uma vaga aparecem descrição, salário, local e contato.
+- Denúncia: o visitante clica em denunciar no anúncio, escolhe o motivo e conta o que aconteceu. Ela chega na aba `Denúncias`, onde você vê o item, o motivo e a descrição e pode abrir a página denunciada.
+- Decisões da denúncia: ignorar (está tudo bem), excluir o item (tira do ar) ou bloquear empresa/conta (tira do ar tudo o que o anunciante publicou). Todas pedem confirmação.
+
 ## números
 
 - O número ao lado de `Aprovações e Denúncias` no menu soma os envios esperando aprovação e as denúncias pendentes. Ele é atualizado quando você troca de página.

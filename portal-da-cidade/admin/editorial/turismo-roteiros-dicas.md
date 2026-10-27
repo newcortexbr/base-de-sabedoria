@@ -14,7 +14,7 @@ tags:
   - ponto turistico
   - dica
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - CMEOWthwqtI
@@ -50,6 +50,12 @@ Acesso de administrador ao módulo de Turismo.
 
 ## resultado
 O roteiro é salvo com as paradas montadas. Na criação, a galeria é enviada depois que o roteiro existe; em caso de falha parcial, abra sua edição e envie apenas o que faltou. A leitura pública retorna roteiros ativos do portal.
+
+## lista e página pública
+
+- A lista de roteiros mostra selo, duração, número de paradas e se está ativo.
+- Roteiros são passeios prontos para o visitante aproveitar a cidade. Dica: crie um roteiro para cada perfil de visitante.
+- O roteiro ativo aparece na página de roteiros do portal, com as paradas em ordem e o tempo de cada uma.
 
 ## desvios
 O vídeo do roteiro é separado dos vídeos da galeria. Para mudar a ordem das paradas, veja [reordenar paradas](turismo-roteiros-reordenar-paradas.md). Para alterar dados existentes, veja [editar um roteiro](turismo-roteiros-editar.md).

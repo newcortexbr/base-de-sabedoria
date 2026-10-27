@@ -15,7 +15,7 @@ tags:
   - cliente
   - comprovante
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - lwaG-T87hJI
@@ -57,6 +57,17 @@ Se o autenticador já estava ativo, os passos de ativação e de reserva não ap
 Quem perdeu o aplicativo pode usar `Usar um código de reserva` na janela de troca. Não envie esses códigos ao assistente. Sem acesso ao aplicativo e sem reserva, peça ajuda humana.
 
 Uma fatura já cobrada por Pix não muda automaticamente para Asaas quando você liga a integração.
+
+## detalhes
+
+- O autenticador pode ser qualquer aplicativo (ex.: Google Authenticator). Na ativação o portal mostra 6 códigos de reserva, para o caso de perder o celular.
+- A chave Pix só muda com código do autenticador.
+
+## o que o cliente vê
+
+- Ao escolher um plano e clicar em `Quero este`, sem Asaas ele vê o aviso de plano aguardando pagamento, com a sua chave Pix, o botão de copiar e as suas instruções.
+- Depois de pagar, ele toca em enviar comprovante pelo WhatsApp: a mensagem vai pronta para o número dos comprovantes, com nome do cliente, plano, número da fatura e valor.
+- Fatura que já mostrou a chave Pix continua pelo Pix, mesmo se o Asaas for ligado depois.
 
 ## quando pedir ajuda
 

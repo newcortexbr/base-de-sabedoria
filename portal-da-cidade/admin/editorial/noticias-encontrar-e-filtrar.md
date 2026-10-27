@@ -14,7 +14,7 @@ tags:
   - categoria
   - status
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - gAa2NdnitZU
@@ -45,6 +45,8 @@ A lista reúne as notícias que atendem aos filtros. Publicadas com data futura 
 
 ## desvios
 
+- A lista mostra ID, título, categoria, quem postou (`Postado por`), data, status e `Views` (visualizações). `Data` e `Views` ordenam a lista ao clicar.
+- A chave da linha publica ou despublica na hora.
 - `Todos os status` remove o filtro de situação.
 - O filtro `Publicado` também pode incluir notícias agendadas.
 - O botão `Limpar filtros`, acompanhado da quantidade de filtros ativos, limpa os filtros da lista.

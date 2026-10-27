@@ -16,7 +16,7 @@ tags:
   - perfil
   - area do cliente
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: video
 videos:
   - 8VRaUwhuhO0
@@ -68,6 +68,12 @@ a tela mostra `Artigo publicado` (ou `Artigo agendado`) e o artigo aparece em `S
 ## quando pedir ajuda
 
 se o botão `Novo artigo` não aparecer mesmo com plano pago, ou o plano estiver `Aguardando pagamento`, veja "pagar uma cobrança pendente" ou peça ajuda ao portal.
+
+## dicas e resultado no portal
+
+- Use subtítulos para separar as ideias e listas para os pontos principais: o artigo fica mais fácil de ler.
+- Depois de publicado, o contador do plano mostra quantos artigos já foram publicados na semana e quando a próxima semana fica livre; os botões à direita do artigo na lista abrem o artigo no portal.
+- No portal, ao lado do artigo fica o quadro sobre o autor: foto, especialidade, bio e botão de WhatsApp para os leitores falarem com o colunista.
 
 ## fontes
 

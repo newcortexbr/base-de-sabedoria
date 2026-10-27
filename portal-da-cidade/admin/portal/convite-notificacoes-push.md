@@ -15,7 +15,7 @@ tags:
   - convite
   - painel
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - -ZLL7Cqwcok
@@ -33,6 +33,14 @@ Escolha se o site convida visitantes a receber avisos.
 
 1. Na parte `Sistema` do menu da esquerda, clique em `Notificações Push`. [t=9] [guia=menu:/painel/notificacoes]
 2. Marque ou desmarque `Convidar visitantes a receber notificações`. [t=24] [guia=notificacoes.convidar]
+
+## como o convite aparece ao visitante
+
+- com a chave ligada, o site mostra um convite discreto, com `Não, obrigado` e `Sim, quero`. se aceitar, o navegador pede a permissão e a pessoa vira inscrita.
+- vem depois dos convites do app e do grupo de WhatsApp, quando houver, e não aparece em áreas logadas (`/painel`, `/minha-conta`).
+- se a pessoa recusar (ou negar a permissão do navegador), o convite só volta depois de 5 dias.
+- desligada, ninguém novo é convidado; quem já aceitou continua inscrito.
+- navegadores sem suporte, e iPhone sem o portal instalado como app, não recebem o convite.
 
 ## resultado
 

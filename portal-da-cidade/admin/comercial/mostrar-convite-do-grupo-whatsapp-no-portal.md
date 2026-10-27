@@ -17,7 +17,7 @@ tags:
   - portal
   - telefone
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 8M4kdEfP7Eg
@@ -52,6 +52,10 @@ aparece `Salvo com sucesso`. Nas páginas públicas permitidas, o convite usa `P
 ## desvios
 
 O link deve começar com https:// e usar chat.whatsapp.com ou whatsapp.com/channel. Um link inválido impede salvar e mostra o motivo. Não confunda com o grupo exclusivo de parceiros, configurado em outra tela.
+
+## dicas
+
+Use o grupo ou canal como serviço da cidade: notícias, oportunidades de emprego, compra e venda, eventos e promoções. Aproxima o leitor e traz de volta ao portal todo dia.
 
 ## fontes
 

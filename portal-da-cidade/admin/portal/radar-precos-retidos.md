@@ -15,7 +15,7 @@ tags:
   - preco
   - retido
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - focSRBTLhQE
@@ -37,6 +37,15 @@ Confira os preços que foram retidos antes de decidir se devem entrar no site.
 ## resultado
 
 O preço publicado sai da lista de retidos.
+
+## o que é a lista
+
+- é a trava de segurança do Radar de Preços. quando a IA lê um preço muito diferente do atual (mais que o dobro ou menos da metade), ele não vai para o site e fica aqui. o resto é publicado na hora.
+- cada linha mostra a foto de onde foi lido, o produto (com a etiqueta `produto novo` quando ainda não existe), o mercado, o preço atual riscado, o preço lido pela IA e o `motivo`. o motivo pode ser outro (preço ilegível, categoria não encontrada, combustível fora de Gasolina, Etanol ou Diesel).
+- nem sempre o preço lido é o errado: pode ser o preço antigo cadastrado (exemplo: cadastrado a 7,49, encarte com 17,49). se o lido estiver certo, use `Publicar`; se estiver errado, `Descartar`; para ajustar nome, categoria ou preço, `Corrigir`.
+- sem itens, a tela diz "Nada retido. A IA publicou tudo o que leu."
+- no site, o preço publicado aparece com a foto do encarte, e o destaque de menor preço passa a usar o valor correto.
+- confira a lista sempre que a IA ler novas fotos.
 
 ## corrigir um preço retido
 

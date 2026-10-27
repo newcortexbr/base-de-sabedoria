@@ -14,7 +14,7 @@ tags:
   - categoria
   - cadastro
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - ufB3QTKfPsM
@@ -49,6 +49,10 @@ A área é cadastrada e pode ser selecionada no formulário de vaga.
 ## quando pedir ajuda
 
 Peça ajuda se a tela não carregar ou se a ação mostrar erro. Informe a mensagem e a ação tentada, sem enviar senha.
+
+## lista
+
+A tela `Áreas de Vagas` mostra cada área com o total de vagas vinculadas.
 
 ## fontes
 

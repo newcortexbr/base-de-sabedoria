@@ -14,7 +14,7 @@ tags:
   - portal
   - layout
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - lrTaEV5JnVM
@@ -49,6 +49,12 @@ Cada cor também tem sugestões prontas e uma paleta. O quadro `Onde ela aparece
 ## desvios
 
 Se salvar falhar, a tela mostra o erro. A prévia sozinha não confirma que o site foi atualizado.
+
+## campos e prévia
+
+- Cor primária: botões, links, paginação, campos de formulário e área do cliente. Cor de destaque: nome das seções, barrinha do título, selos e etiquetas.
+- A prévia troca entre `Computador` e `Celular` e entre páginas do site (início, guia, empresa, notícia, vagas, classificados e telas de conta).
+- `Acender`: `Tudo`, `Só a Primária` ou `Só a de Destaque` apaga o resto da página e mostra onde cada cor aparece.
 
 ## fontes
 

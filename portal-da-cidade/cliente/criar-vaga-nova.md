@@ -16,7 +16,7 @@ tags:
   - salario
   - area do cliente
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 525qfVrQ4iY
@@ -47,6 +47,29 @@ publicar uma vaga nova da sua empresa.
 ## resultado
 
 se o portal exige aprovação, aparece `Vaga enviada para aprovação` (análise de 24h a 48h úteis, aviso por e-mail) e a vaga fica `Aguardando aprovação` até ser analisada; depois fica `Ativa` com os dias restantes. Sem aprovação, aparece `Vaga publicada`. Na lista há ícones para editar, pausar e excluir.
+
+## campos
+
+- No topo de `Vagas de Emprego` ficam o plano contratado e os quadros com quantas vagas estão no ar e quantas em análise.
+- `Título da vaga`: o cargo (por exemplo, "Operador de caixa").
+- `Área`: por exemplo "Vendas e comércio". `Tipo de contrato`: CLT, PJ, estágio, temporário e outros.
+- `Carga horária`: a jornada, por exemplo "44 horas semanais".
+- `Modelo de trabalho`: presencial, home office ou híbrido.
+- `Descrição da vaga`: o que a pessoa fará no dia a dia.
+- `Requisitos`: formação, experiência e habilidades desejadas.
+- `Benefícios`: um por linha.
+- `Salário`: o valor, ou marque `Salário a combinar`.
+- Candidatura: preencha ao menos um entre `WhatsApp para contato` e `E-mail para currículo`. Quem usa site de recrutamento cola o endereço em `Link externo de candidatura`.
+
+## na página pública da vaga
+
+Em destaque: cargo, logo da empresa, tipo de contrato, local e salário. Abaixo: descrição, requisitos e benefícios. Ao lado, o candidato chama pelo WhatsApp ou envia o currículo por e-mail com um clique.
+
+## dicas
+
+- Publicar vaga não tem custo; sem aprovação exigida ela vai ao ar em cerca de um minuto.
+- Você define como o candidato se inscreve; o resto o portal cuida.
+- Planos pagos colocam a vaga no topo, em destaque, e podem ser cancelados quando quiser.
 
 ## desvios
 

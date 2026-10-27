@@ -14,7 +14,7 @@ tags:
   - editar
   - ver
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - Ps1cgdLQ1FI
@@ -45,6 +45,16 @@ O formulário do anúncio escolhido é aberto.
 - Para tirar do site um anúncio que já foi vendido sem apagar os dados, veja “marcar um classificado como vendido”.
 - Para apagar o cadastro, veja “excluir um anúncio classificado”.
 - `Categorias` e `Anunciantes` ficam no grupo `Classificados`; os preços para anunciar ficam em `Meus Planos`.
+
+## tela e regras
+- os próprios anunciantes criam e gerenciam os anúncios pela Área do Cliente, com o login deles. `Novo Anúncio` no painel é opcional, para casos especiais (ex.: ajudar um cliente).
+- no topo da lista: total de anúncios, quantos estão publicados no site e quantos estão incompletos (sem foto, não aparecem no site).
+- tem abas, busca, categoria e status para filtrar.
+- cada linha mostra foto, título, anunciante, categoria, preço, local, cliques no WhatsApp e status (ativo, vendido, encerrado). os selos de destaque aparecem abaixo do título.
+- ações da linha: ver no site, `Editar`, `Marcar como vendido`, `Excluir`.
+- `Meus Planos` define, por plano, quantos anúncios, dias no ar, fotos e benefícios (destaque, anunciante verificado).
+- o anúncio publicado pode passar pela aprovação do administrador; isso e as denúncias de visitantes ficam em `Aprovações e Denúncias`.
+- no site, a página de classificados tem busca, filtros por categoria, condição e troca, e os anúncios separados por categoria.
 
 ## quando pedir ajuda
 

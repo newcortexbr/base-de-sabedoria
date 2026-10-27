@@ -10,7 +10,7 @@ tipo_problema:
   - proximo-passo
   - onde-fica
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - o-YLH2-8w8I
@@ -33,6 +33,13 @@ a tela mostra:
 - `Seu próximo passo`: o treinamento para continuar.
 - `Seus pagamentos`: as duas cobranças do negócio e os vencimentos. antes da instalação, o vencimento pode aparecer como `após a instalação`.
 - `Precisa de um link do seu portal?`: depois que o portal é publicado, os links ficam reunidos em `Minha plataforma`.
+
+## faixa de situação e botões
+
+- No topo há o guia da visão geral em vídeo.
+- Faixa de situação: antes da instalação, avisa que a cidade ainda não está no ar, com o botão `Iniciar instalação`; em instalação, explica o que falta e o botão passa a ser o da pendência atual (ex.: `Ver o que fazer`); com o portal publicado, mostra o domínio e os botões `Abrir portal` e `Painel administrativo`; suspenso, mostra `Regularizar pagamento`.
+- `Seu próximo passo`: `Continuar meu Start` retoma o treinamento de onde parou. `Seus pagamentos`: reserva territorial e mensalidade, com próximo vencimento e situação; `Ver pagamentos` abre os detalhes.
+- `Ver meus links` (áreas de login, páginas de vendas e recursos) só aparece depois que o portal é publicado. `Acessar suporte` fica no fim da página.
 
 ## desvios
 - se aparecer `Não foi possível carregar a situação dos pagamentos. Atualize a página em instantes.`, recarregue a página depois de alguns minutos.

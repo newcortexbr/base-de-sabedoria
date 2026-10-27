@@ -18,7 +18,7 @@ tags:
   - empresa
   - cliente
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - viWXA8_mZf4
@@ -58,6 +58,11 @@ a lista mostra os pedidos do período e da situação escolhidos. Ao concluir, o
 - aparece `Nenhum pedido neste período.` quando não há pedido no filtro; se aparecer o aviso de plano, use `Ver planos do Guia Comercial`.
 - o item `Delivery` do menu só aparece quando a empresa tem delivery liberado pelo plano do Guia Comercial.
 - acompanhamento público do pedido pelo cliente é outra tela (`Ver pedido`).
+
+## como o pedido chega
+
+- No site, o cliente finaliza o pedido informando nome, telefone e endereço (o bairro lista só os bairros atendidos) e escolhe a forma de pagamento. O pedido ganha um código e o resumo vai para o WhatsApp da loja. Em Pix, o cliente já vê a chave.
+- Dica: deixe a tela aberta no expediente e use `Atualizar` para ver pedidos novos.
 
 ## quando pedir ajuda
 

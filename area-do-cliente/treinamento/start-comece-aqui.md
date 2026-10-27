@@ -12,7 +12,7 @@ tipo_problema:
   - tour
   - por-onde-comecar
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 ---
 
@@ -25,6 +25,8 @@ saber qual é o primeiro conteúdo a assistir e onde ele fica.
 ## explicação
 - o Start é o módulo de entrada do treinamento. No `Início`, ele aparece no quadro `Comece por aqui · Start` ("Uma visita guiada ao seu painel."), com o número de aulas ("N aulas no Start").
 - em `Treinamentos`, o primeiro módulo da lista leva o selo `Comece aqui` até você concluir todas as aulas dele.
+- em `Treinamentos`, enquanto nenhuma aula foi concluída, o quadro `Comece por aqui` tem o botão `Começar`, que abre direto o primeiro módulo (o módulo zero). Recomendação: não pule esse módulo.
+- no topo de `Treinamentos` fica o vídeo `Guia dos treinamentos` (como escolher módulo, acompanhar o progresso e achar as ferramentas nas aulas); sem vídeo cadastrado, aparece `Vídeo disponível em breve`.
 - é uma sugestão de começo, não uma obrigação: você pode abrir qualquer módulo em qualquer ordem.
 
 ## passos

@@ -16,7 +16,7 @@ tags:
   - classificado
   - anuncio
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - Ps1cgdLQ1FI
@@ -48,6 +48,9 @@ A categoria entra na lista com o estado escolhido em `Ativa`.
 
 - Para subdividir uma categoria, veja “criar uma subcategoria de classificados”.
 - Excluir uma categoria deixa os anúncios vinculados sem categoria.
+
+## tela
+- as categorias organizam as seções (ex.: imóveis, veículos, eletrônicos). cada uma tem subcategorias, mostra quantos anúncios tem e pode ser ativada ou desativada.
 
 ## quando pedir ajuda
 

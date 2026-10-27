@@ -16,7 +16,7 @@ tags:
   - cadastro
   - filtrar
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - -FASO6flcCw
@@ -70,6 +70,13 @@ No cadastro, aparece `Cliente cadastrado`, a janela fecha e a lista e o resumo s
 ## desvios
 
 Nome é sempre obrigatório. Se a tela mostra o aviso do Asaas, CPF/CNPJ e e-mail também são obrigatórios. Documento inválido ou contato incompleto impede o envio; o motivo fica na janela.
+
+## lista e resumo
+
+- Receita mensal recorrente: quanto o portal fatura por mês com os planos ativos.
+- O aviso amarelo de `aguardando confirmação de pagamento` indica que o cliente já recebeu a chave Pix; nada entra no ar até o administrador confirmar o pagamento na ficha do cliente.
+- Colunas da lista: `Cliente`, `WhatsApp`, `Planos` (quantidade), `Contratado` (seções), `Vencimento` (o mais próximo), `Receita` e `Ações` (chave, lápis, cadeado e lixeira).
+- Com a cobrança automática do Asaas ligada, nome, documento e e-mail do cadastro são obrigatórios: o Asaas envia o link de pagamento por e-mail.
 
 ## fontes
 

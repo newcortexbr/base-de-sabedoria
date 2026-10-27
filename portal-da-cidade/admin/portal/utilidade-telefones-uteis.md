@@ -22,7 +22,7 @@ tags:
   - policia
   - telefone
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 1a0wZmdXDLk
@@ -53,6 +53,10 @@ O cadastro entra na lista. A presença no site depende da seção estar ligada e
 ## número curto de emergência
 
 Para cadastrar somente um número curto, no passo do telefone preencha `Número curto de emergência` em vez de `Telefone`. É obrigatório ter pelo menos um dos dois.
+
+## o que entra
+
+Números de emergência e serviços da cidade, com horário de atendimento. Cada linha tem um interruptor (`Clique para desativar`/`Clique para ativar`) que escolhe quais aparecem no site.
 
 ## editar um cadastro
 

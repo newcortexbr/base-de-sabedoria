@@ -19,7 +19,7 @@ tags:
   - organizador
   - programacao
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - aNqs6gSprvs
@@ -54,6 +54,13 @@ depois de pago, se o portal exigir aprovação, o evento entra em análise antes
 ## desvios
 
 - Se você já pagou um pacote de eventos com saldo, o botão do fim se chama `Publicar pelo pacote` e não cobra de novo.
+- No topo da tela, três quadros contam seus eventos `No ar`, `Aguardando pagamento` e `Em análise`.
+- `Categoria`: exemplos shows e música, festivais, gastronomia. `Descrição`: conte do que se trata, as atrações, o que o público encontra e o que deve levar.
+- `Local`: nome do lugar (ex.: Praça dos Namorados); aparece em destaque na página do evento, junto do botão `Como chegar`.
+- Evento com foto recebe mais visitas. A capa aparece no cartão da agenda e no topo da página do evento.
+- Na galeria, o X sobre a foto a remove. Vídeo de divulgação: cole o link no campo `Link de vídeo do YouTube`.
+- Em `Como você quer divulgar?`, cada opção lista o que inclui (ex.: destaque do evento, destaque na página inicial de eventos); o destaque coloca o evento em primeiro lugar.
+- Na página pública: capa, data em destaque, local e botões de ingresso, WhatsApp e `Como chegar`; abaixo, descrição, galeria, vídeo, informações e mapa. O evento também aparece na agenda da página inicial do portal.
 - Evento reprovado: leia o `Motivo da reprovação`, clique em `Corrigir e reenviar`, ajuste e salve.
 - O título não muda depois que o evento foi publicado (aviso da tela).
 - Ao editar um evento, o botão do fim se chama `Salvar alterações`.

@@ -10,7 +10,7 @@ tipo_problema:
   - quais-ferramentas-tenho
   - duvida-geral
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 2sVAq8AngnY
@@ -37,6 +37,10 @@ você vê as ferramentas do seu produto. a tela diz: `Acesse suas ferramentas e 
 - botões: `Acessar ferramenta` abre a ferramenta; `Ver treinamento` abre a aula que ensina a usá-la (ou `Treinamento em preparação`, se a aula ainda não existe).
 - várias ferramentas entram com a mesma conta da área do cliente, sem senha nova (login único).
 - `As aulas mostram o uso de cada ferramenta. Nenhuma chave de acesso é exibida nesta página.`
+
+- ao abrir uma ferramenta, o acesso é sempre pelo login da área do cliente: sem outra conta nem outra senha.
+- exemplos de ferramentas: `DadosPJ` (extrator da Receita Federal: encontra empresas por localização e atividade para prospecção; veja `ac-ferramentas-dadospj`) e `Extrator Google Maps` (localiza negócios no mapa, monta listas para ações comerciais, gera listas para importar empresas em massa no portal e traz o WhatsApp direto de cada estabelecimento; veja `ac-ferramentas-extrator-maps`).
+- ferramenta nova lançada passa a aparecer nesta tela.
 
 ## desvios
 - `Nenhuma ferramenta liberada para este negócio ainda. Assim que houver, ela aparece aqui.`

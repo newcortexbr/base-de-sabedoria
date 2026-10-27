@@ -23,8 +23,6 @@ const ABAS = [ // [slug do snapshot, gid, produto]
 const OBS = {
   'painel-admin:5': 'coluna Drive aponta a versão antiga JdJr7pXVx98 (fica no catálogo como 2º nos artigos do Guia).',
   'painel-admin:6': 'mesmo vídeo da aba extrator-google-maps, linha 3.',
-  'area-empresa-parceiro-portal:15': 'título no YouTube é "Tutorial Guia Empresa 09 Delivery Recebendo Pedidos": não bate com o tópico da planilha (configuração e cardápio). vinculado pelo título do YouTube.',
-  'area-empresa-parceiro-portal:16': 'link quebrado: o YouTube responde Not Found (privado ou removido). fora dos videos.json.',
   'claude-videos-basicos-area-do-cliente:1': 'sem link: pendente na Área do Cliente.',
 }
 // ----------------------

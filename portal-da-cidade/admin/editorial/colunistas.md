@@ -18,7 +18,7 @@ tags:
   - bio
   - foto
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - CRiUbh7wHdc
@@ -60,6 +60,10 @@ O perfil entra na lista e pode assinar artigos. Deixar `Acesso do proprietário 
 - `E-mail público` é contato do perfil, não o e-mail de login.
 - Para corrigir o perfil, ativar, desativar ou excluir, veja “editar e controlar um colunista”.
 - Excluir um colunista também apaga seus artigos, inclusive publicados; não use exclusão para apenas desativar.
+
+## lista
+
+Mostra cada autor com foto, profissão e uma chave para ativar ou desativar. O perfil público tem nome, foto, especialidade, descrição curta e redes sociais.
 
 ## fontes
 

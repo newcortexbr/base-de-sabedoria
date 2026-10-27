@@ -15,7 +15,7 @@ tags:
   - guia
   - empresa
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 09n3Eiwn418
@@ -51,9 +51,27 @@ aqui você vê, cria e muda as categorias do Guia. Categoria desligada esconde d
 
 A tabela mostra os recursos, o total de empresas, a participação no orçamento e a situação. Serviços, equipe e catálogo vêm marcados e travados para todas as categorias. A disponibilidade nas empresas depende também da ficha completa; a cortesia do portal não exige plano pago.
 
+## campos
+
+- `Ícone`: a lista é separada por tipo de negócio e tem busca.
+- `Ativa`: marcada, a categoria aparece no site.
+- `Aparece no formulário de Orçamento`: marque quando as empresas da categoria prestam serviço (pintor, eletricista). Para restaurantes e lojas, deixe desmarcado.
+- `Cor`: aparece no ícone da categoria em todo o portal.
+- Exemplo: ao criar `Pizzarias`, marque `Cardápio` e `Delivery`; toda pizzaria cadastrada nela poderá montar cardápio e receber pedidos pelo portal.
+- Os recursos dependem do plano da empresa: no plano grátis eles não aparecem.
+- A lista de categorias mostra ícone, recursos, número de empresas, se aparece no orçamento e se está ativa; cada linha tem `Editar` e `Excluir`.
+
 ## subcategorias
 
 As subcategorias ficam em `Gerenciar Subcategorias`, no mesmo menu. Este artigo cobre apenas categorias.
+
+## gerenciar subcategorias
+
+- Detalham a categoria (em Restaurantes: pizzarias, japonês, churrascarias, fast food).
+- À esquerda, escolha a categoria; ela mostra quantas subcategorias tem. A bolinha amarela indica categoria fora do orçamento.
+- Cada subcategoria mostra o número de empresas e se aparece no orçamento. `Marcar todas`/`Desmarcar todas` (ou `as exibidas`, com busca ativa) mudam todas de uma vez.
+- Categoria fora do orçamento: nenhuma subcategoria dela aparece no formulário, mesmo marcada. O aviso oferece `Incluir no orçamento`. Em Construção e reforma tudo aparece (pedreiro, pintor, eletricista).
+- `+ Nova Subcategoria`: escolha a categoria, dê um nome e ajuste `Ativa` e `Aparece no formulário de Orçamento`. O lápis edita uma existente.
 
 ## resultado
 

@@ -8,7 +8,7 @@ categoria: orcamentos
 aba: nao-se-aplica
 tipo_problema: pedido-de-orcamento
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - VmEwdNZd7pw
@@ -46,6 +46,13 @@ a tela `Pedido enviado!` explica o caminho: primeiro o portal analisa e aprova o
 - o portal pode pedir uma verificação de segurança antes do envio.
 - se a categoria não carregar, aparece `Não foi possível carregar as categorias. Tente novamente.` com o botão `Tentar de novo`.
 - sem o recurso de áudio, a etapa 1 mostra só o campo `O que você precisa?`.
+
+## o que pedir
+
+- Serve para serviço ou compra: ex.: "carro de até 80.000 reais com no máximo 5 anos de uso", "limpeza de sofá", "trocar os pneus do carro". Categorias vão de veículos, imóveis e bikes a mecânico, eletricista, frete, pintor e roupas.
+- A inteligência artificial entende o pedido e acha a categoria sozinha (ex.: carro com problema elétrico vira veículos > auto elétrica). Fotos ajudam a detalhar a necessidade.
+- Depois do envio, as empresas retornam e o visitante escolhe a que melhor atender. Não tem custo.
+- Trocar a categoria (`Não é isso? Troque aqui`) permite mudar categoria (ex.: construção e reforma, assistência técnica) e tipo de serviço (ex.: mecânico, funilaria e pintura, guincho).
 
 ## quando pedir ajuda
 

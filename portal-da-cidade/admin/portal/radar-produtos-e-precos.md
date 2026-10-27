@@ -15,7 +15,7 @@ tags:
   - preco
   - filtrar
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - VhMHVZujDvQ
@@ -51,6 +51,14 @@ O preço é salvo no produto escolhido; um produto novo é criado na categoria s
 3. Clique em `Ver preços` na linha do produto. [guia=radar-produtos.apagar]
 
 A marca existente `radar-produtos.apagar` está no botão `Ver preços`: ele abre o detalhe e não apaga nada. Para editar o nome/categoria, veja “editar um produto do Radar de Preços”; para enviar uma imagem diretamente, veja “lançar preço pela foto no Radar”. Para alterar valores, juntar duplicados ou apagar o cadastro, veja “corrigir ou remover o preço de um estabelecimento no Radar”, “juntar produtos repetidos do Radar” e “excluir um produto e todos os preços do Radar”.
+
+## tela
+- `Produtos e preços` é o catálogo do Radar: todos os produtos com o preço em cada mercado. o topo mostra o total de produtos, de preços e de mercados.
+- a tabela mostra por produto: categoria, em quantos mercados tem preço, menor preço e data da última atualização.
+- a busca acha produto pelo nome; o filtro mostra só uma categoria.
+- produtos criados pela leitura da IA ganham a etiqueta `criado pela IA`.
+- em `Digitar`, produto novo pede a categoria; a foto é opcional.
+- no site, cada produto vira um card com o menor preço, os mercados e o botão abrir no Maps.
 
 ## fontes
 

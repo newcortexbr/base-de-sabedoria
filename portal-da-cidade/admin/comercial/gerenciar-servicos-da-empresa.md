@@ -14,11 +14,10 @@ tags:
   - empresa
   - guia
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - aE3QL3ErK0k
-  - FwKU_0GF6iU
 ---
 
 ## objetivo
@@ -61,6 +60,14 @@ O serviço fica salvo na seção escolhida. `Texto de valor (opcional)`, quando 
 ## quando pedir ajuda
 
 peça ajuda se o cartão não aparecer ou se salvar der erro.
+
+## campos e como aparece no portal
+
+- Serve a qualquer categoria do Guia (clínicas, salões, oficinas, escritórios, prestadores); depende do plano da empresa.
+- Serviços ficam em seções (ex.: consultas, exames, procedimentos, pacotes).
+- `Valor (R$)` é o preço fixo. Se o preço varia, use `Texto de valor (opcional)` (ex.: "a partir de R$ 1.800/m²", "sob orçamento"); quando preenchido, é ele que aparece no site.
+- `Duração (opcional)`: ex. "30 a 90 dias". `Detalhe (opcional)`: ex. "a partir de 30 m²". `Ícone (opcional)`: escolhido pelo nome.
+- Na ficha da empresa, o bloco `Serviços oferecidos` lista as seções com o preço de cada serviço e, se a empresa tem WhatsApp, o botão `Agendar` por serviço (abre o WhatsApp da empresa). `Ver tabela completa de serviços` abre uma página só com os serviços, com contato, endereço e horário.
 
 ## fontes
 

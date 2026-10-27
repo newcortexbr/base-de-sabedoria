@@ -17,11 +17,10 @@ tags:
   - guia
   - empresa
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - reZ3e1a4o-o
-  - aSRf0hwUrrc
 ---
 
 ## objetivo
@@ -65,6 +64,18 @@ O quarto fica salvo na seção escolhida. Quando publicado, pode compor a ficha 
 - A categoria precisa ter `Acomodações — hotel, pousada, hospedagem` marcado em `Gerenciar Categorias`; sem isso o cartão não aparece.
 - Cada quarto pode estar `Publicado` ou `Despublicado`. Em cada quarto também dá para gerenciar as fotos, editar e excluir.
 - A própria empresa também pode cuidar disso pela área do cliente; a tela é a mesma.
+
+## campos e dicas
+- o recurso transforma a página de hotel, pousada, chalé ou casa de temporada em vitrine de acomodações. aparece para empresas cuja categoria tem a opção de acomodações marcada. a própria empresa gerencia pelo painel do cliente.
+- quartos ficam em seções (ex.: Casal, Grupo, Suítes, Chalés, Quartos Standard). a nova seção entra no fim da lista. cada seção mostra se está publicada e quantos quartos estão no ar; setas mudam a ordem, renomear troca o nome, o X exclui.
+- cada quarto na lista mostra título, subtítulo e preço por noite (o antigo riscado quando há promoção), com ações para publicar ou esconder, gerenciar fotos, editar e excluir. o selo `Publicado` tira o quarto do ar sem apagar.
+- `Subtítulo`: curto, ex.: para duas pessoas com varanda.
+- `Descrição`: cama, vista, banheiro e o que torna o quarto especial.
+- `Preço promocional`: no site o valor cheio aparece riscado ao lado do novo.
+- `Comodidades do quarto`: um item por vez (ex.: Wi-Fi, ar-condicionado, vista mar, garagem, cozinha, varanda); viram etiquetas no card do quarto.
+- `Ordem` define a posição do quarto na seção.
+- no portal: a ficha da hospedagem ganha a aba `Quartos` e o bloco `Quartos e suítes`, com as seções em abas. cada quarto é um card com foto e número de fotos, subtítulo, título, descrição, comodidades e preço por noite (promocional em destaque), com os botões `Reservar` e `WhatsApp` que levam o hóspede à reserva. no celular, o hóspede passa as fotos com o dedo.
+- mantenha diárias e fotos atualizadas; boas fotos e preços claros atraem reservas.
 
 ## quando pedir ajuda
 

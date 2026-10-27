@@ -19,7 +19,7 @@ tags:
   - pagamento
   - imagem
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - Mu5xmUB7w9o
@@ -50,6 +50,17 @@ aqui você compra um banner para aparecer numa página do portal, escolhe por qu
 
 ## resultado
 depois de pago, se o portal exigir aprovação, o banner fica `Aguardando aprovação` até o dono do portal conferir a arte; depois aparece `Publicado · vence em` e a data. Os filtros da lista são `Todos`, `No ar`, `Vencidos`, `Em análise`, `A pagar` e `Reprovados`.
+
+## onde o banner aparece e como é a tela
+
+- o banner aparece nas páginas do portal que tiverem posição à venda (por exemplo: topo da página inicial, dentro das notícias, vagas, classificados, agenda de eventos, topo do Guia Comercial, pontos turísticos). cada posição fala com o público daquela página.
+- quem toca no banner vai ao `Link de destino` (WhatsApp, Instagram, site ou outro link externo). pode trocar a arte quando mudar a promoção.
+- no alto da lista, três quadros mostram quantos banners estão no ar, em análise e aguardando pagamento.
+- a tela `Novo banner` tem três passos (posição, período, arte e link) e o resumo do pedido fica sempre à direita: página, posição, tamanho e período. o espelho mostra a arte no lugar e na proporção reais, em `Computador` e `Celular`.
+- na aba da página, cada cartão desenha a página e marca o lugar exato do banner, com o tamanho da arte em pixels. os períodos disponíveis dependem da posição.
+- o resumo informa que a renovação é automática.
+- o pagamento abre na própria tela, por Pix ou cartão, conforme o portal.
+- depois do pagamento a situação segue: `Aguardando pagamento` → `Aguardando aprovação` → `Publicado · vence em` (data); ou reprovado, com o motivo logo abaixo.
 
 ## desvios
 

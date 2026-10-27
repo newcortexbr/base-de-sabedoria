@@ -18,7 +18,7 @@ tags:
   - classificado
   - cadastro
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - Ps1cgdLQ1FI
@@ -59,6 +59,10 @@ O anunciante é cadastrado. Se você pediu login, o portal tenta criá-lo depois
 - E-mail público de contato e e-mail de login são campos diferentes.
 - O cadastro pode estar salvo mesmo se a criação do acesso falhar. Não cadastre de novo; use a opção de acesso na edição.
 - A mensagem final informa se o e-mail de acesso foi enviado; salvar o cadastro não comprova entrega do e-mail.
+
+## campos
+- `Anunciantes` lista pessoas e empresas que anunciam, com o e-mail de acesso e o selo de verificado.
+- `Verificado` (marcação no cadastro/edição) mostra o selo, que passa mais confiança a quem compra.
 
 ## quando pedir ajuda
 

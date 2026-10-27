@@ -16,7 +16,7 @@ tags:
   - contato
   - telefone
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - lwaG-T87hJI
@@ -44,6 +44,10 @@ O número é salvo quando a operação funciona, e o resultado aparece abaixo do
 ## desvios
 
 Este campo não pede código do autenticador: a proteção é da chave Pix e das instruções. `Salvar WhatsApp` fica desabilitado se nada mudou ou se o número é inválido. Para registrar o pagamento depois de receber e conferir o dinheiro, veja `marcar-fatura-como-recebida.md`.
+
+## uso
+
+Esse número recebe a mensagem pronta que o cliente envia ao tocar em enviar comprovante, com nome do cliente, plano, número da fatura e valor.
 
 ## quando pedir ajuda
 

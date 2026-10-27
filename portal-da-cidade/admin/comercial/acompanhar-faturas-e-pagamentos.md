@@ -16,7 +16,7 @@ tags:
   - pendente
   - cliente
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 1RHf0fcXgyE
@@ -50,6 +50,14 @@ A lista mostra as faturas da situação escolhida e do cliente buscado.
 - `copiar-link-de-pagamento.md`: reenviar o link.
 - `cobrar-fatura-pelo-whatsapp.md`: abrir uma cobrança no WhatsApp.
 - `marcar-fatura-como-recebida.md`: registrar dinheiro que já entrou.
+
+## visão geral da tela
+
+- Responde "quem preciso cobrar hoje?": todas as faturas, em ordem de vencimento.
+- Selo no canto: `Cobrança automática ligada` ou `desligada` (Asaas conectado: a fatura vai sozinha ao cliente com o link).
+- Cartões `A receber dos clientes`: vencido, ainda a vencer e recebido no mês. Cartão `A pagar`: comissões devidas a parceiros que venderam planos, com atalho `Ver e pagar`.
+- Cada fatura mostra cliente, plano contratado, se a cobrança já foi enviada, vencimento e valor.
+- `Vencidas` lista as em atraso, para priorizar a cobrança. `Pagas` é o histórico do que entrou. Cliente que pagou por fora: `Já recebi`.
 
 ## quando pedir ajuda
 

@@ -12,7 +12,7 @@ tipo_problema:
   - confirmar-instalacao
   - concluir-instalacao
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - CgrBKTyXSsI
@@ -38,6 +38,14 @@ a tela mostra `Instalação concluída` e `Confirmação registrada. Obrigado!`.
 - se você não conseguiu entrar, clique em `Não, ainda não consigo`. a tela diz `Respondendo “não”, abrimos um chamado com todos os dados desta instalação e o WhatsApp do suporte.` em seguida aparece `Chamado aberto com o suporte`, com o número do chamado e o botão `Falar com o suporte agora`.
 - só confirme `Sim` depois de ter entrado no painel. a tela pede isso: `Só confirme depois de ter entrado de verdade.`
 - logo depois de a plataforma ficar pronta, aparece por alguns segundos a animação `Estamos montando o seu portal` (com `Montando o portal`, `Criando a área administrativa`, `Preparando o banco de dados`, `Ativando o certificado de segurança` e `Colocando no ar`). a pergunta aparece quando ela termina. é só uma apresentação: não feche a tela por causa dela.
+
+## etapa `Portal no ar` na tela
+
+- começa sozinha quando o DNS do domínio é encontrado; `Domínio` e `Conexão DNS` já aparecem concluídos no topo. a tela se atualiza sozinha.
+- a tela mostra o andamento: testando o acesso ao portal, provisionando, aguardando o DNS, plataforma pronta, sua confirmação e concluída.
+- `Propagação pelos servidores de DNS`: tabela com cada servidor, o que ele responde e a situação. servidores em `Aguardando` ainda respondem com o endereço antigo; é só esperar. ao chegar em 100%, aparece "Todos os servidores já enxergam seu domínio".
+- então o certificado de segurança (o cadeado do site) é emitido, em cerca de 1 minuto.
+- enquanto espera, o link `Enquanto espera, conheça o treinamento` leva ao treinamento.
 
 ## quando pedir ajuda
 se o botão `Entrar com a Área do Cliente` não funcionar no painel, responda `Não, ainda não consigo`: o chamado já é aberto com os dados certos.

@@ -15,7 +15,7 @@ tags:
   - link
   - painel
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - -ZLL7Cqwcok
@@ -38,6 +38,14 @@ Envie um aviso aos inscritos do portal.
 5. Em `Quando`, escolha `Agora`. [t=72] [guia=notificacoes.quando]
 6. Clique em `Enviar para…`, com a quantidade de destinatários. [t=82] [guia=notificacoes.enviar]
 7. Na confirmação, clique em `Enviar`. [guia=confirmacao.confirmar]
+
+## campos e cuidados
+
+- `Link`: página que abre quando a pessoa toca no aviso (notícia, evento, promoção). até 500 caracteres.
+- a `Prévia da notificação` mostra como o aviso aparece no celular.
+- o botão mostra para quantas pessoas o aviso vai (todos os inscritos).
+- o envio vai para todos os inscritos do portal, sem escolher público. use só para avisos que importam.
+- ao confirmar, a notificação entra na fila de envio, processada em instantes.
 
 ## resultado
 

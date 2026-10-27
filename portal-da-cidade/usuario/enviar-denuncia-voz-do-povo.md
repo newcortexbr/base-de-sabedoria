@@ -8,7 +8,7 @@ categoria: utilidade
 aba: nao-se-aplica
 tipo_problema: denuncia
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - G1B9mAWbCk4
@@ -43,6 +43,10 @@ a denúncia chega à redação do portal, que analisa o caso. Aparece `Denúncia
 - o vídeo tem limite de tamanho e de 2 minutos; acima disso só os 2 primeiros minutos são enviados. Formatos aceitos: MP4, MOV, WEBM e 3GP.
 - fotos e vídeo demoram a subir: não feche a página enquanto aparece `Subindo fotos e áudio. Não feche a página.`
 - o portal não promete resposta nem prazo; casos relevantes podem virar matéria.
+
+## para que serve
+
+Canal para denunciar problemas da cidade (esgoto a céu aberto, rua que alaga, violência no bairro etc.). A redação analisa cada denúncia; casos relevantes podem virar matéria no portal e ser levados às autoridades responsáveis.
 
 ## quando pedir ajuda
 

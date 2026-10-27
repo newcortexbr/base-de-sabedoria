@@ -14,7 +14,7 @@ tags:
   - portal
   - notificacao
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 8M4kdEfP7Eg
@@ -43,6 +43,10 @@ aparece `Salvo com sucesso`; não há botão adicional para salvar. O convite au
 - O aviso não é automático no computador, painel, área do cliente, área do parceiro ou páginas de pedido e cardápio.
 - Quem escolhe `Não quero` pode receber novo convite depois de 30 dias.
 - Falha ao salvar devolve a caixa ao estado anterior e mostra o motivo.
+
+## o que o visitante vê
+
+O convite mostra `<nome do portal> no seu celular` e `Instale e abra com um toque, sem digitar endereço.`. Se o visitante tocar em instalar, o portal ganha um ícone na tela inicial do celular, com a logo e o nome do portal, e abre com um toque como um aplicativo.
 
 ## fontes
 

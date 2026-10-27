@@ -14,7 +14,7 @@ tags:
   - noticia
   - automatico
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - r5rFCgAV0mg
@@ -52,6 +52,10 @@ A tela mostra `Fonte salva` e volta à lista. Uma fonte ligada pode solicitar um
 - Para importar já publicado, use “escolher se as notícias de uma fonte de RSS vão ao ar sozinhas”.
 - O formulário não tem campo de categoria nem intervalo de publicação.
 - Para fontes prontas do catálogo, use o artigo “notícias automáticas: cadastrar e controlar fontes de RSS”.
+
+## cuidado
+
+Endereços de outros sites podem dar problema na importação; prefira as fontes do catálogo (`Escolher da lista`).
 
 ## fontes
 

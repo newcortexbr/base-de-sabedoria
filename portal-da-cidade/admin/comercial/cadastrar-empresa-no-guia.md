@@ -58,6 +58,10 @@ A empresa é criada e passa a aparecer na lista de empresas do Guia. Para comple
 - Para muitas empresas de uma vez, veja "importar empresas no Guia a partir de lista do Google Maps".
 - Para trazer os dados de uma empresa direto do Google, veja "cadastrar empresa no Guia pegando os dados do Google".
 
+## quando usar
+
+Cadastro pelo painel é para casos especiais (página de parceiro, cliente que pediu ajuda). O fluxo normal é a empresa criar a conta e montar o perfil pela área do cliente.
+
 ## quando pedir ajuda
 
 peça ajuda se a categoria ou a cidade que você precisa não aparecer, ou se o cadastro falhar mesmo com tudo preenchido.

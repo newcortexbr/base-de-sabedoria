@@ -15,7 +15,7 @@ tags:
   - doacao
   - instituicao
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - grm3bUrPBxM
@@ -54,6 +54,10 @@ A causa fica disponível para o cadastro de instituições.
 3. Na confirmação, clique em `Excluir`. [guia=confirmacao.confirmar]
 
 Se houver instituições usando a causa, confira o aviso da tela; não exclua instituições para contornar um erro sem decidir isso antes.
+
+## uso
+
+As causas organizam as instituições e viram os filtros da página pública de Doações. No topo da aba `Causas`, quadros mostram o total de causas, quantas estão em uso e quantas instituições existem; cada cartão mostra a causa e o número de instituições, com editar e excluir.
 
 ## fontes
 

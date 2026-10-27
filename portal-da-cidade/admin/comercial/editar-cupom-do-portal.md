@@ -15,7 +15,7 @@ tags:
   - preco
   - desconto
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - pBHdF3bd1QI
@@ -48,6 +48,9 @@ Aqui você altera o cupom de uma empresa. A empresa fica fixa durante a edição
 O painel mostra `Cupom salvo`. A validade e o benefício de cupom continuam condicionando a exibição pública.
 
 ## desvios
+
+- você pode ajustar foto, código, desconto, condições, tipo, valor e validade; só a empresa não muda.
+- a empresa também pode editar o mesmo cupom pelo painel do cliente.
 
 - Se a foto falhar, o texto já pode ter sido salvo; corrija o envio da foto sem criar outro cupom.
 

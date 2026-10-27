@@ -14,7 +14,7 @@ tipo_problema:
   - reclamação
   - falar com atendente
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - oZf-HGbQC9c
@@ -38,6 +38,11 @@ mandar um pedido de ajuda por escrito para a equipe da New Córtex e acompanhar 
 6. Em `Mensagem`, conte o que você tentou fazer, o que esperava e o que apareceu na tela. [guia=chamado-novo.mensagem]
 7. Se quiser mandar print ou documento, clique em `Anexar arquivo` (veja `ac-anexar-arquivo-no-chamado`). [guia=chamado-novo.anexar]
 8. Clique em `Enviar chamado`. [guia=chamado-novo.enviar]
+
+## quando abrir
+
+- comece pelo chat de suporte com IA (veja `ac-chat-de-suporte-com-ia`); abra chamado se ele não resolver.
+- a equipe atende melhor com o negócio e o assunto certos, título curto e mensagem com o que tentou, o que esperava e o que apareceu na tela.
 
 ## resultado
 

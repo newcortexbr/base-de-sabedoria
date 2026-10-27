@@ -12,7 +12,7 @@ tipo_problema:
   - aguardando-dominio
   - endereco-do-site
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - DpFk0q7myio
@@ -44,6 +44,12 @@ o sistema começa a preparar o portal (`Preparando sua plataforma`). em seguida 
 - `A instalação já avançou de estado. Atualize a página.`: recarregue a página; o domínio provavelmente já foi registrado.
 - `Não foi possível declarar o domínio agora.`: tente de novo em alguns minutos.
 - ainda não tem domínio? a tela tem o vídeo `Como registrar um domínio` e atalhos para o registrador.
+
+## detalhes
+
+- Digite o domínio sem `www`. Com `Domínio válido`, repita para confirmar e confira a prévia: é nesse endereço que o portal abrirá.
+- Domínio já usado em outro site: escolha `Subdomínio` (ex.: `portal.suaempresa.com.br`), sem mexer no site existente.
+- Depois de instalado, o domínio não pode ser trocado. A próxima etapa é apontar o DNS do domínio para o portal.
 
 ## quando pedir ajuda
 se digitou o domínio errado e já clicou em `Continuar`, abra um chamado em `Suporte`: a troca depois do envio é feita pela equipe.

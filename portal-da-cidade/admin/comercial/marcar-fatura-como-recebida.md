@@ -20,7 +20,7 @@ tags:
   - cliente
   - vencimento
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - lwaG-T87hJI
@@ -56,6 +56,13 @@ A tela informa `Pagamento registrado` quando a operação funciona. A confirmaç
 ## desvios
 
 O valor deve ser maior que zero; se diferir da fatura, a janela avisa. A data não permite selecionar o futuro. Quando há cobrança ativa no Asaas, a janela informa que ela será encerrada para evitar pagamento duplicado; eventual comissão desse recebimento manual fica para pagar por fora.
+
+## como identificar e efeito
+
+- Fatura Pix sem baixa mostra o selo `Pix · aguardando comprovante`; o cartão de a receber conta as faturas `aguardando Pix`. Ao chegar o comprovante no WhatsApp, use `Já recebi`.
+- Também serve para pagamento por fora de fatura Asaas (dinheiro, transferência). O plano segue ativo, sem interrupção.
+- Ao confirmar: a fatura vai para `Pagas`, a contratação é ativada, o plano da empresa entra no ar e a próxima fatura do ciclo é gerada automaticamente.
+- Alternativa: `Meus clientes` > ficha do cliente > aba `Financeiro` > `Confirmar pagamento`.
 
 ## quando pedir ajuda
 

@@ -13,7 +13,7 @@ tags:
   - turismo
   - editar
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - QrkL_nJEa-c
@@ -36,6 +36,10 @@ Acesso de administrador e ponto cadastrado.
 
 ## resultado
 A dica é enviada diretamente e aparece na lista do ponto. O painel mostra `Dica salva`; não é necessário clicar em `Salvar alterações` para gravar essa dica.
+
+## o que colocar
+
+Recomendações práticas para quem vai ao local, como o melhor horário para ir ou o que levar.
 
 ## fontes
 - Código b2f62d3f: `frontend/src/app/painel/turismo/pontos/[id]/page.tsx:291` — salvamento imediato; `:586` — nova; `:602` — título; `:607` — descrição; `:611` — salvar.

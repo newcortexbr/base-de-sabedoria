@@ -16,11 +16,10 @@ tags:
   - guia
   - empresa
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - Z45xwGT8U38
-  - X2BpMhoYKiA
 ---
 
 ## objetivo
@@ -62,6 +61,15 @@ O produto fica salvo na seção escolhida. A exibição pública depende da publ
 - Cada produto tem a chave "no ar", o botão de fotos, o lápis para editar e a lixeira.
 - Na galeria do produto também cabe vídeo do YouTube.
 - A própria empresa também pode cuidar disso pela área do cliente; a tela é a mesma.
+
+## campos e dicas
+- o catálogo é vitrine com fotos, preço e ficha técnica; serve para lojas de roupa, concessionárias, eletrônicos, móveis etc. vale para todas as categorias do Guia, mas depende do plano (no plano Grátis não fica disponível).
+- seções organizam os produtos (ex.: feminino, masculino, calçados); a nova seção entra no fim da lista.
+- `Specs` aparecem como etiquetas no produto.
+- a chave "no ar" tira o produto do site sem apagar.
+- no portal: a página da loja ganha o bloco `Catálogo de produtos` (número de categorias e itens) com `Ver catálogo completo`. o catálogo abre com abas/filtros por seção e cada produto em card com foto, selo, marca, specs, descrição e preço; ao lado ficam contato, endereço e horário.
+- o botão `Tenho interesse` do card abre o WhatsApp da loja já citando o produto.
+- boas fotos e preços claros convertem visitas em vendas; mantenha o catálogo atualizado.
 
 ## quando pedir ajuda
 

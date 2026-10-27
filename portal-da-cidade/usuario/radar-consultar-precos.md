@@ -8,7 +8,7 @@ categoria: radar
 aba: nao-se-aplica
 tipo_problema: orientacao
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - O3sdByn6xK8
@@ -38,6 +38,9 @@ você vê preços atualizados e o melhor lugar para comprar. Para somar a compra
 
 ## desvios
 
+- no topo da página há três atalhos: consultar preços, `Comparar lista` e `Enviar preço`. Para divulgar um preço bom, envie a foto da etiqueta ou do encarte em `Enviar preço`: a equipe confere antes de publicar.
+- cada oferta mostra preço, estabelecimento, data e validade.
+- em postos, compare o mesmo combustível no mesmo tipo de pagamento.
 - preço pode ter mudado desde a data mostrada. Confira no local.
 - só aparecem preços que a equipe do portal já conferiu.
 - sem resultado aparece `Nenhum preço para essa busca.` com o botão `Limpar busca e filtros`.

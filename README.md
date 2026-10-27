@@ -21,6 +21,7 @@ próximo passo previsto (não feito): carregar `indice.json` num SQLite com FTS5
 ## regras
 
 - `interno/` e `mapa/` dentro de um produto não são artigos de atendimento: nunca vão ao chat.
+- admin e cliente nunca dividem artigo: o que existe para os dois tem um artigo de admin (painel) e outro de cliente (área do cliente). artigo de admin não reusa artigo, caminho, rótulo nem vídeo da área do cliente. `node scripts/indice.mjs` falha se um artigo de admin tiver outro público ou vídeo só das abas de cliente da planilha.
 - formato de artigo: frontmatter (`id`, `titulo`, `publico`, `modulo`, `aba`, `tipo_problema`, `videos`, opcional `produto`) e seções `## objetivo`, `## passos` etc. Ver o README de cada produto.
 - na Área do Cliente, artigo com `produto:` só aparece para quem tem aquele produto.
 

@@ -4,9 +4,9 @@
   "area-do-cliente": 92,
   "dados-pj": 14,
   "extrator-maps": 21,
-  "portal-da-cidade": 279
+  "portal-da-cidade": 290
  },
- "total": 406,
+ "total": 417,
  "artigos": [
   {
    "id": "ac-ativar-conta-pelo-convite",
@@ -864,7 +864,7 @@
     "2sVAq8AngnY"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-21",
+   "revisado_em": "2026-10-27",
    "termos": [
     "sao",
     "ferramentas",
@@ -1117,7 +1117,7 @@
     "RjoIdbHZrkQ"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-21",
+   "revisado_em": "2026-10-27",
    "termos": [
     "vejo",
     "cobrancas",
@@ -1789,7 +1789,7 @@
     "dbFUi5ENvOg"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-21",
+   "revisado_em": "2026-10-27",
    "termos": [
     "aparece",
     "pagina",
@@ -1871,7 +1871,7 @@
     "CgrBKTyXSsI"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-21",
+   "revisado_em": "2026-10-27",
    "termos": [
     "confirmar",
     "portal",
@@ -2039,7 +2039,7 @@
     "DpFk0q7myio"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-21",
+   "revisado_em": "2026-10-27",
    "termos": [
     "informar",
     "dominio",
@@ -2309,7 +2309,7 @@
     "DpFk0q7myio"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-21",
+   "revisado_em": "2026-10-27",
    "termos": [
     "ainda",
     "tenho",
@@ -2351,7 +2351,7 @@
     "CgrBKTyXSsI"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-21",
+   "revisado_em": "2026-10-27",
    "termos": [
     "portal",
     "ficam",
@@ -2444,7 +2444,7 @@
     "9-7aT2M-jmk"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-21",
+   "revisado_em": "2026-10-27",
    "termos": [
     "trocar",
     "nameservers",
@@ -2709,7 +2709,7 @@
     "3i_JcDTTKtA"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-21",
+   "revisado_em": "2026-10-27",
    "termos": [
     "ver",
     "agenda",
@@ -3098,7 +3098,7 @@
     "ZY0xttnJyzI"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-21",
+   "revisado_em": "2026-10-27",
    "termos": [
     "ver",
     "negocios",
@@ -3141,7 +3141,7 @@
     "o-YLH2-8w8I"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-21",
+   "revisado_em": "2026-10-27",
    "termos": [
     "aparece",
     "visao",
@@ -3225,7 +3225,7 @@
     "oZf-HGbQC9c"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-21",
+   "revisado_em": "2026-10-27",
    "termos": [
     "abrir",
     "chamado",
@@ -3689,7 +3689,7 @@
    "tags": [],
    "videos": [],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-21",
+   "revisado_em": "2026-10-27",
    "termos": [
     "navegar",
     "pelos",
@@ -3765,7 +3765,7 @@
    "tags": [],
    "videos": [],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-21",
+   "revisado_em": "2026-10-27",
    "termos": [
     "start",
     "comece",
@@ -4197,7 +4197,7 @@
     "IKdKLgi-e94"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-21",
+   "revisado_em": "2026-10-27",
    "termos": [
     "dados",
     "serve",
@@ -4329,7 +4329,7 @@
     "IKdKLgi-e94"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-21",
+   "revisado_em": "2026-10-27",
    "termos": [
     "filtros",
     "empresa",
@@ -4380,7 +4380,7 @@
     "IKdKLgi-e94"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-21",
+   "revisado_em": "2026-10-27",
    "termos": [
     "filtros",
     "local",
@@ -5156,7 +5156,7 @@
     "F136_v1JyRY"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-21",
+   "revisado_em": "2026-10-27",
    "termos": [
     "nova",
     "extracao",
@@ -5489,6 +5489,47 @@
    "caminho": "portal-da-cidade/admin/acesso/esqueci-a-senha-do-painel.md"
   },
   {
+   "id": "admin-sair-do-painel",
+   "titulo": "sair do painel do portal",
+   "objetivo": "sair da sua conta no painel, por exemplo para entrar com outro e-mail.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "acesso",
+   "aba": "nao-se-aplica",
+   "tipos": [
+    "como sair da conta",
+    "fazer logout",
+    "trocar de conta"
+   ],
+   "tags": [
+    "sair",
+    "conta",
+    "painel",
+    "entrar"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "sair",
+    "painel",
+    "portal",
+    "acesso",
+    "aplica",
+    "conta",
+    "logout",
+    "trocar",
+    "entrar",
+    "exemplo",
+    "outro",
+    "mail"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/acesso/sair-do-painel.md"
+  },
+  {
    "id": "admin-trocar-a-propria-senha",
    "titulo": "trocar a minha senha do painel",
    "objetivo": "Troque a senha de acesso ao painel quando souber a senha atual.",
@@ -5557,7 +5598,7 @@
     "1RHf0fcXgyE"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "consultar",
     "faturas",
@@ -5607,7 +5648,7 @@
     "2ShbACG2mHE"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "acompanhar",
     "fila",
@@ -5772,7 +5813,7 @@
     "wukhVMFEHWg"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "trocar",
     "whatsapp",
@@ -5821,7 +5862,7 @@
     "Ps1cgdLQ1FI"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "cadastrar",
     "anunciante",
@@ -5927,7 +5968,7 @@
     "BqIfSq7bVXM"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "ativar",
     "desativar",
@@ -6071,7 +6112,7 @@
     "ufB3QTKfPsM"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "criar",
     "areas",
@@ -6113,7 +6154,7 @@
     "ufB3QTKfPsM"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "cadastrar",
     "empresa",
@@ -6207,7 +6248,7 @@
     "ufB3QTKfPsM"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "cadastrar",
     "vaga",
@@ -6296,7 +6337,7 @@
     "Ps1cgdLQ1FI"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "criar",
     "categorias",
@@ -6431,7 +6472,7 @@
     "MbMNv59z7Bg"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-25",
+   "revisado_em": "2026-10-27",
    "termos": [
     "colocar",
     "espaco",
@@ -6570,7 +6611,7 @@
     "8gIDPdapN0E"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "mandar",
     "comissao",
@@ -6626,7 +6667,7 @@
     "lwaG-T87hJI"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "conectar",
     "conta",
@@ -6685,7 +6726,7 @@
     "VV8BxCbIfz4"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "configurar",
     "botoes",
@@ -6732,7 +6773,7 @@
     "XekThBh1ygU"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "mudar",
     "cores",
@@ -6827,7 +6868,7 @@
     "XekThBh1ygU"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "configurar",
     "nome",
@@ -6926,7 +6967,7 @@
     "31ftVMQ_yr4"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "ajustar",
     "planos",
@@ -7037,7 +7078,7 @@
     "XekThBh1ygU"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "mudar",
     "rodape",
@@ -7091,7 +7132,7 @@
     "XekThBh1ygU"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "mudar",
     "topo",
@@ -7219,7 +7260,7 @@
     "ajzmuupRJMM"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "decidir",
     "votos",
@@ -7357,7 +7398,7 @@
     "09n3Eiwn418"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "editar",
     "categoria",
@@ -7396,7 +7437,7 @@
     "pBHdF3bd1QI"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "editar",
     "cupom",
@@ -7478,7 +7519,7 @@
     "ajzmuupRJMM"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "alterar",
     "datas",
@@ -7522,8 +7563,7 @@
     "guia"
    ],
    "videos": [
-    "okWcwnwq5Bk",
-    "-cq2YnG0vis"
+    "okWcwnwq5Bk"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -7607,8 +7647,7 @@
     "empresa"
    ],
    "videos": [
-    "Z45xwGT8U38",
-    "X2BpMhoYKiA"
+    "Z45xwGT8U38"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -7693,8 +7732,7 @@
     "empresa"
    ],
    "videos": [
-    "reZ3e1a4o-o",
-    "aSRf0hwUrrc"
+    "reZ3e1a4o-o"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -7734,8 +7772,7 @@
     "guia"
    ],
    "videos": [
-    "aE3QL3ErK0k",
-    "FwKU_0GF6iU"
+    "aE3QL3ErK0k"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -7824,7 +7861,7 @@
     "-FASO6flcCw"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "encontrar",
     "cliente",
@@ -8306,7 +8343,7 @@
     "reZ3e1a4o-o"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "colocar",
     "fotos",
@@ -8349,7 +8386,7 @@
     "BqIfSq7bVXM"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "gerenciar",
     "banners",
@@ -8396,11 +8433,10 @@
     "empresa"
    ],
    "videos": [
-    "VV8BxCbIfz4",
-    "gmYWNfgX8LM"
+    "VV8BxCbIfz4"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "montar",
     "cardapio",
@@ -8448,7 +8484,7 @@
     "TgIUmqrRuBY"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "montar",
     "cardapio",
@@ -8493,11 +8529,10 @@
     "empresa"
    ],
    "videos": [
-    "Z45xwGT8U38",
-    "X2BpMhoYKiA"
+    "Z45xwGT8U38"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "catalogo",
     "produtos",
@@ -8540,7 +8575,7 @@
     "09n3Eiwn418"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "revisar",
     "categorias",
@@ -8586,7 +8621,7 @@
     "Ps1cgdLQ1FI"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "localizar",
     "gerenciar",
@@ -8633,7 +8668,7 @@
     "pBHdF3bd1QI"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "criar",
     "gerenciar",
@@ -8677,7 +8712,7 @@
     "JdJr7pXVx98"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "localizar",
     "atualizar",
@@ -8719,11 +8754,10 @@
     "guia"
    ],
    "videos": [
-    "okWcwnwq5Bk",
-    "-cq2YnG0vis"
+    "okWcwnwq5Bk"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "equipe",
     "cadastrar",
@@ -8766,7 +8800,7 @@
     "-FASO6flcCw"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "clientes",
     "acompanhar",
@@ -8817,7 +8851,7 @@
     "8gIDPdapN0E"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "cadastrar",
     "editar",
@@ -8873,11 +8907,10 @@
     "empresa"
    ],
    "videos": [
-    "reZ3e1a4o-o",
-    "aSRf0hwUrrc"
+    "reZ3e1a4o-o"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "quartos",
     "suites",
@@ -8922,11 +8955,10 @@
     "guia"
    ],
    "videos": [
-    "aE3QL3ErK0k",
-    "FwKU_0GF6iU"
+    "aE3QL3ErK0k"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "servicos",
     "cadastrar",
@@ -8968,7 +9000,7 @@
     "ufB3QTKfPsM"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "localizar",
     "gerenciar",
@@ -9023,7 +9055,7 @@
     "8gIDPdapN0E"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "guardar",
     "link",
@@ -9069,7 +9101,7 @@
     "F136_v1JyRY"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "importar",
     "empresas",
@@ -9213,7 +9245,7 @@
     "09n3Eiwn418"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "liberar",
     "cardapio",
@@ -9262,7 +9294,7 @@
     "8M4kdEfP7Eg"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "ligar",
     "aviso",
@@ -9358,7 +9390,7 @@
     "1RHf0fcXgyE"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "marcar",
     "fatura",
@@ -9460,7 +9492,7 @@
     "Ru3949-VUX4"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "moderar",
     "solicitacoes",
@@ -9512,7 +9544,7 @@
     "ajzmuupRJMM"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "montar",
     "acompanhar",
@@ -9563,7 +9595,7 @@
     "XekThBh1ygU"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "montar",
     "tela",
@@ -9616,7 +9648,7 @@
     "8M4kdEfP7Eg"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "mostrar",
     "convite",
@@ -9659,7 +9691,7 @@
     "8gIDPdapN0E"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "mudar",
     "comissao",
@@ -9752,7 +9784,7 @@
     "JdJr7pXVx98"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "mudar",
     "situacao",
@@ -9853,7 +9885,7 @@
     "TgIUmqrRuBY"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "criar",
     "tamanhos",
@@ -9899,7 +9931,7 @@
     "2ShbACG2mHE"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "configurar",
     "delivery",
@@ -9965,6 +9997,93 @@
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/comercial/pagar-comissao-de-parceiro-por-fora.md"
+  },
+  {
+   "id": "admin-pausar-encerrar-ou-reativar-classificado",
+   "titulo": "pausar, encerrar ou reativar um anúncio classificado pelo painel",
+   "objetivo": "tirar um anúncio classificado do ar por um tempo, encerrá-lo ou colocá-lo de volta, sem excluir.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "classificados",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "tags": [
+    "pausar",
+    "reativar",
+    "classificado",
+    "anuncio",
+    "status",
+    "no ar"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "pausar",
+    "encerrar",
+    "reativar",
+    "anuncio",
+    "classificado",
+    "pelo",
+    "painel",
+    "classificados",
+    "aplica",
+    "status",
+    "tirar",
+    "tempo",
+    "encerra",
+    "coloca",
+    "volta",
+    "sem",
+    "excluir"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/comercial/pausar-encerrar-ou-reativar-classificado.md"
+  },
+  {
+   "id": "admin-pausar-encerrar-ou-reativar-vaga",
+   "titulo": "pausar, encerrar ou reativar uma vaga de emprego pelo painel",
+   "objetivo": "tirar uma vaga do ar por um tempo, encerrá-la ou colocá-la de volta, sem excluir.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "vagas",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "tags": [
+    "pausar",
+    "reativar",
+    "vaga",
+    "status",
+    "no ar"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "pausar",
+    "encerrar",
+    "reativar",
+    "vaga",
+    "emprego",
+    "pelo",
+    "painel",
+    "vagas",
+    "aplica",
+    "status",
+    "tirar",
+    "tempo",
+    "encerra",
+    "coloca",
+    "volta",
+    "sem",
+    "excluir"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/comercial/pausar-encerrar-ou-reativar-vaga.md"
   },
   {
    "id": "pegar-dados-do-google-ao-cadastrar-empresa",
@@ -10097,7 +10216,7 @@
     "lwaG-T87hJI"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "receber",
     "pix",
@@ -10367,7 +10486,7 @@
     "wukhVMFEHWg"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "trocar",
     "plano",
@@ -10413,7 +10532,7 @@
     "lwaG-T87hJI"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "definir",
     "whatsapp",
@@ -10682,7 +10801,7 @@
     "CRiUbh7wHdc"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "cadastrar",
     "publicar",
@@ -10863,7 +10982,7 @@
     "CRiUbh7wHdc"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "cadastrar",
     "colunista",
@@ -11386,7 +11505,7 @@
     "Hyh3UxHW_jU"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "cadastrar",
     "evento",
@@ -11513,7 +11632,7 @@
     "gAa2NdnitZU"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "cadastrar",
     "cuidar",
@@ -11608,7 +11727,7 @@
     "r5rFCgAV0mg"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "noticias",
     "automaticas",
@@ -11742,7 +11861,7 @@
     "gAa2NdnitZU"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "encontrar",
     "filtrar",
@@ -11873,7 +11992,7 @@
     "gAa2NdnitZU"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "noticias",
     "cadastrar",
@@ -12147,7 +12266,7 @@
     "r5rFCgAV0mg"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "adicionar",
     "fonte",
@@ -12587,7 +12706,7 @@
     "QrkL_nJEa-c"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "adicionar",
     "dicas",
@@ -12763,7 +12882,7 @@
     "QrkL_nJEa-c"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "cadastrar",
     "ponto",
@@ -12807,7 +12926,7 @@
     "CMEOWthwqtI"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "cadastrar",
     "roteiro",
@@ -13025,7 +13144,7 @@
     "-ZLL7Cqwcok"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "agendar",
     "notificacao",
@@ -13186,7 +13305,7 @@
     "0nkWIgiQfwM"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "assistente",
     "ligar",
@@ -13289,7 +13408,7 @@
     "grm3bUrPBxM"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "cadastrar",
     "causa",
@@ -13377,7 +13496,7 @@
     "grm3bUrPBxM"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "cadastrar",
     "instituicoes",
@@ -13467,7 +13586,7 @@
     "-ZLL7Cqwcok"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "ligar",
     "desligar",
@@ -13886,7 +14005,7 @@
     "-ZLL7Cqwcok"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "enviar",
     "notificacoes",
@@ -14091,7 +14210,7 @@
     "VhMHVZujDvQ"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "juntar",
     "produtos",
@@ -14135,7 +14254,7 @@
     "VhMHVZujDvQ"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "lancar",
     "preco",
@@ -14179,7 +14298,7 @@
     "-ZLL7Cqwcok"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "mudar",
     "texto",
@@ -14354,6 +14473,52 @@
    "caminho": "portal-da-cidade/admin/portal/painel-inicio-administracao-e-pendencias.md"
   },
   {
+   "id": "admin-precos-enviados-por-empresas",
+   "titulo": "preços colocados por empresas: Radar, cardápio do delivery e Guia, e o que passa pela sua aprovação",
+   "objetivo": "saber por onde as empresas colocam preço no portal e o que o administrador precisa aprovar.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "radar",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "tags": [
+    "preco",
+    "radar",
+    "cardapio",
+    "delivery",
+    "aprovacao",
+    "empresa"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "precos",
+    "colocados",
+    "empresas",
+    "radar",
+    "cardapio",
+    "delivery",
+    "guia",
+    "passa",
+    "pela",
+    "aprovacao",
+    "aplica",
+    "preco",
+    "empresa",
+    "saber",
+    "colocam",
+    "portal",
+    "administrador",
+    "precisa",
+    "aprovar"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/portal/precos-enviados-por-empresas.md"
+  },
+  {
    "id": "radar-categorias",
    "titulo": "mudar as categorias do Radar de Preços",
    "objetivo": "Mude o nome, o ícone, a ordem ou a visibilidade de uma categoria do Radar.",
@@ -14377,7 +14542,7 @@
     "hrri-AfQihQ"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "mudar",
     "categorias",
@@ -14422,7 +14587,7 @@
     "O3sdByn6xK8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "radar",
     "precos",
@@ -14466,7 +14631,7 @@
     "CSYITekPVcw"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "aprovar",
     "fotos",
@@ -14512,7 +14677,7 @@
     "Xfc771aD4z8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "aprovar",
     "juntar",
@@ -14558,7 +14723,7 @@
     "focSRBTLhQE"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "resolver",
     "precos",
@@ -14604,7 +14769,7 @@
     "VhMHVZujDvQ"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "ver",
     "lancar",
@@ -14645,7 +14810,7 @@
     "REgRSXekqpA"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "realizar",
     "sorteio",
@@ -14767,6 +14932,68 @@
    "caminho": "portal-da-cidade/admin/portal/regras-de-aprovacao-e-denuncias.md"
   },
   {
+   "id": "admin-salvei-e-ainda-aparece-o-antigo",
+   "titulo": "salvei no painel, mas o site ainda mostra o antigo",
+   "objetivo": "entender por que uma mudança salva no painel pode demorar para aparecer no site e o que fazer.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "geral",
+   "aba": "nao-se-aplica",
+   "tipos": [
+    "alterei e não mudou",
+    "salvei e não apareceu",
+    "logo antigo no site",
+    "cor não mudou",
+    "notícia não apareceu",
+    "evento não apareceu",
+    "categoria não aparece"
+   ],
+   "tags": [
+    "cache",
+    "atualizacao",
+    "editar",
+    "erro",
+    "no ar",
+    "painel"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "salvei",
+    "painel",
+    "mas",
+    "site",
+    "ainda",
+    "mostra",
+    "antigo",
+    "geral",
+    "aplica",
+    "alterei",
+    "mudou",
+    "apareceu",
+    "logo",
+    "cor",
+    "noticia",
+    "evento",
+    "categoria",
+    "aparece",
+    "cache",
+    "atualizacao",
+    "editar",
+    "erro",
+    "entender",
+    "mudanca",
+    "salva",
+    "demorar",
+    "aparecer"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/portal/salvei-e-ainda-aparece-o-antigo.md"
+  },
+  {
    "id": "sorteios",
    "titulo": "criar, publicar e realizar sorteios",
    "objetivo": "Crie um sorteio e publique as inscrições no portal.",
@@ -14791,7 +15018,7 @@
     "REgRSXekqpA"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "criar",
     "publicar",
@@ -14931,7 +15158,7 @@
     "1a0wZmdXDLk"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "cadastrar",
     "linhas",
@@ -14982,7 +15209,7 @@
     "1a0wZmdXDLk"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "cadastrar",
     "telefones",
@@ -15081,7 +15308,7 @@
     "-ZLL7Cqwcok"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "ver",
     "quantas",
@@ -15126,7 +15353,7 @@
     "uN4FHHHGgEs"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "ver",
     "exportar",
@@ -15255,7 +15482,7 @@
     "1a0wZmdXDLk"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "voz",
     "povo",
@@ -15651,7 +15878,7 @@
     "8VRaUwhuhO0"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "atualizar",
     "perfil",
@@ -15703,7 +15930,7 @@
     "8VRaUwhuhO0"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "publicar",
     "artigo",
@@ -15744,7 +15971,7 @@
     "NELLwm_ClmA"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "virar",
     "colunista",
@@ -15794,7 +16021,7 @@
     "viWXA8_mZf4"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "consultar",
     "pedidos",
@@ -15958,7 +16185,7 @@
     "bDAKcYvx4wo"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "contratar",
     "banner",
@@ -16014,7 +16241,7 @@
     "-Islw_h8OhU"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "contratar",
     "materia",
@@ -16062,7 +16289,7 @@
     "D21vBBhzlhg"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "criar",
     "vaga",
@@ -16107,7 +16334,7 @@
     "TWKsO_iuxGE"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "divulgar",
     "evento",
@@ -16189,10 +16416,9 @@
   {
    "id": "empresa-enviar-preco-e-aprovacao",
    "titulo": "empresa enviar preço: Radar, cardápio e Guia, e se precisa de aprovação",
-   "objetivo": "saber por onde uma empresa pode colocar preço no portal e se o preço passa pela sua aprovação.",
+   "objetivo": "saber por onde a sua empresa pode colocar preço no portal e se o preço passa pela aprovação do portal.",
    "publico": [
-    "cliente",
-    "admin"
+    "cliente"
    ],
    "produto": null,
    "modulo": "radar",
@@ -16209,7 +16435,7 @@
    ],
    "videos": [],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "empresa",
     "enviar",
@@ -16354,7 +16580,7 @@
     "UwPhKSt-mvM"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "visao",
     "geral",
@@ -16402,7 +16628,7 @@
     "4pc8AwOX0hA"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "acompanhar",
     "editar",
@@ -16454,7 +16680,7 @@
     "v7uO6kjwVOA"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "consultar",
     "cupons",
@@ -16573,6 +16799,124 @@
    "caminho": "portal-da-cidade/cliente/guia-comercial/cadastrar-empresa-no-guia.md"
   },
   {
+   "id": "cliente-guia-cardapio-da-empresa",
+   "titulo": "montar o cardápio digital da empresa: seções, pratos, preço promocional, selos, fotos, botões, tema e QR code",
+   "objetivo": "montar o cardápio para o cliente consultar pratos e preços (não é a loja de pedidos; para vender com carrinho, veja \"montar a loja de delivery da empresa\").",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "guia-comercial",
+   "aba": "Guia Comercial",
+   "tipos": [
+    "cardapio"
+   ],
+   "tags": [
+    "criar",
+    "cardapio",
+    "prato",
+    "preco",
+    "foto",
+    "qr code",
+    "tema",
+    "botao",
+    "guia",
+    "empresa"
+   ],
+   "videos": [
+    "gmYWNfgX8LM"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "montar",
+    "cardapio",
+    "digital",
+    "empresa",
+    "secoes",
+    "pratos",
+    "preco",
+    "promocional",
+    "selos",
+    "fotos",
+    "botoes",
+    "tema",
+    "code",
+    "guia",
+    "comercial",
+    "criar",
+    "prato",
+    "foto",
+    "botao",
+    "cliente",
+    "consultar",
+    "precos",
+    "loja",
+    "pedidos",
+    "vender",
+    "carrinho",
+    "veja",
+    "delivery"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/cliente/guia-comercial/cardapio-da-empresa.md"
+  },
+  {
+   "id": "cliente-guia-catalogo-de-produtos",
+   "titulo": "montar o catálogo de produtos da empresa: seções, marca, preço, selo, ficha técnica e fotos",
+   "objetivo": "montar uma vitrine de produtos com fotos, preço e ficha técnica; o cliente chama a loja no WhatsApp pelo produto.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "guia-comercial",
+   "aba": "Guia Comercial",
+   "tipos": [
+    "catalogo"
+   ],
+   "tags": [
+    "criar",
+    "catalogo",
+    "produto",
+    "preco",
+    "foto",
+    "whatsapp",
+    "guia",
+    "empresa"
+   ],
+   "videos": [
+    "X2BpMhoYKiA"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "montar",
+    "catalogo",
+    "produtos",
+    "empresa",
+    "secoes",
+    "marca",
+    "preco",
+    "selo",
+    "ficha",
+    "tecnica",
+    "fotos",
+    "guia",
+    "comercial",
+    "criar",
+    "produto",
+    "foto",
+    "whatsapp",
+    "vitrine",
+    "cliente",
+    "chama",
+    "loja",
+    "pelo"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/cliente/guia-comercial/catalogo-de-produtos-da-empresa.md"
+  },
+  {
    "id": "cliente-guia-comercial-completar-ficha",
    "titulo": "completar a ficha da sua empresa no Guia Comercial: contatos, fotos, comodidades e links",
    "objetivo": "completar a ficha da empresa no Guia Comercial com contatos, fotos, comodidades, formas de pagamento e links.",
@@ -16598,7 +16942,7 @@
     "8EwkE_ascEw"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "completar",
     "ficha",
@@ -16619,6 +16963,229 @@
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/cliente/guia-comercial/completar-ficha-da-empresa-no-guia.md"
+  },
+  {
+   "id": "cliente-configurar-delivery-da-empresa",
+   "titulo": "montar a loja de delivery da empresa: ligar os pedidos, WhatsApp, taxa, pagamento, bairros e cardápio de venda",
+   "objetivo": "abrir a loja de delivery da empresa no portal: o cliente monta o carrinho e o pedido chega no seu WhatsApp.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "delivery",
+   "aba": "Guia Comercial",
+   "tipos": [
+    "configurar-delivery",
+    "delivery-em-breve"
+   ],
+   "tags": [
+    "configurar",
+    "delivery",
+    "cardapio",
+    "produto",
+    "whatsapp",
+    "pagamento",
+    "pix",
+    "bairro",
+    "ligar",
+    "empresa"
+   ],
+   "videos": [
+    "qpocVX6gjVA"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "montar",
+    "loja",
+    "delivery",
+    "empresa",
+    "ligar",
+    "pedidos",
+    "whatsapp",
+    "taxa",
+    "pagamento",
+    "bairros",
+    "cardapio",
+    "venda",
+    "guia",
+    "comercial",
+    "configurar",
+    "breve",
+    "produto",
+    "pix",
+    "bairro",
+    "abrir",
+    "portal",
+    "cliente",
+    "monta",
+    "carrinho",
+    "pedido",
+    "chega"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/cliente/guia-comercial/configurar-delivery-da-empresa.md"
+  },
+  {
+   "id": "cliente-guia-equipe-da-empresa",
+   "titulo": "criar a página da equipe da empresa: nome, cargo, registro profissional e foto",
+   "objetivo": "apresentar os profissionais da empresa com foto, nome e cargo, para passar confiança.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "guia-comercial",
+   "aba": "Guia Comercial",
+   "tipos": [
+    "equipe"
+   ],
+   "tags": [
+    "criar",
+    "equipe",
+    "cargo",
+    "foto",
+    "guia",
+    "empresa"
+   ],
+   "videos": [
+    "-cq2YnG0vis"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "criar",
+    "pagina",
+    "equipe",
+    "empresa",
+    "nome",
+    "cargo",
+    "registro",
+    "profissional",
+    "foto",
+    "guia",
+    "comercial",
+    "apresentar",
+    "profissionais",
+    "passar",
+    "confianca"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/cliente/guia-comercial/equipe-da-empresa.md"
+  },
+  {
+   "id": "cliente-guia-quartos-e-suites",
+   "titulo": "cadastrar quartos e suítes da hospedagem: seções, diária, diária promocional, comodidades e fotos",
+   "objetivo": "mostrar os quartos da hospedagem com fotos, diárias e o que cada um oferece; o hóspede reserva pelo WhatsApp.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "guia-comercial",
+   "aba": "Guia Comercial",
+   "tipos": [
+    "quartos"
+   ],
+   "tags": [
+    "criar",
+    "quarto",
+    "diaria",
+    "preco",
+    "foto",
+    "comodidade",
+    "guia",
+    "empresa"
+   ],
+   "videos": [
+    "aSRf0hwUrrc"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "cadastrar",
+    "quartos",
+    "suites",
+    "hospedagem",
+    "secoes",
+    "diaria",
+    "promocional",
+    "comodidades",
+    "fotos",
+    "guia",
+    "comercial",
+    "criar",
+    "quarto",
+    "preco",
+    "foto",
+    "comodidade",
+    "empresa",
+    "mostrar",
+    "diarias",
+    "cada",
+    "oferece",
+    "hospede",
+    "reserva",
+    "pelo",
+    "whatsapp"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/cliente/guia-comercial/quartos-e-suites-da-empresa.md"
+  },
+  {
+   "id": "cliente-guia-servicos-da-empresa",
+   "titulo": "criar a página de serviços da empresa: seções, preço fixo ou em texto, duração, detalhe e ícone",
+   "objetivo": "mostrar o que a empresa faz, quanto custa e quanto tempo leva; o cliente agenda pelo WhatsApp.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "guia-comercial",
+   "aba": "Guia Comercial",
+   "tipos": [
+    "servicos"
+   ],
+   "tags": [
+    "criar",
+    "servico",
+    "preco",
+    "whatsapp",
+    "agendar",
+    "guia",
+    "empresa"
+   ],
+   "videos": [
+    "FwKU_0GF6iU"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "criar",
+    "pagina",
+    "servicos",
+    "empresa",
+    "secoes",
+    "preco",
+    "fixo",
+    "texto",
+    "duracao",
+    "detalhe",
+    "icone",
+    "guia",
+    "comercial",
+    "servico",
+    "whatsapp",
+    "agendar",
+    "mostrar",
+    "faz",
+    "quanto",
+    "custa",
+    "tempo",
+    "leva",
+    "cliente",
+    "agenda",
+    "pelo"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/cliente/guia-comercial/servicos-da-empresa.md"
   },
   {
    "id": "cliente-jornalista-publicar-noticia",
@@ -16645,7 +17212,7 @@
     "by3tA7GUa88"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "publicar",
     "noticia",
@@ -17006,7 +17573,7 @@
     "525qfVrQ4iY"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "pausar",
     "reativar",
@@ -17514,7 +18081,7 @@
     "zHOxx6KFIrk"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "publicar",
     "anuncio",
@@ -17608,7 +18175,7 @@
     "KiGU9vNKIwg"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "responder",
     "pedidos",
@@ -17636,8 +18203,7 @@
    "titulo": "salvei, mas o site ainda mostra o antigo",
    "objetivo": "aqui você entende por que uma mudança pode demorar um pouco para aparecer no site e o que fazer.",
    "publico": [
-    "cliente",
-    "admin"
+    "cliente"
    ],
    "produto": null,
    "modulo": "geral",
@@ -17647,7 +18213,6 @@
     "alterei e não mudou",
     "salvei e não apareceu",
     "logo antigo no site",
-    "cor não mudou",
     "notícia não apareceu",
     "evento não apareceu",
     "categoria não aparece"
@@ -17658,11 +18223,11 @@
     "editar",
     "erro",
     "no ar",
-    "painel"
+    "area do cliente"
    ],
    "videos": [],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "salvei",
     "mas",
@@ -17678,7 +18243,6 @@
     "mudou",
     "apareceu",
     "logo",
-    "cor",
     "noticia",
     "evento",
     "categoria",
@@ -17686,7 +18250,8 @@
     "cache",
     "atualizacao",
     "editar",
-    "painel",
+    "area",
+    "cliente",
     "voce",
     "entende",
     "mudanca",
@@ -17760,7 +18325,7 @@
     "Uv6Zt7V9YN0"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "criar",
     "conta",
@@ -17842,7 +18407,7 @@
     "8v1W-gtTRow"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "conhecer",
     "ajudar",
@@ -17955,7 +18520,7 @@
     "v7uO6kjwVOA"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "encontrar",
     "consultar",
@@ -18026,7 +18591,7 @@
     "G1B9mAWbCk4"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "enviar",
     "denuncia",
@@ -18177,7 +18742,7 @@
     "VmEwdNZd7pw"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "pedir",
     "orcamento",
@@ -18250,7 +18815,7 @@
     "O3sdByn6xK8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "comparar",
     "precos",
@@ -18281,7 +18846,7 @@
     "3FZrdVUN_Yk"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "enviar",
     "preco",
@@ -18323,7 +18888,7 @@
     "Be_8j63JLwI"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "votar",
     "melhores",

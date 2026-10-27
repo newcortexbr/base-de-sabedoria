@@ -15,11 +15,10 @@ tags:
   - empresa
   - guia
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - okWcwnwq5Bk
-  - -cq2YnG0vis
 ---
 
 ## objetivo
@@ -57,6 +56,14 @@ O membro é salvo na lista da equipe. Este cadastro mostra um profissional na fi
 ## quando pedir ajuda
 
 peça ajuda se o cartão não aparecer ou se salvar der erro.
+
+## campos e como aparece no portal
+
+- Serve a qualquer categoria do Guia (clínicas, salões, escritórios, consultórios); depende do plano da empresa.
+- A tela mostra quantos membros estão publicados.
+- Foto: opcional, de preferência de rosto e com boa luz; aparece redonda no portal.
+- `Cargo / Especialidade *`: ex. cardiologista, cabeleireiro. `Registro profissional (opcional)`: CRM, CREA, OAB etc.
+- Na ficha da empresa, o bloco `Nossa equipe` mostra foto, nome e especialidade de cada membro publicado.
 
 ## fontes
 

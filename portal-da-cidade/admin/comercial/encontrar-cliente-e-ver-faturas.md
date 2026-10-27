@@ -15,7 +15,7 @@ tags:
   - plano
   - contratar
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - -FASO6flcCw
@@ -52,6 +52,13 @@ O botão de adicionar um plano na ficha é `+ Registrar contratação`. Não con
 ## quando pedir ajuda
 
 Peça ajuda se a tela mostrar erro ou se o resultado não corresponder ao que você salvou. Não envie senhas, chaves ou comprovantes ao assistente.
+
+## ficha do cliente
+
+- Topo: documento, WhatsApp e e-mail, com botão de editar.
+- `Contratações`: cada plano com preço, período e status; em cada um é possível `Renovar` ou `Cancelar`. `+ Registrar contratação` vende um plano novo (`Seção`, `Plano`, datas, `Preço cobrado (R$)` e `Observações`).
+- `Financeiro`: faturas uma a uma. Se o cliente pagou por fora, `Confirmar pagamento` mantém o plano no ar sem interrupção.
+- `No portal`: tudo o que o cliente tem publicado (empresas no guia, vagas, classificados e banners).
 
 ## fontes
 

@@ -20,7 +20,7 @@ tags:
   - assinatura
   - contratar
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 31ftVMQ_yr4
@@ -69,6 +69,38 @@ Reajuste de contratos vigentes e de faturas já emitidas não foi verificado. N�
 ## quando pedir ajuda
 
 Peça ajuda se a tela mostrar erro ou se o resultado não corresponder ao que você salvou. Não envie senhas, chaves ou comprovantes ao assistente.
+
+## visão geral da tela
+
+- Quatro números no topo: planos à venda, seções vendendo, seções sem nada à venda e espaços de banner com preço.
+- Um cartão por seção (Notícias, Vagas de Emprego, Classificados, Guia Comercial, Agenda de Eventos, Artigos) e, no fim, Publicidade (banners).
+- Cada forma de pagamento criada vira uma aba na seção (`Mensal`, `Semestral`, `Pagamento Único` etc.), a mesma escada que o cliente vê ao contratar.
+- O administrador pode: mudar o nome, definir o preço, pôr ou tirar o plano de venda e criar variantes em outras periodicidades. Quantidades, limites, dias no ar e benefícios vêm do catálogo da plataforma e não são editáveis.
+- Recorrência (mensal, semestral, anual): o cliente é cobrado a cada período enquanto mantiver o plano. Pagamento único: paga uma vez, sem renovação.
+
+## mais planos, excluir e comparar
+
+- `Mais planos` cria o mesmo plano em outra periodicidade: escolher os benefícios a replicar (a tela lista o que vem junto, igual ao original), dar nome, definir valor e escolher como o cliente paga. A forma já existente aparece bloqueada, com o nome do plano que a ocupa. O plano gratuito nunca é replicado.
+- Periodicidades de variante: mensal, semestral e anual; `Pagamento Único` só em Vagas, Eventos e Classificados. Notícias e Artigos têm um plano só e não têm `Mais planos`.
+- `Excluir` só aparece quando o mesmo plano existe em mais de uma forma de pagamento; o último só sai de venda pela chave `Colocar este plano à venda`.
+- `Comparar todos os planos` mostra lado a lado o que cada plano tem e o que falta.
+
+## planos por seção (catálogo padrão)
+
+Nomes e preços variam por portal; limites abaixo são os do catálogo.
+
+- Vagas de Emprego: o plano gratuito (entrada, não é vendido) dá 1 vaga no ar por vez, 30 dias por vaga. A assinatura mensal dá vagas ilimitadas, 90 dias por vaga, destaque e selo de empresa verificada; carrossel no topo da seção e topo da listagem valem só nos primeiros 10 dias de cada mês pago. O pagamento único dá 5 vagas no total, 90 dias cada, com destaque e selo; gastas as 5, é preciso comprar de novo.
+- Classificados: o gratuito dá 3 anúncios no ar, até 3 fotos, 30 dias. A assinatura mensal dá 10 anúncios no ar, 10 fotos, 180 dias por anúncio, destaque e selo de anunciante verificado; uma segunda assinatura tem o mesmo conteúdo com 50 anúncios. Topo da categoria (10 dias) e carrossel da home (7 dias) valem só no início de cada pagamento. No gratuito só o nome é editável.
+- Guia Comercial: o gratuito é a ficha básica (logo, nome, descrição, categoria, endereço, mapa e horário). O plano intermediário libera telefone, WhatsApp, redes sociais e site, links externos, galeria de fotos e não exibir concorrentes. O mais completo inclui tudo, inclusive destaque na listagem, receber orçamentos, cupom de desconto e páginas personalizadas (cardápio, catálogo etc.). Planos do Guia são recorrentes.
+- Agenda de Eventos (preço por evento): divulgação simples (pagamento único, sem destaque); divulgação com destaque (pagamento único, um evento, destaque na home de eventos e na página de eventos da cidade); pacote de 5 eventos (mensal, até 5 eventos em destaque por mês pago). Evento passado ou apagado não devolve o uso.
+- Notícias: um plano de pagamento único; o cliente compra uma matéria patrocinada em destaque e a equipe do portal a publica. Só nome, preço e venda são editáveis.
+- Artigos: um plano mensal recorrente para colunistas: 1 artigo por semana, coluna com página própria, artigo em destaque, foto e bio. Só nome, preço e venda são editáveis.
+
+## publicidade (banners)
+
+- Página à esquerda com quantos espaços já têm preço; ao escolher uma página, aparecem os espaços dela e um desenho mostra onde cada um fica (verde: à venda; pontilhado: fora de venda). Cada espaço explica sua regra (ex.: dentro da página de um ponto turístico, até 3 anunciantes por ponto).
+- `Definir preço`: nome, periodicidade (semanal, mensal, semestral ou anual) e preço. Cada espaço aceita até 3 preços, um por periodicidade. Clicar num espaço com preço permite editar, excluir ou adicionar outro preço.
+- Espaço sem preço fica fora de venda: o cliente não consegue contratá-lo pela área dele.
 
 ## fontes
 

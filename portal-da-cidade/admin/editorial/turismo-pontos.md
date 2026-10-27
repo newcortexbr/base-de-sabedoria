@@ -13,7 +13,7 @@ tags:
   - endereco
   - foto
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - QrkL_nJEa-c
@@ -62,6 +62,22 @@ O ponto é criado antes do envio da galeria, dicas e horários. Se esses complem
 - Para recomendações específicas, veja [adicionar dicas a um ponto turístico](turismo-pontos-dicas.md). Na criação, elas também podem ser incluídas no bloco `Dicas para visitantes` antes do cadastro.
 - Para vídeo na galeria, veja [colocar um vídeo do YouTube na galeria](video-na-galeria.md).
 - As dicas gerais da página inicial têm [outro cadastro](turismo-dicas.md).
+
+## campos
+
+- `Foto principal`: capa do ponto; use imagem horizontal e de boa qualidade.
+- `Categoria`: pode criar uma nova na própria tela, sem sair do cadastro.
+- `Descrição`: texto que dê vontade de conhecer o lugar.
+- `Tags`: palavras curtas (ex.: trilha, mirante); viram etiquetas na página do ponto.
+- `Destaque`: mostra o ponto em evidência no portal. `Ativo`: publica. `Entrada gratuita`: indica se a entrada é grátis.
+- `CEP` preenche o endereço sozinho; a localização no mapa é descoberta automaticamente a partir do endereço.
+- Horários: por dia, hora de abertura e fechamento, ou `Fechado` / `24 horas`.
+- `Galeria de fotos e vídeos`: aceita mais fotos e vídeos do YouTube.
+- `Título SEO` (até 60 caracteres) e `Descrição SEO` (até 160) ajudam o ponto a aparecer no Google; em branco, o sistema usa o nome e a descrição do ponto.
+
+## resultado no portal
+
+A lista de pontos mostra categoria, cidade e status. O ponto cadastrado aparece no portal com foto, mapa, horários e dicas.
 
 ## fontes
 - Código b2f62d3f: `frontend/src/components/painel/Sidebar.tsx:181` — grupo; `:183` — pontos; `:184` — Novo Ponto.

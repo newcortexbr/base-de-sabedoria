@@ -15,7 +15,7 @@ tags:
   - despublicar
   - categoria
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - gAa2NdnitZU
@@ -47,6 +47,15 @@ Aqui você cadastra uma notícia completa pelo painel. A publicação imediata, 
 14. Se quiser, preencha `Créditos`. [t=89] [guia=noticias-cadastrar.creditos]
 15. Em `Status`, escolha `Publicado`. [t=92] [guia=noticias-cadastrar.status]
 16. Clique em `Adicionar`. [t=98] [guia=noticias-cadastrar.salvar]
+
+## campos e dicas
+
+- `Título curto` aparece nos cartões da página inicial; `Chamada da matéria` é o resumo exibido na lista de notícias.
+- O editor de `Conteúdo da matéria *` aceita títulos, listas, links, imagens e vídeos dentro do texto.
+- `Tags / Palavras-chave` ajudam a busca.
+- `Nova categoria` e `Nova subcategoria`, abaixo dos seletores, criam o item sem sair do formulário; categoria pede nome e cor, subcategoria exige categoria escolhida. O item criado já fica selecionado.
+- Clicar na capa enviada abre a escolha do ponto de foco: ele evita que o recorte corte o que importa.
+- `Destaque na janela principal` coloca a notícia na vitrine da página inicial.
 
 ## começar pela lista de notícias
 

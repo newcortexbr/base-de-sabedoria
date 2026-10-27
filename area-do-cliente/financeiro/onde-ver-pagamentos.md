@@ -14,7 +14,7 @@ tipo_problema:
   - quanto vou pagar
   - próxima cobrança
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - RjoIdbHZrkQ
@@ -38,6 +38,12 @@ encontrar a situação, os vencimentos e o histórico de cobranças de cada neg�
 ## resultado
 
 você vê, para aquele negócio, cada cobrança com `Vencimento`, `Valor`, `Situação` e um link em `Detalhes`: `Ver cobrança` (em aberto), `Regularizar` (vencida) ou `Ver comprovante` (paga).
+
+## cartões e guia em vídeo
+
+- No topo da página há o guia dos pagamentos em vídeo, que explica as duas cobranças.
+- Cada cartão traz o selo da situação, o próximo vencimento e um atalho para o histórico daquela cobrança (`Ver histórico da mensalidade` etc.).
+- Cobrança vencida: o cartão fica vermelho, com o selo `Em atraso`, "Vencida há N dias" e o botão `Regularizar pagamento` para pagar na hora. As consequências do atraso estão em "o que acontece se eu atrasar um pagamento (suspensão)".
 
 ## desvios
 

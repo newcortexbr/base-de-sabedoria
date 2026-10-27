@@ -16,7 +16,7 @@ tags:
   - preco
   - empresa
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 2ShbACG2mHE
@@ -58,6 +58,12 @@ O produto passa a mostrar os grupos e as opções na loja do delivery.
 - Produto `Indisponível` não aparece na loja.
 - Os grupos de opções só podem ser criados depois que o produto existe.
 - Cardápio do delivery é diferente do cardápio digital (que é só consulta).
+
+## campos do grupo
+- cada grupo tem nome, obrigatoriedade (`Mín. seleções`) e limite de escolhas (`Máx. seleções`). ex.: `Cobertura` com máximo 2 deixa escolher até duas.
+- cada opção é grátis (`Preço (0 = incluso)`) ou tem valor a mais.
+- exemplos de grupos: tamanhos, coberturas, complementos, frutas.
+- na loja, o cliente escolhe as opções de cada grupo respeitando esses limites.
 
 ## quando pedir ajuda
 

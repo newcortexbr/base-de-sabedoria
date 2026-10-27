@@ -15,7 +15,7 @@ tags:
   - empresa
   - nome
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 09n3Eiwn418
@@ -47,6 +47,10 @@ A categoria fica com as mudanças.
 ## sobre os recursos da categoria
 
 Em `O que as empresas desta categoria oferecem`, os controles são `Cardápio — restaurante, bar, lanchonete`, `Delivery — aceita pedido pelo site` e `Acomodações — hotel, pousada, hospedagem`. Serviços, equipe e catálogo valem para todas as categorias. A disponibilidade também depende da ficha completa; cortesia do portal não exige plano pago. Veja "liberar cardápio, delivery ou acomodações para uma categoria".
+
+## ao tirar um recurso
+
+Se a categoria já tem empresas, o portal avisa quantas serão afetadas. O conteúdo não é apagado: deixa de aparecer no site e volta ao marcar o recurso de novo.
 
 ## desvios
 

@@ -16,7 +16,7 @@ tags:
   - cor
   - layout
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - He7XF-kolwk
@@ -97,6 +97,14 @@ aparece `Topo salvo`. As escolhas são enviadas ao site somente ao salvar; a pr�
 ## explicação
 
 Também existem os tamanhos `Pequena` e `Grande`. As barras admitem `Gradiente`; a cor dos links é sólida. `Início` fica sempre em primeiro no menu. As seções desligadas são identificadas como `não aparece no site`. Quando as seções não cabem, as últimas ficam em `Mais`.
+
+## campos e prévia
+
+- Os cinco modelos diferem na organização de logo, busca e menu; só o `Topo 5 — Com previsão do tempo` mostra a previsão da cidade ao lado da logo.
+- A prévia ao lado troca entre `Computador` e `Celular`; nada muda no site até `Salvar Topo`.
+- `Barra superior` e `Barra de navegação`: cor sólida ou gradiente; no gradiente há combinações prontas, direção do degradê e código da cor.
+- `Ordem do menu`: além de arrastar pela alça, os botões de seta sobem e descem a seção.
+- O topo salvo vale para todas as páginas.
 
 ## fontes
 

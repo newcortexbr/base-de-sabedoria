@@ -16,7 +16,7 @@ tags:
   - desligar
   - empresa
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 09n3Eiwn418
@@ -44,6 +44,20 @@ Aqui você escolhe os recursos da categoria. As empresas também precisam ter fi
 ## resultado
 
 As opções da categoria são gravadas. Desmarcar um recurso oculta o conteúdo público correspondente, sem apagar o conteúdo cadastrado.
+
+## recursos e plano
+
+- `Cardápio`, `Delivery` e `Acomodações` são ligados ou desligados por tipo de negócio. Serviços, equipe e catálogo de produtos valem para toda categoria e vêm marcados e travados.
+- Os recursos dependem do plano da empresa: no plano grátis não aparecem.
+- Exemplo: Restaurantes com cardápio e delivery; Hospedagem só com acomodações.
+- Ao desmarcar um recurso numa categoria com empresas, o aviso diz quantas serão afetadas. O conteúdo não é apagado: some do site e volta ao marcar de novo.
+
+## como aparece na página da empresa
+
+- `Cardápio`: abas (sobre, cardápio, galeria, localização), botão `Fazer reserva`, bloco de cardápio digital com número de seções e itens e `Ver cardápio completo`. O cardápio tem capa, logo, busca e seções em abas; cada prato tem foto, descrição, preço, selos (mais pedido, recomendado, vegetariano, novidade) e preço antigo riscado em promoção. Tema escuro ou claro. No rodapé: `Fazer meu pedido` e `Chamar no WhatsApp`.
+- `Delivery`: botão para pedir online leva à loja da empresa, com taxa e tempo de entrega, se está aberta, cupom disponível e produtos por categoria. O cliente monta o pedido com adicionais (cada grupo com seu limite de opções); o carrinho mostra subtotal, taxa e total; o pedido finalizado chega à empresa.
+- `Acomodações`: aba de quartos; cada quarto ou suíte tem fotos, descrição, comodidades, preço por noite (com promoção) e botões `Reservar` e WhatsApp.
+- Serviços: lista com preço de cada um e botão de agendar pelo WhatsApp. Equipe: foto, nome e especialidade. Catálogo: vitrine com fotos, filtros por categoria e preço e botão `Tenho interesse` (WhatsApp).
 
 ## quando pedir ajuda
 

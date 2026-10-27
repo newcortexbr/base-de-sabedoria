@@ -15,7 +15,7 @@ tags:
   - link
   - espaco
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - BqIfSq7bVXM
@@ -58,6 +58,23 @@ O cadastro é salvo. A exibição depende de estar ativo, aprovado e dentro do p
 - Dependendo da posição, aparecem campos opcionais de categoria, roteiro ou ponto turístico.
 - Os dados de venda são internos. Eles não são o preço dos espaços vendidos na área do cliente; esses preços ficam em `Meus Planos`.
 - Para mudar um cadastro, veja “editar um banner publicitário”; para apagar, veja “excluir um banner publicitário”.
+
+## lista e filtros
+
+- A lista mostra imagem, página, posição e período de cada banner. Busca por título; filtros por página (home, notícias, Guia comercial, vagas, turismo, eventos) e por situação: `No ar`, `Agendado`, `Vencido`, `Fora do ar`, `Aguardando pagamento`, `Pendente de aprovação`, `Reprovado`.
+- Banner `Vencido` sai do site sozinho quando a data fim passa.
+- Cada linha tem ativar ou desativar, editar e excluir.
+
+## posição e prévia
+
+- `Posição *` define a página e o lugar exato (topo da página, cabeçalho, outdoor, dentro da matéria, lateral etc.); cada posição tem um tamanho ideal de arte. O campo de busca da lista filtra: digitar "matéria" mostra as posições dentro e ao lado das notícias.
+- A prévia ao lado mostra onde o banner aparece, no computador e no celular. Nada muda no ar até salvar.
+- `Dados da venda` (empresa, telefone, valor do plano) nunca aparecem para o visitante. `Atrelar a um cliente` vincula a um cliente de `Meus Clientes`.
+- No site: banner de turismo no topo da página de turismo; em notícias, no topo acima das matérias; no Guia comercial, logo abaixo do menu.
+
+## contratação pelo cliente
+
+O cliente pode contratar o espaço sozinho em `Banners Publicitários` na área do cliente, sem cadastro manual: vê os banners no ar, em análise e aguardando pagamento, clica em novo banner, escolhe página e posição (cartões com o desenho do lugar), o período, envia a arte e vê o total; `Pagar e publicar` por Pix ou cartão. Pago, o banner entra na fila de aprovação do administrador, que decide se vai ao ar. Só posições com preço em `Meus Planos` ficam à venda.
 
 ## quando pedir ajuda
 

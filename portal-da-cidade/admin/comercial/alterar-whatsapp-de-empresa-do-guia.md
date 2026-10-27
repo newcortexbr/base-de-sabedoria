@@ -15,7 +15,7 @@ tags:
   - contato
   - telefone
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - wukhVMFEHWg
@@ -40,6 +40,10 @@ Aqui você altera o número usado no contato por WhatsApp da empresa. O campo s�
 ## resultado
 
 O número é salvo na empresa. Confira o link exibido ao lado do campo antes de salvar.
+
+## observação
+
+O `E-mail` do mesmo bloco `Contato` é de uso interno e não aparece no site.
 
 ## quando pedir ajuda
 

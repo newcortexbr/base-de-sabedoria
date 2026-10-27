@@ -14,7 +14,7 @@ tags:
   - participante
   - entregar
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - uN4FHHHGgEs
@@ -48,6 +48,10 @@ O ganhador aparece no painel. Se há mais ganhadores previstos, o botão passa a
 
 ## desvios
 
+- Ao clicar em sortear, há contagem regressiva e a roleta gira pelos participantes; o ganhador sai com confete. O cartão mostra o número da sorte e o WhatsApp. `Tela cheia` serve para transmitir na live ou em telão.
+- `Entrega do prêmio` tem as situações `Aguardando contato`, `Contatado`, `Prêmio entregue` e `Não respondeu`.
+- A substituição fica registrada e o portal mostra que o ganhador foi substituído por `Não respondeu`.
+- O resultado aparece sozinho no portal: o sorteio fica `Sorteado`, com inscrições encerradas e o nome do ganhador de forma parcial, para proteger a privacidade.
 - Se abrir antes do horário do sorteio, a lista pode pedir confirmação para antecipar. Leia o aviso antes de confirmar.
 - A tela cheia depende do navegador.
 

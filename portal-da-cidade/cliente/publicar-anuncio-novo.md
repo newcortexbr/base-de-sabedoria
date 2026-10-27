@@ -18,7 +18,7 @@ tags:
   - preco
   - anunciante
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - S-YcDWiimEo
@@ -53,6 +53,11 @@ se o portal exige aprovação, aparece `Anúncio enviado para aprovação`: a an
 
 ## desvios
 
+- `Título do anúncio *`: diga o que está vendendo (exemplo: "Sofá retrátil 3 lugares").
+- `Descrição *`: conte o estado de conservação, os detalhes do item e onde retirar.
+- `Preço a combinar` no lugar do valor; `Aceito negociar` e `Aceito troca` só informam ao comprador.
+- `Mostrar telefone no anúncio` desmarcado esconde o número; o botão de WhatsApp continua.
+- Na página pública do anúncio aparecem a foto, o preço em destaque e o botão para chamar no WhatsApp.
 - na primeira vez, antes do formulário pode aparecer a página `Complete seu cadastro` (nome, WhatsApp e documento são pedidos ali).
 - sem foto, o formulário recusa: "Envie ao menos uma foto para publicar o anúncio."
 - `Cancelar` no fim do formulário sai sem publicar.
