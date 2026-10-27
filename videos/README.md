@@ -7,7 +7,7 @@ fonte: [planilha de vídeos](https://docs.google.com/spreadsheets/d/1T-8uwGcdqZx
 
 | aba | produto | linhas | com tópico | com link | publicadas | com legenda | com artigo |
 |---|---|---|---|---|---|---|---|
-| painel-admin | portal-da-cidade | 64 | 64 | 63 | 63 | 63 | 63 |
+| painel-admin | portal-da-cidade | 64 | 64 | 64 | 64 | 64 | 64 |
 | area-empresa-parceiro-portal | portal-da-cidade | 26 | 22 | 22 | 22 | 21 | 21 |
 | sistema-dados-pj | dados-pj | 5 | 2 | 2 | 2 | 2 | 2 |
 | extrator-google-maps | extrator-maps | 6 | 3 | 3 | 3 | 3 | 3 |
@@ -19,18 +19,17 @@ fonte: [planilha de vídeos](https://docs.google.com/spreadsheets/d/1T-8uwGcdqZx
 
 | produto | linhas | com tópico | com link | publicadas | com legenda | com artigo |
 |---|---|---|---|---|---|---|
-| portal-da-cidade | 90 | 86 | 85 | 85 | 84 | 84 |
+| portal-da-cidade | 90 | 86 | 86 | 86 | 85 | 85 |
 | dados-pj | 5 | 2 | 2 | 2 | 2 | 2 |
 | extrator-maps | 6 | 3 | 3 | 3 | 3 | 3 |
 | area-do-cliente | 15 | 13 | 11 | 11 | 10 | 10 |
 | treinamento-do-franqueado | 16 | 1 | 0 | 0 | 0 | 0 |
 | vendas | 16 | 0 | 0 | 0 | 0 | 0 |
 
-total: 148 linhas, 105 com tópico, 101 com link (101 ids distintos), 101 publicadas, 99 com legenda, 99 com artigo.
+total: 148 linhas, 105 com tópico, 102 com link (102 ids distintos), 102 publicadas, 100 com legenda, 100 com artigo.
 
 ## tópicos sem link
 
-- painel-admin #1: Painel - Mostrando Todo Painel [Onboarding do Painel Admin]
 - claude-videos-basicos-area-do-cliente #1: Vídeo de ONBOARDING
 - claude-videos-basicos-area-do-cliente #2: Processo de Compra e Pós Pagamento
 - conteudos-treinamento-do-franqueado #1: Vídeo de ONBOARDING
