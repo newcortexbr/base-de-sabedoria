@@ -14,7 +14,7 @@ tags:
   - pix
   - comprovante
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 8gIDPdapN0E
@@ -54,7 +54,8 @@ Peça ajuda se a tela mostrar erro ou se o resultado não corresponder ao que vo
 
 ## fontes
 
-- `portal-cidade/frontend/src/components/painel/ComissoesParceiros.tsx:73`
+- `portal-cidade/frontend/src/components/painel/ComissoesParceiros.tsx:73-78` (botão `Marcar paga` na linha)
+- `portal-cidade/frontend/src/app/painel/parceiros/page.tsx:1065` (título do quadro `Comissões para pagar por fora`)
 - `portal-cidade/frontend/src/components/painel/parceiros/ModalBaixaComissao.tsx:45`
 - `portal-cidade/frontend/src/components/painel/parceiros/ModalBaixaComissao.tsx:83`
 - `portal-cidade/frontend/src/components/painel/parceiros/ModalBaixaComissao.tsx:145`

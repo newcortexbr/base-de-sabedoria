@@ -52,7 +52,11 @@ Cada chave salva sozinha ao ser clicada. Se o salvamento falhar, a chave volta �
 
 - O que já está no ar continua no ar.
 - Valem para envios novos de empresas, vagas, anúncios, eventos e banners.
-- Vagas e anúncios: se o cliente editar um item que está no ar, ele sai do ar até você aprovar de novo. A tela do cliente avisa antes de ele salvar.
+- Vagas e anúncios: se o cliente editar um item que está no ar, ele sai do ar até você aprovar de novo. A tela do cliente avisa antes de ele salvar. Fotos de anúncio trocadas ou apagadas também mandam o anúncio de volta.
+- Eventos: se o cliente mudar o conteúdo de um evento no ar (ou a galeria de fotos), ele sai do ar até você aprovar de novo.
+- Banners: se o cliente trocar a arte, o link de destino ou o título de um banner já pago, ele volta para a fila.
+- Empresas do Guia: o dono não consegue mudar a situação da empresa; editar não manda uma empresa aprovada de volta para a fila.
+- Qualquer tipo recusado volta para a fila quando o cliente edita e reenvia.
 
 ## o que nunca passa pela fila
 
@@ -76,8 +80,8 @@ Cada chave salva sozinha ao ser clicada. Se o salvamento falhar, a chave volta �
 - backend/portais/moderacao.py:42-76
 - backend/anuncios/serializers.py:316-325; classificados/serializers.py:332-341 (edição reenvia para análise)
 - backend/denuncias/views_public.py (404 com chave desligada)
+- backend/comercial/views_eventos.py:272-285,696-717 (evento); comercial/views_publicidade.py:463-488 (banner); classificados/views_admin.py:431-439 e anuncios/views_admin.py:493-501,568-580 (vaga e anúncio); guia/serializers.py:667-690 (status somente leitura para o dono da empresa)
 
 ## lacunas
 
 - Conferido por leitura do código no HEAD 66d38db2 (wt-suporte-tool). Sem execução do produto nem validação visual.
-- Reaprovação após edição só verificada para vagas e anúncios; empresa, evento e banner não verificados.

@@ -43,7 +43,7 @@ Abre o seu domínio próprio quando ele já está verificado. Senão, abre o sit
 
 - `O que está no ar e o que espera por você`: os contadores mostram quantos itens existem (nem todos estão no ar; veja abaixo); o que espera por você fica no bloco `Precisa da sua atenção`, mais abaixo.
 - Atalhos: `+ Notícia`, `+ Empresa`, `+ Vaga`, `+ Anúncio` e `+ Ponto turístico` abrem o cadastro. `+ Evento` abre a lista de eventos; lá o cadastro fica no botão de novo evento.
-- Os atalhos e os contadores aparecem sempre, mesmo com o módulo desligado. Ao clicar num módulo desligado, aparece a tela `Módulo desativado`.
+- Os atalhos e os contadores aparecem sempre, mesmo com o módulo desligado. Ao clicar num módulo desligado, aparece a tela `Módulo desativado`, com o texto: "Este módulo não está ativo no seu portal, por isso a área dele não pode ser gerenciada. Nada foi apagado: o conteúdo continua salvo e reaparece assim que o módulo for reativado. Fale com o responsável pelo seu plano para ativá-lo." Os atalhos continuam visíveis, mas nenhum cadastro abre.
 
 ## o que cada contador conta
 
@@ -74,7 +74,7 @@ Cada linha é um tipo de pendência, sempre nesta ordem fixa (não dá para muda
 
 **"Denúncias de moradores" é a aba Denúncias?** Não. São relatos da Voz do Povo. As denúncias de conteúdo da aba `Denúncias` em `Aprovações e Denúncias` não aparecem neste bloco.
 
-**como marco a comissão como paga?** Pelo botão `Ver parceiros`, na tela de parceiros, onde fica a baixa da comissão.
+**como marco a comissão como paga?** Pelo botão `Ver parceiros`. Na tela de parceiros, no quadro `Comissões para pagar por fora`, clique em `Marcar paga` na comissão e confirme na janela.
 
 **sou avisado por e-mail ou celular de pendência nova?** Não. O bloco também não se atualiza sozinho: ele confere uma vez ao abrir a página. Recarregue a página para ver novidades.
 
@@ -87,10 +87,10 @@ Cada linha é um tipo de pendência, sempre nesta ordem fixa (não dá para muda
 - backend/noticias/api_admin.py:630-638 (filtros dos contadores)
 - backend/portais/views_pendencias.py:37 (ordem), :48-86 (regras de cada pendência; guia só se ligado; fila soma todos os moderáveis)
 - frontend/src/components/painel/PrecisaDeAtencao.tsx:46-79 (textos, botões e destinos), :92 (carrega uma vez), :108 (conta linhas), :117 (Tudo em dia)
-- frontend/src/app/painel/layout.tsx:31 (tela Módulo desativado)
+- frontend/src/app/painel/layout.tsx:24-43,134-136 (tela Módulo desativado: título e textos)
+- frontend/src/components/painel/ComissoesParceiros.tsx:78; frontend/src/app/painel/parceiros/page.tsx:1065 (botão `Marcar paga`)
 - backend/portais/views_pendencias.py:72-78 (Voz do Povo só com utilidade ligada, status recebida)
 
 ## lacunas
 
-- Nome exato do botão de baixa na tela de parceiros não conferido.
 - Contagem dupla de empresa (fila + empresas) e contadores de Anúncios/Eventos incluindo itens fora do ar parecem defeito; a resposta descreve o comportamento atual.

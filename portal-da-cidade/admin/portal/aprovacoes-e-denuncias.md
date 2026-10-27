@@ -70,13 +70,15 @@ Aparece o aviso `Publicação aprovada`, o envio sai da lista e o número da aba
 - O item vai ao ar na hora. A empresa passa a `Ativo`; para aparecer no Guia ainda valem as demais regras do Guia.
 - Banner com data de início futura: o cliente é avisado de que ele entra no ar nessa data.
 - O cliente recebe um e-mail avisando que foi aprovado, se a conta tiver e-mail.
-- Aprovar conta no limite do plano do cliente. Se ele já tem o máximo de vagas ou anúncios ativos, a aprovação falha e a mensagem aparece no topo da lista ou dentro do detalhe. O cliente precisa tirar algo do ar ou aumentar o plano.
+- O limite do plano do cliente só barra a aprovação de `Vaga` e `Anúncio`. Se ele já tem o máximo de vagas ou anúncios ativos, a aprovação falha e a mensagem aparece no topo da lista ou dentro do detalhe. O cliente precisa tirar algo do ar ou aumentar o plano.
+- `Empresa`, `Evento` e `Banner` são aprovados sem conferir limite de plano na hora da aprovação.
 
 ## perguntas comuns
 
 **posso desfazer uma aprovação?** Não pelo painel. Também não há histórico de quem aprovou e quando.
 **posso aprovar vários de uma vez?** Não. Cada envio é aprovado separadamente.
-**e se outro administrador decidir o mesmo envio ao mesmo tempo?** O portal não impede. Se um aprovar e o outro recusar, vale a última decisão: o item recusado sai do ar.
+**e se dois administradores decidirem o mesmo envio ao mesmo tempo?** Vale a primeira decisão. Quem chegou depois vê o aviso `Este envio já foi decidido, talvez por outra pessoa da equipe. Atualize a página.` e nada muda. Atualize a página para ver a lista em dia.
+**posso aprovar ou recusar de novo um envio que já foi decidido?** Não. O portal só aceita decisão sobre envio que ainda está esperando.
 **o cliente precisa esperar quanto tempo?** O portal não define prazo. Nada é aprovado ou recusado sozinho; o envio espera até um administrador decidir.
 
 ## fontes
@@ -85,10 +87,10 @@ Aparece o aviso `Publicação aprovada`, o envio sai da lista e o número da aba
 - frontend/src/components/painel/Sidebar.tsx:332-342,385 (número do menu = fila + denúncias pendentes; recarrega a cada troca de página)
 - backend/portais/moderacao.py:42-76 (ISENTOS_DE_APROVACAO, admin publica direto)
 - backend/guia/moderacao.py:101-131; anuncios/moderacao.py:229-234; classificados/moderacao.py:70-90,246-251; turismo/moderacao.py:131-136; portais/moderacao_banner.py:116
-- backend/portais/views_admin.py:936-976 (sem checagem de status, sem histórico)
+- backend/portais/views_admin.py:942-966 (trava a linha e recusa com 409 se não está mais pendente; sem histórico)
+- backend/classificados/moderacao.py:70-90,224; anuncios/moderacao.py:70-90,207 (limite só em vaga e anúncio); guia/moderacao.py:92-106; turismo/moderacao.py:105-117; portais/moderacao_banner.py:90-100 (_aprovar de empresa, evento e banner sem limite)
 - backend/portais/emails/moderacao.py (e-mail de aprovação; banner com data futura)
 
 ## lacunas
 
 - Conferido por leitura do código no HEAD 66d38db2 (wt-suporte-tool). Sem execução do produto nem validação visual.
-- Limite do plano verificado para vagas e anúncios; para empresa, evento e banner não verificado.
