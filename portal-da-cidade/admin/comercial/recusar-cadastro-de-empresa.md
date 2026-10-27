@@ -1,21 +1,23 @@
 ---
 id: recusar-cadastro-de-empresa
-titulo: "recusar o cadastro de uma empresa"
+titulo: "recusar o cadastro de uma empresa (motivo enviado ao cliente)"
 publico:
   - admin
-modulo: guia
-categoria: admin
-aba: nao-se-aplica
+modulo: aprovações
+categoria: aprovações
+aba: Aprovações
 tipo_problema: operacao
 tags:
   - recusar
   - empresa
   - guia
   - cadastro
+  - autocadastro
   - pendente
   - aprovacao
+  - desfazer
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - JYDoZB_vyX8
@@ -23,33 +25,34 @@ videos:
 
 ## objetivo
 
-Aqui você recusa uma empresa pendente e informa ao cliente o que precisa corrigir.
+Recuse uma empresa pendente e diga ao cliente o que corrigir.
 
 ## pré-requisitos
 
 - Ter acesso de administrador ao painel do portal.
-- O módulo Guia Comercial estar disponível.
 
 ## passos
 
 1. No menu da esquerda, clique em `Aprovações e Denúncias`. [guia=menu:/painel/aprovacoes] [t=5]
 2. Na linha do envio do tipo `Empresa`, clique em `Recusar`. [guia=aprovacoes.recusar]
-3. Escreva o motivo na janela de recusa. [guia=aprovacoes.motivo]
+3. Escreva o motivo. [guia=aprovacoes.motivo]
 4. Clique em `Confirmar recusa`. [guia=aprovacoes.confirmar-recusa]
 
 ## resultado
 
-A empresa fica `Reprovado`, com o motivo registrado. A janela informa que o motivo é enviado ao cliente para correção e reenvio.
+A empresa fica `Reprovado` e o cliente recebe por e-mail o motivo que você escreveu.
 
-## quando pedir ajuda
+## perguntas comuns
 
-Peça ajuda se o controle não aparecer ou se a tela mostrar erro ao salvar.
+**o motivo é obrigatório?** Sim.
+**cancelar perde o texto?** Sim.
+**posso desfazer a recusa?** Não pelo painel.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/aprovacoes/AprovacoesClient.tsx:170-185,255-263,426-456`.
-- `portal-cidade/backend/guia/moderacao.py:115-117`.
+- frontend/src/app/painel/aprovacoes/AprovacoesClient.tsx:168-191,414-456
+- backend/guia/moderacao.py:110-117; portais/emails/moderacao.py
 
 ## lacunas
 
-Sem recusa real nem verificação da entrega do aviso. O vídeo exemplifica vaga, não empresa, por isso não recebe tempo neste roteiro.
+- Conferido por leitura do código no HEAD e8f43702. Sem recusa real nem verificação da entrega do e-mail.

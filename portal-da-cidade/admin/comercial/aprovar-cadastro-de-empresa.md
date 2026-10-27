@@ -1,6 +1,6 @@
 ---
 id: aprovar-cadastro-de-empresa
-titulo: "aprovar o cadastro de empresa feito pelo próprio cliente"
+titulo: "aprovar ou recusar o cadastro de empresa feito pelo cliente (quanto tempo leva)"
 publico:
   - admin
 modulo: aprovações
@@ -9,14 +9,17 @@ aba: Aprovações
 tipo_problema: operacao
 tags:
   - aprovar
+  - recusar
   - empresa
   - guia
   - cadastro
-  - recusar
+  - autocadastro
   - pendente
   - aprovacao
+  - prazo
+  - conta
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - JYDoZB_vyX8
@@ -24,41 +27,42 @@ videos:
 
 ## objetivo
 
-aqui você libera ou recusa a empresa que o próprio cliente cadastrou no Guia Comercial. Enquanto você não aprova, ela não aparece no site.
+Libere a empresa que o próprio cliente cadastrou no Guia Comercial. Enquanto você não aprova, ela não aparece no site.
 
 ## pré-requisitos
 
 - Ter acesso de administrador ao painel do portal.
-- Existir um cadastro de empresa pendente na fila de aprovação.
-
-## explicação
-
-Com `Exigir minha aprovação antes de publicar` ligado, os cadastros sujeitos à aprovação ficam pendentes. Para recusar, veja "recusar o cadastro de uma empresa". O vídeo trata da fila geral e exemplifica uma vaga; não demonstra a aprovação de uma empresa.
+- `Exigir minha aprovação antes de publicar` ligado quando o cliente cadastrou a empresa.
 
 ## passos
 
 1. No menu da esquerda, clique em `Aprovações e Denúncias`. [guia=menu:/painel/aprovacoes] [t=5]
 2. No envio do tipo `Empresa`, clique em `Ver detalhe`. [guia=aprovacoes.ver-detalhe]
-3. Depois de conferir os dados, clique em `Aprovar` dentro da janela de detalhes. [guia=aprovacoes.aprovar-detalhe]
+3. Depois de conferir os dados, clique em `Aprovar` dentro do detalhe. [guia=aprovacoes.aprovar-detalhe]
 
 ## resultado
 
-A aprovação muda a situação da empresa para `Ativo` e limpa o motivo de reprovação. A exibição pública também depende das regras de visibilidade do Guia.
+A empresa passa a `Ativo` e o cliente recebe um e-mail avisando. Para aparecer no Guia ainda valem as demais regras do Guia. Para recusar, veja "recusar o cadastro de uma empresa".
+
+## perguntas comuns
+
+**posso aprovar ou recusar cadastro?** Sim, o cadastro de empresa feito pelo cliente: aprove ou recuse na aba `Aprovações`. A criação da conta do cliente em si não passa por aprovação.
+**quanto tempo leva?** Depende só de você. O portal não define prazo, não aprova nem recusa sozinho e não avisa sobre atraso. A linha mostra há quanto tempo o cadastro espera.
+**e com a aprovação desligada?** A empresa cadastrada vai direto ao ar.
+**a empresa que eu mesmo cadastro passa pela fila?** Não, vai direto ao ar.
 
 ## desvios
 
-Para localizar empresas pendentes fora da fila, use `Guia Comercial` > `Listar Empresas` e o filtro `Pendente`. Recusa e aprovação são ações diferentes.
-
-## quando pedir ajuda
-
-Peça ajuda se a aprovação falhar ou se a empresa continuar fora do Guia.
+Empresas pendentes também aparecem em `Guia Comercial` > `Listar Empresas`, filtro `Pendente`.
 
 ## fontes
 
-- `portal-cidade/frontend/src/app/painel/aprovacoes/AprovacoesClient.tsx:244-275,405-410`.
-- `portal-cidade/backend/guia/moderacao.py:101-117`.
-- Vídeo `JYDoZB_vyX8`: demonstra a fila com uma vaga, não uma empresa.
+- frontend/src/app/painel/aprovacoes/AprovacoesClient.tsx:120-142,230,405-410
+- backend/guia/moderacao.py:101-131; portais/moderacao.py:54-76; portais/views_admin.py:941-945
+- backend/portais/contas.py (sem etapa de aprovação de conta)
+- backend/portais/emails/moderacao.py
 
 ## lacunas
 
-Sem validação no navegador. Sem tempo de vídeo marcado para empresa, pois o exemplo gravado é de vaga.
+- Conferido por leitura do código no HEAD e8f43702. Sem execução nem validação visual.
+- Cadastro de parceiro: não encontrei aprovação de cadastro; o que espera o dono é o pedido de troca de plano. Não verificado a fundo.

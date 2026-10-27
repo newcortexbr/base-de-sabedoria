@@ -1,6 +1,6 @@
 ---
 id: regras-de-aprovacao-e-denuncias
-titulo: "escolher as regras de aprovação e denúncias do portal"
+titulo: "ligar ou desligar Exigir minha aprovação e Permitir denúncias (o que acontece)"
 publico:
   - admin
 modulo: aprovações
@@ -11,11 +11,14 @@ tags:
   - regras
   - aprovacao
   - denuncia
+  - ligar
+  - desligar
   - moderacao
-  - editar
+  - configurar
+  - fila
   - painel
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - JYDoZB_vyX8
@@ -23,7 +26,7 @@ videos:
 
 ## objetivo
 
-Escolha as regras de aprovação e de denúncia de conteúdo do portal.
+Escolha se os envios dos clientes esperam sua aprovação e se visitantes podem denunciar conteúdo.
 
 ## pré-requisitos
 
@@ -37,14 +40,44 @@ Escolha as regras de aprovação e de denúncia de conteúdo do portal.
 
 ## resultado
 
-Cada chave é salva ao ser alterada. A primeira controla a aprovação dos envios abrangidos pela fila; a segunda controla o recurso de denunciar conteúdo.
+Cada chave salva sozinha ao ser clicada. Se o salvamento falhar, a chave volta à posição anterior e aparece uma mensagem em vermelho.
+
+## ao desligar a aprovação
+
+- O que os clientes enviarem daí em diante vai direto ao ar.
+- O que já estava esperando continua na fila até você aprovar ou recusar. Não existe botão para liberar tudo de uma vez.
+- A aba `Aprovações` mostra o selo `desligada` e um aviso amarelo. Os dois somem quando você religa a chave e abre a página de novo.
+
+## ao ligar a aprovação
+
+- O que já está no ar continua no ar.
+- Valem para envios novos de empresas, vagas, anúncios, eventos e banners.
+- Vagas e anúncios: se o cliente editar um item que está no ar, ele sai do ar até você aprovar de novo. A tela do cliente avisa antes de ele salvar.
+
+## o que nunca passa pela fila
+
+- O que você, administrador, publica.
+- Artigos: todo colunista publica direto, por decisão do portal.
+
+## permitir denúncias
+
+- Desligado: o botão `Denunciar` some do site e novas denúncias são recusadas. A aba `Denúncias` mostra `desligada` e um aviso amarelo.
+- As denúncias que já chegaram continuam na lista para você resolver.
+
+## perguntas comuns
+
+**posso exigir aprovação só de alguns tipos, como empresas sim e classificados não?** Não. A chave vale para todos os tipos da fila ao mesmo tempo.
+**por que artigos são exceção?** Foi uma decisão do portal: artigos não têm aprovação, todo colunista publica direto.
 
 ## fontes
 
-- `frontend/src/app/painel/aprovacoes/ConfigDaFila.tsx:99`
-
-- Catálogo: `portal-da-cidade/videos.json`; legendas: `videos/legendas/JYDoZB_vyX8.srt`.
+- frontend/src/app/painel/aprovacoes/ConfigDaFila.tsx:99 (salvar, reverter e erro)
+- frontend/src/app/painel/aprovacoes/AprovacoesEDenuncias.tsx:23-26,84-106
+- backend/portais/moderacao.py:42-76
+- backend/anuncios/serializers.py:316-325; classificados/serializers.py:332-341 (edição reenvia para análise)
+- backend/denuncias/views_public.py (404 com chave desligada)
 
 ## lacunas
 
-- Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.
+- Conferido por leitura do código no HEAD e8f43702 (wt-suporte-tool). Sem execução do produto nem validação visual.
+- Reaprovação após edição só verificada para vagas e anúncios; empresa, evento e banner não verificados.
