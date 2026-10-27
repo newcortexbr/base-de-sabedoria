@@ -7,6 +7,13 @@ modulo: notícias
 categoria: conteúdo
 aba: não-se-aplica
 tipo_problema: visibilidade
+tags:
+  - noticia
+  - no ar
+  - status
+  - publicar
+  - despublicar
+  - rascunho
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

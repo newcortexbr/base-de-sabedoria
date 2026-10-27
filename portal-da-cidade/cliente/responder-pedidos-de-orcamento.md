@@ -10,6 +10,13 @@ tipo_problema:
   - pedidos-orcamento
   - contato-cliente-orcamento
   - ver-pedidos-orcamento
+tags:
+  - orcamento
+  - pedido
+  - whatsapp
+  - ver
+  - empresa
+  - enviar
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

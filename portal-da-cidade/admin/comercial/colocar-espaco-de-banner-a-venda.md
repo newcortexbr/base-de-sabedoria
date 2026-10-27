@@ -10,6 +10,13 @@ tipo_problema:
   - vender espaço de banner
   - preço do banner
   - valor da publicidade
+tags:
+  - banner
+  - espaco
+  - preco
+  - publicidade
+  - editar
+  - plano
 status: rascunho-documental
 revisado_em: 2026-10-25
 validacao: docs-e-codigo

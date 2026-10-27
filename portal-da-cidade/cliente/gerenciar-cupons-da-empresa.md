@@ -9,6 +9,14 @@ aba: Cupons
 tipo_problema:
   - cupons-da-empresa
   - cupom-nao-aparece
+tags:
+  - cupom
+  - criar
+  - editar
+  - empresa
+  - guia
+  - plano
+  - desconto
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

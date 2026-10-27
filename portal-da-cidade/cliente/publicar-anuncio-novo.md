@@ -9,6 +9,14 @@ aba: Classificados
 tipo_problema:
   - anuncios-proprios
   - status-do-anuncio
+tags:
+  - criar
+  - publicar
+  - classificado
+  - anuncio
+  - foto
+  - preco
+  - anunciante
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

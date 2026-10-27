@@ -11,6 +11,13 @@ tipo_problema:
   - visualizações da vaga
   - quantas pessoas viram
   - quando a vaga expira
+tags:
+  - ver
+  - vaga
+  - visualizacao
+  - numeros
+  - periodo
+  - contratante
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

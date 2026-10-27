@@ -8,6 +8,13 @@ permissoes:
 categoria: conta
 aba: nao-se-aplica
 tipo_problema: orientacao
+tags:
+  - entrar
+  - recuperar
+  - parceiro
+  - senha
+  - conta
+  - area do cliente
 modulo: acesso
 status: rascunho-documental
 revisado_em: 2026-10-24

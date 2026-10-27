@@ -7,6 +7,11 @@ modulo: notícias
 categoria: conteúdo
 aba: Categorias
 tipo_problema: classificação
+tags:
+  - categoria
+  - noticia
+  - subcategoria
+  - editar
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

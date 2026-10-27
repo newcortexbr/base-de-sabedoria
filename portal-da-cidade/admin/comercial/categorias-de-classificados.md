@@ -10,6 +10,11 @@ tipo_problema:
   - categoria de anúncio
   - subcategoria de classificados
   - criar categoria classificados
+tags:
+  - criar
+  - categoria
+  - classificado
+  - anuncio
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

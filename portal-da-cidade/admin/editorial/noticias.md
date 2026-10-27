@@ -7,6 +7,13 @@ modulo: notícias
 categoria: conteúdo
 aba: Notícias
 tipo_problema: publicação
+tags:
+  - noticia
+  - publicar
+  - editar
+  - agendar
+  - despublicar
+  - categoria
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

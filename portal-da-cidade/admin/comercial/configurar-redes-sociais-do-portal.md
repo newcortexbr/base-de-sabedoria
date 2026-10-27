@@ -7,6 +7,13 @@ modulo: configurações
 categoria: admin
 aba: nao-se-aplica
 tipo_problema: configuracao
+tags:
+  - rede social
+  - whatsapp
+  - editar
+  - portal
+  - link
+  - contato
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

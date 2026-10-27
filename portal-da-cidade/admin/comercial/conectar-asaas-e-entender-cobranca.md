@@ -11,6 +11,14 @@ tipo_problema:
   - como recebo o dinheiro das empresas
   - receber pagamento dos planos vendidos
   - onde cai o dinheiro dos clientes
+tags:
+  - asaas
+  - cobrar
+  - pagamento
+  - pix
+  - fatura
+  - conectar
+  - configurar
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

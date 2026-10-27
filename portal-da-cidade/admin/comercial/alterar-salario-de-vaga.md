@@ -11,6 +11,12 @@ tipo_problema:
   - valor que aparece para o candidato
   - valor da vaga
   - quanto a vaga paga
+tags:
+  - editar
+  - vaga
+  - salario
+  - contratante
+  - area
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

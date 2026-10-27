@@ -8,6 +8,13 @@ categoria: vagas
 aba: Vagas
 tipo_problema:
   - vagas-proprias
+tags:
+  - ver
+  - editar
+  - pausar
+  - excluir
+  - vaga
+  - empresa
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

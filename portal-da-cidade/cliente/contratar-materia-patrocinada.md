@@ -10,6 +10,13 @@ tipo_problema:
   - matéria patrocinada
   - publicar notícia da minha empresa
   - notícia paga
+tags:
+  - contratar
+  - patrocinada
+  - noticia
+  - materia
+  - pagamento
+  - empresa
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

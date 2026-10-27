@@ -8,6 +8,14 @@ modulo: radar
 categoria: radar
 aba: nao-se-aplica
 tipo_problema: orientacao
+tags:
+  - preco
+  - radar
+  - cardapio
+  - guia
+  - delivery
+  - aprovacao
+  - empresa
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

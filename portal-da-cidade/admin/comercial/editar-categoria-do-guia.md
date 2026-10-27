@@ -7,6 +7,13 @@ modulo: guia
 categoria: admin
 aba: nao-se-aplica
 tipo_problema: configuracao
+tags:
+  - editar
+  - categoria
+  - guia
+  - situacao
+  - empresa
+  - nome
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

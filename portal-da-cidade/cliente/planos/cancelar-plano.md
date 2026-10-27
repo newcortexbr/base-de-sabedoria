@@ -11,6 +11,13 @@ tipo_problema:
   - cancelar assinatura
   - parar de pagar
   - voltar ao grátis
+tags:
+  - cancelar
+  - plano
+  - assinatura de plano
+  - renovacao
+  - cancelamento
+  - gratis
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

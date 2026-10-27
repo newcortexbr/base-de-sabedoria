@@ -8,6 +8,13 @@ modulo: acesso
 categoria: conta
 aba: nao-se-aplica
 tipo_problema: orientacao
+tags:
+  - criar
+  - conta
+  - cadastro
+  - area do cliente
+  - cliente
+  - empresa
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

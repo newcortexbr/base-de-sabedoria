@@ -11,6 +11,11 @@ tipo_problema:
   - entro no painel
   - acessar o painel de outro portal
   - ajudar colega no painel
+tags:
+  - painel
+  - permissao
+  - acesso negado
+  - senha
 modulo: acesso
 status: rascunho-documental
 revisado_em: 2026-10-24

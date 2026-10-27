@@ -7,6 +7,13 @@ modulo: notícias
 categoria: admin
 aba: Notícias
 tipo_problema: cadastro
+tags:
+  - senha
+  - jornalista
+  - recuperar
+  - entrar
+  - permissao
+  - acesso
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

@@ -10,6 +10,13 @@ tipo_problema:
   - anunciante
   - cadastrar anunciante
   - loja que anuncia nos classificados
+tags:
+  - pessoa fisica
+  - pessoa juridica
+  - criar
+  - anunciante
+  - classificado
+  - cadastro
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

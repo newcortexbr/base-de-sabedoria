@@ -10,6 +10,13 @@ tipo_problema:
   - trocar de plano
   - fazer upgrade
   - mudar para plano maior
+tags:
+  - contratar
+  - plano
+  - assinatura de plano
+  - pagamento
+  - preco
+  - upgrade
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

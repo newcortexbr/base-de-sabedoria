@@ -7,6 +7,13 @@ modulo: guia
 categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
+tags:
+  - recusar
+  - empresa
+  - guia
+  - cadastro
+  - pendente
+  - aprovacao
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

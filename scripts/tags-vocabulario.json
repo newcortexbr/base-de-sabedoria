@@ -1,0 +1,1668 @@
+[
+ {
+  "tag": "criar",
+  "sinonimos": [
+   "cadastrar",
+   "adicionar",
+   "novo",
+   "nova",
+   "incluir",
+   "montar"
+  ]
+ },
+ {
+  "tag": "editar",
+  "sinonimos": [
+   "alterar",
+   "mudar",
+   "trocar",
+   "atualizar",
+   "corrigir"
+  ]
+ },
+ {
+  "tag": "excluir",
+  "sinonimos": [
+   "apagar",
+   "deletar",
+   "remover",
+   "tirar"
+  ]
+ },
+ {
+  "tag": "aprovar",
+  "sinonimos": [
+   "liberar",
+   "autorizar",
+   "aceitar"
+  ]
+ },
+ {
+  "tag": "recusar",
+  "sinonimos": [
+   "reprovar",
+   "negar",
+   "rejeitar"
+  ]
+ },
+ {
+  "tag": "publicar",
+  "sinonimos": [
+   "colocar no ar",
+   "postar",
+   "divulgar"
+  ]
+ },
+ {
+  "tag": "despublicar",
+  "sinonimos": [
+   "tirar do ar",
+   "esconder",
+   "ocultar"
+  ]
+ },
+ {
+  "tag": "agendar",
+  "sinonimos": [
+   "programar",
+   "marcar data"
+  ]
+ },
+ {
+  "tag": "pausar",
+  "sinonimos": [
+   "suspender",
+   "parar"
+  ]
+ },
+ {
+  "tag": "reativar",
+  "sinonimos": [
+   "ativar",
+   "religar",
+   "voltar"
+  ]
+ },
+ {
+  "tag": "ligar",
+  "sinonimos": [
+   "ativar",
+   "habilitar"
+  ]
+ },
+ {
+  "tag": "desligar",
+  "sinonimos": [
+   "desativar",
+   "desabilitar"
+  ]
+ },
+ {
+  "tag": "cancelar",
+  "sinonimos": [
+   "desistir",
+   "encerrar"
+  ]
+ },
+ {
+  "tag": "bloquear",
+  "sinonimos": [
+   "suspender conta",
+   "barrar"
+  ]
+ },
+ {
+  "tag": "desbloquear",
+  "sinonimos": [
+   "liberar acesso"
+  ]
+ },
+ {
+  "tag": "exportar",
+  "sinonimos": [
+   "baixar lista",
+   "planilha"
+  ]
+ },
+ {
+  "tag": "importar",
+  "sinonimos": [
+   "trazer lista",
+   "carregar"
+  ]
+ },
+ {
+  "tag": "desfazer",
+  "sinonimos": [
+   "reverter",
+   "voltar atras"
+  ]
+ },
+ {
+  "tag": "copiar",
+  "sinonimos": [
+   "duplicar"
+  ]
+ },
+ {
+  "tag": "imprimir",
+  "sinonimos": [
+   "impressao"
+  ]
+ },
+ {
+  "tag": "enviar",
+  "sinonimos": [
+   "mandar"
+  ]
+ },
+ {
+  "tag": "cobrar",
+  "sinonimos": [
+   "cobranca",
+   "mandar cobranca"
+  ]
+ },
+ {
+  "tag": "pagar",
+  "sinonimos": [
+   "quitar",
+   "pagamento pendente"
+  ]
+ },
+ {
+  "tag": "contratar",
+  "sinonimos": [
+   "comprar",
+   "assinar"
+  ]
+ },
+ {
+  "tag": "filtrar",
+  "sinonimos": [
+   "pesquisar",
+   "procurar",
+   "buscar"
+  ]
+ },
+ {
+  "tag": "ver",
+  "sinonimos": [
+   "consultar",
+   "acompanhar",
+   "visualizar"
+  ]
+ },
+ {
+  "tag": "entrar",
+  "sinonimos": [
+   "login",
+   "acessar",
+   "logar"
+  ]
+ },
+ {
+  "tag": "sair",
+  "sinonimos": [
+   "logout",
+   "deslogar"
+  ]
+ },
+ {
+  "tag": "recuperar",
+  "sinonimos": [
+   "esqueci",
+   "resgatar"
+  ]
+ },
+ {
+  "tag": "testar",
+  "sinonimos": [
+   "conferir",
+   "verificar"
+  ]
+ },
+ {
+  "tag": "juntar",
+  "sinonimos": [
+   "unir",
+   "mesclar",
+   "duplicado"
+  ]
+ },
+ {
+  "tag": "ordenar",
+  "sinonimos": [
+   "ordem",
+   "organizar"
+  ]
+ },
+ {
+  "tag": "destacar",
+  "sinonimos": [
+   "destaque",
+   "fixar"
+  ]
+ },
+ {
+  "tag": "restaurar",
+  "sinonimos": [
+   "rascunho",
+   "recuperar texto"
+  ]
+ },
+ {
+  "tag": "noticia",
+  "sinonimos": [
+   "materia",
+   "reportagem",
+   "post"
+  ]
+ },
+ {
+  "tag": "categoria",
+  "sinonimos": [
+   "tipo",
+   "grupo"
+  ]
+ },
+ {
+  "tag": "subcategoria",
+  "sinonimos": [
+   "subtipo"
+  ]
+ },
+ {
+  "tag": "jornalista",
+  "sinonimos": [
+   "reporter",
+   "redator",
+   "autor"
+  ]
+ },
+ {
+  "tag": "colunista",
+  "sinonimos": [
+   "articulista",
+   "escritor"
+  ]
+ },
+ {
+  "tag": "artigo",
+  "sinonimos": [
+   "coluna",
+   "texto de opiniao"
+  ]
+ },
+ {
+  "tag": "rss",
+  "sinonimos": [
+   "fonte automatica",
+   "feed",
+   "noticia automatica"
+  ]
+ },
+ {
+  "tag": "seo",
+  "sinonimos": [
+   "google",
+   "endereco da noticia",
+   "url"
+  ]
+ },
+ {
+  "tag": "assinatura",
+  "sinonimos": [
+   "assinatura da noticia",
+   "creditos"
+  ]
+ },
+ {
+  "tag": "empresa",
+  "sinonimos": [
+   "negocio",
+   "comercio",
+   "loja",
+   "estabelecimento"
+  ]
+ },
+ {
+  "tag": "guia",
+  "sinonimos": [
+   "guia comercial",
+   "lista de empresas"
+  ]
+ },
+ {
+  "tag": "cliente",
+  "sinonimos": [
+   "usuario",
+   "conta do cliente",
+   "morador"
+  ]
+ },
+ {
+  "tag": "parceiro",
+  "sinonimos": [
+   "representante",
+   "indicador",
+   "afiliado"
+  ]
+ },
+ {
+  "tag": "comissao",
+  "sinonimos": [
+   "porcentagem",
+   "ganho do parceiro"
+  ]
+ },
+ {
+  "tag": "equipe",
+  "sinonimos": [
+   "funcionarios",
+   "profissionais"
+  ]
+ },
+ {
+  "tag": "servico",
+  "sinonimos": [
+   "servicos"
+  ]
+ },
+ {
+  "tag": "produto",
+  "sinonimos": [
+   "item",
+   "mercadoria"
+  ]
+ },
+ {
+  "tag": "catalogo",
+  "sinonimos": [
+   "lista de produtos"
+  ]
+ },
+ {
+  "tag": "cardapio",
+  "sinonimos": [
+   "menu",
+   "pratos"
+  ]
+ },
+ {
+  "tag": "prato",
+  "sinonimos": [
+   "comida",
+   "lanche"
+  ]
+ },
+ {
+  "tag": "delivery",
+  "sinonimos": [
+   "entrega",
+   "pedido online",
+   "tele-entrega"
+  ]
+ },
+ {
+  "tag": "pedido",
+  "sinonimos": [
+   "compra",
+   "encomenda"
+  ]
+ },
+ {
+  "tag": "quarto",
+  "sinonimos": [
+   "suite",
+   "hospedagem",
+   "acomodacao"
+  ]
+ },
+ {
+  "tag": "diaria",
+  "sinonimos": [
+   "preco do quarto"
+  ]
+ },
+ {
+  "tag": "preco",
+  "sinonimos": [
+   "valor",
+   "quanto custa"
+  ]
+ },
+ {
+  "tag": "plano",
+  "sinonimos": [
+   "pacote",
+   "assinatura do guia",
+   "mensalidade"
+  ]
+ },
+ {
+  "tag": "fatura",
+  "sinonimos": [
+   "boleto",
+   "cobranca",
+   "mensalidade"
+  ]
+ },
+ {
+  "tag": "pagamento",
+  "sinonimos": [
+   "pagar",
+   "recebimento"
+  ]
+ },
+ {
+  "tag": "pix",
+  "sinonimos": [
+   "chave pix",
+   "qr code pix"
+  ]
+ },
+ {
+  "tag": "asaas",
+  "sinonimos": [
+   "conta asaas",
+   "gateway"
+  ]
+ },
+ {
+  "tag": "whatsapp",
+  "sinonimos": [
+   "zap",
+   "wpp",
+   "telefone"
+  ]
+ },
+ {
+  "tag": "link",
+  "sinonimos": [
+   "endereco",
+   "url"
+  ]
+ },
+ {
+  "tag": "grupo",
+  "sinonimos": [
+   "grupo de whatsapp",
+   "comunidade"
+  ]
+ },
+ {
+  "tag": "vaga",
+  "sinonimos": [
+   "emprego",
+   "oportunidade",
+   "trabalho"
+  ]
+ },
+ {
+  "tag": "salario",
+  "sinonimos": [
+   "pagamento da vaga",
+   "remuneracao"
+  ]
+ },
+ {
+  "tag": "contratante",
+  "sinonimos": [
+   "empresa da vaga"
+  ]
+ },
+ {
+  "tag": "area",
+  "sinonimos": [
+   "area de vagas",
+   "regiao"
+  ]
+ },
+ {
+  "tag": "classificado",
+  "sinonimos": [
+   "anuncio",
+   "venda",
+   "compra"
+  ]
+ },
+ {
+  "tag": "anunciante",
+  "sinonimos": [
+   "quem anuncia",
+   "vendedor"
+  ]
+ },
+ {
+  "tag": "vendido",
+  "sinonimos": [
+   "vendi",
+   "marcar vendido"
+  ]
+ },
+ {
+  "tag": "banner",
+  "sinonimos": [
+   "propaganda",
+   "publicidade",
+   "anuncio visual"
+  ]
+ },
+ {
+  "tag": "publicidade",
+  "sinonimos": [
+   "propaganda",
+   "anunciar"
+  ]
+ },
+ {
+  "tag": "espaco",
+  "sinonimos": [
+   "posicao do banner",
+   "lugar do banner"
+  ]
+ },
+ {
+  "tag": "patrocinada",
+  "sinonimos": [
+   "materia paga",
+   "patrocinio"
+  ]
+ },
+ {
+  "tag": "cupom",
+  "sinonimos": [
+   "desconto",
+   "codigo de desconto"
+  ]
+ },
+ {
+  "tag": "evento",
+  "sinonimos": [
+   "agenda",
+   "festa",
+   "show"
+  ]
+ },
+ {
+  "tag": "organizador",
+  "sinonimos": [
+   "promotor",
+   "produtor"
+  ]
+ },
+ {
+  "tag": "programacao",
+  "sinonimos": [
+   "atracoes",
+   "agenda do evento"
+  ]
+ },
+ {
+  "tag": "galeria",
+  "sinonimos": [
+   "fotos",
+   "album"
+  ]
+ },
+ {
+  "tag": "foto",
+  "sinonimos": [
+   "imagem",
+   "figura"
+  ]
+ },
+ {
+  "tag": "imagem",
+  "sinonimos": [
+   "foto",
+   "figura"
+  ]
+ },
+ {
+  "tag": "video",
+  "sinonimos": [
+   "youtube",
+   "filmagem"
+  ]
+ },
+ {
+  "tag": "midia",
+  "sinonimos": [
+   "foto e video",
+   "arquivo"
+  ]
+ },
+ {
+  "tag": "legenda",
+  "sinonimos": [
+   "texto da foto"
+  ]
+ },
+ {
+  "tag": "logo",
+  "sinonimos": [
+   "marca",
+   "logotipo"
+  ]
+ },
+ {
+  "tag": "favicon",
+  "sinonimos": [
+   "icone do site",
+   "iconezinho"
+  ]
+ },
+ {
+  "tag": "turismo",
+  "sinonimos": [
+   "turista",
+   "passeio"
+  ]
+ },
+ {
+  "tag": "ponto turistico",
+  "sinonimos": [
+   "atracao",
+   "lugar turistico"
+  ]
+ },
+ {
+  "tag": "roteiro",
+  "sinonimos": [
+   "itinerario",
+   "passeio guiado"
+  ]
+ },
+ {
+  "tag": "parada",
+  "sinonimos": [
+   "ponto do roteiro"
+  ]
+ },
+ {
+  "tag": "dica",
+  "sinonimos": [
+   "sugestao",
+   "recomendacao"
+  ]
+ },
+ {
+  "tag": "horario",
+  "sinonimos": [
+   "horario de funcionamento",
+   "hora"
+  ]
+ },
+ {
+  "tag": "doacao",
+  "sinonimos": [
+   "ajuda",
+   "contribuicao"
+  ]
+ },
+ {
+  "tag": "instituicao",
+  "sinonimos": [
+   "ong",
+   "entidade"
+  ]
+ },
+ {
+  "tag": "causa",
+  "sinonimos": [
+   "campanha",
+   "motivo da doacao"
+  ]
+ },
+ {
+  "tag": "radar",
+  "sinonimos": [
+   "radar de precos",
+   "pesquisa de preco"
+  ]
+ },
+ {
+  "tag": "mercado",
+  "sinonimos": [
+   "supermercado",
+   "loja do radar"
+  ]
+ },
+ {
+  "tag": "sorteio",
+  "sinonimos": [
+   "rifa",
+   "premio"
+  ]
+ },
+ {
+  "tag": "participante",
+  "sinonimos": [
+   "concorrente",
+   "inscrito"
+  ]
+ },
+ {
+  "tag": "premio",
+  "sinonimos": [
+   "brinde"
+  ]
+ },
+ {
+  "tag": "votacao",
+  "sinonimos": [
+   "eleicao",
+   "enquete",
+   "voto"
+  ]
+ },
+ {
+  "tag": "melhores da cidade",
+  "sinonimos": [
+   "melhores",
+   "ranking"
+  ]
+ },
+ {
+  "tag": "voto",
+  "sinonimos": [
+   "voto suspeito",
+   "fraude"
+  ]
+ },
+ {
+  "tag": "denuncia",
+  "sinonimos": [
+   "reclamacao",
+   "reportar",
+   "abuso"
+  ]
+ },
+ {
+  "tag": "moderacao",
+  "sinonimos": [
+   "revisao",
+   "analise"
+  ]
+ },
+ {
+  "tag": "aprovacao",
+  "sinonimos": [
+   "liberacao",
+   "fila de aprovacao"
+  ]
+ },
+ {
+  "tag": "regras",
+  "sinonimos": [
+   "politica",
+   "criterio"
+  ]
+ },
+ {
+  "tag": "notificacao",
+  "sinonimos": [
+   "push",
+   "aviso",
+   "alerta"
+  ]
+ },
+ {
+  "tag": "push",
+  "sinonimos": [
+   "notificacao push",
+   "aviso no celular"
+  ]
+ },
+ {
+  "tag": "convite",
+  "sinonimos": [
+   "pedido de permissao"
+  ]
+ },
+ {
+  "tag": "ia",
+  "sinonimos": [
+   "inteligencia artificial",
+   "robo",
+   "assistente"
+  ]
+ },
+ {
+  "tag": "assistente",
+  "sinonimos": [
+   "chat",
+   "atendente virtual"
+  ]
+ },
+ {
+  "tag": "orcamento",
+  "sinonimos": [
+   "cotacao",
+   "pedido de orcamento"
+  ]
+ },
+ {
+  "tag": "utilidade",
+  "sinonimos": [
+   "servicos publicos",
+   "informacao util"
+  ]
+ },
+ {
+  "tag": "onibus",
+  "sinonimos": [
+   "linha de onibus",
+   "transporte"
+  ]
+ },
+ {
+  "tag": "telefone util",
+  "sinonimos": [
+   "telefones uteis",
+   "emergencia"
+  ]
+ },
+ {
+  "tag": "voz do povo",
+  "sinonimos": [
+   "relato",
+   "reclamacao do morador"
+  ]
+ },
+ {
+  "tag": "relato",
+  "sinonimos": [
+   "denuncia do morador",
+   "queixa"
+  ]
+ },
+ {
+  "tag": "sugestao",
+  "sinonimos": [
+   "pedir funcao",
+   "ideia",
+   "melhoria"
+  ]
+ },
+ {
+  "tag": "painel",
+  "sinonimos": [
+   "admin",
+   "administracao",
+   "area administrativa"
+  ]
+ },
+ {
+  "tag": "area do cliente",
+  "sinonimos": [
+   "minha conta",
+   "painel do cliente"
+  ]
+ },
+ {
+  "tag": "portal",
+  "sinonimos": [
+   "site",
+   "sistema",
+   "site da cidade"
+  ]
+ },
+ {
+  "tag": "home",
+  "sinonimos": [
+   "pagina inicial",
+   "tela inicial",
+   "inicio"
+  ]
+ },
+ {
+  "tag": "bloco",
+  "sinonimos": [
+   "secao da home",
+   "parte da home"
+  ]
+ },
+ {
+  "tag": "menu",
+  "sinonimos": [
+   "topo",
+   "navegacao"
+  ]
+ },
+ {
+  "tag": "topo",
+  "sinonimos": [
+   "cabecalho",
+   "header"
+  ]
+ },
+ {
+  "tag": "rodape",
+  "sinonimos": [
+   "final da pagina",
+   "footer"
+  ]
+ },
+ {
+  "tag": "layout",
+  "sinonimos": [
+   "aparencia",
+   "visual",
+   "desenho"
+  ]
+ },
+ {
+  "tag": "cor",
+  "sinonimos": [
+   "cores",
+   "tema",
+   "paleta"
+  ]
+ },
+ {
+  "tag": "tema",
+  "sinonimos": [
+   "aparencia",
+   "cores"
+  ]
+ },
+ {
+  "tag": "nome",
+  "sinonimos": [
+   "nome do portal",
+   "titulo"
+  ]
+ },
+ {
+  "tag": "rede social",
+  "sinonimos": [
+   "instagram",
+   "facebook",
+   "redes"
+  ]
+ },
+ {
+  "tag": "pixel",
+  "sinonimos": [
+   "rastreamento",
+   "facebook pixel",
+   "analytics"
+  ]
+ },
+ {
+  "tag": "trafego",
+  "sinonimos": [
+   "acessos",
+   "visitantes",
+   "visitas"
+  ]
+ },
+ {
+  "tag": "numeros",
+  "sinonimos": [
+   "estatisticas",
+   "metricas",
+   "relatorio"
+  ]
+ },
+ {
+  "tag": "visualizacao",
+  "sinonimos": [
+   "views",
+   "quantas pessoas viram"
+  ]
+ },
+ {
+  "tag": "app",
+  "sinonimos": [
+   "aplicativo",
+   "baixar app"
+  ]
+ },
+ {
+  "tag": "fale conosco",
+  "sinonimos": [
+   "contato",
+   "suporte"
+  ]
+ },
+ {
+  "tag": "cobertura",
+  "sinonimos": [
+   "cidades atendidas",
+   "regiao atendida"
+  ]
+ },
+ {
+  "tag": "cidade",
+  "sinonimos": [
+   "municipio"
+  ]
+ },
+ {
+  "tag": "bairro",
+  "sinonimos": [
+   "localidade"
+  ]
+ },
+ {
+  "tag": "modulo",
+  "sinonimos": [
+   "funcao",
+   "recurso",
+   "secao"
+  ]
+ },
+ {
+  "tag": "senha",
+  "sinonimos": [
+   "password",
+   "codigo de acesso"
+  ]
+ },
+ {
+  "tag": "conta",
+  "sinonimos": [
+   "perfil de acesso",
+   "cadastro"
+  ]
+ },
+ {
+  "tag": "cadastro",
+  "sinonimos": [
+   "registro",
+   "inscricao"
+  ]
+ },
+ {
+  "tag": "perfil",
+  "sinonimos": [
+   "meus dados",
+   "dados pessoais"
+  ]
+ },
+ {
+  "tag": "dados",
+  "sinonimos": [
+   "informacoes",
+   "cadastro"
+  ]
+ },
+ {
+  "tag": "contato",
+  "sinonimos": [
+   "telefone e email",
+   "formas de contato"
+  ]
+ },
+ {
+  "tag": "descricao",
+  "sinonimos": [
+   "sobre",
+   "texto de apresentacao"
+  ]
+ },
+ {
+  "tag": "endereco",
+  "sinonimos": [
+   "rua",
+   "localizacao"
+  ]
+ },
+ {
+  "tag": "dominio",
+  "sinonimos": [
+   "endereco do site",
+   "link do portal",
+   "provisorio"
+  ]
+ },
+ {
+  "tag": "situacao",
+  "sinonimos": [
+   "status",
+   "estado"
+  ]
+ },
+ {
+  "tag": "status",
+  "sinonimos": [
+   "situacao",
+   "andamento"
+  ]
+ },
+ {
+  "tag": "no ar",
+  "sinonimos": [
+   "publicado",
+   "visivel",
+   "aparecendo"
+  ]
+ },
+ {
+  "tag": "rascunho",
+  "sinonimos": [
+   "salvo",
+   "nao publicado"
+  ]
+ },
+ {
+  "tag": "atualizacao",
+  "sinonimos": [
+   "mudanca nao aparece",
+   "cache",
+   "site antigo"
+  ]
+ },
+ {
+  "tag": "cache",
+  "sinonimos": [
+   "site antigo",
+   "nao atualiza"
+  ]
+ },
+ {
+  "tag": "erro",
+  "sinonimos": [
+   "problema",
+   "nao funciona",
+   "falha"
+  ]
+ },
+ {
+  "tag": "acesso negado",
+  "sinonimos": [
+   "sem permissao",
+   "nao consigo entrar"
+  ]
+ },
+ {
+  "tag": "permissao",
+  "sinonimos": [
+   "autorizacao",
+   "acesso"
+  ]
+ },
+ {
+  "tag": "google maps",
+  "sinonimos": [
+   "mapa",
+   "maps"
+  ]
+ },
+ {
+  "tag": "gratis",
+  "sinonimos": [
+   "plano gratuito",
+   "sem custo"
+  ]
+ },
+ {
+  "tag": "cancelamento",
+  "sinonimos": [
+   "desistencia"
+  ]
+ },
+ {
+  "tag": "renovacao",
+  "sinonimos": [
+   "renovar",
+   "cobranca automatica"
+  ]
+ },
+ {
+  "tag": "assinatura de plano",
+  "sinonimos": [
+   "recorrencia"
+  ]
+ },
+ {
+  "tag": "vencimento",
+  "sinonimos": [
+   "data de pagamento",
+   "prazo"
+  ]
+ },
+ {
+  "tag": "comprovante",
+  "sinonimos": [
+   "recibo",
+   "prova de pagamento"
+  ]
+ },
+ {
+  "tag": "carteira",
+  "sinonimos": [
+   "conta de recebimento"
+  ]
+ },
+ {
+  "tag": "link de indicacao",
+  "sinonimos": [
+   "link do parceiro",
+   "convite de parceiro"
+  ]
+ },
+ {
+  "tag": "nao faz",
+  "sinonimos": [
+   "limitacao",
+   "nao existe",
+   "nao tem"
+  ]
+ },
+ {
+  "tag": "funcao nova",
+  "sinonimos": [
+   "pedir recurso",
+   "nova funcionalidade"
+  ]
+ },
+ {
+  "tag": "visao geral",
+  "sinonimos": [
+   "resumo",
+   "introducao",
+   "como funciona"
+  ]
+ },
+ {
+  "tag": "passo a passo",
+  "sinonimos": [
+   "tutorial",
+   "como fazer"
+  ]
+ },
+ {
+  "tag": "comodidade",
+  "sinonimos": [
+   "facilidade",
+   "wifi",
+   "estacionamento"
+  ]
+ },
+ {
+  "tag": "link externo",
+  "sinonimos": [
+   "site da empresa"
+  ]
+ },
+ {
+  "tag": "botao",
+  "sinonimos": [
+   "botoes"
+  ]
+ },
+ {
+  "tag": "qr code",
+  "sinonimos": [
+   "codigo qr",
+   "leitor"
+  ]
+ },
+ {
+  "tag": "tamanho",
+  "sinonimos": [
+   "tamanhos"
+  ]
+ },
+ {
+  "tag": "adicional",
+  "sinonimos": [
+   "extra",
+   "complemento"
+  ]
+ },
+ {
+  "tag": "disponibilidade",
+  "sinonimos": [
+   "em estoque",
+   "tem ou nao tem"
+  ]
+ },
+ {
+  "tag": "estoque",
+  "sinonimos": [
+   "disponivel"
+  ]
+ },
+ {
+  "tag": "especialidade",
+  "sinonimos": [
+   "cargo",
+   "funcao da equipe"
+  ]
+ },
+ {
+  "tag": "cargo",
+  "sinonimos": [
+   "funcao",
+   "posto"
+  ]
+ },
+ {
+  "tag": "bio",
+  "sinonimos": [
+   "minibiografia",
+   "sobre voce"
+  ]
+ },
+ {
+  "tag": "assinatura de texto",
+  "sinonimos": [
+   "autoria"
+  ]
+ },
+ {
+  "tag": "autocadastro",
+  "sinonimos": [
+   "cadastro sozinho",
+   "cadastro proprio"
+  ]
+ },
+ {
+  "tag": "casa",
+  "sinonimos": [
+   "colunista da casa",
+   "redacao"
+  ]
+ },
+ {
+  "tag": "pessoa fisica",
+  "sinonimos": [
+   "cpf",
+   "particular"
+  ]
+ },
+ {
+  "tag": "pessoa juridica",
+  "sinonimos": [
+   "cnpj",
+   "empresa"
+  ]
+ },
+ {
+  "tag": "anuncio",
+  "sinonimos": [
+   "propaganda",
+   "classificado"
+  ]
+ },
+ {
+  "tag": "materia",
+  "sinonimos": [
+   "noticia paga"
+  ]
+ },
+ {
+  "tag": "fonte",
+  "sinonimos": [
+   "origem",
+   "site de origem"
+  ]
+ },
+ {
+  "tag": "quantidade",
+  "sinonimos": [
+   "limite",
+   "numero de noticias"
+  ]
+ },
+ {
+  "tag": "automatico",
+  "sinonimos": [
+   "sozinho",
+   "automaticamente"
+  ]
+ },
+ {
+  "tag": "manual",
+  "sinonimos": [
+   "na mao",
+   "a mao"
+  ]
+ },
+ {
+  "tag": "lista",
+  "sinonimos": [
+   "tela de listagem",
+   "tabela"
+  ]
+ },
+ {
+  "tag": "fila",
+  "sinonimos": [
+   "ordem de espera",
+   "pendentes"
+  ]
+ },
+ {
+  "tag": "lote",
+  "sinonimos": [
+   "varios",
+   "em massa"
+  ]
+ },
+ {
+  "tag": "pendente",
+  "sinonimos": [
+   "aguardando",
+   "em espera"
+  ]
+ },
+ {
+  "tag": "retido",
+  "sinonimos": [
+   "preco travado",
+   "segurando"
+  ]
+ },
+ {
+  "tag": "ao vivo",
+  "sinonimos": [
+   "transmissao",
+   "tempo real"
+  ]
+ },
+ {
+  "tag": "entregar",
+  "sinonimos": [
+   "entrega do premio"
+  ]
+ },
+ {
+  "tag": "datas",
+  "sinonimos": [
+   "prazo",
+   "periodo"
+  ]
+ },
+ {
+  "tag": "prazo",
+  "sinonimos": [
+   "data limite"
+  ]
+ },
+ {
+  "tag": "periodo",
+  "sinonimos": [
+   "intervalo"
+  ]
+ },
+ {
+  "tag": "comprar",
+  "sinonimos": [
+   "contratar"
+  ]
+ },
+ {
+  "tag": "mostrar",
+  "sinonimos": [
+   "exibir",
+   "aparecer"
+  ]
+ },
+ {
+  "tag": "remover",
+  "sinonimos": [
+   "tirar",
+   "apagar"
+  ]
+ },
+ {
+  "tag": "renomear",
+  "sinonimos": [
+   "mudar nome"
+  ]
+ },
+ {
+  "tag": "abrir",
+  "sinonimos": [
+   "acessar tela"
+  ]
+ },
+ {
+  "tag": "fechar",
+  "sinonimos": [
+   "encerrar tela"
+  ]
+ },
+ {
+  "tag": "configurar",
+  "sinonimos": [
+   "ajustar",
+   "definir"
+  ]
+ },
+ {
+  "tag": "acesso",
+  "sinonimos": [
+   "permissao",
+   "entrar"
+  ]
+ },
+ {
+  "tag": "desconto",
+  "sinonimos": [
+   "cupom",
+   "promocao"
+  ]
+ },
+ {
+  "tag": "planilha",
+  "sinonimos": [
+   "excel",
+   "exportar"
+  ]
+ },
+ {
+  "tag": "telefone",
+  "sinonimos": [
+   "celular",
+   "whatsapp",
+   "numero"
+  ]
+ },
+ {
+  "tag": "desativar",
+  "sinonimos": [
+   "desligar",
+   "pausar"
+  ]
+ },
+ {
+  "tag": "conectar",
+  "sinonimos": [
+   "integrar",
+   "vincular"
+  ]
+ },
+ {
+  "tag": "enquete",
+  "sinonimos": [
+   "votacao"
+  ]
+ },
+ {
+  "tag": "newsletter",
+  "sinonimos": [
+   "boletim",
+   "e-mail marketing"
+  ]
+ },
+ {
+  "tag": "adsense",
+  "sinonimos": [
+   "google adsense",
+   "anuncio do google"
+  ]
+ },
+ {
+  "tag": "sms",
+  "sinonimos": [
+   "mensagem de texto"
+  ]
+ },
+ {
+  "tag": "avaliacao",
+  "sinonimos": [
+   "estrelas",
+   "nota",
+   "comentario"
+  ]
+ },
+ {
+  "tag": "boleto",
+  "sinonimos": [
+   "segunda via",
+   "fatura"
+  ]
+ },
+ {
+  "tag": "itinerario",
+  "sinonimos": [
+   "trajeto",
+   "rota"
+  ]
+ },
+ {
+  "tag": "emergencia",
+  "sinonimos": [
+   "urgencia",
+   "samu",
+   "bombeiros"
+  ]
+ },
+ {
+  "tag": "policia",
+  "sinonimos": [
+   "delegacia",
+   "190"
+  ]
+ },
+ {
+  "tag": "upgrade",
+  "sinonimos": [
+   "subir de plano",
+   "mudar de plano",
+   "plano maior"
+  ]
+ },
+ {
+  "tag": "trocar senha",
+  "sinonimos": [
+   "mudar senha",
+   "alterar senha"
+  ]
+ },
+ {
+  "tag": "esqueci senha",
+  "sinonimos": [
+   "nao lembro a senha",
+   "recuperar senha"
+  ]
+ }
+]

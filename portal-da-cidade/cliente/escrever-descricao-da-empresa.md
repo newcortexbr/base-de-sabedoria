@@ -9,6 +9,13 @@ aba: Minha empresa
 tipo_problema:
   - editar-perfil-empresa
   - contato-incorreto
+tags:
+  - editar
+  - empresa
+  - descricao
+  - guia
+  - dados
+  - perfil
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

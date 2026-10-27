@@ -7,6 +7,14 @@ modulo: aprovações
 categoria: aprovações
 aba: Aprovações
 tipo_problema: operacao
+tags:
+  - aprovar
+  - empresa
+  - guia
+  - cadastro
+  - recusar
+  - pendente
+  - aprovacao
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

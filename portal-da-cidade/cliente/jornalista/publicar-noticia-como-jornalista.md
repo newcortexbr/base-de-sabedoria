@@ -8,6 +8,13 @@ categoria: noticias
 aba: Notícias
 tipo_problema:
   - publicar-noticia
+tags:
+  - publicar
+  - noticia
+  - jornalista
+  - criar
+  - perfil
+  - categoria
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: video

@@ -9,6 +9,12 @@ aba: Delivery
 tipo_problema:
   - pedidos-delivery
   - pedido-ausente
+tags:
+  - cancelar
+  - pedido
+  - delivery
+  - empresa
+  - area do cliente
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

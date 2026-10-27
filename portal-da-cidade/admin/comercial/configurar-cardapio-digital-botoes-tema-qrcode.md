@@ -7,6 +7,14 @@ modulo: guia
 categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
+tags:
+  - qr code
+  - cardapio
+  - botao
+  - tema
+  - imprimir
+  - link
+  - editar
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

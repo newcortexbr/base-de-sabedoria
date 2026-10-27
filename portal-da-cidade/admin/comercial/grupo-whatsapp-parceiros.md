@@ -7,6 +7,14 @@ modulo: parceiros
 categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
+tags:
+  - whatsapp
+  - grupo
+  - link
+  - parceiro
+  - convite
+  - editar
+  - telefone
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

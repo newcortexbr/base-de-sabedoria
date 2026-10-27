@@ -7,6 +7,12 @@ modulo: notícias
 categoria: conteúdo
 aba: Notícias
 tipo_problema: publicação
+tags:
+  - noticia
+  - descricao
+  - foto
+  - categoria
+  - publicar
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

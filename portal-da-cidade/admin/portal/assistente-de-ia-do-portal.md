@@ -12,6 +12,14 @@ tipo_problema:
   - tirar o robô
   - esconder o assistente
   - chat do site
+tags:
+  - assistente
+  - ia
+  - ligar
+  - desligar
+  - mostrar
+  - ver
+  - painel
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

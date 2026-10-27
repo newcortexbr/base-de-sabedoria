@@ -10,6 +10,13 @@ tipo_problema:
   - dinheiro da doação
   - doação cai na conta do portal
   - repasse de doação
+tags:
+  - doacao
+  - instituicao
+  - causa
+  - pagamento
+  - visao geral
+  - portal
 status: rascunho-documental
 revisado_em: 2026-10-25
 validacao: docs-e-codigo

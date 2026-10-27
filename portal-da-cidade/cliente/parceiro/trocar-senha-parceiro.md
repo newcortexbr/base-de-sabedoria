@@ -9,6 +9,12 @@ aba: Perfil
 tipo_problema:
   - trocar senha do parceiro
   - mudar minha senha de parceiro
+tags:
+  - editar
+  - senha
+  - parceiro
+  - perfil
+  - conta
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

@@ -9,6 +9,13 @@ publico:
 categoria: conta
 aba: nao-se-aplica
 tipo_problema: orientacao
+tags:
+  - entrar
+  - area do cliente
+  - conta
+  - cliente
+  - senha
+  - acesso negado
 modulo: acesso
 status: rascunho-documental
 revisado_em: 2026-10-24

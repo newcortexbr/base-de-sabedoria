@@ -7,6 +7,13 @@ modulo: clientes
 categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
+tags:
+  - senha
+  - editar
+  - cliente
+  - conta
+  - recuperar
+  - acesso
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

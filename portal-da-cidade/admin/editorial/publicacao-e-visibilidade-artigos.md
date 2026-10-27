@@ -7,6 +7,13 @@ modulo: Artigos
 categoria: conteúdo
 aba: Artigos
 tipo_problema: visibilidade
+tags:
+  - artigo
+  - no ar
+  - status
+  - publicar
+  - despublicar
+  - rascunho
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

@@ -7,6 +7,12 @@ modulo: Agenda de Eventos
 categoria: conteúdo
 aba: Organizadores
 tipo_problema: cadastro
+tags:
+  - organizador
+  - evento
+  - contato
+  - whatsapp
+  - logo
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

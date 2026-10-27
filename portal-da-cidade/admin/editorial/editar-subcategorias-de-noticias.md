@@ -7,6 +7,12 @@ modulo: notícias
 categoria: conteúdo
 aba: nao-se-aplica
 tipo_problema: operacao
+tags:
+  - subcategoria
+  - noticia
+  - pausar
+  - excluir
+  - categoria
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

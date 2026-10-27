@@ -32,3 +32,7 @@ próximo passo previsto (não feito): carregar `indice.json` num SQLite com FTS5
 - `videos/conteudo/<id>.md`: transcrição = conteúdo do vídeo (**durável**).
 - `videos/legendas/` e `videos/meta/<id>.json`: legenda bruta baixada e metadados do YouTube (título, duração, data, fonte da legenda).
 - `catalogo-videos.md` está superado por `videos/`.
+
+## tags
+
+Artigos de `portal-da-cidade/admin` e `cliente` levam `tags:` no frontmatter (lista YAML como `tipo_problema`): 4 a 10 itens, minúsculas, sem acento, só do vocabulário `scripts/tags-vocabulario.json` (`{"tag","sinonimos"}`, sinônimos são como o leigo fala). Entram nos termos de busca de `indice.json`. `node scripts/tags.mjs` lista as faltas; `--conferir` sai com 1 se houver.

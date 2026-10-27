@@ -7,6 +7,14 @@ modulo: configurações
 categoria: admin
 aba: nao-se-aplica
 tipo_problema: configuracao
+tags:
+  - layout
+  - portal
+  - topo
+  - rodape
+  - cor
+  - home
+  - visao geral
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

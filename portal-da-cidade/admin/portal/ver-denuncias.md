@@ -11,6 +11,13 @@ tipo_problema:
   - visitante reclamou de um anúncio
   - reclamação de visitante
   - reclamaram de um anúncio
+tags:
+  - ver
+  - filtrar
+  - denuncia
+  - moderacao
+  - painel
+  - status
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

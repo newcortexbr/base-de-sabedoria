@@ -8,6 +8,14 @@ categoria: guia-comercial
 aba: Guia Comercial
 tipo_problema:
   - cadastrar-empresa
+tags:
+  - criar
+  - empresa
+  - guia
+  - categoria
+  - horario
+  - endereco
+  - cadastro
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: video

@@ -10,6 +10,13 @@ categoria: parceiro
 aba: Início
 tipo_problema:
   - orientacao
+tags:
+  - parceiro
+  - link de indicacao
+  - cliente
+  - comissao
+  - visao geral
+  - painel
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: video

@@ -11,6 +11,13 @@ tipo_problema:
   - esqueceu a senha
   - não consigo entrar no painel
   - recuperar senha do administrador
+tags:
+  - senha
+  - painel
+  - entrar
+  - ver
+  - esqueci senha
+  - trocar senha
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

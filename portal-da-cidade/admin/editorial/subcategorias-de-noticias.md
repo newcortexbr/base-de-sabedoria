@@ -10,6 +10,11 @@ tipo_problema:
   - subcategoria de notícia
   - criar subcategoria
   - assunto dentro da categoria
+tags:
+  - subcategoria
+  - noticia
+  - categoria
+  - criar
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

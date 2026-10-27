@@ -7,6 +7,14 @@ modulo: painel
 categoria: admin
 aba: painel
 tipo_problema: duvida
+tags:
+  - trafego
+  - numeros
+  - visualizacao
+  - ver
+  - exportar
+  - periodo
+  - painel
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

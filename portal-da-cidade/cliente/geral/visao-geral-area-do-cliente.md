@@ -8,6 +8,13 @@ categoria: geral
 aba: Início
 tipo_problema:
   - orientacao
+tags:
+  - area do cliente
+  - visao geral
+  - menu
+  - painel
+  - cliente
+  - passo a passo
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: video

@@ -7,6 +7,13 @@ modulo: financeiro
 categoria: admin
 aba: nao-se-aplica
 tipo_problema: pagamento
+tags:
+  - copiar
+  - link
+  - fatura
+  - pagamento
+  - cobrar
+  - cliente
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

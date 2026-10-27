@@ -12,6 +12,13 @@ tipo_problema:
   - qual plano eu tenho
   - quando vence meu plano
   - minha assinatura
+tags:
+  - ver
+  - plano
+  - assinatura de plano
+  - preco
+  - renovacao
+  - vencimento
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo
