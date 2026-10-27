@@ -11,6 +11,14 @@ tipo_problema:
   - como recebo o dinheiro das empresas
   - receber pagamento dos planos vendidos
   - onde cai o dinheiro dos clientes
+tags:
+  - asaas
+  - cobrar
+  - pagamento
+  - pix
+  - fatura
+  - conectar
+  - configurar
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo
@@ -43,11 +51,18 @@ Aqui você conecta a conta Asaas do portal com uma chave de API. Conta conectada
 12. Copie a chave exibida. [t=89] [guia=fora]
 13. De volta ao portal, cole a chave em `Chave de API da sua conta Asaas`. [t=98] [guia=cobranca.campo-chave]
 14. Clique em `Conectar`. [t=102] [guia=cobranca.conectar]
-15. Confira o estado no quadro `Conta Asaas`. [t=107] [guia=cobranca.estado]
+15. Confira o estado no quadro `Conta Asaas`. [t=107] [guia=cobranca.conta-asaas]
+16. Veja o selo de estado. [guia=cobranca.estado]
 
 ## resultado
 
 Ao funcionar, aparece `Conectado com sucesso`. A conta com cobrança ligada mostra `✓ Conectada`; com cobrança desligada, mostra `Desligada`. A chave fica escondida.
+
+## ligar ou desligar a cobrança
+
+1. Na tela `Cobrança`, no quadro `Conta Asaas`, clique no interruptor `Cobrar pelo Asaas`. [guia=cobranca.cobrar-pelo-asaas]
+
+Ligado, o cliente paga por link e a confirmação é automática. Desligado, todo pagamento mostra a sua chave Pix e você confirma no Financeiro.
 
 ## desvios
 

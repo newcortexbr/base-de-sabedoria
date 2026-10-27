@@ -26,6 +26,17 @@ tipo_problema:
   - criar usuário do painel
   - outro administrador
   - mensalidade do portal
+tags:
+  - nao faz
+  - funcao nova
+  - painel
+  - sugestao
+  - visao geral
+  - senha
+  - enquete
+  - newsletter
+  - sms
+  - avaliacao
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

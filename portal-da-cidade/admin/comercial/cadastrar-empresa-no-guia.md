@@ -7,8 +7,15 @@ modulo: guia
 categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
+tags:
+  - criar
+  - empresa
+  - guia
+  - cadastro
+  - endereco
+  - contato
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - wukhVMFEHWg
@@ -49,6 +56,7 @@ A empresa é criada e passa a aparecer na lista de empresas do Guia. Para comple
 - Quando `Plano` está disponível, `Cortesia do portal (todos os itens)` é uma opção. Para escolher outro, veja "trocar o plano de uma empresa do Guia".
 - O aviso `Não foi possível salvar` acompanha as falhas mostradas pelo formulário; confira o motivo antes de tentar novamente.
 - Para muitas empresas de uma vez, veja "importar empresas no Guia a partir de lista do Google Maps".
+- Para trazer os dados de uma empresa direto do Google, veja "cadastrar empresa no Guia pegando os dados do Google".
 
 ## quando pedir ajuda
 

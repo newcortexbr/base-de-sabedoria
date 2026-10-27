@@ -7,6 +7,12 @@ modulo: guia
 categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
+tags:
+  - editar
+  - preco
+  - servico
+  - empresa
+  - guia
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

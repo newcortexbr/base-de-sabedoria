@@ -11,6 +11,12 @@ tipo_problema:
   - sugerir melhoria
   - falta uma função
   - sugestão
+tags:
+  - sugestao
+  - funcao nova
+  - enviar
+  - painel
+  - descricao
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

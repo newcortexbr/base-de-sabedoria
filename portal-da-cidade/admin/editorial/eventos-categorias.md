@@ -7,6 +7,11 @@ modulo: Agenda de Eventos
 categoria: conteúdo
 aba: Categorias
 tipo_problema: cadastro
+tags:
+  - categoria
+  - evento
+  - editar
+  - ver
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

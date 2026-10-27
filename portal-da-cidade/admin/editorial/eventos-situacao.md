@@ -7,6 +7,12 @@ modulo: Agenda de Eventos
 categoria: conteúdo
 aba: Eventos
 tipo_problema: publicação
+tags:
+  - situacao
+  - evento
+  - no ar
+  - rascunho
+  - publicar
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

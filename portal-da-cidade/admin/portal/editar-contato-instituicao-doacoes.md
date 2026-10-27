@@ -7,6 +7,13 @@ modulo: doacoes
 categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
+tags:
+  - editar
+  - whatsapp
+  - contato
+  - instituicao
+  - doacao
+  - telefone util
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

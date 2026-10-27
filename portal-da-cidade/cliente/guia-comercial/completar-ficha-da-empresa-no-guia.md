@@ -8,6 +8,14 @@ categoria: guia-comercial
 aba: Guia Comercial
 tipo_problema:
   - completar-ficha
+tags:
+  - editar
+  - empresa
+  - guia
+  - contato
+  - foto
+  - comodidade
+  - link
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: video

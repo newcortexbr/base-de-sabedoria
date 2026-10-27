@@ -10,6 +10,13 @@ tipo_problema:
   - cancelar banner
   - parar de pagar o banner
   - não renovar banner
+tags:
+  - cancelar
+  - banner
+  - renovacao
+  - publicidade
+  - cobrar
+  - pagamento
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

@@ -10,6 +10,13 @@ tipo_problema:
   - trocar minha senha
   - alterar senha do painel
   - mudar a senha do administrador
+tags:
+  - senha
+  - painel
+  - conta
+  - perfil
+  - esqueci senha
+  - trocar senha
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

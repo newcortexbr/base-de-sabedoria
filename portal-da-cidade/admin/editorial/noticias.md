@@ -7,6 +7,13 @@ modulo: notícias
 categoria: conteúdo
 aba: Notícias
 tipo_problema: publicação
+tags:
+  - noticia
+  - publicar
+  - editar
+  - agendar
+  - despublicar
+  - categoria
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo
@@ -40,6 +47,10 @@ Aqui você cadastra uma notícia completa pelo painel. A publicação imediata, 
 14. Se quiser, preencha `Créditos`. [t=89] [guia=noticias-cadastrar.creditos]
 15. Em `Status`, escolha `Publicado`. [t=92] [guia=noticias-cadastrar.status]
 16. Clique em `Adicionar`. [t=98] [guia=noticias-cadastrar.salvar]
+
+## começar pela lista de notícias
+
+Na tela `Notícias`, o botão `+ Cadastrar Notícia` abre o mesmo formulário. [guia=noticias.cadastrar]
 
 ## resultado
 

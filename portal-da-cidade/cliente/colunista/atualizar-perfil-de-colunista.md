@@ -11,6 +11,14 @@ tipo_problema:
   - mudar meu cargo
   - mudar minha descrição
   - onde edito meu perfil de colunista
+tags:
+  - editar
+  - colunista
+  - perfil
+  - foto
+  - cargo
+  - descricao
+  - rede social
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

@@ -10,6 +10,12 @@ tipo_problema:
   - trocar de plano
   - plano mais barato
   - diminuir plano
+tags:
+  - plano
+  - assinatura de plano
+  - preco
+  - renovacao
+  - vencimento
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

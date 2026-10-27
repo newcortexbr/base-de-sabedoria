@@ -11,6 +11,12 @@ tipo_problema:
   - cadastrar colunista
   - quem escreve artigos
   - acesso do colunista
+tags:
+  - colunista
+  - artigo
+  - cadastro
+  - bio
+  - foto
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

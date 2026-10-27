@@ -12,6 +12,13 @@ tipo_problema:
   - preço do classificado
   - valor do classificado
   - alterar preço do plano
+tags:
+  - plano
+  - preco
+  - editar
+  - vaga
+  - assinatura
+  - contratar
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

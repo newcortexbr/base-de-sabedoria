@@ -7,6 +7,12 @@ modulo: guia-comercial
 categoria: guia-comercial
 aba: Guia Comercial
 tipo_problema: operacao
+tags:
+  - excluir
+  - categoria
+  - guia
+  - empresa
+  - remover
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

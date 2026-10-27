@@ -7,6 +7,13 @@ modulo: radar
 categoria: radar
 aba: nao-se-aplica
 tipo_problema: operacao
+tags:
+  - aprovar
+  - recusar
+  - editar
+  - radar
+  - foto
+  - preco
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

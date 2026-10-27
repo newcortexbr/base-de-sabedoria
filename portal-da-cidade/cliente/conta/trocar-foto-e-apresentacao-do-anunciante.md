@@ -10,6 +10,14 @@ tipo_problema:
   - trocar minha foto de anunciante
   - mudar o sobre você
   - apresentação nos anúncios
+tags:
+  - editar
+  - foto
+  - perfil
+  - anunciante
+  - classificado
+  - pessoa fisica
+  - bio
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

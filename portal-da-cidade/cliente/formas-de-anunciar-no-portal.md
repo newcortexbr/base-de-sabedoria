@@ -8,6 +8,14 @@ aba: Área do cliente
 tipo_problema:
   - visao-geral
   - formas-de-anunciar
+tags:
+  - anunciante
+  - guia
+  - banner
+  - publicidade
+  - classificado
+  - evento
+  - visao geral
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: video

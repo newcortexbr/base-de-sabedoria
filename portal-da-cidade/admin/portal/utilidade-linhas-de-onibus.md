@@ -10,6 +10,15 @@ tipo_problema:
   - horário de ônibus
   - linhas de ônibus
   - itinerário
+tags:
+  - criar
+  - editar
+  - excluir
+  - onibus
+  - utilidade
+  - horario
+  - voz do povo
+  - itinerario
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

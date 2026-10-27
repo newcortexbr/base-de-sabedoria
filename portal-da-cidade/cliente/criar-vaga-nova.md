@@ -8,6 +8,13 @@ categoria: vagas
 aba: Vagas
 tipo_problema:
   - vagas-proprias
+tags:
+  - criar
+  - publicar
+  - vaga
+  - empresa
+  - salario
+  - area do cliente
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

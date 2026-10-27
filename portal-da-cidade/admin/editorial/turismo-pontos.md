@@ -7,6 +7,11 @@ modulo: Turismo
 categoria: conteúdo
 aba: Pontos Turísticos
 tipo_problema: cadastro
+tags:
+  - ponto turistico
+  - turismo
+  - endereco
+  - foto
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo
@@ -23,7 +28,7 @@ Acesso de administrador ao módulo de Turismo.
 ## passos
 
 1. No menu lateral, dentro de `Guia Turístico / Eventos`, clique em `Pontos Turísticos`. [t=7] [guia=menu:/painel/turismo/pontos]
-2. No mesmo grupo do menu lateral, clique em `Novo Ponto`. [t=15] [guia=menu:/painel/turismo/pontos/novo]
+2. Na lista de pontos, clique em `+ Novo Ponto`. [t=15] [guia=pontos.novo]
 3. Em `Foto principal`, clique em `Escolher foto` para selecionar a capa. [t=18] [guia=pontos-novo.foto]
 4. Em `Dados básicos`, preencha `Nome *`. [t=25] [guia=pontos-novo.nome]
 5. Se quiser, escolha a `Categoria`. [t=28] [guia=pontos-novo.categoria]

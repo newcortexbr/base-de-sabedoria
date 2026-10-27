@@ -14,6 +14,14 @@ tipo_problema:
   - pix do plano
   - aguardando pagamento
   - plano vencido
+tags:
+  - pagar
+  - fatura
+  - pagamento
+  - pendente
+  - vencimento
+  - pix
+  - boleto
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

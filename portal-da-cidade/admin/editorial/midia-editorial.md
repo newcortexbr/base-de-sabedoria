@@ -7,6 +7,13 @@ modulo: Agenda de Eventos
 categoria: conteúdo
 aba: não-se-aplica
 tipo_problema: mídia
+tags:
+  - galeria
+  - evento
+  - foto
+  - imagem
+  - midia
+  - legenda
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

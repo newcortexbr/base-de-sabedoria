@@ -7,6 +7,14 @@ modulo: radar
 categoria: radar
 aba: nao-se-aplica
 tipo_problema: operacao
+tags:
+  - aprovar
+  - juntar
+  - excluir
+  - radar
+  - mercado
+  - empresa
+  - reativar
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo
@@ -45,6 +53,13 @@ O estabelecimento é aprovado. Aprovar não é obrigatório se ele duplica um ca
 2. Clique em `Desativar` no estabelecimento aprovado para escondê-lo sem apagar. [t=77] [guia=radar-mercados.ativar-desativar]
 
 Para reativar, encontre o estabelecimento na aba `Desativados` e use `Ativar`.
+
+## corrigir os dados de um estabelecimento
+
+1. Na parte `Conteúdo` do menu, em `Radar de Preços`, clique em `Estabelecimentos`. [guia=menu:/painel/radar/mercados]
+2. Clique no lápis `Editar` do estabelecimento. [guia=radar-mercados.editar]
+3. Corrija o `Nome *` ou os outros dados. [guia=radar-mercados.nome]
+4. Clique em `Salvar`. [guia=radar-mercados.salvar]
 
 ## excluir
 

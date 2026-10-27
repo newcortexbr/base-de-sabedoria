@@ -1,12 +1,12 @@
 {
- "gerado_em": "2026-10-26",
+ "gerado_em": "2026-10-27",
  "produtos": {
   "area-do-cliente": 92,
   "dados-pj": 14,
   "extrator-maps": 21,
-  "portal-da-cidade": 272
+  "portal-da-cidade": 279
  },
- "total": 399,
+ "total": 406,
  "artigos": [
   {
    "id": "ac-ativar-conta-pelo-convite",
@@ -28,6 +28,7 @@
     "link não é mais válido",
     "link expirou"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -78,6 +79,7 @@
     "não vejo meus negócios",
     "esta área não está disponível"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -124,6 +126,7 @@
     "caixa de spam",
     "lixo eletrônico"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -171,6 +174,7 @@
     "onde entro",
     "criar cadastro"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -216,6 +220,7 @@
     "não lembro a senha",
     "link de recuperação"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -258,6 +263,7 @@
     "errei a senha várias vezes",
     "bloqueio temporário"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -307,6 +313,7 @@
     "não recebi o e-mail de boas-vindas",
     "link já usado"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -352,6 +359,7 @@
     "logout",
     "computador compartilhado"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -392,6 +400,7 @@
     "pede login de novo",
     "fui desconectado"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -441,6 +450,7 @@
     "código inválido",
     "senha atual não confere"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -486,6 +496,7 @@
     "DDD não existe",
     "telefone inválido"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -524,6 +535,7 @@
     "corrigir cnpj",
     "alterar titular"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -567,6 +579,7 @@
     "cancelar tudo",
     "sair da New Córtex"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -607,6 +620,7 @@
     "protegido",
     "não informado"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -648,6 +662,7 @@
     "segundo login",
     "várias cidades na mesma conta"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -693,6 +708,7 @@
     "login-unico",
     "senha-da-ferramenta"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -729,6 +745,7 @@
     "buscar-empresas-cnpj",
     "prospeccao"
    ],
+   "tags": [],
    "videos": [
     "JXWDV_IiAWQ",
     "IKdKLgi-e94"
@@ -768,6 +785,7 @@
     "creditos-do-extrator",
     "prospeccao"
    ],
+   "tags": [],
    "videos": [
     "F136_v1JyRY",
     "R9FCgunNxFE"
@@ -806,6 +824,7 @@
     "em-breve",
     "nao-foi-possivel-entrar"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -840,6 +859,7 @@
     "quais-ferramentas-tenho",
     "duvida-geral"
    ],
+   "tags": [],
    "videos": [
     "2sVAq8AngnY"
    ],
@@ -881,6 +901,7 @@
     "aviso antes da suspensão",
     "quantos dias de atraso"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -933,6 +954,7 @@
     "desistir",
     "não quero mais"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -974,6 +996,7 @@
     "golpe",
     "e-confiavel"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -1012,6 +1035,7 @@
     "dia-do-vencimento",
     "data-de-pagamento"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -1047,6 +1071,7 @@
     "recibo",
     "comprovante-para-contabilidade"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -1087,6 +1112,7 @@
     "quanto vou pagar",
     "próxima cobrança"
    ],
+   "tags": [],
    "videos": [
     "RjoIdbHZrkQ"
    ],
@@ -1137,6 +1163,7 @@
     "cobrança vencida",
     "fatura"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -1179,6 +1206,7 @@
     "voltar a funcionar",
     "reativação"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -1221,6 +1249,7 @@
     "chargeback",
     "paguei duas vezes"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -1264,6 +1293,7 @@
     "o que estou pagando",
     "assinatura"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -1315,6 +1345,7 @@
     "cancelada",
     "o que significa"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -1360,6 +1391,7 @@
     "pix",
     "boleto"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -1399,6 +1431,7 @@
     "comprovante de pagamento",
     "sem comprovante"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -1436,6 +1469,7 @@
     "recebi-um-email",
     "e-golpe"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -1477,6 +1511,7 @@
     "telefone",
     "contato"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -1518,6 +1553,7 @@
     "termos",
     "glossário"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -1561,6 +1597,7 @@
     "não acho",
     "endereço da página"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -1606,6 +1643,7 @@
     "onde ficam as ferramentas",
     "menu sumiu no celular"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -1653,6 +1691,7 @@
     "botão de cancelar",
     "reembolso automático"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -1703,6 +1742,7 @@
     "área de membros",
     "primeiro acesso"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -1744,6 +1784,7 @@
     "o-que-e-isso",
     "painel"
    ],
+   "tags": [],
    "videos": [
     "dbFUi5ENvOg"
    ],
@@ -1782,6 +1823,7 @@
     "por-onde-comecar",
     "o-que-fazer-agora"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -1824,6 +1866,7 @@
     "confirmar-instalacao",
     "concluir-instalacao"
    ],
+   "tags": [],
    "videos": [
     "CgrBKTyXSsI"
    ],
@@ -1865,6 +1908,7 @@
     "dominio-ou-subdominio",
     "duvida-geral"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -1908,6 +1952,7 @@
     "vou-perder-o-email",
     "ja-uso-o-dominio"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -1949,6 +1994,7 @@
     "login-unico",
     "acessar-meu-portal"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -1988,6 +2034,7 @@
     "aguardando-dominio",
     "endereco-do-site"
    ],
+   "tags": [],
    "videos": [
     "DpFk0q7myio"
    ],
@@ -2025,6 +2072,7 @@
     "instalacao-travou",
     "erro-na-instalacao"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -2058,6 +2106,7 @@
     "aguardando-zona-de-dns",
     "instalacao-demorando"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -2102,6 +2151,7 @@
     "nao-consigo-acessar-o-portal",
     "chamado-de-instalacao"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -2141,6 +2191,7 @@
     "quanto-tempo-demora",
     "quem-faz-o-que"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -2184,6 +2235,7 @@
     "portal-fora-do-ar",
     "site-nao-seguro"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -2215,6 +2267,7 @@
     "volta-para-visao-geral",
     "instalacao-bloqueada"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -2251,6 +2304,7 @@
     "registrar-dominio",
     "qual-endereco"
    ],
+   "tags": [],
    "videos": [
     "DpFk0q7myio"
    ],
@@ -2292,6 +2346,7 @@
     "links-do-portal",
     "como-acessar-o-portal"
    ],
+   "tags": [],
    "videos": [
     "CgrBKTyXSsI"
    ],
@@ -2332,6 +2387,7 @@
     "quanto-tempo-demora",
     "site-ainda-nao-abre"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -2383,6 +2439,7 @@
     "hostinger",
     "cloudflare"
    ],
+   "tags": [],
    "videos": [
     "9-7aT2M-jmk"
    ],
@@ -2428,6 +2485,7 @@
     "dominio-errado",
     "mudar-endereco-do-site"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -2465,6 +2523,7 @@
     "cname",
     "apontamento"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -2508,6 +2567,7 @@
     "lembrete-da-live",
     "outlook"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -2546,6 +2606,7 @@
     "link-da-live",
     "assistir-ao-vivo"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -2577,6 +2638,7 @@
     "perdi-a-live",
     "live-gravada"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -2610,6 +2672,7 @@
     "fuso-horario",
     "horario-errado"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -2641,6 +2704,7 @@
     "proxima-live",
     "quando-tem-live"
    ],
+   "tags": [],
    "videos": [
     "3i_JcDTTKtA"
    ],
@@ -2676,6 +2740,7 @@
     "nova-licenca",
     "expandir"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -2711,6 +2776,7 @@
     "cidade-ja-vendida",
     "duvida-geral"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -2746,6 +2812,7 @@
     "lista-vazia",
     "paguei-e-nao-liberou"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -2781,6 +2848,7 @@
     "ferramenta-bloqueada",
     "treinamento-bloqueado"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -2824,6 +2892,7 @@
     "tenho-duas-cidades",
     "duvida-geral"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -2861,6 +2930,7 @@
     "checkout",
     "cidade-indisponivel"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -2903,6 +2973,7 @@
     "portal-no-ar",
     "instalacao-pendente"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -2945,6 +3016,7 @@
     "vender-licenca",
     "passar-para-socio"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -2985,6 +3057,7 @@
     "cidade-errada",
     "outra-cidade"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -3020,6 +3093,7 @@
     "escolher-cidade",
     "navegar-area-do-cliente"
    ],
+   "tags": [],
    "videos": [
     "ZY0xttnJyzI"
    ],
@@ -3062,6 +3136,7 @@
     "proximo-passo",
     "onde-fica"
    ],
+   "tags": [],
    "videos": [
     "o-YLH2-8w8I"
    ],
@@ -3101,6 +3176,7 @@
     "duvida-geral",
     "como-ganho-dinheiro"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -3144,6 +3220,7 @@
     "reclamação",
     "falar com atendente"
    ],
+   "tags": [],
    "videos": [
     "oZf-HGbQC9c"
    ],
@@ -3191,6 +3268,7 @@
     "aguardando você",
     "equipe respondeu"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -3233,6 +3311,7 @@
     "arquivo acima do limite",
     "limite de anexos"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -3277,6 +3356,7 @@
     "conversa",
     "falar com humano"
    ],
+   "tags": [],
    "videos": [
     "oZf-HGbQC9c"
    ],
@@ -3323,6 +3403,7 @@
     "ja-resolvi",
     "encerrar-chamado"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -3357,6 +3438,7 @@
     "ninguem-respondeu",
     "quando-vao-responder"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -3396,6 +3478,7 @@
     "problema voltou",
     "continuar chamado"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -3435,6 +3518,7 @@
     "fechamento automático",
     "prazo de resposta"
    ],
+   "tags": [],
    "videos": [
     "oZf-HGbQC9c"
    ],
@@ -3482,6 +3566,7 @@
     "pesquisar-assunto",
     "nao-encontro-a-aula"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -3522,6 +3607,7 @@
     "certificado",
     "prova"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -3562,6 +3648,7 @@
     "links-da-aula",
     "pdf-da-aula"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -3599,6 +3686,7 @@
     "continuar-de-onde-parei",
     "filtrar-modulos"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -3637,6 +3725,7 @@
     "acessar-treinamento",
     "navegar-area-do-cliente"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -3673,6 +3762,7 @@
     "tour",
     "por-onde-comecar"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -3709,6 +3799,7 @@
     "acesso-suspenso",
     "aulas-sumiram"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -3745,6 +3836,7 @@
     "video-nao-abre",
     "aula-sem-video"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -3781,6 +3873,7 @@
     "senha",
     "dados-pj"
    ],
+   "tags": [],
    "videos": [
     "JXWDV_IiAWQ"
    ],
@@ -3820,6 +3913,7 @@
     "popup-bloqueado",
     "dados-pj"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -3863,6 +3957,7 @@
     "inadimplencia",
     "dados-pj"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -3908,6 +4003,7 @@
     "arquivo-grande",
     "dados-pj"
    ],
+   "tags": [],
    "videos": [
     "JXWDV_IiAWQ",
     "IKdKLgi-e94"
@@ -3957,6 +4053,7 @@
     "telefones",
     "dados-pj"
    ],
+   "tags": [],
    "videos": [
     "IKdKLgi-e94"
    ],
@@ -4003,6 +4100,7 @@
     "quantas-listas",
     "dados-pj"
    ],
+   "tags": [],
    "videos": [
     "JXWDV_IiAWQ",
     "IKdKLgi-e94"
@@ -4050,6 +4148,7 @@
     "base-de-empresas",
     "dados-pj"
    ],
+   "tags": [],
    "videos": [
     "JXWDV_IiAWQ",
     "IKdKLgi-e94"
@@ -4092,6 +4191,7 @@
     "lista-de-empresas",
     "dados-pj"
    ],
+   "tags": [],
    "videos": [
     "JXWDV_IiAWQ",
     "IKdKLgi-e94"
@@ -4135,6 +4235,7 @@
     "whatsapp",
     "dados-pj"
    ],
+   "tags": [],
    "videos": [
     "JXWDV_IiAWQ",
     "IKdKLgi-e94"
@@ -4176,6 +4277,7 @@
     "estado-nao-permitido",
     "dados-pj"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -4222,6 +4324,7 @@
     "data-de-abertura",
     "dados-pj"
    ],
+   "tags": [],
    "videos": [
     "IKdKLgi-e94"
    ],
@@ -4271,6 +4374,7 @@
     "limite-de-cidades",
     "dados-pj"
    ],
+   "tags": [],
    "videos": [
     "JXWDV_IiAWQ",
     "IKdKLgi-e94"
@@ -4317,6 +4421,7 @@
     "nome-fantasia",
     "dados-pj"
    ],
+   "tags": [],
    "videos": [
     "IKdKLgi-e94"
    ],
@@ -4364,6 +4469,7 @@
     "passo-a-passo",
     "dados-pj"
    ],
+   "tags": [],
    "videos": [
     "IKdKLgi-e94"
    ],
@@ -4402,6 +4508,7 @@
     "sso",
     "extrator-maps"
    ],
+   "tags": [],
    "videos": [
     "F136_v1JyRY"
    ],
@@ -4445,6 +4552,7 @@
     "extrator-maps",
     "creditos"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -4486,6 +4594,7 @@
     "muitas-tentativas",
     "extrator-maps"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -4525,6 +4634,7 @@
     "senha-temporaria",
     "extrator-maps"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-21",
@@ -4561,6 +4671,7 @@
     "acentos-estranhos",
     "extrator-maps"
    ],
+   "tags": [],
    "videos": [
     "R9FCgunNxFE",
     "F136_v1JyRY"
@@ -4607,6 +4718,7 @@
     "dados-da-empresa",
     "extrator-maps"
    ],
+   "tags": [],
    "videos": [
     "F136_v1JyRY",
     "R9FCgunNxFE"
@@ -4650,6 +4762,7 @@
     "saldo",
     "extrator-maps"
    ],
+   "tags": [],
    "videos": [
     "F136_v1JyRY",
     "R9FCgunNxFE"
@@ -4695,6 +4808,7 @@
     "credito-nao-entrou",
     "extrator-maps"
    ],
+   "tags": [],
    "videos": [
     "F136_v1JyRY"
    ],
@@ -4737,6 +4851,7 @@
     "saldo",
     "extrator-maps"
    ],
+   "tags": [],
    "videos": [
     "F136_v1JyRY"
    ],
@@ -4776,6 +4891,7 @@
     "acompanhar",
     "extrator-maps"
    ],
+   "tags": [],
    "videos": [
     "R9FCgunNxFE",
     "F136_v1JyRY"
@@ -4818,6 +4934,7 @@
     "pagamento-pendente",
     "extrator-maps"
    ],
+   "tags": [],
    "videos": [
     "F136_v1JyRY",
     "R9FCgunNxFE"
@@ -4860,6 +4977,7 @@
     "extracoes-simultaneas",
     "extrator-maps"
    ],
+   "tags": [],
    "videos": [
     "R9FCgunNxFE"
    ],
@@ -4902,6 +5020,7 @@
     "nicho-nao-reconhecido",
     "extrator-maps"
    ],
+   "tags": [],
    "videos": [
     "R9FCgunNxFE",
     "jl7GHmHVJcM"
@@ -4944,6 +5063,7 @@
     "filtrar-extracoes",
     "extrator-maps"
    ],
+   "tags": [],
    "videos": [
     "R9FCgunNxFE",
     "F136_v1JyRY"
@@ -4986,6 +5106,7 @@
     "bairros",
     "extrator-maps"
    ],
+   "tags": [],
    "videos": [
     "R9FCgunNxFE",
     "F136_v1JyRY"
@@ -5029,6 +5150,7 @@
     "extrair-empresas",
     "extrator-maps"
    ],
+   "tags": [],
    "videos": [
     "R9FCgunNxFE",
     "F136_v1JyRY"
@@ -5070,6 +5192,7 @@
     "formato-csv-xlsx",
     "extrator-maps"
    ],
+   "tags": [],
    "videos": [
     "R9FCgunNxFE",
     "F136_v1JyRY",
@@ -5114,6 +5237,7 @@
     "gastou-mais-que-pedi",
     "extrator-maps"
    ],
+   "tags": [],
    "videos": [
     "R9FCgunNxFE",
     "F136_v1JyRY"
@@ -5161,6 +5285,7 @@
     "prospeccao",
     "o-que-e"
    ],
+   "tags": [],
    "videos": [
     "F136_v1JyRY",
     "R9FCgunNxFE"
@@ -5198,6 +5323,7 @@
     "duvidas",
     "extrator-maps"
    ],
+   "tags": [],
    "videos": [
     "F136_v1JyRY",
     "R9FCgunNxFE"
@@ -5235,6 +5361,7 @@
     "alimentar-o-portal",
     "extrator-maps"
    ],
+   "tags": [],
    "videos": [
     "jl7GHmHVJcM",
     "F136_v1JyRY"
@@ -5278,6 +5405,12 @@
     "acessar o painel de outro portal",
     "ajudar colega no painel"
    ],
+   "tags": [
+    "painel",
+    "permissao",
+    "acesso negado",
+    "senha"
+   ],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -5294,6 +5427,8 @@
     "outro",
     "ajudar",
     "colega",
+    "permissao",
+    "senha",
     "entre",
     "conta",
     "autorizada",
@@ -5318,6 +5453,14 @@
     "não consigo entrar no painel",
     "recuperar senha do administrador"
    ],
+   "tags": [
+    "senha",
+    "painel",
+    "entrar",
+    "ver",
+    "esqueci senha",
+    "trocar senha"
+   ],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -5332,6 +5475,8 @@
     "entrar",
     "recuperar",
     "administrador",
+    "ver",
+    "trocar",
     "solicite",
     "ajuda",
     "botao",
@@ -5358,6 +5503,14 @@
     "alterar senha do painel",
     "mudar a senha do administrador"
    ],
+   "tags": [
+    "senha",
+    "painel",
+    "conta",
+    "perfil",
+    "esqueci senha",
+    "trocar senha"
+   ],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -5370,6 +5523,9 @@
     "alterar",
     "mudar",
     "administrador",
+    "conta",
+    "perfil",
+    "esqueci",
     "troque",
     "souber",
     "atual"
@@ -5388,6 +5544,15 @@
    "modulo": "financeiro",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "ver",
+    "fatura",
+    "pagamento",
+    "filtrar",
+    "vencimento",
+    "pendente",
+    "cliente"
+   ],
    "videos": [
     "1RHf0fcXgyE"
    ],
@@ -5399,6 +5564,13 @@
     "pagamentos",
     "financeiro",
     "aplica",
+    "ver",
+    "fatura",
+    "pagamento",
+    "filtrar",
+    "vencimento",
+    "pendente",
+    "cliente",
     "voce",
     "consulta",
     "separa",
@@ -5421,6 +5593,15 @@
    "modulo": "delivery",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "ver",
+    "delivery",
+    "pedido",
+    "fila",
+    "entregar",
+    "empresa",
+    "status"
+   ],
    "videos": [
     "TgIUmqrRuBY",
     "2ShbACG2mHE"
@@ -5433,10 +5614,14 @@
     "pedidos",
     "delivery",
     "aplica",
+    "ver",
+    "pedido",
+    "entregar",
+    "empresa",
+    "status",
     "voce",
     "acompanha",
     "chegam",
-    "empresa",
     "recebimento",
     "ate",
     "entrega",
@@ -5462,6 +5647,15 @@
    "modulo": "configurações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "cidade",
+    "cobertura",
+    "portal",
+    "ver",
+    "contato",
+    "criar",
+    "remover"
+   ],
    "videos": [
     "8M4kdEfP7Eg"
    ],
@@ -5475,13 +5669,15 @@
     "portal",
     "configuracoes",
     "aplica",
+    "cidade",
+    "ver",
+    "contato",
+    "criar",
     "voce",
     "consulta",
     "encontra",
-    "contato",
     "solicitar",
     "mudanca",
-    "cidade",
     "administrador",
     "adiciona",
     "nem",
@@ -5509,6 +5705,13 @@
     "valor da vaga",
     "quanto a vaga paga"
    ],
+   "tags": [
+    "editar",
+    "vaga",
+    "salario",
+    "contratante",
+    "area"
+   ],
    "videos": [
     "ufB3QTKfPsM"
    ],
@@ -5527,6 +5730,9 @@
     "candidato",
     "quanto",
     "paga",
+    "editar",
+    "contratante",
+    "area",
     "voce",
     "muda",
     "oferecido",
@@ -5554,6 +5760,14 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "editar",
+    "whatsapp",
+    "empresa",
+    "guia",
+    "contato",
+    "telefone"
+   ],
    "videos": [
     "wukhVMFEHWg"
    ],
@@ -5565,11 +5779,13 @@
     "empresa",
     "guia",
     "aplica",
+    "editar",
+    "contato",
+    "telefone",
     "voce",
     "altera",
     "numero",
     "usado",
-    "contato",
     "campo",
     "aparece",
     "ficha",
@@ -5593,6 +5809,14 @@
     "cadastrar anunciante",
     "loja que anuncia nos classificados"
    ],
+   "tags": [
+    "pessoa fisica",
+    "pessoa juridica",
+    "criar",
+    "anunciante",
+    "classificado",
+    "cadastro"
+   ],
    "videos": [
     "Ps1cgdLQ1FI"
    ],
@@ -5605,9 +5829,14 @@
     "aplica",
     "loja",
     "anuncia",
+    "pessoa",
+    "fisica",
+    "juridica",
+    "criar",
+    "classificado",
+    "cadastro",
     "voce",
     "cadastra",
-    "pessoa",
     "login",
     "responsavel",
     "opcional"
@@ -5617,8 +5846,8 @@
   },
   {
    "id": "aprovar-cadastro-de-empresa",
-   "titulo": "aprovar o cadastro de empresa feito pelo próprio cliente",
-   "objetivo": "aqui você libera ou recusa a empresa que o próprio cliente cadastrou no Guia Comercial. Enquanto você não aprova, ela não aparece no site.",
+   "titulo": "aprovar ou recusar o cadastro de empresa feito pelo cliente (quanto tempo leva)",
+   "objetivo": "Libere a empresa que o próprio cliente cadastrou no Guia Comercial. Enquanto você não aprova, ela não aparece no site.",
    "publico": [
     "admin"
    ],
@@ -5626,27 +5855,47 @@
    "modulo": "aprovações",
    "aba": "Aprovações",
    "tipos": [],
+   "tags": [
+    "aprovar",
+    "recusar",
+    "empresa",
+    "guia",
+    "cadastro",
+    "autocadastro",
+    "pendente",
+    "aprovacao",
+    "prazo",
+    "conta"
+   ],
    "videos": [
     "JYDoZB_vyX8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "aprovar",
+    "recusar",
     "cadastro",
     "empresa",
     "feito",
     "pelo",
-    "proprio",
     "cliente",
+    "quanto",
+    "tempo",
+    "leva",
     "aprovacoes",
-    "voce",
-    "libera",
-    "recusa",
-    "cadastrou",
     "guia",
+    "autocadastro",
+    "pendente",
+    "aprovacao",
+    "prazo",
+    "conta",
+    "libere",
+    "proprio",
+    "cadastrou",
     "comercial",
     "enquanto",
+    "voce",
     "aprova",
     "ela",
     "aparece",
@@ -5666,6 +5915,14 @@
    "modulo": "banners",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "ligar",
+    "desligar",
+    "banner",
+    "publicidade",
+    "despublicar",
+    "reativar"
+   ],
    "videos": [
     "BqIfSq7bVXM"
    ],
@@ -5678,6 +5935,11 @@
     "publicitario",
     "banners",
     "aplica",
+    "ligar",
+    "desligar",
+    "publicidade",
+    "despublicar",
+    "reativar",
     "tirar",
     "sem",
     "apaga",
@@ -5706,6 +5968,13 @@
     "não aparece no menu",
     "seção sumiu do site"
    ],
+   "tags": [
+    "ligar",
+    "desligar",
+    "modulo",
+    "parceiro",
+    "portal"
+   ],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -5723,9 +5992,13 @@
     "aparece",
     "secao",
     "site",
+    "ligar",
+    "desligar",
+    "modulo",
+    "parceiro",
+    "portal",
     "voce",
     "escolhe",
-    "portal",
     "ficam",
     "ligados",
     "ativo"
@@ -5744,6 +6017,13 @@
    "modulo": "clientes",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "bloquear",
+    "desbloquear",
+    "cliente",
+    "conta",
+    "acesso"
+   ],
    "videos": [
     "-FASO6flcCw"
    ],
@@ -5756,6 +6036,8 @@
     "cliente",
     "clientes",
     "aplica",
+    "desbloquear",
+    "conta",
     "voce",
     "bloqueia",
     "libera",
@@ -5778,6 +6060,13 @@
    "modulo": "vagas e classificados",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "criar",
+    "area",
+    "vaga",
+    "categoria",
+    "cadastro"
+   ],
    "videos": [
     "ufB3QTKfPsM"
    ],
@@ -5789,6 +6078,10 @@
     "vagas",
     "classificados",
     "aplica",
+    "area",
+    "vaga",
+    "categoria",
+    "cadastro",
     "voce",
     "cria",
     "organizam",
@@ -5809,6 +6102,13 @@
    "modulo": "vagas e classificados",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "criar",
+    "contratante",
+    "vaga",
+    "empresa",
+    "cadastro"
+   ],
    "videos": [
     "ufB3QTKfPsM"
    ],
@@ -5822,6 +6122,8 @@
     "vagas",
     "classificados",
     "aplica",
+    "criar",
+    "cadastro",
     "voce",
     "cadastra",
     "oferece",
@@ -5843,17 +6145,29 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "criar",
+    "empresa",
+    "guia",
+    "cadastro",
+    "endereco",
+    "contato"
+   ],
    "videos": [
     "wukhVMFEHWg",
     "JdJr7pXVx98"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "cadastrar",
     "empresa",
     "guia",
     "aplica",
+    "criar",
+    "cadastro",
+    "endereco",
+    "contato",
     "voce",
     "cadastra",
     "nova",
@@ -5881,6 +6195,14 @@
    "modulo": "vagas e classificados",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "criar",
+    "vaga",
+    "contratante",
+    "area",
+    "salario",
+    "publicar"
+   ],
    "videos": [
     "ufB3QTKfPsM"
    ],
@@ -5892,12 +6214,16 @@
     "vagas",
     "classificados",
     "aplica",
+    "criar",
+    "contratante",
+    "area",
+    "salario",
+    "publicar",
     "voce",
     "cadastra",
     "emprego",
     "painel",
     "empresa",
-    "contratante",
     "precisa",
     "estar",
     "cadastrada",
@@ -5917,6 +6243,13 @@
    "modulo": "delivery",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "cancelar",
+    "pedido",
+    "delivery",
+    "status",
+    "empresa"
+   ],
    "videos": [
     "TgIUmqrRuBY"
    ],
@@ -5927,6 +6260,8 @@
     "pedido",
     "delivery",
     "aplica",
+    "status",
+    "empresa",
     "voce",
     "marca",
     "recebido",
@@ -5951,6 +6286,12 @@
     "subcategoria de classificados",
     "criar categoria classificados"
    ],
+   "tags": [
+    "criar",
+    "categoria",
+    "classificado",
+    "anuncio"
+   ],
    "videos": [
     "Ps1cgdLQ1FI"
    ],
@@ -5964,6 +6305,7 @@
     "categoria",
     "anuncio",
     "subcategoria",
+    "classificado",
     "voce",
     "cria",
     "organizar",
@@ -5983,6 +6325,14 @@
    "modulo": "financeiro",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "cobrar",
+    "fatura",
+    "whatsapp",
+    "cliente",
+    "enviar",
+    "telefone"
+   ],
    "videos": [
     "1RHf0fcXgyE"
    ],
@@ -5995,9 +6345,11 @@
     "whatsapp",
     "financeiro",
     "aplica",
+    "cliente",
+    "enviar",
+    "telefone",
     "voce",
     "abre",
-    "cliente",
     "mensagem",
     "cobranca",
     "pronta"
@@ -6016,6 +6368,14 @@
    "modulo": "parceiros",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "cobrar",
+    "parceiro",
+    "plano",
+    "asaas",
+    "link",
+    "pagamento"
+   ],
    "videos": [
     "8gIDPdapN0E"
    ],
@@ -6030,10 +6390,10 @@
     "asaas",
     "parceiros",
     "aplica",
-    "voce",
-    "gera",
     "link",
     "pagamento",
+    "voce",
+    "gera",
     "cadastrado",
     "diferente",
     "pagar",
@@ -6059,6 +6419,14 @@
     "preço do banner",
     "valor da publicidade"
    ],
+   "tags": [
+    "banner",
+    "espaco",
+    "preco",
+    "publicidade",
+    "editar",
+    "plano"
+   ],
    "videos": [
     "MbMNv59z7Bg"
    ],
@@ -6076,6 +6444,8 @@
     "vender",
     "valor",
     "publicidade",
+    "editar",
+    "plano",
     "voce",
     "coloca",
     "posicao",
@@ -6103,6 +6473,13 @@
    "modulo": "configurações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "pixel",
+    "trafego",
+    "criar",
+    "remover",
+    "portal"
+   ],
    "videos": [
     "8M4kdEfP7Eg"
    ],
@@ -6115,6 +6492,10 @@
     "portal",
     "configuracoes",
     "aplica",
+    "pixel",
+    "trafego",
+    "criar",
+    "remover",
     "voce",
     "cadastra",
     "remove",
@@ -6136,6 +6517,14 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "video",
+    "quarto",
+    "galeria",
+    "guia",
+    "criar",
+    "empresa"
+   ],
    "videos": [
     "reZ3e1a4o-o"
    ],
@@ -6148,9 +6537,11 @@
     "quarto",
     "guia",
     "aplica",
+    "galeria",
+    "criar",
+    "empresa",
     "voce",
     "acrescenta",
-    "galeria",
     "cadastrado"
    ],
    "base": "portal-da-cidade",
@@ -6167,6 +6558,14 @@
    "modulo": "parceiros",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "comissao",
+    "parceiro",
+    "asaas",
+    "pagar",
+    "ligar",
+    "automatico"
+   ],
    "videos": [
     "8gIDPdapN0E"
    ],
@@ -6181,10 +6580,12 @@
     "asaas",
     "parceiros",
     "aplica",
+    "pagar",
+    "ligar",
+    "automatico",
     "voce",
     "liga",
     "repasse",
-    "automatico",
     "mudar",
     "percentual",
     "use",
@@ -6212,6 +6613,15 @@
     "receber pagamento dos planos vendidos",
     "onde cai o dinheiro dos clientes"
    ],
+   "tags": [
+    "asaas",
+    "cobrar",
+    "pagamento",
+    "pix",
+    "fatura",
+    "conectar",
+    "configurar"
+   ],
    "videos": [
     "lwaG-T87hJI"
    ],
@@ -6234,6 +6644,10 @@
     "vendidos",
     "cai",
     "clientes",
+    "cobrar",
+    "pix",
+    "fatura",
+    "configurar",
     "voce",
     "conecta",
     "portal",
@@ -6258,6 +6672,15 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "qr code",
+    "cardapio",
+    "botao",
+    "tema",
+    "imprimir",
+    "link",
+    "editar"
+   ],
    "videos": [
     "VV8BxCbIfz4"
    ],
@@ -6272,13 +6695,16 @@
     "digital",
     "guia",
     "aplica",
+    "botao",
+    "imprimir",
+    "link",
+    "editar",
     "voce",
     "escolhe",
     "aparecem",
     "claro",
     "escuro",
-    "gera",
-    "imprimir"
+    "gera"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/comercial/configurar-cardapio-digital-botoes-tema-qrcode.md"
@@ -6294,6 +6720,13 @@
    "modulo": "configurações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "cor",
+    "tema",
+    "editar",
+    "portal",
+    "layout"
+   ],
    "videos": [
     "lrTaEV5JnVM",
     "XekThBh1ygU"
@@ -6306,9 +6739,12 @@
     "portal",
     "configuracoes",
     "aplica",
+    "cor",
+    "tema",
+    "editar",
+    "layout",
     "voce",
     "muda",
-    "cor",
     "primaria",
     "usada",
     "elementos",
@@ -6333,6 +6769,14 @@
    "modulo": "configurações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "fale conosco",
+    "contato",
+    "editar",
+    "portal",
+    "descricao",
+    "telefone"
+   ],
    "videos": [
     "8M4kdEfP7Eg",
     "XekThBh1ygU"
@@ -6347,6 +6791,10 @@
     "portal",
     "configuracoes",
     "aplica",
+    "contato",
+    "editar",
+    "descricao",
+    "telefone",
     "voce",
     "altera",
     "contatos",
@@ -6366,6 +6814,14 @@
    "modulo": "configurações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "nome",
+    "logo",
+    "favicon",
+    "editar",
+    "portal",
+    "imagem"
+   ],
    "videos": [
     "8M4kdEfP7Eg",
     "XekThBh1ygU"
@@ -6380,6 +6836,8 @@
     "portal",
     "configuracoes",
     "aplica",
+    "editar",
+    "imagem",
     "voce",
     "muda",
     "icone",
@@ -6400,6 +6858,15 @@
    "modulo": "configurações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "layout",
+    "portal",
+    "topo",
+    "rodape",
+    "cor",
+    "home",
+    "visao geral"
+   ],
    "videos": [
     "XekThBh1ygU",
     "He7XF-kolwk",
@@ -6416,6 +6883,12 @@
     "portal",
     "configuracoes",
     "aplica",
+    "topo",
+    "rodape",
+    "cor",
+    "home",
+    "visao",
+    "geral",
     "voce",
     "encontra",
     "quatro",
@@ -6441,6 +6914,14 @@
     "valor do classificado",
     "alterar preço do plano"
    ],
+   "tags": [
+    "plano",
+    "preco",
+    "editar",
+    "vaga",
+    "assinatura",
+    "contratar"
+   ],
    "videos": [
     "31ftVMQ_yr4"
    ],
@@ -6460,6 +6941,10 @@
     "valor",
     "alterar",
     "plano",
+    "editar",
+    "vaga",
+    "assinatura",
+    "contratar",
     "voce",
     "ajusta",
     "nome",
@@ -6471,7 +6956,6 @@
     "completo",
     "mudar",
     "anuncio",
-    "vaga",
     "emprego"
    ],
    "base": "portal-da-cidade",
@@ -6488,6 +6972,14 @@
    "modulo": "configurações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "rede social",
+    "whatsapp",
+    "editar",
+    "portal",
+    "link",
+    "contato"
+   ],
    "videos": [
     "8M4kdEfP7Eg",
     "XekThBh1ygU"
@@ -6501,9 +6993,14 @@
     "portal",
     "configuracoes",
     "aplica",
+    "rede",
+    "social",
+    "whatsapp",
+    "editar",
+    "link",
+    "contato",
     "voce",
     "altera",
-    "whatsapp",
     "perfis",
     "exibidos",
     "pelo"
@@ -6527,6 +7024,14 @@
     "parte de baixo do site",
     "final da página"
    ],
+   "tags": [
+    "rodape",
+    "editar",
+    "portal",
+    "logo",
+    "cor",
+    "layout"
+   ],
    "videos": [
     "vPnHq9kRWW8",
     "XekThBh1ygU"
@@ -6547,13 +7052,16 @@
     "site",
     "final",
     "pagina",
+    "editar",
+    "logo",
+    "cor",
+    "layout",
     "voce",
     "muda",
     "modelo",
     "texto",
     "cores",
-    "tamanho",
-    "logo"
+    "tamanho"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/comercial/configurar-rodape-do-portal.md"
@@ -6569,6 +7077,15 @@
    "modulo": "configurações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "topo",
+    "menu",
+    "ordenar",
+    "editar",
+    "logo",
+    "cor",
+    "layout"
+   ],
    "videos": [
     "He7XF-kolwk",
     "XekThBh1ygU"
@@ -6584,11 +7101,15 @@
     "portal",
     "configuracoes",
     "aplica",
+    "ordenar",
+    "editar",
+    "logo",
+    "cor",
+    "layout",
     "voce",
     "muda",
     "modelo",
     "tamanho",
-    "logo",
     "cores",
     "site"
    ],
@@ -6606,6 +7127,14 @@
    "modulo": "financeiro",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "copiar",
+    "link",
+    "fatura",
+    "pagamento",
+    "cobrar",
+    "cliente"
+   ],
    "videos": [
     "1RHf0fcXgyE"
    ],
@@ -6618,6 +7147,8 @@
     "fatura",
     "financeiro",
     "aplica",
+    "cobrar",
+    "cliente",
     "voce",
     "copia",
     "foi",
@@ -6637,6 +7168,13 @@
    "modulo": "classificados",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "criar",
+    "subcategoria",
+    "categoria",
+    "classificado",
+    "anuncio"
+   ],
    "videos": [
     "Ps1cgdLQ1FI"
    ],
@@ -6647,11 +7185,13 @@
     "subcategoria",
     "classificados",
     "aplica",
+    "categoria",
+    "classificado",
+    "anuncio",
     "voce",
     "cria",
     "subdivisao",
-    "dentro",
-    "categoria"
+    "dentro"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/comercial/criar-subcategoria-de-classificados.md"
@@ -6667,6 +7207,14 @@
    "modulo": "melhores da cidade",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "melhores da cidade",
+    "voto",
+    "votacao",
+    "denuncia",
+    "moderacao",
+    "desfazer"
+   ],
    "videos": [
     "ajzmuupRJMM"
    ],
@@ -6679,6 +7227,11 @@
     "melhores",
     "cidade",
     "aplica",
+    "voto",
+    "votacao",
+    "denuncia",
+    "moderacao",
+    "desfazer",
     "voce",
     "avalia",
     "alertas",
@@ -6704,6 +7257,14 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "desfazer",
+    "importar",
+    "empresa",
+    "guia",
+    "excluir",
+    "lote"
+   ],
    "videos": [
     "jl7GHmHVJcM"
    ],
@@ -6715,10 +7276,13 @@
     "empresas",
     "guia",
     "aplica",
+    "importar",
+    "empresa",
+    "excluir",
+    "lote",
     "voce",
     "apaga",
     "criadas",
-    "lote",
     "confira",
     "quantidade",
     "antes",
@@ -6738,6 +7302,14 @@
    "modulo": "banners",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "editar",
+    "banner",
+    "publicidade",
+    "imagem",
+    "link",
+    "periodo"
+   ],
    "videos": [
     "BqIfSq7bVXM"
    ],
@@ -6749,12 +7321,14 @@
     "publicitario",
     "banners",
     "aplica",
+    "publicidade",
+    "imagem",
+    "link",
+    "periodo",
     "voce",
     "altera",
-    "imagem",
     "destino",
     "posicao",
-    "periodo",
     "cadastrado"
    ],
    "base": "portal-da-cidade",
@@ -6771,6 +7345,14 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "editar",
+    "categoria",
+    "guia",
+    "situacao",
+    "empresa",
+    "nome"
+   ],
    "videos": [
     "09n3Eiwn418"
    ],
@@ -6781,11 +7363,12 @@
     "categoria",
     "guia",
     "aplica",
+    "situacao",
+    "empresa",
+    "nome",
     "voce",
     "muda",
-    "nome",
-    "icone",
-    "situacao"
+    "icone"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/comercial/editar-categoria-do-guia.md"
@@ -6801,6 +7384,14 @@
    "modulo": "cupons",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "editar",
+    "cupom",
+    "empresa",
+    "guia",
+    "preco",
+    "desconto"
+   ],
    "videos": [
     "pBHdF3bd1QI"
    ],
@@ -6812,9 +7403,12 @@
     "portal",
     "cupons",
     "aplica",
+    "empresa",
+    "guia",
+    "preco",
+    "desconto",
     "voce",
     "altera",
-    "empresa",
     "fica",
     "fixa",
     "durante",
@@ -6834,6 +7428,13 @@
    "modulo": "clientes",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "editar",
+    "cliente",
+    "dados",
+    "cadastro",
+    "contato"
+   ],
    "videos": [
     "-FASO6flcCw"
    ],
@@ -6845,9 +7446,10 @@
     "cliente",
     "clientes",
     "aplica",
+    "cadastro",
+    "contato",
     "voce",
     "altera",
-    "cadastro",
     "existente"
    ],
    "base": "portal-da-cidade",
@@ -6864,6 +7466,14 @@
    "modulo": "melhores da cidade",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "melhores da cidade",
+    "votacao",
+    "editar",
+    "datas",
+    "prazo",
+    "periodo"
+   ],
    "videos": [
     "ajzmuupRJMM"
    ],
@@ -6876,6 +7486,9 @@
     "melhores",
     "cidade",
     "aplica",
+    "editar",
+    "prazo",
+    "periodo",
     "voce",
     "altera",
     "comeco",
@@ -6900,6 +7513,14 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "editar",
+    "equipe",
+    "cargo",
+    "especialidade",
+    "empresa",
+    "guia"
+   ],
    "videos": [
     "okWcwnwq5Bk",
     "-cq2YnG0vis"
@@ -6914,6 +7535,8 @@
     "equipe",
     "guia",
     "aplica",
+    "editar",
+    "empresa",
     "voce",
     "altera",
     "profissional",
@@ -6933,6 +7556,14 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "editar",
+    "preco",
+    "prato",
+    "cardapio",
+    "guia",
+    "empresa"
+   ],
    "videos": [
     "VV8BxCbIfz4"
    ],
@@ -6946,6 +7577,8 @@
     "digital",
     "guia",
     "aplica",
+    "editar",
+    "empresa",
     "voce",
     "muda",
     "existe",
@@ -6965,6 +7598,14 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "editar",
+    "preco",
+    "produto",
+    "catalogo",
+    "guia",
+    "empresa"
+   ],
    "videos": [
     "Z45xwGT8U38",
     "X2BpMhoYKiA"
@@ -6978,11 +7619,12 @@
     "catalogo",
     "guia",
     "aplica",
+    "editar",
+    "empresa",
     "voce",
     "altera",
     "cadastrado",
-    "vitrine",
-    "empresa"
+    "vitrine"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/comercial/editar-produto-do-catalogo.md"
@@ -6998,6 +7640,14 @@
    "modulo": "delivery",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "editar",
+    "preco",
+    "produto",
+    "delivery",
+    "disponibilidade",
+    "empresa"
+   ],
    "videos": [
     "2ShbACG2mHE"
    ],
@@ -7010,6 +7660,8 @@
     "produto",
     "delivery",
     "aplica",
+    "editar",
+    "empresa",
     "voce",
     "altera",
     "base",
@@ -7032,6 +7684,14 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "editar",
+    "preco",
+    "diaria",
+    "quarto",
+    "guia",
+    "empresa"
+   ],
    "videos": [
     "reZ3e1a4o-o",
     "aSRf0hwUrrc"
@@ -7046,6 +7706,8 @@
     "suite",
     "guia",
     "aplica",
+    "editar",
+    "empresa",
     "voce",
     "altera",
     "cadastrado"
@@ -7064,6 +7726,13 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "editar",
+    "preco",
+    "servico",
+    "empresa",
+    "guia"
+   ],
    "videos": [
     "aE3QL3ErK0k",
     "FwKU_0GF6iU"
@@ -7077,6 +7746,8 @@
     "empresa",
     "guia",
     "aplica",
+    "editar",
+    "preco",
     "voce",
     "troca",
     "existente",
@@ -7100,6 +7771,13 @@
    "modulo": "melhores da cidade",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "melhores da cidade",
+    "votacao",
+    "cancelar",
+    "prazo",
+    "datas"
+   ],
    "videos": [
     "ajzmuupRJMM"
    ],
@@ -7113,6 +7791,8 @@
     "antes",
     "prazo",
     "aplica",
+    "cancelar",
+    "datas",
     "voce",
     "termina",
     "data",
@@ -7132,6 +7812,14 @@
    "modulo": "clientes",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "cliente",
+    "ver",
+    "filtrar",
+    "fatura",
+    "plano",
+    "contratar"
+   ],
    "videos": [
     "-FASO6flcCw"
    ],
@@ -7145,6 +7833,10 @@
     "faturas",
     "clientes",
     "aplica",
+    "filtrar",
+    "fatura",
+    "plano",
+    "contratar",
     "voce",
     "encontra",
     "consulta",
@@ -7167,6 +7859,14 @@
    "modulo": "financeiro",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "enviar",
+    "cobrar",
+    "fatura",
+    "asaas",
+    "pagamento",
+    "cliente"
+   ],
    "videos": [
     "1RHf0fcXgyE"
    ],
@@ -7179,10 +7879,13 @@
     "fatura",
     "financeiro",
     "aplica",
+    "cobrar",
+    "asaas",
+    "pagamento",
+    "cliente",
     "voce",
     "tenta",
     "gerar",
-    "asaas",
     "ainda",
     "foi",
     "enviada"
@@ -7201,6 +7904,14 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "despublicar",
+    "publicar",
+    "prato",
+    "cardapio",
+    "guia",
+    "empresa"
+   ],
    "videos": [
     "VV8BxCbIfz4"
    ],
@@ -7214,6 +7925,8 @@
     "digital",
     "guia",
     "aplica",
+    "despublicar",
+    "empresa",
     "voce",
     "tira",
     "sem",
@@ -7235,6 +7948,12 @@
    "modulo": "banners",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "excluir",
+    "banner",
+    "publicidade",
+    "despublicar"
+   ],
    "videos": [
     "BqIfSq7bVXM"
    ],
@@ -7246,6 +7965,8 @@
     "publicitario",
     "banners",
     "aplica",
+    "publicidade",
+    "despublicar",
     "voce",
     "apaga",
     "cadastro",
@@ -7271,6 +7992,13 @@
    "modulo": "guia-comercial",
    "aba": "Guia Comercial",
    "tipos": [],
+   "tags": [
+    "excluir",
+    "categoria",
+    "guia",
+    "empresa",
+    "remover"
+   ],
    "videos": [
     "09n3Eiwn418"
    ],
@@ -7281,12 +8009,47 @@
     "categoria",
     "guia",
     "comercial",
+    "empresa",
+    "remover",
     "voce",
     "apaga",
     "usada"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/comercial/excluir-categoria-do-guia.md"
+  },
+  {
+   "id": "excluir-categoria-ou-subcategoria-de-classificados",
+   "titulo": "excluir categoria ou subcategoria de Classificados",
+   "objetivo": "aqui você apaga uma categoria ou subcategoria de Classificados.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "classificados",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "tags": [
+    "excluir",
+    "categoria",
+    "subcategoria",
+    "classificado"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "excluir",
+    "categoria",
+    "subcategoria",
+    "classificados",
+    "aplica",
+    "classificado",
+    "voce",
+    "apaga"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/comercial/excluir-categoria-ou-subcategoria-de-classificados.md"
   },
   {
    "id": "excluir-classificado",
@@ -7299,6 +8062,12 @@
    "modulo": "classificados",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "excluir",
+    "classificado",
+    "anuncio",
+    "remover"
+   ],
    "videos": [
     "Ps1cgdLQ1FI"
    ],
@@ -7310,6 +8079,7 @@
     "classificado",
     "classificados",
     "aplica",
+    "remover",
     "voce",
     "apaga",
     "permanentemente"
@@ -7328,6 +8098,13 @@
    "modulo": "clientes",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "excluir",
+    "cliente",
+    "cadastro",
+    "desfazer",
+    "conta"
+   ],
    "videos": [
     "-FASO6flcCw"
    ],
@@ -7338,9 +8115,11 @@
     "cliente",
     "clientes",
     "aplica",
+    "cadastro",
+    "desfazer",
+    "conta",
     "voce",
     "exclui",
-    "cadastro",
     "confirmacao",
     "avisa",
     "acao",
@@ -7361,6 +8140,13 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "excluir",
+    "empresa",
+    "guia",
+    "remover",
+    "situacao"
+   ],
    "videos": [
     "wukhVMFEHWg"
    ],
@@ -7371,17 +8157,51 @@
     "empresa",
     "guia",
     "aplica",
+    "remover",
+    "situacao",
     "voce",
     "apaga",
     "apenas",
     "tirar",
     "use",
     "artigo",
-    "mudar",
-    "situacao"
+    "mudar"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/comercial/excluir-empresa-do-guia.md"
+  },
+  {
+   "id": "excluir-subcategoria-do-guia",
+   "titulo": "excluir uma subcategoria do Guia",
+   "objetivo": "aqui você apaga uma subcategoria do Guia Comercial.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "guia",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "tags": [
+    "excluir",
+    "subcategoria",
+    "guia",
+    "empresa"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "excluir",
+    "subcategoria",
+    "guia",
+    "aplica",
+    "empresa",
+    "voce",
+    "apaga",
+    "comercial"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/comercial/excluir-subcategoria-do-guia.md"
   },
   {
    "id": "excluir-vaga",
@@ -7394,6 +8214,12 @@
    "modulo": "vagas",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "excluir",
+    "vaga",
+    "remover",
+    "contratante"
+   ],
    "videos": [
     "ufB3QTKfPsM"
    ],
@@ -7405,6 +8231,8 @@
     "emprego",
     "vagas",
     "aplica",
+    "remover",
+    "contratante",
     "voce",
     "apaga",
     "permanentemente"
@@ -7423,6 +8251,13 @@
    "modulo": "clientes",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "exportar",
+    "cliente",
+    "lista",
+    "cadastro",
+    "planilha"
+   ],
    "videos": [
     "-FASO6flcCw"
    ],
@@ -7433,6 +8268,9 @@
     "lista",
     "clientes",
     "aplica",
+    "cliente",
+    "cadastro",
+    "planilha",
     "voce",
     "baixa",
     "carteira",
@@ -7456,6 +8294,14 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "foto",
+    "quarto",
+    "galeria",
+    "imagem",
+    "guia",
+    "criar"
+   ],
    "videos": [
     "reZ3e1a4o-o"
    ],
@@ -7468,6 +8314,10 @@
     "suite",
     "guia",
     "aplica",
+    "foto",
+    "galeria",
+    "imagem",
+    "criar",
     "voce",
     "envia",
     "foi",
@@ -7487,6 +8337,14 @@
    "modulo": "banners",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "criar",
+    "banner",
+    "publicidade",
+    "imagem",
+    "link",
+    "espaco"
+   ],
    "videos": [
     "BqIfSq7bVXM"
    ],
@@ -7497,9 +8355,14 @@
     "banners",
     "publicitarios",
     "aplica",
+    "criar",
+    "banner",
+    "publicidade",
+    "imagem",
+    "link",
+    "espaco",
     "voce",
     "cadastra",
-    "banner",
     "painel",
     "tirar",
     "sem",
@@ -7523,6 +8386,15 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "criar",
+    "cardapio",
+    "prato",
+    "foto",
+    "preco",
+    "guia",
+    "empresa"
+   ],
    "videos": [
     "VV8BxCbIfz4",
     "gmYWNfgX8LM"
@@ -7536,6 +8408,10 @@
     "empresa",
     "guia",
     "aplica",
+    "criar",
+    "prato",
+    "foto",
+    "preco",
     "voce",
     "monta",
     "fotos",
@@ -7558,6 +8434,15 @@
    "modulo": "delivery",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "criar",
+    "delivery",
+    "cardapio",
+    "produto",
+    "adicional",
+    "empresa",
+    "preco"
+   ],
    "videos": [
     "2ShbACG2mHE",
     "TgIUmqrRuBY"
@@ -7571,6 +8456,10 @@
     "empresa",
     "guia",
     "aplica",
+    "criar",
+    "produto",
+    "adicional",
+    "preco",
     "voce",
     "cadastra",
     "produtos",
@@ -7594,6 +8483,15 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "criar",
+    "catalogo",
+    "produto",
+    "foto",
+    "preco",
+    "guia",
+    "empresa"
+   ],
    "videos": [
     "Z45xwGT8U38",
     "X2BpMhoYKiA"
@@ -7608,11 +8506,13 @@
     "empresa",
     "guia",
     "aplica",
+    "criar",
+    "produto",
+    "foto",
+    "preco",
     "voce",
     "monta",
-    "vitrine",
-    "foto",
-    "preco"
+    "vitrine"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/comercial/gerenciar-catalogo-de-produtos.md"
@@ -7628,6 +8528,14 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "categoria",
+    "subcategoria",
+    "criar",
+    "editar",
+    "guia",
+    "empresa"
+   ],
    "videos": [
     "09n3Eiwn418"
    ],
@@ -7638,10 +8546,14 @@
     "categorias",
     "guia",
     "aplica",
+    "categoria",
+    "subcategoria",
+    "criar",
+    "editar",
+    "empresa",
     "voce",
     "cria",
     "muda",
-    "categoria",
     "desligada",
     "esconde",
     "site",
@@ -7663,6 +8575,13 @@
    "modulo": "classificados",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "classificado",
+    "anuncio",
+    "filtrar",
+    "editar",
+    "ver"
+   ],
    "videos": [
     "Ps1cgdLQ1FI"
    ],
@@ -7674,10 +8593,13 @@
     "classificados",
     "painel",
     "aplica",
+    "classificado",
+    "anuncio",
+    "filtrar",
+    "editar",
+    "ver",
     "voce",
     "encontra",
-    "anuncio",
-    "classificado",
     "abre",
     "edicao",
     "vagas",
@@ -7699,6 +8621,14 @@
    "modulo": "cupons",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "criar",
+    "cupom",
+    "empresa",
+    "guia",
+    "preco",
+    "desconto"
+   ],
    "videos": [
     "pBHdF3bd1QI"
    ],
@@ -7711,11 +8641,12 @@
     "desconto",
     "empresas",
     "aplica",
-    "voce",
-    "cria",
     "cupom",
     "empresa",
     "guia",
+    "preco",
+    "voce",
+    "cria",
     "comercial",
     "cada"
    ],
@@ -7733,6 +8664,14 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "empresa",
+    "guia",
+    "filtrar",
+    "editar",
+    "situacao",
+    "ver"
+   ],
    "videos": [
     "wukhVMFEHWg",
     "JdJr7pXVx98"
@@ -7745,13 +8684,17 @@
     "empresas",
     "guia",
     "aplica",
+    "empresa",
+    "filtrar",
+    "editar",
+    "situacao",
+    "ver",
     "voce",
     "acompanha",
     "encontra",
     "delas",
     "ajusta",
-    "ficha",
-    "situacao"
+    "ficha"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/comercial/gerenciar-empresas-do-guia.md"
@@ -7767,6 +8710,14 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "criar",
+    "equipe",
+    "foto",
+    "especialidade",
+    "empresa",
+    "guia"
+   ],
    "videos": [
     "okWcwnwq5Bk",
     "-cq2YnG0vis"
@@ -7780,12 +8731,13 @@
     "empresa",
     "guia",
     "aplica",
+    "criar",
+    "foto",
+    "especialidade",
     "voce",
     "mostra",
     "profissionais",
-    "foto",
-    "nome",
-    "especialidade"
+    "nome"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/comercial/gerenciar-equipe-da-empresa.md"
@@ -7801,6 +8753,15 @@
    "modulo": "clientes",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "cliente",
+    "ver",
+    "plano",
+    "vencimento",
+    "criar",
+    "cadastro",
+    "filtrar"
+   ],
    "videos": [
     "-FASO6flcCw"
    ],
@@ -7812,10 +8773,16 @@
     "planos",
     "vencimentos",
     "aplica",
+    "cliente",
+    "ver",
+    "plano",
+    "vencimento",
+    "criar",
+    "cadastro",
+    "filtrar",
     "voce",
     "acompanha",
     "cadastra",
-    "cliente",
     "novo"
    ],
    "base": "portal-da-cidade",
@@ -7837,6 +8804,15 @@
     "revendedor do portal",
     "quem vende o portal para mim"
    ],
+   "tags": [
+    "parceiro",
+    "criar",
+    "editar",
+    "excluir",
+    "plano",
+    "desligar",
+    "comissao"
+   ],
    "videos": [
     "8gIDPdapN0E"
    ],
@@ -7856,14 +8832,16 @@
     "quem",
     "vende",
     "mim",
+    "parceiro",
+    "criar",
+    "plano",
+    "desligar",
+    "comissao",
     "voce",
     "cadastra",
-    "parceiro",
     "escolhe",
-    "plano",
     "dele",
     "percentuais",
-    "comissao",
     "ficam",
     "planos",
     "valem",
@@ -7884,6 +8862,16 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "criar",
+    "quarto",
+    "diaria",
+    "preco",
+    "foto",
+    "comodidade",
+    "guia",
+    "empresa"
+   ],
    "videos": [
     "reZ3e1a4o-o",
     "aSRf0hwUrrc"
@@ -7898,13 +8886,18 @@
     "empresa",
     "guia",
     "aplica",
+    "criar",
+    "quarto",
+    "diaria",
+    "preco",
+    "foto",
+    "comodidade",
     "voce",
     "mostra",
     "hotel",
     "pousada",
     "fotos",
     "comodidades",
-    "preco",
     "noite"
    ],
    "base": "portal-da-cidade",
@@ -7921,6 +8914,13 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "criar",
+    "servico",
+    "preco",
+    "empresa",
+    "guia"
+   ],
    "videos": [
     "aE3QL3ErK0k",
     "FwKU_0GF6iU"
@@ -7934,6 +8934,9 @@
     "empresa",
     "guia",
     "aplica",
+    "criar",
+    "servico",
+    "preco",
     "voce",
     "monta",
     "tabela",
@@ -7953,6 +8956,14 @@
    "modulo": "vagas",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "vaga",
+    "filtrar",
+    "editar",
+    "ver",
+    "salario",
+    "contratante"
+   ],
    "videos": [
     "ufB3QTKfPsM"
    ],
@@ -7965,6 +8976,12 @@
     "emprego",
     "painel",
     "aplica",
+    "vaga",
+    "filtrar",
+    "editar",
+    "ver",
+    "salario",
+    "contratante",
     "voce",
     "encontra",
     "abre",
@@ -7973,7 +8990,6 @@
     "preco",
     "cobrado",
     "anuncio",
-    "vaga",
     "use",
     "planos",
     "parte",
@@ -7994,6 +9010,15 @@
    "modulo": "parceiros",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "whatsapp",
+    "grupo",
+    "link",
+    "parceiro",
+    "convite",
+    "editar",
+    "telefone"
+   ],
    "videos": [
     "8gIDPdapN0E"
    ],
@@ -8006,9 +9031,12 @@
     "whatsapp",
     "parceiros",
     "aplica",
+    "parceiro",
+    "convite",
+    "editar",
+    "telefone",
     "voce",
     "salva",
-    "convite",
     "escolhe",
     "botao",
     "aparece"
@@ -8027,6 +9055,14 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "google maps",
+    "importar",
+    "empresa",
+    "guia",
+    "lote",
+    "cadastro"
+   ],
    "videos": [
     "jl7GHmHVJcM",
     "R9FCgunNxFE",
@@ -8043,6 +9079,9 @@
     "google",
     "maps",
     "aplica",
+    "empresa",
+    "lote",
+    "cadastro",
     "voce",
     "cadastra",
     "varias",
@@ -8066,6 +9105,13 @@
    "modulo": "delivery",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "imprimir",
+    "pedido",
+    "delivery",
+    "ver",
+    "empresa"
+   ],
    "videos": [
     "TgIUmqrRuBY"
    ],
@@ -8076,6 +9122,8 @@
     "pedido",
     "delivery",
     "aplica",
+    "ver",
+    "empresa",
     "voce",
     "abre",
     "impressao",
@@ -8100,6 +9148,14 @@
     "quantas pessoas viram",
     "quando a vaga expira"
    ],
+   "tags": [
+    "ver",
+    "vaga",
+    "visualizacao",
+    "numeros",
+    "periodo",
+    "contratante"
+   ],
    "videos": [
     "ufB3QTKfPsM"
    ],
@@ -8116,6 +9172,10 @@
     "insights",
     "visualizacoes",
     "expira",
+    "visualizacao",
+    "numeros",
+    "periodo",
+    "contratante",
     "voce",
     "registradas",
     "media",
@@ -8140,6 +9200,15 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "categoria",
+    "guia",
+    "cardapio",
+    "delivery",
+    "ligar",
+    "desligar",
+    "empresa"
+   ],
    "videos": [
     "09n3Eiwn418"
    ],
@@ -8153,6 +9222,9 @@
     "categoria",
     "guia",
     "aplica",
+    "ligar",
+    "desligar",
+    "empresa",
     "voce",
     "escolhe",
     "recursos",
@@ -8179,6 +9251,13 @@
    "modulo": "configurações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "ligar",
+    "desligar",
+    "app",
+    "portal",
+    "notificacao"
+   ],
    "videos": [
     "8M4kdEfP7Eg"
    ],
@@ -8192,6 +9271,8 @@
     "portal",
     "configuracoes",
     "aplica",
+    "desligar",
+    "notificacao",
     "voce",
     "liga",
     "desliga",
@@ -8213,6 +9294,13 @@
    "modulo": "classificados",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "vendido",
+    "classificado",
+    "anuncio",
+    "despublicar",
+    "editar"
+   ],
    "videos": [
     "Ps1cgdLQ1FI"
    ],
@@ -8224,10 +9312,12 @@
     "vendido",
     "classificados",
     "aplica",
+    "anuncio",
+    "despublicar",
+    "editar",
     "voce",
     "tira",
     "site",
-    "anuncio",
     "foi",
     "sem",
     "apagar",
@@ -8255,6 +9345,14 @@
     "cliente pagou em dinheiro",
     "pagou na mão"
    ],
+   "tags": [
+    "pagar",
+    "fatura",
+    "pagamento",
+    "comprovante",
+    "cliente",
+    "vencimento"
+   ],
    "videos": [
     "lwaG-T87hJI",
     "1RHf0fcXgyE"
@@ -8276,6 +9374,9 @@
     "pagou",
     "dinheiro",
     "mao",
+    "pagar",
+    "comprovante",
+    "vencimento",
     "voce",
     "registra",
     "recebeu",
@@ -8300,6 +9401,14 @@
    "modulo": "orçamentos",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "orcamento",
+    "aprovar",
+    "recusar",
+    "lote",
+    "excluir",
+    "moderacao"
+   ],
    "videos": [
     "Ru3949-VUX4"
    ],
@@ -8314,10 +9423,13 @@
     "vez",
     "orcamentos",
     "aplica",
+    "recusar",
+    "lote",
+    "excluir",
+    "moderacao",
     "voce",
     "aprova",
     "encerrar",
-    "excluir",
     "caminhos",
     "separados",
     "abaixo"
@@ -8336,6 +9448,14 @@
    "modulo": "orçamentos",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "orcamento",
+    "aprovar",
+    "recusar",
+    "moderacao",
+    "status",
+    "pendente"
+   ],
    "videos": [
     "Ru3949-VUX4"
    ],
@@ -8347,6 +9467,11 @@
     "orcamento",
     "orcamentos",
     "aplica",
+    "aprovar",
+    "recusar",
+    "moderacao",
+    "status",
+    "pendente",
     "voce",
     "aprova",
     "pedidos",
@@ -8355,7 +9480,6 @@
     "visitantes",
     "reprovar",
     "corrigir",
-    "status",
     "sao",
     "caminhos",
     "separados",
@@ -8375,6 +9499,15 @@
    "modulo": "melhores da cidade",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "melhores da cidade",
+    "votacao",
+    "criar",
+    "voto",
+    "categoria",
+    "subcategoria",
+    "ver"
+   ],
    "videos": [
     "ajzmuupRJMM"
    ],
@@ -8387,6 +9520,11 @@
     "melhores",
     "cidade",
     "aplica",
+    "criar",
+    "voto",
+    "categoria",
+    "subcategoria",
+    "ver",
     "voce",
     "cria",
     "abre",
@@ -8395,8 +9533,6 @@
     "competicao",
     "reune",
     "empresas",
-    "categoria",
-    "subcategoria",
     "guia"
    ],
    "base": "portal-da-cidade",
@@ -8413,6 +9549,15 @@
    "modulo": "configurações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "home",
+    "bloco",
+    "ordenar",
+    "criar",
+    "editar",
+    "remover",
+    "portal"
+   ],
    "videos": [
     "_YSN9di_ZOU",
     "XekThBh1ygU"
@@ -8428,6 +9573,11 @@
     "home",
     "configuracoes",
     "aplica",
+    "bloco",
+    "ordenar",
+    "criar",
+    "editar",
+    "remover",
     "voce",
     "organiza",
     "pagina",
@@ -8452,6 +9602,16 @@
    "modulo": "configurações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "whatsapp",
+    "grupo",
+    "convite",
+    "ligar",
+    "desligar",
+    "link",
+    "portal",
+    "telefone"
+   ],
    "videos": [
     "8M4kdEfP7Eg"
    ],
@@ -8465,6 +9625,10 @@
     "portal",
     "configuracoes",
     "aplica",
+    "ligar",
+    "desligar",
+    "link",
+    "telefone",
     "voce",
     "liga",
     "desliga",
@@ -8484,6 +9648,13 @@
    "modulo": "parceiros",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "comissao",
+    "parceiro",
+    "plano",
+    "editar",
+    "preco"
+   ],
    "videos": [
     "8gIDPdapN0E"
    ],
@@ -8496,6 +9667,8 @@
     "parceiro",
     "parceiros",
     "aplica",
+    "editar",
+    "preco",
     "voce",
     "muda",
     "percentuais",
@@ -8520,6 +9693,13 @@
    "modulo": "parceiros",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "parceiro",
+    "plano",
+    "editar",
+    "dados",
+    "comissao"
+   ],
    "videos": [
     "8gIDPdapN0E"
    ],
@@ -8532,6 +9712,8 @@
     "parceiro",
     "parceiros",
     "aplica",
+    "editar",
+    "comissao",
     "voce",
     "edita",
     "escolhe",
@@ -8540,8 +9722,7 @@
     "alterar",
     "percentual",
     "todos",
-    "veja",
-    "comissao"
+    "veja"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/comercial/mudar-plano-de-um-parceiro.md"
@@ -8557,6 +9738,15 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "situacao",
+    "empresa",
+    "guia",
+    "status",
+    "aprovar",
+    "bloquear",
+    "publicar"
+   ],
    "videos": [
     "wukhVMFEHWg",
     "JdJr7pXVx98"
@@ -8569,6 +9759,10 @@
     "empresa",
     "guia",
     "aplica",
+    "status",
+    "aprovar",
+    "bloquear",
+    "publicar",
     "voce",
     "muda",
     "pendente",
@@ -8591,6 +9785,13 @@
    "modulo": "planos",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "vaga",
+    "preco",
+    "plano",
+    "editar",
+    "anuncio"
+   ],
    "videos": [
     "31ftVMQ_yr4"
    ],
@@ -8605,12 +9806,13 @@
     "planos",
     "aplica",
     "preco",
+    "plano",
+    "editar",
     "vagas",
     "configuravel",
     "cartao",
     "voce",
     "muda",
-    "plano",
     "oferecido",
     "aos",
     "clientes",
@@ -8637,6 +9839,15 @@
    "modulo": "delivery",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "criar",
+    "delivery",
+    "produto",
+    "tamanho",
+    "adicional",
+    "preco",
+    "empresa"
+   ],
    "videos": [
     "2ShbACG2mHE",
     "TgIUmqrRuBY"
@@ -8650,11 +9861,14 @@
     "produto",
     "delivery",
     "aplica",
+    "tamanho",
+    "adicional",
+    "preco",
+    "empresa",
     "voce",
     "cria",
     "grupos",
     "opcoes",
-    "tamanho",
     "cardapio",
     "existe"
    ],
@@ -8672,6 +9886,14 @@
    "modulo": "delivery",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "delivery",
+    "empresa",
+    "pagamento",
+    "entregar",
+    "horario",
+    "preco"
+   ],
    "videos": [
     "TgIUmqrRuBY",
     "2ShbACG2mHE"
@@ -8683,12 +9905,15 @@
     "delivery",
     "empresa",
     "aplica",
+    "pagamento",
+    "entregar",
+    "horario",
+    "preco",
     "voce",
     "ajusta",
     "taxa",
     "tempo",
     "forma",
-    "pagamento",
     "areas",
     "entrega"
    ],
@@ -8706,11 +9931,18 @@
    "modulo": "parceiros",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "pagar",
+    "comissao",
+    "parceiro",
+    "pix",
+    "comprovante"
+   ],
    "videos": [
     "8gIDPdapN0E"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "pagar",
     "comissao",
@@ -8719,10 +9951,11 @@
     "portal",
     "parceiros",
     "aplica",
+    "pix",
+    "comprovante",
     "voce",
     "registra",
     "pagou",
-    "pix",
     "transferencia",
     "outro",
     "meio",
@@ -8732,6 +9965,60 @@
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/comercial/pagar-comissao-de-parceiro-por-fora.md"
+  },
+  {
+   "id": "pegar-dados-do-google-ao-cadastrar-empresa",
+   "titulo": "cadastrar empresa no Guia pegando os dados do Google",
+   "objetivo": "aqui você cadastra (ou completa) uma empresa do Guia trazendo nome, endereço, telefone, site, horários e localização do Google, sem digitar tudo.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "guia",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "tags": [
+    "google maps",
+    "empresa",
+    "guia",
+    "cadastro",
+    "importar",
+    "endereco",
+    "horario",
+    "foto"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "cadastrar",
+    "empresa",
+    "guia",
+    "pegando",
+    "dados",
+    "google",
+    "aplica",
+    "maps",
+    "cadastro",
+    "importar",
+    "endereco",
+    "horario",
+    "foto",
+    "voce",
+    "cadastra",
+    "completa",
+    "trazendo",
+    "nome",
+    "telefone",
+    "site",
+    "horarios",
+    "localizacao",
+    "sem",
+    "digitar",
+    "tudo"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/comercial/pegar-dados-do-google-ao-cadastrar-empresa.md"
   },
   {
    "id": "admin-publicar-vaga-recusada",
@@ -8748,6 +10035,13 @@
     "recusei sem querer",
     "aprovar vaga reprovada",
     "voltar atrás na reprovação"
+   ],
+   "tags": [
+    "publicar",
+    "aprovar",
+    "vaga",
+    "recusar",
+    "contratante"
    ],
    "videos": [
     "ufB3QTKfPsM"
@@ -8769,6 +10063,8 @@
     "voltar",
     "atras",
     "reprovacao",
+    "recusar",
+    "contratante",
     "voce",
     "aprova",
     "publica",
@@ -8789,6 +10085,14 @@
    "modulo": "financeiro",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "pix",
+    "editar",
+    "pagamento",
+    "fatura",
+    "cliente",
+    "comprovante"
+   ],
    "videos": [
     "lwaG-T87hJI"
    ],
@@ -8803,11 +10107,15 @@
     "asaas",
     "financeiro",
     "aplica",
+    "editar",
+    "pagamento",
+    "fatura",
+    "cliente",
+    "comprovante",
     "voce",
     "cadastra",
     "troca",
     "instrucoes",
-    "cliente",
     "pagar",
     "alteracao",
     "protegida",
@@ -8819,32 +10127,45 @@
   },
   {
    "id": "recusar-cadastro-de-empresa",
-   "titulo": "recusar o cadastro de uma empresa",
-   "objetivo": "Aqui você recusa uma empresa pendente e informa ao cliente o que precisa corrigir.",
+   "titulo": "recusar o cadastro de uma empresa (motivo enviado ao cliente)",
+   "objetivo": "Recuse uma empresa pendente e diga ao cliente o que corrigir.",
    "publico": [
     "admin"
    ],
    "produto": null,
-   "modulo": "guia",
-   "aba": "nao-se-aplica",
+   "modulo": "aprovações",
+   "aba": "Aprovações",
    "tipos": [],
+   "tags": [
+    "recusar",
+    "empresa",
+    "guia",
+    "cadastro",
+    "autocadastro",
+    "pendente",
+    "aprovacao",
+    "desfazer"
+   ],
    "videos": [
     "JYDoZB_vyX8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "recusar",
     "cadastro",
     "empresa",
-    "guia",
-    "aplica",
-    "voce",
-    "recusa",
-    "pendente",
-    "informa",
+    "motivo",
+    "enviado",
     "cliente",
-    "precisa",
+    "aprovacoes",
+    "guia",
+    "autocadastro",
+    "pendente",
+    "aprovacao",
+    "desfazer",
+    "recuse",
+    "diga",
     "corrigir"
    ],
    "base": "portal-da-cidade",
@@ -8861,6 +10182,14 @@
    "modulo": "cupons",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "remover",
+    "excluir",
+    "cupom",
+    "empresa",
+    "guia",
+    "desconto"
+   ],
    "videos": [
     "pBHdF3bd1QI"
    ],
@@ -8872,12 +10201,14 @@
     "portal",
     "cupons",
     "aplica",
+    "excluir",
+    "empresa",
+    "guia",
+    "desconto",
     "voce",
     "apaga",
-    "empresa",
     "continua",
-    "cadastrada",
-    "guia"
+    "cadastrada"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/comercial/remover-cupom-do-portal.md"
@@ -8893,6 +10224,14 @@
    "modulo": "clientes",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "senha",
+    "editar",
+    "cliente",
+    "conta",
+    "recuperar",
+    "acesso"
+   ],
    "videos": [
     "-FASO6flcCw"
    ],
@@ -8904,6 +10243,10 @@
     "cliente",
     "clientes",
     "aplica",
+    "editar",
+    "conta",
+    "recuperar",
+    "acesso",
     "voce",
     "escolhe",
     "nova",
@@ -8924,6 +10267,13 @@
    "modulo": "financeiro",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "testar",
+    "asaas",
+    "cobrar",
+    "pagamento",
+    "fatura"
+   ],
    "videos": [
     "lwaG-T87hJI"
    ],
@@ -8937,6 +10287,9 @@
     "cadastrada",
     "financeiro",
     "aplica",
+    "cobrar",
+    "pagamento",
+    "fatura",
     "voce",
     "testa",
     "chave",
@@ -8959,6 +10312,13 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "editar",
+    "categoria",
+    "subcategoria",
+    "empresa",
+    "guia"
+   ],
    "videos": [
     "wukhVMFEHWg"
    ],
@@ -8971,6 +10331,7 @@
     "empresa",
     "guia",
     "aplica",
+    "editar",
     "voce",
     "muda",
     "classificacao",
@@ -8994,6 +10355,14 @@
    "modulo": "guia",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "editar",
+    "plano",
+    "empresa",
+    "guia",
+    "cobrar",
+    "preco"
+   ],
    "videos": [
     "wukhVMFEHWg"
    ],
@@ -9005,6 +10374,9 @@
     "empresa",
     "guia",
     "aplica",
+    "editar",
+    "cobrar",
+    "preco",
     "voce",
     "escolhe",
     "cortesia",
@@ -9028,6 +10400,15 @@
    "modulo": "financeiro",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "whatsapp",
+    "pix",
+    "comprovante",
+    "editar",
+    "pagamento",
+    "contato",
+    "telefone"
+   ],
    "videos": [
     "lwaG-T87hJI"
    ],
@@ -9041,12 +10422,15 @@
     "pix",
     "financeiro",
     "aplica",
+    "comprovante",
+    "editar",
+    "pagamento",
+    "contato",
+    "telefone",
     "voce",
     "troca",
-    "pagamento",
     "campo",
     "separado",
-    "contato",
     "portal"
    ],
    "base": "portal-da-cidade",
@@ -9063,6 +10447,14 @@
    "modulo": "artigos",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "colunista",
+    "permissao",
+    "senha",
+    "entrar",
+    "bloquear",
+    "artigo"
+   ],
    "videos": [
     "CRiUbh7wHdc"
    ],
@@ -9075,12 +10467,16 @@
     "colunista",
     "artigos",
     "aplica",
+    "permissao",
+    "senha",
+    "entrar",
+    "bloquear",
+    "artigo",
     "voce",
     "cria",
     "login",
     "cadastrado",
     "redefine",
-    "senha",
     "remove",
     "area",
     "cliente"
@@ -9099,6 +10495,13 @@
    "modulo": "notícias",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "noticia",
+    "publicar",
+    "datas",
+    "horario",
+    "rascunho"
+   ],
    "videos": [
     "gAa2NdnitZU"
    ],
@@ -9109,6 +10512,10 @@
     "noticia",
     "noticias",
     "aplica",
+    "publicar",
+    "datas",
+    "horario",
+    "rascunho",
     "voce",
     "marca",
     "deve",
@@ -9132,6 +10539,13 @@
    "modulo": "Artigos",
    "aba": "Artigos",
    "tipos": [],
+   "tags": [
+    "artigo",
+    "colunista",
+    "autocadastro",
+    "publicar",
+    "aprovar"
+   ],
    "videos": [
     "CRiUbh7wHdc"
    ],
@@ -9143,6 +10557,8 @@
     "colunista",
     "autocadastro",
     "artigos",
+    "publicar",
+    "aprovar",
     "preparar",
     "pelo",
     "painel",
@@ -9171,6 +10587,13 @@
    "modulo": "Artigos",
    "aba": "Artigos",
    "tipos": [],
+   "tags": [
+    "artigo",
+    "colunista",
+    "publicar",
+    "descricao",
+    "foto"
+   ],
    "videos": [
     "CRiUbh7wHdc"
    ],
@@ -9182,6 +10605,10 @@
     "pelo",
     "painel",
     "artigos",
+    "colunista",
+    "publicar",
+    "descricao",
+    "foto",
     "alterar",
     "texto",
     "categoria",
@@ -9189,8 +10616,7 @@
     "existente",
     "botao",
     "conclusao",
-    "depende",
-    "colunista"
+    "depende"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/editorial/artigos-editar.md"
@@ -9206,6 +10632,12 @@
    "modulo": "Artigos",
    "aba": "Artigos",
    "tipos": [],
+   "tags": [
+    "artigo",
+    "no ar",
+    "excluir",
+    "colunista"
+   ],
    "videos": [
     "CRiUbh7wHdc"
    ],
@@ -9217,6 +10649,7 @@
     "sem",
     "excluir",
     "artigos",
+    "colunista",
     "arquivar",
     "casa",
     "apagar",
@@ -9238,6 +10671,13 @@
    "modulo": "Artigos",
    "aba": "Artigos",
    "tipos": [],
+   "tags": [
+    "artigo",
+    "colunista",
+    "publicar",
+    "descricao",
+    "foto"
+   ],
    "videos": [
     "CRiUbh7wHdc"
    ],
@@ -9250,6 +10690,8 @@
     "colunista",
     "casa",
     "artigos",
+    "descricao",
+    "foto",
     "escrever",
     "pelo",
     "painel",
@@ -9274,6 +10716,13 @@
    "modulo": "notícias",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "assinatura",
+    "noticia",
+    "jornalista",
+    "nome",
+    "portal"
+   ],
    "videos": [
     "gAa2NdnitZU"
    ],
@@ -9286,6 +10735,9 @@
     "noticias",
     "portal",
     "aplica",
+    "noticia",
+    "jornalista",
+    "nome",
     "voce",
     "muda",
     "perfil",
@@ -9310,6 +10762,12 @@
    "modulo": "notícias",
    "aba": "Notícias",
    "tipos": [],
+   "tags": [
+    "jornalista",
+    "permissao",
+    "noticia",
+    "equipe"
+   ],
    "videos": [
     "gAa2NdnitZU"
    ],
@@ -9320,6 +10778,9 @@
     "acesso",
     "jornalista",
     "noticias",
+    "permissao",
+    "noticia",
+    "equipe",
     "voce",
     "suspende",
     "sem",
@@ -9343,6 +10804,12 @@
    "modulo": "notícias",
    "aba": "Categorias",
    "tipos": [],
+   "tags": [
+    "categoria",
+    "noticia",
+    "subcategoria",
+    "editar"
+   ],
    "videos": [
     "gAa2NdnitZU"
    ],
@@ -9352,6 +10819,10 @@
     "criar",
     "categorias",
     "noticias",
+    "categoria",
+    "noticia",
+    "subcategoria",
+    "editar",
     "voce",
     "cria",
     "artigos",
@@ -9381,6 +10852,13 @@
     "quem escreve artigos",
     "acesso do colunista"
    ],
+   "tags": [
+    "colunista",
+    "artigo",
+    "cadastro",
+    "bio",
+    "foto"
+   ],
    "videos": [
     "CRiUbh7wHdc"
    ],
@@ -9394,6 +10872,10 @@
     "quem",
     "escreve",
     "acesso",
+    "artigo",
+    "cadastro",
+    "bio",
+    "foto",
     "voce",
     "cadastra",
     "perfil",
@@ -9419,6 +10901,12 @@
    "modulo": "notícias",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "jornalista",
+    "permissao",
+    "reativar",
+    "noticia"
+   ],
    "videos": [
     "gAa2NdnitZU"
    ],
@@ -9429,6 +10917,9 @@
     "jornalista",
     "noticias",
     "aplica",
+    "permissao",
+    "reativar",
+    "noticia",
     "voce",
     "devolve",
     "acesso",
@@ -9448,6 +10939,12 @@
    "modulo": "notícias",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "noticia",
+    "home",
+    "publicar",
+    "topo"
+   ],
    "videos": [
     "gAa2NdnitZU"
    ],
@@ -9459,6 +10956,9 @@
     "destaque",
     "noticias",
     "aplica",
+    "home",
+    "publicar",
+    "topo",
     "voce",
     "marca",
     "janela",
@@ -9483,6 +10983,13 @@
    "modulo": "notícias",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "categoria",
+    "noticia",
+    "pausar",
+    "excluir",
+    "ordenar"
+   ],
    "videos": [
     "gAa2NdnitZU"
    ],
@@ -9495,6 +11002,9 @@
     "categorias",
     "noticias",
     "aplica",
+    "categoria",
+    "noticia",
+    "ordenar",
     "voce",
     "troca",
     "nome",
@@ -9522,6 +11032,13 @@
    "modulo": "artigos",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "colunista",
+    "bloquear",
+    "excluir",
+    "artigo",
+    "bio"
+   ],
    "videos": [
     "CRiUbh7wHdc"
    ],
@@ -9533,6 +11050,10 @@
     "colunista",
     "artigos",
     "aplica",
+    "bloquear",
+    "excluir",
+    "artigo",
+    "bio",
     "voce",
     "muda",
     "perfil",
@@ -9560,6 +11081,13 @@
    "modulo": "notícias",
    "aba": "Notícias",
    "tipos": [],
+   "tags": [
+    "jornalista",
+    "nome",
+    "renomear",
+    "noticia",
+    "cadastro"
+   ],
    "videos": [
     "gAa2NdnitZU"
    ],
@@ -9570,9 +11098,11 @@
     "nome",
     "jornalista",
     "noticias",
+    "renomear",
+    "noticia",
+    "cadastro",
     "voce",
     "muda",
-    "cadastro",
     "mail",
     "login",
     "fica",
@@ -9593,6 +11123,13 @@
    "modulo": "notícias",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "subcategoria",
+    "noticia",
+    "pausar",
+    "excluir",
+    "categoria"
+   ],
    "videos": [
     "gAa2NdnitZU"
    ],
@@ -9605,11 +11142,12 @@
     "subcategorias",
     "noticias",
     "aplica",
+    "subcategoria",
+    "noticia",
+    "categoria",
     "voce",
     "muda",
     "nome",
-    "categoria",
-    "subcategoria",
     "altera",
     "situacao",
     "exclui"
@@ -9628,6 +11166,12 @@
    "modulo": "Agenda de Eventos",
    "aba": "Categorias",
    "tipos": [],
+   "tags": [
+    "categoria",
+    "evento",
+    "editar",
+    "ver"
+   ],
    "videos": [
     "Hyh3UxHW_jU"
    ],
@@ -9638,6 +11182,10 @@
     "categorias",
     "eventos",
     "agenda",
+    "categoria",
+    "evento",
+    "editar",
+    "ver",
     "tipos",
     "usados",
     "organizar",
@@ -9659,6 +11207,13 @@
    "modulo": "Agenda de Eventos",
    "aba": "Eventos",
    "tipos": [],
+   "tags": [
+    "evento",
+    "datas",
+    "horario",
+    "endereco",
+    "foto"
+   ],
    "videos": [
     "Hyh3UxHW_jU"
    ],
@@ -9669,9 +11224,12 @@
     "evento",
     "agenda",
     "eventos",
+    "datas",
+    "horario",
+    "endereco",
+    "foto",
     "alterar",
     "titulo",
-    "datas",
     "local",
     "descricao",
     "existente"
@@ -9690,6 +11248,13 @@
    "modulo": "Agenda de Eventos",
    "aba": "Organizadores",
    "tipos": [],
+   "tags": [
+    "organizador",
+    "evento",
+    "contato",
+    "whatsapp",
+    "logo"
+   ],
    "videos": [
     "Hyh3UxHW_jU"
    ],
@@ -9701,6 +11266,10 @@
     "eventos",
     "agenda",
     "organizadores",
+    "evento",
+    "contato",
+    "whatsapp",
+    "logo",
     "pessoa",
     "empresa",
     "organiza",
@@ -9722,6 +11291,12 @@
    "modulo": "Agenda de Eventos",
    "aba": "Eventos",
    "tipos": [],
+   "tags": [
+    "programacao",
+    "evento",
+    "horario",
+    "datas"
+   ],
    "videos": [
     "Hyh3UxHW_jU"
    ],
@@ -9733,6 +11308,8 @@
     "evento",
     "agenda",
     "eventos",
+    "horario",
+    "datas",
     "adicionar",
     "atividades",
     "horarios",
@@ -9752,6 +11329,13 @@
    "modulo": "Agenda de Eventos",
    "aba": "Eventos",
    "tipos": [],
+   "tags": [
+    "situacao",
+    "evento",
+    "no ar",
+    "rascunho",
+    "publicar"
+   ],
    "videos": [
     "Hyh3UxHW_jU"
    ],
@@ -9762,6 +11346,9 @@
     "situacao",
     "eventos",
     "agenda",
+    "evento",
+    "rascunho",
+    "publicar",
     "consultar",
     "indicacao",
     "lista",
@@ -9788,6 +11375,13 @@
    "modulo": "Agenda de Eventos",
    "aba": "Eventos",
    "tipos": [],
+   "tags": [
+    "evento",
+    "publicar",
+    "datas",
+    "endereco",
+    "foto"
+   ],
    "videos": [
     "Hyh3UxHW_jU"
    ],
@@ -9800,6 +11394,10 @@
     "painel",
     "agenda",
     "eventos",
+    "publicar",
+    "datas",
+    "endereco",
+    "foto",
     "administrador",
     "fluxo",
     "separado",
@@ -9812,6 +11410,39 @@
    "caminho": "portal-da-cidade/admin/editorial/eventos.md"
   },
   {
+   "id": "excluir-categoria-de-artigos",
+   "titulo": "excluir uma categoria de Artigos",
+   "objetivo": "aqui você apaga uma categoria de Artigos.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "Artigos",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "tags": [
+    "excluir",
+    "categoria",
+    "artigo",
+    "remover"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "excluir",
+    "categoria",
+    "artigos",
+    "aplica",
+    "artigo",
+    "remover",
+    "voce",
+    "apaga"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/editorial/excluir-categoria-de-artigos.md"
+  },
+  {
    "id": "galeria-evento-legenda-ordem-remover",
    "titulo": "mudar legenda, ordem ou remover mídia de um evento",
    "objetivo": "Aqui você ajusta legendas e ordem ou remove fotos e vídeos da galeria de um evento existente.",
@@ -9822,6 +11453,14 @@
    "modulo": "Agenda de Eventos",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "legenda",
+    "ordenar",
+    "remover",
+    "galeria",
+    "evento",
+    "foto"
+   ],
    "videos": [
     "Hyh3UxHW_jU"
    ],
@@ -9837,13 +11476,15 @@
     "agenda",
     "eventos",
     "aplica",
+    "ordenar",
+    "galeria",
+    "foto",
     "voce",
     "ajusta",
     "legendas",
     "remove",
     "fotos",
     "videos",
-    "galeria",
     "existente"
    ],
    "base": "portal-da-cidade",
@@ -9860,6 +11501,14 @@
    "modulo": "notícias",
    "aba": "Notícias",
    "tipos": [],
+   "tags": [
+    "jornalista",
+    "cadastro",
+    "senha",
+    "bloquear",
+    "noticia",
+    "equipe"
+   ],
    "videos": [
     "gAa2NdnitZU"
    ],
@@ -9871,9 +11520,14 @@
     "jornalistas",
     "portal",
     "noticias",
+    "jornalista",
+    "cadastro",
+    "senha",
+    "bloquear",
+    "noticia",
+    "equipe",
     "voce",
     "cadastra",
-    "jornalista",
     "escrever",
     "pelo",
     "proprio",
@@ -9895,6 +11549,14 @@
    "modulo": "Agenda de Eventos",
    "aba": "não-se-aplica",
    "tipos": [],
+   "tags": [
+    "galeria",
+    "evento",
+    "foto",
+    "imagem",
+    "midia",
+    "legenda"
+   ],
    "videos": [
     "Hyh3UxHW_jU"
    ],
@@ -9908,6 +11570,10 @@
     "agenda",
     "eventos",
     "aplica",
+    "foto",
+    "imagem",
+    "midia",
+    "legenda",
     "voce",
     "adiciona",
     "cadastrado",
@@ -9930,6 +11596,14 @@
    "modulo": "notícias",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "rss",
+    "noticia",
+    "automatico",
+    "fonte",
+    "ligar",
+    "desligar"
+   ],
    "videos": [
     "r5rFCgAV0mg"
    ],
@@ -9943,6 +11617,11 @@
     "fontes",
     "rss",
     "aplica",
+    "noticia",
+    "automatico",
+    "fonte",
+    "ligar",
+    "desligar",
     "voce",
     "cadastra",
     "prontas",
@@ -9968,6 +11647,13 @@
    "modulo": "notícias",
    "aba": "Notícias",
    "tipos": [],
+   "tags": [
+    "noticia",
+    "publicar",
+    "categoria",
+    "foto",
+    "descricao"
+   ],
    "videos": [
     "gAa2NdnitZU"
    ],
@@ -9980,6 +11666,10 @@
     "caminho",
     "curto",
     "noticias",
+    "publicar",
+    "categoria",
+    "foto",
+    "descricao",
     "voce",
     "publica",
     "preenchendo",
@@ -10000,6 +11690,13 @@
    "modulo": "notícias",
    "aba": "Notícias",
    "tipos": [],
+   "tags": [
+    "noticia",
+    "descricao",
+    "foto",
+    "categoria",
+    "publicar"
+   ],
    "videos": [
     "gAa2NdnitZU"
    ],
@@ -10009,6 +11706,10 @@
     "editar",
     "noticia",
     "noticias",
+    "descricao",
+    "foto",
+    "categoria",
+    "publicar",
     "voce",
     "corrige",
     "texto",
@@ -10030,6 +11731,13 @@
    "modulo": "notícias",
    "aba": "Notícias",
    "tipos": [],
+   "tags": [
+    "noticia",
+    "lista",
+    "ver",
+    "categoria",
+    "status"
+   ],
    "videos": [
     "gAa2NdnitZU"
    ],
@@ -10040,12 +11748,15 @@
     "filtrar",
     "noticias",
     "lista",
+    "noticia",
+    "ver",
+    "categoria",
+    "status",
     "voce",
     "encontra",
     "pelo",
     "titulo",
     "situacao",
-    "categoria",
     "subcategoria",
     "periodo",
     "publicacao"
@@ -10064,6 +11775,12 @@
    "modulo": "notícias",
    "aba": "Notícias",
    "tipos": [],
+   "tags": [
+    "noticia",
+    "remover",
+    "despublicar",
+    "lista"
+   ],
    "videos": [
     "gAa2NdnitZU"
    ],
@@ -10073,6 +11790,9 @@
     "excluir",
     "noticia",
     "noticias",
+    "remover",
+    "despublicar",
+    "lista",
     "voce",
     "exclui",
     "grupo",
@@ -10099,6 +11819,12 @@
    "modulo": "notícias",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "seo",
+    "noticia",
+    "link",
+    "descricao"
+   ],
    "videos": [
     "gAa2NdnitZU"
    ],
@@ -10111,10 +11837,11 @@
     "noticia",
     "noticias",
     "aplica",
+    "link",
+    "descricao",
     "voce",
     "muda",
     "titulo",
-    "descricao",
     "usados",
     "apresentar",
     "buscadores",
@@ -10134,6 +11861,14 @@
    "modulo": "notícias",
    "aba": "Notícias",
    "tipos": [],
+   "tags": [
+    "noticia",
+    "publicar",
+    "editar",
+    "agendar",
+    "despublicar",
+    "categoria"
+   ],
    "videos": [
     "gAa2NdnitZU"
    ],
@@ -10144,9 +11879,14 @@
     "cadastrar",
     "controlar",
     "publicacao",
+    "noticia",
+    "publicar",
+    "editar",
+    "agendar",
+    "despublicar",
+    "categoria",
     "voce",
     "cadastra",
-    "noticia",
     "completa",
     "pelo",
     "painel",
@@ -10170,6 +11910,14 @@
    "modulo": "Artigos",
    "aba": "Artigos",
    "tipos": [],
+   "tags": [
+    "artigo",
+    "no ar",
+    "status",
+    "publicar",
+    "despublicar",
+    "rascunho"
+   ],
    "videos": [
     "CRiUbh7wHdc"
    ],
@@ -10179,6 +11927,10 @@
     "ver",
     "artigo",
     "artigos",
+    "status",
+    "publicar",
+    "despublicar",
+    "rascunho",
     "consultar",
     "situacao",
     "abrir",
@@ -10201,6 +11953,14 @@
    "modulo": "Agenda de Eventos",
    "aba": "Eventos",
    "tipos": [],
+   "tags": [
+    "evento",
+    "no ar",
+    "status",
+    "publicar",
+    "despublicar",
+    "rascunho"
+   ],
    "videos": [
     "Hyh3UxHW_jU"
    ],
@@ -10211,6 +11971,10 @@
     "evento",
     "agenda",
     "eventos",
+    "status",
+    "publicar",
+    "despublicar",
+    "rascunho",
     "consultar",
     "situacao",
     "verificar",
@@ -10231,6 +11995,14 @@
    "modulo": "notícias",
    "aba": "não-se-aplica",
    "tipos": [],
+   "tags": [
+    "noticia",
+    "no ar",
+    "status",
+    "publicar",
+    "despublicar",
+    "rascunho"
+   ],
    "videos": [
     "gAa2NdnitZU"
    ],
@@ -10241,10 +12013,14 @@
     "visibilidade",
     "noticias",
     "aplica",
+    "noticia",
+    "status",
+    "publicar",
+    "despublicar",
+    "rascunho",
     "voce",
     "verifica",
     "situacao",
-    "noticia",
     "pelo",
     "painel",
     "publicado",
@@ -10270,6 +12046,14 @@
    "modulo": "notícias",
    "aba": "Notícias",
    "tipos": [],
+   "tags": [
+    "senha",
+    "jornalista",
+    "recuperar",
+    "entrar",
+    "permissao",
+    "acesso"
+   ],
    "videos": [
     "gAa2NdnitZU"
    ],
@@ -10280,6 +12064,10 @@
     "senha",
     "jornalista",
     "noticias",
+    "recuperar",
+    "entrar",
+    "permissao",
+    "acesso",
     "voce",
     "redefine",
     "login",
@@ -10302,6 +12090,12 @@
    "modulo": "notícias",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "rascunho",
+    "noticia",
+    "desfazer",
+    "descricao"
+   ],
    "videos": [
     "gAa2NdnitZU"
    ],
@@ -10315,6 +12109,8 @@
     "navegador",
     "noticias",
     "aplica",
+    "desfazer",
+    "descricao",
     "voce",
     "recupera",
     "alteracoes",
@@ -10340,6 +12136,13 @@
    "modulo": "notícias",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "rss",
+    "fonte",
+    "link",
+    "noticia",
+    "automatico"
+   ],
    "videos": [
     "r5rFCgAV0mg"
    ],
@@ -10353,6 +12156,9 @@
     "endereco",
     "noticias",
     "aplica",
+    "link",
+    "noticia",
+    "automatico",
     "voce",
     "cadastra",
     "propria",
@@ -10376,6 +12182,13 @@
    "modulo": "notícias",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "rss",
+    "link",
+    "quantidade",
+    "fonte",
+    "noticia"
+   ],
    "videos": [
     "r5rFCgAV0mg"
    ],
@@ -10389,6 +12202,8 @@
     "rss",
     "noticias",
     "aplica",
+    "link",
+    "noticia",
     "voce",
     "ajusta",
     "importada",
@@ -10409,6 +12224,13 @@
    "modulo": "notícias",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "rss",
+    "fonte",
+    "noticia",
+    "automatico",
+    "remover"
+   ],
    "videos": [
     "r5rFCgAV0mg"
    ],
@@ -10420,6 +12242,9 @@
     "rss",
     "noticias",
     "aplica",
+    "noticia",
+    "automatico",
+    "remover",
     "voce",
     "exclui",
     "propria",
@@ -10445,6 +12270,13 @@
    "modulo": "notícias",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "desligar",
+    "rss",
+    "fonte",
+    "noticia",
+    "automatico"
+   ],
    "videos": [
     "r5rFCgAV0mg"
    ],
@@ -10457,6 +12289,8 @@
     "rss",
     "noticias",
     "aplica",
+    "noticia",
+    "automatico",
     "voce",
     "pausa",
     "retoma",
@@ -10478,6 +12312,13 @@
    "modulo": "notícias",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "publicar",
+    "automatico",
+    "noticia",
+    "fonte",
+    "rascunho"
+   ],
    "videos": [
     "r5rFCgAV0mg"
    ],
@@ -10491,13 +12332,16 @@
     "vao",
     "sozinhas",
     "aplica",
+    "publicar",
+    "automatico",
+    "noticia",
+    "rascunho",
     "voce",
     "escolhe",
     "proximas",
     "importadas",
     "entram",
     "publicadas",
-    "rascunho",
     "revisao"
    ],
    "base": "portal-da-cidade",
@@ -10514,6 +12358,13 @@
    "modulo": "notícias",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "rss",
+    "fonte",
+    "atualizacao",
+    "noticia",
+    "datas"
+   ],
    "videos": [
     "r5rFCgAV0mg"
    ],
@@ -10527,17 +12378,18 @@
     "trouxe",
     "noticias",
     "aplica",
+    "atualizacao",
+    "noticia",
+    "datas",
     "voce",
     "consulta",
     "ultima",
     "tentativa",
-    "atualizacao",
     "resumo",
     "resultado",
     "garante",
     "tenha",
     "entrado",
-    "noticia",
     "nova"
    ],
    "base": "portal-da-cidade",
@@ -10557,6 +12409,12 @@
     "subcategoria de notícia",
     "criar subcategoria",
     "assunto dentro da categoria"
+   ],
+   "tags": [
+    "subcategoria",
+    "noticia",
+    "categoria",
+    "criar"
    ],
    "videos": [
     "gAa2NdnitZU"
@@ -10592,6 +12450,12 @@
    "modulo": "notícias",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "noticia",
+    "publicar",
+    "lista",
+    "no ar"
+   ],
    "videos": [
     "gAa2NdnitZU"
    ],
@@ -10629,6 +12493,12 @@
    "modulo": "Turismo",
    "aba": "Categorias",
    "tipos": [],
+   "tags": [
+    "categoria",
+    "turismo",
+    "ponto turistico",
+    "ver"
+   ],
    "videos": [
     "QrkL_nJEa-c"
    ],
@@ -10641,6 +12511,9 @@
     "turisticos",
     "turismo",
     "categorias",
+    "ponto",
+    "turistico",
+    "ver",
     "organizar",
     "eventos",
     "outro",
@@ -10660,6 +12533,13 @@
    "modulo": "Turismo",
    "aba": "Dicas",
    "tipos": [],
+   "tags": [
+    "dica",
+    "turismo",
+    "guia",
+    "home",
+    "ponto turistico"
+   ],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -10671,9 +12551,11 @@
     "guia",
     "turistico",
     "turismo",
+    "dica",
+    "home",
+    "ponto",
     "gerais",
     "visitantes",
-    "ponto",
     "especifico",
     "sao",
     "diferentes",
@@ -10695,6 +12577,12 @@
    "modulo": "Turismo",
    "aba": "Pontos Turísticos",
    "tipos": [],
+   "tags": [
+    "dica",
+    "ponto turistico",
+    "turismo",
+    "editar"
+   ],
    "videos": [
     "QrkL_nJEa-c"
    ],
@@ -10708,6 +12596,8 @@
     "turismo",
     "pontos",
     "turisticos",
+    "dica",
+    "editar",
     "recomendacoes",
     "pagina",
     "cadastrado",
@@ -10731,6 +12621,12 @@
    "modulo": "Turismo",
    "aba": "Pontos Turísticos",
    "tipos": [],
+   "tags": [
+    "ponto turistico",
+    "turismo",
+    "endereco",
+    "descricao"
+   ],
    "videos": [
     "QrkL_nJEa-c"
    ],
@@ -10744,10 +12640,11 @@
     "turismo",
     "pontos",
     "turisticos",
+    "endereco",
+    "descricao",
     "mudar",
     "nome",
     "categoria",
-    "descricao",
     "existente",
     "fotos",
     "dicas",
@@ -10769,6 +12666,12 @@
    "modulo": "Turismo",
    "aba": "Pontos Turísticos",
    "tipos": [],
+   "tags": [
+    "horario",
+    "ponto turistico",
+    "turismo",
+    "ver"
+   ],
    "videos": [
     "QrkL_nJEa-c"
    ],
@@ -10782,6 +12685,8 @@
     "turismo",
     "pontos",
     "turisticos",
+    "horario",
+    "ver",
     "atualizar",
     "funcionamento",
     "dia",
@@ -10802,6 +12707,13 @@
    "modulo": "Turismo",
    "aba": "Pontos Turísticos",
    "tipos": [],
+   "tags": [
+    "foto",
+    "ponto turistico",
+    "turismo",
+    "galeria",
+    "imagem"
+   ],
    "videos": [
     "QrkL_nJEa-c"
    ],
@@ -10815,10 +12727,11 @@
     "turismo",
     "pontos",
     "turisticos",
-    "capa",
-    "substituir",
     "foto",
     "galeria",
+    "imagem",
+    "capa",
+    "substituir",
     "existente",
     "cada",
     "parte",
@@ -10840,6 +12753,12 @@
    "modulo": "Turismo",
    "aba": "Pontos Turísticos",
    "tipos": [],
+   "tags": [
+    "ponto turistico",
+    "turismo",
+    "endereco",
+    "foto"
+   ],
    "videos": [
     "QrkL_nJEa-c"
    ],
@@ -10852,9 +12771,10 @@
     "turismo",
     "pontos",
     "turisticos",
+    "endereco",
+    "foto",
     "nome",
     "localizacao",
-    "foto",
     "horarios",
     "video",
     "especifico",
@@ -10876,6 +12796,13 @@
    "modulo": "Turismo",
    "aba": "Roteiros",
    "tipos": [],
+   "tags": [
+    "roteiro",
+    "turismo",
+    "parada",
+    "ponto turistico",
+    "dica"
+   ],
    "videos": [
     "CMEOWthwqtI"
    ],
@@ -10887,6 +12814,9 @@
     "turistico",
     "turismo",
     "roteiros",
+    "parada",
+    "ponto",
+    "dica",
     "montar",
     "passeio",
     "paradas",
@@ -10915,6 +12845,12 @@
    "modulo": "Turismo",
    "aba": "Roteiros",
    "tipos": [],
+   "tags": [
+    "roteiro",
+    "turismo",
+    "parada",
+    "ponto turistico"
+   ],
    "videos": [
     "CMEOWthwqtI"
    ],
@@ -10926,6 +12862,8 @@
     "turistico",
     "turismo",
     "roteiros",
+    "parada",
+    "ponto",
     "mudar",
     "dados",
     "suas",
@@ -10950,6 +12888,12 @@
    "modulo": "Turismo",
    "aba": "Roteiros",
    "tipos": [],
+   "tags": [
+    "parada",
+    "roteiro",
+    "turismo",
+    "ponto turistico"
+   ],
    "videos": [
     "CMEOWthwqtI"
    ],
@@ -10962,6 +12906,9 @@
     "roteiro",
     "turismo",
     "roteiros",
+    "parada",
+    "ponto",
+    "turistico",
     "reorganizar",
     "sequencia",
     "existente"
@@ -10980,6 +12927,13 @@
    "modulo": "Agenda de Eventos",
    "aba": "não-se-aplica",
    "tipos": [],
+   "tags": [
+    "video",
+    "galeria",
+    "evento",
+    "link",
+    "midia"
+   ],
    "videos": [
     "Hyh3UxHW_jU"
    ],
@@ -10993,9 +12947,11 @@
     "agenda",
     "eventos",
     "aplica",
+    "evento",
+    "link",
+    "midia",
     "voce",
     "adiciona",
-    "evento",
     "cadastrado"
    ],
    "base": "portal-da-cidade",
@@ -11012,6 +12968,15 @@
    "modulo": "doacoes",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "criar",
+    "editar",
+    "instituicao",
+    "doacao",
+    "foto",
+    "galeria",
+    "imagem"
+   ],
    "videos": [
     "grm3bUrPBxM"
    ],
@@ -11024,8 +12989,13 @@
     "instituicao",
     "doacoes",
     "aplica",
-    "inclua",
+    "criar",
+    "editar",
+    "doacao",
+    "foto",
     "galeria",
+    "imagem",
+    "inclua",
     "cadastrada"
    ],
    "base": "portal-da-cidade",
@@ -11042,6 +13012,15 @@
    "modulo": "notificações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "agendar",
+    "notificacao",
+    "push",
+    "enviar",
+    "horario",
+    "datas",
+    "painel"
+   ],
    "videos": [
     "-ZLL7Cqwcok"
    ],
@@ -11055,6 +13034,10 @@
     "dia",
     "notificacoes",
     "aplica",
+    "enviar",
+    "horario",
+    "datas",
+    "painel",
     "agende",
     "aviso",
     "inscritos",
@@ -11065,8 +13048,8 @@
   },
   {
    "id": "aprovacoes-e-denuncias",
-   "titulo": "aprovar conteúdo de clientes e ver denúncias",
-   "objetivo": "Confira os envios dos clientes antes de aprová-los para publicação.",
+   "titulo": "aprovar conteúdo de clientes (fila de aprovação) e ver denúncias",
+   "objetivo": "Confira o que os clientes enviaram e libere para o site. Só passa por aqui o que foi enviado com `Exigir minha aprovação antes de publicar` ligado.",
    "publico": [
     "admin"
    ],
@@ -11074,28 +13057,104 @@
    "modulo": "aprovações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "aprovar",
+    "aprovacao",
+    "fila",
+    "pendente",
+    "moderacao",
+    "denuncia",
+    "numeros",
+    "ver",
+    "painel"
+   ],
    "videos": [
     "JYDoZB_vyX8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "aprovar",
     "conteudo",
     "clientes",
+    "fila",
+    "aprovacao",
     "ver",
     "denuncias",
     "aprovacoes",
     "aplica",
+    "pendente",
+    "moderacao",
+    "denuncia",
+    "numeros",
+    "painel",
     "confira",
-    "envios",
+    "enviaram",
+    "libere",
+    "site",
+    "passa",
+    "foi",
+    "enviado",
+    "exigir",
     "antes",
-    "aprova",
-    "los",
-    "publicacao"
+    "publicar",
+    "ligado"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/aprovacoes-e-denuncias.md"
+  },
+  {
+   "id": "aprovacoes-lista-tempo-de-espera-e-carregar-mais",
+   "titulo": "lista de aprovações: tipo, cliente, tempo em espera, ordem e Carregar mais",
+   "objetivo": "Entenda o que cada linha da fila de aprovação mostra.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "aprovações",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "tags": [
+    "aprovacao",
+    "fila",
+    "lista",
+    "pendente",
+    "prazo",
+    "ordenar",
+    "filtrar",
+    "numeros",
+    "ver",
+    "lote"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "lista",
+    "aprovacoes",
+    "tipo",
+    "cliente",
+    "tempo",
+    "espera",
+    "ordem",
+    "carregar",
+    "aplica",
+    "aprovacao",
+    "fila",
+    "pendente",
+    "prazo",
+    "ordenar",
+    "filtrar",
+    "numeros",
+    "ver",
+    "lote",
+    "entenda",
+    "cada",
+    "linha",
+    "mostra"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/portal/aprovacoes-lista-tempo-de-espera-e-carregar-mais.md"
   },
   {
    "id": "assistente-de-ia-do-portal",
@@ -11113,6 +13172,15 @@
     "tirar o robô",
     "esconder o assistente",
     "chat do site"
+   ],
+   "tags": [
+    "assistente",
+    "ia",
+    "ligar",
+    "desligar",
+    "mostrar",
+    "ver",
+    "painel"
    ],
    "videos": [
     "0nkWIgiQfwM"
@@ -11133,6 +13201,8 @@
     "robo",
     "esconder",
     "chat",
+    "mostrar",
+    "painel",
     "ligue",
     "desligue",
     "publico",
@@ -11145,8 +13215,8 @@
   },
   {
    "id": "bloquear-conta-denunciada",
-   "titulo": "bloquear a empresa ou conta de uma denúncia",
-   "objetivo": "O responsável fica bloqueado neste módulo, e o conteúdo dele nesse módulo sai do ar. O bloqueio pode ser desfeito.",
+   "titulo": "bloquear a empresa ou conta de uma denúncia (o que sai do ar, cobrança)",
+   "objetivo": "Tire do ar o que o responsável publicou naquele módulo e impeça novas publicações dele ali.",
    "publico": [
     "admin"
    ],
@@ -11154,30 +13224,44 @@
    "modulo": "aprovações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "bloquear",
+    "denuncia",
+    "conta",
+    "empresa",
+    "moderacao",
+    "no ar",
+    "plano",
+    "desbloquear",
+    "cobrar"
+   ],
    "videos": [
     "JYDoZB_vyX8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "bloquear",
     "empresa",
     "conta",
     "denuncia",
+    "sai",
+    "cobranca",
     "aprovacoes",
     "aplica",
+    "moderacao",
+    "plano",
+    "desbloquear",
+    "cobrar",
+    "tire",
     "responsavel",
-    "fica",
-    "bloqueado",
-    "neste",
+    "publicou",
+    "naquele",
     "modulo",
-    "conteudo",
-    "dele",
-    "nesse",
-    "sai",
-    "bloqueio",
-    "ser",
-    "desfeito"
+    "impeca",
+    "novas",
+    "publicacoes",
+    "dele"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/bloquear-conta-denunciada.md"
@@ -11193,6 +13277,14 @@
    "modulo": "doacoes",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "criar",
+    "editar",
+    "excluir",
+    "causa",
+    "doacao",
+    "instituicao"
+   ],
    "videos": [
     "grm3bUrPBxM"
    ],
@@ -11204,6 +13296,10 @@
     "doacao",
     "doacoes",
     "aplica",
+    "criar",
+    "editar",
+    "excluir",
+    "instituicao",
     "crie",
     "organiza",
     "instituicoes",
@@ -11224,6 +13320,14 @@
    "modulo": "radar",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "criar",
+    "radar",
+    "mercado",
+    "empresa",
+    "cadastro",
+    "endereco"
+   ],
    "videos": [
     "Xfc771aD4z8"
    ],
@@ -11235,6 +13339,11 @@
     "radar",
     "precos",
     "aplica",
+    "criar",
+    "mercado",
+    "empresa",
+    "cadastro",
+    "endereco",
     "cadastre",
     "supermercado",
     "farmacia",
@@ -11255,6 +13364,15 @@
    "modulo": "doacoes",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "criar",
+    "instituicao",
+    "causa",
+    "doacao",
+    "cadastro",
+    "foto",
+    "whatsapp"
+   ],
    "videos": [
     "grm3bUrPBxM"
    ],
@@ -11267,17 +13385,21 @@
     "area",
     "doacoes",
     "aplica",
-    "cadastre",
+    "criar",
     "instituicao",
+    "causa",
+    "doacao",
+    "cadastro",
+    "foto",
+    "whatsapp",
+    "cadastre",
     "aparecer",
     "pagina",
-    "causa",
     "ainda",
     "existe",
     "use",
     "antes",
-    "artigo",
-    "doacao"
+    "artigo"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/cadastrar-instituicoes-e-causas-doacoes.md"
@@ -11293,6 +13415,13 @@
    "modulo": "notificações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "cancelar",
+    "notificacao",
+    "push",
+    "agendar",
+    "painel"
+   ],
    "videos": [
     "-ZLL7Cqwcok"
    ],
@@ -11305,6 +13434,8 @@
     "agendada",
     "notificacoes",
     "aplica",
+    "agendar",
+    "painel",
     "cancele",
     "aviso",
     "ainda",
@@ -11324,6 +13455,14 @@
    "modulo": "notificações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "ligar",
+    "desligar",
+    "notificacao",
+    "push",
+    "convite",
+    "painel"
+   ],
    "videos": [
     "-ZLL7Cqwcok"
    ],
@@ -11337,6 +13476,8 @@
     "notificacoes",
     "push",
     "aplica",
+    "notificacao",
+    "painel",
     "escolha",
     "site",
     "convida",
@@ -11357,6 +13498,14 @@
    "modulo": "radar",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "editar",
+    "remover",
+    "excluir",
+    "preco",
+    "radar",
+    "mercado"
+   ],
    "videos": [
     "VhMHVZujDvQ"
    ],
@@ -11369,6 +13518,9 @@
     "estabelecimento",
     "radar",
     "aplica",
+    "editar",
+    "excluir",
+    "mercado",
     "corrija",
     "produto",
     "sem",
@@ -11379,9 +13531,9 @@
    "caminho": "portal-da-cidade/admin/portal/corrigir-preco-radar.md"
   },
   {
-   "id": "desfazer-bloqueio-denuncia",
-   "titulo": "desfazer o bloqueio de uma conta denunciada",
-   "objetivo": "Reverta o bloqueio aplicado pela denúncia.",
+   "id": "denuncias-quem-pode-denunciar-avisos-e-limites",
+   "titulo": "denúncias: quem pode denunciar, se sou avisado e limites contra abuso",
+   "objetivo": "Entenda como as denúncias chegam e o que o portal faz sozinho.",
    "publico": [
     "admin"
    ],
@@ -11389,22 +13541,87 @@
    "modulo": "aprovações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "denuncia",
+    "moderacao",
+    "regras",
+    "notificacao",
+    "imagem",
+    "quantidade",
+    "automatico",
+    "cliente"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "denuncias",
+    "quem",
+    "denunciar",
+    "sou",
+    "avisado",
+    "limites",
+    "contra",
+    "abuso",
+    "aprovacoes",
+    "aplica",
+    "denuncia",
+    "moderacao",
+    "regras",
+    "notificacao",
+    "imagem",
+    "quantidade",
+    "automatico",
+    "cliente",
+    "entenda",
+    "chegam",
+    "portal",
+    "faz",
+    "sozinho"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/portal/denuncias-quem-pode-denunciar-avisos-e-limites.md"
+  },
+  {
+   "id": "desfazer-bloqueio-denuncia",
+   "titulo": "desfazer o bloqueio feito por uma denúncia (ver bloqueados)",
+   "objetivo": "Libere de novo o responsável bloqueado.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "aprovações",
+   "aba": "nao-se-aplica",
+   "tipos": [],
+   "tags": [
+    "desbloquear",
+    "desfazer",
+    "bloquear",
+    "denuncia",
+    "moderacao",
+    "no ar"
+   ],
    "videos": [
     "JYDoZB_vyX8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "desfazer",
     "bloqueio",
-    "conta",
-    "denunciada",
+    "feito",
+    "denuncia",
+    "ver",
+    "bloqueados",
     "aprovacoes",
     "aplica",
-    "reverta",
-    "aplicado",
-    "pela",
-    "denuncia"
+    "desbloquear",
+    "bloquear",
+    "moderacao",
+    "libere",
+    "novo",
+    "responsavel",
+    "bloqueado"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/desfazer-bloqueio-denuncia.md"
@@ -11420,6 +13637,14 @@
    "modulo": "sorteios",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "desligar",
+    "sorteio",
+    "modulo",
+    "no ar",
+    "painel",
+    "mostrar"
+   ],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -11428,6 +13653,9 @@
     "modulo",
     "sorteios",
     "aplica",
+    "sorteio",
+    "painel",
+    "mostrar",
     "esconda",
     "toda",
     "secao",
@@ -11453,6 +13681,14 @@
     "doação cai na conta do portal",
     "repasse de doação"
    ],
+   "tags": [
+    "doacao",
+    "instituicao",
+    "causa",
+    "pagamento",
+    "visao geral",
+    "portal"
+   ],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-25",
@@ -11466,6 +13702,11 @@
     "conta",
     "portal",
     "repasse",
+    "instituicao",
+    "causa",
+    "pagamento",
+    "visao",
+    "geral",
     "entenda",
     "area",
     "vitrine",
@@ -11488,6 +13729,14 @@
    "modulo": "doacoes",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "editar",
+    "whatsapp",
+    "contato",
+    "instituicao",
+    "doacao",
+    "telefone util"
+   ],
    "videos": [
     "grm3bUrPBxM"
    ],
@@ -11499,6 +13748,11 @@
     "instituicao",
     "doacoes",
     "aplica",
+    "editar",
+    "contato",
+    "doacao",
+    "telefone",
+    "util",
     "atualize",
     "exibido",
     "pagina"
@@ -11517,6 +13771,14 @@
    "modulo": "radar",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "editar",
+    "produto",
+    "radar",
+    "categoria",
+    "preco",
+    "renomear"
+   ],
    "videos": [
     "VhMHVZujDvQ"
    ],
@@ -11528,17 +13790,19 @@
     "radar",
     "precos",
     "aplica",
+    "categoria",
+    "preco",
+    "renomear",
     "corrija",
-    "nome",
-    "categoria"
+    "nome"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/editar-produto-radar.md"
   },
   {
    "id": "entender-o-trafego-do-portal",
-   "titulo": "entender os números do tráfego do portal (acessos, visitantes, tempo médio)",
-   "objetivo": "Consulte as visitas ao site público e compare períodos.",
+   "titulo": "entender os números do tráfego do portal (acessos, visitantes, tempo médio, gráfico, seções, mais lidas, relatório PDF)",
+   "objetivo": "Consulte as visitas ao site público do portal, compare com o período anterior e baixe o relatório.",
    "publico": [
     "admin"
    ],
@@ -11546,9 +13810,21 @@
    "modulo": "painel",
    "aba": "painel",
    "tipos": [],
+   "tags": [
+    "trafego",
+    "numeros",
+    "visualizacao",
+    "ver",
+    "exportar",
+    "periodo",
+    "painel",
+    "datas",
+    "quantidade",
+    "acesso"
+   ],
    "videos": [],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "entender",
     "numeros",
@@ -11558,13 +13834,26 @@
     "visitantes",
     "tempo",
     "medio",
+    "grafico",
+    "secoes",
+    "lidas",
+    "relatorio",
+    "pdf",
     "painel",
+    "visualizacao",
+    "ver",
+    "exportar",
+    "periodo",
+    "datas",
+    "quantidade",
+    "acesso",
     "consulte",
     "visitas",
     "site",
     "publico",
     "compare",
-    "periodos"
+    "anterior",
+    "baixe"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/entender-o-trafego-do-portal.md"
@@ -11580,6 +13869,14 @@
    "modulo": "notificações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "enviar",
+    "notificacao",
+    "push",
+    "criar",
+    "link",
+    "painel"
+   ],
    "videos": [
     "-ZLL7Cqwcok"
    ],
@@ -11592,6 +13889,10 @@
     "aos",
     "visitantes",
     "aplica",
+    "notificacao",
+    "criar",
+    "link",
+    "painel",
     "envie",
     "aviso",
     "inscritos",
@@ -11611,6 +13912,13 @@
    "modulo": "doacoes",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "excluir",
+    "remover",
+    "instituicao",
+    "doacao",
+    "causa"
+   ],
    "videos": [
     "grm3bUrPBxM"
    ],
@@ -11621,6 +13929,9 @@
     "instituicao",
     "doacoes",
     "aplica",
+    "remover",
+    "doacao",
+    "causa",
     "exclua",
     "retira",
     "pagina"
@@ -11630,8 +13941,8 @@
   },
   {
    "id": "excluir-item-denunciado",
-   "titulo": "tirar do ar o conteúdo de uma denúncia",
-   "objetivo": "O item é apagado do site e não pode ser recuperado por esta ação.",
+   "titulo": "excluir o item denunciado (apaga do site, sem volta)",
+   "objetivo": "Apague do site o conteúdo denunciado.",
    "publico": [
     "admin"
    ],
@@ -11639,23 +13950,35 @@
    "modulo": "aprovações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "excluir",
+    "denuncia",
+    "moderacao",
+    "no ar",
+    "recuperar",
+    "desfazer"
+   ],
    "videos": [
     "JYDoZB_vyX8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
-    "tirar",
-    "conteudo",
-    "denuncia",
+    "excluir",
+    "item",
+    "denunciado",
+    "apaga",
+    "site",
+    "sem",
+    "volta",
     "aprovacoes",
     "aplica",
-    "item",
-    "apagado",
-    "site",
-    "ser",
-    "recuperado",
-    "acao"
+    "denuncia",
+    "moderacao",
+    "recuperar",
+    "desfazer",
+    "apague",
+    "conteudo"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/excluir-item-denunciado.md"
@@ -11671,6 +13994,13 @@
    "modulo": "radar",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "excluir",
+    "remover",
+    "produto",
+    "radar",
+    "preco"
+   ],
    "videos": [
     "VhMHVZujDvQ"
    ],
@@ -11683,6 +14013,8 @@
     "precos",
     "radar",
     "aplica",
+    "remover",
+    "preco",
     "apague",
     "junto",
     "seus",
@@ -11693,8 +14025,8 @@
   },
   {
    "id": "ignorar-denuncia",
-   "titulo": "ignorar uma denúncia",
-   "objetivo": "A denúncia fica ignorada; o item continua no ar.",
+   "titulo": "ignorar uma denúncia (o item continua no ar)",
+   "objetivo": "Encerre uma denúncia sem mexer no conteúdo.",
    "publico": [
     "admin"
    ],
@@ -11702,20 +14034,32 @@
    "modulo": "aprovações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "denuncia",
+    "moderacao",
+    "no ar",
+    "desfazer",
+    "status"
+   ],
    "videos": [
     "JYDoZB_vyX8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "ignorar",
     "denuncia",
+    "item",
+    "continua",
     "aprovacoes",
     "aplica",
-    "fica",
-    "ignorada",
-    "item",
-    "continua"
+    "moderacao",
+    "desfazer",
+    "status",
+    "encerre",
+    "sem",
+    "mexer",
+    "conteudo"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/ignorar-denuncia.md"
@@ -11731,6 +14075,13 @@
    "modulo": "radar",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "juntar",
+    "produto",
+    "radar",
+    "preco",
+    "editar"
+   ],
    "videos": [
     "VhMHVZujDvQ"
    ],
@@ -11742,9 +14093,11 @@
     "repetidos",
     "radar",
     "aplica",
+    "produto",
+    "preco",
+    "editar",
     "passe",
     "precos",
-    "produto",
     "duplicado",
     "cadastro",
     "deve",
@@ -11764,6 +14117,15 @@
    "modulo": "radar",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "criar",
+    "preco",
+    "radar",
+    "foto",
+    "ia",
+    "produto",
+    "enviar"
+   ],
    "videos": [
     "VhMHVZujDvQ"
    ],
@@ -11776,6 +14138,9 @@
     "foto",
     "radar",
     "aplica",
+    "criar",
+    "produto",
+    "enviar",
     "envie",
     "diretamente",
     "pelo",
@@ -11797,6 +14162,14 @@
    "modulo": "notificações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "editar",
+    "notificacao",
+    "push",
+    "convite",
+    "descricao",
+    "nome"
+   ],
    "videos": [
     "-ZLL7Cqwcok"
    ],
@@ -11809,9 +14182,12 @@
     "notificacoes",
     "push",
     "aplica",
+    "editar",
+    "notificacao",
+    "descricao",
+    "nome",
     "personalize",
     "titulo",
-    "descricao",
     "mostrado",
     "aos",
     "visitantes"
@@ -11849,6 +14225,18 @@
     "criar usuário do painel",
     "outro administrador",
     "mensalidade do portal"
+   ],
+   "tags": [
+    "nao faz",
+    "funcao nova",
+    "painel",
+    "sugestao",
+    "visao geral",
+    "senha",
+    "enquete",
+    "newsletter",
+    "sms",
+    "avaliacao"
    ],
    "videos": [],
    "status": "rascunho-documental",
@@ -11888,15 +14276,75 @@
     "usuario",
     "outro",
     "administrador",
+    "funcao",
+    "nova",
+    "sugestao",
+    "visao",
+    "senha",
     "entenda",
     "limites",
     "confirmados",
     "pedir",
-    "funcao",
     "falta"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/o-que-o-portal-nao-faz.md"
+  },
+  {
+   "id": "painel-inicio-administracao-e-pendencias",
+   "titulo": "tela inicial do painel: ver portal, atalhos de cadastro, contadores e precisa da sua atenção (pendências)",
+   "objetivo": "Entenda os blocos da tela inicial do painel abaixo do tráfego.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "painel",
+   "aba": "painel",
+   "tipos": [],
+   "tags": [
+    "painel",
+    "pendente",
+    "fila",
+    "aprovacao",
+    "fatura",
+    "vencimento",
+    "comissao",
+    "numeros",
+    "voz do povo",
+    "notificacao"
+   ],
+   "videos": [],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-10-27",
+   "termos": [
+    "tela",
+    "inicial",
+    "painel",
+    "ver",
+    "portal",
+    "atalhos",
+    "cadastro",
+    "contadores",
+    "precisa",
+    "atencao",
+    "pendencias",
+    "pendente",
+    "fila",
+    "aprovacao",
+    "fatura",
+    "vencimento",
+    "comissao",
+    "numeros",
+    "voz",
+    "povo",
+    "notificacao",
+    "entenda",
+    "blocos",
+    "abaixo",
+    "trafego"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/portal/painel-inicio-administracao-e-pendencias.md"
   },
   {
    "id": "radar-categorias",
@@ -11909,6 +14357,15 @@
    "modulo": "radar",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "editar",
+    "categoria",
+    "radar",
+    "ordenar",
+    "nome",
+    "ligar",
+    "desligar"
+   ],
    "videos": [
     "hrri-AfQihQ"
    ],
@@ -11920,12 +14377,16 @@
     "radar",
     "precos",
     "aplica",
-    "mude",
+    "editar",
+    "categoria",
+    "ordenar",
     "nome",
+    "ligar",
+    "desligar",
+    "mude",
     "icone",
     "ordem",
-    "visibilidade",
-    "categoria"
+    "visibilidade"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/radar-categorias.md"
@@ -11941,6 +14402,14 @@
    "modulo": "radar",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "radar",
+    "preco",
+    "mercado",
+    "produto",
+    "visao geral",
+    "foto"
+   ],
    "videos": [
     "iuCYHVzr37g",
     "O3sdByn6xK8"
@@ -11952,6 +14421,12 @@
     "precos",
     "funciona",
     "aplica",
+    "preco",
+    "mercado",
+    "produto",
+    "visao",
+    "geral",
+    "foto",
     "permite",
     "comparar",
     "receber",
@@ -11972,6 +14447,14 @@
    "modulo": "radar",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "aprovar",
+    "recusar",
+    "editar",
+    "radar",
+    "foto",
+    "preco"
+   ],
    "videos": [
     "CSYITekPVcw"
    ],
@@ -11984,6 +14467,10 @@
     "radar",
     "precos",
     "aplica",
+    "recusar",
+    "editar",
+    "foto",
+    "preco",
     "confira",
     "pelos",
     "moradores",
@@ -12005,6 +14492,15 @@
    "modulo": "radar",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "aprovar",
+    "juntar",
+    "excluir",
+    "radar",
+    "mercado",
+    "empresa",
+    "reativar"
+   ],
    "videos": [
     "Xfc771aD4z8"
    ],
@@ -12017,6 +14513,10 @@
     "radar",
     "precos",
     "aplica",
+    "excluir",
+    "mercado",
+    "empresa",
+    "reativar",
     "aprove",
     "estabelecimentos",
     "indicados",
@@ -12039,6 +14539,14 @@
    "modulo": "radar",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "publicar",
+    "editar",
+    "excluir",
+    "radar",
+    "preco",
+    "retido"
+   ],
    "videos": [
     "focSRBTLhQE"
    ],
@@ -12050,6 +14558,11 @@
     "retidos",
     "radar",
     "aplica",
+    "publicar",
+    "editar",
+    "excluir",
+    "preco",
+    "retido",
     "confira",
     "foram",
     "antes",
@@ -12072,6 +14585,14 @@
    "modulo": "radar",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "criar",
+    "ver",
+    "radar",
+    "produto",
+    "preco",
+    "filtrar"
+   ],
    "videos": [
     "VhMHVZujDvQ"
    ],
@@ -12083,8 +14604,11 @@
     "precos",
     "radar",
     "aplica",
-    "adicione",
+    "criar",
+    "produto",
     "preco",
+    "filtrar",
+    "adicione",
     "digitado",
     "catalogo"
    ],
@@ -12102,6 +14626,13 @@
    "modulo": "sorteios",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "sorteio",
+    "ao vivo",
+    "premio",
+    "participante",
+    "entregar"
+   ],
    "videos": [
     "uN4FHHHGgEs",
     "REgRSXekqpA"
@@ -12116,6 +14647,7 @@
     "premio",
     "sorteios",
     "aplica",
+    "participante",
     "sorteie",
     "ganhadores",
     "acompanhe",
@@ -12126,8 +14658,8 @@
   },
   {
    "id": "recusar-envio-para-aprovacao",
-   "titulo": "recusar um envio que aguarda aprovação",
-   "objetivo": "Recuse um envio e informe o motivo.",
+   "titulo": "recusar um envio que aguarda aprovação (motivo, e-mail ao cliente)",
+   "objetivo": "Recuse um envio e diga ao cliente o que corrigir.",
    "publico": [
     "admin"
    ],
@@ -12135,29 +14667,47 @@
    "modulo": "aprovações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "recusar",
+    "aprovacao",
+    "fila",
+    "pendente",
+    "moderacao",
+    "notificacao",
+    "desfazer",
+    "cliente"
+   ],
    "videos": [
     "JYDoZB_vyX8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "recusar",
     "envio",
     "aguarda",
     "aprovacao",
+    "motivo",
+    "mail",
+    "cliente",
     "aprovacoes",
     "aplica",
+    "fila",
+    "pendente",
+    "moderacao",
+    "notificacao",
+    "desfazer",
     "recuse",
-    "informe",
-    "motivo"
+    "diga",
+    "corrigir"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/recusar-envio-para-aprovacao.md"
   },
   {
    "id": "regras-de-aprovacao-e-denuncias",
-   "titulo": "escolher as regras de aprovação e denúncias do portal",
-   "objetivo": "Escolha as regras de aprovação e de denúncia de conteúdo do portal.",
+   "titulo": "ligar ou desligar Exigir minha aprovação e Permitir denúncias (o que acontece)",
+   "objetivo": "Escolha se os envios dos clientes esperam sua aprovação e se visitantes podem denunciar conteúdo.",
    "publico": [
     "admin"
    ],
@@ -12165,21 +14715,45 @@
    "modulo": "aprovações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "regras",
+    "aprovacao",
+    "denuncia",
+    "ligar",
+    "desligar",
+    "moderacao",
+    "configurar",
+    "fila",
+    "painel"
+   ],
    "videos": [
     "JYDoZB_vyX8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
-    "escolher",
-    "regras",
+    "ligar",
+    "desligar",
+    "exigir",
     "aprovacao",
+    "permitir",
     "denuncias",
-    "portal",
+    "acontece",
     "aprovacoes",
     "aplica",
-    "escolha",
+    "regras",
     "denuncia",
+    "moderacao",
+    "configurar",
+    "fila",
+    "painel",
+    "escolha",
+    "envios",
+    "clientes",
+    "esperam",
+    "visitantes",
+    "podem",
+    "denunciar",
     "conteudo"
    ],
    "base": "portal-da-cidade",
@@ -12196,6 +14770,15 @@
    "modulo": "sorteios",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "criar",
+    "publicar",
+    "sorteio",
+    "premio",
+    "participante",
+    "datas",
+    "painel"
+   ],
    "videos": [
     "uN4FHHHGgEs",
     "REgRSXekqpA"
@@ -12208,8 +14791,12 @@
     "realizar",
     "sorteios",
     "aplica",
-    "crie",
     "sorteio",
+    "premio",
+    "participante",
+    "datas",
+    "painel",
+    "crie",
     "publique",
     "inscricoes",
     "portal"
@@ -12233,6 +14820,13 @@
     "falta uma função",
     "sugestão"
    ],
+   "tags": [
+    "sugestao",
+    "funcao nova",
+    "enviar",
+    "painel",
+    "descricao"
+   ],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -12247,6 +14841,9 @@
     "melhoria",
     "falta",
     "sugestao",
+    "enviar",
+    "painel",
+    "descricao",
     "envie",
     "ideia",
     "equipe",
@@ -12266,6 +14863,13 @@
    "modulo": "sorteios",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "despublicar",
+    "sorteio",
+    "rascunho",
+    "no ar",
+    "painel"
+   ],
    "videos": [
     "uN4FHHHGgEs"
    ],
@@ -12278,13 +14882,15 @@
     "excluir",
     "sorteios",
     "aplica",
+    "despublicar",
+    "rascunho",
+    "painel",
     "retire",
     "publicacao",
     "mantendo",
     "cadastro",
     "usando",
-    "salvar",
-    "rascunho"
+    "salvar"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/tirar-sorteio-do-ar.md"
@@ -12304,6 +14910,16 @@
     "linhas de ônibus",
     "itinerário"
    ],
+   "tags": [
+    "criar",
+    "editar",
+    "excluir",
+    "onibus",
+    "utilidade",
+    "horario",
+    "voz do povo",
+    "itinerario"
+   ],
    "videos": [
     "1a0wZmdXDLk"
    ],
@@ -12317,6 +14933,11 @@
     "aplica",
     "horario",
     "itinerario",
+    "criar",
+    "editar",
+    "excluir",
+    "voz",
+    "povo",
     "cadastre",
     "horarios"
    ],
@@ -12339,6 +14960,17 @@
     "números de emergência",
     "telefone da prefeitura"
    ],
+   "tags": [
+    "criar",
+    "editar",
+    "excluir",
+    "telefone util",
+    "utilidade",
+    "voz do povo",
+    "emergencia",
+    "policia",
+    "telefone"
+   ],
    "videos": [
     "1a0wZmdXDLk"
    ],
@@ -12355,6 +14987,12 @@
     "numeros",
     "emergencia",
     "prefeitura",
+    "criar",
+    "editar",
+    "excluir",
+    "util",
+    "voz",
+    "povo",
     "cadastre",
     "cidade"
    ],
@@ -12363,43 +15001,53 @@
   },
   {
    "id": "ver-denuncias",
-   "titulo": "ver e filtrar as denúncias do portal",
-   "objetivo": "Filtre as denúncias de conteúdo e abra seus detalhes.",
+   "titulo": "ver e filtrar as denúncias de conteúdo do portal (lista, filtros e detalhe)",
+   "objetivo": "Veja as denúncias que visitantes fizeram sobre empresas, vagas, classificados e eventos.",
    "publico": [
     "admin"
    ],
    "produto": null,
    "modulo": "aprovações",
    "aba": "nao-se-aplica",
-   "tipos": [
-    "operacao",
-    "visitante reclamou de um anúncio",
-    "reclamação de visitante",
-    "reclamaram de um anúncio"
+   "tipos": [],
+   "tags": [
+    "ver",
+    "filtrar",
+    "denuncia",
+    "moderacao",
+    "lista",
+    "status",
+    "modulo",
+    "painel"
    ],
    "videos": [
     "JYDoZB_vyX8"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "ver",
     "filtrar",
     "denuncias",
+    "conteudo",
     "portal",
+    "lista",
+    "filtros",
+    "detalhe",
     "aprovacoes",
     "aplica",
-    "operacao",
-    "visitante",
-    "reclamou",
-    "anuncio",
-    "reclamacao",
-    "reclamaram",
-    "filtre",
-    "conteudo",
-    "abra",
-    "seus",
-    "detalhes"
+    "denuncia",
+    "moderacao",
+    "status",
+    "modulo",
+    "painel",
+    "veja",
+    "visitantes",
+    "fizeram",
+    "empresas",
+    "vagas",
+    "classificados",
+    "eventos"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/ver-denuncias.md"
@@ -12415,6 +15063,13 @@
    "modulo": "notificações",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "ver",
+    "notificacao",
+    "push",
+    "numeros",
+    "painel"
+   ],
    "videos": [
     "-ZLL7Cqwcok"
    ],
@@ -12429,6 +15084,9 @@
     "notificacoes",
     "push",
     "aplica",
+    "notificacao",
+    "numeros",
+    "painel",
     "consulte",
     "inscritos",
     "resultados",
@@ -12449,6 +15107,14 @@
    "modulo": "sorteios",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "ver",
+    "exportar",
+    "filtrar",
+    "sorteio",
+    "participante",
+    "lote"
+   ],
    "videos": [
     "uN4FHHHGgEs"
    ],
@@ -12460,6 +15126,10 @@
     "participantes",
     "sorteios",
     "aplica",
+    "filtrar",
+    "sorteio",
+    "participante",
+    "lote",
     "consulte",
     "baixe",
     "lista",
@@ -12479,6 +15149,13 @@
    "modulo": "utilidade",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "ver",
+    "voz do povo",
+    "relato",
+    "denuncia",
+    "contato"
+   ],
    "videos": [
     "1a0wZmdXDLk"
    ],
@@ -12492,11 +15169,13 @@
     "povo",
     "utilidade",
     "aplica",
+    "ver",
+    "denuncia",
+    "contato",
     "abra",
     "morador",
     "veja",
     "anexos",
-    "contato",
     "fornecidos"
    ],
    "base": "portal-da-cidade",
@@ -12513,11 +15192,19 @@
    "modulo": "utilidade",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "editar",
+    "voz do povo",
+    "denuncia",
+    "status",
+    "desfazer",
+    "relato"
+   ],
    "videos": [
     "1a0wZmdXDLk"
    ],
    "status": "rascunho-documental",
-   "revisado_em": "2026-10-24",
+   "revisado_em": "2026-10-27",
    "termos": [
     "tratar",
     "denuncia",
@@ -12525,9 +15212,12 @@
     "povo",
     "utilidade",
     "aplica",
+    "editar",
+    "status",
+    "desfazer",
+    "relato",
     "atualize",
     "situacao",
-    "relato",
     "sem",
     "alterar",
     "texto",
@@ -12547,6 +15237,13 @@
    "modulo": "utilidade",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "ver",
+    "voz do povo",
+    "relato",
+    "denuncia",
+    "painel"
+   ],
    "videos": [
     "1a0wZmdXDLk"
    ],
@@ -12560,6 +15257,9 @@
     "moradores",
     "utilidade",
     "aplica",
+    "relato",
+    "denuncia",
+    "painel",
     "consulte",
     "enviados",
     "pelos"
@@ -12579,6 +15279,14 @@
    "modulo": "acesso",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "criar",
+    "conta",
+    "cadastro",
+    "area do cliente",
+    "cliente",
+    "empresa"
+   ],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -12591,9 +15299,10 @@
     "ainda",
     "acesso",
     "aplica",
+    "cadastro",
+    "empresa",
     "nova",
     "cadastrar",
-    "empresa",
     "portal",
     "quem",
     "precisa",
@@ -12618,6 +15327,14 @@
    "modulo": "acesso",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "entrar",
+    "area do cliente",
+    "conta",
+    "cliente",
+    "senha",
+    "acesso negado"
+   ],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -12627,9 +15344,11 @@
     "cliente",
     "acesso",
     "aplica",
+    "conta",
+    "senha",
+    "negado",
     "acessar",
     "recursos",
-    "conta",
     "pela"
    ],
    "base": "portal-da-cidade",
@@ -12646,6 +15365,14 @@
    "modulo": "acesso",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "entrar",
+    "recuperar",
+    "parceiro",
+    "senha",
+    "conta",
+    "area do cliente"
+   ],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -12657,6 +15384,8 @@
     "parceiro",
     "acesso",
     "aplica",
+    "conta",
+    "cliente",
     "representante",
     "esqueceu",
     "veja",
@@ -12678,6 +15407,14 @@
    "modulo": "acesso",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "recuperar",
+    "senha",
+    "cliente",
+    "entrar",
+    "conta",
+    "area do cliente"
+   ],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -12689,12 +15426,12 @@
     "cliente",
     "acesso",
     "aplica",
+    "entrar",
+    "conta",
     "criar",
     "nova",
-    "conta",
     "voce",
-    "consegue",
-    "entrar"
+    "consegue"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/cliente/acesso/recuperar-senha-cliente.md"
@@ -12710,6 +15447,13 @@
    "modulo": "acesso",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "recuperar",
+    "senha",
+    "parceiro",
+    "entrar",
+    "conta"
+   ],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -12721,6 +15465,8 @@
     "parceiro",
     "acesso",
     "aplica",
+    "entrar",
+    "conta",
     "criar",
     "nova",
     "voce",
@@ -12750,6 +15496,13 @@
     "fazer logout",
     "trocar de conta"
    ],
+   "tags": [
+    "sair",
+    "conta",
+    "cliente",
+    "area do cliente",
+    "entrar"
+   ],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -12762,8 +15515,8 @@
     "conta",
     "logout",
     "trocar",
-    "exemplo",
     "entrar",
+    "exemplo",
     "outro",
     "mail"
    ],
@@ -12786,6 +15539,14 @@
     "alterar a senha",
     "troco minha senha"
    ],
+   "tags": [
+    "editar",
+    "senha",
+    "cliente",
+    "conta",
+    "area do cliente",
+    "perfil"
+   ],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -12800,7 +15561,9 @@
     "aplica",
     "alterar",
     "troco",
+    "editar",
     "conta",
+    "perfil",
     "conectada"
    ],
    "base": "portal-da-cidade",
@@ -12820,6 +15583,13 @@
     "pedidos-delivery",
     "pedido-ausente"
    ],
+   "tags": [
+    "cancelar",
+    "pedido",
+    "delivery",
+    "empresa",
+    "area do cliente"
+   ],
    "videos": [
     "viWXA8_mZf4"
    ],
@@ -12832,6 +15602,8 @@
     "empresa",
     "pedidos",
     "ausente",
+    "area",
+    "cliente",
     "ainda",
     "aguardando",
     "escrevendo",
@@ -12859,6 +15631,15 @@
     "mudar minha descrição",
     "onde edito meu perfil de colunista"
    ],
+   "tags": [
+    "editar",
+    "colunista",
+    "perfil",
+    "foto",
+    "cargo",
+    "descricao",
+    "rede social"
+   ],
    "videos": [
     "8VRaUwhuhO0"
    ],
@@ -12877,6 +15658,9 @@
     "trocar",
     "mudar",
     "edito",
+    "editar",
+    "rede",
+    "social",
     "nome",
     "contatos",
     "aparecem",
@@ -12900,6 +15684,14 @@
    "tipos": [
     "publicar-artigo"
    ],
+   "tags": [
+    "publicar",
+    "artigo",
+    "colunista",
+    "criar",
+    "perfil",
+    "area do cliente"
+   ],
    "videos": [
     "8VRaUwhuhO0"
    ],
@@ -12910,8 +15702,11 @@
     "artigo",
     "colunista",
     "artigos",
-    "completar",
+    "criar",
     "perfil",
+    "area",
+    "cliente",
+    "completar",
     "portal"
    ],
    "base": "portal-da-cidade",
@@ -12930,6 +15725,14 @@
    "tipos": [
     "virar-colunista"
    ],
+   "tags": [
+    "colunista",
+    "artigo",
+    "cadastro",
+    "plano",
+    "contratar",
+    "criar"
+   ],
    "videos": [
     "NELLwm_ClmA"
    ],
@@ -12941,15 +15744,18 @@
     "publicar",
     "artigos",
     "portal",
+    "artigo",
+    "cadastro",
+    "plano",
+    "contratar",
+    "criar",
     "entender",
     "ser",
     "comecar",
-    "cadastro",
     "cria",
     "conta",
     "leva",
-    "pagamento",
-    "plano"
+    "pagamento"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/cliente/colunista/virar-colunista.md"
@@ -12968,6 +15774,15 @@
     "pedidos-delivery",
     "pedido-ausente"
    ],
+   "tags": [
+    "ver",
+    "pedido",
+    "delivery",
+    "filtrar",
+    "whatsapp",
+    "empresa",
+    "cliente"
+   ],
    "videos": [
     "viWXA8_mZf4"
    ],
@@ -12982,12 +15797,12 @@
     "ausente",
     "ver",
     "filtrar",
+    "whatsapp",
+    "cliente",
     "periodo",
     "situacao",
     "falar",
-    "cliente",
     "pelo",
-    "whatsapp",
     "marcar",
     "concluido",
     "cancelar",
@@ -13014,6 +15829,15 @@
     "mudar meu e-mail",
     "meus dados"
    ],
+   "tags": [
+    "editar",
+    "dados",
+    "contato",
+    "whatsapp",
+    "perfil",
+    "classificado",
+    "pessoa fisica"
+   ],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -13033,6 +15857,9 @@
     "corrigir",
     "cpf",
     "mail",
+    "editar",
+    "perfil",
+    "classificado",
     "anuncia",
     "classificados",
     "troca",
@@ -13058,6 +15885,15 @@
     "mudar o sobre você",
     "apresentação nos anúncios"
    ],
+   "tags": [
+    "editar",
+    "foto",
+    "perfil",
+    "anunciante",
+    "classificado",
+    "pessoa fisica",
+    "bio"
+   ],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -13074,6 +15910,10 @@
     "mudar",
     "apresentacao",
     "anuncios",
+    "editar",
+    "perfil",
+    "classificado",
+    "bio",
     "aparecem",
     "junto",
     "seus",
@@ -13098,6 +15938,14 @@
     "publicidade no portal",
     "colocar minha propaganda"
    ],
+   "tags": [
+    "contratar",
+    "banner",
+    "publicidade",
+    "anunciante",
+    "pagamento",
+    "imagem"
+   ],
    "videos": [
     "Mu5xmUB7w9o",
     "bDAKcYvx4wo"
@@ -13115,6 +15963,9 @@
     "portal",
     "colocar",
     "propaganda",
+    "anunciante",
+    "pagamento",
+    "imagem",
     "voce",
     "compra",
     "aparecer",
@@ -13144,6 +15995,14 @@
     "publicar notícia da minha empresa",
     "notícia paga"
    ],
+   "tags": [
+    "contratar",
+    "patrocinada",
+    "noticia",
+    "materia",
+    "pagamento",
+    "empresa"
+   ],
    "videos": [
     "-Islw_h8OhU"
    ],
@@ -13159,9 +16018,9 @@
     "noticia",
     "empresa",
     "paga",
+    "pagamento",
     "voce",
     "portal",
-    "pagamento",
     "unico",
     "equipe",
     "escreve",
@@ -13183,6 +16042,14 @@
    "tipos": [
     "vagas-proprias"
    ],
+   "tags": [
+    "criar",
+    "publicar",
+    "vaga",
+    "empresa",
+    "salario",
+    "area do cliente"
+   ],
    "videos": [
     "525qfVrQ4iY",
     "D21vBBhzlhg"
@@ -13198,7 +16065,8 @@
     "vagas",
     "proprias",
     "publicar",
-    "empresa"
+    "empresa",
+    "salario"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/cliente/criar-vaga-nova.md"
@@ -13219,6 +16087,14 @@
     "colocar meu show na agenda",
     "salvar evento"
    ],
+   "tags": [
+    "criar",
+    "publicar",
+    "evento",
+    "pagamento",
+    "organizador",
+    "programacao"
+   ],
    "videos": [
     "aNqs6gSprvs",
     "TWKsO_iuxGE"
@@ -13236,11 +16112,15 @@
     "colocar",
     "show",
     "salvar",
+    "criar",
+    "publicar",
+    "pagamento",
+    "organizador",
+    "programacao",
     "voce",
     "cadastra",
     "paga",
     "divulgacao",
-    "pagamento",
     "sem",
     "mensalidade"
    ],
@@ -13261,6 +16141,15 @@
     "editar-perfil-empresa",
     "contato-incorreto"
    ],
+   "tags": [
+    "editar",
+    "empresa",
+    "contato",
+    "whatsapp",
+    "link",
+    "perfil",
+    "dados"
+   ],
    "videos": [
     "OInXMQlSWqw"
    ],
@@ -13277,6 +16166,8 @@
     "contato",
     "incorreto",
     "whatsapp",
+    "link",
+    "dados",
     "mail",
     "site",
     "dado",
@@ -13300,6 +16191,15 @@
    "modulo": "radar",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [
+    "preco",
+    "radar",
+    "cardapio",
+    "guia",
+    "delivery",
+    "aprovacao",
+    "empresa"
+   ],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -13313,6 +16213,7 @@
     "precisa",
     "aprovacao",
     "aplica",
+    "delivery",
     "saber",
     "colocar",
     "portal",
@@ -13336,6 +16237,14 @@
     "editar-perfil-empresa",
     "contato-incorreto"
    ],
+   "tags": [
+    "editar",
+    "empresa",
+    "descricao",
+    "guia",
+    "dados",
+    "perfil"
+   ],
    "videos": [
     "OInXMQlSWqw"
    ],
@@ -13351,6 +16260,7 @@
     "perfil",
     "contato",
     "incorreto",
+    "dados",
     "voce",
     "escreve",
     "faz",
@@ -13374,6 +16284,15 @@
     "visao-geral",
     "formas-de-anunciar"
    ],
+   "tags": [
+    "anunciante",
+    "guia",
+    "banner",
+    "publicidade",
+    "classificado",
+    "evento",
+    "visao geral"
+   ],
    "videos": [
     "4pc8AwOX0hA"
    ],
@@ -13387,6 +16306,12 @@
     "area",
     "cliente",
     "visao",
+    "anunciante",
+    "guia",
+    "banner",
+    "publicidade",
+    "classificado",
+    "evento",
     "conhecer",
     "empresa",
     "saber",
@@ -13410,6 +16335,14 @@
    "tipos": [
     "orientacao"
    ],
+   "tags": [
+    "area do cliente",
+    "visao geral",
+    "menu",
+    "painel",
+    "cliente",
+    "passo a passo"
+   ],
    "videos": [
     "UwPhKSt-mvM"
    ],
@@ -13424,6 +16357,9 @@
     "cidade",
     "inicio",
     "orientacao",
+    "menu",
+    "painel",
+    "passo",
     "conhecer",
     "fica",
     "cada",
@@ -13446,6 +16382,14 @@
     "anuncios-proprios",
     "status-do-anuncio"
    ],
+   "tags": [
+    "ver",
+    "editar",
+    "classificado",
+    "anuncio",
+    "anunciante",
+    "cliente"
+   ],
    "videos": [
     "S-YcDWiimEo",
     "4pc8AwOX0hA"
@@ -13460,11 +16404,14 @@
     "classificados",
     "status",
     "anuncio",
+    "ver",
+    "classificado",
+    "anunciante",
+    "cliente",
     "consultar",
     "atualizar",
     "encerrar",
     "area",
-    "cliente",
     "publicar",
     "novo",
     "veja",
@@ -13487,6 +16434,15 @@
     "cupons-da-empresa",
     "cupom-nao-aparece"
    ],
+   "tags": [
+    "cupom",
+    "criar",
+    "editar",
+    "empresa",
+    "guia",
+    "plano",
+    "desconto"
+   ],
    "videos": [
     "v7uO6kjwVOA"
    ],
@@ -13501,8 +16457,11 @@
     "cupom",
     "aparece",
     "criar",
-    "alterar",
+    "editar",
+    "guia",
+    "plano",
     "desconto",
+    "alterar",
     "pagina",
     "cada"
    ],
@@ -13522,6 +16481,14 @@
    "tipos": [
     "vagas-proprias"
    ],
+   "tags": [
+    "ver",
+    "editar",
+    "pausar",
+    "excluir",
+    "vaga",
+    "empresa"
+   ],
    "videos": [
     "525qfVrQ4iY"
    ],
@@ -13533,15 +16500,16 @@
     "vagas",
     "empresa",
     "proprias",
+    "ver",
+    "pausar",
+    "excluir",
+    "vaga",
     "consultar",
     "seus",
     "estados",
     "area",
     "cliente",
-    "pausar",
-    "excluir",
     "criar",
-    "vaga",
     "nova",
     "veja",
     "artigo"
@@ -13562,6 +16530,15 @@
    "tipos": [
     "cadastrar-empresa"
    ],
+   "tags": [
+    "criar",
+    "empresa",
+    "guia",
+    "categoria",
+    "horario",
+    "endereco",
+    "cadastro"
+   ],
    "videos": [
     "Uv6Zt7V9YN0"
    ],
@@ -13576,6 +16553,8 @@
     "endereco",
     "categoria",
     "horario",
+    "criar",
+    "cadastro",
     "ela",
     "aparecer",
     "aos",
@@ -13599,6 +16578,15 @@
    "tipos": [
     "completar-ficha"
    ],
+   "tags": [
+    "editar",
+    "empresa",
+    "guia",
+    "contato",
+    "foto",
+    "comodidade",
+    "link"
+   ],
    "videos": [
     "8EwkE_ascEw"
    ],
@@ -13614,6 +16602,11 @@
     "fotos",
     "comodidades",
     "links",
+    "editar",
+    "contato",
+    "foto",
+    "comodidade",
+    "link",
     "formas",
     "pagamento"
    ],
@@ -13633,6 +16626,14 @@
    "tipos": [
     "publicar-noticia"
    ],
+   "tags": [
+    "publicar",
+    "noticia",
+    "jornalista",
+    "criar",
+    "perfil",
+    "categoria"
+   ],
    "videos": [
     "by3tA7GUa88"
    ],
@@ -13643,8 +16644,10 @@
     "noticia",
     "jornalista",
     "noticias",
-    "preencher",
+    "criar",
     "perfil",
+    "categoria",
+    "preencher",
     "autor",
     "portal"
    ],
@@ -13674,6 +16677,18 @@
     "excluir conta",
     "verificação em duas etapas",
     "autenticação de dois fatores"
+   ],
+   "tags": [
+    "nao faz",
+    "funcao nova",
+    "area do cliente",
+    "visao geral",
+    "sugestao",
+    "cliente",
+    "enquete",
+    "newsletter",
+    "sms",
+    "avaliacao"
    ],
    "videos": [],
    "status": "rascunho-documental",
@@ -13708,6 +16723,10 @@
     "autenticacao",
     "dois",
     "fatores",
+    "funcao",
+    "nova",
+    "visao",
+    "sugestao",
     "estao",
     "coisas",
     "oferece",
@@ -13734,6 +16753,14 @@
     "parar de pagar o banner",
     "não renovar banner"
    ],
+   "tags": [
+    "cancelar",
+    "banner",
+    "renovacao",
+    "publicidade",
+    "cobrar",
+    "pagamento"
+   ],
    "videos": [
     "Mu5xmUB7w9o"
    ],
@@ -13748,6 +16775,8 @@
     "cancelar",
     "pagar",
     "renovar",
+    "cobrar",
+    "pagamento",
     "voce",
     "impede",
     "seja",
@@ -13772,6 +16801,14 @@
    "tipos": [
     "carteira-asaas"
    ],
+   "tags": [
+    "asaas",
+    "carteira",
+    "parceiro",
+    "comissao",
+    "cadastro",
+    "criar"
+   ],
    "videos": [
     "J7njZgIoVes"
    ],
@@ -13785,6 +16822,8 @@
     "receber",
     "comissoes",
     "perfil",
+    "comissao",
+    "cadastro",
     "criar",
     "conta",
     "copiar",
@@ -13809,6 +16848,13 @@
     "trocar senha do parceiro",
     "mudar minha senha de parceiro"
    ],
+   "tags": [
+    "editar",
+    "senha",
+    "parceiro",
+    "perfil",
+    "conta"
+   ],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -13821,6 +16867,8 @@
     "logado",
     "perfil",
     "mudar",
+    "editar",
+    "conta",
     "area",
     "voce",
     "sabe",
@@ -13842,6 +16890,14 @@
    "tipos": [
     "virar-parceiro"
    ],
+   "tags": [
+    "parceiro",
+    "cadastro",
+    "comissao",
+    "link de indicacao",
+    "empresa",
+    "criar"
+   ],
    "videos": [
     "DFVw9nSAZAQ",
     "-Krm1tXfeig"
@@ -13856,6 +16912,12 @@
     "empresas",
     "portal",
     "aplica",
+    "cadastro",
+    "comissao",
+    "link",
+    "indicacao",
+    "empresa",
+    "criar",
     "entender",
     "funciona",
     "programa",
@@ -13879,6 +16941,14 @@
    "tipos": [
     "orientacao"
    ],
+   "tags": [
+    "parceiro",
+    "link de indicacao",
+    "cliente",
+    "comissao",
+    "visao geral",
+    "painel"
+   ],
    "videos": [
     "-Krm1tXfeig"
    ],
@@ -13895,6 +16965,8 @@
     "comissoes",
     "inicio",
     "orientacao",
+    "cliente",
+    "comissao",
     "conhecer",
     "menus",
     "pegar"
@@ -13915,6 +16987,14 @@
    "tipos": [
     "vagas-proprias"
    ],
+   "tags": [
+    "pausar",
+    "reativar",
+    "excluir",
+    "vaga",
+    "empresa",
+    "despublicar"
+   ],
    "videos": [
     "525qfVrQ4iY"
    ],
@@ -13928,6 +17008,7 @@
     "empresa",
     "vagas",
     "proprias",
+    "despublicar",
     "tirar",
     "tempo",
     "coloca",
@@ -13952,6 +17033,14 @@
     "anuncios-proprios",
     "status-do-anuncio"
    ],
+   "tags": [
+    "pausar",
+    "vendido",
+    "excluir",
+    "classificado",
+    "anuncio",
+    "despublicar"
+   ],
    "videos": [
     "S-YcDWiimEo"
    ],
@@ -13967,6 +17056,8 @@
     "anuncios",
     "proprios",
     "status",
+    "classificado",
+    "despublicar",
     "tirar",
     "tempo",
     "item",
@@ -13992,6 +17083,14 @@
     "parar de pagar",
     "voltar ao grátis"
    ],
+   "tags": [
+    "cancelar",
+    "plano",
+    "assinatura de plano",
+    "renovacao",
+    "cancelamento",
+    "gratis"
+   ],
    "videos": [
     "yuJhd0nadEE"
    ],
@@ -14007,9 +17106,10 @@
     "assinatura",
     "parar",
     "pagar",
+    "renovacao",
+    "cancelamento",
     "voce",
     "cancela",
-    "renovacao",
     "continua",
     "ele",
     "ate",
@@ -14038,6 +17138,15 @@
     "quero um plano pago",
     "como pago o plano"
    ],
+   "tags": [
+    "contratar",
+    "plano",
+    "assinatura de plano",
+    "pagamento",
+    "guia",
+    "vaga",
+    "classificado"
+   ],
    "videos": [
     "yuJhd0nadEE"
    ],
@@ -14050,10 +17159,14 @@
     "aplica",
     "assinar",
     "pago",
+    "assinatura",
+    "pagamento",
+    "guia",
+    "vaga",
+    "classificado",
     "voce",
     "assina",
     "secao",
-    "guia",
     "comercial",
     "vagas",
     "classificados",
@@ -14077,6 +17190,13 @@
     "plano mais barato",
     "diminuir plano"
    ],
+   "tags": [
+    "plano",
+    "assinatura de plano",
+    "preco",
+    "renovacao",
+    "vencimento"
+   ],
    "videos": [
     "yuJhd0nadEE"
    ],
@@ -14091,6 +17211,10 @@
     "trocar",
     "barato",
     "diminuir",
+    "assinatura",
+    "preco",
+    "renovacao",
+    "vencimento",
     "voce",
     "passa",
     "pago",
@@ -14121,6 +17245,15 @@
     "plano grátis tem o quê",
     "por que meu telefone não aparece"
    ],
+   "tags": [
+    "plano",
+    "guia",
+    "empresa",
+    "gratis",
+    "preco",
+    "descricao",
+    "visao geral"
+   ],
    "videos": [
     "yuJhd0nadEE"
    ],
@@ -14141,12 +17274,16 @@
     "cardapio",
     "gratis",
     "aparece",
+    "empresa",
+    "preco",
+    "descricao",
+    "visao",
+    "geral",
     "voce",
     "entende",
     "nivel",
     "mostra",
     "pagina",
-    "empresa",
     "sistema",
     "vem",
     "tres",
@@ -14180,6 +17317,15 @@
     "aguardando pagamento",
     "plano vencido"
    ],
+   "tags": [
+    "pagar",
+    "fatura",
+    "pagamento",
+    "pendente",
+    "vencimento",
+    "pix",
+    "boleto"
+   ],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -14200,6 +17346,7 @@
     "aguardando",
     "pagamento",
     "vencido",
+    "vencimento",
     "voce",
     "paga",
     "esperando",
@@ -14233,6 +17380,14 @@
     "fazer upgrade",
     "mudar para plano maior"
    ],
+   "tags": [
+    "contratar",
+    "plano",
+    "assinatura de plano",
+    "pagamento",
+    "preco",
+    "upgrade"
+   ],
    "videos": [
     "yuJhd0nadEE"
    ],
@@ -14248,6 +17403,10 @@
     "upgrade",
     "mudar",
     "maior",
+    "contratar",
+    "assinatura",
+    "pagamento",
+    "preco",
     "voce",
     "troca",
     "mesma",
@@ -14273,6 +17432,14 @@
     "quando vence meu plano",
     "minha assinatura"
    ],
+   "tags": [
+    "ver",
+    "plano",
+    "assinatura de plano",
+    "preco",
+    "renovacao",
+    "vencimento"
+   ],
    "videos": [
     "yuJhd0nadEE"
    ],
@@ -14291,6 +17458,8 @@
     "tenho",
     "vence",
     "assinatura",
+    "renovacao",
+    "vencimento",
     "voce",
     "assina",
     "hoje",
@@ -14324,6 +17493,15 @@
     "anuncios-proprios",
     "status-do-anuncio"
    ],
+   "tags": [
+    "criar",
+    "publicar",
+    "classificado",
+    "anuncio",
+    "foto",
+    "preco",
+    "anunciante"
+   ],
    "videos": [
     "S-YcDWiimEo",
     "zHOxx6KFIrk"
@@ -14339,7 +17517,12 @@
     "classificados",
     "anuncios",
     "proprios",
-    "status"
+    "status",
+    "criar",
+    "classificado",
+    "foto",
+    "preco",
+    "anunciante"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/cliente/publicar-anuncio-novo.md"
@@ -14356,6 +17539,14 @@
    "modulo": "classificados",
    "aba": "Classificados",
    "tipos": [],
+   "tags": [
+    "classificado",
+    "anunciante",
+    "pessoa fisica",
+    "criar",
+    "cadastro",
+    "anuncio"
+   ],
    "videos": [
     "zHOxx6KFIrk"
    ],
@@ -14366,11 +17557,17 @@
     "anunciar",
     "classificados",
     "comecar",
+    "classificado",
+    "anunciante",
+    "pessoa",
+    "fisica",
+    "criar",
+    "cadastro",
+    "anuncio",
     "explicar",
     "sem",
     "complicacao",
     "colocar",
-    "anuncio",
     "venda",
     "portal"
    ],
@@ -14392,6 +17589,14 @@
     "contato-cliente-orcamento",
     "ver-pedidos-orcamento"
    ],
+   "tags": [
+    "orcamento",
+    "pedido",
+    "whatsapp",
+    "ver",
+    "empresa",
+    "enviar"
+   ],
    "videos": [
     "KiGU9vNKIwg"
    ],
@@ -14407,9 +17612,11 @@
     "contato",
     "cliente",
     "ver",
+    "pedido",
+    "empresa",
+    "enviar",
     "visitantes",
     "enviaram",
-    "empresa",
     "falar",
     "quem",
     "pediu"
@@ -14438,6 +17645,14 @@
     "evento não apareceu",
     "categoria não aparece"
    ],
+   "tags": [
+    "cache",
+    "atualizacao",
+    "editar",
+    "erro",
+    "no ar",
+    "painel"
+   ],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -14461,6 +17676,10 @@
     "evento",
     "categoria",
     "aparece",
+    "cache",
+    "atualizacao",
+    "editar",
+    "painel",
     "voce",
     "entende",
     "mudanca",
@@ -14485,6 +17704,14 @@
     "editar-perfil-empresa",
     "contato-incorreto"
    ],
+   "tags": [
+    "editar",
+    "logo",
+    "empresa",
+    "imagem",
+    "foto",
+    "perfil"
+   ],
    "videos": [
     "OInXMQlSWqw"
    ],
@@ -14500,9 +17727,10 @@
     "perfil",
     "contato",
     "incorreto",
+    "imagem",
+    "foto",
     "voce",
-    "troca",
-    "imagem"
+    "troca"
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/cliente/trocar-logo-da-empresa.md"
@@ -14519,6 +17747,7 @@
    "modulo": "acesso",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [],
    "videos": [
     "d2EweodukHg",
     "Uv6Zt7V9YN0"
@@ -14563,6 +17792,7 @@
     "buscar-anuncio",
     "filtros-de-classificados"
    ],
+   "tags": [],
    "videos": [
     "Ps1cgdLQ1FI"
    ],
@@ -14600,6 +17830,7 @@
    "tipos": [
     "doacoes"
    ],
+   "tags": [],
    "videos": [
     "8v1W-gtTRow"
    ],
@@ -14639,6 +17870,7 @@
     "contato-da-empresa",
     "horario-de-funcionamento"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -14671,6 +17903,7 @@
    "modulo": "utilidade",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -14709,6 +17942,7 @@
     "busca-de-cupom",
     "uso-de-cupom"
    ],
+   "tags": [],
    "videos": [
     "pBHdF3bd1QI",
     "v7uO6kjwVOA"
@@ -14748,6 +17982,7 @@
     "encontrar-empresa",
     "busca-sem-resultado"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -14779,6 +18014,7 @@
    "modulo": "utilidade",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [],
    "videos": [
     "G1B9mAWbCk4"
    ],
@@ -14819,6 +18055,7 @@
     "pedido-delivery",
     "loja-nao-disponivel"
    ],
+   "tags": [],
    "videos": [],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -14854,6 +18091,7 @@
     "procurar-vaga",
     "candidatura"
    ],
+   "tags": [],
    "videos": [
     "ufB3QTKfPsM"
    ],
@@ -14892,6 +18130,7 @@
    "modulo": "sorteios",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [],
    "videos": [
     "REgRSXekqpA"
    ],
@@ -14926,6 +18165,7 @@
    "modulo": "orcamentos",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [],
    "videos": [
     "VmEwdNZd7pw"
    ],
@@ -14964,6 +18204,7 @@
    "modulo": "radar",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [],
    "videos": [
     "msl8PXbZ9Ak"
    ],
@@ -14997,6 +18238,7 @@
    "modulo": "radar",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [],
    "videos": [
     "O3sdByn6xK8"
    ],
@@ -15027,6 +18269,7 @@
    "modulo": "radar",
    "aba": "nao-se-aplica",
    "tipos": [],
+   "tags": [],
    "videos": [
     "3FZrdVUN_Yk"
    ],
@@ -15068,6 +18311,7 @@
    "tipos": [
     "votar"
    ],
+   "tags": [],
    "videos": [
     "Be_8j63JLwI"
    ],

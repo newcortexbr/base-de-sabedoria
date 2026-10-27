@@ -29,14 +29,14 @@ function ler(caminho) {
   const id = campo('id'), titulo = campo('titulo')
   if (!id || !titulo) return null
   const objetivo = (corpo.match(/## objetivo\n([\s\S]*?)(\n## |$)/)?.[1] ?? '').trim()
-  const tipos = lista('tipo_problema')
+  const tipos = lista('tipo_problema'), tags = lista('tags')
   return {
     id, titulo, objetivo,
     publico: lista('publico'),
     produto: campo('produto') || null,
-    modulo: campo('modulo'), aba: campo('aba'), tipos, videos: lista('videos'),
+    modulo: campo('modulo'), aba: campo('aba'), tipos, tags, videos: lista('videos'),
     status: campo('status'), revisado_em: campo('revisado_em'),
-    termos: termos([titulo, campo('modulo'), campo('aba'), ...tipos, objetivo].join(' ').replace(/-/g, ' ')),
+    termos: termos([titulo, campo('modulo'), campo('aba'), ...tipos, ...tags, objetivo].join(' ').replace(/-/g, ' ')),
   }
 }
 

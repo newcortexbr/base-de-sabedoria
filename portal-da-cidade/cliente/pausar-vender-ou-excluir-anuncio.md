@@ -9,6 +9,13 @@ aba: Classificados
 tipo_problema:
   - anuncios-proprios
   - status-do-anuncio
+tags:
+  - pausar
+  - vendido
+  - excluir
+  - classificado
+  - anuncio
+  - despublicar
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

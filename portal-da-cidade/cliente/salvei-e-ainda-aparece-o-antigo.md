@@ -16,6 +16,13 @@ tipo_problema:
   - notícia não apareceu
   - evento não apareceu
   - categoria não aparece
+tags:
+  - cache
+  - atualizacao
+  - editar
+  - erro
+  - no ar
+  - painel
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

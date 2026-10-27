@@ -9,6 +9,14 @@ aba: Delivery
 tipo_problema:
   - pedidos-delivery
   - pedido-ausente
+tags:
+  - ver
+  - pedido
+  - delivery
+  - filtrar
+  - whatsapp
+  - empresa
+  - cliente
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

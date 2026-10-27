@@ -12,6 +12,14 @@ tipo_problema:
   - corrigir cpf
   - mudar meu e-mail
   - meus dados
+tags:
+  - editar
+  - dados
+  - contato
+  - whatsapp
+  - perfil
+  - classificado
+  - pessoa fisica
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

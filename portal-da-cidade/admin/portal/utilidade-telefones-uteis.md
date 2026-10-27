@@ -11,6 +11,16 @@ tipo_problema:
   - telefone da polícia
   - números de emergência
   - telefone da prefeitura
+tags:
+  - criar
+  - editar
+  - excluir
+  - telefone util
+  - utilidade
+  - voz do povo
+  - emergencia
+  - policia
+  - telefone
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

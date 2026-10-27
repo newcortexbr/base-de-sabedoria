@@ -11,6 +11,12 @@ tipo_problema:
   - sumiu do menu
   - não aparece no menu
   - seção sumiu do site
+tags:
+  - ligar
+  - desligar
+  - modulo
+  - parceiro
+  - portal
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

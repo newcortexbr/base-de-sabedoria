@@ -8,6 +8,13 @@ categoria: artigos
 aba: Artigos
 tipo_problema:
   - publicar-artigo
+tags:
+  - publicar
+  - artigo
+  - colunista
+  - criar
+  - perfil
+  - area do cliente
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: video

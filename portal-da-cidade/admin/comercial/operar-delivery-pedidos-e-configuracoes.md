@@ -7,6 +7,13 @@ modulo: delivery
 categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
+tags:
+  - delivery
+  - empresa
+  - pagamento
+  - entregar
+  - horario
+  - preco
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo
@@ -37,16 +44,17 @@ aqui você ajusta taxa, tempo, forma de pagamento e áreas de entrega do deliver
 7. Preencha `Tempo mínimo (min)`. [guia=delivery-configuracoes.tempo-minimo] [t=81]
 8. Preencha `Tempo máximo (min)`. [guia=delivery-configuracoes.tempo-maximo] [t=81]
 9. Preencha `Raio de entrega (km)`. [guia=delivery-configuracoes.raio] [t=86]
-10. Ajuste `Dinheiro (troco na entrega)`, conforme o que a loja aceita. [guia=delivery-configuracoes.dinheiro] [t=89]
-11. Ajuste `Cartão na entrega`, conforme o que a loja aceita. [guia=delivery-configuracoes.cartao] [t=92]
-12. Ajuste `PIX`, conforme o que a loja aceita. [guia=delivery-configuracoes.pix] [t=94]
-13. Se ligou `PIX`, preencha `Chave PIX`. [guia=delivery-configuracoes.chave-pix] [t=96]
-14. Em `Áreas de Atendimento`, escolha a `Cidade` da nova área. [guia=delivery-configuracoes.area-cidade] [t=107]
-15. Escolha `Município todo` ou `Bairros específicos` em `Cobertura`. [guia=delivery-configuracoes.area-cobertura] [t=109]
-16. Se escolheu `Bairros específicos`, selecione os `Bairros atendidos`. [guia=delivery-configuracoes.area-bairros] [t=110]
-17. Clique em `Adicionar área`. Repita os passos da nova área se atender outras cidades. [guia=delivery-configuracoes.adicionar-area] [t=113]
-18. Preencha `Mensagem de Boas-Vindas`, se quiser. [guia=delivery-configuracoes.boas-vindas] [t=115]
-19. Clique em `Salvar configurações`. [guia=delivery-configuracoes.salvar] [t=123]
+10. Role até `Formas de Pagamento`. [guia=delivery-configuracoes.pagamentos]
+11. Ajuste `Dinheiro (troco na entrega)`, conforme o que a loja aceita. [guia=delivery-configuracoes.dinheiro] [t=89]
+12. Ajuste `Cartão na entrega`, conforme o que a loja aceita. [guia=delivery-configuracoes.cartao] [t=92]
+13. Ajuste `PIX`, conforme o que a loja aceita. [guia=delivery-configuracoes.pix] [t=94]
+14. Se ligou `PIX`, preencha `Chave PIX`. [guia=delivery-configuracoes.chave-pix] [t=96]
+15. Em `Áreas de Atendimento`, escolha a `Cidade` da nova área. [guia=delivery-configuracoes.area-cidade] [t=107]
+16. Escolha `Município todo` ou `Bairros específicos` em `Cobertura`. [guia=delivery-configuracoes.area-cobertura] [t=109]
+17. Se escolheu `Bairros específicos`, selecione os `Bairros atendidos`. [guia=delivery-configuracoes.area-bairros] [t=110]
+18. Clique em `Adicionar área`. Repita os passos da nova área se atender outras cidades. [guia=delivery-configuracoes.adicionar-area] [t=113]
+19. Preencha `Mensagem de Boas-Vindas`, se quiser. [guia=delivery-configuracoes.boas-vindas] [t=115]
+20. Clique em `Salvar configurações`. [guia=delivery-configuracoes.salvar] [t=123]
 
 ## resultado
 

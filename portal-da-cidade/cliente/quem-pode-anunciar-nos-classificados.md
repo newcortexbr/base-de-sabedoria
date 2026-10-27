@@ -8,6 +8,13 @@ modulo: classificados
 categoria: classificados
 aba: Classificados
 tipo_problema: orientacao
+tags:
+  - classificado
+  - anunciante
+  - pessoa fisica
+  - criar
+  - cadastro
+  - anuncio
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

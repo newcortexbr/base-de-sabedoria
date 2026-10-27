@@ -7,6 +7,12 @@ modulo: Turismo
 categoria: conteúdo
 aba: Pontos Turísticos
 tipo_problema: cadastro
+tags:
+  - foto
+  - ponto turistico
+  - turismo
+  - galeria
+  - imagem
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

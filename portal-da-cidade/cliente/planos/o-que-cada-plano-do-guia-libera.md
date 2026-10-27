@@ -13,6 +13,14 @@ tipo_problema:
   - qual plano tem cardápio
   - plano grátis tem o quê
   - por que meu telefone não aparece
+tags:
+  - plano
+  - guia
+  - empresa
+  - gratis
+  - preco
+  - descricao
+  - visao geral
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

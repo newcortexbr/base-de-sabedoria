@@ -19,6 +19,17 @@ tipo_problema:
   - excluir conta
   - verificação em duas etapas
   - autenticação de dois fatores
+tags:
+  - nao faz
+  - funcao nova
+  - area do cliente
+  - visao geral
+  - sugestao
+  - cliente
+  - enquete
+  - newsletter
+  - sms
+  - avaliacao
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

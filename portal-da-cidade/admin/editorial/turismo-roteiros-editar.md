@@ -7,6 +7,11 @@ modulo: Turismo
 categoria: conteúdo
 aba: Roteiros
 tipo_problema: cadastro
+tags:
+  - roteiro
+  - turismo
+  - parada
+  - ponto turistico
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

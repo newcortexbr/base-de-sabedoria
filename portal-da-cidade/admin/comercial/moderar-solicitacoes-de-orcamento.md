@@ -7,6 +7,13 @@ modulo: orçamentos
 categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
+tags:
+  - orcamento
+  - aprovar
+  - recusar
+  - moderacao
+  - status
+  - pendente
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo
@@ -29,6 +36,17 @@ Aqui você lê e aprova pedidos de orçamento enviados pelos visitantes. Reprova
 3. Se quiser limitar o fim do período, preencha `Até`. [t=142] [guia=orcamentos-categorias.ate]
 4. Na linha do pedido, clique em `Ver detalhes` (ícone de olho). [t=116] [guia=orcamentos-categorias.ver-detalhes]
 5. Em um pedido `Aguardando aprovação`, clique em `Aprovar e enviar`. [t=133] [guia=orcamentos-categorias.detalhe-aprovar]
+
+## aprovar direto na linha
+
+1. Na parte `Conteúdo` do menu, em `Orçamentos Online`, clique em `Todas as Solicitações`. [guia=menu:/painel/orcamentos/categorias]
+2. Na linha do pedido que não está aprovado, clique no ícone de visto `Aprovar e enviar à empresa`. [guia=orcamentos-categorias.aprovar]
+
+## reprovar direto na linha
+
+1. Na parte `Conteúdo` do menu, em `Orçamentos Online`, clique em `Todas as Solicitações`. [guia=menu:/painel/orcamentos/categorias]
+2. Na linha do pedido que não está reprovado, clique no ícone de X `Reprovar — não vai para a empresa`. [guia=orcamentos-categorias.reprovar]
+3. Confirme em `Reprovar esta solicitação? A empresa não vai receber o pedido.`. [guia=confirmacao.confirmar]
 
 ## reprovar um pedido
 

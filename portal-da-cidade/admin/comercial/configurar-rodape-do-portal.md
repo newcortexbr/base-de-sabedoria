@@ -11,6 +11,13 @@ tipo_problema:
   - o que aparece lá embaixo
   - parte de baixo do site
   - final da página
+tags:
+  - rodape
+  - editar
+  - portal
+  - logo
+  - cor
+  - layout
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

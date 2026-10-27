@@ -7,6 +7,11 @@ modulo: notícias
 categoria: notícias
 aba: Notícias
 tipo_problema: operacao
+tags:
+  - noticia
+  - remover
+  - despublicar
+  - lista
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

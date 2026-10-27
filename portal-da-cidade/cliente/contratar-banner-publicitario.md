@@ -11,6 +11,13 @@ tipo_problema:
   - comprar banner
   - publicidade no portal
   - colocar minha propaganda
+tags:
+  - contratar
+  - banner
+  - publicidade
+  - anunciante
+  - pagamento
+  - imagem
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

@@ -7,6 +7,12 @@ modulo: parceiros
 categoria: admin
 aba: nao-se-aplica
 tipo_problema: operacao
+tags:
+  - comissao
+  - parceiro
+  - plano
+  - editar
+  - preco
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

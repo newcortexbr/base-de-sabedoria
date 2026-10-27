@@ -8,6 +8,13 @@ categoria: parceiro
 aba: nao-se-aplica
 tipo_problema:
   - virar-parceiro
+tags:
+  - parceiro
+  - cadastro
+  - comissao
+  - link de indicacao
+  - empresa
+  - criar
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: video

@@ -7,6 +7,13 @@ modulo: radar
 categoria: radar
 aba: nao-se-aplica
 tipo_problema: orientacao
+tags:
+  - radar
+  - preco
+  - mercado
+  - produto
+  - visao geral
+  - foto
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

@@ -12,6 +12,13 @@ tipo_problema:
   - dar baixa na fatura
   - cliente pagou em dinheiro
   - pagou na mão
+tags:
+  - pagar
+  - fatura
+  - pagamento
+  - comprovante
+  - cliente
+  - vencimento
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

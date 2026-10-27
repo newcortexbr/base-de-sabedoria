@@ -7,6 +7,11 @@ modulo: notícias
 categoria: admin
 aba: Notícias
 tipo_problema: cadastro
+tags:
+  - jornalista
+  - permissao
+  - noticia
+  - equipe
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

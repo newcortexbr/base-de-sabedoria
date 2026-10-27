@@ -7,8 +7,15 @@ modulo: utilidade
 categoria: utilidade
 aba: nao-se-aplica
 tipo_problema: operacao
+tags:
+  - editar
+  - voz do povo
+  - denuncia
+  - status
+  - desfazer
+  - relato
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 1a0wZmdXDLk
@@ -49,9 +56,13 @@ O relato fica Em análise. A lista Em aberto reúne Recebida e Em análise.
 
 - Resolvida e Arquivada deixam de aparecer em Em aberto; use o filtro para consultá-las.
 - No detalhe do relato, a mudança é pelo seletor `Status`.
+- Esta caixa recebe relatos de moradores sobre problemas da cidade. As denúncias de conteúdo (empresas, vagas, classificados e eventos) ficam em `Aprovações e Denúncias`, aba `Denúncias`.
+- O quadro de pendências do início do painel mostra só os relatos da Voz do Povo; as denúncias de conteúdo não entram nele.
 - O painel desta caixa de entrada não oferece ignorar, excluir ou bloquear. Essas ações pertencem às denúncias de conteúdo, em `Aprovações e Denúncias`.
 
 ## fontes
+
+- backend/portais/views_pendencias.py (pendências mostram só relatos da Voz do Povo)
 
 - `frontend/src/app/painel/utilidade/denuncias/page.tsx:30`
 - `frontend/src/app/painel/utilidade/denuncias/[id]/page.tsx:97`

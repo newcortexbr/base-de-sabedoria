@@ -13,6 +13,13 @@ tipo_problema:
   - trocar a senha
   - alterar a senha
   - troco minha senha
+tags:
+  - editar
+  - senha
+  - cliente
+  - conta
+  - area do cliente
+  - perfil
 modulo: acesso
 status: rascunho-documental
 revisado_em: 2026-10-24

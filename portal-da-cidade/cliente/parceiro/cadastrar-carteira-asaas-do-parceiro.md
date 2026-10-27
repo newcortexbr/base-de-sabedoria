@@ -10,6 +10,13 @@ categoria: parceiro
 aba: Perfil
 tipo_problema:
   - carteira-asaas
+tags:
+  - asaas
+  - carteira
+  - parceiro
+  - comissao
+  - cadastro
+  - criar
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: video

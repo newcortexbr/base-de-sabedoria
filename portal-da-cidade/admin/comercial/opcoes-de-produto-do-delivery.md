@@ -7,6 +7,14 @@ modulo: delivery
 categoria: admin
 aba: nao-se-aplica
 tipo_problema: cadastro
+tags:
+  - criar
+  - delivery
+  - produto
+  - tamanho
+  - adicional
+  - preco
+  - empresa
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

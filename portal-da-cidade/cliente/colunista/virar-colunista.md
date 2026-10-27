@@ -8,6 +8,13 @@ categoria: artigos
 aba: Artigos
 tipo_problema:
   - virar-colunista
+tags:
+  - colunista
+  - artigo
+  - cadastro
+  - plano
+  - contratar
+  - criar
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: video

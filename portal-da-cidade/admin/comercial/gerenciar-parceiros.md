@@ -11,6 +11,14 @@ tipo_problema:
   - cadastrar vendedor
   - revendedor do portal
   - quem vende o portal para mim
+tags:
+  - parceiro
+  - criar
+  - editar
+  - excluir
+  - plano
+  - desligar
+  - comissao
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo

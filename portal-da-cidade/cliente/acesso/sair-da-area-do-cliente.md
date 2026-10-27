@@ -10,6 +10,12 @@ tipo_problema:
   - como sair da conta
   - fazer logout
   - trocar de conta
+tags:
+  - sair
+  - conta
+  - cliente
+  - area do cliente
+  - entrar
 modulo: acesso
 status: rascunho-documental
 revisado_em: 2026-10-24

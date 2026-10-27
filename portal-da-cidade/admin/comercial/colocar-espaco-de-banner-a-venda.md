@@ -10,6 +10,13 @@ tipo_problema:
   - vender espaço de banner
   - preço do banner
   - valor da publicidade
+tags:
+  - banner
+  - espaco
+  - preco
+  - publicidade
+  - editar
+  - plano
 status: rascunho-documental
 revisado_em: 2026-10-25
 validacao: docs-e-codigo
@@ -30,8 +37,9 @@ Aqui você coloca uma posição de banner do portal à venda, definindo o preço
 1. No menu da esquerda, na parte `Comercial`, clique em `Meus Planos`. [guia=menu:/painel/planos]
 2. Na faixa dos banners, clique em `Gerenciar espaços`. [guia=planos.gerenciar]
 3. Clique na linha do espaço que deseja vender; os que ainda não têm preço mostram `Definir preço`. [guia=publicidade.espaco]
-4. Escolha a `Periodicidade` e preencha `Preço`. [guia=publicidade.periodicidade]
-5. Clique em `Criar preço` (ou `Salvar`, se o preço já existia). [guia=publicidade.salvar]
+4. Escolha a `Periodicidade`. [guia=publicidade.periodicidade]
+5. Preencha o `Preço`. [guia=publicidade.preco]
+6. Clique em `Criar preço` (ou `Salvar`, se o preço já existia). [guia=publicidade.salvar]
 
 ## resultado
 

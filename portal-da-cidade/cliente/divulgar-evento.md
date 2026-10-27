@@ -11,6 +11,13 @@ tipo_problema:
   - divulgar evento
   - colocar meu show na agenda
   - salvar evento
+tags:
+  - criar
+  - publicar
+  - evento
+  - pagamento
+  - organizador
+  - programacao
 status: rascunho-documental
 revisado_em: 2026-10-24
 validacao: docs-e-codigo
