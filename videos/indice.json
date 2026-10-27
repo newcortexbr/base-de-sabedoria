@@ -1,24 +1,24 @@
 {
- "gerado_em": "2026-10-26",
+ "gerado_em": "2026-10-27",
  "planilha": "https://docs.google.com/spreadsheets/d/1T-8uwGcdqZxnH0W3l86UP6S8v5IeeIX7fwVUuH7f5Uc",
  "totais": {
   "geral": {
    "linhas": 148,
    "com_topico": 105,
-   "com_link": 101,
-   "publicadas": 101,
-   "com_legenda": 99,
-   "com_artigo": 99,
-   "ids_distintos": 101
+   "com_link": 102,
+   "publicadas": 102,
+   "com_legenda": 100,
+   "com_artigo": 100,
+   "ids_distintos": 102
   },
   "por_aba": {
    "painel-admin": {
     "linhas": 64,
     "com_topico": 64,
-    "com_link": 63,
-    "publicadas": 63,
-    "com_legenda": 63,
-    "com_artigo": 63
+    "com_link": 64,
+    "publicadas": 64,
+    "com_legenda": 64,
+    "com_artigo": 64
    },
    "area-empresa-parceiro-portal": {
     "linhas": 26,
@@ -73,10 +73,10 @@
    "portal-da-cidade": {
     "linhas": 90,
     "com_topico": 86,
-    "com_link": 85,
-    "publicadas": 85,
-    "com_legenda": 84,
-    "com_artigo": 84
+    "com_link": 86,
+    "publicadas": 86,
+    "com_legenda": 85,
+    "com_artigo": 85
    },
    "dados-pj": {
     "linhas": 5,
@@ -128,16 +128,24 @@
    "id_planilha": 1,
    "topico": "Painel - Mostrando Todo Painel [Onboarding do Painel Admin]",
    "status": {
-    "gravacao": "Pendente",
+    "gravacao": "Gravado",
     "edicao": null,
     "thumbnail": "Pendente",
-    "publicacao": "Pendente"
+    "publicacao": "Publicado"
    },
-   "youtube_id": null,
+   "youtube_id": "jZUtDBYZ8DM",
    "link_drive_ou_pagina": null,
    "produto": "portal-da-cidade",
-   "observacao": "sem link do YouTube.",
-   "artigos": []
+   "observacao": null,
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261026",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/jZUtDBYZ8DM.md",
+   "artigos": [
+    "entender-o-trafego-do-portal",
+    "painel-inicio-administracao-e-pendencias"
+   ]
   },
   {
    "aba": "painel-admin",
@@ -3746,6 +3754,27 @@
   }
  ],
  "por_video": [
+  {
+   "youtube_id": "jZUtDBYZ8DM",
+   "titulo_youtube": null,
+   "duracao_s": null,
+   "upload_date": "20261026",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/jZUtDBYZ8DM.md",
+   "artigos": [
+    "entender-o-trafego-do-portal",
+    "painel-inicio-administracao-e-pendencias"
+   ],
+   "linhas": [
+    {
+     "aba": "painel-admin",
+     "linha": 2,
+     "id_planilha": 1,
+     "topico": "Painel - Mostrando Todo Painel [Onboarding do Painel Admin]",
+     "produto": "portal-da-cidade"
+    }
+   ]
+  },
   {
    "youtube_id": "JYDoZB_vyX8",
    "titulo_youtube": null,

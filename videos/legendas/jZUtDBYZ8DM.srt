@@ -1,0 +1,300 @@
+1
+00:00:00,160 --> 00:00:05,160
+Este é o painel do administrador do seu
+
+2
+00:00:02,399 --> 00:00:07,120
+portal. Daqui você controla o conteúdo,
+
+3
+00:00:05,160 --> 00:00:09,679
+os clientes, os planos e as
+
+4
+00:00:07,120 --> 00:00:12,280
+configurações do site. Ao entrar, você
+
+5
+00:00:09,679 --> 00:00:15,200
+cai no painel, a tela inicial, e no
+
+6
+00:00:12,280 --> 00:00:18,160
+canto de cima, o botão ver portal abre o
+
+7
+00:00:15,200 --> 00:00:20,519
+site como visitante vê. No topo fica o
+
+8
+00:00:18,160 --> 00:00:23,000
+tráfego do portal, as visitas ao site
+
+9
+00:00:20,519 --> 00:00:26,240
+público contadas pelo próprio portal.
+
+10
+00:00:23,000 --> 00:00:28,920
+Escolha o período, 7 dias, 30 dias, este
+
+11
+00:00:26,240 --> 00:00:31,400
+mês ou datas personalizadas e baixe o
+
+12
+00:00:28,920 --> 00:00:34,360
+relatório em PDF. Os quatro quadros
+
+13
+00:00:31,400 --> 00:00:37,120
+mostram os acessos ou páginas vistas: os
+
+14
+00:00:34,360 --> 00:00:39,600
+visitantes, o tempo médio na página e
+
+15
+00:00:37,120 --> 00:00:42,079
+quantas páginas cada visitante vê. A
+
+16
+00:00:39,600 --> 00:00:44,000
+etiqueta compara com o período anterior.
+
+17
+00:00:42,079 --> 00:00:46,520
+O gráfico mostra os acessos e os
+
+18
+00:00:44,000 --> 00:00:48,680
+visitantes dia a dia. O dia de hoje
+
+19
+00:00:46,520 --> 00:00:51,559
+ainda está contando, por isso a linha
+
+20
+00:00:48,680 --> 00:00:53,879
+fica tracejada. Logo abaixo, as sessões
+
+21
+00:00:51,559 --> 00:00:56,199
+mais acessadas do portal e as páginas
+
+22
+00:00:53,879 --> 00:00:58,800
+mais lidas no período com o tempo médio
+
+23
+00:00:56,199 --> 00:01:01,160
+de leitura. Em administração do portal
+
+24
+00:00:58,800 --> 00:01:04,040
+ficam os atalhos para criar uma notícia,
+
+25
+00:01:01,160 --> 00:01:06,280
+uma empresa, uma vaga, um anúncio, um
+
+26
+00:01:04,040 --> 00:01:08,560
+evento ou um ponto turístico e os
+
+27
+00:01:06,280 --> 00:01:11,280
+números do que está no ar. E em precisa
+
+28
+00:01:08,560 --> 00:01:13,920
+da sua atenção ficam as pendências, a
+
+29
+00:01:11,280 --> 00:01:16,439
+fila de aprovação, as faturas vencidas e
+
+30
+00:01:13,920 --> 00:01:19,040
+as denúncias de moradores. Cada uma tem
+
+31
+00:01:16,439 --> 00:01:21,759
+um botão que leva direto para resolver.
+
+32
+00:01:19,040 --> 00:01:23,920
+Agora o menu lateral. Em meus links
+
+33
+00:01:21,759 --> 00:01:26,600
+estão todos os endereços do portal,
+
+34
+00:01:23,920 --> 00:01:28,960
+prontos para copiar e divulgar. E em
+
+35
+00:01:26,600 --> 00:01:30,920
+aprovações e denúncias o que clientes e
+
+36
+00:01:28,960 --> 00:01:33,479
+moradores enviaram e espera a sua
+
+37
+00:01:30,920 --> 00:01:36,119
+decisão. No grupo Conteúdo ficam as
+
+38
+00:01:33,479 --> 00:01:38,960
+sessões do site, notícias e notícias
+
+39
+00:01:36,119 --> 00:01:42,119
+automáticas, guia comercial, radar de
+
+40
+00:01:38,960 --> 00:01:44,920
+preços, vagas de emprego, classificados,
+
+41
+00:01:42,119 --> 00:01:47,479
+guia turístico e eventos e artigos.
+
+42
+00:01:44,920 --> 00:01:51,000
+Também estão aqui orçamentos online, a
+
+43
+00:01:47,479 --> 00:01:53,680
+voz do povo, sorteios, doações, melhores
+
+44
+00:01:51,000 --> 00:01:56,280
+da cidade e banners publicitários. No
+
+45
+00:01:53,680 --> 00:01:59,399
+grupo comercial, você cuida do negócio,
+
+46
+00:01:56,280 --> 00:02:01,759
+meus clientes, financeiro, meus planos e
+
+47
+00:01:59,399 --> 00:02:04,360
+parceiros. E em sistema ficam as
+
+48
+00:02:01,759 --> 00:02:06,920
+notificações Push, o assistente de IA do
+
+49
+00:02:04,360 --> 00:02:09,599
+site e as configurações do portal. No
+
+50
+00:02:06,920 --> 00:02:11,800
+rodapé do menu, sugestões de funções
+
+51
+00:02:09,599 --> 00:02:14,440
+para dizer o que está faltando no portal
+
+52
+00:02:11,800 --> 00:02:16,840
+e logo abaixo seus dados de acesso e o
+
+53
+00:02:14,440 --> 00:02:19,160
+botão de sair. Ficou com dúvida? No
+
+54
+00:02:16,840 --> 00:02:21,879
+canto inferior direito fica o suporte do
+
+55
+00:02:19,160 --> 00:02:24,519
+portal com inteligência artificial. Ali
+
+56
+00:02:21,879 --> 00:02:26,959
+ficam as suas conversas. Clique em nova
+
+57
+00:02:24,519 --> 00:02:29,800
+conversa e escreva a sua pergunta do seu
+
+58
+00:02:26,959 --> 00:02:31,879
+jeito. A IA responde na hora com base no
+
+59
+00:02:29,800 --> 00:02:34,080
+manual do portal. E quando existe um
+
+60
+00:02:31,879 --> 00:02:36,599
+vídeo tutorial sobre o assunto, ela já
+
+61
+00:02:34,080 --> 00:02:39,400
+mostra o vídeo. Se preferir, clique em
+
+62
+00:02:36,599 --> 00:02:41,720
+me mostra na tela. Ela guia você passo a
+
+63
+00:02:39,400 --> 00:02:44,120
+passo com a imagem da tela. A cada
+
+64
+00:02:41,720 --> 00:02:46,159
+passo, responda conseguir ou não
+
+65
+00:02:44,120 --> 00:02:49,239
+conseguir. Também dá para anexar um
+
+66
+00:02:46,159 --> 00:02:51,040
+print da tela pelo botão de imagem. A Ia
+
+67
+00:02:49,239 --> 00:02:53,840
+lê o print e explica o que está
+
+68
+00:02:51,040 --> 00:02:56,280
+aparecendo. E se a IA não resolver, ou
+
+69
+00:02:53,840 --> 00:02:58,080
+se você pedir para falar com uma pessoa,
+
+70
+00:02:56,280 --> 00:03:00,280
+ela abre um chamado para a equipe de
+
+71
+00:02:58,080 --> 00:03:03,159
+suporte. Você acompanha o atendimento
+
+72
+00:03:00,280 --> 00:03:05,319
+pela sua área do cliente. Pronto, agora
+
+73
+00:03:03,159 --> 00:03:07,760
+você já sabe onde encontrar cada coisa
+
+74
+00:03:05,319 --> 00:03:11,200
+no painel. Nos vídeos de cada sessão,
+
+75
+00:03:07,760 --> 00:03:11,200
+mostramos tudo em detalhes.
+
