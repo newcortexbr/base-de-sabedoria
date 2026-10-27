@@ -9,7 +9,7 @@ aba: nao-se-aplica
 tipo_problema:
   - votar
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - Be_8j63JLwI
@@ -23,6 +23,7 @@ votar no favorito de cada categoria em Melhores da Cidade. Não precisa de cadas
 
 ## explicação
 - o vídeo diz que dá para votar quantas vezes quiser; quanto mais votos, mais perto do topo o favorito fica.
+- quando o cronômetro zera, a votação termina e quem tiver mais votos leva o troféu de melhor da cidade.
 - o ranking é atualizado na página e um cronômetro mostra quanto falta para a votação acabar. Na última hora o placar fica congelado: os votos continuam valendo, mas as posições ficam secretas até o resultado.
 
 ## passos

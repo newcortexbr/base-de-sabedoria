@@ -15,7 +15,7 @@ tags:
   - preco
   - desconto
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - pBHdF3bd1QI
@@ -43,6 +43,12 @@ Aqui você cria um cupom para uma empresa do Guia Comercial. Cada empresa tem um
 10. Informe `Valor`; no desconto percentual, use um número entre 0 e 100. [t=44] [guia=cupons.valor]
 11. Se quiser definir um prazo, preencha `Validade`. [t=46] [guia=cupons.validade]
 12. Clique em `Salvar cupom`. [t=49] [guia=cupons.salvar]
+
+## lista de cupons
+
+- colunas: `Capa`, `Empresa`, `Código`, `Selo`, `Validade` (com marca `Vencido` quando passou) e as ações `Editar` e `Remover`.
+- cupom é benefício do plano do Guia: só aparece no site se o plano da empresa inclui cupom e a validade não passou. sem `Validade` o cupom não vence.
+- a própria empresa pode gerenciar o cupom dela no painel do cliente; é o mesmo cupom. o administrador pode cadastrar ele mesmo ou deixar cada empresa cuidar do seu.
 
 ## resultado
 

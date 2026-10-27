@@ -20,7 +20,7 @@ tags:
   - descricao
   - rede social
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 8VRaUwhuhO0
@@ -47,6 +47,10 @@ trocar a foto, o nome, o cargo, a descrição e os contatos que aparecem ao lado
 ## resultado
 
 o perfil novo aparece ao lado dos seus artigos no portal.
+
+## onde o perfil aparece
+
+No quadro sobre o autor ao lado de cada artigo: foto, nome, cargo ou especialidade, descrição e, se preenchidos, site, redes e botão de WhatsApp.
 
 ## desvios
 

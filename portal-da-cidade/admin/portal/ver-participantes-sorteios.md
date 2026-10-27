@@ -15,7 +15,7 @@ tags:
   - participante
   - lote
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - uN4FHHHGgEs
@@ -38,6 +38,11 @@ Consulte os participantes e baixe a lista filtrada.
 ## resultado
 
 O arquivo CSV contém os participantes conforme os filtros aplicados.
+
+## colunas e filtros
+
+- Colunas: `Nome`, `WhatsApp`, `Número da sorte`, `Sorteio`, `Inscrito em` e `Ganhador`.
+- A lista filtra por sorteio (`Todos os sorteios`) e pela caixa `Só ganhadores`; `CSV` e `Excel` baixam o resultado filtrado.
 
 ## baixar em Excel
 

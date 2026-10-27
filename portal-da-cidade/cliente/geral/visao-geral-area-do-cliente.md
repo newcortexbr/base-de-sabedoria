@@ -16,7 +16,7 @@ tags:
   - cliente
   - passo a passo
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: video
 videos:
   - UwPhKSt-mvM
@@ -36,7 +36,7 @@ conhecer onde fica cada coisa na área do cliente.
 - o menu da esquerda é dividido em grupos. Ao lado de cada item, uma etiqueta mostra o plano que você tem na área.
 - `O que eu publico`:
   - `Guia Comercial`: a ficha da empresa no guia da cidade, com contatos, fotos e as páginas de serviços, cardápio ou catálogo.
-  - `Cupons`: aparece logo abaixo do Guia só quando o plano do Guia libera o cupom.
+  - `Cupons`: aparece logo abaixo do Guia só quando o plano do Guia libera o cupom; ali você cria o cupom de desconto que aparece na vitrine de cupons do portal.
   - `Agenda de Eventos`: shows, festas, cursos e qualquer evento da empresa.
   - `Vagas de Emprego`: publicar vagas e receber candidatos.
   - `Banners Publicitários`: contratar e acompanhar os banners nos espaços do portal.

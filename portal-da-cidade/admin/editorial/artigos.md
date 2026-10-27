@@ -14,7 +14,7 @@ tags:
   - descricao
   - foto
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - CRiUbh7wHdc
@@ -45,6 +45,20 @@ Acesso de administrador e um colunista da casa cadastrado. Para colunista de aut
 
 ## resultado
 O cadastro de colunista da casa envia o artigo para publicação. Não há opção de salvar como rascunho nesse fluxo. Confira `Publicado` na lista.
+
+## menu e lista
+
+- O menu `Artigos` tem 4 abas: `Lista de Artigos`, `Novo Artigo`, `Colunistas`, `Categorias`. Colunistas convidados escrevem para o portal.
+- A lista mostra contadores de `Publicados`, `Agendados`, `Rascunhos` e `Arquivados`. Filtra por título, colunista, categoria ou status. Em cada linha: abrir no site, editar, excluir.
+- Colunista da casa: `Publicar` leva o artigo direto ao ar.
+
+## categorias
+
+Organizam os temas (ex.: saúde, cultura, cidade). Cada categoria tem uma cor. Em `Categorias`, `Nova Categoria`: dar nome, escolher a cor e salvar.
+
+## no site
+
+A página pública de artigos mostra os colunistas, as categorias e os textos mais recentes.
 
 ## fontes
 - Código b2f62d3f: `frontend/src/components/painel/Sidebar.tsx:195`.

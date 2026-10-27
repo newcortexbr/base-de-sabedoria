@@ -20,7 +20,7 @@ tags:
   - conectar
   - configurar
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - lwaG-T87hJI
@@ -69,6 +69,23 @@ Ligado, o cliente paga por link e a confirmação é automática. Desligado, tod
 Conectar já liga a cobrança. O interruptor `Cobrar pelo Asaas` permite mudar essa escolha, sem apagar a chave. Se aparecer `A cobrança funciona, mas a confirmação automática não.`, siga o aviso da tela e confirme os pagamentos recebidos no Financeiro enquanto o problema persistir.
 
 Faturas que já foram cobradas por Pix não mudam de via automaticamente ao conectar. Links Asaas emitidos antes de desligar podem continuar ativos e confirmar o pagamento.
+
+## dicas da chave
+
+- A chave só aparece uma vez no Asaas, ao ser gerada: copie na hora e guarde em local seguro.
+- Nome da chave: livre (ex.: `Portal da Cidade`). Data de expiração: opcional.
+- O portal só gera cobranças; por isso a opção de saques via API fica desmarcada.
+
+## ao conectar
+
+- O portal testa a chave na hora e configura sozinho o aviso automático de pagamento (webhook) na conta Asaas.
+- Conectada, a chave fica escondida e mostra só o final. Clicar nela permite trocar. O quadro mostra também a data da conexão e `Testar conexão`.
+
+## o que o cliente e o admin veem
+
+- Cliente: página de pagamento do Asaas com valor, vencimento e escolha entre boleto, Pix, cartão de crédito ou débito.
+- Admin, no Financeiro: a fatura mostra `Cobrança enviada ao cliente` com o link para copiar e passa a paga sozinha quando o cliente paga.
+- Os dois caminhos convivem: com Asaas, pagamento feito por fora se confirma com `Já recebi`. Sem Asaas conectado ou com `Cobrar pelo Asaas` desligado, vale o quadro `Recebimento por Pix`.
 
 ## quando pedir ajuda
 

@@ -16,7 +16,7 @@ tags:
   - empresa
   - despublicar
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 525qfVrQ4iY
@@ -40,6 +40,10 @@ tirar uma vaga do ar por um tempo (pausar), colocá-la de volta (reativar) ou ap
 ## resultado
 
 vaga pausada vira `Pausada` e sai do site; reativar volta para `Ativa`. Vaga excluída some da lista e não pode ser recuperada.
+
+## quando usar
+
+Contratou: pause a vaga. Precisou de novo: reative, sem recadastrar.
 
 ## desvios
 

@@ -17,7 +17,7 @@ tags:
   - comodidade
   - link
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: video
 videos:
   - 8EwkE_ascEw
@@ -60,6 +60,10 @@ completar a ficha da empresa no Guia Comercial com contatos, fotos, comodidades,
 ## resultado
 
 a ficha mostra capa, logo, categoria, descrição, comodidades, formas de pagamento e botões de contato; mais abaixo, a galeria, o mapa com o endereço e o horário de funcionamento. O bloco de cupom tem artigo próprio ("criar, alterar e consultar o cupom da empresa").
+
+## dicas
+- quanto mais completa a ficha, melhor ela aparece para os clientes; o quadro `Sua ficha no site` mostra o quanto falta.
+- no celular, os botões de WhatsApp, ligar e delivery ficam à mão do cliente.
 
 ## desvios
 

@@ -7,8 +7,8 @@
    "com_topico": 105,
    "com_link": 102,
    "publicadas": 102,
-   "com_legenda": 100,
-   "com_artigo": 100,
+   "com_legenda": 102,
+   "com_artigo": 102,
    "ids_distintos": 102
   },
   "por_aba": {
@@ -25,8 +25,8 @@
     "com_topico": 22,
     "com_link": 22,
     "publicadas": 22,
-    "com_legenda": 21,
-    "com_artigo": 21
+    "com_legenda": 22,
+    "com_artigo": 22
    },
    "sistema-dados-pj": {
     "linhas": 5,
@@ -49,8 +49,8 @@
     "com_topico": 13,
     "com_link": 11,
     "publicadas": 11,
-    "com_legenda": 10,
-    "com_artigo": 10
+    "com_legenda": 11,
+    "com_artigo": 11
    },
    "conteudos-treinamento-do-franqueado": {
     "linhas": 16,
@@ -75,8 +75,8 @@
     "com_topico": 86,
     "com_link": 86,
     "publicadas": 86,
-    "com_legenda": 85,
-    "com_artigo": 85
+    "com_legenda": 86,
+    "com_artigo": 86
    },
    "dados-pj": {
     "linhas": 5,
@@ -99,8 +99,8 @@
     "com_topico": 13,
     "com_link": 11,
     "publicadas": 11,
-    "com_legenda": 10,
-    "com_artigo": 10
+    "com_legenda": 11,
+    "com_artigo": 11
    },
    "treinamento-do-franqueado": {
     "linhas": 16,
@@ -2181,8 +2181,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/FwKU_0GF6iU.md",
    "artigos": [
-    "editar-servico-da-empresa",
-    "gerenciar-servicos-da-empresa"
+    "cliente-guia-servicos-da-empresa"
    ]
   },
   {
@@ -2207,8 +2206,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/-cq2YnG0vis.md",
    "artigos": [
-    "editar-membro-da-equipe",
-    "gerenciar-equipe-da-empresa"
+    "cliente-guia-equipe-da-empresa"
    ]
   },
   {
@@ -2233,8 +2231,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/X2BpMhoYKiA.md",
    "artigos": [
-    "editar-produto-do-catalogo",
-    "gerenciar-catalogo-de-produtos"
+    "cliente-guia-catalogo-de-produtos"
    ]
   },
   {
@@ -2259,7 +2256,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/gmYWNfgX8LM.md",
    "artigos": [
-    "gerenciar-cardapio-digital"
+    "cliente-guia-cardapio-da-empresa"
    ]
   },
   {
@@ -2277,13 +2274,15 @@
    "youtube_id": "qpocVX6gjVA",
    "link_drive_ou_pagina": null,
    "produto": "portal-da-cidade",
-   "observacao": "título no YouTube é \"Tutorial Guia Empresa 09 Delivery Recebendo Pedidos\": não bate com o tópico da planilha (configuração e cardápio). vinculado pelo título do YouTube.",
+   "observacao": null,
    "titulo_youtube": null,
    "duracao_s": null,
-   "upload_date": null,
-   "legenda_fonte": null,
-   "conteudo": null,
-   "artigos": []
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/qpocVX6gjVA.md",
+   "artigos": [
+    "cliente-configurar-delivery-da-empresa"
+   ]
   },
   {
    "aba": "area-empresa-parceiro-portal",
@@ -2300,7 +2299,7 @@
    "youtube_id": "viWXA8_mZf4",
    "link_drive_ou_pagina": null,
    "produto": "portal-da-cidade",
-   "observacao": "link quebrado: o YouTube responde Not Found (privado ou removido). fora dos videos.json.",
+   "observacao": null,
    "titulo_youtube": null,
    "duracao_s": null,
    "upload_date": "20261021",
@@ -2333,8 +2332,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/aSRf0hwUrrc.md",
    "artigos": [
-    "editar-quarto-ou-suite",
-    "gerenciar-quartos-e-suites"
+    "cliente-guia-quartos-e-suites"
    ]
   },
   {
@@ -3030,13 +3028,19 @@
    "youtube_id": "CYLv3j1aaNM",
    "link_drive_ou_pagina": "https://areacliente.newcortex.site/negocios/11507a1c-7e97-437f-b6ca-4c0b096082bd/treinamento",
    "produto": "area-do-cliente",
-   "observacao": "publicado, sem artigo vinculado.",
+   "observacao": null,
    "titulo_youtube": null,
    "duracao_s": null,
-   "upload_date": null,
-   "legenda_fonte": null,
-   "conteudo": null,
-   "artigos": []
+   "upload_date": "20261026",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/CYLv3j1aaNM.md",
+   "artigos": [
+    "ac-treinamento-buscar",
+    "ac-treinamento-marcar-concluida-progresso",
+    "ac-treinamento-modulos-e-aulas",
+    "ac-treinamento-onde-fica",
+    "ac-treinamento-start"
+   ]
   },
   {
    "aba": "claude-videos-basicos-area-do-cliente",
@@ -5437,8 +5441,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/FwKU_0GF6iU.md",
    "artigos": [
-    "editar-servico-da-empresa",
-    "gerenciar-servicos-da-empresa"
+    "cliente-guia-servicos-da-empresa"
    ],
    "linhas": [
     {
@@ -5458,8 +5461,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/-cq2YnG0vis.md",
    "artigos": [
-    "editar-membro-da-equipe",
-    "gerenciar-equipe-da-empresa"
+    "cliente-guia-equipe-da-empresa"
    ],
    "linhas": [
     {
@@ -5479,8 +5481,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/X2BpMhoYKiA.md",
    "artigos": [
-    "editar-produto-do-catalogo",
-    "gerenciar-catalogo-de-produtos"
+    "cliente-guia-catalogo-de-produtos"
    ],
    "linhas": [
     {
@@ -5500,7 +5501,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/gmYWNfgX8LM.md",
    "artigos": [
-    "gerenciar-cardapio-digital"
+    "cliente-guia-cardapio-da-empresa"
    ],
    "linhas": [
     {
@@ -5516,10 +5517,12 @@
    "youtube_id": "qpocVX6gjVA",
    "titulo_youtube": null,
    "duracao_s": null,
-   "upload_date": null,
-   "legenda_fonte": null,
-   "conteudo": null,
-   "artigos": [],
+   "upload_date": "20261020",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/qpocVX6gjVA.md",
+   "artigos": [
+    "cliente-configurar-delivery-da-empresa"
+   ],
    "linhas": [
     {
      "aba": "area-empresa-parceiro-portal",
@@ -5559,8 +5562,7 @@
    "legenda_fonte": "automatica",
    "conteudo": "videos/conteudo/aSRf0hwUrrc.md",
    "artigos": [
-    "editar-quarto-ou-suite",
-    "gerenciar-quartos-e-suites"
+    "cliente-guia-quartos-e-suites"
    ],
    "linhas": [
     {
@@ -5934,10 +5936,16 @@
    "youtube_id": "CYLv3j1aaNM",
    "titulo_youtube": null,
    "duracao_s": null,
-   "upload_date": null,
-   "legenda_fonte": null,
-   "conteudo": null,
-   "artigos": [],
+   "upload_date": "20261026",
+   "legenda_fonte": "automatica",
+   "conteudo": "videos/conteudo/CYLv3j1aaNM.md",
+   "artigos": [
+    "ac-treinamento-buscar",
+    "ac-treinamento-marcar-concluida-progresso",
+    "ac-treinamento-modulos-e-aulas",
+    "ac-treinamento-onde-fica",
+    "ac-treinamento-start"
+   ],
    "linhas": [
     {
      "aba": "claude-videos-basicos-area-do-cliente",

@@ -16,11 +16,10 @@ tags:
   - guia
   - empresa
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - VV8BxCbIfz4
-  - gmYWNfgX8LM
 ---
 
 ## objetivo
@@ -64,6 +63,17 @@ O prato é salvo na seção escolhida e aparece o aviso `Prato salvo`. A publica
 - Use as setas para mudar a ordem das seções, o lápis para renomear ou editar e a lixeira para excluir.
 - A própria empresa também pode cuidar do cardápio pela área do cliente; a tela é a mesma.
 - Cardápio digital é só para consulta. A venda com carrinho fica no `Cardápio do delivery`.
+
+## campos e dicas
+- o cardápio aparece para empresas cuja categoria tem o recurso cardápio (ex.: restaurantes, bares, lanchonetes, delivery).
+- o topo da tela mostra o total de seções e de pratos. cada seção mostra se está publicada e quantos pratos estão no ar. a nova seção entra no fim da lista.
+- foto do prato: JPG ou PNG, até 10 MB. prato com foto chama mais atenção.
+- `Descrição`: ingredientes ou modo de preparo, curta.
+- `Preço promocional (R$)`: no site o preço antigo aparece riscado ao lado do novo.
+- `Tags`: `Mais pedido`, `Novidade`, `Veg` (vegetariano) e `Recomendado`; viram selos coloridos no prato.
+- para tirar um prato do ar por um tempo sem apagar, use o selo `Publicado`; foto e dados continuam salvos.
+- no portal: a página da empresa ganha o bloco `Cardápio digital` (número de seções e itens) com `Ver cardápio completo`, e um botão de destaque no topo da ficha. o cardápio abre com capa e logo, busca, seções em abas e cada prato com foto, descrição, preço e selos; no rodapé ficam os botões configurados. o cliente pode filtrar por seção.
+- mantenha fotos e preços atualizados.
 
 ## quando pedir ajuda
 

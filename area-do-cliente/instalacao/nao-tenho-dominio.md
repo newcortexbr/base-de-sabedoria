@@ -12,7 +12,7 @@ tipo_problema:
   - registrar-dominio
   - qual-endereco
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - DpFk0q7myio
@@ -42,6 +42,13 @@ você tem um domínio seu e pode continuar a instalação.
 ## desvios
 - "Vídeo disponível em breve": o vídeo ainda não foi publicado. Siga os passos 4 e 5 mesmo assim.
 - a tela pede para confirmar que o domínio "é meu, está registrado e pago". Só marque depois de concluir o registro.
+
+## escolher e registrar
+
+- O registrador não interfere na instalação; Registro.br e Hostinger são os recomendados. Depois de instalado o portal, o domínio não pode mais ser trocado: escolha com calma.
+- Registro.br (para `.com.br`): digite o nome em `pesquisar domínio` e dê Enter. `Domínio não disponível` = já registrado: tente outra combinação (ex.: sigla do estado). Se `disponível para registro`: escolha o período (ex.: 1 ano), clique em `Registrar`, informe CPF ou CNPJ do titular e pague na conta do Registro.br.
+- Hostinger (outras terminações, como `.com` ou `.net`): pesquise o nome e veja as terminações. Preço baixo muitas vezes só vale por 3 anos (veja o aviso sob o preço). Não precisa contratar hospedagem: o portal roda na plataforma. No carrinho, confira `período` (costuma vir em 3 anos, e a renovação pode sair mais cara; para 1 ano, escolha na lista) e o total antes de concluir.
+- Só continue a instalação depois do pagamento do domínio concluído; sem domínio pago o portal não vai ao ar.
 
 ## quando pedir ajuda
 se tiver dúvida sobre qual nome escolher ou onde registrar, abra um chamado em `Suporte` com `Assunto` `Instalação e domínio`.

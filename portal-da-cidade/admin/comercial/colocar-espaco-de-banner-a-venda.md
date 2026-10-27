@@ -18,7 +18,7 @@ tags:
   - editar
   - plano
 status: rascunho-documental
-revisado_em: 2026-10-25
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - MbMNv59z7Bg
@@ -44,6 +44,17 @@ Aqui você coloca uma posição de banner do portal à venda, definindo o preço
 ## resultado
 
 Aparece `Preço salvo` e o espaço passa a contar como à venda.
+
+## espaços e preços
+
+- Em `Gerenciar espaços`, a lista da esquerda traz as páginas do portal: página inicial, notícias, Guia comercial, vagas, classificados, turismo, eventos, orçamentos, artigos e cupons. O número ao lado é a quantidade de espaços à venda; bolinha verde = todos com preço, laranja = alguns, cinza = nenhum.
+- Ao escolher a página, a lista mostra os espaços numerados, com o tamanho da arte e o preço. O desenho da página usa os mesmos números: verde = à venda, pontilhado = fora de venda.
+- Exemplos: página inicial, espaço 1 é o topo e 2, 3 e 4 são blocos de cabeçalho e outdoor abaixo. Notícias: 1 topo, 2 entre os parágrafos da matéria, 3 lateral. Guia comercial: o espaço 2 só aparece dentro das páginas de categoria (ex.: restaurantes). Em turismo, cada espaço explica sua regra (ex.: até três anunciantes por ponto turístico).
+- Cada espaço aceita até três preços, um por periodicidade (semanal, mensal, semestral, anual); o preço tem um nome. `Adicionar preço` cria outra opção (ex.: mensal e semestral com desconto). Clicar no espaço permite alterar nome, periodicidade e valor e `Salvar`, ou `Excluir` o preço.
+
+## onde o cliente vê
+
+Só posições com preço aparecem para o cliente contratar em `Banners Publicitários` na área do cliente. Cada cartão mostra o desenho do lugar e o preço a partir de; o espelho ao lado mostra onde a marca aparece, no computador e no celular, e a arte já na proporção real. O cliente escolhe o período entre os preços criados, confere o total e paga. Depois de pago, o banner entra na fila de aprovação do administrador.
 
 ## fontes
 

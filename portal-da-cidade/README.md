@@ -2,7 +2,9 @@
 
 status geral: rascunhos documentais. nenhum artigo está pronto para ingestão. não houve validação de interface, navegação, comportamento ou produção.
 
-contagens por público: usuario — 14 artigos; cliente — 41 artigos, dos quais 4 exclusivos para `parceiro-comercial`; admin — 136 artigos. total: 191 artigos. arquivos em `interno/` são relatórios e proposta, não artigos de atendimento. nunca carregar conteúdo de `interno/` no chat.
+contagens por público: usuario — 14 artigos; cliente — 47 artigos, dos quais 4 exclusivos para `parceiro-comercial`; admin — 141 artigos. total: 202 artigos. arquivos em `interno/` são relatórios e proposta, não artigos de atendimento. nunca carregar conteúdo de `interno/` no chat.
+
+admin e cliente: o que existe para os dois tem um artigo de cada; artigo de admin não reusa artigo, caminho nem vídeo da área do cliente (regra da base, ver README da raiz).
 
 escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem mandar o cliente seguir instruções da tela; o chat guia uma ação por vez. vídeos ficam em `videos.json` e só aparecem no chat quando vinculados no campo `videos:` de um artigo (primeiro da lista = mais específico da tarefa).
 
@@ -26,7 +28,7 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 ### acesso
 - [criar conta para empresa](usuario/acesso/criar-conta-empresa.md)
 
-## cliente (41)
+## cliente (47)
 
 ### tarefas da conta
 - [visão geral da Área do Cliente do Portal](cliente/geral/visao-geral-area-do-cliente.md)
@@ -39,6 +41,12 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [virar representante parceiro](cliente/parceiro/virar-representante-parceiro.md)
 - [visão geral do painel do parceiro](cliente/parceiro/visao-geral-painel-do-parceiro.md) — exclusivo a `parceiro-comercial`.
 - [cadastrar a carteira Asaas do parceiro](cliente/parceiro/cadastrar-carteira-asaas-do-parceiro.md) — exclusivo a `parceiro-comercial`.
+- [criar a página de serviços da empresa](cliente/guia-comercial/servicos-da-empresa.md)
+- [criar a página da equipe da empresa](cliente/guia-comercial/equipe-da-empresa.md)
+- [montar o catálogo de produtos da empresa](cliente/guia-comercial/catalogo-de-produtos-da-empresa.md)
+- [montar o cardápio digital da empresa](cliente/guia-comercial/cardapio-da-empresa.md)
+- [cadastrar quartos e suítes da hospedagem](cliente/guia-comercial/quartos-e-suites-da-empresa.md)
+- [montar a loja de delivery da empresa (ligar, WhatsApp, taxa, pagamento, bairros, cardápio)](cliente/guia-comercial/configurar-delivery-da-empresa.md)
 - [consultar pedidos de Delivery](cliente/consultar-pedidos-delivery.md)
 - [cancelar um pedido de delivery da empresa](cliente/cancelar-pedido-delivery.md)
 - [atualizar os contatos da empresa](cliente/editar-perfil-publico-da-empresa.md)
@@ -56,7 +64,7 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [divulgar um evento na agenda do portal](cliente/divulgar-evento.md)
 - [contratar uma matéria patrocinada](cliente/contratar-materia-patrocinada.md)
 - [atualizar meus dados de contato (anunciante pessoa física)](cliente/conta/atualizar-meus-dados.md)
-- [salvei, mas o site ainda mostra o antigo](cliente/salvei-e-ainda-aparece-o-antigo.md) — vale também para o admin.
+- [salvei, mas o site ainda mostra o antigo](cliente/salvei-e-ainda-aparece-o-antigo.md)
 - [o que o portal não faz (área do cliente)](cliente/o-que-o-portal-nao-faz.md)
 
 ### planos e pagamento
@@ -75,11 +83,12 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [entrar na área de parceiro comercial](cliente/acesso/entrar-recuperar-parceiro.md) — exclusivo a `parceiro-comercial`; não carregar para cliente comum.
 - [recuperar a senha da área de parceiro comercial](cliente/acesso/recuperar-senha-parceiro.md) — exclusivo a `parceiro-comercial`; não carregar para cliente comum.
 
-## admin (136)
+## admin (141)
 
 ### acesso
 - [entrar no painel](admin/acesso/entrar-painel.md)
 - [trocar a minha senha do painel](admin/acesso/trocar-a-propria-senha.md)
+- [sair do painel](admin/acesso/sair-do-painel.md)
 - [esqueci a senha do painel](admin/acesso/esqueci-a-senha-do-painel.md)
 
 ### editorial
@@ -143,6 +152,8 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [mudar a situação de uma empresa do Guia](admin/comercial/mudar-situacao-de-empresa-do-guia.md)
 - [localizar e gerenciar vagas de emprego](admin/comercial/gerenciar-vagas-e-classificados.md)
 - [excluir uma vaga de emprego](admin/comercial/excluir-vaga.md)
+- [pausar, encerrar ou reativar uma vaga](admin/comercial/pausar-encerrar-ou-reativar-vaga.md)
+- [pausar, encerrar ou reativar um classificado](admin/comercial/pausar-encerrar-ou-reativar-classificado.md)
 - [localizar e gerenciar classificados](admin/comercial/gerenciar-classificados.md)
 - [excluir um anúncio classificado](admin/comercial/excluir-classificado.md)
 - [gerenciar banners publicitários](admin/comercial/gerenciar-banners-publicitarios.md)
@@ -211,6 +222,7 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [Radar de Preços: o que é e como funciona](admin/portal/radar-de-precos.md)
 - [aprovar as fotos enviadas ao Radar de Preços](admin/portal/radar-fotos-enviadas.md)
 - [resolver preços retidos do Radar de Preços](admin/portal/radar-precos-retidos.md)
+- [preços colocados por empresas e o que passa pela aprovação](admin/portal/precos-enviados-por-empresas.md)
 - [aprovar e juntar mercados do Radar de Preços](admin/portal/radar-mercados.md)
 - [ver e lançar preços no Radar de Preços](admin/portal/radar-produtos-e-precos.md)
 - [mudar as categorias do Radar de Preços](admin/portal/radar-categorias.md)
@@ -220,6 +232,7 @@ escrita dos artigos: o passo a passo deve ser completo no próprio artigo, sem m
 - [cadastrar linhas de ônibus](admin/portal/utilidade-linhas-de-onibus.md)
 - [pedir uma função nova (Sugestões de Funções)](admin/portal/sugestoes-de-funcoes.md)
 - [o que o portal não faz (painel)](admin/portal/o-que-o-portal-nao-faz.md)
+- [salvei no painel, mas o site ainda mostra o antigo](admin/portal/salvei-e-ainda-aparece-o-antigo.md)
 - [revisão por transcrições (2026-10-19)](interno/transcricoes/REVISAO.md) — interno, não carregar no chat.
 
 ## material interno — não carregar no chat

@@ -18,7 +18,7 @@ tags:
   - empresa
   - enviar
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - KiGU9vNKIwg
@@ -41,6 +41,12 @@ ver os pedidos de orçamento que visitantes enviaram para a empresa e falar com 
 5. Em cada cartão, veja o título, a data, o nome e o telefone de quem pediu. Para ver a descrição, as fotos e o link, clique em `Ver pedido completo`. [t=72] [guia=pedidos-orcamento.ver-completo]
 6. Clique em `Responder no WhatsApp`. A conversa abre com uma mensagem pronta; complete e envie. [t=93] [guia=pedidos-orcamento.whatsapp]
 7. Para organizar o que já leu, clique em `Marcar como visto`. [t=87] [guia=pedidos-orcamento.marcar-visto]
+
+## de onde vêm os pedidos e o que o cartão mostra
+
+- o visitante entra em `Orçamentos` no portal, conta o que precisa por texto ou áudio e escolhe o tipo de serviço. o portal confere o pedido antes de enviar; depois de aprovado, ele chega a todas as empresas daquele serviço que têm pedidos de orçamento no plano do Guia Comercial.
+- o cartão mostra título, selo `Novo` ou `Visto`, serviço, começo da descrição, bairro e cidade, nome e telefone de quem pediu. `Ver pedido completo` abre a descrição inteira e as fotos que o cliente enviou.
+- dica: deixe a área aberta, acompanhe os pedidos novos e responda rápido.
 
 ## resultado esperado
 o WhatsApp abre com a conversa de quem pediu o orçamento. o pedido passa a `Visto` ao abrir o pedido, ao clicar em `Responder no WhatsApp` ou em `Marcar como visto`. os pedidos lidos ficam na aba `Já vistos`.

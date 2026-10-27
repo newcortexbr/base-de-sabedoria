@@ -16,7 +16,7 @@ tags:
   - link
   - editar
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - VV8BxCbIfz4
@@ -61,6 +61,13 @@ As opções de botão e tema são gravadas ao alterá-las. O comando de QR code 
 - Use as setas para mudar a ordem das seções, o lápis para renomear ou editar e a lixeira para excluir.
 - A própria empresa também pode cuidar do cardápio pela área do cliente; a tela é a mesma.
 - Cardápio digital é só para consulta. A venda com carrinho fica no `Cardápio do delivery`; o botão `Fazer meu pedido` apenas leva o cliente até lá. Com os dois botões desligados, o cardápio fica só para consulta.
+
+## campos
+- `Fazer meu pedido` leva o cliente ao delivery da loja. `Chamar no WhatsApp` abre a conversa com o número da empresa. os dois ficam no rodapé do cardápio.
+- se o restaurante usa o cardápio só nas mesas, desligue os dois botões: o cliente vê pratos e preços sem botão de pedido.
+- `Aparência do cardápio`: `Claro` ou `Escuro`; um aviso `em uso` mostra o tema atual. o escuro combina com fotos de carne (ex.: churrascaria).
+- `Tamanho da placa`: `A4` (parede), `A5` (balcão, padrão), `A6` (mesa) ou `Adesivo` (10 × 10 cm). cole a placa nas mesas, no balcão ou na vitrine.
+- `Baixar imagem` baixa o QR code; `Copiar link` copia o endereço do cardápio, para enviar por WhatsApp e redes sociais.
 
 ## quando pedir ajuda
 

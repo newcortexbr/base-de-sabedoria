@@ -15,7 +15,7 @@ tags:
   - lote
   - cadastro
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - jl7GHmHVJcM
@@ -44,6 +44,15 @@ Prepare o arquivo `Base para Portal` no extrator do Google Maps antes de começa
 5. Clique em `Importar … empresas`, com a quantidade mostrada na tela. Aguarde a conclusão. [guia=guia-empresas-importar.importar] [t=312]
 6. No resultado, clique em `Ver empresas`. [guia=guia-empresas-importar.ver-empresas] [t=440]
 
+## revisão (depois de enviar a planilha)
+
+- cartões: `Total de linhas`, `Novas`, `Já existem` (serão ignoradas) e `Com problema` (a lista `Linhas com problema` mostra linha, nome e motivo).
+- o Google devolve a categoria em inglês e outras categorias do mesmo ramo (ex.: ao extrair imobiliária vêm também corretores). o portal agrupa por categoria do Google, mostra o nome em português quando conhece e já preenche a categoria do portal que reconhece (marca `sugestão`).
+- o que o portal não reconhece fica marcado com `Escolha a categoria` e bloqueia `Importar … empresas` até ser escolhido. as opções são só as categorias já existentes no portal.
+- o portal lembra a escolha (`escolhido na importação anterior`) nas próximas importações.
+- durante a importação mostra `Criadas`, `Ignoradas` e `Com erro`; há `Pausar`. não feche a aba até concluir. `Avisos` lista dados faltantes por empresa (ex.: foto não importada; a foto pode ser enviada na edição da empresa).
+- no resultado, além de `Ver empresas` e `Desfazer importação`, `Importar outra planilha` volta ao envio.
+
 ## retomar uma importação interrompida
 
 1. Depois de abrir a importação pelos dois primeiros passos, abra o lote em `Importações anteriores`. [guia=guia-empresas-importar.abrir-lote]
@@ -58,7 +67,7 @@ O portal apresenta o resultado do lote. O número importado pode ser menor que o
 - Se a importação for interrompida, reabra o lote em `Importações anteriores` e use `Continuar`; o lote retoma de onde parou.
 - A revisão não cria categorias novas: escolha uma categoria existente para cada grupo pendente.
 - `Desfazer importação` tem artigo próprio.
-- Empresas importadas seguem as regras de plano aplicáveis a essa origem. Não suponha que toda empresa importada terá só nome e endereço.
+- Empresas importadas seguem as regras de plano aplicáveis a essa origem. Sem plano pago, a página pública da empresa mostra pouco (nome, endereço e, se vierem no arquivo, descrição e horário); telefone, galeria de fotos e demais campos pagos só aparecem após o upgrade. Estratégia recomendada: importar para ter o portal com empresas e depois oferecer o upgrade. Não suponha que toda empresa importada terá só nome e endereço.
 
 ## quando pedir ajuda
 

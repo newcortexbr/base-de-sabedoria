@@ -20,7 +20,7 @@ tags:
   - voz do povo
   - itinerario
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 1a0wZmdXDLk
@@ -48,6 +48,10 @@ Cadastre as linhas de ônibus, com itinerário e horários.
 ## resultado
 
 O cadastro entra na lista. A presença no site depende da seção estar ligada e do cadastro estar visível.
+
+## onde aparece
+
+As linhas ficam na página pública `A Voz do Povo`, onde o morador as consulta.
 
 ## editar um cadastro
 

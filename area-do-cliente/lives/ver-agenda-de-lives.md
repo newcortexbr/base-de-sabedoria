@@ -10,7 +10,7 @@ tipo_problema:
   - proxima-live
   - quando-tem-live
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 3i_JcDTTKtA
@@ -41,6 +41,14 @@ você vê a lista `Próximas lives` ou `Lives do dia`, com data, horário e o bo
 - `Ainda não há lives programadas. Avisaremos quando a próxima for publicada.`: não há live marcada.
 - `Nenhuma live neste dia.`: escolha outro dia.
 - `As lives estão indisponíveis enquanto houver pendência financeira.`: o negócio está suspenso. o acesso volta quando o pagamento for confirmado.
+
+## o que a tela traz
+
+- Lives são encontros ao vivo com os especialistas da New Cortex: o cliente tira dúvidas e resolve problemas direto com eles. Participar ajuda a chegar aos melhores resultados com o portal.
+- No topo, o `Guia das lives` explica como funcionam os encontros (assistir antes de participar).
+- Destaque `Próxima live`: tema, dia e horário de Brasília. No horário marcado, `Acessar live` abre o encontro no YouTube; `Adicionar à agenda` guarda só essa live no calendário.
+- Lembretes de todas as lives: conectar a agenda. Na primeira vez o botão é `Inscrever-se nas lives`; depois vira `Abrir no Google Agenda` e basta confirmar. Novas lives, mudanças de horário e cancelamentos chegam sozinhos, com notificação antes de cada encontro.
+- Clicar numa live da lista mostra tema, dia, horário e assunto, com `Acessar live` e `Adicionar à agenda`.
 
 ## quando pedir ajuda
 se a página de lives der erro, abra um chamado em `Suporte`.

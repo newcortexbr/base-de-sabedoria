@@ -12,7 +12,7 @@ tipo_problema:
   - o-que-e-isso
   - painel
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - dbFUi5ENvOg
@@ -37,6 +37,12 @@ de cima para baixo, você pode ver:
 - `Explore os treinamentos`: atalhos para alguns módulos.
 - `Próxima live`: a próxima live marcada (veja `ac-lives-ver-agenda`).
 - `Seus pagamentos`: a mensalidade e a reserva territorial, com valor, vencimento e situação (`Em dia`, `Vence em <dia>` ou `Vencida há N dias`).
+
+## instalação e menu
+
+- `Iniciar instalação` leva à `Minha plataforma`, onde a instalação tem três etapas: domínio, conexão DNS e portal no ar. Cada etapa tem um vídeo explicativo.
+- O tour da área de membros e as aulas do Start mostram onde fica cada coisa no painel.
+- Menu `Seu espaço`: `Meus negócios` (todos os portais, com situação da instalação e dos pagamentos; a visão geral mostra o próximo passo de cada negócio), `Treinamentos` (módulos com aulas, do primeiro passo até estratégias de vendas e marketing), `Ferramentas` (extras que vêm com o negócio), `Lives` (agenda dos encontros ao vivo para aprender e tirar dúvidas com a equipe), `Suporte` (abrir chamado e acompanhar respostas) e `Pagamentos` (reserva territorial, mensalidade e histórico de cobranças).
 
 ## passos
 1. No menu da esquerda, clique em `Início`. [guia=menu:/inicio]

@@ -16,7 +16,7 @@ tags:
   - contratar
   - criar
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: video
 videos:
   - NELLwm_ClmA
@@ -35,6 +35,7 @@ entender o que é ser colunista no portal e como começar. O cadastro de colunis
 
 - o colunista ganha uma coluna própria, assinada com nome, foto e currículo, ao lado das notícias que a cidade lê.
 - os artigos ficam reunidos na página de especialista, e o leitor interessado entra em contato direto com o colunista.
+- ser colunista dá mais autoridade e credibilidade ao profissional liberal do que anúncio ou post em rede social; o leitor que gosta do texto já sabe com quem marcar.
 - o plano de colunista é sempre pago; a tela de cadastro mostra os planos e os preços do portal.
 
 ## passos

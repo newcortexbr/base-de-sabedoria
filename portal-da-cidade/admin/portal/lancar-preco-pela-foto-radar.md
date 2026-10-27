@@ -16,7 +16,7 @@ tags:
   - produto
   - enviar
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - VhMHVZujDvQ
@@ -43,6 +43,9 @@ Envie uma foto diretamente pelo painel para leitura dos preços.
 ## resultado
 
 A imagem segue para leitura direta, sem a etapa de aprovação das contribuições de moradores. Confira o resultado mostrado no painel.
+
+## foto
+- envie a foto da etiqueta ou do encarte. o produto novo lido pela IA já aparece na lista do painel e no site, com a etiqueta `criado pela IA`.
 
 ## fontes
 

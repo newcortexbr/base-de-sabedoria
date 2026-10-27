@@ -15,7 +15,7 @@ tags:
   - portal
   - imagem
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 8M4kdEfP7Eg
@@ -64,6 +64,10 @@ Nome em branco não é enviado. Falhas aparecem em vermelho no quadro correspond
 ## veja também
 
 Para cores, topo e rodapé, veja “mudar a aparência (layout) do portal”. Para contatos, pixels, aviso do app e convite do WhatsApp, use os artigos próprios dessas opções. Para cobertura, veja “adicionar ou remover cidades da cobertura do portal”.
+
+## dicas
+
+Sem logo enviada, o nome do portal aparece no topo do site.
 
 ## fontes
 

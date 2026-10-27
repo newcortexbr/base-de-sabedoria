@@ -14,7 +14,7 @@ tags:
   - empresa
   - cadastro
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - ufB3QTKfPsM
@@ -58,6 +58,11 @@ O contratante é cadastrado. Se você pediu login, o portal tenta criá-lo depoi
 ## quando pedir ajuda
 
 Peça ajuda se a tela não carregar ou se a ação mostrar erro. Informe a mensagem e a ação tentada, sem enviar senha.
+
+## campos e lista
+
+- Além dos campos dos passos, o formulário tem `Verificado` (marca o contratante como verificado), `Cor do logo` e redes: `LinkedIn`, `Instagram`, `Site` e `YouTube`.
+- A lista `Contratantes` mostra `Contratante`, `Verificado` (ou `Não verificado`) e `Proprietário` (quem tem acesso).
 
 ## fontes
 

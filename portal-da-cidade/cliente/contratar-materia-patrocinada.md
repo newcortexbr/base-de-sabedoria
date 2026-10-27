@@ -18,7 +18,7 @@ tags:
   - pagamento
   - empresa
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - -Islw_h8OhU
@@ -41,6 +41,14 @@ aqui você paga para o portal publicar uma notícia sobre a sua empresa. O pagam
 
 ## resultado
 a matéria não é publicada sozinha: a equipe prepara o texto, você aprova e recebe o link. Depois do pagamento a tela mostra `Plano de Notícias contratado`.
+
+## como funciona
+
+1. Você conta a ideia.
+2. A equipe produz a matéria com você, que confere os dados.
+3. O portal publica e você recebe o link para compartilhar com clientes, seguidores e parceiros.
+
+Serve para inauguração, lançamento de projeto e outras histórias da empresa. Tem formato de notícia, o que gera mais engajamento que post ou publicidade. Também pode ser uma entrevista com influenciador, profissional ou personalidade da região.
 
 ## desvios
 

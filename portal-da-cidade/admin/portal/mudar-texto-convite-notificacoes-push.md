@@ -15,7 +15,7 @@ tags:
   - descricao
   - nome
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - -ZLL7Cqwcok
@@ -35,6 +35,11 @@ Personalize o título e a descrição do convite mostrado aos visitantes.
 2. Preencha `Título do convite`.  [guia=notificacoes.convite-titulo]
 3. Preencha `Descrição`.  [guia=notificacoes.convite-descricao]
 4. Clique em `Salvar texto`.  [guia=notificacoes.convite-salvar]
+
+## campos
+
+- `Título do convite` e `Descrição` têm contador de caracteres; a `Prévia — como o visitante vê` mostra o convite com `Não, obrigado` e `Sim, quero`.
+- `Restaurar texto padrão` volta os dois campos ao padrão na tela; clique em `Salvar texto` para gravar.
 
 ## resultado
 

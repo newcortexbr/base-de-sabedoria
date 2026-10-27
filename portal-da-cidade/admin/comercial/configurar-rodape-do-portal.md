@@ -19,7 +19,7 @@ tags:
   - cor
   - layout
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - vPnHq9kRWW8
@@ -91,6 +91,13 @@ aparece `Rodapé salvo` e as escolhas são enviadas ao site. A prévia é um ras
 ## explicação
 
 Também existem `Pequena` e `Grande` para a logo, e `Gradiente` para o fundo. Para manter o tamanho atual, não altere essa escolha.
+
+## campos e prévia
+
+- Modelos: `Linha única`, `Centralizado` e `Faixa de chamada`.
+- `Herdar cor do topo` usa o mesmo fundo (inclusive gradiente) da barra de navegação do topo.
+- Cores: fundo do rodapé, e texto e links.
+- A prévia troca entre `Computador` e `Celular`.
 
 ## fontes
 

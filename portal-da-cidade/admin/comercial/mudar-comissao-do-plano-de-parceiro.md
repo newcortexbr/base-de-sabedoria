@@ -14,7 +14,7 @@ tags:
   - editar
   - preco
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 8gIDPdapN0E
@@ -45,6 +45,11 @@ A janela fecha e os planos são carregados novamente após o salvamento.
 `Nome do plano *` muda o nome. Nos planos pagos, `Periodicidade` e `Valor (R$)` também são editáveis; a periodicidade oferece `Mensal`, `Semestral` e `Anual`. A caixa `Plano ativo (disponível para atribuir a um parceiro)` controla a oferta do plano pago. No gratuito, aparece `Oferecer o plano gratuito`, e o valor permanece R$ 0,00.
 
 Os dois percentuais aceitam de 0 a 100. `% residual` igual a zero desliga o residual daquele plano. Para mudar qual plano uma pessoa usa, veja `mudar-plano-de-um-parceiro.md`.
+
+## regras dos planos
+
+- Cada plano tem `% de venda` (na venda) e `% residual` (todo mês, enquanto o cliente renovar). Quanto melhor o plano, maior costuma ser a comissão.
+- O plano gratuito (padrão `Start`) é opcional; `Pro` e `Premium` são pagos.
 
 ## limite da orientação
 

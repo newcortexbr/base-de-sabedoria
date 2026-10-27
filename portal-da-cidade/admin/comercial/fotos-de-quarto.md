@@ -15,7 +15,7 @@ tags:
   - guia
   - criar
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - reZ3e1a4o-o
@@ -46,6 +46,10 @@ As fotos são enviadas para a galeria do quarto escolhido. Não há um botão de
 ## desvios
 
 Para vídeo, veja "colocar um vídeo do YouTube no quarto". Fotos e vídeo usam controles diferentes da galeria.
+
+## galeria
+- a galeria de cada quarto é uma lista de itens; cada item é uma foto ou um vídeo do YouTube.
+- uma galeria com várias fotos bem feitas valoriza o quarto no card do portal.
 
 ## quando pedir ajuda
 

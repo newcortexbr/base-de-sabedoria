@@ -15,7 +15,7 @@ tags:
   - ligar
   - desligar
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - r5rFCgAV0mg
@@ -48,6 +48,18 @@ A tela informa quais fontes foram criadas, quais já existiam e quais não puder
 - Para endereço fora da lista, veja “adicionar fonte de RSS colando o endereço”.
 - Para ativação, quantidade e publicação automática, veja os artigos próprios de RSS.
 - O código separa a busca dos feeds da entrada das notícias no portal: a grade de publicação é 7h e 19h, no horário de São Paulo. Salvar uma fonte ligada também solicita uma rodada; isso não garante que haja notícia nova.
+
+## catálogo e lista
+
+- A lista de fontes mostra todas as fontes do portal, com a última atualização e a chave de ligar/desligar.
+- As conexões padrão são as do portal G1; já vêm prontas, é só marcar.
+- Categorias globais (Brasil, economia, política, tecnologia, carros etc.) são notícias nacionais ou do mundo, iguais para qualquer cidade. Para a região, use o grupo de notícias regionais: escolher o estado ou uma região dentro dele traz o que o G1 publica daquela região (ex.: Espírito Santo).
+- Use sempre as fontes da lista: endereços de outros sites de RSS podem dar problema na importação.
+- Para a fonte funcionar: `Status` ligado, `Quantidade de notícias por vez` e `Publicar direto no site` (marcado vai ao ar sozinho; desmarcado entra como rascunho para revisão).
+
+## no site
+
+As notícias importadas aparecem na página de notícias. Cada notícia tem página própria, com título, resumo, foto e, ao lado, as últimas e os destaques.
 
 ## fontes
 

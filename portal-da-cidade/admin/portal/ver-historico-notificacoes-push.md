@@ -14,7 +14,7 @@ tags:
   - numeros
   - painel
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - -ZLL7Cqwcok
@@ -33,6 +33,11 @@ Consulte os inscritos e os resultados dos avisos enviados.
 1. Na parte `Sistema` do menu da esquerda, clique em `Notificações Push`. [t=9] [guia=menu:/painel/notificacoes]
 2. Consulte os indicadores no quadro `Notificações`. [t=12] [guia=notificacoes.resumo]
 3. Consulte os envios no `Histórico`. [t=43] [guia=notificacoes.historico]
+
+## o que cada número mostra
+
+- quadro `Notificações`: `inscritos` (pessoas que aceitaram receber), `enviadas no mês` e `abriram (média)` (percentual médio de quem abriu; `—` sem envios).
+- `Histórico`: colunas `Notificação` (título e mensagem), `Enviada` (dia e hora), `Entregues` e `Abriram`. mostra as últimas notificações.
 
 ## resultado
 

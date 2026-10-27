@@ -20,7 +20,7 @@ tags:
   - desligar
   - comissao
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 8gIDPdapN0E
@@ -60,6 +60,27 @@ O cadastro é salvo. No plano pago acertado por fora, o plano vale imediatamente
 - Para ligar ou desligar o programa, veja `ativar-modulos-e-programa-de-parceiros.md`.
 
 Na lista `Seus parceiros`, os ícones permitem editar, trocar a senha, desativar e excluir. O e-mail de acesso não pode ser alterado pela janela de edição.
+
+## tela de parceiros
+
+- No topo, o programa aparece ligado e pode ser desligado.
+- Cartões: `Parceiros ativos`, `Clientes indicados`, `Pagar por fora` (valor a pagar) e `Pelo Asaas, sozinho` (o que cai na carteira do parceiro sem ação sua).
+- `Precisa da sua atenção` lista parceiros sem carteira Asaas (você paga esses por fora) e comissões atrasadas. Some quando não há pendência.
+- `Seus parceiros` é a lista completa. `Buscar` aceita nome, e-mail ou número; os filtros são plano, forma de recebimento e `Situação`. Cada linha mostra plano, clientes trazidos e valor a receber.
+- Ícones da linha: editar, trocar a senha, `Desativar` (reversível; derruba o login e mantém o cadastro) e `Excluir` (sem volta).
+
+## planos de parceiro
+
+- São três: o gratuito (padrão `Start`, opcional) e dois pagos (padrão `Pro` e `Premium`). Nome, periodicidade, valor e percentuais são seus.
+- Plano melhor pode ter comissão maior.
+- `% de venda` é o que o parceiro ganha na venda; `% residual` é o que ganha todo mês enquanto o cliente renovar.
+
+## o que o parceiro vê
+
+- Em `Seu link de indicação`, escolhe em `Para qual página?` o destino da divulgação e copia com `Copiar link`. Sem plano ativo o link não funciona.
+- Faixa `Grupo dos parceiros` com `Entrar no grupo` (se o convite estiver visível; veja o artigo do grupo de WhatsApp). O atalho também fica fixo no menu lateral.
+- Cartões `A receber`, `Recebido`, `Clientes ativos` e `Meu plano`; simulador de ganhos por mês e tabela com a comissão de cada produto vendido.
+- Em `Meu plano`, ele mesmo faz o upgrade.
 
 ## quando pedir ajuda
 

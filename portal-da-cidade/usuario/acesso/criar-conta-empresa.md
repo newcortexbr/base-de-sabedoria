@@ -11,7 +11,7 @@ permissoes:
   - visitante
 modulo: acesso
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - d2EweodukHg
@@ -56,6 +56,10 @@ A conta é criada depois da confirmação do e-mail; em seguida o portal entra n
 ## quando pedir ajuda
 
 se não conseguir receber ou confirmar o código, peça ajuda ao suporte do portal e informe o endereço de e-mail usado, sem enviar senha ou código de confirmação.
+
+## o que a empresa ganha no Guia Comercial
+
+Página própria e completa, sem precisar de site: galeria de fotos, lista de serviços, mapa com botão de como chegar e WhatsApp com um clique. Restaurantes, hamburguerias e pizzarias podem receber pedidos com cardápio digital e delivery; quem vende produtos monta catálogo digital com link para o WhatsApp ou a loja virtual. Também há cupons de desconto, sorteios, pedidos de orçamento, avaliações do Google e destaque na busca à frente da concorrência. Os recursos dependem do plano.
 
 ## fontes
 

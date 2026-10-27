@@ -14,7 +14,7 @@ tags:
   - preco
   - editar
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - VhMHVZujDvQ
@@ -38,6 +38,9 @@ Passe os preços de um produto duplicado para o cadastro que deve permanecer.
 ## resultado
 
 Os preços passam ao produto escolhido e o duplicado é apagado. Não há uma segunda confirmação nesta tela.
+
+## quando usar
+- o mesmo produto cadastrado duas vezes com nomes diferentes (ex.: nome lido pela IA fora do padrão). depois de juntar, corrija o nome do que ficou em `Editar produto` (ex.: sardinha em lata 125 g).
 
 ## fontes
 

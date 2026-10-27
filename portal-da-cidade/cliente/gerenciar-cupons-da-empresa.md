@@ -18,7 +18,7 @@ tags:
   - plano
   - desconto
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - v7uO6kjwVOA
@@ -49,6 +49,8 @@ criar, alterar e consultar o cupom de desconto da empresa na página `Cupons`. C
 o cupom fica `No ar` quando tem código preenchido, está dentro da validade e a empresa está no ar. Sem código, a situação é `Não publicado`; passada a data de `Cupom vale até`, é `Vencido`. O visitante clica em pegar cupom e o código aparece. Para alterar depois, volte em `Cupons`, mude o que quiser e salve de novo. [t=105]
 
 ## desvios
+- depois da data de `Cupom vale até` o cupom sai do portal sozinho e a situação vira `Vencido`.
+- o administrador do portal também vê e edita esse cupom (`Guia Comercial` > `Cupons de Desconto`); é o mesmo cupom.
 - a vitrine pública de cupons e a gestão da empresa são páginas distintas; o cupom também pode ser editado em `Guia Comercial` (é o mesmo cupom).
 - sem cupom no plano, a página mostra "O plano atual da sua empresa no Guia Comercial não inclui cupom de desconto." com o botão `Ver planos e assinaturas`.
 - sem empresa cadastrada, a página pede para cadastrar a empresa no Guia Comercial.

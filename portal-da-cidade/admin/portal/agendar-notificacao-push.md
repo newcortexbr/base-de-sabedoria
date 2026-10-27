@@ -16,7 +16,7 @@ tags:
   - datas
   - painel
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - -ZLL7Cqwcok
@@ -41,6 +41,11 @@ Agende um aviso para os inscritos do portal.
 7. Preencha `Hora` com um horário futuro. [t=77] [guia=notificacoes.hora]
 8. Clique em `Agendar para…`, com a quantidade de destinatários. [t=82] [guia=notificacoes.enviar]
 9. Na confirmação, clique em `Agendar`. [guia=confirmacao.confirmar]
+
+## uso
+
+- serve, por exemplo, para lembrar um evento no dia certo.
+- como no envio imediato, vai para todos os inscritos e o botão mostra a quantidade; `Link` é a página aberta ao tocar no aviso; a `Prévia da notificação` mostra como fica no celular.
 
 ## resultado
 

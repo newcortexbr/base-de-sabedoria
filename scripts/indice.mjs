@@ -57,6 +57,17 @@ for (const produto of produtos) {
   }
 }
 
+// Regra da base: artigo de admin é só de admin. Nada da área do cliente (artigo ou vídeo) é reusado no admin.
+const ABAS_CLIENTE = new Set(['area-empresa-parceiro-portal', 'claude-videos-basicos-area-do-cliente'])
+const ehAdmin = p => /admin/.test(p)
+const videosCliente = new Set((JSON.parse(existsSync(join(RAIZ, 'videos', 'indice.json')) ? readFileSync(join(RAIZ, 'videos', 'indice.json'), 'utf8') : '{}').por_video ?? [])
+  .filter(v => v.linhas.every(l => ABAS_CLIENTE.has(l.aba))).map(v => v.youtube_id))
+for (const a of artigos) {
+  if (!a.publico.some(ehAdmin)) continue
+  if (a.publico.some(p => !ehAdmin(p))) { console.error(`admin misturado com outro público: ${a.caminho}`); process.exitCode = 1 }
+  for (const v of a.videos) if (videosCliente.has(v)) { console.error(`vídeo da área do cliente em artigo de admin: ${a.caminho} (${v})`); process.exitCode = 1 }
+}
+
 const indice = {
   gerado_em: new Date().toISOString().slice(0, 10),
   produtos: Object.fromEntries(produtos.map(p => [p, artigos.filter(a => a.base === p).length])),

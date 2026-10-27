@@ -15,7 +15,7 @@ tags:
   - salario
   - contratante
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - ufB3QTKfPsM
@@ -52,6 +52,11 @@ A edição da vaga é aberta. O botão para gravar as mudanças é `Salvar alter
 ## quando pedir ajuda
 
 Peça ajuda se a tela não carregar ou se a ação mostrar erro. Informe a mensagem e a ação tentada, sem enviar senha.
+
+## lista
+
+O total de vagas aparece abaixo do título. Colunas: `Vaga` (cargo e empresa), `Área`, `Local`, `Tipo`, `WhatsApp` (cliques no WhatsApp da vaga) e `Status`. Ao lado de cada vaga: `Insights`, `Editar` e `Excluir`.
+As áreas de vagas e os contratantes têm telas próprias no mesmo menu `Vagas de Emprego`.
 
 ## fontes
 

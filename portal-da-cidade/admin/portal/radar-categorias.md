@@ -16,7 +16,7 @@ tags:
   - ligar
   - desligar
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - hrri-AfQihQ
@@ -47,6 +47,10 @@ As alterações da categoria são salvas. Para voltar a mostrá-la, edite de nov
 ## explicação
 
 O Radar tem três categorias fixas: Supermercados, Farmácias e Postos de combustível. A tela permite editar essas categorias; não oferece criar ou excluir.
+
+## o que a tela mostra
+
+A tabela lista `Categoria`, `Ordem`, `Produtos` (quantidade) e `Situação`. No site, as categorias ativas viram os três caminhos da página do Radar, na ordem definida. Em Postos de combustível, o morador compara gasolina, etanol e diesel, posto por posto.
 
 ## fontes
 

@@ -15,7 +15,7 @@ tags:
   - moderacao
   - desfazer
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - ajzmuupRJMM
@@ -54,6 +54,10 @@ A decisão é gravada e os votos anulados deixam de contar no placar.
 ## desvios
 
 - Depois que a votação termina, a tela bloqueia novas decisões e o desfazimento.
+
+## como funciona
+
+O sistema alerta quando um participante recebe votos de um jeito que não parece de pessoas reais. `Anular` tira esses votos do placar; `Manter, parece normal` os deixa como estão. A decisão pode ser desfeita até a votação terminar.
 
 ## quando pedir ajuda
 

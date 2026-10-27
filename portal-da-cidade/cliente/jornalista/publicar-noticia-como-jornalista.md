@@ -16,7 +16,7 @@ tags:
   - perfil
   - categoria
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: video
 videos:
   - by3tA7GUa88
@@ -69,6 +69,9 @@ preencher o perfil de autor e publicar uma notícia no portal como jornalista.
 ## resultado
 
 a notícia aparece em `Minhas notícias`. Os quadros do topo mostram quantas estão publicadas, agendadas e em rascunho. No portal, a notícia mostra categoria, título, subtítulo, chamada, assinatura com foto e redes, foto de capa com legenda, texto, fonte, tags e o quadro sobre o autor.
+
+## lista de notícias
+- em `Minhas notícias`, os botões da direita de cada notícia abrem a matéria no portal, editam, despublicam ou excluem.
 
 ## desvios
 

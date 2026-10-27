@@ -16,7 +16,7 @@ tags:
   - empresa
   - status
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - TgIUmqrRuBY
@@ -56,6 +56,13 @@ os pedidos andam de `Recebido` até `Entregue`.
 - Pedidos entregues e cancelados ficam em `Finalizados / Cancelados`.
 - O aviso sonoro de novos pedidos depende do filtro `Todos` e da tela aberta; não se promete som após sair dela.
 - Cancelar e imprimir um pedido têm artigos próprios.
+
+## tela
+- a fila também fica no painel do cliente, em `Delivery`.
+- pedidos do mais recente ao mais antigo; cada um mostra código, nome do cliente, hora e valor total.
+- as abas filtram por situação: recebido, em preparo, saiu para entrega, entregue e cancelado.
+- fluxo: `Recebido` → `Em preparo` → `Saiu para entrega` → `Entregue`.
+- o som avisa pedido novo mesmo com a loja em outra tela do painel (aba aberta).
 
 ## quando pedir ajuda
 

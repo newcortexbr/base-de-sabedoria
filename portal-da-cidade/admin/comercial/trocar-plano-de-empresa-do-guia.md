@@ -15,7 +15,7 @@ tags:
   - cobrar
   - preco
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - wukhVMFEHWg
@@ -40,6 +40,14 @@ Aqui você escolhe o plano ou a cortesia de uma empresa. Confira o aviso de cobr
 ## resultado
 
 A escolha é gravada para a empresa. Ao selecionar um plano pago diferente do atual, a tela informa que a contratação começa ativa e a fatura fica em aberto no Financeiro. Isso não confirma pagamento.
+
+## como o plano age
+
+- `Cortesia do portal (todos os itens)` é o padrão: o site mostra tudo o que for preenchido, de graça, sem contratação nem fatura.
+- Os outros planos são os de `Meus planos` do Guia. A empresa passa a seguir o plano e o site mostra só o que ele libera (telefone, WhatsApp, galeria, cardápio, destaque).
+- Plano pago: a tela avisa antes de salvar; a contratação é registrada para o cliente da empresa, nasce ativa e a fatura fica em aberto no Financeiro até confirmar o pagamento. Plano grátis: segue o plano sem contratação.
+- Ao trocar de plano depois, a contratação anterior e as faturas abertas dela são canceladas.
+- O painel continua mostrando e aceitando todos os campos; o filtro é do site. Subindo de plano, o que já estava preenchido aparece sozinho. Ao dar acesso à área do cliente, o dono já entra no plano escolhido aqui.
 
 ## quando pedir ajuda
 

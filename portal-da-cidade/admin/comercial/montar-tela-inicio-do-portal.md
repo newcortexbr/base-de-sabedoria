@@ -16,7 +16,7 @@ tags:
   - remover
   - portal
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - _YSN9di_ZOU
@@ -85,6 +85,13 @@ Reordenar e ocultar salvam na própria ação. Incluir e editar só salvam pelo 
 ## desvios
 
 Se reordenar falhar, a lista volta à ordem anterior e mostra o erro. Falha ao adicionar ou editar mantém a janela aberta com o motivo. Não trate a prévia como confirmação de salvamento.
+
+## tipos e campos
+
+- Tipos de bloco: `Notícias`, `Guia Comercial`, `Vagas de Emprego`, `Eventos`, `Guia Turístico`, `Classificados`, `Publicidade`, `Categorias`, `A Voz do Povo`, carrossel de sorteios, `Melhores da Cidade` e campeões do Melhores da Cidade.
+- Modelos variam por tipo (grade, carrossel, lista compacta, agenda etc.). Campos comuns: `Título do bloco`, `Subtítulo (opcional)` e `Exibir título`; alguns tipos pedem categoria.
+- A janela mostra prévia do bloco com o conteúdo real do portal.
+- A ordem da lista é a ordem do site; após reordenar, o site já reflete ao atualizar a home.
 
 ## fontes
 

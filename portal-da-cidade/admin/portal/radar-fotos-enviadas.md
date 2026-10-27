@@ -15,7 +15,7 @@ tags:
   - foto
   - preco
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - CSYITekPVcw
@@ -40,6 +40,18 @@ Confira as fotos de preços enviadas pelos moradores antes de aprová-las.
 ## resultado
 
 O envio segue para leitura. O resultado informa o que foi lido, e preços retidos exigem revisão separada.
+
+## o que chega e o que a tela mostra
+
+- Origem: o morador envia pelo site uma foto de produto ou um encarte, informa o preço e o estabelecimento; se o estabelecimento não existe, ele mesmo cadastra um novo.
+- Quadros do topo: `Aguardando você`, `Preços retidos`, `Preços no site` e `Envios na semana`.
+- Abas: `Aguardando`, `Lidos` (histórico das aprovadas, com o resumo de cada leitura) e `Recusados`.
+- Cada cartão mostra o tipo (`Encarte`, `Foto de produto` ou `Só preço (posto)`), o estabelecimento, o preço informado e `Enviado por` (nome e WhatsApp para tirar dúvidas); esses dados só a equipe vê.
+- Foto deitada: use os botões de girar (esquerda/direita) antes de aprovar; a leitura fica mais precisa com a foto em pé.
+- Estabelecimento novo: aparece a etiqueta `estabelecimento novo` e a aprovação vale para a foto e o estabelecimento juntos. Se o morador recadastrou um estabelecimento que já existe, use `Corrigir`: o cadastro duplicado é descartado e a foto passa a apontar para o certo.
+- `Recusar` (foto repetida, ilegível ou fora do tema): nada é lido e o morador não é avisado.
+- `Aprovar e ler`: a IA lê o encarte na hora; o resultado informa quantos produtos foram lidos, quantos são novos, quantos foram atualizados e quantos ficaram retidos para conferência.
+- No site, os preços lidos aparecem atualizados com a foto do encarte e a data da atualização.
 
 ## corrigir antes de aprovar
 

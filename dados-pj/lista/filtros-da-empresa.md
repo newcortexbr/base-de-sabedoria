@@ -14,7 +14,7 @@ tipo_problema:
   - data-de-abertura
   - dados-pj
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-27
 validacao: codigo-e-video
 videos:
   - IKdKLgi-e94
@@ -28,9 +28,9 @@ refinar a lista pelo tipo de empresa e de contato.
 - estar na tela `Gerar Lista de Empresas`.
 
 ## explicação
-- `Situação`: `Ativa` (padrão), `Baixada`, `Inapta`, `Suspensa`, `Nula`. para vender ao guia, use `Ativa`; pode marcar várias.
+- `Situação`: `Ativa` (padrão), `Baixada`, `Inapta`, `Suspensa`, `Nula`. para vender ao guia, use `Ativa`; pode marcar várias. empresa baixada pode ter dono com outros negócios ativos: serve para outras estratégias.
 - `Porte`: `ME - Microempresa`, `EPP - Empresa de Pequeno Porte`, `DEMAS - Empresa de Médio ou Grande Porte`. vazio = todos.
-- `Tipo de empresa`: `Não MEI` (padrão, tira os MEI), `Só MEI` ou `Ambos`.
+- `Tipo de empresa`: `Não MEI` (padrão, tira os MEI), `Só MEI` ou `Ambos` (todos). há nichos com muito MEI e nichos sem: pesquise o nicho antes. na dúvida, use `Ambos` e filtre depois na coluna `MEINAOMEI`.
 - `Telefone`:
   - `Móvel`: só empresas com ao menos um celular. use para WhatsApp ou SMS. outros telefones da empresa continuam no arquivo.
   - `Fixo` e `Móveis + Fixos`: na versão atual as duas opções trazem todas as empresas, inclusive sem telefone. `Fixo` não filtra só fixos.

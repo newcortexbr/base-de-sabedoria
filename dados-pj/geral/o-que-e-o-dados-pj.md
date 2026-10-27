@@ -12,7 +12,7 @@ tipo_problema:
   - lista-de-empresas
   - dados-pj
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-27
 validacao: codigo-e-video
 videos:
   - JXWDV_IiAWQ
@@ -28,7 +28,7 @@ entender o que o Dados PJ (DadosPJ) faz e o que ele não faz.
 
 ## explicação
 - o Dados PJ tem a base de empresas da Receita Federal (ativas, baixadas, inaptas etc.). com filtros, você gera uma lista de empresas da sua região em Excel ou CSV para prospectar por ligação, WhatsApp ou SMS.
-- é um benefício gratuito de quem tem licença. na Área do Cliente ele aparece em `Ferramentas` como `Extrator da Receita Federal`.
+- é um benefício gratuito de quem tem licença, exclusivo de clientes (não é vendido). o objetivo é ajudar a captar clientes para o negócio adquirido; o limite existe pelo custo de servidor e banco. na Área do Cliente ele aparece em `Ferramentas` como `Extrator da Receita Federal`.
 - o menu tem duas telas: `Dashboard` (créditos, números da base e histórico) e `Gerar Lista de Empresas` (filtros e exportação).
 - regras principais: só o estado da sua plataforma, de 1 a 3 cidades por lista e 2 listas por semana, renovadas toda segunda-feira (`pj-creditos-semanais`).
 - não há limite de empresas por lista: o crédito conta listas, não linhas.

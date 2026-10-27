@@ -66,6 +66,23 @@ Cada linha é um tipo de pendência, sempre nesta ordem fixa (não dá para muda
 4. Denúncias de moradores novas: relatos da Voz do Povo que ainda estão como recebidos, sem ninguém ter começado a tratar. Só aparece com a parte de utilidades do portal ligada. Botão `Ler`.
 5. Comissão para pagar por fora: valor somado e quantidade de parceiros. Botão `Ver parceiros`.
 
+## menu lateral
+
+- `Meus Links`: todos os endereços do portal, prontos para copiar e divulgar.
+- `Aprovações e Denúncias`: o que clientes e moradores enviaram e espera decisão.
+- Grupo `Conteúdo`: seções do site, notícias e notícias automáticas, Guia Comercial, Radar de Preços, Vagas de Emprego, Classificados, Guia Turístico e Eventos, Artigos, orçamentos online, Voz do Povo, sorteios, doações, Melhores da Cidade e banners publicitários.
+- Grupo `Comercial`: meus clientes, financeiro, meus planos e parceiros.
+- Grupo `Sistema`: notificações Push, assistente de IA do site e configurações do portal.
+- Rodapé: `Sugestões de Funções`, dados de acesso e sair.
+
+## suporte com IA
+
+- Botão no canto inferior direito. As conversas ficam salvas; `Nova conversa` abre outra.
+- A IA responde com base no manual do portal e, quando há vídeo tutorial do assunto, mostra o vídeo.
+- `Me mostra na tela` guia passo a passo com imagem da tela; a cada passo responda se conseguiu ou não.
+- Dá para anexar um print pelo botão de imagem; a IA lê e explica.
+- Se não resolver, ou se você pedir uma pessoa, abre um chamado para a equipe de suporte, acompanhado pela área do cliente.
+
 ## perguntas comuns
 
 **o número "N pendências" conta itens?** Não. Conta as linhas (tipos de pendência). O número de itens fica em cada linha.

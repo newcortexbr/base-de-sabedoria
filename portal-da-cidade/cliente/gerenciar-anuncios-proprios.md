@@ -17,7 +17,7 @@ tags:
   - anunciante
   - cliente
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - S-YcDWiimEo
@@ -50,6 +50,7 @@ você vê os anúncios associados ao próprio perfil e as situações exibidas: 
 - para sair do plano grátis, use `Sair do grátis` na faixa do plano, ou `Ver planos de Classificados` no aviso de limite; a tela de planos compara os planos e o botão `Quero este` leva ao pagamento. [t=118]
 - com o limite do plano atingido, o botão `Novo anúncio` fica desabilitado e aparece `Você chegou ao limite do plano`: pause um anúncio ou mude de plano.
 - o artigo [formas de anunciar no portal](formas-de-anunciar-no-portal.md) (vídeo 4pc8AwOX0hA) é uma visão geral das oito formas de anunciar; só os classificados são tratados neste artigo.
+- plano Grátis: anúncio sem destaque, no fim da lista e sem selo de anunciante verificado. Planos pagos: mais anúncios no ar, mais tempo publicado, mais fotos, selo de anunciante verificado, topo da página da categoria e carrossel da página de classificados. Depois de assinar, o painel mostra o plano novo e o limite de anúncios no ar sobe.
 - um anúncio ativo pode não aparecer publicamente se estiver sem foto ou fora da validade.
 - quanto tempo o anúncio fica no ar depende do plano. Nos valores padrão do catálogo: Grátis, 30 dias, 3 anúncios e 3 fotos; assinaturas, 180 dias e 10 fotos (10 ou 50 anúncios). O prazo conta do dia em que ele é publicado (se o portal pede aprovação, do dia em que é aprovado). Passado o prazo, o anúncio é encerrado sozinho. Editar o anúncio não renova o prazo.
 - não altere nem tente abrir anúncio de outra empresa.

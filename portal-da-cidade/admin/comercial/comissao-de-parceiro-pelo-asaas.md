@@ -15,7 +15,7 @@ tags:
   - ligar
   - automatico
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 8gIDPdapN0E
@@ -44,6 +44,10 @@ A chave é salva ao mudar. Ligada, permite o repasse pelo Asaas para parceiros c
 Sem carteira Asaas, a comissão é paga por fora. Pagamento confirmado manualmente, por Pix ou dinheiro recebido direto por você, também gera comissão para pagar por fora. Ligar a chave não comprova repasse de uma comissão antiga.
 
 A comissão é por plano, para todos os parceiros vinculados a ele. O percentual não é escolhido nesse interruptor.
+
+## efeito
+
+Ligada, quando o cliente paga pelo link do Asaas a parte do parceiro cai sozinha na carteira dele. Parceiros sem carteira informada aparecem em `Precisa da sua atenção` e são pagos por fora.
 
 ## quando pedir ajuda
 

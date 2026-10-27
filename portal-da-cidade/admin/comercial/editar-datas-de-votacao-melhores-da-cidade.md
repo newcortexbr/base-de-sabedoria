@@ -15,7 +15,7 @@ tags:
   - prazo
   - periodo
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - ajzmuupRJMM
@@ -45,6 +45,10 @@ O novo período é enviado para salvar. Se o painel mostrar erro, corrija os cam
 
 - No ar, o campo de começo fica desabilitado e mostra `Já começou: não muda mais.`
 - A edição também permite mudar `Nome da votação` e `Nome das competições`; não troca os participantes.
+
+## no ar
+
+Com a votação no ar o começo não muda, mas o fim pode ser estendido ou encurtado e o nome das competições trocado. `Encerrar agora` também está na janela de edição.
 
 ## quando pedir ajuda
 

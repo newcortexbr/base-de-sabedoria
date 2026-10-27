@@ -16,7 +16,7 @@ tags:
   - empresa
   - preco
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 2ShbACG2mHE
@@ -64,6 +64,16 @@ O produto é criado na seção escolhida. Produtos disponíveis entram na listag
 - Produto `Indisponível` não aparece na loja.
 - Os grupos de opções só podem ser criados depois que o produto existe.
 - Cardápio do delivery é diferente do cardápio digital (que é só consulta).
+
+## tela e loja
+- a tela lista as seções à esquerda e, à direita, os produtos da seção escolhida com foto, preço e quantidade de grupos de opções; cada produto tem `Editar` e `Excluir`.
+- `Preço base (R$)`: valor do produto; deixe 0 quando o preço vem dos tamanhos (ex.: açaí de 300 ml ou 500 ml).
+- `Destaque` dá mais visibilidade ao produto.
+- o delivery é a loja online com carrinho, adicionais e pagamento; o cardápio digital é só consulta.
+- na loja, o cliente vê taxa e tempo de entrega, se está aberta, cupom disponível e produtos por seção. ao tocar no produto, escolhe as opções de cada grupo dentro dos limites definidos; o carrinho mostra subtotal, taxa de entrega e total, e o pedido finalizado cai na fila de pedidos da empresa.
+
+## dicas
+- fotos boas e opções bem organizadas aumentam os pedidos e evitam pedido errado.
 
 ## quando pedir ajuda
 

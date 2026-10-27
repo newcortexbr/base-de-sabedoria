@@ -13,7 +13,7 @@ tipo_problema:
   - links-do-portal
   - como-acessar-o-portal
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - CgrBKTyXSsI
@@ -36,6 +36,8 @@ encontrar o endereço do seu site, o painel administrativo e os links úteis do 
 você abre o site, o painel e tem à mão os links para divulgar, como `Seja parceiro`, `Guia Comercial`, `Vagas de emprego`, `Classificados`, `Banner publicitário`, `Matéria patrocinada / notícias`, `Especialista / colunista`, `Área do parceiro`, `Ferramenta de orçamento` e `Voz do Povo`.
 
 ## desvios
+- `Acessos principais` serve para abrir o portal ou o painel e copiar os endereços. o `Guia de links do seu portal` traz links prontos para copiar e compartilhar.
+- com a instalação concluída, `Minha plataforma` vira a central do portal; o próximo passo é o botão `Iniciar meu treinamento`.
 - no cartão de `Meus negócios`, o botão `Abrir portal` também abre o site.
 - para entrar no painel, use o botão `Entrar com a Área do Cliente` na tela de login do painel: é a mesma conta da área do cliente.
 - se aparecer `O endereço publicado deste portal não foi encontrado. Fale com o suporte para conferir o domínio.`, fale com o suporte.

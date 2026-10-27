@@ -9,7 +9,7 @@ aba: nao-se-aplica
 tipo_problema:
   - doacoes
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 8v1W-gtTRow
@@ -24,6 +24,9 @@ encontrar instituições de caridade da cidade e falar com elas. A página se ch
 ## explicação
 - a seção reúne projetos sociais, ONGs e entidades da cidade; cada uma mostra o que faz e como ajudar.
 - a forma de ajudar (doação, alimentos, roupas ou tempo) é combinada com a instituição.
+
+- entram ONGs, projetos sociais, abrigos de animais e casas de acolhimento.
+- a página da instituição mostra o trabalho, as fotos, onde fica e o contato direto por WhatsApp.
 
 ## passos
 1. No menu do topo do portal, clique em `Doações`. [guia=topo.doacoes] [t=6]

@@ -16,7 +16,7 @@ tags:
   - foto
   - whatsapp
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - grm3bUrPBxM
@@ -63,6 +63,21 @@ Após a publicação, aparece `Instituição salva` e a lista de instituições 
 - A localização do mapa é descoberta a partir do endereço e da cidade; digitar somente o CEP não garante o mapa.
 - Capa da página e Galeria são áreas opcionais de fotos e vídeos. Veja “adicionar fotos à página de uma instituição de doações”. A publicação pode concluir com erro em alguma mídia; nesse caso, a tela informa o que precisa ser enviado novamente.
 - Para mudar dados já publicados, abra `Editar` na lista de instituições; para retirar uma instituição, veja “excluir uma instituição de doações”.
+
+## como funciona
+
+- Menu `Doações` tem as abas `Instituições` e `Causas`. A lista de instituições tem busca por nome e mostra causa e cidade, com editar, ver no site e excluir.
+- Salvou, está no site: a instituição vai ao ar na hora. Para tirar do ar, exclua.
+- `Capa da página`: slide do topo com fotos e vídeos do YouTube; setas ordenam e o primeiro item é o que abre. `Foto de capa do card` aparece na listagem; `Logo` é um selo quadrado sobre a capa.
+- `Frase de destaque` aparece em letra grande numa faixa rosa; `Resumo do card` aparece na listagem; `Descrição completa` fica na página da instituição.
+- Endereço usa os mesmos campos do Guia: CEP, cidade, bairro; o mapa é encontrado sozinho.
+- `Galeria`: mais fotos e vídeos; vazia, a seção some do site.
+- Cada botão de contato (`Conheça a instituição`, WhatsApp, Instagram, Facebook, e-mail) só aparece no site se estiver preenchido.
+
+## no site
+
+- A página `Doações` abre com o convite Corrente do Bem e o vídeo `Veja como funciona`. O visitante busca por nome, cidade ou o que a instituição faz e filtra pelas causas cadastradas. Card: foto, cidade, resumo e `Conheça a instituição`.
+- Página da instituição: capa, causa, cidade, botões `Conheça a instituição` e `Falar no WhatsApp`, redes sociais, copiar link para compartilhar, descrição completa, mapa com endereço, `Como chegar` e galeria.
 
 ## fontes
 

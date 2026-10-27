@@ -16,7 +16,7 @@ tags:
   - datas
   - painel
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - uN4FHHHGgEs
@@ -55,6 +55,15 @@ O sorteio fica publicado. As inscrições seguem as datas definidas.
 
 ## desvios
 
+- No topo da tela `Sorteios` ficam os totais `Abertos agora`, `Participantes somados`, `Aguardando sorteio` e `Ganhadores sorteados`. As abas `Abertos`, `Para sortear`, `Sorteados` e `Rascunhos` filtram por situação; a busca procura pelo título.
+- Cada linha mostra capa, situação, datas, inscritos e ganhadores, com botões de participantes ou ganhadores, editar e excluir.
+- `Capa`: 1600 × 900 px, deitada; deixe o principal no centro, porque as bordas podem ser cortadas no celular.
+- `Regras (opcional)`: ex.: idade mínima e cidade. Aparecem na página do sorteio.
+- `Vídeo do YouTube (opcional)` abre na página do sorteio; `Link da live no YouTube (opcional)` mostra o botão para assistir à live.
+- `Oferecido por (opcional)`: empresa do Guia que patrocina o prêmio. A página do sorteio mostra a empresa com link para o Guia e WhatsApp.
+- `A roleta mostra` `Nomes` ou `Números` da sorte.
+- `Mostrar a contagem de participantes no site` liga ou desliga a contagem pública. A transparência é a razão da trava após a primeira inscrição.
+- Na página do sorteio o visitante vê capa, empresa, prêmio, regras e contagem regressiva para o fim das inscrições. Cada aparelho se inscreve uma vez por sorteio.
 - Para guardar sem publicar, use `Salvar rascunho` em vez de `Publicar`.
 - Depois da primeira inscrição, início das inscrições, quantidade de ganhadores e roleta ficam travados. Depois do primeiro ganhador, as datas finais também ficam travadas.
 - Para tirar um sorteio do ar sem apagá-lo, veja “tirar um sorteio do ar sem excluir”. Para esconder toda a seção, veja “desligar o módulo Sorteios”. Encerrar inscrições não é o mesmo que retirar a publicação.

@@ -11,7 +11,7 @@ tipo_problema:
   - extrair-empresas
   - extrator-maps
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-27
 validacao: codigo-e-video
 videos:
   - R9FCgunNxFE
@@ -38,6 +38,7 @@ gerar uma lista de empresas do Google Maps do começo ao fim.
    - em `Estado`, busque ("Buscar estado...", aceita sem acento) e escolha o estado.
    - em `Cidades (n/5)`, busque ("Buscar cidade...") e escolha de 1 a 5 cidades; cada uma entra numa lista com `Remover`. sem escolher o estado antes, o campo mostra "Selecione um estado primeiro". trocar o estado apaga as cidades escolhidas.
    - `Bairros (opcional)`: só aparece liberado com UMA cidade. digite o bairro e separe por vírgula ou Enter (até 5 bairros, até 120 caracteres cada, repetidos são ignorados). dica da tela: "Separe por vírgula. Cada bairro vira uma busca separada, com o mesmo limite de registros."
+   - bairro aceita com ou sem acento. use bairro só se a estratégia for por bairro; sem bairro a busca cobre a cidade toda.
    - com 2 ou mais cidades, os bairros já digitados são apagados e aparece "Para filtrar por bairro, selecione apenas uma cidade."
 4. etapa `Nicho` (opcional): veja `ext-escolher-o-nicho`.
 5. etapa `Quantidade`: preencha `Quantidade máxima de registros` (com "por busca" quando há mais de uma busca). a tela mostra "Saldo disponível: X créditos." e "N cidade(s) × N categoria(s) × N bairro(s) = N buscas."

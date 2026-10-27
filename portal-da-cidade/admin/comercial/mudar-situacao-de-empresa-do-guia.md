@@ -16,7 +16,7 @@ tags:
   - bloquear
   - publicar
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - wukhVMFEHWg
@@ -45,6 +45,10 @@ A mudança é gravada ao escolher a situação, sem botão de salvar. O painel m
 ## desvios
 
 uma categoria inativa também oculta as empresas daquela categoria. Se uma empresa foi reprovada, isso é diferente de uma empresa apenas inativa; verifique o estado antes de agir. Exclusão é diferente de desativação e não é tratada neste roteiro.
+
+## na ficha
+
+O `Status` também pode ser mudado na ficha da empresa (ao lado do plano); a lista altera direto, sem salvar.
 
 ## quando pedir ajuda
 

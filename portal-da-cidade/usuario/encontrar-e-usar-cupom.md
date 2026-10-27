@@ -10,7 +10,7 @@ tipo_problema:
   - busca-de-cupom
   - uso-de-cupom
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - pBHdF3bd1QI
@@ -37,6 +37,7 @@ encontrar cupons publicados por empresas, ver o código e conferir as condiçõe
 você localiza os cupons disponíveis que correspondem à busca e fica com o código copiado.
 
 ## desvios
+- cada cartão mostra a foto de capa (ou a inicial da empresa), o selo da categoria, o selo do desconto, a empresa, a oferta, `Válido até`, `Condições:` e o bairro e a cidade. cupom vencido sai do portal.
 - sem resultados, tente outro termo ou selecione `Todas as categorias`.
 - `Pegar cupom` não abre outra página: só mostra o código no cartão. Clicar na foto ou no nome da empresa abre a página dela no Guia.
 - a ordem dos cupons gira entre as empresas; não é ranking.

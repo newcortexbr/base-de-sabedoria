@@ -8,7 +8,7 @@ categoria: radar
 aba: nao-se-aplica
 tipo_problema: orientacao
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 3FZrdVUN_Yk
@@ -39,6 +39,11 @@ mandar a foto de um preço ou de um encarte para ajudar outras pessoas a economi
 ## resultado
 
 aparece `Valeu! Preço enviado.` e a dica `A equipe confere e, se estiver certo, entra no Radar.` Há os botões `Ver os preços` e `Mandar outro preço`. A equipe do portal confere o envio antes de ele aparecer no Radar, então pode demorar.
+
+## tipos de foto
+
+- `Foto de um produto`: a etiqueta ou a prateleira, até 5 fotos.
+- `Encarte`: o folheto com vários produtos; os preços são lidos da foto.
 
 ## desvios
 

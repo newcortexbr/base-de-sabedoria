@@ -16,7 +16,7 @@ tags:
   - subcategoria
   - ver
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - ajzmuupRJMM
@@ -59,6 +59,27 @@ O painel mostra `Votação criada` e volta à lista. A votação pode ficar agen
 - Cada competição precisa de pelo menos 2 empresas; o formulário aceita até 30 competições por votação.
 - A primeira tela cadastra `Datas e competições`; `Próximo` só abre a revisão e ainda não cria a votação.
 - Para mudar o prazo, veja “alterar as datas de uma votação Melhores da Cidade”. Para avaliar alertas, veja “decidir sobre votos suspeitos no Melhores da Cidade”.
+
+## lista e cartão
+
+- Votação: público escolhe os melhores comércios do Guia. A lista tem busca por nome e abas `Todas`, `No ar`, `Agendadas`, `Encerradas`.
+- Cartão de votação no ar: nome, período, competições, total de votos, votos de hoje, tempo restante (barra amarela de andamento) e quadro `Liderando` com o primeiro de cada disputa em tempo real. Botões: `Ver placar`, `Votos suspeitos`, `Encerrar agora`, `Ver no site`; lápis edita, lixeira exclui.
+- Ao criar, o nome da competição é sugerido sozinho e um aviso mostra como aparece no site e quantas empresas concorrem.
+
+## placar
+
+`Ver placar` mostra os números completos, inclusive na última hora (quando o placar deixa de aparecer no site): votos válidos, tempo restante, votos anulados e alertas aguardando decisão. A tabela traz cada participante, distância para o primeiro, total e votos de hoje; quem recebe votos estranhos ganha a etiqueta `suspeito`.
+
+## depois de encerrada
+
+O cartão em `Encerradas` mostra o resultado final: votos válidos, competições, votos anulados e o pódio com o campeão de cada disputa. Os campeões ficam no site e no bloco da home até a próxima votação terminar.
+
+## no site para o visitante
+
+- Bloco de explicação: vota quantas vezes quiser, sem cadastro; quem tiver mais votos quando o cronômetro zerar leva o troféu.
+- Votação em andamento com cronômetro (dias, horas, minutos, segundos); em destaque, os participantes com posição e botão de votar.
+- Ao votar, o portal pede confirmação e uma verificação de segurança contra votos automáticos.
+- `Todas as competições` lista cada disputa com `Ver todos e votar`.
 
 ## quando pedir ajuda
 

@@ -15,7 +15,7 @@ tags:
   - despublicar
   - reativar
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - BqIfSq7bVXM
@@ -42,6 +42,7 @@ Após a operação, o banner permanece cadastrado e fica inativo.
 ## desvios
 
 - Para colocar de volta, faça o mesmo caminho e clique em `Ativar`. A exibição também depende das datas e da aprovação.
+- Banner vencido sai do site sozinho quando a data fim termina, sem precisar desativar.
 - O botão de ativar ou desativar só aparece nos banners aprovados; não aprova nem quita um banner.
 - Para apagar o cadastro, veja “excluir um banner publicitário”. Desativar não é excluir.
 

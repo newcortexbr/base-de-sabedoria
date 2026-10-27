@@ -16,7 +16,7 @@ tags:
   - editar
   - telefone
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 8gIDPdapN0E
@@ -46,6 +46,14 @@ Com link válido e visibilidade ligada, o convite fica disponível na área dos 
 ## desvios
 
 Sem link, o botão não aparece. Para esconder sem apagar o convite, desmarque `Mostrar o botão para os parceiros`. Se o endereço for inválido, a tela pede `Cole o link de convite do grupo (começa com https://chat.whatsapp.com/).`
+
+## dica
+
+Crie um grupo só para os parceiros. Use-o para dicas de venda, novidades, promoções e avisos do portal e para manter a equipe de vendas engajada.
+
+## onde o parceiro vê
+
+Faixa verde `Grupo dos parceiros` com `Entrar no grupo` no início da área dele, e atalho fixo no menu lateral.
 
 ## quando pedir ajuda
 

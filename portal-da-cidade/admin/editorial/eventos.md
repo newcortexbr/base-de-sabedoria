@@ -14,7 +14,7 @@ tags:
   - endereco
   - foto
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - Hyh3UxHW_jU
@@ -54,6 +54,22 @@ Acesso de administrador ao módulo de eventos.
 
 ## resultado
 O formulário fecha após o salvamento. Em cadastro novo, a galeria é enviada depois que o evento é criado. Se parte do envio falhar, o evento já existe: abra sua edição e envie só os itens que faltaram.
+
+## cadastro pelo cliente
+
+Além do painel, o próprio cliente cadastra o evento na área do cliente (receita para o portal):
+
+- Em `Agenda de Eventos` ele vê como paga, os eventos no ar, os aguardando pagamento e os em análise, e clica em novo evento.
+- Preenche título, data, horário, local, foto e contato, escolhe a divulgação e paga. Depois do pagamento o evento passa pela sua aprovação.
+- Os planos de eventos são configuráveis em `Meus Planos` (agenda de eventos): pacotes mensais (por exemplo 5 eventos por mês) ou pagamento único por evento, com ou sem destaque. Você define nome, preço e benefícios.
+
+## página pública do evento
+
+- Topo: data em destaque, título, local, organizador e botões de WhatsApp e como chegar.
+- Abaixo: descrição, galeria de fotos e vídeos e mapa da localização.
+- Ao lado: preço com botão de contato, quem organiza, informações de data e ingresso e compartilhamento.
+- No fim, os próximos eventos levam o visitante para mais programação.
+- A agenda do painel tem busca, filtros e as abas de categorias e organizadores.
 
 ## desvios
 - Para incluir os horários de cada atividade, veja [montar a programação de um evento](eventos-programacao.md).

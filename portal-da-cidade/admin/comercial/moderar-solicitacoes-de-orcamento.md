@@ -15,7 +15,7 @@ tags:
   - status
   - pendente
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - Ru3949-VUX4
@@ -69,6 +69,15 @@ O pedido passa para aprovado. Ele fica disponível para empresas elegíveis e o 
 
 - Receber pedidos depende do benefício `orcamentos`, da subcategoria do pedido e das condições de acesso da empresa; não basta o plano ter o nome de “mais completo”.
 - A tela permite alterar status, não reescrever o texto do pedido.
+
+## tela e fluxo
+
+- Todo pedido chega primeiro ao admin; só depois de aprovado vai às empresas. O visitante vê que o portal vai analisar e que, aprovado, os profissionais chamam pelo WhatsApp.
+- Cartões: total de pedidos, aguardando aprovação, aprovados, encerrados, reprovados. Filtros: status, categoria e período.
+- Lista: pedido, cliente, subcategoria do serviço, status e quando chegou. Ações da linha: olho (detalhes), lápis (mudar status), visto (aprovar), X (reprovar), lixeira (excluir).
+- Detalhes: descrição, fotos enviadas, WhatsApp, categoria, local e serviços marcados.
+- Aprovado, o pedido vai na hora às empresas da subcategoria, que são avisadas por e-mail. A empresa vê o pedido na área do cliente e responde direto pelo WhatsApp do morador.
+- Receber orçamentos é benefício de plano do Guia (aparece em `Meus planos`; nos planos sem ele consta como recurso que falta), o que valoriza o plano mais completo. Reprove o pedido inadequado.
 
 ## quando pedir ajuda
 

@@ -14,7 +14,7 @@ tipo_problema:
   - hostinger
   - cloudflare
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 9-7aT2M-jmk
@@ -45,6 +45,16 @@ a tela mostra `Procurando o apontamento DNS`: `Se já salvou a alteração, agor
 - o que você faz: só a troca dos 2 nameservers no registrador.
 - o que o sistema faz sozinho: cria a zona de DNS do seu domínio (na Cloudflare), aponta o domínio para o portal, ativa o certificado de segurança (o cadeado do https) e confere a propagação.
 - o domínio com `www` na frente também é preparado e leva para o endereço principal.
+
+## no registrador
+
+- Use sempre os dois endereços que aparecem na sua tela (exclusivos do seu portal) e copie exatamente, sem espaços.
+- Registro.br: `Acessar conta` > `Domínios` > clique no domínio > seção `DNS` > `Alterar servidores DNS`. Cole o primeiro endereço em `Servidor 1` e o segundo em `Servidor 2` e clique em `Salvar alterações`.
+- Hostinger: `Domínios` > `Gerenciar` no domínio > `DNS/Nameservers` > `Alterar nameservers`, com a opção `Alterar nameservers` marcada. Apague os endereços dos campos, cole um em cada campo, deixe os outros vazios e clique em `Salvar`.
+- Outro registrador: peça ao suporte dele como trocar os servidores DNS.
+- Se você escolheu subdomínio, a tela mostra um registro para criar em vez dos nameservers; peça ajuda ao suporte de onde comprou o domínio.
+- A alteração costuma valer em poucas horas; a propagação pode levar até 24 horas e, em alguns casos, 48 (na Hostinger, às vezes um pouco mais). É normal: não repita a alteração. O portal só abre pelo endereço depois disso.
+- `Já configurei` faz a tela procurar o apontamento sozinha; não precisa ficar nela. Achado o DNS, a instalação avança para a última etapa.
 
 ## desvios
 - trocar os nameservers muda o DNS do domínio inteiro. se você já tem e-mail ou outro site nesse domínio, fale com o suporte antes, ou use um subdomínio.

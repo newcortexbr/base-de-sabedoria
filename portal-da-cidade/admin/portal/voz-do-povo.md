@@ -14,7 +14,7 @@ tags:
   - denuncia
   - painel
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - 1a0wZmdXDLk
@@ -53,3 +53,14 @@ O relato completo abre com os dados e anexos disponíveis.
 ## lacunas
 
 - Conferido por leitura do código no HEAD b2f62d3f. Sem execução do produto ou validação visual nesta auditoria.
+
+## o que o morador envia
+
+- Página pública `A Voz do Povo`: formulário de denúncia, previsão do tempo, linhas de ônibus e telefones úteis da cidade.
+- No formulário: categoria do problema (por exemplo iluminação pública, buraco na via, lixo irregular); o relato escrito ou gravado em áudio (um dos dois é obrigatório); cidade, bairro e quando aconteceu; até 5 fotos e 1 vídeo; contato opcional. Pode ser anônima.
+- Ao clicar em `Enviar denúncia`, o morador recebe a confirmação e o relato chega na caixa de entrada `Denúncias` do painel.
+- Uso editorial: o relato pode virar pauta e notícia.
+
+## a lista
+
+Cada linha mostra categoria, local, hora e status. Os botões da linha mudam o status (`Em análise`, `Resolvida`, `Arquivar`). O filtro separa as abertas do histórico.

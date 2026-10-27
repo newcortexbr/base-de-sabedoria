@@ -48,6 +48,12 @@ A comissão passa a paga após a operação. A tela avisa que essa baixa não po
 
 A data não pode ser futura. O comprovante aceita imagem ou PDF de até 5 MB e pode ser anexado ou trocado depois pelo extrato. Para mudar a comissão de venda ou renovação, edite o plano em `Planos de parceiro`; veja `mudar-comissao-do-plano-de-parceiro.md`.
 
+## ver as comissões
+
+- `Ver todas as comissões` separa o que é para pagar por fora, o que está caindo pelo Asaas e o que já foi pago; filtra por parceiro.
+- `Extrato de pagas` mostra as já baixadas.
+- Os cartões `Pagar por fora` e `Pelo Asaas, sozinho`, no topo da tela, abrem a mesma lista.
+
 ## quando pedir ajuda
 
 Peça ajuda se a tela mostrar erro ou se o resultado não corresponder ao que você salvou. Não envie senhas, chaves ou comprovantes ao assistente.

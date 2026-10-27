@@ -3,7 +3,6 @@ id: empresa-enviar-preco-e-aprovacao
 titulo: "empresa enviar preço: Radar, cardápio e Guia, e se precisa de aprovação"
 publico:
   - cliente
-  - admin
 modulo: radar
 categoria: radar
 aba: nao-se-aplica
@@ -17,20 +16,20 @@ tags:
   - aprovacao
   - empresa
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 ---
 
 ## objetivo
 
-saber por onde uma empresa pode colocar preço no portal e se o preço passa pela sua aprovação.
+saber por onde a sua empresa pode colocar preço no portal e se o preço passa pela aprovação do portal.
 
 ## explicação
 
-- **Radar de Preços**: a empresa não tem área própria no Radar. Só visitantes enviam preço, pela página `Enviar preço` (botão `Enviar foto ou encarte`), sempre com foto, e a equipe do portal confere antes de publicar. O administrador também lança preço direto no painel. Para a empresa aparecer no Radar, ela avisa o portal ou o administrador cadastra.
+- **Radar de Preços**: a empresa não tem área própria no Radar. Preço entra pela página `Enviar preço` (botão `Enviar foto ou encarte`), sempre com foto, e a equipe do portal confere antes de publicar. Para a sua empresa aparecer no Radar, avise o portal.
 - **cardápio do delivery**: a empresa com delivery cadastra produtos e preços na área do cliente, em `Guia Comercial`, no cartão `Cardápio do delivery` (botão `Configurar`). O preço vai ao ar na hora, sem aprovação, mesmo com a fila ligada (o delivery não tem passo de análise).
 - **Guia Comercial**: o que passa pela aprovação é o cadastro inicial da empresa (`Pendente`), não o preço. Depois de publicada, mudar dados ou serviços não pede aprovação de novo.
-- preço estranho no Radar fica em `Preços retidos` esperando o administrador; veja "resolver preços retidos do Radar de Preços".
+- preço muito fora do normal no Radar espera a conferência do portal antes de aparecer.
 
 ## passos (empresa com delivery)
 

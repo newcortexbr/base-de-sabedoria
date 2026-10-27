@@ -15,7 +15,7 @@ tags:
   - salario
   - publicar
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - ufB3QTKfPsM
@@ -70,6 +70,12 @@ A vaga é gravada e aparece na lista do painel. Para a publicação no site, tam
 ## quando pedir ajuda
 
 Peça ajuda se a tela não carregar ou se a ação mostrar erro. Informe a mensagem e a ação tentada, sem enviar senha.
+
+## contato e modelo de trabalho
+
+- `Modelo de trabalho`: presencial, home office ou híbrido.
+- `URL de candidatura (site externo)`, `WhatsApp para contato` e `E-mail para currículo` são o caminho do candidato até a empresa; preencha ao menos um.
+- `Benefícios (um por linha)`: cada linha vira um item. `Status` e `Expira em` definem se e até quando a vaga fica ativa.
 
 ## fontes
 

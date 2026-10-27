@@ -16,7 +16,7 @@ tags:
   - empresa
   - reativar
 status: rascunho-documental
-revisado_em: 2026-10-24
+revisado_em: 2026-10-27
 validacao: docs-e-codigo
 videos:
   - Xfc771aD4z8
@@ -68,6 +68,18 @@ Para reativar, encontre o estabelecimento na aba `Desativados` e use `Ativar`.
 3. Na janela `Excluir este estabelecimento?`, clique em `Excluir`. [guia=confirmacao.confirmar]
 
 A exclusão também apaga os preços do estabelecimento, como informa a confirmação. Para um cadastro novo, veja “cadastrar um estabelecimento no Radar de Preços”.
+
+## tela
+
+Topo: quantos estabelecimentos estão ativos e quantos esperam aprovação. Busca por nome ou endereço; filtros `Todos`, `Precisa aprovar`, `Ativos`, `Desativados`; e por categoria (supermercados, farmácias, postos de combustível). Cada cartão mostra nome, endereço, categoria, situação e quantos preços tem.
+
+## origem dos pendentes
+
+Moradores indicam estabelecimentos novos ao enviar um preço pelo site; chegam em `Precisa aprovar` com a etiqueta `pendente de aprovação`. Se for um já existente escrito de outro jeito, use `Juntar com…`: os preços passam para o escolhido (lista sem duplicados). Aprovar uma foto de preço com estabelecimento novo aprova o estabelecimento junto.
+
+## no site
+
+Cada preço mostra o estabelecimento, o endereço e o botão para abrir no Maps. Desativar tira do site sem apagar nada.
 
 ## fontes
 

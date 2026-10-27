@@ -15,7 +15,7 @@ tipo_problema:
   - limite-de-cidades
   - dados-pj
 status: rascunho-documental
-revisado_em: 2026-10-21
+revisado_em: 2026-10-27
 validacao: codigo-e-video
 videos:
   - JXWDV_IiAWQ
@@ -34,7 +34,7 @@ limitar a lista à região certa.
 - não dá para gerar lista de outro estado.
 - `Cidades`: de 1 a 3 por lista, todas do estado. a tela não deixa marcar a quarta e o `EXPORTAR LISTA` fica desabilitado sem cidade (`Selecione de 1 a 3 municípios.`).
 - outras 3 cidades exigem outra lista (outro crédito).
-- `Bairros (opcional)`: aparecem depois de escolher a cidade. os nomes vêm como estão na Receita, às vezes com grafias diferentes; marque todas as variantes. para cidade pequena, o vídeo sugere não filtrar bairro e filtrar depois no arquivo.
+- `Bairros (opcional)`: aparecem depois de escolher a cidade. os nomes vêm como estão na Receita, às vezes com grafias diferentes; marque todas as variantes. em cidade grande (ex.: São Paulo, Rio, Curitiba) com Guia focado em poucos bairros, filtre por bairro; em cidade pequena, não filtre e filtre depois no arquivo. não há limite de empresas por lista, só de listas.
 - `DDD (opcional)`: vem a empresa com ao menos um dos seus até 3 telefones naquele DDD. útil para tirar empresas com telefone de outra região (ex.: matriz em outro estado). pode marcar vários.
 
 ## passos
