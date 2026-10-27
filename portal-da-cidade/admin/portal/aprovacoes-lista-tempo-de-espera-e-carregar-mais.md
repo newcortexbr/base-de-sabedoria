@@ -44,7 +44,7 @@ Você vê os envios esperando, do mais antigo para o mais novo.
 
 ## perguntas comuns
 
-**existe prazo para aprovar?** Não. O portal não define prazo, não avisa ninguém do atraso e não aprova nem recusa sozinho.
+**existe prazo para aprovar?** Não. Não há prazo, ninguém é avisado do atraso e nada é aprovado ou recusado sozinho. **O que fazer:** olhe a fila todo dia; o número ao lado de `Aprovações e Denúncias` no menu mostra quantos esperam, e o mais antigo fica em cima. Se quiser um aviso de atraso, peça a função em `Sugestões de Funções`. [guia=menu:/painel/sugestoes]
 **posso filtrar por tipo ou cliente?** Não. A lista não tem filtro nem outra ordem: o mais antigo fica em cima.
 **o que é "Exibindo X de Y"?** X são os envios já mostrados na tela; Y é o total esperando.
 **para que serve `Carregar mais (N restantes)`?** Mostra os próximos 20 envios.

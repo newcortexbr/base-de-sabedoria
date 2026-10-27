@@ -46,7 +46,7 @@ Aparece `Sugestão enviada. Obrigado!`. O histórico fica em `Suas sugestões en
 
 ## desvios
 
-O campo E-mail vem da conta e é somente leitura. Enviar uma ideia não define prazo de implementação.
+O campo E-mail vem da conta e é somente leitura. A tela não mostra prazo nem andamento: a lista `Suas sugestões enviadas` traz só o `Título` e a data em `Enviada em`. **O que fazer:** para saber se a ideia vai ser feita, fale com a equipe que entregou o portal, citando o título enviado.
 
 ## fontes
 

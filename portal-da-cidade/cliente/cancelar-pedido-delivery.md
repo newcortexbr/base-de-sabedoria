@@ -45,14 +45,16 @@ o pedido passa a aparecer no filtro `Cancelados`, com a mensagem `Cancelado pela
 ## desvios
 
 - na janela, `Voltar` fecha sem cancelar.
+- o botão `Cancelar` só aparece enquanto o pedido está aguardando. Depois de clicar em `Concluir`, não dá mais para cancelar pela tela. Não há prazo em horas: vale até concluir.
 - sem motivo, aparece `Informe o motivo do cancelamento.` e o pedido não é cancelado.
 - o item `Delivery` do menu só aparece quando a empresa tem delivery liberado pelo plano do Guia Comercial.
 
 ## fontes
+- `frontend/src/app/minha-conta/delivery/pedidos/page.tsx:391,442-457` (Cancelar só aguardando)
 
 - `frontend/src/app/minha-conta/delivery/pedidos/page.tsx:449` — botão `Cancelar`; `:466-493` janela, motivo e `Cancelar pedido`; `:94-98` texto de quem cancelou.
 - `frontend/src/app/minha-conta/ClienteSidebar.tsx:195-207` — grupo `Delivery` e item `Pedidos`.
 
 ## lacunas
 
-tela não validada no navegador nesta tarefa. A janela de cancelamento só é aberta pelo botão `Cancelar`; não há prazo máximo para cancelar no código da tela.
+tela não validada no navegador nesta tarefa.

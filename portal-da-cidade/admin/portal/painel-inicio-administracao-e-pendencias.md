@@ -56,7 +56,7 @@ Abre o seu domínio próprio quando ele já está verificado. Senão, abre o sit
 
 ## `Precisa da sua atenção`
 
-Cada linha é um tipo de pendência, sempre nesta ordem fixa (não dá para mudar):
+Cada linha é um tipo de pendência, sempre nesta ordem fixa (não dá para mudar; se quiser outra ordem, peça a função em `Sugestões de Funções` [guia=menu:/painel/sugestoes]):
 
 1. Empresas aguardando aprovação (só com o Guia ligado), com `A mais antiga espera há N dias` ou `A mais antiga chegou hoje`. O botão `Revisar` abre a lista de empresas do Guia já mostrando só as pendentes.
 2. Itens na fila de aprovação: tudo que clientes enviaram e espera sua decisão. O botão `Abrir fila` abre `Aprovações e Denúncias`.
@@ -70,7 +70,7 @@ Cada linha é um tipo de pendência, sempre nesta ordem fixa (não dá para muda
 
 **uma empresa pendente conta nas duas linhas?** Sim. A empresa aguardando aprovação também entra na soma da fila de aprovação.
 
-**depois de quantos dias fica urgente?** O portal não define prazo de urgência; só mostra há quantos dias espera a mais antiga.
+**depois de quantos dias fica urgente?** Nunca muda sozinho: não tem prazo de urgência nem troca de cor. A linha só mostra há quantos dias espera a mais antiga. **O que fazer:** escolha uma regra sua (por exemplo, revisar tudo que passar de poucos dias) e abra as pendências pelo botão da linha.
 
 **"Denúncias de moradores" é a aba Denúncias?** Não. São relatos da Voz do Povo. As denúncias de conteúdo da aba `Denúncias` em `Aprovações e Denúncias` não aparecem neste bloco.
 

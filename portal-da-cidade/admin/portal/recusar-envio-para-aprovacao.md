@@ -51,7 +51,7 @@ Aparece `Publicação recusada`, o envio sai da lista e o cliente recebe por e-m
 **o cliente vê exatamente o que escrevo?** Sim, o texto vai no e-mail e fica gravado no item.
 **cancelar ou clicar fora perde o texto?** Sim. A janela fecha e o motivo escrito se perde.
 **recusar dentro do detalhe perde o que li?** Não. O detalhe fecha e abre a janela do motivo; você pode abrir o detalhe de novo depois.
-**o que o cliente faz depois?** O e-mail leva à área do cliente. O portal não tem, nesta tela, um passo a passo do reenvio para cada tipo.
+**o que o cliente faz depois?** O e-mail leva à área do cliente, onde ele edita o item e salva; com isso o item volta para a fila. Banner não tem reenvio. **O que fazer:** escreva no motivo exatamente o que ele deve corrigir, porque é só pelo e-mail que ele vê o motivo.
 **posso desfazer uma recusa?** Não. O item fica recusado até o cliente reenviar.
 
 ## fontes

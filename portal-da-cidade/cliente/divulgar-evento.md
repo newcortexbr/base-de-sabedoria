@@ -58,12 +58,14 @@ depois de pago, se o portal exigir aprovação, o evento entra em análise antes
 - O título não muda depois que o evento foi publicado (aviso da tela).
 - Ao editar um evento, o botão do fim se chama `Salvar alterações`.
 - Os filtros da lista são `Todos`, `Aguardando pagamento`, `Em análise`, `Publicado`, `Encerrados` e `Reprovado`.
+- Prazo de análise: depois do envio, a tela avisa que a análise leva de 24h a 48h úteis e que você recebe um e-mail quando o evento for analisado. A análise é feita pelo portal. **O que fazer:** acompanhe pelo filtro `Em análise` e depois `Publicado` ou `Reprovado`. Se passar desse prazo, fale com o portal.
 
 ## quando pedir ajuda
 
 peça ajuda se aparecer "Divulgação indisponível no momento. Volte mais tarde." ou se o evento pago não entrar em análise.
 
 ## fontes
+- `frontend/src/app/minha-conta/eventos/EventoForm.tsx:854` (aviso 24h a 48h e e-mail)
 
 - `frontend/src/app/minha-conta/eventos/page.tsx:35-40` — situações; `:136-143` `Novo evento`; `:185-193` filtros; `:226-237` reprovação e `Continuar pagamento`.
 - `frontend/src/app/minha-conta/eventos/EventoForm.tsx:332-340` — título, data e uma foto obrigatórios; `:572-760` campos e seções; `:827-832` botões finais; `:584-586` aviso do título.
@@ -72,4 +74,4 @@ peça ajuda se aparecer "Divulgação indisponível no momento. Volte mais tarde
 
 ## lacunas
 
-tela não validada no navegador nesta tarefa. Não há prazo de análise no código além do aviso "24h a 48h úteis" mostrado após o pagamento. A foto de capa é opcional no código; a validação exige ao menos uma foto na galeria (`EventoForm.tsx:339`).
+tela não validada no navegador nesta tarefa. O prazo de 24h a 48h é só aviso da tela (`EventoForm.tsx:854`), não controlado pelo sistema. A foto de capa é opcional no código; a validação exige ao menos uma foto na galeria (`EventoForm.tsx:339`).

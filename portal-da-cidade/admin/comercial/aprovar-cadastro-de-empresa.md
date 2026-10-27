@@ -47,7 +47,7 @@ A empresa passa a `Ativo` e o cliente recebe um e-mail avisando. Para aparecer n
 ## perguntas comuns
 
 **posso aprovar ou recusar cadastro?** Sim, o cadastro de empresa feito pelo cliente: aprove ou recuse na aba `Aprovações`. A criação da conta do cliente em si não passa por aprovação.
-**quanto tempo leva?** Depende só de você. O portal não define prazo, não aprova nem recusa sozinho e não avisa sobre atraso. A linha mostra há quanto tempo o cadastro espera.
+**quanto tempo leva?** Depende só de você. Não há prazo, nada é aprovado ou recusado sozinho e ninguém é avisado do atraso. A linha mostra há quanto tempo o cadastro espera. **O que fazer:** olhe a aba `Aprovações` todo dia; o número no menu mostra quantos esperam.
 **e com a aprovação desligada?** A empresa cadastrada vai direto ao ar.
 **a empresa que eu mesmo cadastro passa pela fila?** Não, vai direto ao ar.
 

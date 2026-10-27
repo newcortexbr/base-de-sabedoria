@@ -54,7 +54,9 @@ Aparece `Responsável bloqueado` e a denúncia passa para `Resolvidas`.
 
 ## perguntas comuns
 
-**a pessoa sabe o motivo?** Não. Ela só vê a mensagem para falar com o portal; não há outro canal de contestação.
+**a pessoa sabe o motivo?** Não. Ela só vê a mensagem para falar com o portal; não há tela de contestação. **O que fazer:** se quiser explicar o motivo, fale você com ela pelo contato do cadastro. Se ela contestar e você concordar, desfaça o bloqueio.
+**a cobrança para quando eu bloqueio?** Não. **O que fazer:** se não quiser continuar cobrando, abra o cliente em `Meus Clientes` e cancele a contratação dele (janela `Cancelar contratação`). [guia=menu:/painel/clientes]
+**tem uma lista de bloqueados?** Não. **O que fazer:** em `Denúncias`, filtre `Status` por `Resolvidas`; as denúncias que bloquearam mostram `Desfazer bloqueio`. [guia=denuncias.filtro-status] Para pedir essa função, use `Sugestões de Funções`, no rodapé do menu da esquerda. [guia=menu:/painel/sugestoes]
 **posso desfazer?** Sim, veja "desfazer o bloqueio feito por uma denúncia".
 **por que `Bloquear empresa/conta` está desabilitado?** Porque a denúncia não tem responsável ou ele já está bloqueado.
 
@@ -64,8 +66,8 @@ Aparece `Responsável bloqueado` e a denúncia passa para `Resolvidas`.
 - backend/denuncias/servicos.py:88-237
 - backend/denuncias/middleware.py:46-88 (COMPRAS_DO_CLIENTE)
 - frontend AvisoBloqueioCliente.tsx
+- frontend/src/app/painel/clientes/[id]/page.tsx:455,1104 (Cancelar contratação)
 
 ## lacunas
 
 - Conferido por leitura do código no HEAD 66d38db2 (wt-suporte-tool). Sem execução do produto nem validação visual.
-- Se a cobrança deve parar com o bloqueio é decisão do dono; o portal não define.

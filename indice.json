@@ -13801,7 +13801,7 @@
   },
   {
    "id": "entender-o-trafego-do-portal",
-   "titulo": "entender os números do tráfego do portal (acessos, visitantes, tempo médio, gráfico, seções, mais lidas, relatório PDF)",
+   "titulo": "entender os números do tráfego do portal (acessos, visitantes, tempo médio, gráfico, seções, mais lidas, endereço em vez do título, relatório PDF)",
    "objetivo": "Consulte as visitas ao site público do portal, compare com o período anterior e baixe o relatório.",
    "publico": [
     "admin"
@@ -13837,6 +13837,9 @@
     "grafico",
     "secoes",
     "lidas",
+    "endereco",
+    "vez",
+    "titulo",
     "relatorio",
     "pdf",
     "painel",
