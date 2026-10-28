@@ -45,7 +45,7 @@ Aqui você cadastra uma notícia completa pelo painel. A publicação imediata, 
 12. Se quiser, escolha o `Ponto de foco da imagem` no seletor que aparece abaixo da capa. [t=84] [guia=imagem.foco]
 13. Se quiser, preencha `Legenda`. [t=87] [guia=noticias-cadastrar.legenda]
 14. Se quiser, preencha `Créditos`. [t=89] [guia=noticias-cadastrar.creditos]
-15. Em `Status`, escolha `Publicado`. [t=92] [guia=noticias-cadastrar.status]
+15. Em `Status`, escolha `Publicado` para postar agora, ou `Rascunho` para guardar sem publicar: a notícia fica salva e não aparece no site. [t=92] [guia=noticias-cadastrar.status]
 16. Clique em `Adicionar`. [t=98] [guia=noticias-cadastrar.salvar]
 
 ## campos e dicas
