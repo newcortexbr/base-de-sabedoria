@@ -1,14 +1,1 @@
-{
-  "id": "NELLwm_ClmA",
-  "titulo": "Especialista - Seja colunista em nosso portal",
-  "resumo": "Vídeo de captação de colunistas: profissionais liberais publicam artigos assinados em uma coluna própria, com nome, foto, currículo e página de especialista. Não mostra o painel.",
-  "cobre": [
-    "cadastrar-se para ser colunista do portal",
-    "publicar artigos assinados em coluna própria"
-  ],
-  "telas": [],
-  "nao_cobre": [
-    "como escrever e publicar o artigo no painel (vídeo Como Publicar um Artigo)",
-    "preço do plano de colunista (vídeo Meus Planos)"
-  ]
-}
+{"id":"NELLwm_ClmA","titulo":"Especialista - Seja colunista em nosso portal","resumo":"Vídeo de captação de colunistas: profissionais liberais publicam artigos assinados em uma coluna própria, com nome, foto, currículo e página de especialista. Não mostra o painel.","perguntas":["como ser colunista do portal","como ter uma coluna no portal","como virar especialista no portal","como escrever artigos no portal"],"cobre":[],"telas":[],"nao_cobre":[]}

@@ -5,15 +5,27 @@
       "id": "jl7GHmHVJcM",
       "titulo": "Extrator Google Maps > Como extrair lista Maps e Importar no Portal",
       "resumo": "Passo a passo para gerar uma lista de empresas com o extrator GMAPS (Google Maps), por cidade e nicho, e importá-la no guia comercial. Mostra como atribuir categoria às entradas que o sistema não reconhece e como desfazer a importação. O vídeo diz que, sem plano pago, a empresa importada não exibe telefone nem galeria.",
+      "perguntas": [
+        "como importar empresas do Google Maps",
+        "como desfazer importação de empresas",
+        "como importar lista de empresas no portal",
+        "como encher o portal de empresas",
+        "como apagar empresas importadas",
+        "o que fazer se a categoria não for reconhecida"
+      ],
       "cobre": [
-        "gerar lista no extrator GMAPS escolhendo estado, cidade, bairros ou nicho e o limite de crédito",
-        "importar empresas em listar empresas, pelo botão importar do Google Maps, escolhendo o arquivo",
-        "atribuir categoria às entradas que o sistema não reconhece (o sistema sugere as categorias existentes)",
-        "conferir linhas novas e empresas já existentes antes de importar",
-        "desfazer importação para apagar do portal a lista importada"
+        "gerar lista no extrator Maps com finalidade base para o portal",
+        "escolher estado, cidade e bairros",
+        "abrir Importar do Google Maps",
+        "escolher o arquivo da lista",
+        "escolher categoria das entradas não reconhecidas",
+        "conferir linhas novas",
+        "conferir empresas já existentes",
+        "importar",
+        "desfazer importação"
       ],
       "telas": [
-        "Guia comercial › Listar empresas › Importar do Google Maps"
+        "Guia Comercial › Listar Empresas › Importar do Google Maps"
       ],
       "nao_cobre": [
         "uso detalhado do extrator GMAPS (o vídeo manda assistir aos anteriores)",
@@ -25,17 +37,38 @@
       "id": "JYDoZB_vyX8",
       "titulo": "Aprovações / Denuncias",
       "resumo": "Ensina a tela Aprovações e denúncias: as duas regras do portal (exigir aprovação antes de publicar e permitir denúncias de visitantes), aprovar ou recusar conteúdo pendente de clientes, e tratar denúncias ignorando, excluindo o item ou bloqueando o anunciante.",
+      "perguntas": [
+        "como aprovar uma vaga",
+        "como aprovar uma empresa",
+        "como aprovar um classificado",
+        "como recusar uma publicação",
+        "como ligar a aprovação antes de publicar",
+        "como desligar a aprovação",
+        "como ver denúncias de conteúdo",
+        "como excluir um conteúdo denunciado",
+        "como bloquear uma empresa",
+        "como tirar o botão denunciar do site",
+        "como ignorar uma denúncia"
+      ],
       "cobre": [
-        "ligar ou desligar exigir aprovação antes de publicar",
-        "ligar ou desligar permitir que visitantes denunciem conteúdo",
-        "ver detalhe de item pendente (descrição, salário, local e contato)",
-        "aprovar item pendente para entrar no ar",
+        "ligar aprovação antes de publicar",
+        "desligar aprovação antes de publicar",
+        "ligar denúncia de conteúdo pelos visitantes",
+        "desligar denúncia de conteúdo pelos visitantes",
+        "ver itens pendentes de aprovação",
+        "ver detalhe do item pendente",
+        "aprovar item pendente",
         "recusar item pendente",
-        "ver a página denunciada e ignorar, excluir o item ou bloquear empresa ou conta"
+        "ver denúncias recebidas",
+        "ver a página denunciada",
+        "ignorar denúncia",
+        "excluir item denunciado",
+        "bloquear empresa denunciada",
+        "bloquear conta denunciada"
       ],
       "telas": [
-        "Aprovações e denúncias › Aprovações",
-        "Aprovações e denúncias › Denúncias"
+        "Aprovações e Denúncias › Aprovações",
+        "Aprovações e Denúncias › Denúncias"
       ],
       "nao_cobre": [
         "publicação de artigos (vão direto ao ar, sem esta aprovação)",
@@ -47,22 +80,42 @@
       "id": "jZUtDBYZ8DM",
       "titulo": "Painel - Mostrando Todo Painel [Onboarding do Painel Admin]",
       "resumo": "Apresenta o painel do administrador do portal: tráfego, atalhos, pendências e o menu lateral em grupos (conteúdo, comercial e sistema). Mostra também o suporte com IA no canto inferior direito, que pode abrir um chamado para a equipe.",
+      "perguntas": [
+        "como ver as visitas do portal",
+        "como baixar relatório de acessos",
+        "onde ficam os atalhos para criar notícia",
+        "onde vejo pendências do painel",
+        "onde ficam os links do meu portal",
+        "como pedir ajuda no painel admin",
+        "como falar com atendente humano",
+        "como ver as páginas mais lidas"
+      ],
       "cobre": [
-        "ver o tráfego do portal por período e baixar o relatório em PDF",
-        "ler visitantes, tempo médio e páginas por visitante, com comparação ao período anterior",
-        "usar atalhos para criar notícia, empresa, vaga, anúncio, evento ou ponto turístico",
-        "resolver pendências pelos botões (fila de aprovação, faturas vencidas e denúncias)",
-        "copiar os endereços do portal em meus links",
-        "abrir o suporte com IA e pedir atendimento humano, que abre um chamado",
-        "anexar print da tela para a IA explicar o que aparece"
+        "ver tráfego do portal por período",
+        "baixar relatório em PDF",
+        "ver visitantes",
+        "ver tempo médio",
+        "ver páginas por visitante",
+        "ver páginas mais lidas",
+        "criar notícia pelo atalho",
+        "criar empresa pelo atalho",
+        "criar vaga pelo atalho",
+        "criar evento pelo atalho",
+        "ver fila de aprovação",
+        "ver faturas vencidas",
+        "ver denúncias",
+        "copiar endereços em Meus links",
+        "abrir o suporte com IA",
+        "pedir atendimento humano",
+        "anexar print na conversa"
       ],
       "telas": [
-        "Painel (tela inicial)",
-        "Menu lateral › Meus links",
-        "Menu lateral › Aprovações e denúncias",
-        "Menu lateral › Conteúdo",
-        "Menu lateral › Comercial",
-        "Menu lateral › Sistema"
+        "Painel",
+        "Meus Links",
+        "Aprovações e Denúncias",
+        "Conteúdo",
+        "Comercial",
+        "Sistema"
       ],
       "nao_cobre": [
         "configuração de cada seção (vídeos próprios por área)",
@@ -73,23 +126,56 @@
       "id": "gAa2NdnitZU",
       "titulo": "Notícias > Geral",
       "resumo": "Visão geral da área de notícias: listar e publicar ou tirar do ar notícias, cadastrar uma notícia completa com categoria, foto de capa, status e destaque, cadastrar jornalistas com login próprio e organizar categorias, subcategorias e a assinatura padrão de autor.",
+      "perguntas": [
+        "como publicar uma notícia no painel",
+        "como cadastrar uma notícia",
+        "como tirar uma notícia do ar",
+        "como excluir uma notícia",
+        "como agendar uma notícia",
+        "como colocar notícia em destaque na home",
+        "como cadastrar um jornalista",
+        "como bloquear um jornalista",
+        "como trocar a senha do jornalista",
+        "como criar categoria de notícias",
+        "como criar subcategoria de notícias",
+        "como mudar a assinatura do autor",
+        "como buscar uma notícia"
+      ],
       "cobre": [
-        "buscar e filtrar notícias por título, status, categoria, subcategoria e período",
-        "ligar ou desligar uma notícia (publica ou tira do ar na hora)",
-        "cadastrar notícia com título, subtítulo, título curto, chamada, conteúdo, tags e fonte",
-        "escolher o ponto de foco da foto de capa e preencher legenda e créditos",
-        "definir status, agendar data e marcar destaque na janela principal",
-        "cadastrar jornalista com nome, e-mail e senha inicial",
-        "redefinir senha, editar ou bloquear jornalista",
-        "criar, colorir e ativar ou desativar categorias e subcategorias",
-        "definir a assinatura padrão de autor (nome, cargo, foto e redes)"
+        "buscar notícia por título",
+        "filtrar notícias por status",
+        "filtrar notícias por categoria",
+        "filtrar notícias por período",
+        "ligar notícia (publicar)",
+        "desligar notícia (tirar do ar)",
+        "cadastrar notícia",
+        "escrever título, subtítulo e chamada",
+        "escrever título curto",
+        "escrever o conteúdo",
+        "colocar tags",
+        "informar fonte",
+        "escolher categoria e subcategoria",
+        "enviar foto de capa",
+        "escolher ponto de foco da foto",
+        "preencher legenda e créditos",
+        "agendar notícia",
+        "marcar destaque na janela principal",
+        "cadastrar jornalista",
+        "redefinir senha do jornalista",
+        "editar jornalista",
+        "bloquear jornalista",
+        "criar categoria",
+        "escolher cor da categoria",
+        "ativar ou desativar categoria",
+        "criar subcategoria",
+        "definir assinatura padrão do autor"
       ],
       "telas": [
-        "Menu lateral › Notícias › Listar notícias",
-        "Menu lateral › Notícias › Cadastrar notícia",
-        "Menu lateral › Notícias › Gerenciar categorias e subcategorias",
-        "Menu lateral › Notícias › Autor",
-        "Menu lateral › Notícias › Jornalistas"
+        "Notícias › Listar Notícias",
+        "Notícias › Cadastrar Notícia",
+        "Notícias › Gerenciar Categorias e Subcategorias",
+        "Notícias › Autor",
+        "Notícias › Jornalistas"
       ],
       "nao_cobre": [
         "passo a passo do jornalista na própria área (vídeo Jornalista Publicar Notícia)",
@@ -100,16 +186,30 @@
       "id": "r5rFCgAV0mg",
       "titulo": "Notícias Automáticas > Fontes de RSS",
       "resumo": "Mostra como ligar fontes de RSS que publicam notícias sozinhas no portal, todos os dias, às 7h e às 19h. As fontes padrão são do G1. Categorias globais trazem notícias nacionais; as regionais trazem notícias do estado ou região escolhida. Também mostra como escolher se a notícia vai direto ao ar ou fica como rascunho.",
+      "perguntas": [
+        "como ligar notícias automáticas",
+        "como desligar notícias automáticas",
+        "como adicionar fonte de notícias",
+        "como publicar notícias sozinho",
+        "como colocar notícias da minha região",
+        "como deixar notícias automáticas como rascunho",
+        "como escolher a quantidade de notícias automáticas"
+      ],
       "cobre": [
-        "ver fontes de RSS e ligar ou desligar uma fonte",
-        "cadastrar RSS marcando fontes da lista",
-        "escolher categorias globais (Brasil, economia, política, tecnologia, carros e outras)",
-        "escolher notícias regionais por estado ou região",
-        "ajustar a fonte: status e quantidade de notícias por vez",
-        "escolher publicar direto no site ou deixar como rascunho para revisar"
+        "abrir Fontes de RSS",
+        "ligar fonte",
+        "desligar fonte",
+        "cadastrar RSS",
+        "marcar fontes da lista",
+        "escolher categorias nacionais",
+        "escolher notícias regionais por estado",
+        "editar fonte",
+        "definir quantas notícias entram por vez",
+        "publicar direto no site",
+        "deixar como rascunho para revisar"
       ],
       "telas": [
-        "Notícias automáticas › Fontes de RSS"
+        "Notícias Automáticas › Fontes de RSS"
       ],
       "nao_cobre": [
         "notícias escritas pelo jornalista ou pela equipe (vídeo Notícias)",
@@ -120,15 +220,35 @@
       "id": "pBHdF3bd1QI",
       "titulo": "Cupons de Desconto",
       "resumo": "Mostra como criar e editar cupons de desconto no painel administrativo: um cupom por empresa do guia, com foto, código, selo de desconto, condições, tipo e valor do desconto e validade. Mostra também que a própria empresa pode gerenciar o cupom pelo painel do cliente, quando o plano inclui cupom.",
+      "perguntas": [
+        "como criar um cupom de desconto",
+        "como editar um cupom",
+        "como excluir um cupom",
+        "como remover um cupom",
+        "como mudar a validade do cupom",
+        "como criar cupom de valor fixo",
+        "como criar cupom de porcentagem",
+        "como colocar código no cupom"
+      ],
       "cobre": [
-        "criar cupom escolhendo a empresa, foto de capa, código (só letras e números), selo de desconto e condições de uso",
-        "escolher tipo de desconto (percentual ou valor fixo), valor e data de validade",
-        "editar cupom (a empresa fica fixa)",
-        "editar ou remover cupom na lista"
+        "abrir Cupons de desconto",
+        "criar novo cupom",
+        "escolher a empresa do cupom",
+        "enviar foto de capa",
+        "criar código do cupom",
+        "escrever texto do selo de desconto",
+        "escrever condições de uso",
+        "escolher desconto percentual",
+        "escolher desconto em valor fixo",
+        "definir valor do desconto",
+        "definir data de validade",
+        "salvar cupom",
+        "editar cupom",
+        "remover cupom"
       ],
       "telas": [
-        "Guia comercial › Cupons de desconto",
-        "Guia comercial › Cupons de desconto › Novo cupom"
+        "Guia Comercial › Cupons de Desconto",
+        "Guia Comercial › Cupons de Desconto › Novo Cupom"
       ],
       "nao_cobre": [
         "cupons criados pela própria empresa no painel do cliente (vídeo Cupons de desconto do cliente)",
@@ -139,22 +259,50 @@
       "id": "ufB3QTKfPsM",
       "titulo": "Vagas de Emprego > Geral",
       "resumo": "Apresenta as cinco frentes de vagas de emprego no painel: listar vagas, nova vaga, áreas de vagas, contratantes e a página pública. Ensina a cadastrar uma vaga com empresa, cargo, contrato, local, salário, contato, descrição, requisitos e benefícios, e a encerrar ou reativar uma vaga.",
+      "perguntas": [
+        "como cadastrar uma vaga de emprego no painel",
+        "como publicar uma vaga",
+        "como encerrar uma vaga",
+        "como reativar uma vaga",
+        "como excluir uma vaga",
+        "como buscar uma vaga",
+        "como cadastrar um contratante",
+        "como criar área de vagas",
+        "como marcar vaga PCD",
+        "como marcar vaga urgente",
+        "como colocar salário na vaga"
+      ],
       "cobre": [
-        "buscar vaga por cargo e filtrar por área e status",
-        "encerrar ou reativar vaga pela pílula de status",
-        "cadastrar nova vaga (contratante, título, área, tipo de contrato, carga horária, cidade e modelo de trabalho)",
-        "marcar PCD, primeiro emprego, urgente ou destaque",
-        "informar salário ou marcar a combinar",
-        "informar WhatsApp, e-mail ou link de candidatura",
-        "escrever descrição, requisitos e benefícios (um por linha) e data de expiração",
-        "criar área de vagas com nome, ícone e cor",
-        "cadastrar contratante com logo, localização e redes sociais"
+        "buscar vaga por cargo",
+        "filtrar vagas por área",
+        "filtrar vagas por status",
+        "encerrar vaga",
+        "reativar vaga",
+        "editar vaga",
+        "excluir vaga",
+        "ver insights da vaga",
+        "cadastrar nova vaga",
+        "escolher empresa contratante",
+        "escolher área, contrato, carga horária, cidade e modelo",
+        "marcar PCD",
+        "marcar primeiro emprego",
+        "marcar urgente",
+        "marcar destaque",
+        "informar salário",
+        "marcar salário a combinar",
+        "informar WhatsApp, e-mail ou link",
+        "escrever descrição, requisitos e benefícios",
+        "definir data de expiração",
+        "criar área de vagas",
+        "escolher ícone e cor da área",
+        "cadastrar contratante",
+        "enviar logo do contratante"
       ],
       "telas": [
-        "Vagas de emprego › Listar vagas",
-        "Vagas de emprego › Nova vaga",
-        "Vagas de emprego › Áreas de vagas",
-        "Vagas de emprego › Contratantes"
+        "Vagas de Emprego › Listar Vagas",
+        "Vagas de Emprego › Nova Vaga",
+        "Vagas de Emprego › Áreas de Vagas",
+        "Vagas de Emprego › Contratantes"
       ],
       "nao_cobre": [
         "como o candidato se inscreve na vaga (mostrado de relance)",
@@ -165,63 +313,121 @@
       "id": "Ps1cgdLQ1FI",
       "titulo": "Classificados > Geral",
       "resumo": "Mostra a tela Classificados do painel: acompanhar e filtrar anúncios, ver status e cliques no WhatsApp, marcar como vendido ou excluir, organizar categorias e cadastrar anunciantes. Os próprios anunciantes criam e gerenciam os anúncios pela área deles.",
+      "perguntas": [
+        "como excluir um anúncio de classificados",
+        "como editar um anúncio",
+        "como marcar anúncio como vendido",
+        "como cadastrar um anunciante",
+        "como dar selo de verificado ao anunciante",
+        "como ativar uma categoria de classificados",
+        "como desativar uma categoria",
+        "como criar anúncio pelo painel",
+        "como buscar um anúncio",
+        "como ver anúncios sem foto"
+      ],
       "cobre": [
-        "filtrar anúncios por aba, busca, categoria e status",
-        "ver anúncio no site, editar, marcar como vendido ou excluir",
-        "criar novo anúncio pelo painel em casos especiais",
-        "ativar ou desativar categoria e suas subcategorias",
-        "cadastrar anunciante com e-mail de acesso e selo de verificado"
+        "filtrar anúncios por aba",
+        "buscar anúncio",
+        "filtrar anúncios por categoria",
+        "filtrar anúncios por status",
+        "ver anúncio no site",
+        "editar anúncio",
+        "marcar anúncio como vendido",
+        "excluir anúncio",
+        "criar novo anúncio pelo painel",
+        "ativar categoria",
+        "desativar categoria",
+        "ativar ou desativar subcategorias",
+        "cadastrar anunciante",
+        "informar e-mail de acesso do anunciante",
+        "dar selo de verificado ao anunciante"
       ],
       "telas": [
-        "Classificados › Listar anúncios",
-        "Classificados › Novo anúncio",
+        "Classificados › Listar Anúncios",
+        "Classificados › Novo Anúncio",
         "Classificados › Categorias",
         "Classificados › Anunciantes"
       ],
       "nao_cobre": [
-        "aprovação de anúncios e denúncias (vídeo Aprovações e denúncias)",
-        "limites e preços dos planos de classificados (vídeo Meus Planos)",
-        "criação de anúncios pelo próprio anunciante (citada, não ensinada)"
+        "definir limites e preços dos planos (vídeo Meus Planos)",
+        "configurar aprovação de anúncios (vídeo Aprovações e Denúncias)"
       ]
     },
     {
       "id": "QrkL_nJEa-c",
       "titulo": "Guia Turístico > Pontos Turísticos - Geral",
       "resumo": "Ensina a cadastrar um ponto turístico no painel: foto principal, nome, categoria, descrição, tags, destaque, entrada gratuita, endereço pelo CEP, horários, dicas, galeria e SEO. O ponto aparece na lista e no portal com foto, mapa e horários.",
+      "perguntas": [
+        "como cadastrar um ponto turístico",
+        "como criar um ponto turístico",
+        "como colocar foto no ponto turístico",
+        "como colocar horário de funcionamento no ponto turístico",
+        "como criar categoria de ponto turístico",
+        "como colocar vídeo do YouTube no ponto turístico",
+        "como marcar ponto turístico em destaque",
+        "como colocar entrada gratuita"
+      ],
       "cobre": [
-        "cadastrar novo ponto turístico",
-        "enviar foto principal do ponto",
-        "preencher nome, categoria (existente ou nova), descrição e tags",
-        "marcar destaque, ativo e entrada gratuita",
-        "preencher endereço pelo CEP e conferir a localização no mapa",
-        "informar horários de cada dia (fechado ou 24 horas)",
-        "adicionar dicas para visitantes e fotos ou vídeos do YouTube à galeria",
-        "definir título e descrição de SEO"
+        "abrir Pontos turísticos",
+        "clicar em Novo ponto",
+        "enviar foto principal",
+        "escrever nome do ponto",
+        "escolher categoria",
+        "criar nova categoria",
+        "escrever descrição",
+        "colocar tags",
+        "marcar destaque",
+        "marcar ativo",
+        "marcar entrada gratuita",
+        "preencher endereço pelo CEP",
+        "informar horários de cada dia",
+        "marcar dia fechado ou 24 horas",
+        "adicionar dicas para visitantes",
+        "adicionar fotos na galeria",
+        "adicionar vídeo do YouTube",
+        "preencher título e descrição para o Google",
+        "cadastrar o ponto"
       ],
       "telas": [
-        "Guia turístico › Pontos turísticos",
-        "Pontos turísticos › Novo ponto"
+        "Guia Turístico › Pontos Turísticos",
+        "Guia Turístico › Pontos Turísticos › Novo Ponto"
       ],
       "nao_cobre": [
-        "roteiros turísticos (vídeo Roteiros)",
-        "eventos (vídeo Eventos)",
-        "edição ou exclusão de pontos já cadastrados (não mostrado)"
+        "editar ou excluir ponto turístico já cadastrado"
       ]
     },
     {
       "id": "CMEOWthwqtI",
       "titulo": "Guia Turístico > Roteiros",
       "resumo": "Ensina a criar roteiros turísticos no painel: capa, título, selo, duração, descrição e ponto de partida, além das paradas com nome, descrição, tempo sugerido e destaque, com ordem ajustável. O roteiro aparece na página de roteiros do portal.",
+      "perguntas": [
+        "como criar um roteiro turístico",
+        "como cadastrar um roteiro",
+        "como adicionar paradas no roteiro",
+        "como mudar a ordem das paradas",
+        "como colocar vídeo no roteiro",
+        "como colocar foto de capa no roteiro",
+        "como publicar um roteiro"
+      ],
       "cobre": [
-        "criar novo roteiro com capa, título, selo, duração, descrição e ponto de partida",
+        "criar novo roteiro",
+        "enviar foto de capa do roteiro",
+        "escrever título do roteiro",
+        "escolher selo do roteiro",
+        "informar duração do roteiro",
+        "escrever descrição do roteiro",
+        "informar ponto de partida",
         "colar vídeo do YouTube no roteiro",
-        "adicionar paradas com nome, descrição e tempo sugerido",
+        "adicionar parada",
+        "informar tempo sugerido da parada",
         "marcar parada em destaque",
         "mudar a ordem das paradas com as setas",
-        "ativar e salvar o roteiro"
+        "ativar o roteiro",
+        "salvar o roteiro"
       ],
       "telas": [
-        "Guia turístico e eventos › Roteiros"
+        "Guia Turístico e Eventos › Roteiros",
+        "Guia Turístico e Eventos › Roteiros › Novo roteiro"
       ],
       "nao_cobre": [
         "criação de pontos turísticos ou eventos",
@@ -232,15 +438,35 @@
       "id": "Hyh3UxHW_jU",
       "titulo": "Eventos",
       "resumo": "Explica a agenda de eventos: o cliente cadastra e paga o evento pela área dele e você aprova depois do pagamento. Mostra como criar pacotes de eventos em Meus planos e como cadastrar um evento no painel, com a página que ele ganha no site.",
+      "perguntas": [
+        "como cadastrar um evento",
+        "como criar um evento no painel",
+        "como aprovar um evento de cliente",
+        "como criar pacote de eventos",
+        "como mudar o preço de divulgação de evento",
+        "como colocar link de ingresso no evento",
+        "como colocar evento em destaque",
+        "como cadastrar o organizador do evento"
+      ],
       "cobre": [
-        "cadastrar evento pelo painel com título, datas, horário, local, CEP, categoria, organizador, foto, galeria, preço, link de ingresso, WhatsApp e programação",
-        "salvar o evento",
-        "aprovar evento enviado pelo cliente após o pagamento",
-        "criar pacote de eventos (mensal ou pagamento único, com ou sem destaque) em Meus planos"
+        "cadastrar novo evento pelo painel",
+        "informar título, datas, horário e local",
+        "informar CEP do evento",
+        "escolher categoria e organizador",
+        "enviar foto e galeria do evento",
+        "informar preço e link de ingresso",
+        "informar WhatsApp do evento",
+        "escrever descrição e programação",
+        "salvar evento",
+        "aprovar evento enviado por cliente depois do pagamento",
+        "criar pacote de eventos mensal",
+        "criar plano de evento de pagamento único",
+        "definir nome, preço e benefícios do plano de evento"
       ],
       "telas": [
-        "Guia turístico e eventos › Eventos",
-        "Meus planos › Agenda de eventos"
+        "Guia Turístico e Eventos › Eventos",
+        "Guia Turístico e Eventos › Eventos › Novo evento",
+        "Comercial › Meus Planos › Agenda de Eventos"
       ],
       "nao_cobre": [
         "roteiros turísticos (vídeo próprio)",
@@ -252,18 +478,36 @@
       "id": "CRiUbh7wHdc",
       "titulo": "Artigos > Geral",
       "resumo": "Mostra a seção Artigos do painel: lista de textos com contadores e filtros, criação de artigo com colunista e categoria, cadastro de colunistas e de categorias com cor. Artigos de colunistas da casa vão direto ao ar.",
+      "perguntas": [
+        "como publicar um artigo no painel",
+        "como cadastrar um colunista",
+        "como ativar um colunista",
+        "como desativar um colunista",
+        "como excluir um artigo",
+        "como editar um artigo",
+        "como criar categoria de artigos",
+        "como buscar um artigo",
+        "como ver os artigos agendados"
+      ],
       "cobre": [
+        "ver lista de artigos",
         "filtrar artigos por título, colunista, categoria ou status",
-        "abrir artigo no site, editar ou excluir",
-        "criar novo artigo escolhendo colunista e categoria",
-        "publicar artigo de colunista da casa diretamente",
-        "cadastrar colunista com nome, foto, especialidade, descrição e redes",
-        "ativar ou desativar colunista",
-        "criar categoria com nome e cor"
+        "abrir artigo no site",
+        "editar artigo",
+        "excluir artigo",
+        "criar novo artigo",
+        "escolher colunista e categoria do artigo",
+        "publicar artigo direto",
+        "cadastrar colunista",
+        "enviar foto do colunista",
+        "ativar colunista",
+        "desativar colunista",
+        "criar categoria de artigos",
+        "escolher cor da categoria"
       ],
       "telas": [
-        "Artigos › Lista de artigos",
-        "Artigos › Novo artigo",
+        "Artigos › Lista de Artigos",
+        "Artigos › Novo Artigo",
         "Artigos › Colunistas",
         "Artigos › Categorias"
       ],
@@ -277,16 +521,33 @@
       "id": "Ru3949-VUX4",
       "titulo": "Orçamentos Online > Todas as Solicitações [refazendo]",
       "resumo": "Mostra como funciona o Orçamentos Online: o visitante descreve o pedido por texto ou áudio, a IA escolhe a categoria e o pedido fica aguardando a sua aprovação no painel. Ao aprovar, o pedido vai para as empresas da subcategoria que estão no guia com o plano que recebe orçamentos.",
+      "perguntas": [
+        "como aprovar um pedido de orçamento",
+        "como reprovar um pedido de orçamento",
+        "como excluir um pedido de orçamento",
+        "como ver os orçamentos pedidos no portal",
+        "como aprovar vários orçamentos de uma vez",
+        "como filtrar orçamentos por status",
+        "como encerrar um pedido de orçamento",
+        "como as empresas recebem o orçamento"
+      ],
       "cobre": [
-        "filtrar solicitações por status, categoria ou período",
-        "ver detalhes do pedido (descrição, fotos, WhatsApp, categoria, local e serviços)",
-        "aprovar e enviar o pedido às empresas da subcategoria",
-        "reprovar pedido inadequado",
-        "aprovar, reprovar ou encerrar vários pedidos de uma vez, marcando a lista",
-        "excluir pedido pela lixeira"
+        "abrir Todas as solicitações",
+        "filtrar solicitações por status",
+        "filtrar solicitações por categoria",
+        "filtrar solicitações por período",
+        "ver detalhes do pedido",
+        "ver fotos do pedido",
+        "aprovar e enviar às empresas",
+        "reprovar pedido",
+        "mudar status do pedido",
+        "encerrar pedido",
+        "aprovar vários pedidos de uma vez",
+        "reprovar vários pedidos de uma vez",
+        "excluir pedido"
       ],
       "telas": [
-        "Orçamentos Online › Todas as solicitações"
+        "Orçamentos Online › Todas as Solicitações"
       ],
       "nao_cobre": [
         "como o visitante preenche o pedido no site (só demonstrado)",
@@ -297,13 +558,30 @@
       "id": "1a0wZmdXDLk",
       "titulo": "A Voz do Povo > Geral",
       "resumo": "Explica o canal A Voz do Povo: o morador envia uma denúncia pelo site e ela chega ao painel da redação, onde pode ser lida e ter o status trocado. Mostra também como cadastrar telefones úteis da cidade.",
+      "perguntas": [
+        "como ver as denúncias recebidas",
+        "como responder uma denúncia",
+        "como marcar denúncia como resolvida",
+        "como arquivar uma denúncia",
+        "como ver as fotos de uma denúncia",
+        "como cadastrar telefone útil",
+        "como cadastrar telefones de emergência da cidade",
+        "como tirar um telefone útil do site",
+        "como editar as linhas de ônibus",
+        "como o morador faz uma denúncia"
+      ],
       "cobre": [
-        "ver as denúncias recebidas na caixa de entrada",
-        "filtrar denúncias abertas ou histórico",
-        "mudar o status de uma denúncia (em análise, resolvida ou arquivar)",
-        "ver detalhes da denúncia (relato, local, contato e fotos)",
-        "cadastrar telefones úteis com horário de atendimento",
-        "escolher quais telefones úteis aparecem no site"
+        "ver denúncias recebidas",
+        "filtrar denúncias abertas",
+        "ver histórico de denúncias",
+        "colocar denúncia em análise",
+        "marcar denúncia como resolvida",
+        "arquivar denúncia",
+        "ver detalhes da denúncia",
+        "ver fotos da denúncia",
+        "cadastrar telefone útil",
+        "informar horário de atendimento do telefone",
+        "escolher quais telefones aparecem no site"
       ],
       "telas": [
         "A Voz do Povo › Denúncias",
@@ -320,19 +598,49 @@
       "id": "8gIDPdapN0E",
       "titulo": "Parceiros",
       "resumo": "Mostra o programa de parceiros no painel: ligar o programa, cadastrar e editar parceiros, definir os planos de parceiro com percentuais de venda e residual, pagar comissões por fora ou pelo Asaas e criar o grupo de WhatsApp dos parceiros. Também mostra o que o parceiro vê no painel dele.",
+      "perguntas": [
+        "como cadastrar um parceiro",
+        "como mudar o percentual de comissão do parceiro",
+        "como mudar a porcentagem de comissão do afiliado",
+        "como editar o plano do parceiro",
+        "como trocar a senha do parceiro",
+        "como desativar um parceiro",
+        "como excluir um parceiro",
+        "como pagar a comissão do parceiro",
+        "como marcar comissão como paga",
+        "como ver as comissões dos parceiros",
+        "como ligar o programa de parceiros",
+        "como desligar o programa de parceiros",
+        "como criar grupo de WhatsApp dos parceiros",
+        "como mudar o valor do plano de parceiro",
+        "como pagar comissão pelo Asaas"
+      ],
       "cobre": [
-        "ligar ou desligar o programa de parceiros",
-        "cadastrar parceiro com nome, e-mail, senha inicial, telefone, WhatsApp e plano",
-        "editar dados do parceiro e trocar o plano dele",
-        "trocar senha, desativar ou excluir parceiro",
-        "marcar comissão paga por fora (Pix ou transferência)",
-        "filtrar comissões por parceiro e ver o extrato das pagas",
-        "editar planos de parceiro (nome, periodicidade, valor, percentual de venda e residual)",
-        "colar o link do grupo de WhatsApp dos parceiros e exibir o convite no painel do parceiro",
-        "ligar o envio automático da comissão pelo Asaas"
+        "ligar o programa de parceiros",
+        "desligar o programa de parceiros",
+        "cadastrar novo parceiro",
+        "informar nome, e-mail e senha do parceiro",
+        "escolher plano do parceiro",
+        "editar dados do parceiro",
+        "trocar plano do parceiro",
+        "trocar senha do parceiro",
+        "desativar parceiro",
+        "excluir parceiro",
+        "marcar comissão como paga por fora",
+        "ver comissões pagas",
+        "filtrar comissões por parceiro",
+        "editar plano de parceiro",
+        "mudar percentual de comissão de venda do plano de parceiro",
+        "mudar percentual residual (comissão mensal) do plano de parceiro",
+        "mudar valor do plano de parceiro",
+        "colar link do grupo de WhatsApp dos parceiros",
+        "mostrar convite do grupo no painel do parceiro",
+        "ligar envio automático da comissão pelo Asaas"
       ],
       "telas": [
-        "Comercial › Parceiros"
+        "Comercial › Parceiros",
+        "Comercial › Parceiros › Novo parceiro",
+        "Comercial › Parceiros › Planos de parceiro"
       ],
       "nao_cobre": [
         "passo a passo do painel do parceiro (vídeo Parceiro 01)",
@@ -344,17 +652,34 @@
       "id": "8M4kdEfP7Eg",
       "titulo": "Configurações > Configurações Gerais",
       "resumo": "Mostra a tela Configurações gerais do portal: nome e logo, favicon, pixels de rastreamento, redes sociais, página Fale conosco, aviso para instalar o app no celular e convite para o grupo de WhatsApp.",
+      "perguntas": [
+        "como mudar o nome do portal",
+        "como trocar a logo do portal",
+        "como colocar o favicon",
+        "como colocar o pixel do Google Analytics",
+        "como colocar o pixel do Facebook",
+        "como colocar o WhatsApp no rodapé",
+        "como colocar o Instagram do portal",
+        "como editar a página fale conosco",
+        "como colocar o grupo de WhatsApp no site",
+        "como ligar o aviso para instalar o portal no celular",
+        "como adicionar uma cidade ao portal"
+      ],
       "cobre": [
-        "definir o nome do portal",
-        "enviar logo e favicon",
-        "adicionar código de pixel de rastreamento (Google Analytics, Meta ou outro)",
-        "preencher WhatsApp e links de Instagram, Facebook, YouTube e TikTok",
-        "preencher e salvar a página Fale conosco (e-mail, telefone, título e texto)",
+        "mudar o nome do portal",
+        "enviar logo",
+        "enviar favicon",
+        "colar código de pixel (Google Analytics, Meta)",
+        "colocar WhatsApp do portal",
+        "colocar Instagram, Facebook, YouTube e TikTok",
+        "editar a página Fale conosco",
+        "informar e-mail e telefone de contato",
         "ligar o aviso para instalar o portal no celular",
-        "colar o link de convite do grupo de WhatsApp e exibir o convite no site"
+        "colar o link do grupo de WhatsApp",
+        "mostrar o convite do grupo no site"
       ],
       "telas": [
-        "Configurações › Configurações gerais"
+        "Configurações › Configurações Gerais"
       ],
       "nao_cobre": [
         "inclusão de nova cidade de cobertura (é pedida ao time comercial pelo WhatsApp)",
@@ -367,19 +692,39 @@
       "id": "XekThBh1ygU",
       "titulo": "Configurações > Layout > Geral",
       "resumo": "Mostra como mudar o visual do portal sem programador: modelo e tamanho da logo do topo, cores, ordem do menu, rodapé e blocos da tela inicial. A prévia mostra o resultado antes de salvar, e nada muda no ar até salvar.",
+      "perguntas": [
+        "como mudar o layout do portal",
+        "como mudar as cores do portal",
+        "como mudar o rodapé",
+        "como mudar a ordem dos blocos da página inicial",
+        "como adicionar bloco na página inicial",
+        "como esconder um bloco da página inicial",
+        "como remover bloco da página inicial",
+        "como mudar a cor dos botões",
+        "como mudar o texto do rodapé"
+      ],
       "cobre": [
-        "escolher o modelo do topo e o tamanho da logo",
-        "definir cor da barra superior e da barra de navegação (sólida ou degradê) e a cor dos links do menu",
-        "reordenar as seções do menu arrastando",
-        "definir cor primária e cor de destaque e salvar cores",
-        "escolher modelo do rodapé, texto de até 300 caracteres, cor de fundo e cor dos textos",
-        "reordenar blocos da tela inicial arrastando",
-        "adicionar bloco na tela inicial escolhendo tipo, modelo, título, subtítulo e categoria",
-        "ocultar, editar ou remover bloco da tela inicial"
+        "escolher modelo do topo",
+        "escolher tamanho da logo",
+        "mudar cores da barra superior e de navegação",
+        "mudar cor dos links do menu",
+        "mudar ordem do menu",
+        "definir cor primária",
+        "definir cor de destaque",
+        "salvar cores",
+        "escolher modelo do rodapé",
+        "escrever texto do rodapé",
+        "mudar cor de fundo do rodapé",
+        "mudar cor dos textos do rodapé",
+        "mudar ordem dos blocos da tela inicial",
+        "adicionar bloco na tela inicial",
+        "ocultar bloco",
+        "editar bloco",
+        "remover bloco"
       ],
       "telas": [
         "Configurações › Layout › Topo",
-        "Configurações › Layout › Tela início",
+        "Configurações › Layout › Tela Início",
         "Configurações › Layout › Cores",
         "Configurações › Layout › Rodapé"
       ],
@@ -392,12 +737,25 @@
       "id": "He7XF-kolwk",
       "titulo": "Configurações > Layout > Topo",
       "resumo": "Mostra como personalizar o cabeçalho do portal em Configurações › Layout › Topo: escolher o modelo, o tamanho da logo, as cores da barra superior, da navegação e dos links, e a ordem das seções do menu. A prévia mostra o resultado antes de salvar.",
+      "perguntas": [
+        "como mudar o topo do site",
+        "como trocar o cabeçalho do portal",
+        "como mudar a cor do menu",
+        "como mudar o tamanho da logo",
+        "como mudar a ordem do menu",
+        "como colocar previsão do tempo no topo",
+        "como mudar a cor da barra superior"
+      ],
       "cobre": [
-        "escolher um dos cinco modelos de cabeçalho",
-        "escolher tamanho da logo (pequena, média ou grande)",
-        "definir cores da barra superior, da barra de navegação e dos links, sólidas ou em gradiente",
-        "mudar a ordem das seções do menu, arrastando ou com setas",
-        "salvar o topo e aplicar em todo o site"
+        "escolher modelo de cabeçalho",
+        "escolher tamanho da logo",
+        "mudar cor da barra superior",
+        "mudar cor da barra de navegação",
+        "mudar cor dos links",
+        "usar cor sólida ou gradiente",
+        "mudar a ordem do menu",
+        "ver prévia do topo",
+        "salvar o topo"
       ],
       "telas": [
         "Configurações › Layout › Topo"
@@ -411,15 +769,26 @@
       "id": "_YSN9di_ZOU",
       "titulo": "Configurações > Layout > Tela Inicio",
       "resumo": "Mostra como organizar a tela início do portal em configurações › layout › tela início. Cada bloco da lista é uma parte da página inicial, na mesma ordem do site. Reordenar, adicionar, ocultar, editar ou remover blocos muda o site na hora.",
+      "perguntas": [
+        "como mudar a página inicial",
+        "como mudar a ordem dos blocos da home",
+        "como esconder um bloco da home",
+        "como adicionar bloco na home",
+        "como remover bloco da home",
+        "como editar bloco da home"
+      ],
       "cobre": [
-        "reordenar blocos da tela inicial arrastando pela alça",
-        "adicionar bloco escolhendo tipo e modelo e conferindo a prévia",
-        "ocultar bloco sem apagar (olho)",
-        "editar bloco (lápis)",
-        "remover bloco (lixeira)"
+        "mudar ordem dos blocos arrastando",
+        "adicionar bloco",
+        "escolher tipo e modelo do bloco",
+        "ver prévia do bloco",
+        "ocultar bloco",
+        "mostrar bloco oculto",
+        "editar bloco",
+        "remover bloco"
       ],
       "telas": [
-        "Configurações › Layout › Tela início"
+        "Configurações › Layout › Tela Início"
       ],
       "nao_cobre": [
         "cores, topo e rodapé (vídeo de layout completo)",
@@ -430,12 +799,20 @@
       "id": "vPnHq9kRWW8",
       "titulo": "Configurações > Layout > Rodape",
       "resumo": "Mostra como personalizar o rodapé do portal em configurações › layout › rodapé: modelo, texto curto, cor de fundo, cor dos textos e links e tamanho da logo, com prévia antes de salvar. O rodapé aparece em todas as páginas.",
+      "perguntas": [
+        "como mudar o rodapé do portal",
+        "como mudar o texto do rodapé",
+        "como mudar a cor do rodapé",
+        "como mudar a logo do rodapé",
+        "como escolher o modelo do rodapé"
+      ],
       "cobre": [
-        "escolher modelo do rodapé (linha única, centralizado ou faixa de chamada)",
-        "escrever texto curto abaixo da logo",
-        "definir cor de fundo ou herdar a cor do topo",
-        "definir a cor dos textos e links",
-        "escolher o tamanho da logo do rodapé",
+        "escolher modelo do rodapé",
+        "escrever texto abaixo da logo",
+        "escolher cor de fundo",
+        "usar a cor do topo",
+        "escolher cor dos textos e links",
+        "escolher tamanho da logo do rodapé",
         "salvar rodapé"
       ],
       "telas": [
@@ -450,12 +827,19 @@
       "id": "lrTaEV5JnVM",
       "titulo": "Configurações > Layout > Cores",
       "resumo": "Mostra como escolher as duas cores do portal em configurações › layout › cores: a cor primária (botões, links, paginação e campos) e a cor de destaque (nomes de seção, selos e etiquetas). A prévia mostra onde cada cor aparece, e salvar aplica a mudança ao site inteiro.",
+      "perguntas": [
+        "como mudar a cor do portal",
+        "como mudar a cor dos botões",
+        "como mudar a cor de destaque",
+        "como colocar as cores da minha marca"
+      ],
       "cobre": [
-        "escolher a cor primária",
-        "escolher a cor de destaque",
-        "conferir pelo aviso se o texto fica legível",
-        "ver a prévia em uma página, como vagas",
-        "salvar cores e aplicar ao site inteiro"
+        "abrir Cores",
+        "escolher cor primária",
+        "escolher cor de destaque",
+        "ver se o texto fica legível",
+        "ver prévia em uma página",
+        "salvar cores"
       ],
       "telas": [
         "Configurações › Layout › Cores"
@@ -468,19 +852,36 @@
       "id": "lwaG-T87hJI",
       "titulo": "Configurações > Cobrança",
       "resumo": "Ensina a configurar como o portal recebe dos clientes: conectar a conta Asaas para cobrança automática com link (Pix, boleto ou cartão) ou receber por Pix direto na sua chave, com proteção por autenticador. Mostra também como o cliente paga e como você dá baixa no comprovante.",
+      "perguntas": [
+        "como conectar o Asaas",
+        "como criar chave de API do Asaas",
+        "como cadastrar minha chave Pix",
+        "como trocar a chave Pix",
+        "como dar baixa em fatura paga por Pix",
+        "como ligar a cobrança automática",
+        "como desligar a cobrança do Asaas",
+        "como testar a conexão com o Asaas",
+        "como ativar o autenticador",
+        "como receber os comprovantes no WhatsApp"
+      ],
       "cobre": [
-        "criar chave de API no site do Asaas (sem saques via API) e conectar no portal",
-        "testar a conexão com o Asaas",
-        "ligar ou desligar a cobrança pelo Asaas sem apagar a chave",
-        "ativar o autenticador no celular e guardar os códigos de reserva",
-        "cadastrar a chave Pix com instruções para o cliente e trocar a chave com o código do autenticador",
-        "informar o WhatsApp que recebe os comprovantes",
-        "dar baixa em fatura Pix pelo botão já recebi (forma, data, valor e confirmação)",
-        "dar baixa pela ficha do cliente, na aba financeiro, com confirmar pagamento"
+        "criar chave de API no Asaas",
+        "colar chave de API no portal",
+        "testar conexão com o Asaas",
+        "ligar cobrança pelo Asaas",
+        "desligar cobrança pelo Asaas",
+        "ativar autenticador no celular",
+        "guardar códigos de reserva",
+        "cadastrar chave Pix",
+        "escrever instruções de pagamento ao cliente",
+        "trocar chave Pix",
+        "informar WhatsApp dos comprovantes",
+        "dar baixa em fatura Pix (já recebi)",
+        "confirmar pagamento na ficha do cliente"
       ],
       "telas": [
         "Configurações › Cobrança",
-        "Meus clientes › ficha do cliente › Financeiro"
+        "Comercial › Meus Clientes › Ficha do Cliente › Financeiro"
       ],
       "nao_cobre": [
         "valores cobrados das empresas e planos",
@@ -491,34 +892,63 @@
       "id": "-ZLL7Cqwcok",
       "titulo": "Notificações Push",
       "resumo": "Mostra o painel de notificações push: acompanhar inscritos e métricas, ligar o convite para visitantes, criar um aviso com título, mensagem e link, conferir a prévia e enviar na hora ou agendar.",
+      "perguntas": [
+        "como enviar uma notificação push",
+        "como mandar um aviso para os visitantes",
+        "como agendar uma notificação",
+        "como ligar as notificações do site",
+        "como desligar o convite de notificações",
+        "quantas pessoas estão inscritas nas notificações",
+        "como ver as notificações que já enviei",
+        "como ver quantos abriram a notificação",
+        "como ver a prévia da notificação"
+      ],
       "cobre": [
-        "ligar ou desligar o convite para receber notificações",
-        "ver inscritos, notificações enviadas no mês e média de aberturas",
-        "consultar o histórico de notificações enviadas",
-        "criar nova notificação com título, mensagem e link",
-        "conferir a prévia da notificação no celular",
+        "ligar o convite para receber notificações",
+        "desligar o convite para receber notificações",
+        "ver número de inscritos",
+        "ver notificações enviadas no mês",
+        "ver média de aberturas",
+        "ver histórico de notificações enviadas",
+        "criar notificação com título e mensagem",
+        "colocar link na notificação",
+        "ver a prévia no celular",
         "agendar envio para data e horário",
-        "enviar notificação na hora"
+        "enviar notificação agora"
       ],
       "telas": [
         "Sistema › Notificações push"
       ],
       "nao_cobre": [
-        "criação ou edição das páginas de destino do link",
-        "configuração técnica do navegador ou do aplicativo do visitante",
-        "envio de avisos para segmentos de público (o envio vai para todos os inscritos)"
+        "enviar notificação só para um grupo de pessoas (vai para todos os inscritos)",
+        "criar a página para onde o link leva"
       ]
     },
     {
       "id": "0nkWIgiQfwM",
       "titulo": "Assistente de IA do Portal",
       "resumo": "Explica o assistente de IA do portal, que responde visitantes só com o conteúdo publicado. No painel, mostra como ligar ou desligar o assistente no site, escolher o período e ler os indicadores: perguntas, buscas com e sem resultado, seções e termos mais buscados e últimas conversas.",
+      "perguntas": [
+        "como ligar o assistente de IA",
+        "como desligar o assistente de IA",
+        "como tirar o robozinho do site",
+        "o que os visitantes estão perguntando",
+        "quais perguntas ficaram sem resposta",
+        "o que as pessoas mais procuram no portal",
+        "como ver as conversas do assistente",
+        "como ver as buscas sem resultado"
+      ],
       "cobre": [
-        "ligar ou desligar o assistente de IA no site",
-        "escolher período de 7, 30 ou 90 dias nos indicadores",
+        "ligar o assistente de IA",
+        "desligar o assistente de IA",
+        "escolher período de 7, 30 ou 90 dias",
+        "ver quantas perguntas foram feitas",
         "ver perguntas sem resultado",
-        "consultar seções, categorias, palavras e cidades mais buscadas",
-        "consultar as últimas perguntas e se acharam resultado"
+        "ver seções mais buscadas",
+        "ver categorias mais pedidas",
+        "ver palavras mais buscadas",
+        "ver cidades mais citadas",
+        "ver últimas perguntas dos visitantes"
       ],
       "telas": [
         "Sistema › Assistente de IA"
@@ -533,18 +963,42 @@
       "id": "BqIfSq7bVXM",
       "titulo": "Banners Publicitários",
       "resumo": "Ensina a gerenciar banners publicitários no painel: buscar e filtrar banners, criar e editar um banner com imagem, link, posição, dados da venda e datas, e ativar ou desativar. Mostra também que o cliente pode contratar espaços pela área dele, com aprovação antes de ir ao ar.",
+      "perguntas": [
+        "como cadastrar um banner",
+        "como criar um banner publicitário",
+        "como excluir um banner",
+        "como desativar um banner",
+        "como editar um banner",
+        "como escolher a posição do banner",
+        "como ver onde o banner vai aparecer",
+        "como colocar link no banner",
+        "como agendar um banner",
+        "como aprovar banner de cliente",
+        "como anotar o valor da venda do banner",
+        "como vincular banner a um cliente"
+      ],
       "cobre": [
-        "buscar e filtrar banners por página e situação",
-        "criar banner com título, imagem, URL de destino, posição, datas e ordem",
-        "conferir a prévia da posição no computador e no celular",
-        "anotar dados da venda do banner (empresa, telefone e valor)",
-        "atrelar banner a um cliente cadastrado em meus clientes",
-        "ativar ou desativar, editar ou excluir banner",
-        "decidir se banner contratado pelo cliente vai ao ar"
+        "buscar banner pelo título",
+        "filtrar banners por página",
+        "filtrar banners por situação",
+        "criar novo banner",
+        "enviar imagem do banner",
+        "colocar link de destino no banner",
+        "escolher página e posição do banner",
+        "ver prévia no computador e no celular",
+        "anotar empresa, telefone e valor da venda",
+        "vincular banner a um cliente cadastrado",
+        "definir data de início e fim",
+        "definir ordem do banner",
+        "ativar banner",
+        "desativar banner",
+        "editar banner",
+        "excluir banner",
+        "aprovar banner contratado pelo cliente"
       ],
       "telas": [
-        "Banners publicitários",
-        "Área do cliente › Banners publicitários › Novo banner"
+        "Banners Publicitários",
+        "Banners Publicitários › Novo banner"
       ],
       "nao_cobre": [
         "definição dos preços dos espaços (vídeo Meus Planos)",
@@ -556,18 +1010,40 @@
       "id": "-FASO6flcCw",
       "titulo": "Meus Clientes",
       "resumo": "Mostra a tela Meus clientes: como buscar e filtrar clientes, cadastrar um cliente, registrar uma contratação e confirmar um pagamento feito por fora. Explica os cartões da carteira e a receita mensal recorrente.",
+      "perguntas": [
+        "como cadastrar um cliente",
+        "como buscar um cliente",
+        "como ver quem está com plano vencido",
+        "como filtrar clientes sem plano",
+        "como excluir um cliente",
+        "como apagar um cliente",
+        "como bloquear o acesso de um cliente",
+        "como trocar a senha de um cliente",
+        "como editar os dados de um cliente",
+        "como vender um plano para um cliente",
+        "como registrar uma contratação",
+        "como renovar o plano de um cliente",
+        "como cancelar o plano de um cliente",
+        "como confirmar um pagamento feito por fora",
+        "como exportar a lista de clientes",
+        "quanto o portal fatura por mês"
+      ],
       "cobre": [
         "buscar cliente por nome, documento ou telefone",
-        "filtrar clientes por status (vencidos, a vencer ou sem plano)",
+        "filtrar clientes vencidos, a vencer ou sem plano",
         "cadastrar novo cliente",
-        "exportar a carteira em Excel, CSV ou PDF",
-        "editar o cadastro do cliente",
-        "redefinir a senha de acesso do cliente",
+        "exportar clientes em Excel, CSV ou PDF",
+        "editar cadastro do cliente",
+        "redefinir a senha do cliente",
         "bloquear o acesso do cliente",
         "excluir cliente",
-        "registrar contratação de plano para o cliente",
-        "renovar ou cancelar uma contratação",
-        "confirmar pagamento feito por fora na ficha do cliente"
+        "registrar contratação de plano",
+        "renovar contratação",
+        "cancelar contratação",
+        "confirmar pagamento feito por fora",
+        "ver a receita mensal recorrente",
+        "ver faturas do cliente na aba Financeiro",
+        "ver o que o cliente publicou na aba No portal"
       ],
       "telas": [
         "Comercial › Meus clientes",
@@ -586,13 +1062,33 @@
       "id": "1RHf0fcXgyE",
       "titulo": "Financeiro",
       "resumo": "Mostra a tela Financeiro: como ver as faturas por aba (a vencer, vencidas, pagas e canceladas), filtrar cobranças, reenviar o link de pagamento, cobrar pelo WhatsApp e registrar pagamento recebido fora do sistema. Mostra também o valor a pagar aos parceiros.",
+      "perguntas": [
+        "como ver as faturas dos clientes",
+        "como ver quem está devendo",
+        "como cobrar um cliente pelo WhatsApp",
+        "como reenviar o link de pagamento",
+        "como registrar um pagamento em dinheiro",
+        "como dar baixa em uma fatura",
+        "como ver faturas vencidas",
+        "como ver quanto devo aos parceiros",
+        "como pagar a comissão do parceiro",
+        "como ver quanto recebi no mês",
+        "como filtrar faturas por cliente"
+      ],
       "cobre": [
-        "ver faturas por aba (a vencer, vencidas, pagas, canceladas)",
-        "buscar e filtrar faturas por cliente, módulo, forma de cobrança e período",
-        "copiar link de pagamento para reenviar",
-        "cobrar cliente pelo WhatsApp com mensagem pronta",
-        "registrar pagamento recebido por fora (dinheiro ou transferência)",
-        "consultar o valor a pagar aos parceiros e pagar comissões pelo atalho ver e pagar"
+        "ver faturas a vencer",
+        "ver faturas vencidas",
+        "ver faturas pagas",
+        "ver faturas canceladas",
+        "buscar fatura por cliente",
+        "filtrar faturas por módulo",
+        "filtrar faturas por forma de cobrança",
+        "filtrar faturas por período",
+        "copiar link de pagamento",
+        "cobrar cliente pelo WhatsApp",
+        "registrar pagamento recebido por fora",
+        "ver quanto falta pagar aos parceiros",
+        "pagar comissões de parceiros"
       ],
       "telas": [
         "Comercial › Financeiro"
@@ -607,26 +1103,47 @@
       "id": "31ftVMQ_yr4",
       "titulo": "Planos > Todos",
       "resumo": "Explica a tela Meus Planos: o que o portal vende em cada seção, o que é fixo (quantidades, limites e benefícios) e o que pode ser alterado (nome, preço, venda, periodicidade e novos planos). Percorre vagas, classificados, guia comercial, agenda de eventos, notícias, artigos e publicidade.",
+      "perguntas": [
+        "como mudar o preço de um plano",
+        "como mudar o nome de um plano",
+        "como colocar um plano à venda",
+        "como tirar um plano de venda",
+        "como criar plano semestral",
+        "como criar plano anual",
+        "como criar plano de pagamento único",
+        "como excluir um plano",
+        "como comparar os planos",
+        "como definir o preço do banner",
+        "como definir preço do espaço de publicidade",
+        "como mudar o limite de anúncios de um plano",
+        "como mudar o preço do plano de notícias",
+        "como mudar o preço do plano de artigos"
+      ],
       "cobre": [
-        "mudar o nome de um plano",
-        "definir o preço de um plano",
-        "colocar ou tirar um plano à venda",
-        "criar plano em outra periodicidade pelo botão mais planos",
-        "excluir um plano que existe em mais de uma forma de pagamento",
-        "comparar todos os planos lado a lado",
-        "ajustar nome, preço e venda do plano de notícias e do plano de artigos",
-        "definir preço de espaço de publicidade (semanal, mensal, semestral ou anual, até três preços por espaço)",
-        "editar, excluir ou adicionar preço a um espaço de publicidade",
-        "deixar espaço de publicidade sem preço, fora de venda"
+        "editar nome do plano",
+        "definir preço do plano",
+        "colocar plano à venda",
+        "tirar plano de venda",
+        "criar plano em outra periodicidade pelo botão Mais planos",
+        "criar plano de pagamento único",
+        "excluir plano que existe em mais de uma forma de pagamento",
+        "comparar todos os planos",
+        "mudar nome e preço do plano de notícias",
+        "mudar nome e preço do plano de artigos",
+        "definir preço de espaço de publicidade",
+        "escolher periodicidade do preço do banner (semanal, mensal, semestral, anual)",
+        "adicionar até três preços em um espaço de publicidade",
+        "editar preço de espaço de publicidade",
+        "excluir preço de espaço de publicidade",
+        "tirar espaço de publicidade de venda deixando sem preço"
       ],
       "telas": [
         "Comercial › Meus Planos",
-        "Meus Planos › (seção) › Gerenciar",
-        "Meus Planos › Publicidade"
+        "Comercial › Meus Planos › Gerenciar",
+        "Comercial › Meus Planos › Publicidade"
       ],
       "nao_cobre": [
-        "alterar limites, quantidade de anúncios, dias no ar ou fotos de um plano (são fixos)",
-        "criação ou gestão das empresas e conteúdos que usam os planos",
+        "mudar limites do plano (quantidade de anúncios, dias no ar, fotos): são fixos",
         "cadastro de clientes que contratam (vídeo Meus clientes)",
         "cobrança e confirmação de pagamento (vídeo Financeiro)"
       ]
@@ -635,16 +1152,30 @@
       "id": "MbMNv59z7Bg",
       "titulo": "Planos > Publicidade/Banners",
       "resumo": "Mostra como definir os espaços de banner à venda em Meus planos › Publicidade: escolher a página, identificar a posição pelo desenho, criar, editar ou excluir preços (até três por espaço) e deixar espaço sem preço fora de venda. Mostra também como a empresa vê e contrata o espaço.",
+      "perguntas": [
+        "como definir o preço de um banner",
+        "como colocar espaço de banner à venda",
+        "como tirar espaço de banner de venda",
+        "como mudar o preço do espaço de publicidade",
+        "como excluir preço de banner",
+        "como adicionar outro preço ao espaço",
+        "onde cada banner aparece no site",
+        "como criar preço semanal do banner",
+        "como criar preço mensal do banner"
+      ],
       "cobre": [
-        "escolher a página do portal e ver os espaços numerados",
-        "identificar a posição do espaço pelo desenho da página",
-        "criar preço para um espaço com nome, periodicidade e valor",
-        "adicionar outro preço ao espaço (até três, um por periodicidade)",
-        "editar ou excluir um preço de espaço",
-        "deixar espaço sem preço fora de venda"
+        "escolher a página do portal",
+        "ver os espaços numerados da página",
+        "ver onde cada espaço aparece pelo desenho",
+        "definir preço de um espaço",
+        "escolher periodicidade do preço (semanal, mensal, semestral, anual)",
+        "adicionar outro preço no mesmo espaço",
+        "editar preço do espaço",
+        "excluir preço do espaço",
+        "deixar espaço sem preço (fora de venda)"
       ],
       "telas": [
-        "Meus planos › Publicidade › Gerenciar espaços"
+        "Comercial › Meus Planos › Publicidade › Gerenciar Espaços"
       ],
       "nao_cobre": [
         "fila de aprovação e publicação de banners (vídeo Tutorial Banners Publicitarios)",
@@ -656,183 +1187,206 @@
       "id": "D21vBBhzlhg",
       "titulo": "Vídeo Externo LP> Vagas",
       "resumo": "Vídeo de divulgação para empresas: publicar uma vaga gratuitamente, pausar e reativar a vaga, e contratar um plano para destacá-la, com cancelamento a qualquer momento. Não mostra o painel.",
-      "cobre": [
-        "publicar vaga gratuitamente",
-        "pausar uma vaga depois de contratar",
-        "reativar uma vaga pausada",
-        "contratar plano para destacar a vaga e cancelar quando quiser"
+      "perguntas": [
+        "como divulgar uma vaga de emprego no portal",
+        "posso publicar vaga de graça",
+        "como pausar uma vaga",
+        "como reativar uma vaga"
       ],
+      "cobre": [],
       "telas": [],
-      "nao_cobre": [
-        "passo a passo do formulário de vaga (vídeo Cliente Publicar Vaga)",
-        "preços e condições dos planos de vagas (vídeo Meus Planos)",
-        "triagem de candidatos"
-      ]
+      "nao_cobre": []
     },
     {
       "id": "zHOxx6KFIrk",
       "titulo": "Vídeo Externo LP> Classificados",
       "resumo": "Vídeo promocional dos classificados: qualquer pessoa ou empresa pode anunciar produtos como carro, móvel, celular, eletrônico ou imóvel, com fotos e preço, e receber contato direto pelo WhatsApp. Empresas com planos empresariais podem publicar mais anúncios com destaque. Não mostra os passos do anúncio.",
+      "perguntas": [
+        "como anunciar nos classificados",
+        "como vender algo no portal",
+        "como anunciar um carro",
+        "como vender meus produtos",
+        "posso anunciar de graça"
+      ],
       "cobre": [],
       "telas": [],
-      "nao_cobre": [
-        "passo a passo para criar anúncio (ver Tutorial Cliente Anúncios Classificados)",
-        "valores dos planos empresariais"
-      ]
+      "nao_cobre": []
     },
     {
       "id": "VmEwdNZd7pw",
       "titulo": "Vídeo Externo LP> Orçamentos",
       "resumo": "Explica como pedir orçamento de graça: a pessoa descreve o que precisa por texto ou áudio, pode enviar fotos, e a IA encontra a categoria certa e envia o pedido a empresas e prestadores da cidade. Depois, basta esperar as propostas e escolher a melhor.",
-      "cobre": [
-        "descrever o pedido de serviço ou compra por texto ou áudio",
-        "enviar fotos para detalhar o pedido",
-        "escolher uma das propostas recebidas"
+      "perguntas": [
+        "como pedir orçamento no portal",
+        "como pedir orçamento por áudio",
+        "como receber propostas de empresas",
+        "como pedir orçamento de graça"
       ],
+      "cobre": [],
       "telas": [],
-      "nao_cobre": [
-        "como a empresa responde aos pedidos de orçamento (pedidos recebidos no painel)",
-        "valores ou condições dos serviços oferecidos",
-        "cadastro da empresa no guia"
-      ]
+      "nao_cobre": []
     },
     {
       "id": "d2EweodukHg",
       "titulo": "Vídeo Externo LP> Guia",
       "resumo": "Vídeo promocional do guia comercial: a empresa ganha página própria, sem precisar de site, com galeria, serviços, mapa, WhatsApp, cardápio e delivery, catálogo, cupons, sorteios e pedidos de orçamento. Diz que o cadastro leva poucos minutos, sem mostrar os passos.",
+      "perguntas": [
+        "como cadastrar minha empresa no guia comercial",
+        "como colocar minha empresa no portal",
+        "como ter página da minha empresa"
+      ],
       "cobre": [],
       "telas": [],
-      "nao_cobre": [
-        "passo a passo do cadastro da empresa (ver o vídeo Guia Empresa 01)",
-        "detalhes de cada recurso citado (cardápio, catálogo, cupons, sorteios, orçamentos e avaliações do Google)"
-      ]
+      "nao_cobre": []
     },
     {
       "id": "G1B9mAWbCk4",
       "titulo": "Vídeo Externo LP> A Voz do Povo",
       "resumo": "Vídeo de divulgação do canal A Voz do Povo: o cidadão denuncia um problema da cidade por texto ou áudio, informa o local, envia fotos ou vídeo e pode ser anônimo. A redação analisa cada denúncia e os casos relevantes podem virar matéria. Não mostra o painel.",
-      "cobre": [
-        "denunciar problema por texto ou áudio, com local e fotos ou vídeo",
-        "denunciar de forma anônima"
+      "perguntas": [
+        "como fazer uma denúncia",
+        "como denunciar um problema no bairro",
+        "posso denunciar sem me identificar",
+        "como enviar áudio na denúncia"
       ],
+      "cobre": [],
       "telas": [],
-      "nao_cobre": [
-        "como a redação trata as denúncias no painel (vídeo Tutorial A Voz do Povo)",
-        "passo a passo de anexar fotos no site"
-      ]
+      "nao_cobre": []
     },
     {
       "id": "TWKsO_iuxGE",
       "titulo": "Vídeo Externo LP> Eventos",
       "resumo": "Apresenta como divulgar um evento (show, feira, festa ou curso) no portal. O evento ganha página própria com data, horário, local, programação, fotos e vídeo, e aparece na agenda da página inicial. Criar a conta é grátis e você paga só pelo evento que divulgar.",
-      "cobre": [
-        "divulgar evento no portal com página própria (data, horário, local, programação, fotos e vídeo)",
-        "escolher o destaque do evento para aparecer em primeiro lugar"
+      "perguntas": [
+        "como divulgar meu evento no portal",
+        "como anunciar um evento",
+        "como colocar meu evento em destaque",
+        "quanto custa divulgar evento"
       ],
+      "cobre": [],
       "telas": [],
-      "nao_cobre": [
-        "passo a passo de cadastro do evento no painel",
-        "valores dos planos e do destaque"
-      ]
+      "nao_cobre": []
     },
     {
       "id": "DFVw9nSAZAQ",
       "titulo": "Vídeo Externo LP> Parceiro",
       "resumo": "Vídeo de captação de parceiros: a pessoa se cadastra como representante, recebe um link exclusivo, indica empresas da cidade e recebe comissões quando a empresa fecha um plano pelo link. Não mostra o painel.",
-      "cobre": [
-        "cadastrar-se como representante e receber link exclusivo",
-        "indicar empresas da região pelo link",
-        "receber comissão quando a empresa indicada fecha plano pelo link"
+      "perguntas": [
+        "como virar parceiro do portal",
+        "como ganhar comissão indicando empresas",
+        "como ser afiliado",
+        "como me cadastrar como representante",
+        "como receber meu link de parceiro"
       ],
+      "cobre": [],
       "telas": [],
-      "nao_cobre": [
-        "uso do painel de parceiro e acompanhamento de ganhos (vídeo Parceiro 01)",
-        "planos e percentuais de comissão (vídeo Parceiros do painel administrativo)",
-        "cadastro da carteira de recebimento (não citada aqui)"
-      ]
+      "nao_cobre": []
     },
     {
       "id": "-Islw_h8OhU",
       "titulo": "Vídeo Externo LP> Noticias",
       "resumo": "Vídeo de divulgação do serviço de matéria patrocinada: a empresa conta a ideia, a equipe do portal produz a matéria com a conferência dos dados e publica. O cliente recebe o link para compartilhar. Não mostra o painel.",
-      "cobre": [
-        "contar a ideia para a equipe produzir a matéria patrocinada",
-        "conferir os dados da matéria antes da publicação",
-        "receber o link da matéria para compartilhar"
-      ],
+      "perguntas": [],
+      "cobre": [],
       "telas": [],
       "nao_cobre": [
-        "cadastro ou venda da matéria patrocinada no painel (vídeo Meus Planos trata do plano de notícias)",
-        "preços da matéria patrocinada",
-        "publicação de notícias pela redação"
+        "como comprar ou cadastrar matéria patrocinada no painel",
+        "preço da matéria patrocinada"
       ]
     },
     {
       "id": "NELLwm_ClmA",
       "titulo": "Vídeo Externo LP> Artigos",
       "resumo": "Vídeo de captação de colunistas: profissionais liberais publicam artigos assinados em uma coluna própria, com nome, foto, currículo e página de especialista. Não mostra o painel.",
-      "cobre": [
-        "cadastrar-se para ser colunista do portal",
-        "publicar artigos assinados em coluna própria"
+      "perguntas": [
+        "como ser colunista do portal",
+        "como ter uma coluna no portal",
+        "como virar especialista no portal",
+        "como escrever artigos no portal"
       ],
+      "cobre": [],
       "telas": [],
-      "nao_cobre": [
-        "como escrever e publicar o artigo no painel (vídeo Como Publicar um Artigo)",
-        "preço do plano de colunista (vídeo Meus Planos)"
-      ]
+      "nao_cobre": []
     },
     {
       "id": "bDAKcYvx4wo",
       "titulo": "Vídeo Externo LP> Banner Publicitarios",
       "resumo": "Vídeo promocional dos banners de publicidade do portal: a marca pode aparecer no topo da página inicial, em notícias, vagas, classificados, eventos e pontos turísticos, com link para WhatsApp, Instagram, site ou outro link. A campanha tem prazo definido e a arte pode ser trocada.",
-      "cobre": [
-        "escolher o espaço do banner (topo da página inicial, notícias, vagas, classificados, eventos ou pontos turísticos)",
-        "definir quanto tempo a campanha fica no ar",
-        "trocar a arte do banner quando a promoção mudar"
+      "perguntas": [
+        "como anunciar com banner no portal",
+        "onde posso colocar meu banner",
+        "como contratar banner"
       ],
+      "cobre": [],
       "telas": [],
-      "nao_cobre": [
-        "passo a passo do cadastro e da contratação no painel (não mostrado)",
-        "preços e pacotes de banner"
-      ]
+      "nao_cobre": []
     },
     {
       "id": "4pc8AwOX0hA",
       "titulo": "Vídeo Uso Cliente > Formas de Anunciar em nosso Portal",
       "resumo": "Vídeo comercial que apresenta as formas de anunciar no portal: guia comercial, orçamentos, vagas, classificados, eventos, banners, matéria patrocinada e coluna de especialista. Não ensina a operar o painel.",
-      "cobre": [
-        "escolher uma ou combinar várias formas de anúncio do portal",
-        "entrar em contato com o portal pelo Fale conosco"
+      "perguntas": [
+        "quais as formas de anunciar no portal",
+        "como anunciar minha empresa",
+        "como divulgar minha empresa no portal",
+        "como contratar publicidade no portal"
       ],
+      "cobre": [],
       "telas": [],
-      "nao_cobre": [
-        "preços e planos de cada anúncio (vídeo Meus Planos)",
-        "como publicar vagas, eventos ou classificados no painel",
-        "como montar a ficha da empresa no guia comercial"
-      ]
+      "nao_cobre": []
     },
     {
       "id": "JdJr7pXVx98",
       "titulo": "Guia Comercial > Listar Empresas",
       "resumo": "Mostra a tela Listar empresas do guia comercial: filtrar e buscar empresas, mudar o status, importar empresas do Google Maps em massa e editar a ficha de cada uma em todos os blocos. Explica que as próprias empresas criam e preenchem o perfil pela área do cliente; o cadastro pelo painel fica para casos especiais.",
+      "perguntas": [
+        "como excluir uma empresa",
+        "como apagar uma empresa do guia",
+        "como remover empresa do guia comercial",
+        "como cadastrar uma empresa no guia",
+        "como editar uma empresa",
+        "como aprovar uma empresa",
+        "como ativar uma empresa",
+        "como desativar uma empresa",
+        "como bloquear uma empresa",
+        "como importar empresas do Google Maps",
+        "como mudar o plano de uma empresa",
+        "como mudar a categoria de uma empresa",
+        "como colocar empresa em destaque",
+        "como redefinir a senha do dono da empresa",
+        "como puxar dados do Google Meu Negócio"
+      ],
       "cobre": [
-        "filtrar empresas por status e categoria e buscar pelo nome",
-        "mudar o status da empresa (pendente, ativo, inativo, banido ou reprovado)",
-        "importar planilha do Google Maps em massa com revisão prévia",
-        "cadastrar empresa em casos especiais",
-        "preencher dados da empresa, com pegar dados do Google Meu Negócio",
-        "preencher localização pelo CEP e escolher cidade e bairro",
-        "preencher contatos, logo, capa, cardápio, reserva, delivery em outro lugar e botões de ação",
-        "definir cupom, comodidades, formas de pagamento e horários de funcionamento",
-        "adicionar fotos ou vídeos do YouTube à galeria",
-        "redefinir senha ou remover acesso do dono à área do cliente",
-        "definir título e descrição de SEO",
-        "ligar ou desligar fazer pedido e chamar no WhatsApp no cardápio",
-        "gerenciar seções de cardápio, serviços, equipe, catálogo, cardápio do delivery e configurações do delivery"
+        "filtrar empresas por status",
+        "filtrar empresas por categoria",
+        "buscar empresa pelo nome",
+        "mudar o status da empresa (pendente, ativo, inativo, banido, reprovado)",
+        "abrir a página da empresa no portal",
+        "excluir empresa",
+        "cadastrar empresa",
+        "importar empresas do Google Maps em massa",
+        "conferir prévia da importação",
+        "editar empresa",
+        "buscar dados no Google Meu Negócio",
+        "escolher categoria e subcategoria",
+        "escolher plano da empresa",
+        "marcar empresa em destaque",
+        "preencher endereço pelo CEP",
+        "preencher contatos da empresa",
+        "enviar logo e capa",
+        "colocar cardápio, reserva ou delivery em outro lugar",
+        "marcar comodidades e formas de pagamento",
+        "definir horários de funcionamento",
+        "adicionar fotos e vídeos do YouTube na galeria",
+        "redefinir senha do dono da empresa",
+        "remover acesso do dono da empresa",
+        "definir título e descrição para o Google",
+        "gerenciar cardápio, serviços, equipe, catálogo e delivery da empresa"
       ],
       "telas": [
-        "Guia comercial › Listar empresas",
-        "Listar empresas › Editar empresa"
+        "Guia Comercial › Listar Empresas",
+        "Guia Comercial › Listar Empresas › Editar",
+        "Guia Comercial › Listar Empresas › Importar do Google Maps"
       ],
       "nao_cobre": [
         "criação de categorias e subcategorias (vídeo Guia - Categorias e Subcategorias)",
@@ -845,18 +1399,45 @@
       "id": "VV8BxCbIfz4",
       "titulo": "Guia Comercial > Gerenciar Cardápio",
       "resumo": "Ensina a montar o cardápio digital de restaurante, bar ou lanchonete: seções, pratos com foto, preço, promoção e tags, além do tema e do QR code para as mesas. Também mostra como o cardápio aparece na página da empresa.",
+      "perguntas": [
+        "como cadastrar um prato no cardápio",
+        "como criar cardápio digital",
+        "como criar seção no cardápio",
+        "como excluir prato do cardápio",
+        "como esconder um prato",
+        "como colocar preço promocional",
+        "como gerar QR code do cardápio",
+        "como mudar a ordem das seções do cardápio",
+        "como colocar foto no prato",
+        "como mudar o tema do cardápio",
+        "como tirar o botão fazer meu pedido",
+        "como colocar tag mais pedido"
+      ],
       "cobre": [
-        "ligar ou desligar os botões fazer meu pedido e chamar no WhatsApp",
-        "escolher tema claro ou escuro do cardápio",
-        "gerar QR code em tamanho A4, A5, A6 ou adesivo de 10 por 10 cm",
-        "criar seção do cardápio e mudar a ordem, renomear ou excluir seções",
-        "publicar ou esconder seção e prato",
-        "adicionar prato com foto (JPG ou PNG até 10 MB), nome, descrição e preço",
-        "informar preço promocional, que aparece riscado ao lado do novo",
-        "marcar tags (mais pedido, novidade, veg e recomendado)"
+        "abrir o cardápio da empresa",
+        "ligar botão Fazer meu pedido",
+        "desligar botão Fazer meu pedido",
+        "ligar botão Chamar no WhatsApp",
+        "desligar botão Chamar no WhatsApp",
+        "escolher tema claro ou escuro",
+        "gerar QR code A4, A5, A6 ou adesivo",
+        "copiar link do cardápio",
+        "criar seção",
+        "mudar a ordem das seções",
+        "renomear seção",
+        "excluir seção",
+        "publicar seção",
+        "esconder seção",
+        "adicionar prato",
+        "enviar foto do prato",
+        "escrever nome, descrição e preço do prato",
+        "colocar preço promocional",
+        "marcar tags (mais pedido, novidade, veg, recomendado)",
+        "editar prato",
+        "excluir prato"
       ],
       "telas": [
-        "Listar empresas › Editar › Conteúdo da ficha › cartão Cardápio › Gerenciar"
+        "Guia Comercial › Listar Empresas › Editar › Conteúdo da ficha › Cardápio"
       ],
       "nao_cobre": [
         "catálogo de produtos (vídeo próprio)",
@@ -868,16 +1449,37 @@
       "id": "2ShbACG2mHE",
       "titulo": "Guia Comercial > Gerenciar Cardapio do Delivery",
       "resumo": "Ensina a montar o cardápio do delivery de uma empresa: criar seções e produtos com preço, foto e disponibilidade, e criar grupos de opções (tamanhos, coberturas, complementos) com limites de escolha. Mostra também como o cliente monta o pedido no portal.",
+      "perguntas": [
+        "como cadastrar produto no delivery",
+        "como criar seção no cardápio do delivery",
+        "como adicionar adicionais no pedido",
+        "como criar grupo de opções do produto",
+        "como excluir produto do delivery",
+        "como editar produto do delivery",
+        "como colocar foto no produto do delivery",
+        "como deixar produto indisponível",
+        "como colocar produto em destaque no delivery",
+        "qual a diferença entre cardápio digital e cardápio do delivery"
+      ],
       "cobre": [
-        "criar seção do cardápio do delivery",
-        "cadastrar produto com nome, descrição, preço base, foto e destaque",
+        "abrir o cardápio do delivery da empresa",
+        "criar seção do cardápio",
+        "cadastrar produto",
+        "informar nome, descrição e preço do produto",
+        "deixar preço zero quando o valor depende do tamanho",
+        "enviar foto do produto",
         "marcar produto como disponível",
-        "editar ou excluir produto",
-        "criar grupo de opções com nome, obrigatório ou opcional e limite de escolhas",
-        "adicionar opção a um grupo, com ou sem valor extra"
+        "marcar produto em destaque",
+        "editar produto",
+        "excluir produto",
+        "criar grupo de opções (tamanho, cobertura, complementos)",
+        "definir grupo obrigatório ou opcional",
+        "definir limite de escolhas do grupo",
+        "adicionar opção ao grupo",
+        "cobrar valor extra em uma opção"
       ],
       "telas": [
-        "Editar empresa › Conteúdo da ficha › Cardápio do delivery"
+        "Guia Comercial › Listar Empresas › Editar › Conteúdo da ficha › Cardápio do delivery"
       ],
       "nao_cobre": [
         "cardápio digital para consulta (outro recurso, citado na comparação)",
@@ -890,18 +1492,45 @@
       "id": "TgIUmqrRuBY",
       "titulo": "Guia Comercial > Gerenciar Filas de Pedidos e Configurações do Delivery",
       "resumo": "Ensina a operar a loja no delivery: acompanhar a fila de pedidos e avançar cada pedido pelas situações (recebido, em preparo, saiu para entrega, entregue). Também mostra as configurações do delivery: ligar ou desligar a loja, taxas, tempos, formas de pagamento, áreas de atendimento e mensagem de boas-vindas.",
+      "perguntas": [
+        "onde vejo os pedidos do delivery",
+        "como aceitar pedido do delivery",
+        "como mudar o status do pedido",
+        "como ativar o som de pedido novo",
+        "como ligar o delivery",
+        "como desligar o delivery",
+        "como definir a taxa de entrega",
+        "como definir pedido mínimo",
+        "como mudar o tempo de entrega",
+        "como configurar o raio de entrega",
+        "como configurar pagamento por pix no delivery",
+        "como definir bairros atendidos",
+        "como cancelar um pedido"
+      ],
       "cobre": [
-        "acompanhar pedidos por abas de situação",
-        "ativar o som de aviso de pedido novo",
-        "atualizar a lista de pedidos",
-        "ligar ou desligar o delivery pela chave delivery ativo",
-        "definir taxa de entrega, pedido mínimo, tempo mínimo e máximo e raio de entrega em km",
-        "ligar formas de pagamento (dinheiro com troco, cartão na entrega, pix) e informar a chave pix",
-        "adicionar área de atendimento por cidade e bairros",
-        "escrever mensagem de boas-vindas e salvar configurações"
+        "ver pedidos por situação",
+        "ativar som de pedido novo",
+        "atualizar lista de pedidos",
+        "passar pedido para em preparo",
+        "passar pedido para saiu para entrega",
+        "passar pedido para entregue",
+        "ligar o delivery",
+        "desligar o delivery",
+        "definir taxa de entrega",
+        "definir entrega grátis",
+        "definir pedido mínimo",
+        "definir tempo mínimo e máximo de entrega",
+        "definir raio de entrega",
+        "aceitar dinheiro com troco",
+        "aceitar cartão na entrega",
+        "aceitar pix e informar chave",
+        "adicionar área de atendimento por cidade",
+        "adicionar bairros atendidos",
+        "escrever mensagem de boas-vindas",
+        "salvar configurações"
       ],
       "telas": [
-        "Delivery › Fila de pedidos",
+        "Delivery › Fila de Pedidos",
         "Delivery › Configurações"
       ],
       "nao_cobre": [
@@ -913,16 +1542,37 @@
       "id": "aE3QL3ErK0k",
       "titulo": "Guia Comercial > Gerenciar Serviços",
       "resumo": "Ensina a montar a tabela de serviços da empresa (o que faz e quanto custa), organizada em seções, com preço, duração, detalhe e ícone. A tabela é para empresas de todas as categorias do guia, mas depende do plano: no plano grátis ela não aparece.",
+      "perguntas": [
+        "como cadastrar serviços de uma empresa no painel",
+        "como colocar preço no serviço",
+        "como criar seção de serviços",
+        "como excluir serviço",
+        "como esconder serviço",
+        "como mudar a ordem das seções de serviços",
+        "como editar serviço",
+        "como colocar ícone no serviço"
+      ],
       "cobre": [
-        "criar seção de serviços",
-        "publicar ou esconder seção e serviço",
-        "mudar a ordem, renomear ou excluir seção",
-        "adicionar serviço com nome, descrição e valor (ou texto de valor, como a partir de 1.800 reais)",
-        "informar duração e detalhe opcionais e escolher ícone do serviço",
-        "editar serviço"
+        "abrir serviços da empresa",
+        "criar seção",
+        "mudar ordem das seções",
+        "renomear seção",
+        "excluir seção",
+        "publicar seção",
+        "esconder seção",
+        "adicionar serviço",
+        "informar nome e descrição",
+        "informar valor",
+        "informar texto de valor (a partir de)",
+        "informar duração",
+        "informar detalhe",
+        "escolher ícone",
+        "editar serviço",
+        "esconder serviço",
+        "excluir serviço"
       ],
       "telas": [
-        "Editar empresa › Conteúdo da ficha › cartão Serviços › Gerenciar"
+        "Guia Comercial › Listar Empresas › Editar › Conteúdo da ficha › Serviços"
       ],
       "nao_cobre": [
         "catálogo de produtos (vídeo próprio)",
@@ -934,13 +1584,27 @@
       "id": "okWcwnwq5Bk",
       "titulo": "Guia Comercial > Gerenciar Equipes",
       "resumo": "Ensina a montar a equipe da empresa no guia, com profissionais que têm foto, nome, cargo ou especialidade e registro profissional, e a exibi-la na página da empresa. O recurso depende do plano e não aparece no plano grátis.",
+      "perguntas": [
+        "como cadastrar a equipe de uma empresa no painel",
+        "como adicionar profissional na ficha da empresa",
+        "como esconder um profissional",
+        "como excluir membro da equipe",
+        "como editar membro da equipe",
+        "como colocar CRM do profissional"
+      ],
       "cobre": [
-        "adicionar membro da equipe com foto (opcional), nome, cargo ou especialidade e registro profissional",
-        "esconder membro sem apagar, pela chave no ar (por exemplo, profissional de férias)",
-        "editar e excluir membro da equipe"
+        "abrir a equipe da empresa",
+        "adicionar membro",
+        "enviar foto do membro",
+        "escrever nome e cargo",
+        "informar registro profissional",
+        "salvar membro",
+        "esconder membro sem apagar",
+        "editar membro",
+        "excluir membro"
       ],
       "telas": [
-        "Editar empresa › Conteúdo da ficha › cartão Equipe › Gerenciar"
+        "Guia Comercial › Listar Empresas › Editar › Conteúdo da ficha › Equipe"
       ],
       "nao_cobre": [
         "catálogo de produtos, serviços e cardápio (vídeos próprios)",
@@ -951,17 +1615,36 @@
       "id": "Z45xwGT8U38",
       "titulo": "Guia Comercial > Gerenciar Catalogo de Produtos",
       "resumo": "Ensina a montar um catálogo de produtos com seções, produtos, fotos e especificações, e a publicá-lo na página da loja. Cada produto tem botão tenho interesse que abre o WhatsApp da loja já falando do produto. O vídeo informa que no plano grátis o catálogo não fica disponível.",
+      "perguntas": [
+        "como gerenciar o catálogo de uma empresa no painel",
+        "como cadastrar produto no catálogo da empresa",
+        "como adicionar seção ao catálogo",
+        "como colocar fotos no produto",
+        "como colocar vídeo do YouTube no produto",
+        "como excluir seção do catálogo",
+        "como editar produto do catálogo",
+        "por que o catálogo não aparece"
+      ],
       "cobre": [
-        "adicionar seção ao catálogo",
-        "cadastrar produto com título, marca, descrição, preço e destaque (mais vendido, oferta, novo ou recente)",
-        "escrever especificações, uma por linha",
-        "adicionar várias fotos ou um vídeo do YouTube à galeria do produto",
-        "publicar ou esconder seção e produto",
-        "mudar a ordem das seções e excluir seção",
-        "editar e excluir produto"
+        "abrir o catálogo da empresa",
+        "adicionar seção",
+        "mudar ordem das seções",
+        "publicar seção",
+        "esconder seção",
+        "excluir seção",
+        "cadastrar produto",
+        "informar título, marca, descrição e preço",
+        "escolher destaque (mais vendido, oferta, novo, recente)",
+        "escrever especificações",
+        "adicionar fotos",
+        "adicionar vídeo do YouTube",
+        "publicar produto",
+        "esconder produto",
+        "editar produto",
+        "excluir produto"
       ],
       "telas": [
-        "Editar empresa › Conteúdo da ficha › Catálogo de produtos › Gerenciar"
+        "Guia Comercial › Listar Empresas › Editar › Conteúdo da ficha › Catálogo de Produtos"
       ],
       "nao_cobre": [
         "planos e preços do guia comercial",
@@ -972,19 +1655,40 @@
       "id": "reZ3e1a4o-o",
       "titulo": "Guia Comercial > Acomodações / Quartos",
       "resumo": "Ensina a montar a vitrine de quartos e suítes de hospedagens: seções, quartos com preço por noite e promocional, comodidades, ordem e galeria de fotos. Os quartos aparecem na página da empresa em abas por seção, com botões reservar e WhatsApp. Aparece para categorias com a opção Quartos marcada, como hospedagem.",
+      "perguntas": [
+        "como cadastrar quartos de uma pousada no painel",
+        "como colocar quartos na empresa",
+        "como liberar quartos para a categoria",
+        "como colocar preço promocional no quarto",
+        "como colocar fotos no quarto",
+        "como colocar comodidades no quarto",
+        "como excluir um quarto",
+        "como esconder um quarto"
+      ],
       "cobre": [
-        "criar seção de quartos (por exemplo, casal, grupo, suítes ou chalés)",
-        "publicar ou esconder seção e quarto",
-        "mudar a ordem, renomear ou excluir seção",
-        "cadastrar quarto com título, subtítulo, descrição e preço por noite",
-        "informar preço promocional, que aparece com o preço cheio riscado",
-        "adicionar comodidades (cada uma vira etiqueta) e definir a ordem do quarto na seção",
-        "gerenciar fotos e vídeos do quarto na galeria",
-        "editar e excluir quarto"
+        "abrir Quartos e suítes da empresa",
+        "criar seção de quartos",
+        "mudar ordem das seções",
+        "renomear seção",
+        "excluir seção",
+        "publicar seção",
+        "esconder seção",
+        "cadastrar quarto",
+        "escrever título e subtítulo",
+        "escrever descrição",
+        "informar preço por noite",
+        "informar preço promocional",
+        "adicionar comodidades",
+        "definir ordem do quarto",
+        "gerenciar fotos e vídeos do quarto",
+        "publicar quarto",
+        "esconder quarto",
+        "editar quarto",
+        "excluir quarto"
       ],
       "telas": [
-        "Editar empresa › Conteúdo da ficha › cartão Quartos e Suítes › Gerenciar",
-        "Gerenciar Categorias › opção Quartos"
+        "Guia Comercial › Listar Empresas › Editar › Conteúdo da ficha › Quartos e Suítes",
+        "Guia Comercial › Gerenciar Categorias"
       ],
       "nao_cobre": [
         "sistema de reservas e disponibilidade de datas (não mostrado)",
@@ -995,18 +1699,42 @@
       "id": "09n3Eiwn418",
       "titulo": "Guia Comercial > Gerenciar Categorias e Subcategorias",
       "resumo": "Ensina a configurar categorias e subcategorias do guia comercial: criar e editar categoria com ícone e cor, marcar os recursos que as empresas da categoria podem mostrar (cardápio, delivery, quartos), definir o que aparece no orçamento e criar subcategorias. Desmarcar um recurso só oculta o conteúdo, sem apagá-lo.",
+      "perguntas": [
+        "como criar uma categoria no guia",
+        "como editar uma categoria",
+        "como excluir uma categoria",
+        "como criar uma subcategoria",
+        "como editar uma subcategoria",
+        "como liberar cardápio para uma categoria",
+        "como ativar delivery em uma categoria",
+        "como ativar quartos para hotel e pousada",
+        "como escolher o ícone da categoria",
+        "como mudar a cor da categoria",
+        "como fazer a categoria aparecer no orçamento",
+        "como tirar uma categoria do orçamento",
+        "por que o cardápio não aparece na empresa"
+      ],
       "cobre": [
-        "criar categoria com nome, ícone e cor",
-        "marcar ou desmarcar recursos da categoria (cardápio, delivery, quartos)",
-        "editar categoria existente",
-        "definir se a categoria aparece no formulário de orçamento",
+        "criar categoria",
+        "escolher nome da categoria",
+        "escolher ícone da categoria",
+        "escolher cor da categoria",
+        "ativar categoria no site",
+        "fazer a categoria aparecer no formulário de orçamento",
+        "ligar cardápio na categoria",
+        "ligar delivery na categoria",
+        "ligar quartos na categoria",
+        "editar categoria",
+        "excluir categoria",
+        "ver quantas empresas usam a categoria",
         "criar subcategoria",
         "editar subcategoria",
-        "marcar ou desmarcar de uma vez as subcategorias exibidas"
+        "marcar subcategorias no orçamento",
+        "desmarcar subcategorias no orçamento"
       ],
       "telas": [
-        "Guia comercial › Gerenciar categorias",
-        "Guia comercial › Gerenciar subcategorias"
+        "Guia Comercial › Gerenciar Categorias",
+        "Guia Comercial › Gerenciar Subcategorias"
       ],
       "nao_cobre": [
         "cadastro e edição das empresas e de suas fichas (menu Listar empresas não é mostrado)",
@@ -1019,20 +1747,52 @@
       "id": "uN4FHHHGgEs",
       "titulo": "Sorteios > Configurações",
       "resumo": "Ensina a criar e realizar um sorteio no painel: capa, título, regras, datas de inscrição, data do sorteio, número de ganhadores, empresa patrocinadora e roleta. Mostra como sortear ao vivo, chamar o ganhador no WhatsApp e registrar a entrega do prêmio, inclusive trocando o ganhador que não responde.",
+      "perguntas": [
+        "como fazer um sorteio",
+        "como criar um sorteio",
+        "como realizar um sorteio no portal",
+        "como sortear um ganhador",
+        "como ver os participantes do sorteio",
+        "como exportar a lista de participantes",
+        "como chamar o ganhador no WhatsApp",
+        "como sortear outro ganhador",
+        "como colocar a empresa patrocinadora no sorteio",
+        "como publicar um sorteio",
+        "como salvar sorteio como rascunho",
+        "como colocar a live no sorteio",
+        "como excluir um sorteio",
+        "como marcar prêmio como entregue"
+      ],
       "cobre": [
-        "criar sorteio com capa (1.600 por 900 pixels), título, descrição do prêmio, regras e vídeo ou link da live",
-        "definir datas de inscrição e do sorteio, e a quantidade de ganhadores",
-        "escolher a empresa do guia que patrocina o prêmio",
-        "escolher se a roleta mostra nomes ou números da sorte",
-        "salvar rascunho ou publicar o sorteio",
-        "acompanhar participantes e exportar a lista em CSV ou Excel",
-        "sortear ao vivo em tela cheia e chamar o ganhador no WhatsApp",
-        "registrar a situação da entrega (aguardando contato, contatado, prêmio entregue, não respondeu) e sortear outro quando o ganhador não responder",
-        "entender que início das inscrições, quantidade de ganhadores e roleta ficam travados após a primeira inscrição"
+        "abrir Sorteios",
+        "clicar em Novo sorteio",
+        "enviar capa do sorteio (1600 por 900)",
+        "escrever título",
+        "descrever o prêmio",
+        "escrever regras",
+        "colar vídeo do YouTube",
+        "colar link da live",
+        "definir início das inscrições",
+        "definir fim das inscrições",
+        "definir data e hora do sorteio",
+        "definir quantidade de ganhadores",
+        "escolher empresa patrocinadora",
+        "escolher roleta com nomes ou números da sorte",
+        "salvar rascunho",
+        "publicar sorteio",
+        "ver participantes",
+        "exportar participantes em CSV",
+        "exportar participantes em Excel",
+        "sortear ao vivo em tela cheia",
+        "chamar ganhador no WhatsApp",
+        "marcar situação da entrega do prêmio",
+        "sortear outro ganhador",
+        "editar sorteio",
+        "excluir sorteio"
       ],
       "telas": [
         "Sorteios › Sorteios",
-        "Sorteios › Participantes de sorteios"
+        "Sorteios › Participantes de Sorteios"
       ],
       "nao_cobre": [
         "regras legais e de premiação dos sorteios (não tratadas no vídeo)",
@@ -1043,35 +1803,51 @@
       "id": "REgRSXekqpA",
       "titulo": "Sorteios [Animado Página Externa]",
       "resumo": "Explica como participar dos sorteios do portal, sem custo: escolher o sorteio, informar nome e número de WhatsApp e confirmar. O número precisa ser o seu, porque o ganhador é avisado por ele. Data, hora e link da transmissão ao vivo ficam na página do sorteio.",
-      "cobre": [
-        "participar de sorteio informando nome e número de WhatsApp",
-        "ativar notificações para receber avisos de novos sorteios",
-        "ver data, hora e link da transmissão ao vivo na página do sorteio",
-        "conferir ganhadores anteriores e próximos sorteios na página do sorteio"
+      "perguntas": [
+        "como participar de um sorteio",
+        "como me inscrever no sorteio",
+        "onde vejo o ganhador do sorteio",
+        "onde assisto o sorteio ao vivo",
+        "como receber aviso de novos sorteios"
       ],
+      "cobre": [],
       "telas": [],
-      "nao_cobre": [
-        "como a empresa cria ou gerencia um sorteio",
-        "regras e prêmios de cada sorteio específico"
-      ]
+      "nao_cobre": []
     },
     {
       "id": "F136_v1JyRY",
       "titulo": "Visão Geral - Como Funciona o Extrator GMaps",
       "resumo": "Mostra como usar o extrator de empresas do Google Maps: escolher o tipo de extração (lista para prospecção ou base para o portal), definir estado, cidades, bairros e nicho, limitar a quantidade de registros, baixar o arquivo em Excel e comprar créditos. Os créditos são cobrados porque a consulta usa a API do Google.",
+      "perguntas": [
+        "como usar o extrator do Google Maps",
+        "como extrair empresas do Google Maps",
+        "como comprar créditos do extrator",
+        "como ver meu saldo de créditos",
+        "como ver minhas extrações anteriores",
+        "como baixar a lista em Excel",
+        "como fazer uma nova extração",
+        "como extrair empresas para encher meu portal",
+        "quantos créditos grátis eu tenho"
+      ],
       "cobre": [
-        "escolher entre lista para prospecção e base para o portal",
-        "escolher estado, até cinco cidades, bairros opcionais e nicho",
-        "evitar bairros quando a extração tem mais de uma cidade",
-        "definir quantidade máxima de registros por busca",
-        "baixar a extração em Excel (XLSX), disponível por 7 dias",
-        "apagar colunas do arquivo para deixar só o necessário à prospecção",
-        "comprar pacote de créditos e acompanhar saldo e extratos"
+        "iniciar nova extração",
+        "escolher lista para prospecção",
+        "escolher base para o portal",
+        "escolher estado",
+        "escolher cidades (até cinco)",
+        "escolher bairros",
+        "escolher nicho",
+        "definir máximo de registros",
+        "baixar extração em Excel (XLSX)",
+        "apagar colunas do arquivo",
+        "ver extratos das extrações",
+        "ver saldo de créditos",
+        "comprar pacote de créditos"
       ],
       "telas": [
-        "Extrator Google Maps › Nova extração",
+        "Extrator Google Maps › Nova Extração",
         "Extrator Google Maps › Extratos",
-        "Extrator Google Maps › Comprar créditos"
+        "Extrator Google Maps › Comprar Créditos"
       ],
       "nao_cobre": [
         "importação da base para dentro do portal (citada, não mostrada)",
@@ -1084,46 +1860,88 @@
       "id": "R9FCgunNxFE",
       "titulo": "Como realizar extração Maps - Direto ao ponto",
       "resumo": "Mostra o passo a passo do extrator Google Maps: escolher a finalidade (prospecção ou base para o portal), localização, nicho e limite de registros, e gerar o Excel. O crédito é cobrado pelas empresas encontradas, e o arquivo fica disponível por 7 dias.",
+      "perguntas": [
+        "como extrair empresas do Google Maps",
+        "como fazer uma extração no extrator Maps",
+        "como baixar a lista do Google Maps em Excel",
+        "como baixar de novo uma extração",
+        "qual a diferença entre prospecção e base para o portal",
+        "como escolher a cidade da extração",
+        "como limitar a quantidade de empresas extraídas",
+        "como escolher o nicho da extração"
+      ],
       "cobre": [
-        "escolher finalidade: prospecção ou base para o portal",
-        "escolher estado e cidades; bairros só quando houver uma cidade",
-        "informar um nicho por extração, ou deixar em branco",
-        "definir a quantidade máxima de registros por busca",
-        "iniciar a extração e baixar o arquivo em Excel",
-        "baixar de novo uma extração feita nos últimos 7 dias",
-        "limpar colunas para usar a base só para prospecção, mantendo telefone e site"
+        "escolher finalidade prospecção",
+        "escolher finalidade base para o portal",
+        "escolher estado",
+        "escolher cidades",
+        "escolher bairros (só com uma cidade)",
+        "informar nicho",
+        "deixar nicho em branco",
+        "definir quantidade máxima de registros",
+        "iniciar extração",
+        "baixar arquivo em Excel",
+        "baixar de novo extração dos últimos 7 dias",
+        "apagar colunas para deixar só telefone e site"
       ],
       "telas": [
-        "Extrator Google Maps › Nova extração",
+        "Extrator Google Maps › Nova Extração",
         "Extrator Google Maps › Extrações"
       ],
       "nao_cobre": [
-        "compra de créditos (explicada no vídeo principal do extrator)",
-        "diferença entre o extrator Google Maps e o Dados PJ (só explicada)",
-        "atendimento pelo suporte (só citado)"
+        "compra de créditos (vídeo Como Funciona o Extrator GMaps)"
       ]
     },
     {
       "id": "wukhVMFEHWg",
       "titulo": "Guia Comercial > Listar Empresas",
       "resumo": "Apresenta a lista de empresas do guia no painel administrativo: busca, filtros e status (só as ativas aparecem no site). Mostra a edição da empresa campo a campo: dados, categoria, plano (cortesia do portal por padrão), localização, contatos, mídia, reservas, cupons, comodidades, horários, galeria, acesso do dono, SEO e conteúdo da ficha.",
+      "perguntas": [
+        "como excluir uma empresa",
+        "como apagar uma empresa do guia",
+        "como remover uma empresa",
+        "como aprovar uma empresa pendente",
+        "como ativar uma empresa",
+        "como desativar uma empresa",
+        "como banir uma empresa",
+        "como mudar o plano de uma empresa",
+        "como mudar a categoria de uma empresa",
+        "como colocar empresa em destaque",
+        "como buscar uma empresa pelo nome",
+        "como redefinir a senha do dono da empresa",
+        "como remover o acesso do dono da empresa",
+        "como editar os dados de uma empresa",
+        "como abrir a página da empresa no site"
+      ],
       "cobre": [
-        "filtrar empresas por status e categoria e buscar pelo nome",
-        "mudar o status direto na lista (pendente, ativo, inativo, banido ou reprovado)",
-        "abrir a página da empresa no portal ou excluir a empresa",
-        "buscar dados no Google Meu Negócio antes de salvar",
-        "definir categoria e subcategoria (a categoria libera recursos como cardápio, delivery e quartos)",
-        "escolher o plano da empresa (cortesia por padrão; plano pago gera contratação e fatura em aberto)",
-        "marcar empresa em destaque (estrela)",
-        "preencher localização pelo CEP, contatos, logo, capa, cardápio externo, reservas, delivery e botões de ação",
-        "preencher comodidades, formas de pagamento, horários, galeria e SEO",
-        "redefinir senha ou remover o acesso do dono à área do cliente",
-        "abrir o conteúdo da ficha (cardápio, serviços, equipe, catálogo, delivery e fila de pedidos)",
+        "filtrar empresas por status",
+        "filtrar empresas por categoria",
+        "buscar empresa pelo nome",
+        "mudar status da empresa (pendente, ativo, inativo, banido, reprovado)",
+        "abrir a página da empresa no portal",
+        "excluir empresa",
+        "editar empresa",
+        "buscar dados no Google Meu Negócio",
+        "escolher categoria e subcategoria",
+        "escolher plano da empresa",
+        "marcar empresa em destaque",
+        "preencher endereço pelo CEP",
+        "preencher contatos",
+        "enviar logo e capa",
+        "colocar cardápio, reserva ou delivery em outro lugar",
+        "marcar comodidades",
+        "marcar formas de pagamento",
+        "definir horários",
+        "adicionar fotos na galeria",
+        "redefinir senha do dono",
+        "remover acesso do dono",
+        "definir título e descrição para o Google",
+        "abrir cardápio, serviços, equipe, catálogo e delivery da empresa",
         "salvar alterações"
       ],
       "telas": [
-        "Guia comercial › Listar empresas",
-        "Guia comercial › Listar empresas › Editar"
+        "Guia Comercial › Listar Empresas",
+        "Guia Comercial › Listar Empresas › Editar"
       ],
       "nao_cobre": [
         "importação de lista do Google Maps em detalhe (vídeo Importando Lista do GMaps)",
@@ -1134,18 +1952,39 @@
       "id": "ajzmuupRJMM",
       "titulo": "Melhor da Cidade > Configurações",
       "resumo": "Mostra como criar e acompanhar a votação Melhores da cidade no painel: criar em duas etapas (datas e competições), acompanhar o placar, decidir sobre votos suspeitos e encerrar. Também mostra como a votação aparece no portal e como ver o pódio final.",
+      "perguntas": [
+        "como criar votação dos melhores da cidade",
+        "como encerrar uma votação",
+        "como ver o placar da votação",
+        "como anular votos suspeitos",
+        "como editar uma votação",
+        "como excluir uma votação",
+        "como ver o resultado final",
+        "como estender o prazo da votação",
+        "como ver o ganhador"
+      ],
       "cobre": [
-        "criar votação em duas etapas: nome opcional, início e fim, e competições por categoria e subcategoria",
+        "buscar votação",
+        "filtrar votações no ar, agendadas, encerradas",
+        "criar votação",
+        "definir datas de início e fim",
+        "criar competições por categoria e subcategoria",
         "revisar e criar a votação",
-        "buscar votação e filtrar por todas, no ar, agendadas ou encerradas",
-        "ver o placar completo, inclusive na última hora",
-        "decidir sobre votos suspeitos (anular ou manter), com desfazer até o fim",
-        "editar votação no ar (estender ou encurtar o fim e trocar o nome das competições)",
+        "ver placar completo",
+        "ver votos suspeitos",
+        "anular votos suspeitos",
+        "manter votos suspeitos",
+        "desfazer decisão sobre votos",
+        "editar votação no ar",
+        "estender o fim da votação",
+        "encurtar o fim da votação",
+        "trocar nome da competição",
         "encerrar votação agora",
-        "ver resultado final e pódio em votações encerradas"
+        "excluir votação",
+        "ver resultado final e pódio"
       ],
       "telas": [
-        "Conteúdo › Melhores da cidade"
+        "Conteúdo › Melhores da Cidade"
       ],
       "nao_cobre": [
         "como funciona a verificação de segurança do voto (apenas mencionada)",
@@ -1156,13 +1995,37 @@
       "id": "grm3bUrPBxM",
       "titulo": "Doações: instituições e causas",
       "resumo": "Ensina a cadastrar instituições e causas na área de doações, que divulga projetos sociais da cidade. Mostra como preencher o card, a página e os botões de contato de cada instituição, e como as causas viram filtros da página pública de doações.",
+      "perguntas": [
+        "como cadastrar uma instituição de caridade",
+        "como cadastrar uma ONG",
+        "como excluir uma instituição",
+        "como criar uma causa",
+        "como colocar fotos no slide da instituição",
+        "como colocar WhatsApp da instituição",
+        "como editar uma instituição",
+        "como tirar instituição do ar"
+      ],
       "cobre": [
-        "cadastrar instituição com nome, causa, resumo do card, foto de capa, logo, frase de destaque e descrição",
-        "montar o slide do topo com fotos e vídeos do YouTube e ordenar com as setas",
-        "preencher endereço (CEP, cidade e bairro) e galeria de fotos e vídeos",
-        "informar links e contatos (conheça a instituição, WhatsApp, Instagram, Facebook e e-mail), que só aparecem se preenchidos",
-        "tirar instituição do ar excluindo-a",
-        "criar causa com nome e editar ou excluir causa"
+        "abrir Doações",
+        "buscar instituição pelo nome",
+        "cadastrar nova instituição",
+        "escolher a causa",
+        "escrever resumo do card",
+        "montar slide do topo com fotos e vídeos",
+        "ordenar slide com as setas",
+        "enviar foto de capa",
+        "enviar logo",
+        "escrever frase de destaque",
+        "escrever descrição",
+        "preencher endereço pelo CEP",
+        "adicionar galeria",
+        "informar WhatsApp, Instagram, Facebook e e-mail",
+        "salvar instituição",
+        "editar instituição",
+        "excluir instituição",
+        "criar causa",
+        "editar causa",
+        "excluir causa"
       ],
       "telas": [
         "Conteúdo › Doações › Instituições",
@@ -1177,51 +2040,64 @@
       "id": "Be_8j63JLwI",
       "titulo": "Melhor da Cidade [Animado Página Externa]",
       "resumo": "Divulgação da votação Melhores da Cidade: o visitante escolhe uma categoria, vota no favorito sem cadastro e acompanha o ranking até o cronômetro zerar. Não mostra o painel.",
-      "cobre": [
-        "escolher uma categoria e votar no favorito sem cadastro",
-        "acompanhar o ranking e o cronômetro da votação"
+      "perguntas": [
+        "como votar nos melhores da cidade",
+        "como votar no meu restaurante favorito",
+        "como ver o ranking dos melhores da cidade"
       ],
+      "cobre": [],
       "telas": [],
-      "nao_cobre": [
-        "como o administrador cria ou encerra a votação (não mostrado)",
-        "regras de premiação além do troféu (não detalhadas)"
-      ]
+      "nao_cobre": []
     },
     {
       "id": "8v1W-gtTRow",
       "titulo": "Projetos Sociais [Animado Página Externa]",
       "resumo": "Vídeo de divulgação da seção Doações, onde o visitante encontra instituições de caridade da cidade, busca por nome ou causa, vê o trabalho de cada uma e fala com ela pelo WhatsApp. Não mostra o painel.",
-      "cobre": [
-        "buscar instituição pelo nome ou pela causa",
-        "falar com a instituição pelo WhatsApp"
+      "perguntas": [
+        "como ajudar uma instituição de caridade",
+        "onde ver as instituições de caridade da cidade",
+        "como fazer uma doação",
+        "como falar com uma ONG"
       ],
+      "cobre": [],
       "telas": [],
-      "nao_cobre": [
-        "cadastro de instituições no painel (não mostrado)",
-        "como fazer a doação (apenas citada)"
-      ]
+      "nao_cobre": []
     },
     {
       "id": "UwPhKSt-mvM",
       "titulo": "Vídeo p/ Area do Cliente [GERAL]",
       "resumo": "Apresenta a área do cliente e onde fica cada coisa: a tela início com o resumo do que está publicado, o menu lateral com as áreas contratadas e os grupos de orçamentos, delivery e minha conta. Também mostra onde pedir ajuda, pelo assistente de IA ou pelo WhatsApp do suporte.",
+      "perguntas": [
+        "como usar a área do cliente",
+        "onde fica cada coisa no painel do cliente",
+        "como trocar minha senha",
+        "onde vejo meus planos",
+        "onde vejo a data de renovação do plano",
+        "onde vejo os pedidos recebidos",
+        "como pedir ajuda no painel",
+        "o que significa aguardando aprovação"
+      ],
       "cobre": [
-        "ler o resumo da tela início (áreas, itens no ar e itens aguardando aprovação)",
-        "localizar cada área no menu lateral",
-        "ver pedidos recebidos, com a bolinha de novos pedidos",
-        "ver dados da empresa em minha conta",
-        "ver planos, data de renovação e outros planos em planos e assinaturas",
-        "trocar a senha em segurança",
-        "pedir ajuda pelo botão de suporte no canto inferior direito"
+        "ver resumo na tela Início",
+        "ver itens no ar",
+        "ver itens aguardando aprovação",
+        "abrir área pelo botão Gerenciar",
+        "mudar plano",
+        "abrir Pedidos recebidos",
+        "ver pedidos novos",
+        "abrir Minha empresa",
+        "ver planos e renovação",
+        "trocar senha em Segurança",
+        "pedir ajuda pelo suporte"
       ],
       "telas": [
-        "Início",
-        "Menu lateral › O que eu publico",
-        "Menu lateral › Orçamentos › Pedidos recebidos",
-        "Menu lateral › Delivery",
-        "Menu lateral › Minha conta › Minha empresa",
-        "Menu lateral › Planos e assinaturas",
-        "Menu lateral › Segurança"
+        "Área do Cliente › Início",
+        "Área do Cliente › O que eu publico",
+        "Área do Cliente › Orçamentos › Pedidos Recebidos",
+        "Área do Cliente › Delivery",
+        "Área do Cliente › Minha Conta › Minha Empresa",
+        "Área do Cliente › Planos e Assinaturas",
+        "Área do Cliente › Segurança"
       ],
       "nao_cobre": [
         "passo a passo de cada área (cada uma tem vídeo próprio)",
@@ -1232,16 +2108,31 @@
       "id": "v7uO6kjwVOA",
       "titulo": "Vídeo p/ Cupons",
       "resumo": "Passo a passo para a empresa criar o cupom de desconto no próprio painel do cliente: foto opcional, oferta, condições, código, tipo e valor do desconto e validade. Ao salvar, o cupom aparece na página de cupons do portal e sai sozinho após a validade. O item só aparece se o plano incluir cupom.",
+      "perguntas": [
+        "como criar um cupom para minha empresa",
+        "como editar meu cupom",
+        "como mudar a oferta do cupom",
+        "como colocar validade no cupom",
+        "como colocar código no cupom",
+        "por que não aparece o menu de cupons",
+        "como criar cupom de valor fixo"
+      ],
       "cobre": [
-        "criar cupom com foto de capa (opcional), oferta e segunda linha do card",
+        "abrir Cupons",
+        "adicionar foto de capa",
+        "escrever oferta do cupom",
+        "escrever segunda linha do card",
         "escrever condições de uso",
-        "criar código do cupom (letras e números, sem espaços)",
-        "escolher tipo de desconto (percentual ou valor fixo em reais) e valor",
-        "definir até quando o cupom vale",
-        "salvar cupom e alterar a oferta depois"
+        "criar código do cupom",
+        "escolher desconto percentual",
+        "escolher desconto em reais",
+        "definir valor do desconto",
+        "definir validade do cupom",
+        "salvar cupom",
+        "alterar oferta depois"
       ],
       "telas": [
-        "Menu da esquerda › Cupons (logo abaixo de Guia comercial)"
+        "Área do Cliente › Cupons"
       ],
       "nao_cobre": [
         "quais planos incluem cupom",
@@ -1252,18 +2143,44 @@
       "id": "aNqs6gSprvs",
       "titulo": "Vídeo p/ Agenda de Eventos",
       "resumo": "Passo a passo para divulgar um evento na agenda da cidade pelo próprio painel: preencher título, categoria, datas, horário e local; enviar foto de capa, galeria e vídeo; informar ingresso e contato; escolher a forma de divulgação; pagar e publicar. Depois do pagamento, o evento passa pela análise do portal antes de entrar no ar.",
+      "perguntas": [
+        "como criar um evento",
+        "como divulgar meu evento",
+        "como cadastrar um evento na área do cliente",
+        "como colocar foto no evento",
+        "como colocar link de ingresso",
+        "como pagar a divulgação do evento",
+        "como editar meu evento",
+        "por que meu evento está em análise",
+        "qual o tamanho da foto do evento",
+        "como colocar vídeo no evento"
+      ],
       "cobre": [
-        "criar novo evento pelo botão novo evento",
-        "preencher título, categoria, descrição, data (e término), horário e local (o CEP completa o endereço)",
-        "enviar foto de capa horizontal (1280 por 720 pixels) e galeria de até 10 itens, com pelo menos uma foto",
-        "colar link de vídeo do YouTube",
-        "informar preço, link de ingresso e WhatsApp para contato, e marcar mostrar telefone",
-        "escolher a forma de divulgação, pagar e publicar",
-        "acompanhar a situação do evento (aguardando pagamento, em análise, publicado) e editar o evento"
+        "abrir Agenda de eventos",
+        "clicar em Novo evento",
+        "escrever título",
+        "escolher categoria",
+        "escrever descrição",
+        "informar data",
+        "informar data de término",
+        "informar horário",
+        "informar CEP e endereço",
+        "informar local",
+        "enviar foto de capa (1280 por 720)",
+        "adicionar galeria de fotos",
+        "colar vídeo do YouTube",
+        "informar preço",
+        "informar link de ingresso",
+        "informar WhatsApp",
+        "mostrar telefone",
+        "escolher forma de divulgação",
+        "pagar e publicar",
+        "acompanhar situação do evento",
+        "editar evento"
       ],
       "telas": [
-        "Agenda de eventos › Novo evento",
-        "Agenda de eventos › Meus eventos"
+        "Área do Cliente › Agenda de Eventos",
+        "Área do Cliente › Agenda de Eventos › Novo Evento"
       ],
       "nao_cobre": [
         "valores e detalhes de cada opção de divulgação (só mostrados na tela)",
@@ -1274,20 +2191,46 @@
       "id": "525qfVrQ4iY",
       "titulo": "Vídeo p/ Vagas de Emprego",
       "resumo": "Passo a passo para o cliente publicar uma vaga de emprego pelo próprio painel: completar o cadastro da empresa, preencher o formulário da vaga, informar como receber candidaturas e enviar para aprovação. A vaga só vai ao ar depois de aprovada.",
+      "perguntas": [
+        "como publicar uma vaga de emprego",
+        "como criar uma vaga",
+        "como cadastrar uma vaga",
+        "como anunciar uma vaga no portal",
+        "como editar uma vaga",
+        "como pausar uma vaga",
+        "como excluir uma vaga",
+        "como colocar vaga para PCD",
+        "como informar o salário da vaga",
+        "como colocar salário a combinar",
+        "como receber candidatos pelo WhatsApp",
+        "como adicionar a logo da empresa na vaga"
+      ],
       "cobre": [
-        "completar o cadastro da empresa com logo e descrição",
-        "criar nova vaga pelo botão Nova vaga",
-        "preencher título, área, tipo de contrato, cidade, bairro, carga horária e modelo de trabalho",
-        "marcar vaga PCD, primeiro emprego ou urgente",
-        "escrever descrição, requisitos e benefícios (um por linha)",
-        "informar salário ou marcar salário a combinar",
-        "informar WhatsApp, e-mail ou link externo para candidatura",
-        "publicar vaga para aprovação",
-        "editar, pausar ou excluir uma vaga"
+        "abrir Vagas de emprego no menu",
+        "clicar em Nova vaga",
+        "adicionar logo da empresa",
+        "escrever descrição da empresa",
+        "informar título da vaga",
+        "escolher área da vaga",
+        "escolher tipo de contrato",
+        "informar cidade e bairro",
+        "informar carga horária",
+        "escolher modelo de trabalho (presencial, remoto, híbrido)",
+        "marcar vaga PCD",
+        "marcar primeiro emprego",
+        "marcar vaga urgente",
+        "escrever descrição, requisitos e benefícios",
+        "informar salário",
+        "marcar salário a combinar",
+        "informar WhatsApp, e-mail ou link para candidatura",
+        "enviar vaga para aprovação",
+        "editar vaga",
+        "pausar vaga",
+        "excluir vaga"
       ],
       "telas": [
-        "Menu lateral › Vagas de emprego",
-        "Vagas de emprego › Nova vaga"
+        "Vagas de Emprego",
+        "Vagas de Emprego › Nova vaga"
       ],
       "nao_cobre": [
         "escolha e pagamento do plano de vagas (apenas mostrado no topo da tela)",
@@ -1299,21 +2242,42 @@
       "id": "Mu5xmUB7w9o",
       "titulo": "Vídeo p/ Banner Publicitário",
       "resumo": "Passo a passo para a empresa anunciar com banner pela área do cliente: escolher página e posição, período, arte, link de destino, pagar e acompanhar a aprovação. Mostra também como corrigir banner reprovado, editar, filtrar e parar a renovação.",
+      "perguntas": [
+        "como anunciar com banner",
+        "como contratar um banner",
+        "como comprar espaço de banner",
+        "como enviar a arte do banner",
+        "como pagar o banner",
+        "como trocar a arte do banner",
+        "como corrigir banner reprovado",
+        "como parar a renovação do banner",
+        "como cancelar o banner",
+        "como colocar link no meu banner",
+        "qual o tamanho do banner",
+        "por que meu banner está aguardando aprovação"
+      ],
       "cobre": [
-        "escolher página e posição do banner",
-        "escolher o período entre os oferecidos para a posição",
-        "enviar arte em PNG ou JPG no tamanho indicado",
-        "informar link de destino e nome interno do banner",
-        "conferir a prévia no computador e no celular",
-        "pagar e publicar banner por Pix ou cartão",
+        "abrir Banners publicitários",
+        "clicar em Novo banner",
+        "escolher página do banner",
+        "escolher posição do banner",
+        "escolher período do banner",
+        "enviar arte em PNG ou JPG",
+        "apagar arte e enviar outra",
+        "colocar link de destino",
+        "dar nome interno ao banner",
+        "ver prévia no computador e no celular",
+        "pagar por Pix",
+        "pagar por cartão",
         "enviar comprovante de Pix pelo WhatsApp",
+        "continuar pagamento pendente",
         "corrigir e reenviar banner reprovado",
-        "editar arte, link ou nome de banner publicado",
-        "parar a renovação do banner"
+        "editar arte, link ou nome do banner",
+        "parar a renovação automática"
       ],
       "telas": [
-        "Área do cliente › Banners publicitários",
-        "Área do cliente › Banners publicitários › Novo banner"
+        "Área do Cliente › Banners Publicitários",
+        "Área do Cliente › Banners Publicitários › Novo Banner"
       ],
       "nao_cobre": [
         "definição dos preços e posições à venda (vídeo Planos de Publicidade)",
@@ -1325,18 +2289,47 @@
       "id": "S-YcDWiimEo",
       "titulo": "Vídeo p/ Classificados",
       "resumo": "Ensina a criar um anúncio nos classificados (título, categoria, descrição, condição, preço, fotos e contato) e a enviá-lo para aprovação. Explica os limites do plano grátis (3 anúncios no ar, 30 dias, 3 fotos) e as vantagens dos planos pagos, que podem ser assinados pelo próprio painel.",
+      "perguntas": [
+        "como criar um anúncio nos classificados",
+        "como anunciar um produto",
+        "como vender algo no portal",
+        "como colocar foto no anúncio",
+        "como colocar preço a combinar",
+        "como pausar um anúncio",
+        "como marcar anúncio como vendido",
+        "como excluir meu anúncio",
+        "como editar meu anúncio",
+        "por que meu anúncio não aparece",
+        "como mudar de plano de classificados",
+        "quantos anúncios posso ter no plano grátis"
+      ],
       "cobre": [
-        "criar anúncio com título, categoria, subcategoria, descrição, condição (novo ou usado) e preço ou preço a combinar",
-        "marcar aceito negociar ou aceito troca",
-        "adicionar pelo menos uma foto do produto",
-        "informar WhatsApp e e-mail e marcar mostrar telefone no anúncio",
-        "publicar anúncio para aprovação (até dois dias úteis)",
-        "pausar, marcar como vendido, editar ou excluir anúncio",
-        "assinar um plano pago de classificados pelo botão quero este"
+        "abrir Classificados",
+        "clicar em Novo anúncio",
+        "escrever título",
+        "escolher categoria",
+        "escolher subcategoria",
+        "escrever descrição",
+        "escolher condição novo ou usado",
+        "informar preço",
+        "marcar preço a combinar",
+        "marcar aceito negociar",
+        "marcar aceito troca",
+        "adicionar fotos",
+        "informar WhatsApp e e-mail",
+        "mostrar telefone no anúncio",
+        "publicar para aprovação",
+        "pausar anúncio",
+        "marcar como vendido",
+        "editar anúncio",
+        "excluir anúncio",
+        "ver planos de classificados",
+        "assinar plano pago"
       ],
       "telas": [
-        "Classificados › Novo anúncio",
-        "Classificados › Ver planos"
+        "Área do Cliente › Classificados",
+        "Área do Cliente › Classificados › Novo Anúncio",
+        "Área do Cliente › Classificados › Ver Planos"
       ],
       "nao_cobre": [
         "valores dos planos pagos (aparecem na tela de planos)",
@@ -1347,16 +2340,28 @@
       "id": "KiGU9vNKIwg",
       "titulo": "Vídeo p/ Orçamentos [Pedidos Recebidos]",
       "resumo": "Ensina a empresa a receber e responder pedidos de orçamento pelo menu Pedidos recebidos da área do cliente: ver pedidos novos ou já vistos, buscar, abrir o pedido completo com fotos e responder pelo WhatsApp com mensagem pronta. Os pedidos chegam às empresas do serviço que têm o recurso de orçamento no plano.",
+      "perguntas": [
+        "onde vejo os pedidos de orçamento",
+        "como responder um orçamento",
+        "como ver as fotos do pedido de orçamento",
+        "como marcar orçamento como visto",
+        "como buscar um pedido de orçamento",
+        "como responder o orçamento pelo WhatsApp",
+        "por que não recebo orçamentos"
+      ],
       "cobre": [
-        "atualizar a lista para buscar pedidos novos",
-        "buscar pedido pelo nome do cliente, número ou cidade",
-        "filtrar pedidos entre todos, novos e já vistos",
-        "abrir o pedido completo e ver as fotos enviadas",
+        "abrir Pedidos recebidos",
+        "atualizar a lista de pedidos",
+        "buscar pedido por nome, número ou cidade",
+        "filtrar pedidos novos",
+        "filtrar pedidos já vistos",
+        "abrir pedido completo",
+        "ver fotos do pedido",
         "marcar pedido como visto",
-        "responder pedido pelo WhatsApp com mensagem pronta"
+        "responder pelo WhatsApp com mensagem pronta"
       ],
       "telas": [
-        "Menu lateral › Pedidos recebidos"
+        "Área do Cliente › Pedidos Recebidos"
       ],
       "nao_cobre": [
         "como o visitante cria o pedido de orçamento (citado, não mostrado)",
@@ -1368,15 +2373,35 @@
       "id": "Uv6Zt7V9YN0",
       "titulo": "Guia > Cadastrando sua Empresa no Guia",
       "resumo": "Ensina a cadastrar a empresa no guia comercial depois de contratar um plano: dados, endereço, categoria, subcategoria e horário de funcionamento. Ao publicar, a empresa vai para análise e, quando aprovada, aparece no site.",
+      "perguntas": [
+        "como cadastrar minha empresa no guia",
+        "como colocar minha empresa no guia comercial",
+        "como buscar minha empresa no Google Meu Negócio",
+        "como colocar horário de funcionamento",
+        "como escolher a categoria da empresa",
+        "como escolher a subcategoria",
+        "como colocar endereço pelo CEP",
+        "como publicar minha empresa",
+        "por que minha empresa está em análise"
+      ],
       "cobre": [
-        "buscar dados da empresa no Google Meu Negócio ou cadastrar manualmente",
-        "preencher nome, descrição e endereço (CEP e número)",
-        "escolher categoria e subcategoria",
-        "definir horário de funcionamento (aplicar a todos os dias, marcar fechado ou 24 horas)",
-        "publicar a empresa no guia para análise"
+        "abrir Guia comercial",
+        "buscar dados no Google Meu Negócio",
+        "cadastrar empresa manualmente",
+        "escrever nome da empresa",
+        "escrever descrição",
+        "preencher endereço pelo CEP",
+        "informar número do endereço",
+        "escolher categoria",
+        "escolher subcategoria",
+        "informar horário de segunda-feira",
+        "aplicar horário a todos os dias",
+        "marcar dia fechado",
+        "marcar aberto 24 horas",
+        "publicar empresa no guia para análise"
       ],
       "telas": [
-        "Área do cliente › Guia comercial"
+        "Área do Cliente › Guia Comercial"
       ],
       "nao_cobre": [
         "contatos, fotos, cupons e links da ficha (próximo vídeo)",
@@ -1388,17 +2413,43 @@
       "id": "8EwkE_ascEw",
       "titulo": "Guia > Completando sua ficha",
       "resumo": "Mostra como completar a ficha da empresa no guia comercial: contatos e redes, logo, capa e galeria, comodidades e formas de pagamento, links e botões. Logo e capa só são gravadas ao salvar. Ensina também a conferir a ficha no site.",
+      "perguntas": [
+        "como completar a ficha da minha empresa",
+        "como colocar logo na minha empresa",
+        "como colocar foto de capa na empresa",
+        "como colocar fotos na galeria da empresa",
+        "como apagar foto da galeria",
+        "como colocar o WhatsApp da empresa",
+        "como colocar o Instagram da empresa",
+        "como colocar formas de pagamento",
+        "como colocar comodidades",
+        "como colocar o link do cardápio",
+        "como colocar link de reservas",
+        "como ver minha ficha no site"
+      ],
       "cobre": [
-        "preencher telefone, e-mail, WhatsApp, Instagram e site",
-        "enviar logo, foto de capa e fotos da galeria",
-        "apagar uma foto da galeria",
-        "marcar comodidades e formas de pagamento, por sugestão ou digitando",
-        "informar link de orçamento, cardápio, reservas, agendamento ou delivery em outro lugar",
+        "preencher telefone",
+        "preencher e-mail",
+        "preencher WhatsApp",
+        "preencher Instagram",
+        "preencher site",
+        "enviar logo",
+        "enviar foto de capa",
+        "enviar fotos da galeria",
+        "apagar foto da galeria",
+        "marcar comodidades",
+        "marcar formas de pagamento",
+        "digitar comodidade que não está na lista",
+        "colocar link de orçamento",
+        "colocar link de cardápio em outro site",
+        "colocar link de reservas",
+        "colocar link de agendamento",
+        "colocar link de delivery em outro lugar",
         "salvar alterações da ficha",
-        "ver a ficha no site"
+        "ver minha ficha no site"
       ],
       "telas": [
-        "Sua área › Guia comercial"
+        "Sua Área › Guia Comercial › Minha Empresa"
       ],
       "nao_cobre": [
         "páginas de serviços, catálogo e cardápio (próximos vídeos da série)",
@@ -1410,14 +2461,26 @@
       "id": "OInXMQlSWqw",
       "titulo": "Guia > Minha empresa",
       "resumo": "Mostra a tela Minha Empresa da área do cliente: trocar logo, descrição e contatos, dados que valem para todas as publicações da empresa (guia comercial, vagas, anúncios e eventos). Uma alteração ali atualiza tudo de uma vez.",
+      "perguntas": [
+        "como trocar a logo da minha empresa",
+        "como mudar a descrição da empresa",
+        "como mudar o WhatsApp da empresa",
+        "como mudar o e-mail da empresa",
+        "como mudar os dados da minha empresa em tudo",
+        "onde fica Minha Empresa"
+      ],
       "cobre": [
-        "trocar a logo da empresa",
-        "escrever a descrição da empresa",
-        "informar WhatsApp, e-mail de contato e site",
-        "salvar dados que atualizam todas as publicações da empresa"
+        "abrir Minha Empresa",
+        "trocar logo",
+        "escrever descrição da empresa",
+        "informar WhatsApp",
+        "informar e-mail de contato",
+        "informar site",
+        "ver onde os dados aparecem",
+        "salvar dados"
       ],
       "telas": [
-        "Área do cliente › Minha Empresa"
+        "Área do Cliente › Minha Empresa"
       ],
       "nao_cobre": [
         "ficha do guia comercial com fotos, comodidades e horários (vídeo Guia Empresa 02)",
@@ -1429,17 +2492,34 @@
       "id": "FwKU_0GF6iU",
       "titulo": "Guia > Página de Serviços",
       "resumo": "Ensina a criar a página de serviços da empresa no guia comercial: organizar serviços em seções, cadastrar cada serviço com descrição, preço fixo ou em texto, duração, detalhe e ícone, e publicar ou tirar do ar. Cada serviço tem botão de agendar pelo WhatsApp.",
+      "perguntas": [
+        "como cadastrar serviços da minha empresa",
+        "como colocar preço do serviço",
+        "como criar seção de serviços",
+        "como editar um serviço",
+        "como excluir um serviço",
+        "como tirar um serviço do ar",
+        "como colocar ícone no serviço",
+        "como colocar duração do serviço",
+        "como colocar preço a partir de"
+      ],
       "cobre": [
-        "criar seção de serviços (ex.: instalações, manutenção)",
-        "cadastrar serviço com nome e descrição do que está incluído",
-        "informar preço fixo ou preço em texto (ex.: a partir de 150 reais, sobre orçamento)",
-        "informar duração e detalhe extra do serviço",
-        "escolher ícone do serviço pelo nome",
-        "publicar ou tirar do ar um serviço",
-        "editar ou excluir serviço"
+        "abrir a página de serviços",
+        "criar seção de serviços",
+        "cadastrar novo serviço",
+        "escrever nome e descrição do serviço",
+        "informar preço fixo",
+        "informar preço em texto (a partir de, sob orçamento)",
+        "informar duração",
+        "informar detalhe extra",
+        "escolher ícone",
+        "publicar serviço",
+        "tirar serviço do ar",
+        "editar serviço",
+        "excluir serviço"
       ],
       "telas": [
-        "Sua área › Guia comercial › Páginas da sua empresa › Serviços"
+        "Sua Área › Guia Comercial › Páginas da sua empresa › Serviços"
       ],
       "nao_cobre": [
         "páginas de equipe, catálogo e cardápio (outros vídeos da série)",
@@ -1451,16 +2531,30 @@
       "id": "-cq2YnG0vis",
       "titulo": "Guia > Página da Equipe",
       "resumo": "Ensina a criar a página Equipe da empresa no guia comercial: cadastrar profissionais com nome, cargo, foto e registro opcional, e publicar ou tirar do ar cada um. A equipe aparece na ficha da empresa.",
+      "perguntas": [
+        "como cadastrar a equipe da minha empresa",
+        "como adicionar um profissional na ficha da empresa",
+        "como criar a página equipe",
+        "como excluir um profissional da equipe",
+        "como tirar um profissional do ar",
+        "como editar um profissional da equipe",
+        "como colocar foto do profissional",
+        "como informar o CRM ou CREA do profissional"
+      ],
       "cobre": [
-        "criar a página Equipe pelo cartão Equipe",
-        "cadastrar profissional com nome, cargo e foto",
-        "informar registro profissional (CREA, CRM ou OAB), que é opcional",
-        "publicar ou tirar do ar um profissional",
-        "editar ou excluir um profissional da equipe",
-        "salvar o cadastro de cada profissional"
+        "criar a página Equipe",
+        "cadastrar novo profissional",
+        "informar nome e cargo",
+        "informar registro profissional (CREA, CRM ou OAB)",
+        "enviar foto do profissional",
+        "publicar profissional no site",
+        "tirar profissional do ar",
+        "editar profissional",
+        "excluir profissional"
       ],
       "telas": [
-        "Sua área › Guia comercial › Páginas da sua empresa › Equipe"
+        "Sua área › Guia comercial › Páginas da sua empresa › Equipe",
+        "Gerenciar equipe › Novo profissional"
       ],
       "nao_cobre": [
         "demais páginas da empresa, como serviços, catálogo e cardápio",
@@ -1472,16 +2566,33 @@
       "id": "X2BpMhoYKiA",
       "titulo": "Guia > Catálogo de produtos",
       "resumo": "Ensina a montar o catálogo de produtos da empresa no guia: criar seções e cadastrar produtos com nome, marca, descrição, preço, selo de destaque, ficha técnica e até 8 fotos. No portal, cada produto tem botão que abre conversa no WhatsApp da loja já com o produto escolhido.",
+      "perguntas": [
+        "como cadastrar um produto no catálogo da minha empresa",
+        "como criar catálogo de produtos",
+        "como criar seção no catálogo",
+        "como colocar fotos no produto",
+        "como colocar selo de oferta no produto",
+        "como colocar ficha técnica do produto",
+        "como tirar um produto do ar",
+        "como excluir um produto do catálogo"
+      ],
       "cobre": [
+        "abrir Catálogo de produtos",
         "criar seção do catálogo",
-        "cadastrar produto com nome, marca, descrição curta e preço",
-        "escolher selo de destaque (top vendido, oferta, novo ou recente)",
-        "adicionar características da ficha técnica, uma a uma, com adicionar",
-        "enviar até 8 fotos (a primeira é a capa)",
-        "deixar o produto publicado no site ou escondido, e salvar"
+        "cadastrar produto",
+        "informar nome e marca do produto",
+        "escrever descrição curta",
+        "informar preço",
+        "escolher selo (top vendido, oferta, novo, recente)",
+        "adicionar características da ficha técnica",
+        "enviar até oito fotos",
+        "publicar produto no site",
+        "tirar produto do ar",
+        "editar produto",
+        "excluir produto"
       ],
       "telas": [
-        "Guia comercial › páginas da sua empresa › Catálogo de produtos › Começar ou gerenciar"
+        "Área do Cliente › Guia Comercial › Páginas da sua empresa › Catálogo de Produtos"
       ],
       "nao_cobre": [
         "cardápio digital de restaurante (vídeo próprio)",
@@ -1493,17 +2604,41 @@
       "id": "gmYWNfgX8LM",
       "titulo": "Guia > Cardápio",
       "resumo": "Ensina a montar o cardápio digital da empresa no guia: seções, pratos com foto, preço, promoção e selos, tema e QR code. Mostra também como o cardápio aparece no portal, com abas por seção, busca e rodapé com os botões de pedido e WhatsApp.",
+      "perguntas": [
+        "como montar o cardápio da minha empresa",
+        "como cadastrar um prato",
+        "como colocar preço promocional no prato",
+        "como gerar QR code do cardápio",
+        "como criar seção no cardápio",
+        "como tirar um prato do ar",
+        "como tirar o botão de pedido do cardápio",
+        "como mudar o tema do cardápio",
+        "como colocar selo mais pedido no prato"
+      ],
       "cobre": [
-        "escolher os botões do rodapé (fazer meu pedido e chamar no WhatsApp) ou desligar os dois",
-        "escolher tema claro ou escuro do cardápio",
-        "gerar QR code no tamanho da placa e baixar a imagem ou copiar o link",
-        "criar seção do cardápio e publicar ou tirar do ar",
-        "adicionar prato com nome, descrição, preço, preço promocional, selos e foto",
-        "tirar prato do ar sem apagar, pela chave ao lado do preço",
+        "abrir o cardápio",
+        "ligar botão Fazer meu pedido",
+        "ligar botão Chamar no WhatsApp",
+        "desligar os botões do cardápio",
+        "escolher tema claro ou escuro",
+        "gerar QR code",
+        "baixar imagem do QR code",
+        "copiar link do cardápio",
+        "criar seção",
+        "publicar seção",
+        "tirar seção do ar",
+        "renomear seção",
+        "excluir seção",
+        "adicionar prato",
+        "escrever nome, descrição e preço",
+        "colocar preço promocional",
+        "marcar selos (mais pedido, novidade, vegetariano, recomendado)",
+        "enviar foto do prato",
+        "tirar prato do ar",
         "editar prato"
       ],
       "telas": [
-        "Guia comercial › páginas da sua empresa › Cardápio › Gerenciar"
+        "Área do Cliente › Guia Comercial › Páginas da sua empresa › Cardápio"
       ],
       "nao_cobre": [
         "fila de pedidos e configurações do delivery (vídeo próprio)",
@@ -1514,17 +2649,29 @@
       "id": "viWXA8_mZf4",
       "titulo": "Guia > Delivery: configuração e cardápio",
       "resumo": "Mostra como o cliente faz pedido pelo delivery do portal e como a loja recebe, filtra, conclui ou cancela os pedidos na tela Delivery › Pedidos. O cancelamento não pode ser desfeito, e o motivo fica registrado.",
+      "perguntas": [
+        "onde vejo os pedidos do delivery",
+        "como concluir um pedido do delivery",
+        "como cancelar um pedido do delivery",
+        "como chamar o cliente do pedido no WhatsApp",
+        "como filtrar pedidos por data",
+        "como ver os detalhes de um pedido",
+        "como ver quanto vendi no delivery"
+      ],
       "cobre": [
-        "filtrar pedidos por período (hoje, ontem, 7 ou 30 dias, ou datas) e por situação",
-        "ver detalhes do pedido (código, itens, observação, cliente, endereço, pagamento e total)",
-        "chamar o cliente no WhatsApp",
-        "abrir a página do pedido como o cliente vê",
+        "abrir Delivery › Pedidos",
+        "filtrar pedidos por período",
+        "filtrar pedidos por situação",
+        "ver detalhes do pedido",
+        "chamar cliente no WhatsApp",
+        "abrir página do pedido",
         "concluir pedido entregue",
         "cancelar pedido informando o motivo",
-        "atualizar a lista para ver pedidos novos"
+        "atualizar lista de pedidos",
+        "ver total vendido"
       ],
       "telas": [
-        "Delivery › Pedidos"
+        "Área do Cliente › Delivery › Pedidos"
       ],
       "nao_cobre": [
         "configuração de taxas, áreas e pagamento do delivery (vídeo Fila de Pedidos e Config Delivery)",
@@ -1535,16 +2682,34 @@
       "id": "aSRf0hwUrrc",
       "titulo": "Guia > Quartos e suítes",
       "resumo": "Ensina a cadastrar quartos e suítes de hospedagens (hotéis, pousadas, chalés e casas de temporada) com seções, fotos, diária, promoção e comodidades. Os quartos aparecem na ficha da empresa, em abas por seção.",
+      "perguntas": [
+        "como cadastrar quartos",
+        "como cadastrar suítes",
+        "como colocar diária do quarto",
+        "como colocar diária promocional",
+        "como colocar fotos no quarto",
+        "como criar seção de quartos",
+        "como excluir quarto",
+        "como tirar um quarto do ar",
+        "como colocar comodidades do quarto"
+      ],
       "cobre": [
-        "criar seção de quartos (por exemplo, chalés)",
-        "cadastrar quarto com nome, subtítulo, descrição e diária",
-        "informar diária promocional, que aparece em destaque com a diária normal riscada",
-        "listar comodidades do quarto, uma a uma, com adicionar",
-        "enviar até oito fotos do quarto (a primeira é a capa)",
-        "publicar ou esconder seção e quarto, editar e excluir quarto"
+        "abrir Quartos e suítes",
+        "criar seção de quartos",
+        "cadastrar quarto",
+        "informar nome e subtítulo",
+        "escrever descrição",
+        "informar diária",
+        "informar diária promocional",
+        "adicionar comodidades",
+        "enviar até oito fotos",
+        "publicar quarto",
+        "esconder quarto",
+        "editar quarto",
+        "excluir quarto"
       ],
       "telas": [
-        "Guia comercial › páginas da sua empresa › Quartos e suítes › Gerenciar"
+        "Área do Cliente › Guia Comercial › Páginas da sua empresa › Quartos e Suítes"
       ],
       "nao_cobre": [
         "sistema de reservas (o botão WhatsApp leva o hóspede a conversar com a empresa)",
@@ -1556,21 +2721,52 @@
       "id": "by3tA7GUa88",
       "titulo": "Vídeo Area Jornalista - Publicar Noticia",
       "resumo": "Passo a passo para o jornalista convidado publicar notícias: entrar na área do jornalista, preencher o perfil de autor, criar a notícia com título, chamada, texto, tags, fonte, foto de capa e SEO, e publicar, salvar como rascunho ou agendar.",
+      "perguntas": [
+        "como publicar uma notícia",
+        "como postar uma notícia",
+        "como escrever uma notícia",
+        "como agendar uma notícia",
+        "como salvar notícia como rascunho",
+        "como editar uma notícia",
+        "como excluir uma notícia",
+        "como tirar notícia do ar",
+        "como colocar foto de capa na notícia",
+        "como preencher meu perfil de autor",
+        "como colocar tags na notícia",
+        "como colocar fonte na notícia"
+      ],
       "cobre": [
-        "entrar na área do cliente com e-mail e senha do jornalista",
-        "preencher o perfil de autor (foto, nome, cargo, mini biografia e redes públicas) e salvar perfil",
-        "criar nova notícia com título, subtítulo, título curto e chamada",
-        "escrever o texto com a barra de ferramentas e inserir imagem no meio do texto",
-        "preencher tags, fonte da matéria, categoria e subcategoria",
-        "enviar foto de capa, escolher o ponto de recorte, legenda e créditos",
-        "preencher SEO (título e descrição do Google, opcionais)",
-        "publicar, salvar como rascunho ou agendar a notícia",
-        "editar, despublicar ou excluir notícia"
+        "entrar como jornalista",
+        "preencher perfil de autor",
+        "enviar foto do autor",
+        "escrever mini biografia",
+        "salvar perfil",
+        "abrir Nova notícia",
+        "escrever título",
+        "escrever subtítulo",
+        "escrever título curto",
+        "escrever chamada",
+        "escrever texto",
+        "inserir imagem no texto",
+        "colocar tags",
+        "informar fonte da matéria",
+        "escolher categoria",
+        "escolher subcategoria",
+        "enviar foto de capa",
+        "escolher recorte da capa",
+        "escrever legenda e créditos",
+        "preencher título e descrição para o Google",
+        "publicar notícia",
+        "salvar como rascunho",
+        "agendar notícia",
+        "editar notícia",
+        "despublicar notícia",
+        "excluir notícia"
       ],
       "telas": [
-        "Menu da esquerda › Autor",
-        "Menu da esquerda › Notícias › Nova notícia",
-        "Menu da esquerda › Notícias › Minhas notícias"
+        "Autor",
+        "Notícias › Nova Notícia",
+        "Notícias › Minhas Notícias"
       ],
       "nao_cobre": [
         "troca de senha e segurança (item do menu apenas citado)",
@@ -1581,19 +2777,41 @@
       "id": "8VRaUwhuhO0",
       "titulo": "Vídeo Area Especialista - Publicar Artigo",
       "resumo": "Passo a passo para o colunista publicar um artigo pelo próprio painel: completar o perfil, escrever no editor com título, chamada e texto, escolher categoria, agendar ou publicar e preencher capa e dados para buscadores. Mostra o contador de artigos da semana do plano.",
+      "perguntas": [
+        "como publicar um artigo",
+        "como escrever um artigo",
+        "como criar um artigo",
+        "como agendar um artigo",
+        "como colocar foto de capa no artigo",
+        "como colocar imagem no meio do artigo",
+        "como colocar vídeo do YouTube no artigo",
+        "como completar meu perfil de colunista",
+        "como escolher a categoria do artigo",
+        "como mudar o título do artigo no Google"
+      ],
       "cobre": [
-        "completar o perfil de colunista com foto, nome, cargo e descrição",
-        "escrever título, subtítulo e chamada do artigo",
-        "formatar o texto com subtítulos, listas, citações, cores, link e vídeo do YouTube",
+        "abrir Artigos no menu",
+        "completar perfil de colunista",
+        "enviar foto do colunista",
+        "escrever título do artigo",
+        "escrever subtítulo",
+        "escrever chamada",
+        "escrever o texto",
+        "colocar subtítulos e listas no texto",
+        "colocar link no texto",
+        "colocar vídeo do YouTube",
         "inserir imagem no meio do texto",
-        "escolher a categoria do artigo",
-        "agendar a publicação para data e hora ou publicar na hora",
-        "enviar foto de capa com legenda e créditos",
-        "preencher título e descrição para buscadores",
+        "escolher categoria",
+        "agendar publicação",
+        "publicar na hora",
+        "enviar foto de capa",
+        "escrever legenda e créditos da foto",
+        "escrever título e descrição para o Google",
         "publicar o artigo"
       ],
       "telas": [
-        "Menu lateral › Artigos › Novo artigo"
+        "Artigos",
+        "Artigos › Novo artigo"
       ],
       "nao_cobre": [
         "plano e preço de colunista (apenas o contador é mostrado)",
@@ -1605,16 +2823,32 @@
       "id": "yuJhd0nadEE",
       "titulo": "Vídeo p/ Planos e Assinaturas",
       "resumo": "Mostra a tela Planos e assinaturas: acompanhar as assinaturas, ver data de renovação e situação, comparar planos, subir ou descer de plano, voltar ao grátis e contratar uma área ainda não assinada, informando CPF ou CNPJ para cobrança.",
+      "perguntas": [
+        "como mudar de plano",
+        "como cancelar meu plano",
+        "como voltar para o plano grátis",
+        "como descer de plano",
+        "como contratar um plano",
+        "como ver a data de renovação do plano",
+        "como comparar os planos",
+        "como assinar uma área nova",
+        "quando o plano novo começa a valer"
+      ],
       "cobre": [
-        "ver assinaturas com área, plano, data de renovação e situação",
-        "comparar planos, inclusive na tabela comparar todos os planos",
-        "trocar para um plano mais completo (vale após a confirmação do pagamento)",
-        "descer de plano (vale ao fim do período pago) ou cancelar a troca",
-        "voltar ao grátis, conferindo o que se perde ao fim do período pago",
-        "contratar uma área ainda não assinada (quero este), informando CPF ou CNPJ e pagando"
+        "ver assinaturas",
+        "ver data de renovação",
+        "ver situação da assinatura",
+        "comparar todos os planos",
+        "subir de plano",
+        "descer de plano",
+        "cancelar a troca de plano",
+        "voltar ao plano grátis",
+        "contratar área ainda não assinada",
+        "informar CPF ou CNPJ",
+        "pagar o plano"
       ],
       "telas": [
-        "Minha conta › Planos e assinaturas"
+        "Área do Cliente › Minha Conta › Planos e Assinaturas"
       ],
       "nao_cobre": [
         "valores e períodos de cada plano (definidos por cada portal, não mostrados)",
@@ -1625,45 +2859,72 @@
       "id": "-Krm1tXfeig",
       "titulo": "[Parceiro] - Visão Geral Home",
       "resumo": "Visão geral do Painel do Parceiro: menus, onde copiar o link de indicação e escolher a página de destino, acompanhamento de ganhos, clientes e comissões, upgrade de plano e informação da carteira para recebimento.",
+      "perguntas": [
+        "onde pego meu link de indicação",
+        "como copiar o link de parceiro",
+        "como mudar a página de destino do meu link",
+        "como ver quanto eu já ganhei",
+        "como ver minhas comissões",
+        "como ver meus clientes indicados",
+        "como fazer upgrade do plano de parceiro",
+        "como simular meus ganhos",
+        "como trocar minha senha de parceiro",
+        "como informar minha carteira para receber",
+        "como falar com o suporte pelo painel do parceiro",
+        "quanto ganho em cada venda"
+      ],
       "cobre": [
         "copiar o link de indicação",
-        "escolher a página de destino do link de indicação",
+        "escolher para qual página o link leva",
         "simular ganhos com número de vendas e valor médio",
+        "ver quanto ganha em cada plano vendido",
         "fazer upgrade do plano de parceiro",
-        "informar CPF ou CNPJ para cobrança e ir para o pagamento",
-        "acompanhar clientes trazidos pelo link",
-        "consultar comissões e residuais a receber e já recebidos",
-        "informar a carteira do AS para receber comissões",
-        "trocar a senha do perfil",
-        "abrir o suporte pelo WhatsApp"
+        "informar CPF ou CNPJ para pagar o upgrade",
+        "ver clientes que contrataram pelo link",
+        "ver comissões a receber e já recebidas",
+        "filtrar comissões por tipo, situação e período",
+        "informar a carteira do Asaas no perfil",
+        "trocar a senha",
+        "falar com o suporte pelo WhatsApp"
       ],
       "telas": [
-        "Início",
-        "Meus clientes",
-        "Minhas comissões",
-        "Minha conta › Perfil"
+        "Painel do Parceiro › Início",
+        "Painel do Parceiro › Meus clientes",
+        "Painel do Parceiro › Minhas comissões",
+        "Painel do Parceiro › Minha conta › Perfil"
       ],
       "nao_cobre": [
-        "passo a passo da carteira do AS (vídeo seguinte da série)",
-        "como o portal define os percentuais de comissão",
-        "cadastro de planos de parceiro no painel administrativo",
-        "cálculo real das vendas (a simulação é apenas estimativa)"
+        "passo a passo da carteira do Asaas (próximo vídeo)",
+        "mudar o percentual de comissão (definido pelo portal, não pelo parceiro)",
+        "criar planos de parceiro no painel do administrador"
       ]
     },
     {
       "id": "J7njZgIoVes",
       "titulo": "[Parceiro] - Cadastrar Chave Asaas",
       "resumo": "Mostra como o parceiro cria a conta no Asaas e informa a Wallet ID da carteira no painel do parceiro (Perfil › Carteira de recebimento), para receber comissões quando o portal liga o repasse automático. Trocar a carteira pede a senha do painel.",
+      "perguntas": [
+        "como criar conta no Asaas",
+        "como pegar o Wallet ID do Asaas",
+        "como informar minha carteira para receber comissão",
+        "onde coloco o ID da carteira Asaas",
+        "por que o Asaas recusou minha carteira",
+        "como trocar minha carteira de recebimento",
+        "como receber minhas comissões"
+      ],
       "cobre": [
-        "criar conta no Asaas com e-mail, senha e aceite dos termos",
-        "enviar documentos (CPF ou CNPJ, endereço e telefone) e aguardar aprovação",
-        "copiar a Wallet ID em Integrações no Asaas",
-        "colar a Wallet ID no painel do parceiro e salvar a carteira com a senha atual",
-        "corrigir a carteira quando o Asaas recusar"
+        "criar conta no Asaas",
+        "enviar documentos ao Asaas",
+        "copiar o Wallet ID em Integrações",
+        "abrir Perfil no painel do parceiro",
+        "colar o ID da carteira Asaas",
+        "digitar a senha atual para salvar",
+        "salvar carteira",
+        "corrigir carteira recusada"
       ],
       "telas": [
         "Asaas › Perfil › Integrações",
-        "Painel do parceiro › Perfil › Carteira de recebimento"
+        "Painel do Parceiro › Perfil › Carteira de Recebimento"
       ],
       "nao_cobre": [
         "decisão de ligar o repasse automático (feita pelo portal)",
@@ -1675,17 +2936,33 @@
       "id": "O3sdByn6xK8",
       "titulo": "Vídeo Externo Página >  Radar de Preços - Principal",
       "resumo": "Mostra como o morador consulta preços no Radar de Preços: escolher supermercados, farmácias ou postos, buscar produto por nome com filtros de categoria e bairro, comparar combustíveis, montar lista de até 10 produtos para ver o mercado mais barato e enviar um preço.",
+      "perguntas": [
+        "como comparar preços no radar",
+        "onde está mais barato",
+        "como ver preço da gasolina",
+        "como comparar preços de supermercado",
+        "como montar lista de compras",
+        "como buscar um produto no radar de preços",
+        "como enviar um preço",
+        "como ver o preço dos remédios"
+      ],
       "cobre": [
-        "consultar preços de supermercados, farmácias ou postos de combustível",
-        "buscar produto por nome e filtrar por categoria e bairro",
-        "ordenar postos por menor preço, maior preço ou mais recentes",
-        "montar lista de até 10 produtos e ver o total em cada mercado",
-        "enviar preço pela foto de etiqueta ou encarte"
+        "consultar preços de supermercados",
+        "consultar preços de farmácias",
+        "consultar preços de postos",
+        "buscar produto pelo nome",
+        "filtrar por categoria",
+        "filtrar por bairro",
+        "ordenar postos por menor preço",
+        "ordenar postos por preço mais recente",
+        "montar lista de compras com até 10 produtos",
+        "ver total da lista em cada mercado",
+        "enviar preço por foto"
       ],
       "telas": [
-        "Radar de Preços › Consultar preços",
-        "Radar de Preços › Comparar lista",
-        "Radar de Preços › Enviar preço"
+        "Radar de Preços › Consultar Preços",
+        "Radar de Preços › Comparar Lista",
+        "Radar de Preços › Enviar Preço"
       ],
       "nao_cobre": [
         "conferência das fotos enviadas pela equipe (vídeo Radar 01 Fotos Enviadas)",
@@ -1696,31 +2973,42 @@
       "id": "msl8PXbZ9Ak",
       "titulo": "Vídeo Externo Página >  Radar de Preços - Lista",
       "resumo": "Mostra como o morador compara uma lista de compras (do mercado ou da farmácia) no radar de preços. O portal soma o total em cada estabelecimento e destaca em primeiro lugar onde sai mais barato. A lista aceita até 30 produtos e o resultado se atualiza ao mudar as quantidades.",
-      "cobre": [
-        "escolher lista do mercado ou lista da farmácia",
-        "adicionar produto pela busca e tocar na sugestão para incluir",
-        "ajustar quantidade e remover item",
-        "ver o total por estabelecimento, com endereço, e onde a compra sai mais barata"
+      "perguntas": [
+        "como montar lista de compras no radar",
+        "onde a compra sai mais barata",
+        "como comparar lista da farmácia",
+        "como mudar a quantidade na lista",
+        "como remover item da lista"
       ],
-      "telas": [
-        "Site › Radar de preços › Comparar lista"
-      ],
-      "nao_cobre": [
-        "cadastro de preços e estabelecimentos pelo painel (Radar 03 e 04)",
-        "envio de preço pelo morador (outra aba do radar)"
-      ]
+      "cobre": [],
+      "telas": [],
+      "nao_cobre": []
     },
     {
       "id": "3FZrdVUN_Yk",
       "titulo": "Vídeo Externo Página >  Radar de Preços - Enviar Preço",
       "resumo": "Ensina o cidadão a enviar um preço encontrado em supermercado, farmácia ou posto: escolher o tipo de estabelecimento, achar ou cadastrar o estabelecimento, enviar fotos do preço e informar nome e WhatsApp. A equipe do portal confere antes de publicar.",
+      "perguntas": [
+        "como enviar um preço no radar de preços",
+        "como mandar foto de etiqueta de preço",
+        "como enviar encarte de supermercado",
+        "como cadastrar um mercado no radar",
+        "como enviar preço de posto de gasolina",
+        "como enviar preço de farmácia",
+        "como ajudar a cidade a economizar"
+      ],
       "cobre": [
-        "enviar preço de supermercado, farmácia ou posto",
-        "buscar o estabelecimento pelo nome ou procurar no Google Maps",
-        "cadastrar estabelecimento manualmente com nome, endereço, cidade e bairro",
-        "enviar até cinco fotos de etiqueta ou prateleira, ou um encarte",
-        "girar ou remover foto antes de enviar",
-        "informar nome e WhatsApp e confirmar que é humano"
+        "abrir Enviar preço",
+        "escolher supermercado, farmácia ou posto",
+        "buscar o estabelecimento pelo nome",
+        "buscar o estabelecimento no Google Maps",
+        "cadastrar estabelecimento manualmente",
+        "enviar foto de etiqueta ou prateleira",
+        "enviar encarte",
+        "girar foto",
+        "remover foto",
+        "informar nome e WhatsApp",
+        "confirmar que é humano e enviar"
       ],
       "telas": [
         "Radar de Preços › Enviar preço"
@@ -1735,20 +3023,33 @@
       "id": "iuCYHVzr37g",
       "titulo": "Radar de Preço > Geral",
       "resumo": "Apresenta o radar de preços: o morador compara preços de supermercados, farmácias e postos e pode enviar fotos de etiquetas ou encartes. No painel são cinco abas. Nada vai ao site sem a sua aprovação; ao aprovar uma foto, a IA lê produtos e preços e atualiza o site.",
+      "perguntas": [
+        "como funciona o radar de preços no painel",
+        "como aprovar foto do radar",
+        "como adicionar preço no radar",
+        "onde vejo preços do radar",
+        "como gerenciar o radar de preços",
+        "quais são as abas do radar"
+      ],
       "cobre": [
-        "ver os quadros de pendências (preços retidos, preços no site e envios da semana)",
-        "conferir foto enviada (tipo, estabelecimento, preço informado e quem enviou)",
-        "aprovar, corrigir ou recusar foto enviada",
-        "adicionar preço escolhendo categoria, estabelecimento e produto, ou pela foto",
-        "cadastrar, editar, desativar e aprovar estabelecimentos indicados pelos moradores",
-        "mudar nome, ícone e ordem das categorias ou desligar uma categoria"
+        "ver pendências do radar",
+        "conferir foto enviada",
+        "aprovar foto",
+        "corrigir foto",
+        "recusar foto",
+        "adicionar preço",
+        "cadastrar estabelecimento",
+        "aprovar estabelecimento indicado",
+        "desativar estabelecimento",
+        "mudar nome, ícone e ordem das categorias",
+        "desligar categoria"
       ],
       "telas": [
-        "Conteúdo › Radar de preços › Fotos enviadas",
-        "Conteúdo › Radar de preços › Preços retidos",
-        "Conteúdo › Radar de preços › Produtos e preços",
-        "Conteúdo › Radar de preços › Estabelecimentos",
-        "Conteúdo › Radar de preços › Categorias"
+        "Conteúdo › Radar de Preços › Fotos Enviadas",
+        "Conteúdo › Radar de Preços › Preços Retidos",
+        "Conteúdo › Radar de Preços › Produtos e Preços",
+        "Conteúdo › Radar de Preços › Estabelecimentos",
+        "Conteúdo › Radar de Preços › Categorias"
       ],
       "nao_cobre": [
         "passo a passo de cada aba (vídeos próprios do radar)",
@@ -1759,16 +3060,30 @@
       "id": "CSYITekPVcw",
       "titulo": "Radar de Preço > Fotos Enviadas",
       "resumo": "Ensina a revisar as fotos de preços enviadas pelos moradores ao radar: aprovar foto e mercado novo, corrigir cadastro duplicado de mercado, recusar foto e aprovar para a leitura automática, que atualiza os preços no site. Mostra as abas aguardando, lidos e recusados.",
+      "perguntas": [
+        "como aprovar foto de preço enviada",
+        "como recusar foto do radar de preços",
+        "como girar foto do encarte",
+        "como aprovar mercado novo no radar",
+        "como corrigir mercado duplicado",
+        "como publicar os preços do encarte",
+        "como ver fotos enviadas pelos moradores",
+        "como ler foto de encarte com IA"
+      ],
       "cobre": [
-        "ver fotos aguardando, lidas e recusadas",
-        "ampliar foto e girar foto deitada",
-        "aprovar foto e mercado novo juntos",
-        "corrigir mercado duplicado para o mercado certo",
-        "recusar foto repetida, ilegível ou fora do tema",
-        "aprovar e ler foto para publicar os preços no site"
+        "ver fotos aguardando",
+        "ver fotos lidas",
+        "ver fotos recusadas",
+        "ampliar foto",
+        "girar foto",
+        "aprovar foto e mercado novo",
+        "corrigir mercado duplicado",
+        "recusar foto",
+        "aprovar e ler foto para publicar os preços",
+        "ver resultado da leitura dos preços"
       ],
       "telas": [
-        "Radar de preços › Fotos enviadas"
+        "Radar de Preços › Fotos Enviadas"
       ],
       "nao_cobre": [
         "envio de preços pelo morador (vídeo Radar de Preços, Como Enviar Preços)",
@@ -1780,14 +3095,26 @@
       "id": "focSRBTLhQE",
       "titulo": "Radar de Preço > Preços Retidos",
       "resumo": "Explica a tela Preços retidos do radar: leituras da IA muito diferentes do preço atual (mais que o dobro ou menos da metade) ficam retidas até você decidir. O restante é publicado na hora. Mostra como corrigir e publicar, publicar ou descartar uma leitura retida.",
+      "perguntas": [
+        "o que são preços retidos",
+        "como publicar preço retido",
+        "como corrigir preço retido",
+        "como descartar um preço errado do radar",
+        "por que um preço não apareceu no site"
+      ],
       "cobre": [
-        "revisar preço retido com foto, preço atual riscado, preço lido e motivo da retenção",
-        "corrigir nome, categoria ou preço e clicar em corrigir e publicar",
-        "publicar o preço lido quando ele estiver certo",
-        "descartar leitura errada (o preço lido é apagado e não vai ao site)"
+        "ver preços retidos",
+        "ver foto de onde o preço foi lido",
+        "ver preço atual e preço lido",
+        "ver motivo da retenção",
+        "corrigir nome do produto",
+        "corrigir categoria",
+        "corrigir preço e publicar",
+        "publicar preço lido",
+        "descartar leitura errada"
       ],
       "telas": [
-        "Radar › Preços retidos"
+        "Radar de Preços › Preços Retidos"
       ],
       "nao_cobre": [
         "aprovação de fotos enviadas pelos moradores (Radar 00, visão geral)",
@@ -1798,17 +3125,30 @@
       "id": "VhMHVZujDvQ",
       "titulo": "Radar de Preço > Produtos e Preços",
       "resumo": "Ensina a manter o catálogo de produtos e preços do radar: buscar e corrigir produtos, apagar preços por mercado, juntar produtos duplicados e cadastrar preços digitando ou enviando foto de etiqueta ou encarte. Preços enviados por foto vão direto para a leitura da IA, sem aprovação.",
+      "perguntas": [
+        "como editar o preço de um produto no radar",
+        "como remover um preço do radar",
+        "como juntar produtos duplicados",
+        "como apagar um produto do radar",
+        "como cadastrar um preço no radar",
+        "como corrigir o nome de um produto",
+        "como buscar um produto no radar do painel"
+      ],
       "cobre": [
-        "buscar produto pelo nome e filtrar por categoria",
-        "editar ou remover o preço de um mercado",
-        "juntar produto duplicado com outro (os preços passam para o escolhido e o duplicado é apagado)",
-        "editar nome e categoria do produto",
-        "apagar produto e seus preços após confirmação",
-        "cadastrar preço digitando produto, categoria, mercado e preço (foto opcional)",
-        "cadastrar preço enviando foto de etiqueta ou encarte"
+        "buscar produto pelo nome",
+        "filtrar produto por categoria",
+        "ver preços por mercado",
+        "editar preço de um mercado",
+        "remover preço de um mercado",
+        "juntar produto duplicado",
+        "editar nome do produto",
+        "editar categoria do produto",
+        "apagar produto",
+        "cadastrar preço digitando",
+        "cadastrar preço por foto de etiqueta ou encarte"
       ],
       "telas": [
-        "Radar › Produtos e preços"
+        "Radar de Preços › Produtos e Preços"
       ],
       "nao_cobre": [
         "aprovação e cadastro de estabelecimentos (Radar 04)",
@@ -1819,34 +3159,53 @@
       "id": "hrri-AfQihQ",
       "titulo": "Radar de Preço > Categorias",
       "resumo": "Mostra como organizar as três categorias fixas do radar de preços (supermercados, farmácias e postos de combustível): mudar nome, ícone e ordem no site, ou tirar uma categoria do ar. Nos postos, o morador compara gasolina, etanol e diesel.",
+      "perguntas": [
+        "como mudar o nome da categoria do radar",
+        "como mudar o ícone da categoria do radar",
+        "como tirar uma categoria do radar do ar",
+        "como mudar a ordem das categorias do radar"
+      ],
       "cobre": [
-        "editar categoria (nome, ícone e ordem em que aparece no site)",
-        "tirar categoria do ar desmarcando ativa",
+        "editar categoria",
+        "mudar nome",
+        "escolher ícone",
+        "mudar ordem",
+        "tirar categoria do ar",
         "salvar categoria"
       ],
       "telas": [
-        "Radar › Categorias"
+        "Radar de Preços › Categorias"
       ],
       "nao_cobre": [
-        "criação de novas categorias (o radar tem três fixas)",
-        "produtos e preços de cada categoria (Radar 03)"
+        "criar novas categorias (são três fixas)"
       ]
     },
     {
       "id": "Xfc771aD4z8",
       "titulo": "Radar de Preço > Estabelecimentos",
       "resumo": "Ensina a gerenciar os estabelecimentos do radar de preços (supermercados, farmácias e postos de combustível): cadastrar, aprovar sugestões dos moradores, juntar duplicados, desativar e excluir. Estabelecimentos desativados saem do site sem serem apagados.",
+      "perguntas": [
+        "como cadastrar um mercado no radar",
+        "como aprovar um mercado sugerido",
+        "como juntar mercados duplicados",
+        "como desativar um mercado",
+        "como excluir um estabelecimento do radar",
+        "como editar o endereço de um mercado"
+      ],
       "cobre": [
-        "filtrar estabelecimentos por situação (precisa aprovar, ativos, desativados) e categoria",
-        "cadastrar estabelecimento com categoria, nome, endereço, cidade e bairro",
-        "aprovar estabelecimento sugerido pelos moradores",
-        "juntar estabelecimento duplicado com outro (os preços passam para o escolhido)",
-        "desativar e ativar estabelecimento sem apagar",
-        "editar categoria, nome, endereço, cidade e bairro",
-        "excluir estabelecimento junto com todos os seus preços"
+        "filtrar estabelecimentos por situação",
+        "filtrar por categoria",
+        "buscar por nome ou endereço",
+        "cadastrar estabelecimento",
+        "aprovar estabelecimento sugerido",
+        "juntar estabelecimento duplicado",
+        "desativar estabelecimento",
+        "ativar estabelecimento",
+        "editar estabelecimento",
+        "excluir estabelecimento e seus preços"
       ],
       "telas": [
-        "Radar › Estabelecimentos"
+        "Radar de Preços › Estabelecimentos"
       ],
       "nao_cobre": [
         "cadastro e conferência de produtos e preços (Radar 03)",
@@ -1857,17 +3216,38 @@
       "id": "qpocVX6gjVA",
       "titulo": "Guia > Delivery: loja, entrega e pagamento",
       "resumo": "Ensina a montar a loja de delivery da empresa no portal: ligar o recebimento de pedidos, configurar WhatsApp, taxa, pedido mínimo, tempo de entrega, formas de pagamento e bairros atendidos, além de criar seções e produtos do cardápio de venda. Diferencia o cardápio de consulta do cardápio de delivery.",
+      "perguntas": [
+        "como ativar o delivery da empresa",
+        "como configurar a taxa de entrega",
+        "como definir pedido mínimo",
+        "como definir bairros atendidos",
+        "como configurar pix no delivery",
+        "como colocar o WhatsApp dos pedidos",
+        "como cadastrar produto do delivery",
+        "como mudar o tempo de entrega"
+      ],
       "cobre": [
-        "ligar a chave receber pedidos pelo delivery do portal",
-        "informar o WhatsApp que recebe os pedidos",
-        "definir taxa de entrega, pedido mínimo e tempo de entrega (mínimo e máximo em minutos)",
-        "marcar formas de pagamento aceitas (dinheiro, cartão e pix) e informar a chave pix",
-        "adicionar cidade e bairros atendidos (município todo ou só alguns bairros)",
-        "criar seção e produto do cardápio de venda (nome, descrição, preço, foto e destaque no cardápio)",
-        "publicar ou tirar do ar produto, e editar ou excluir produto"
+        "abrir configuração do delivery",
+        "ligar recebimento de pedidos",
+        "informar WhatsApp dos pedidos",
+        "definir taxa de entrega",
+        "definir pedido mínimo",
+        "definir tempo mínimo e máximo de entrega",
+        "aceitar dinheiro",
+        "aceitar cartão",
+        "aceitar pix e informar chave",
+        "escrever mensagem de boas-vindas",
+        "adicionar cidade atendida",
+        "atender município todo",
+        "escolher bairros atendidos",
+        "criar seção do cardápio de venda",
+        "cadastrar produto",
+        "tirar produto do ar",
+        "editar produto",
+        "excluir produto"
       ],
       "telas": [
-        "Guia comercial › páginas da sua empresa › Cardápio do delivery › Configurar"
+        "Área do Cliente › Guia Comercial › Páginas da sua empresa › Cardápio do Delivery"
       ],
       "nao_cobre": [
         "recebimento e acompanhamento de pedidos (próximo vídeo)",

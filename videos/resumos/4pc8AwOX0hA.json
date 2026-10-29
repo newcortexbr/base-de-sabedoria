@@ -1,15 +1,1 @@
-{
-  "id": "4pc8AwOX0hA",
-  "titulo": "Formas de Anunciar no nosso Portal",
-  "resumo": "Vídeo comercial que apresenta as formas de anunciar no portal: guia comercial, orçamentos, vagas, classificados, eventos, banners, matéria patrocinada e coluna de especialista. Não ensina a operar o painel.",
-  "cobre": [
-    "escolher uma ou combinar várias formas de anúncio do portal",
-    "entrar em contato com o portal pelo Fale conosco"
-  ],
-  "telas": [],
-  "nao_cobre": [
-    "preços e planos de cada anúncio (vídeo Meus Planos)",
-    "como publicar vagas, eventos ou classificados no painel",
-    "como montar a ficha da empresa no guia comercial"
-  ]
-}
+{"id":"4pc8AwOX0hA","titulo":"Formas de Anunciar no nosso Portal","resumo":"Vídeo comercial que apresenta as formas de anunciar no portal: guia comercial, orçamentos, vagas, classificados, eventos, banners, matéria patrocinada e coluna de especialista. Não ensina a operar o painel.","perguntas":["quais as formas de anunciar no portal","como anunciar minha empresa","como divulgar minha empresa no portal","como contratar publicidade no portal"],"cobre":[],"telas":[],"nao_cobre":[]}

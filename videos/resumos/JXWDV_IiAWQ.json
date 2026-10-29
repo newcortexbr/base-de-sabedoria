@@ -1,17 +1,1 @@
-{
-  "id": "JXWDV_IiAWQ",
-  "titulo": "Regras de uso   Plataforma Dados PJ",
-  "resumo": "Explica os limites de uso da plataforma Dados PJ, incluída no portal: duas gerações de lista por semana, renovadas às segundas-feiras; apenas o estado do portal comprado; de uma a três cidades por extração; e arquivos disponíveis para baixar por 7 dias. Não ensina a gerar a lista.",
-  "cobre": [
-    "entender o limite de duas gerações de lista por semana, renovado às segundas-feiras",
-    "usar somente o estado do portal comprado",
-    "selecionar de uma a três cidades por extração",
-    "baixar de novo um arquivo gerado nos 7 dias seguintes sem gerar outro"
-  ],
-  "telas": [],
-  "nao_cobre": [
-    "como gerar e exportar a lista (vídeo Como extrair listas)",
-    "filtros de atividade e telefone (vídeo Como extrair listas)",
-    "extrator do Google Maps (vídeo Como funciona o Extrator GMaps)"
-  ]
-}
+{"id":"JXWDV_IiAWQ","titulo":"Regras de uso   Plataforma Dados PJ","resumo":"Explica os limites de uso da plataforma Dados PJ, incluída no portal: duas gerações de lista por semana, renovadas às segundas-feiras; apenas o estado do portal comprado; de uma a três cidades por extração; e arquivos disponíveis para baixar por 7 dias. Não ensina a gerar a lista.","perguntas":["quantas listas posso gerar por semana no Dados PJ","qual o limite do Dados PJ","posso extrair empresas de outro estado","quantas cidades posso escolher","como baixar a lista de novo","quando renovam meus créditos do Dados PJ"],"cobre":["entender o limite de duas listas por semana","saber quando renovam os créditos (segunda-feira)","usar só o estado do portal","escolher de uma a três cidades","baixar de novo lista gerada nos últimos 7 dias","ver quantos leads já extraí"],"telas":["Dados PJ"],"nao_cobre":["como gerar e exportar a lista (vídeo Como extrair listas)","filtros de atividade e telefone (vídeo Como extrair listas)","extrator do Google Maps (vídeo Como funciona o Extrator GMaps)"]}

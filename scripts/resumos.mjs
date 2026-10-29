@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Embute videos/resumos/<id>.json (resumo, cobre, telas, nao_cobre) em cada <produto>/videos.json, que é o que o portal lê.
+// Embute videos/resumos/<id>.json (resumo, perguntas, cobre, telas, nao_cobre) em cada <produto>/videos.json, que é o que o portal lê.
 // Uso: node scripts/resumos.mjs [--conferir]   (--conferir só compara, sem gravar)
 import { readFileSync, writeFileSync, existsSync, readdirSync } from 'node:fs'
 import { join, resolve, dirname } from 'node:path'
@@ -7,7 +7,7 @@ import { fileURLToPath } from 'node:url'
 
 const RAIZ = resolve(dirname(fileURLToPath(import.meta.url)), '..')
 const conferir = process.argv.includes('--conferir')
-const CAMPOS = ['resumo', 'cobre', 'telas', 'nao_cobre']
+const CAMPOS = ['resumo', 'perguntas', 'cobre', 'telas', 'nao_cobre']
 let desatualizado = false
 
 for (const produto of readdirSync(RAIZ, { withFileTypes: true }).filter(d => d.isDirectory())) {
