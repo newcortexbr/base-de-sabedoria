@@ -1,0 +1,25 @@
+{
+  "id": "F136_v1JyRY",
+  "titulo": "Como Funciona o Extrator GMaps",
+  "resumo": "Mostra como usar o extrator de empresas do Google Maps: escolher o tipo de extração (lista para prospecção ou base para o portal), definir estado, cidades, bairros e nicho, limitar a quantidade de registros, baixar o arquivo em Excel e comprar créditos. Os créditos são cobrados porque a consulta usa a API do Google.",
+  "cobre": [
+    "escolher entre lista para prospecção e base para o portal",
+    "escolher estado, até cinco cidades, bairros opcionais e nicho",
+    "evitar bairros quando a extração tem mais de uma cidade",
+    "definir quantidade máxima de registros por busca",
+    "baixar a extração em Excel (XLSX), disponível por 7 dias",
+    "apagar colunas do arquivo para deixar só o necessário à prospecção",
+    "comprar pacote de créditos e acompanhar saldo e extratos"
+  ],
+  "telas": [
+    "Extrator Google Maps › Nova extração",
+    "Extrator Google Maps › Extratos",
+    "Extrator Google Maps › Comprar créditos"
+  ],
+  "nao_cobre": [
+    "importação da base para dentro do portal (citada, não mostrada)",
+    "estratégia de uso dos leads (indicada para o vídeo estratégico da área do cliente)",
+    "extrator da Receita Federal (vídeo Ferramentas)",
+    "valores dos pacotes de créditos (não confiáveis na transcrição)"
+  ]
+}

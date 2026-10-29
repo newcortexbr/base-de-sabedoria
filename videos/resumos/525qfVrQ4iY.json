@@ -1,0 +1,25 @@
+{
+  "id": "525qfVrQ4iY",
+  "titulo": "Tutorial Cliente Publicar Vaga",
+  "resumo": "Passo a passo para o cliente publicar uma vaga de emprego pelo próprio painel: completar o cadastro da empresa, preencher o formulário da vaga, informar como receber candidaturas e enviar para aprovação. A vaga só vai ao ar depois de aprovada.",
+  "cobre": [
+    "completar o cadastro da empresa com logo e descrição",
+    "criar nova vaga pelo botão Nova vaga",
+    "preencher título, área, tipo de contrato, cidade, bairro, carga horária e modelo de trabalho",
+    "marcar vaga PCD, primeiro emprego ou urgente",
+    "escrever descrição, requisitos e benefícios (um por linha)",
+    "informar salário ou marcar salário a combinar",
+    "informar WhatsApp, e-mail ou link externo para candidatura",
+    "publicar vaga para aprovação",
+    "editar, pausar ou excluir uma vaga"
+  ],
+  "telas": [
+    "Menu lateral › Vagas de emprego",
+    "Vagas de emprego › Nova vaga"
+  ],
+  "nao_cobre": [
+    "escolha e pagamento do plano de vagas (apenas mostrado no topo da tela)",
+    "critérios de aprovação de vagas pela equipe do portal",
+    "acompanhamento de candidatos além do contato por WhatsApp e e-mail"
+  ]
+}

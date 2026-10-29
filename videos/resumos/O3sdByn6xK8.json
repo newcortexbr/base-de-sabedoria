@@ -1,0 +1,21 @@
+{
+  "id": "O3sdByn6xK8",
+  "titulo": "Radar de Preços  - Como Funciona",
+  "resumo": "Mostra como o morador consulta preços no Radar de Preços: escolher supermercados, farmácias ou postos, buscar produto por nome com filtros de categoria e bairro, comparar combustíveis, montar lista de até 10 produtos para ver o mercado mais barato e enviar um preço.",
+  "cobre": [
+    "consultar preços de supermercados, farmácias ou postos de combustível",
+    "buscar produto por nome e filtrar por categoria e bairro",
+    "ordenar postos por menor preço, maior preço ou mais recentes",
+    "montar lista de até 10 produtos e ver o total em cada mercado",
+    "enviar preço pela foto de etiqueta ou encarte"
+  ],
+  "telas": [
+    "Radar de Preços › Consultar preços",
+    "Radar de Preços › Comparar lista",
+    "Radar de Preços › Enviar preço"
+  ],
+  "nao_cobre": [
+    "conferência das fotos enviadas pela equipe (vídeo Radar 01 Fotos Enviadas)",
+    "cadastro de estabelecimentos no painel administrativo"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "He7XF-kolwk",
+  "titulo": "Tutorial Layout Topo",
+  "resumo": "Mostra como personalizar o cabeçalho do portal em Configurações › Layout › Topo: escolher o modelo, o tamanho da logo, as cores da barra superior, da navegação e dos links, e a ordem das seções do menu. A prévia mostra o resultado antes de salvar.",
+  "cobre": [
+    "escolher um dos cinco modelos de cabeçalho",
+    "escolher tamanho da logo (pequena, média ou grande)",
+    "definir cores da barra superior, da barra de navegação e dos links, sólidas ou em gradiente",
+    "mudar a ordem das seções do menu, arrastando ou com setas",
+    "salvar o topo e aplicar em todo o site"
+  ],
+  "telas": [
+    "Configurações › Layout › Topo"
+  ],
+  "nao_cobre": [
+    "criação ou edição de páginas e conteúdos do portal",
+    "configurações gerais como nome, redes e pixels (vídeo Configurações gerais)"
+  ]
+}

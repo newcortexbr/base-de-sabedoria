@@ -1,0 +1,21 @@
+{
+  "id": "9-7aT2M-jmk",
+  "titulo": "Tutorial Area do Cliente Instalacao Etapa 2 Apontando DNS",
+  "resumo": "Segunda etapa da instalação do portal: trocar os servidores DNS do domínio no registro.br ou na Hostinger pelos dois endereços mostrados na plataforma, e avisar a plataforma em Já configurei. Informa que a propagação leva de algumas horas a até 48 horas.",
+  "cobre": [
+    "copiar os dois servidores DNS mostrados na plataforma",
+    "alterar os servidores DNS do domínio no registro.br",
+    "alterar os servidores DNS do domínio na Hostinger",
+    "apagar os servidores antigos e preencher os dois novos",
+    "confirmar o apontamento clicando em Já configurei"
+  ],
+  "telas": [
+    "Área do cliente › Instalação › Etapa 2 (apontar DNS)"
+  ],
+  "nao_cobre": [
+    "etapa final, com o portal no ar (vídeo seguinte)",
+    "compra ou registro do domínio",
+    "criação de subdomínio (o vídeo manda pedir ajuda ao suporte)",
+    "registradores além de registro.br e Hostinger (orienta pedir ao suporte do registrador)"
+  ]
+}

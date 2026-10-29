@@ -1,0 +1,17 @@
+{
+  "id": "JXWDV_IiAWQ",
+  "titulo": "Regras de uso   Plataforma Dados PJ",
+  "resumo": "Explica os limites de uso da plataforma Dados PJ, incluída no portal: duas gerações de lista por semana, renovadas às segundas-feiras; apenas o estado do portal comprado; de uma a três cidades por extração; e arquivos disponíveis para baixar por 7 dias. Não ensina a gerar a lista.",
+  "cobre": [
+    "entender o limite de duas gerações de lista por semana, renovado às segundas-feiras",
+    "usar somente o estado do portal comprado",
+    "selecionar de uma a três cidades por extração",
+    "baixar de novo um arquivo gerado nos 7 dias seguintes sem gerar outro"
+  ],
+  "telas": [],
+  "nao_cobre": [
+    "como gerar e exportar a lista (vídeo Como extrair listas)",
+    "filtros de atividade e telefone (vídeo Como extrair listas)",
+    "extrator do Google Maps (vídeo Como funciona o Extrator GMaps)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "8EwkE_ascEw",
+  "titulo": "Tutorial Guia Empresa 02 - Completando sua Ficha",
+  "resumo": "Mostra como completar a ficha da empresa no guia comercial: contatos e redes, logo, capa e galeria, comodidades e formas de pagamento, links e botões. Logo e capa só são gravadas ao salvar. Ensina também a conferir a ficha no site.",
+  "cobre": [
+    "preencher telefone, e-mail, WhatsApp, Instagram e site",
+    "enviar logo, foto de capa e fotos da galeria",
+    "apagar uma foto da galeria",
+    "marcar comodidades e formas de pagamento, por sugestão ou digitando",
+    "informar link de orçamento, cardápio, reservas, agendamento ou delivery em outro lugar",
+    "salvar alterações da ficha",
+    "ver a ficha no site"
+  ],
+  "telas": [
+    "Sua área › Guia comercial"
+  ],
+  "nao_cobre": [
+    "páginas de serviços, catálogo e cardápio (próximos vídeos da série)",
+    "cupom de desconto (vídeo próprio)",
+    "recursos liberados por plano, como limites da galeria (vídeo Meus Planos)"
+  ]
+}

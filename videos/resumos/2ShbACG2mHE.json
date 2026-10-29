@@ -1,0 +1,22 @@
+{
+  "id": "2ShbACG2mHE",
+  "titulo": "Tutorial - Gerenciar Cardapio Delivery",
+  "resumo": "Ensina a montar o cardápio do delivery de uma empresa: criar seções e produtos com preço, foto e disponibilidade, e criar grupos de opções (tamanhos, coberturas, complementos) com limites de escolha. Mostra também como o cliente monta o pedido no portal.",
+  "cobre": [
+    "criar seção do cardápio do delivery",
+    "cadastrar produto com nome, descrição, preço base, foto e destaque",
+    "marcar produto como disponível",
+    "editar ou excluir produto",
+    "criar grupo de opções com nome, obrigatório ou opcional e limite de escolhas",
+    "adicionar opção a um grupo, com ou sem valor extra"
+  ],
+  "telas": [
+    "Editar empresa › Conteúdo da ficha › Cardápio do delivery"
+  ],
+  "nao_cobre": [
+    "cardápio digital para consulta (outro recurso, citado na comparação)",
+    "gestão da fila de pedidos recebidos",
+    "cupons de desconto",
+    "configuração de taxa e tempo de entrega (apenas mostrados ao cliente)"
+  ]
+}

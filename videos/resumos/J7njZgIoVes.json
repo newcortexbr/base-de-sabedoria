@@ -1,0 +1,21 @@
+{
+  "id": "J7njZgIoVes",
+  "titulo": "Tutorial Parceiro 02 Conta e Carteira Asaas",
+  "resumo": "Mostra como o parceiro cria a conta no Asaas e informa a Wallet ID da carteira no painel do parceiro (Perfil › Carteira de recebimento), para receber comissões quando o portal liga o repasse automático. Trocar a carteira pede a senha do painel.",
+  "cobre": [
+    "criar conta no Asaas com e-mail, senha e aceite dos termos",
+    "enviar documentos (CPF ou CNPJ, endereço e telefone) e aguardar aprovação",
+    "copiar a Wallet ID em Integrações no Asaas",
+    "colar a Wallet ID no painel do parceiro e salvar a carteira com a senha atual",
+    "corrigir a carteira quando o Asaas recusar"
+  ],
+  "telas": [
+    "Asaas › Perfil › Integrações",
+    "Painel do parceiro › Perfil › Carteira de recebimento"
+  ],
+  "nao_cobre": [
+    "decisão de ligar o repasse automático (feita pelo portal)",
+    "acompanhamento das comissões (vídeo Visão Geral do Painel)",
+    "funcionamento detalhado do Asaas (não mostrado)"
+  ]
+}

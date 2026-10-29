@@ -1,0 +1,22 @@
+{
+  "id": "DpFk0q7myio",
+  "titulo": "Tutorial Area do Cliente Instalacao Etapa 1 Registrar Dominio",
+  "resumo": "Primeira etapa da instalação do portal: registrar o domínio no registro.br ou na Hostinger, pagar e informar o endereço na plataforma, com domínio próprio ou subdomínio. Alerta que o domínio não pode ser trocado depois da instalação e que só se continua depois do pagamento.",
+  "cobre": [
+    "pesquisar se um domínio está disponível no registro.br",
+    "registrar domínio pelo período escolhido e informar CPF ou CNPJ do titular",
+    "pesquisar terminações de domínio na Hostinger",
+    "trocar o período de três anos para um ano no carrinho",
+    "informar domínio próprio na plataforma e confirmar a prévia",
+    "marcar a confirmação de que o domínio é seu, está registrado e pago",
+    "escolher subdomínio para não mexer no site que já existe"
+  ],
+  "telas": [
+    "Área do cliente › Instalação › Etapa 1 (registrar domínio)"
+  ],
+  "nao_cobre": [
+    "apontamento dos servidores DNS (vídeo Etapa 2)",
+    "etapa final com o portal no ar (vídeo Etapa 3)",
+    "contratação de hospedagem (o vídeo diz que não é necessária)"
+  ]
+}

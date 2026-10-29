@@ -32,7 +32,7 @@ Aqui você muda o nome ou a categoria de uma subcategoria, altera sua situação
 
 ### mudar nome ou categoria
 
-1. Na seção `Conteúdo` do menu lateral, em `Notícias`, clique em `Gerenciar Subcategorias`. [t=150] [guia=menu:/painel/noticias/subcategorias]
+1. Na seção `Conteúdo` do menu lateral, em `Notícias`, clique em `Categorias e Subcategorias`. [t=150] [guia=menu:/painel/noticias/categorias]
 2. Na linha da subcategoria, clique no lápis `Editar`. [guia=noticias-subcategorias.editar]
 3. Se necessário, escolha outra `Categoria *`. [guia=noticias-subcategorias.categoria]
 4. Se necessário, altere `Nome *`. [guia=noticias-subcategorias.nome]
@@ -40,12 +40,12 @@ Aqui você muda o nome ou a categoria de uma subcategoria, altera sua situação
 
 ### ligar ou desligar
 
-1. Na seção `Conteúdo` do menu lateral, em `Notícias`, clique em `Gerenciar Subcategorias`. [t=150] [guia=menu:/painel/noticias/subcategorias]
+1. Na seção `Conteúdo` do menu lateral, em `Notícias`, clique em `Categorias e Subcategorias`. [t=150] [guia=menu:/painel/noticias/categorias]
 2. Na coluna `Ativo`, clique em `Ativo` para desativar ou em `Inativo` para ativar. [guia=noticias-subcategorias.ativo]
 
 ### excluir
 
-1. Na seção `Conteúdo` do menu lateral, em `Notícias`, clique em `Gerenciar Subcategorias`. [t=150] [guia=menu:/painel/noticias/subcategorias]
+1. Na seção `Conteúdo` do menu lateral, em `Notícias`, clique em `Categorias e Subcategorias`. [t=150] [guia=menu:/painel/noticias/categorias]
 2. Na linha da subcategoria, clique na lixeira `Excluir`. [guia=noticias-subcategorias.excluir]
 3. Na janela `Excluir subcategoria?`, clique em `Excluir`. [guia=confirmacao.confirmar]
 

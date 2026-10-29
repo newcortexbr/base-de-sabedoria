@@ -1,0 +1,20 @@
+{
+  "id": "Hyh3UxHW_jU",
+  "titulo": "Tutorial Eventos",
+  "resumo": "Explica a agenda de eventos: o cliente cadastra e paga o evento pela área dele e você aprova depois do pagamento. Mostra como criar pacotes de eventos em Meus planos e como cadastrar um evento no painel, com a página que ele ganha no site.",
+  "cobre": [
+    "cadastrar evento pelo painel com título, datas, horário, local, CEP, categoria, organizador, foto, galeria, preço, link de ingresso, WhatsApp e programação",
+    "salvar o evento",
+    "aprovar evento enviado pelo cliente após o pagamento",
+    "criar pacote de eventos (mensal ou pagamento único, com ou sem destaque) em Meus planos"
+  ],
+  "telas": [
+    "Guia turístico e eventos › Eventos",
+    "Meus planos › Agenda de eventos"
+  ],
+  "nao_cobre": [
+    "roteiros turísticos (vídeo próprio)",
+    "cobrança e pagamento do cliente (apenas citados)",
+    "ações de busca e filtros da agenda além do que aparece na tela"
+  ]
+}

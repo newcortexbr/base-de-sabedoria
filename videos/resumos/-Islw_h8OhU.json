@@ -1,0 +1,16 @@
+{
+  "id": "-Islw_h8OhU",
+  "titulo": "Materia Patrocinada",
+  "resumo": "Vídeo de divulgação do serviço de matéria patrocinada: a empresa conta a ideia, a equipe do portal produz a matéria com a conferência dos dados e publica. O cliente recebe o link para compartilhar. Não mostra o painel.",
+  "cobre": [
+    "contar a ideia para a equipe produzir a matéria patrocinada",
+    "conferir os dados da matéria antes da publicação",
+    "receber o link da matéria para compartilhar"
+  ],
+  "telas": [],
+  "nao_cobre": [
+    "cadastro ou venda da matéria patrocinada no painel (vídeo Meus Planos trata do plano de notícias)",
+    "preços da matéria patrocinada",
+    "publicação de notícias pela redação"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Mu5xmUB7w9o",
+  "titulo": "Tutorial Cliente Banners Publicitarios",
+  "resumo": "Passo a passo para a empresa anunciar com banner pela área do cliente: escolher página e posição, período, arte, link de destino, pagar e acompanhar a aprovação. Mostra também como corrigir banner reprovado, editar, filtrar e parar a renovação.",
+  "cobre": [
+    "escolher página e posição do banner",
+    "escolher o período entre os oferecidos para a posição",
+    "enviar arte em PNG ou JPG no tamanho indicado",
+    "informar link de destino e nome interno do banner",
+    "conferir a prévia no computador e no celular",
+    "pagar e publicar banner por Pix ou cartão",
+    "enviar comprovante de Pix pelo WhatsApp",
+    "corrigir e reenviar banner reprovado",
+    "editar arte, link ou nome de banner publicado",
+    "parar a renovação do banner"
+  ],
+  "telas": [
+    "Área do cliente › Banners publicitários",
+    "Área do cliente › Banners publicitários › Novo banner"
+  ],
+  "nao_cobre": [
+    "definição dos preços e posições à venda (vídeo Planos de Publicidade)",
+    "aprovação dos banners, feita pelo dono do portal (não ensinada aqui)",
+    "patrocínios além dos banners (orienta falar com o dono do portal pelo WhatsApp)"
+  ]
+}

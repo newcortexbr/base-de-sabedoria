@@ -1,0 +1,23 @@
+{
+  "id": "Ps1cgdLQ1FI",
+  "titulo": "Tutorial Classificados",
+  "resumo": "Mostra a tela Classificados do painel: acompanhar e filtrar anúncios, ver status e cliques no WhatsApp, marcar como vendido ou excluir, organizar categorias e cadastrar anunciantes. Os próprios anunciantes criam e gerenciam os anúncios pela área deles.",
+  "cobre": [
+    "filtrar anúncios por aba, busca, categoria e status",
+    "ver anúncio no site, editar, marcar como vendido ou excluir",
+    "criar novo anúncio pelo painel em casos especiais",
+    "ativar ou desativar categoria e suas subcategorias",
+    "cadastrar anunciante com e-mail de acesso e selo de verificado"
+  ],
+  "telas": [
+    "Classificados › Listar anúncios",
+    "Classificados › Novo anúncio",
+    "Classificados › Categorias",
+    "Classificados › Anunciantes"
+  ],
+  "nao_cobre": [
+    "aprovação de anúncios e denúncias (vídeo Aprovações e denúncias)",
+    "limites e preços dos planos de classificados (vídeo Meus Planos)",
+    "criação de anúncios pelo próprio anunciante (citada, não ensinada)"
+  ]
+}

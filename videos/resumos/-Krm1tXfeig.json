@@ -1,0 +1,29 @@
+{
+  "id": "-Krm1tXfeig",
+  "titulo": "Tutorial Parceiro 01 Visao Geral do Painel",
+  "resumo": "Visão geral do Painel do Parceiro: menus, onde copiar o link de indicação e escolher a página de destino, acompanhamento de ganhos, clientes e comissões, upgrade de plano e informação da carteira para recebimento.",
+  "cobre": [
+    "copiar o link de indicação",
+    "escolher a página de destino do link de indicação",
+    "simular ganhos com número de vendas e valor médio",
+    "fazer upgrade do plano de parceiro",
+    "informar CPF ou CNPJ para cobrança e ir para o pagamento",
+    "acompanhar clientes trazidos pelo link",
+    "consultar comissões e residuais a receber e já recebidos",
+    "informar a carteira do AS para receber comissões",
+    "trocar a senha do perfil",
+    "abrir o suporte pelo WhatsApp"
+  ],
+  "telas": [
+    "Início",
+    "Meus clientes",
+    "Minhas comissões",
+    "Minha conta › Perfil"
+  ],
+  "nao_cobre": [
+    "passo a passo da carteira do AS (vídeo seguinte da série)",
+    "como o portal define os percentuais de comissão",
+    "cadastro de planos de parceiro no painel administrativo",
+    "cálculo real das vendas (a simulação é apenas estimativa)"
+  ]
+}

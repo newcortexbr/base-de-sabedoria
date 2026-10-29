@@ -1,0 +1,21 @@
+{
+  "id": "-cq2YnG0vis",
+  "titulo": "Tutorial Guia Empresa 05 - Pagina da Equipe",
+  "resumo": "Ensina a criar a página Equipe da empresa no guia comercial: cadastrar profissionais com nome, cargo, foto e registro opcional, e publicar ou tirar do ar cada um. A equipe aparece na ficha da empresa.",
+  "cobre": [
+    "criar a página Equipe pelo cartão Equipe",
+    "cadastrar profissional com nome, cargo e foto",
+    "informar registro profissional (CREA, CRM ou OAB), que é opcional",
+    "publicar ou tirar do ar um profissional",
+    "editar ou excluir um profissional da equipe",
+    "salvar o cadastro de cada profissional"
+  ],
+  "telas": [
+    "Sua área › Guia comercial › Páginas da sua empresa › Equipe"
+  ],
+  "nao_cobre": [
+    "demais páginas da empresa, como serviços, catálogo e cardápio",
+    "preenchimento da ficha da empresa (vídeo Guia Empresa 02)",
+    "configuração de categorias pelo painel administrativo"
+  ]
+}

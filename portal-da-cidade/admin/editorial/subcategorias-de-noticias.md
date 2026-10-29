@@ -33,7 +33,7 @@ Aqui você cria um assunto dentro de uma categoria de notícias, como Futebol de
 
 ## passos
 
-1. Na seção `Conteúdo` do menu lateral, em `Notícias`, clique em `Gerenciar Subcategorias`. [t=150] [guia=menu:/painel/noticias/subcategorias]
+1. Na seção `Conteúdo` do menu lateral, em `Notícias`, clique em `Categorias e Subcategorias`. [t=150] [guia=menu:/painel/noticias/categorias]
 2. Clique em `+ Cadastrar Subcategoria`. [guia=noticias-subcategorias.cadastrar]
 3. Em `Categoria *`, escolha a categoria. [guia=noticias-subcategorias.categoria]
 4. Preencha `Nome *`. [guia=noticias-subcategorias.nome]

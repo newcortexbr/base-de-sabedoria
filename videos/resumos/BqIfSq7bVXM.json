@@ -1,0 +1,23 @@
+{
+  "id": "BqIfSq7bVXM",
+  "titulo": "Tutorial Banners Publicitarios",
+  "resumo": "Ensina a gerenciar banners publicitários no painel: buscar e filtrar banners, criar e editar um banner com imagem, link, posição, dados da venda e datas, e ativar ou desativar. Mostra também que o cliente pode contratar espaços pela área dele, com aprovação antes de ir ao ar.",
+  "cobre": [
+    "buscar e filtrar banners por página e situação",
+    "criar banner com título, imagem, URL de destino, posição, datas e ordem",
+    "conferir a prévia da posição no computador e no celular",
+    "anotar dados da venda do banner (empresa, telefone e valor)",
+    "atrelar banner a um cliente cadastrado em meus clientes",
+    "ativar ou desativar, editar ou excluir banner",
+    "decidir se banner contratado pelo cliente vai ao ar"
+  ],
+  "telas": [
+    "Banners publicitários",
+    "Área do cliente › Banners publicitários › Novo banner"
+  ],
+  "nao_cobre": [
+    "definição dos preços dos espaços (vídeo Meus Planos)",
+    "cadastro e cobrança de clientes (vídeo Meus clientes)",
+    "pagamento do cliente por Pix ou cartão (apenas citado)"
+  ]
+}

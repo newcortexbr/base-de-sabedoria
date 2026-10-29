@@ -1,0 +1,23 @@
+{
+  "id": "CgrBKTyXSsI",
+  "titulo": "Tutorial Area do Cliente Instalacao Etapa 3 Portal no Ar",
+  "resumo": "Última etapa da instalação: acompanhar a propagação do domínio, o certificado de segurança e a montagem do portal até a confirmação de que está no ar. Mostra como entrar no painel com a área do cliente e onde ficam os endereços do portal.",
+  "cobre": [
+    "acompanhar a propagação do DNS até 100%",
+    "confirmar em sim, já está no ar, ou abrir chamado em não, ainda não consigo",
+    "entrar no painel do portal pelo botão entrar com a área do cliente",
+    "acessar o portal pelo botão acessar meu portal",
+    "copiar os endereços do portal e do painel",
+    "consultar o guia de links de páginas de vendas e áreas de login"
+  ],
+  "telas": [
+    "Área do cliente › Instalação › Portal no ar",
+    "Área do cliente › Seus acessos",
+    "Área do cliente › Guia de links"
+  ],
+  "nao_cobre": [
+    "compra e registro do domínio (vídeo Etapa 1)",
+    "troca dos servidores DNS (vídeo Etapa 2)",
+    "treinamento de uso do portal (apenas indicado como próximo passo)"
+  ]
+}

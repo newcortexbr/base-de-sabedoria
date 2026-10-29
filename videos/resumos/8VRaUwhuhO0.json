@@ -1,0 +1,24 @@
+{
+  "id": "8VRaUwhuhO0",
+  "titulo": "Como Publicar um Artigo",
+  "resumo": "Passo a passo para o colunista publicar um artigo pelo próprio painel: completar o perfil, escrever no editor com título, chamada e texto, escolher categoria, agendar ou publicar e preencher capa e dados para buscadores. Mostra o contador de artigos da semana do plano.",
+  "cobre": [
+    "completar o perfil de colunista com foto, nome, cargo e descrição",
+    "escrever título, subtítulo e chamada do artigo",
+    "formatar o texto com subtítulos, listas, citações, cores, link e vídeo do YouTube",
+    "inserir imagem no meio do texto",
+    "escolher a categoria do artigo",
+    "agendar a publicação para data e hora ou publicar na hora",
+    "enviar foto de capa com legenda e créditos",
+    "preencher título e descrição para buscadores",
+    "publicar o artigo"
+  ],
+  "telas": [
+    "Menu lateral › Artigos › Novo artigo"
+  ],
+  "nao_cobre": [
+    "plano e preço de colunista (apenas o contador é mostrado)",
+    "edição ou exclusão de artigos já publicados",
+    "aprovação ou moderação de artigos pela redação (não citada)"
+  ]
+}

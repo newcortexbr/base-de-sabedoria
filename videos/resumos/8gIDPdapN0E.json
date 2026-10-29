@@ -1,0 +1,24 @@
+{
+  "id": "8gIDPdapN0E",
+  "titulo": "Tutorial Parceiros",
+  "resumo": "Mostra o programa de parceiros no painel: ligar o programa, cadastrar e editar parceiros, definir os planos de parceiro com percentuais de venda e residual, pagar comissões por fora ou pelo Asaas e criar o grupo de WhatsApp dos parceiros. Também mostra o que o parceiro vê no painel dele.",
+  "cobre": [
+    "ligar ou desligar o programa de parceiros",
+    "cadastrar parceiro com nome, e-mail, senha inicial, telefone, WhatsApp e plano",
+    "editar dados do parceiro e trocar o plano dele",
+    "trocar senha, desativar ou excluir parceiro",
+    "marcar comissão paga por fora (Pix ou transferência)",
+    "filtrar comissões por parceiro e ver o extrato das pagas",
+    "editar planos de parceiro (nome, periodicidade, valor, percentual de venda e residual)",
+    "colar o link do grupo de WhatsApp dos parceiros e exibir o convite no painel do parceiro",
+    "ligar o envio automático da comissão pelo Asaas"
+  ],
+  "telas": [
+    "Comercial › Parceiros"
+  ],
+  "nao_cobre": [
+    "passo a passo do painel do parceiro (vídeo Parceiro 01)",
+    "cadastro de clientes trazidos por parceiros (vídeo Meus clientes)",
+    "cobrança de faturas dos clientes (vídeo Financeiro)"
+  ]
+}
