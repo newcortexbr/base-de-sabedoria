@@ -5,13 +5,25 @@
       "id": "JXWDV_IiAWQ",
       "titulo": "Vídeo Home Dados PJ - Regras de Uso da Plataforma",
       "resumo": "Explica os limites de uso da plataforma Dados PJ, incluída no portal: duas gerações de lista por semana, renovadas às segundas-feiras; apenas o estado do portal comprado; de uma a três cidades por extração; e arquivos disponíveis para baixar por 7 dias. Não ensina a gerar a lista.",
-      "cobre": [
-        "entender o limite de duas gerações de lista por semana, renovado às segundas-feiras",
-        "usar somente o estado do portal comprado",
-        "selecionar de uma a três cidades por extração",
-        "baixar de novo um arquivo gerado nos 7 dias seguintes sem gerar outro"
+      "perguntas": [
+        "quantas listas posso gerar por semana no Dados PJ",
+        "qual o limite do Dados PJ",
+        "posso extrair empresas de outro estado",
+        "quantas cidades posso escolher",
+        "como baixar a lista de novo",
+        "quando renovam meus créditos do Dados PJ"
       ],
-      "telas": [],
+      "cobre": [
+        "entender o limite de duas listas por semana",
+        "saber quando renovam os créditos (segunda-feira)",
+        "usar só o estado do portal",
+        "escolher de uma a três cidades",
+        "baixar de novo lista gerada nos últimos 7 dias",
+        "ver quantos leads já extraí"
+      ],
+      "telas": [
+        "Dados PJ"
+      ],
       "nao_cobre": [
         "como gerar e exportar a lista (vídeo Como extrair listas)",
         "filtros de atividade e telefone (vídeo Como extrair listas)",
@@ -22,19 +34,39 @@
       "id": "IKdKLgi-e94",
       "titulo": "Como fazer uma Extração - Dados PJ",
       "resumo": "Ensina a gerar uma lista de empresas na plataforma Dados PJ (base da Receita Federal): preencher termo, atividade (CNAE), estado, cidades, situação, bairros, porte, DDD, data de início, tipo (MEI ou não) e tipo de telefone, depois exportar e baixar o arquivo. A lista serve para prospecção, não para importação automática no portal.",
+      "perguntas": [
+        "como extrair lista de empresas no Dados PJ",
+        "como buscar empresas por atividade",
+        "como escolher o CNAE",
+        "como filtrar só empresas ativas",
+        "como filtrar só MEI",
+        "como filtrar empresas com celular",
+        "como baixar a lista em Excel",
+        "como extrair empresas por cidade",
+        "como filtrar por bairro",
+        "como filtrar por porte da empresa"
+      ],
       "cobre": [
-        "buscar empresas por termo na razão social ou no nome fantasia",
-        "escolher uma ou mais atividades (CNAE) para o nicho",
-        "pesquisar código de atividade no Google quando o nome não bater",
-        "escolher estado e cidades liberados pelo plano",
-        "filtrar por situação cadastral (ativa por padrão)",
-        "filtrar por bairros, porte, DDD e data de início de atividade",
-        "filtrar por tipo de empresa (só MEI, não MEI ou ambos)",
-        "filtrar por tipo de telefone (móvel, fixo ou ambos)",
-        "exportar a lista e baixar o arquivo em Excel ou CSV"
+        "buscar empresas por termo no nome",
+        "escolher atividade (CNAE)",
+        "pesquisar o código da atividade",
+        "escolher estado",
+        "escolher cidades",
+        "filtrar por situação cadastral",
+        "filtrar por bairros",
+        "filtrar por porte",
+        "filtrar por DDD",
+        "filtrar por data de início da atividade",
+        "filtrar só MEI",
+        "filtrar sem MEI",
+        "filtrar telefone móvel",
+        "filtrar telefone fixo",
+        "gerar lista",
+        "baixar lista em Excel",
+        "baixar lista em CSV"
       ],
       "telas": [
-        "Dados PJ › Gerar lista de empresas"
+        "Dados PJ › Gerar Lista de Empresas"
       ],
       "nao_cobre": [
         "limites de uso e regras da plataforma (vídeo Regras de uso)",
@@ -47,19 +79,36 @@
       "id": "F136_v1JyRY",
       "titulo": "Visão Geral - Como Funciona o Extrator GMaps",
       "resumo": "Mostra como usar o extrator de empresas do Google Maps: escolher o tipo de extração (lista para prospecção ou base para o portal), definir estado, cidades, bairros e nicho, limitar a quantidade de registros, baixar o arquivo em Excel e comprar créditos. Os créditos são cobrados porque a consulta usa a API do Google.",
+      "perguntas": [
+        "como usar o extrator do Google Maps",
+        "como extrair empresas do Google Maps",
+        "como comprar créditos do extrator",
+        "como ver meu saldo de créditos",
+        "como ver minhas extrações anteriores",
+        "como baixar a lista em Excel",
+        "como fazer uma nova extração",
+        "como extrair empresas para encher meu portal",
+        "quantos créditos grátis eu tenho"
+      ],
       "cobre": [
-        "escolher entre lista para prospecção e base para o portal",
-        "escolher estado, até cinco cidades, bairros opcionais e nicho",
-        "evitar bairros quando a extração tem mais de uma cidade",
-        "definir quantidade máxima de registros por busca",
-        "baixar a extração em Excel (XLSX), disponível por 7 dias",
-        "apagar colunas do arquivo para deixar só o necessário à prospecção",
-        "comprar pacote de créditos e acompanhar saldo e extratos"
+        "iniciar nova extração",
+        "escolher lista para prospecção",
+        "escolher base para o portal",
+        "escolher estado",
+        "escolher cidades (até cinco)",
+        "escolher bairros",
+        "escolher nicho",
+        "definir máximo de registros",
+        "baixar extração em Excel (XLSX)",
+        "apagar colunas do arquivo",
+        "ver extratos das extrações",
+        "ver saldo de créditos",
+        "comprar pacote de créditos"
       ],
       "telas": [
-        "Extrator Google Maps › Nova extração",
+        "Extrator Google Maps › Nova Extração",
         "Extrator Google Maps › Extratos",
-        "Extrator Google Maps › Comprar créditos"
+        "Extrator Google Maps › Comprar Créditos"
       ],
       "nao_cobre": [
         "importação da base para dentro do portal (citada, não mostrada)",
@@ -115,12 +164,24 @@
       "id": "3i_JcDTTKtA",
       "titulo": "Lives",
       "resumo": "Mostra a área Lives da área do cliente: como ver o guia das lives, a próxima live, entrar na transmissão no horário e conectar o Google Agenda para receber lembretes e alterações.",
+      "perguntas": [
+        "como entrar numa live",
+        "onde vejo as próximas lives",
+        "como adicionar a live na minha agenda",
+        "como receber lembrete das lives",
+        "como conectar o Google Agenda às lives",
+        "qual o horário da próxima live",
+        "como ver o calendário de lives"
+      ],
       "cobre": [
-        "acessar uma live no horário pelo botão acessar live",
+        "abrir Lives no menu",
+        "ver a próxima live",
+        "entrar na live",
         "adicionar uma live à agenda",
-        "conectar o Google Agenda para receber lembretes de todas as lives",
-        "ver as próximas lives no calendário e na lista",
-        "abrir os detalhes de uma live (tema, dia, horário e assunto)"
+        "conectar o Google Agenda",
+        "ver calendário de lives",
+        "ver lista de próximas lives",
+        "ver detalhes da live"
       ],
       "telas": [
         "Área do cliente › Lives"
@@ -181,17 +242,33 @@
       "id": "2sVAq8AngnY",
       "titulo": "Ferramentas",
       "resumo": "Mostra a área Ferramentas da área do cliente, com os extratores de empresas da Receita Federal e do Google Maps. Explica como entrar com o login da área do cliente, gerar uma lista de empresas, exportar em Excel ou CSV e respeitar as regras de uso.",
+      "perguntas": [
+        "onde ficam as ferramentas da área do cliente",
+        "como acessar o extrator da Receita Federal",
+        "como gerar lista de empresas",
+        "como exportar lista de empresas em Excel",
+        "quantas listas posso gerar por semana",
+        "quantas cidades posso escolher no extrator",
+        "como ver meus créditos da semana",
+        "como ver o treinamento de uma ferramenta",
+        "como acessar o extrator do Google Maps"
+      ],
       "cobre": [
-        "abrir a área de ferramentas no menu",
-        "acessar uma ferramenta com o login da área do cliente",
-        "gerar lista de empresas no extrator da Receita Federal por atividade, cidade, porte e tipo de telefone",
-        "exportar a lista em Excel ou CSV",
-        "respeitar o limite de 1 a 3 cidades do estado e de 2 listas por semana",
-        "ver créditos da semana, leads extraídos e histórico de listas",
-        "abrir o treinamento da ferramenta pelo botão ver treinamento"
+        "abrir Ferramentas no menu",
+        "entrar em uma ferramenta com o login da área do cliente",
+        "gerar lista de empresas pela atividade",
+        "escolher cidades da lista (de 1 a 3 do estado)",
+        "escolher porte da empresa",
+        "escolher tipo de telefone",
+        "exportar lista em Excel",
+        "exportar lista em CSV",
+        "ver créditos da semana",
+        "ver leads extraídos",
+        "ver histórico de listas geradas",
+        "abrir o treinamento da ferramenta"
       ],
       "telas": [
-        "Área do cliente › Ferramentas",
+        "Área do Cliente › Ferramentas",
         "Ferramentas › Extrator da Receita Federal › Gerar lista de empresas"
       ],
       "nao_cobre": [
@@ -205,15 +282,25 @@
       "id": "9-7aT2M-jmk",
       "titulo": "Minha Plataforma -  Processo de Instalação - Etapa 2 - Apontando DNS",
       "resumo": "Segunda etapa da instalação do portal: trocar os servidores DNS do domínio no registro.br ou na Hostinger pelos dois endereços mostrados na plataforma, e avisar a plataforma em Já configurei. Informa que a propagação leva de algumas horas a até 48 horas.",
+      "perguntas": [
+        "como apontar o DNS do domínio",
+        "como trocar os servidores DNS no registro.br",
+        "como trocar os nameservers na Hostinger",
+        "onde pego os servidores DNS do portal",
+        "quanto tempo demora o DNS",
+        "meu portal não abre no meu domínio",
+        "como configurar subdomínio"
+      ],
       "cobre": [
-        "copiar os dois servidores DNS mostrados na plataforma",
-        "alterar os servidores DNS do domínio no registro.br",
-        "alterar os servidores DNS do domínio na Hostinger",
-        "apagar os servidores antigos e preencher os dois novos",
-        "confirmar o apontamento clicando em Já configurei"
+        "copiar os servidores DNS da plataforma",
+        "alterar servidores DNS no registro.br",
+        "alterar nameservers na Hostinger",
+        "apagar os servidores antigos",
+        "confirmar clicando em Já configurei",
+        "esperar a propagação do DNS"
       ],
       "telas": [
-        "Área do cliente › Instalação › Etapa 2 (apontar DNS)"
+        "Área do Cliente › Instalação › Etapa 2"
       ],
       "nao_cobre": [
         "etapa final, com o portal no ar (vídeo seguinte)",
@@ -226,18 +313,31 @@
       "id": "CgrBKTyXSsI",
       "titulo": "Minha Plataforma -  Processo de Instalação - Etapa 3 - Portal no Ar",
       "resumo": "Última etapa da instalação: acompanhar a propagação do domínio, o certificado de segurança e a montagem do portal até a confirmação de que está no ar. Mostra como entrar no painel com a área do cliente e onde ficam os endereços do portal.",
+      "perguntas": [
+        "meu portal ainda não abriu no domínio",
+        "como saber se o DNS propagou",
+        "como entrar no painel do meu portal",
+        "como acessar meu portal",
+        "onde ficam os endereços do meu portal",
+        "como abrir chamado se o portal não abre",
+        "onde vejo meus acessos",
+        "onde ficam os links de páginas de vendas"
+      ],
       "cobre": [
-        "acompanhar a propagação do DNS até 100%",
-        "confirmar em sim, já está no ar, ou abrir chamado em não, ainda não consigo",
-        "entrar no painel do portal pelo botão entrar com a área do cliente",
-        "acessar o portal pelo botão acessar meu portal",
-        "copiar os endereços do portal e do painel",
-        "consultar o guia de links de páginas de vendas e áreas de login"
+        "acompanhar a propagação do DNS",
+        "esperar o certificado de segurança",
+        "entrar no painel pelo botão Entrar com a Área do Cliente",
+        "confirmar que o portal está no ar",
+        "abrir chamado se o portal não abrir",
+        "abrir o portal pelo botão Acessar meu portal",
+        "copiar o endereço do portal",
+        "copiar o endereço do painel",
+        "abrir o Guia de links"
       ],
       "telas": [
-        "Área do cliente › Instalação › Portal no ar",
-        "Área do cliente › Seus acessos",
-        "Área do cliente › Guia de links"
+        "Área do Cliente › Instalação › Portal no Ar",
+        "Área do Cliente › Seus Acessos",
+        "Área do Cliente › Guia de Links"
       ],
       "nao_cobre": [
         "compra e registro do domínio (vídeo Etapa 1)",
@@ -249,17 +349,30 @@
       "id": "DpFk0q7myio",
       "titulo": "Minha Plataforma - Processo de Instalação - Etapa 1 - Como Registrar um Dominio",
       "resumo": "Primeira etapa da instalação do portal: registrar o domínio no registro.br ou na Hostinger, pagar e informar o endereço na plataforma, com domínio próprio ou subdomínio. Alerta que o domínio não pode ser trocado depois da instalação e que só se continua depois do pagamento.",
+      "perguntas": [
+        "como registrar um domínio",
+        "como comprar domínio no registro.br",
+        "como comprar domínio na Hostinger",
+        "como informar meu domínio na plataforma",
+        "posso usar subdomínio",
+        "preciso contratar hospedagem",
+        "posso trocar o domínio depois",
+        "como instalar meu portal"
+      ],
       "cobre": [
-        "pesquisar se um domínio está disponível no registro.br",
-        "registrar domínio pelo período escolhido e informar CPF ou CNPJ do titular",
-        "pesquisar terminações de domínio na Hostinger",
-        "trocar o período de três anos para um ano no carrinho",
-        "informar domínio próprio na plataforma e confirmar a prévia",
-        "marcar a confirmação de que o domínio é seu, está registrado e pago",
-        "escolher subdomínio para não mexer no site que já existe"
+        "pesquisar se o domínio está disponível no registro.br",
+        "registrar domínio no registro.br",
+        "informar CPF ou CNPJ do titular do domínio",
+        "pesquisar domínio na Hostinger",
+        "trocar o período do domínio no carrinho para um ano",
+        "pagar o domínio",
+        "informar domínio próprio na plataforma",
+        "conferir a prévia do endereço",
+        "confirmar que o domínio é meu, está registrado e pago",
+        "escolher subdomínio"
       ],
       "telas": [
-        "Área do cliente › Instalação › Etapa 1 (registrar domínio)"
+        "Área do Cliente › Instalação › Etapa 1"
       ],
       "nao_cobre": [
         "apontamento dos servidores DNS (vídeo Etapa 2)",
@@ -333,13 +446,28 @@
       "id": "CYLv3j1aaNM",
       "titulo": "Treinamentos - Visão Geral dos Módulos de Treinamento",
       "resumo": "Apresenta a área de Treinamentos do painel: abrir módulos e aulas, marcar aula como concluída, buscar por tema ou filtrar por status, e onde ficam os módulos de configuração, ferramentas, crescimento e bônus. Mostra também o chat de suporte com IA.",
+      "perguntas": [
+        "onde ficam os treinamentos",
+        "como assistir uma aula de treinamento",
+        "como marcar aula como concluída",
+        "como buscar uma aula",
+        "como ver meu progresso nos treinamentos",
+        "onde ficam os vídeos tutoriais do painel",
+        "como mandar a aula certa para o cliente",
+        "onde ficam os módulos bônus"
+      ],
       "cobre": [
-        "abrir treinamentos e acompanhar o progresso",
-        "abrir um módulo e assistir a uma aula",
+        "abrir Treinamentos",
+        "ver progresso das aulas",
+        "começar pelo módulo zero",
+        "abrir um módulo",
+        "assistir uma aula",
         "marcar aula como concluída",
-        "buscar módulo ou aula por palavra (ex.: bônus, banner)",
-        "filtrar módulos por status (em andamento, não iniciados ou concluídos)",
-        "enviar ao cliente o link da aula certa para tirar uma dúvida"
+        "buscar módulo ou aula por palavra",
+        "filtrar módulos por tema",
+        "filtrar módulos por status",
+        "ver módulos bônus",
+        "pegar o link da aula para enviar ao cliente"
       ],
       "telas": [
         "Treinamentos",

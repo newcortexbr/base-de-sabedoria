@@ -1,17 +1,1 @@
-{
-  "id": "D21vBBhzlhg",
-  "titulo": "Divulgue sua Vaga em nosso Portal",
-  "resumo": "Vídeo de divulgação para empresas: publicar uma vaga gratuitamente, pausar e reativar a vaga, e contratar um plano para destacá-la, com cancelamento a qualquer momento. Não mostra o painel.",
-  "cobre": [
-    "publicar vaga gratuitamente",
-    "pausar uma vaga depois de contratar",
-    "reativar uma vaga pausada",
-    "contratar plano para destacar a vaga e cancelar quando quiser"
-  ],
-  "telas": [],
-  "nao_cobre": [
-    "passo a passo do formulário de vaga (vídeo Cliente Publicar Vaga)",
-    "preços e condições dos planos de vagas (vídeo Meus Planos)",
-    "triagem de candidatos"
-  ]
-}
+{"id":"D21vBBhzlhg","titulo":"Divulgue sua Vaga em nosso Portal","resumo":"Vídeo de divulgação para empresas: publicar uma vaga gratuitamente, pausar e reativar a vaga, e contratar um plano para destacá-la, com cancelamento a qualquer momento. Não mostra o painel.","perguntas":["como divulgar uma vaga de emprego no portal","posso publicar vaga de graça","como pausar uma vaga","como reativar uma vaga"],"cobre":[],"telas":[],"nao_cobre":[]}
