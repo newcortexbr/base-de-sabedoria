@@ -1,0 +1,14 @@
+{
+  "id": "8v1W-gtTRow",
+  "titulo": "Instituicoes de Caridade da Cidade",
+  "resumo": "Vídeo de divulgação da seção Doações, onde o visitante encontra instituições de caridade da cidade, busca por nome ou causa, vê o trabalho de cada uma e fala com ela pelo WhatsApp. Não mostra o painel.",
+  "cobre": [
+    "buscar instituição pelo nome ou pela causa",
+    "falar com a instituição pelo WhatsApp"
+  ],
+  "telas": [],
+  "nao_cobre": [
+    "cadastro de instituições no painel (não mostrado)",
+    "como fazer a doação (apenas citada)"
+  ]
+}

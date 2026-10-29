@@ -1,0 +1,30 @@
+{
+  "id": "JdJr7pXVx98",
+  "titulo": "Tutorial Guia - Listar Empresas",
+  "resumo": "Mostra a tela Listar empresas do guia comercial: filtrar e buscar empresas, mudar o status, importar empresas do Google Maps em massa e editar a ficha de cada uma em todos os blocos. Explica que as próprias empresas criam e preenchem o perfil pela área do cliente; o cadastro pelo painel fica para casos especiais.",
+  "cobre": [
+    "filtrar empresas por status e categoria e buscar pelo nome",
+    "mudar o status da empresa (pendente, ativo, inativo, banido ou reprovado)",
+    "importar planilha do Google Maps em massa com revisão prévia",
+    "cadastrar empresa em casos especiais",
+    "preencher dados da empresa, com pegar dados do Google Meu Negócio",
+    "preencher localização pelo CEP e escolher cidade e bairro",
+    "preencher contatos, logo, capa, cardápio, reserva, delivery em outro lugar e botões de ação",
+    "definir cupom, comodidades, formas de pagamento e horários de funcionamento",
+    "adicionar fotos ou vídeos do YouTube à galeria",
+    "redefinir senha ou remover acesso do dono à área do cliente",
+    "definir título e descrição de SEO",
+    "ligar ou desligar fazer pedido e chamar no WhatsApp no cardápio",
+    "gerenciar seções de cardápio, serviços, equipe, catálogo, cardápio do delivery e configurações do delivery"
+  ],
+  "telas": [
+    "Guia comercial › Listar empresas",
+    "Listar empresas › Editar empresa"
+  ],
+  "nao_cobre": [
+    "criação de categorias e subcategorias (vídeo Guia - Categorias e Subcategorias)",
+    "planos e preços das empresas (vídeo Meus Planos)",
+    "menu de cupons de desconto (citado, não aberto)",
+    "como montar a planilha do Google Maps (vídeo Como funciona o Extrator GMaps)"
+  ]
+}

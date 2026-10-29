@@ -1,0 +1,22 @@
+{
+  "id": "-ZLL7Cqwcok",
+  "titulo": "Tutorial Notificacoes Push",
+  "resumo": "Mostra o painel de notificações push: acompanhar inscritos e métricas, ligar o convite para visitantes, criar um aviso com título, mensagem e link, conferir a prévia e enviar na hora ou agendar.",
+  "cobre": [
+    "ligar ou desligar o convite para receber notificações",
+    "ver inscritos, notificações enviadas no mês e média de aberturas",
+    "consultar o histórico de notificações enviadas",
+    "criar nova notificação com título, mensagem e link",
+    "conferir a prévia da notificação no celular",
+    "agendar envio para data e horário",
+    "enviar notificação na hora"
+  ],
+  "telas": [
+    "Sistema › Notificações push"
+  ],
+  "nao_cobre": [
+    "criação ou edição das páginas de destino do link",
+    "configuração técnica do navegador ou do aplicativo do visitante",
+    "envio de avisos para segmentos de público (o envio vai para todos os inscritos)"
+  ]
+}

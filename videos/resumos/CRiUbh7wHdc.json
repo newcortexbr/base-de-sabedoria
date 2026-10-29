@@ -1,0 +1,25 @@
+{
+  "id": "CRiUbh7wHdc",
+  "titulo": "Tutorial Artigos",
+  "resumo": "Mostra a seção Artigos do painel: lista de textos com contadores e filtros, criação de artigo com colunista e categoria, cadastro de colunistas e de categorias com cor. Artigos de colunistas da casa vão direto ao ar.",
+  "cobre": [
+    "filtrar artigos por título, colunista, categoria ou status",
+    "abrir artigo no site, editar ou excluir",
+    "criar novo artigo escolhendo colunista e categoria",
+    "publicar artigo de colunista da casa diretamente",
+    "cadastrar colunista com nome, foto, especialidade, descrição e redes",
+    "ativar ou desativar colunista",
+    "criar categoria com nome e cor"
+  ],
+  "telas": [
+    "Artigos › Lista de artigos",
+    "Artigos › Novo artigo",
+    "Artigos › Colunistas",
+    "Artigos › Categorias"
+  ],
+  "nao_cobre": [
+    "escrita de artigo pelo próprio colunista (vídeo Como Publicar um Artigo)",
+    "planos e preços de artigos (vídeo Meus Planos)",
+    "aprovação de artigos enviados por colunistas de fora (não citada)"
+  ]
+}

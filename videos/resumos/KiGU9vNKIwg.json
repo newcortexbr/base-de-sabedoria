@@ -1,0 +1,21 @@
+{
+  "id": "KiGU9vNKIwg",
+  "titulo": "Tutorial Cliente Orcamentos Recebidos",
+  "resumo": "Ensina a empresa a receber e responder pedidos de orçamento pelo menu Pedidos recebidos da área do cliente: ver pedidos novos ou já vistos, buscar, abrir o pedido completo com fotos e responder pelo WhatsApp com mensagem pronta. Os pedidos chegam às empresas do serviço que têm o recurso de orçamento no plano.",
+  "cobre": [
+    "atualizar a lista para buscar pedidos novos",
+    "buscar pedido pelo nome do cliente, número ou cidade",
+    "filtrar pedidos entre todos, novos e já vistos",
+    "abrir o pedido completo e ver as fotos enviadas",
+    "marcar pedido como visto",
+    "responder pedido pelo WhatsApp com mensagem pronta"
+  ],
+  "telas": [
+    "Menu lateral › Pedidos recebidos"
+  ],
+  "nao_cobre": [
+    "como o visitante cria o pedido de orçamento (citado, não mostrado)",
+    "planos e recursos que liberam receber orçamentos (vídeo Meus Planos)",
+    "link próprio para orçamentos na ficha (vídeo Guia Empresa 02)"
+  ]
+}

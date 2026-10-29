@@ -1,0 +1,24 @@
+{
+  "id": "09n3Eiwn418",
+  "titulo": "Tutorial Guia - Categorias e Subcategorias",
+  "resumo": "Ensina a configurar categorias e subcategorias do guia comercial: criar e editar categoria com ícone e cor, marcar os recursos que as empresas da categoria podem mostrar (cardápio, delivery, quartos), definir o que aparece no orçamento e criar subcategorias. Desmarcar um recurso só oculta o conteúdo, sem apagá-lo.",
+  "cobre": [
+    "criar categoria com nome, ícone e cor",
+    "marcar ou desmarcar recursos da categoria (cardápio, delivery, quartos)",
+    "editar categoria existente",
+    "definir se a categoria aparece no formulário de orçamento",
+    "criar subcategoria",
+    "editar subcategoria",
+    "marcar ou desmarcar de uma vez as subcategorias exibidas"
+  ],
+  "telas": [
+    "Guia comercial › Gerenciar categorias",
+    "Guia comercial › Gerenciar subcategorias"
+  ],
+  "nao_cobre": [
+    "cadastro e edição das empresas e de suas fichas (menu Listar empresas não é mostrado)",
+    "cupons de desconto (menu próprio)",
+    "recursos e limites dos planos das empresas (vídeo Meus Planos)",
+    "como o cliente final navega no cardápio e no delivery (apenas demonstrado)"
+  ]
+}

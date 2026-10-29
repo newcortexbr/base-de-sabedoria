@@ -1,0 +1,25 @@
+{
+  "id": "IKdKLgi-e94",
+  "titulo": "Como extrair listas   Dados PJ",
+  "resumo": "Ensina a gerar uma lista de empresas na plataforma Dados PJ (base da Receita Federal): preencher termo, atividade (CNAE), estado, cidades, situação, bairros, porte, DDD, data de início, tipo (MEI ou não) e tipo de telefone, depois exportar e baixar o arquivo. A lista serve para prospecção, não para importação automática no portal.",
+  "cobre": [
+    "buscar empresas por termo na razão social ou no nome fantasia",
+    "escolher uma ou mais atividades (CNAE) para o nicho",
+    "pesquisar código de atividade no Google quando o nome não bater",
+    "escolher estado e cidades liberados pelo plano",
+    "filtrar por situação cadastral (ativa por padrão)",
+    "filtrar por bairros, porte, DDD e data de início de atividade",
+    "filtrar por tipo de empresa (só MEI, não MEI ou ambos)",
+    "filtrar por tipo de telefone (móvel, fixo ou ambos)",
+    "exportar a lista e baixar o arquivo em Excel ou CSV"
+  ],
+  "telas": [
+    "Dados PJ › Gerar lista de empresas"
+  ],
+  "nao_cobre": [
+    "limites de uso e regras da plataforma (vídeo Regras de uso)",
+    "importar a lista automaticamente no portal (o vídeo diz que o arquivo não serve para isso)",
+    "tratamento e filtragem do arquivo exportado (vídeo prometido, não incluído)",
+    "extração pelo Google Maps (vídeo Como funciona o Extrator GMaps)"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "-FASO6flcCw",
+  "titulo": "Tutorial Meus Clientes",
+  "resumo": "Mostra a tela Meus clientes: como buscar e filtrar clientes, cadastrar um cliente, registrar uma contratação e confirmar um pagamento feito por fora. Explica os cartões da carteira e a receita mensal recorrente.",
+  "cobre": [
+    "buscar cliente por nome, documento ou telefone",
+    "filtrar clientes por status (vencidos, a vencer ou sem plano)",
+    "cadastrar novo cliente",
+    "exportar a carteira em Excel, CSV ou PDF",
+    "editar o cadastro do cliente",
+    "redefinir a senha de acesso do cliente",
+    "bloquear o acesso do cliente",
+    "excluir cliente",
+    "registrar contratação de plano para o cliente",
+    "renovar ou cancelar uma contratação",
+    "confirmar pagamento feito por fora na ficha do cliente"
+  ],
+  "telas": [
+    "Comercial › Meus clientes",
+    "Meus clientes › ficha do cliente › Contratações",
+    "Meus clientes › ficha do cliente › Financeiro",
+    "Meus clientes › ficha do cliente › No portal"
+  ],
+  "nao_cobre": [
+    "emissão e envio de faturas e cobranças (vídeo Financeiro)",
+    "criação ou edição dos planos vendidos (vídeo Meus Planos)",
+    "configuração do Asaas",
+    "comissões de parceiros"
+  ]
+}

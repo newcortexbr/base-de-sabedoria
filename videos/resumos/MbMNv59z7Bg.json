@@ -1,0 +1,21 @@
+{
+  "id": "MbMNv59z7Bg",
+  "titulo": "Tutorial Planos de Publicidade",
+  "resumo": "Mostra como definir os espaços de banner à venda em Meus planos › Publicidade: escolher a página, identificar a posição pelo desenho, criar, editar ou excluir preços (até três por espaço) e deixar espaço sem preço fora de venda. Mostra também como a empresa vê e contrata o espaço.",
+  "cobre": [
+    "escolher a página do portal e ver os espaços numerados",
+    "identificar a posição do espaço pelo desenho da página",
+    "criar preço para um espaço com nome, periodicidade e valor",
+    "adicionar outro preço ao espaço (até três, um por periodicidade)",
+    "editar ou excluir um preço de espaço",
+    "deixar espaço sem preço fora de venda"
+  ],
+  "telas": [
+    "Meus planos › Publicidade › Gerenciar espaços"
+  ],
+  "nao_cobre": [
+    "fila de aprovação e publicação de banners (vídeo Tutorial Banners Publicitarios)",
+    "pagamento e envio de arte pela empresa (vídeo Tutorial Cliente Banners Publicitarios)",
+    "planos de vagas, classificados e eventos (vídeo Meus Planos)"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "3i_JcDTTKtA",
+  "titulo": "Tutorial Area do Cliente | Lives",
+  "resumo": "Mostra a área Lives da área do cliente: como ver o guia das lives, a próxima live, entrar na transmissão no horário e conectar o Google Agenda para receber lembretes e alterações.",
+  "cobre": [
+    "acessar uma live no horário pelo botão acessar live",
+    "adicionar uma live à agenda",
+    "conectar o Google Agenda para receber lembretes de todas as lives",
+    "ver as próximas lives no calendário e na lista",
+    "abrir os detalhes de uma live (tema, dia, horário e assunto)"
+  ],
+  "telas": [
+    "Área do cliente › Lives"
+  ],
+  "nao_cobre": [
+    "conteúdo técnico das lives",
+    "ferramentas da área do cliente (vídeo Ferramentas)",
+    "vídeos de treinamento"
+  ]
+}

@@ -3,15 +3,71 @@
   "videos": [
     {
       "id": "F136_v1JyRY",
-      "titulo": "Visão Geral - Como Funciona o Extrator GMaps"
+      "titulo": "Visão Geral - Como Funciona o Extrator GMaps",
+      "resumo": "Mostra como usar o extrator de empresas do Google Maps: escolher o tipo de extração (lista para prospecção ou base para o portal), definir estado, cidades, bairros e nicho, limitar a quantidade de registros, baixar o arquivo em Excel e comprar créditos. Os créditos são cobrados porque a consulta usa a API do Google.",
+      "cobre": [
+        "escolher entre lista para prospecção e base para o portal",
+        "escolher estado, até cinco cidades, bairros opcionais e nicho",
+        "evitar bairros quando a extração tem mais de uma cidade",
+        "definir quantidade máxima de registros por busca",
+        "baixar a extração em Excel (XLSX), disponível por 7 dias",
+        "apagar colunas do arquivo para deixar só o necessário à prospecção",
+        "comprar pacote de créditos e acompanhar saldo e extratos"
+      ],
+      "telas": [
+        "Extrator Google Maps › Nova extração",
+        "Extrator Google Maps › Extratos",
+        "Extrator Google Maps › Comprar créditos"
+      ],
+      "nao_cobre": [
+        "importação da base para dentro do portal (citada, não mostrada)",
+        "estratégia de uso dos leads (indicada para o vídeo estratégico da área do cliente)",
+        "extrator da Receita Federal (vídeo Ferramentas)",
+        "valores dos pacotes de créditos (não confiáveis na transcrição)"
+      ]
     },
     {
       "id": "R9FCgunNxFE",
-      "titulo": "Como realizar extração Maps - Direto ao ponto"
+      "titulo": "Como realizar extração Maps - Direto ao ponto",
+      "resumo": "Mostra o passo a passo do extrator Google Maps: escolher a finalidade (prospecção ou base para o portal), localização, nicho e limite de registros, e gerar o Excel. O crédito é cobrado pelas empresas encontradas, e o arquivo fica disponível por 7 dias.",
+      "cobre": [
+        "escolher finalidade: prospecção ou base para o portal",
+        "escolher estado e cidades; bairros só quando houver uma cidade",
+        "informar um nicho por extração, ou deixar em branco",
+        "definir a quantidade máxima de registros por busca",
+        "iniciar a extração e baixar o arquivo em Excel",
+        "baixar de novo uma extração feita nos últimos 7 dias",
+        "limpar colunas para usar a base só para prospecção, mantendo telefone e site"
+      ],
+      "telas": [
+        "Extrator Google Maps › Nova extração",
+        "Extrator Google Maps › Extrações"
+      ],
+      "nao_cobre": [
+        "compra de créditos (explicada no vídeo principal do extrator)",
+        "diferença entre o extrator Google Maps e o Dados PJ (só explicada)",
+        "atendimento pelo suporte (só citado)"
+      ]
     },
     {
       "id": "jl7GHmHVJcM",
-      "titulo": "Como extrair lista Maps e Importar no Portal"
+      "titulo": "Como extrair lista Maps e Importar no Portal",
+      "resumo": "Passo a passo para gerar uma lista de empresas com o extrator GMAPS (Google Maps), por cidade e nicho, e importá-la no guia comercial. Mostra como atribuir categoria às entradas que o sistema não reconhece e como desfazer a importação. O vídeo diz que, sem plano pago, a empresa importada não exibe telefone nem galeria.",
+      "cobre": [
+        "gerar lista no extrator GMAPS escolhendo estado, cidade, bairros ou nicho e o limite de crédito",
+        "importar empresas em listar empresas, pelo botão importar do Google Maps, escolhendo o arquivo",
+        "atribuir categoria às entradas que o sistema não reconhece (o sistema sugere as categorias existentes)",
+        "conferir linhas novas e empresas já existentes antes de importar",
+        "desfazer importação para apagar do portal a lista importada"
+      ],
+      "telas": [
+        "Guia comercial › Listar empresas › Importar do Google Maps"
+      ],
+      "nao_cobre": [
+        "uso detalhado do extrator GMAPS (o vídeo manda assistir aos anteriores)",
+        "migração de empresas para plano pago",
+        "valores dos planos"
+      ]
     }
   ]
 }

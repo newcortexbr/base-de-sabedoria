@@ -1,0 +1,14 @@
+{
+  "id": "G1B9mAWbCk4",
+  "titulo": "A Voz do Povo - Seu Canal de Denuncia",
+  "resumo": "Vídeo de divulgação do canal A Voz do Povo: o cidadão denuncia um problema da cidade por texto ou áudio, informa o local, envia fotos ou vídeo e pode ser anônimo. A redação analisa cada denúncia e os casos relevantes podem virar matéria. Não mostra o painel.",
+  "cobre": [
+    "denunciar problema por texto ou áudio, com local e fotos ou vídeo",
+    "denunciar de forma anônima"
+  ],
+  "telas": [],
+  "nao_cobre": [
+    "como a redação trata as denúncias no painel (vídeo Tutorial A Voz do Povo)",
+    "passo a passo de anexar fotos no site"
+  ]
+}

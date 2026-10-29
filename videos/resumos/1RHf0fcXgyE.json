@@ -1,0 +1,21 @@
+{
+  "id": "1RHf0fcXgyE",
+  "titulo": "Tutorial Financeiro",
+  "resumo": "Mostra a tela Financeiro: como ver as faturas por aba (a vencer, vencidas, pagas e canceladas), filtrar cobranças, reenviar o link de pagamento, cobrar pelo WhatsApp e registrar pagamento recebido fora do sistema. Mostra também o valor a pagar aos parceiros.",
+  "cobre": [
+    "ver faturas por aba (a vencer, vencidas, pagas, canceladas)",
+    "buscar e filtrar faturas por cliente, módulo, forma de cobrança e período",
+    "copiar link de pagamento para reenviar",
+    "cobrar cliente pelo WhatsApp com mensagem pronta",
+    "registrar pagamento recebido por fora (dinheiro ou transferência)",
+    "consultar o valor a pagar aos parceiros e pagar comissões pelo atalho ver e pagar"
+  ],
+  "telas": [
+    "Comercial › Financeiro"
+  ],
+  "nao_cobre": [
+    "cadastro de clientes e contratações (vídeo Meus clientes)",
+    "configuração da cobrança automática e da conexão com o Asaas",
+    "como as comissões são calculadas"
+  ]
+}

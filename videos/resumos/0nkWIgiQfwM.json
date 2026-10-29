@@ -1,0 +1,20 @@
+{
+  "id": "0nkWIgiQfwM",
+  "titulo": "Tutorial Assistente de IA",
+  "resumo": "Explica o assistente de IA do portal, que responde visitantes só com o conteúdo publicado. No painel, mostra como ligar ou desligar o assistente no site, escolher o período e ler os indicadores: perguntas, buscas com e sem resultado, seções e termos mais buscados e últimas conversas.",
+  "cobre": [
+    "ligar ou desligar o assistente de IA no site",
+    "escolher período de 7, 30 ou 90 dias nos indicadores",
+    "ver perguntas sem resultado",
+    "consultar seções, categorias, palavras e cidades mais buscadas",
+    "consultar as últimas perguntas e se acharam resultado"
+  ],
+  "telas": [
+    "Sistema › Assistente de IA"
+  ],
+  "nao_cobre": [
+    "como anunciar para preencher as perguntas sem resultado",
+    "configuração técnica do modelo de IA",
+    "planos e preços de anúncios"
+  ]
+}

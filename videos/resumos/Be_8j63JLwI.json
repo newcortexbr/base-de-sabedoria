@@ -1,0 +1,14 @@
+{
+  "id": "Be_8j63JLwI",
+  "titulo": "Melhores da Cidade",
+  "resumo": "Divulgação da votação Melhores da Cidade: o visitante escolhe uma categoria, vota no favorito sem cadastro e acompanha o ranking até o cronômetro zerar. Não mostra o painel.",
+  "cobre": [
+    "escolher uma categoria e votar no favorito sem cadastro",
+    "acompanhar o ranking e o cronômetro da votação"
+  ],
+  "telas": [],
+  "nao_cobre": [
+    "como o administrador cria ou encerra a votação (não mostrado)",
+    "regras de premiação além do troféu (não detalhadas)"
+  ]
+}

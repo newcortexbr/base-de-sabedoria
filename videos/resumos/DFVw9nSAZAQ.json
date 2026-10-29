@@ -1,0 +1,16 @@
+{
+  "id": "DFVw9nSAZAQ",
+  "titulo": "Como se tornar um Parceiro do nosso Portal",
+  "resumo": "Vídeo de captação de parceiros: a pessoa se cadastra como representante, recebe um link exclusivo, indica empresas da cidade e recebe comissões quando a empresa fecha um plano pelo link. Não mostra o painel.",
+  "cobre": [
+    "cadastrar-se como representante e receber link exclusivo",
+    "indicar empresas da região pelo link",
+    "receber comissão quando a empresa indicada fecha plano pelo link"
+  ],
+  "telas": [],
+  "nao_cobre": [
+    "uso do painel de parceiro e acompanhamento de ganhos (vídeo Parceiro 01)",
+    "planos e percentuais de comissão (vídeo Parceiros do painel administrativo)",
+    "cadastro da carteira de recebimento (não citada aqui)"
+  ]
+}

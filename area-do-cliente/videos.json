@@ -3,67 +3,353 @@
   "videos": [
     {
       "id": "JXWDV_IiAWQ",
-      "titulo": "Vídeo Home Dados PJ - Regras de Uso da Plataforma"
+      "titulo": "Vídeo Home Dados PJ - Regras de Uso da Plataforma",
+      "resumo": "Explica os limites de uso da plataforma Dados PJ, incluída no portal: duas gerações de lista por semana, renovadas às segundas-feiras; apenas o estado do portal comprado; de uma a três cidades por extração; e arquivos disponíveis para baixar por 7 dias. Não ensina a gerar a lista.",
+      "cobre": [
+        "entender o limite de duas gerações de lista por semana, renovado às segundas-feiras",
+        "usar somente o estado do portal comprado",
+        "selecionar de uma a três cidades por extração",
+        "baixar de novo um arquivo gerado nos 7 dias seguintes sem gerar outro"
+      ],
+      "telas": [],
+      "nao_cobre": [
+        "como gerar e exportar a lista (vídeo Como extrair listas)",
+        "filtros de atividade e telefone (vídeo Como extrair listas)",
+        "extrator do Google Maps (vídeo Como funciona o Extrator GMaps)"
+      ]
     },
     {
       "id": "IKdKLgi-e94",
-      "titulo": "Como fazer uma Extração - Dados PJ"
+      "titulo": "Como fazer uma Extração - Dados PJ",
+      "resumo": "Ensina a gerar uma lista de empresas na plataforma Dados PJ (base da Receita Federal): preencher termo, atividade (CNAE), estado, cidades, situação, bairros, porte, DDD, data de início, tipo (MEI ou não) e tipo de telefone, depois exportar e baixar o arquivo. A lista serve para prospecção, não para importação automática no portal.",
+      "cobre": [
+        "buscar empresas por termo na razão social ou no nome fantasia",
+        "escolher uma ou mais atividades (CNAE) para o nicho",
+        "pesquisar código de atividade no Google quando o nome não bater",
+        "escolher estado e cidades liberados pelo plano",
+        "filtrar por situação cadastral (ativa por padrão)",
+        "filtrar por bairros, porte, DDD e data de início de atividade",
+        "filtrar por tipo de empresa (só MEI, não MEI ou ambos)",
+        "filtrar por tipo de telefone (móvel, fixo ou ambos)",
+        "exportar a lista e baixar o arquivo em Excel ou CSV"
+      ],
+      "telas": [
+        "Dados PJ › Gerar lista de empresas"
+      ],
+      "nao_cobre": [
+        "limites de uso e regras da plataforma (vídeo Regras de uso)",
+        "importar a lista automaticamente no portal (o vídeo diz que o arquivo não serve para isso)",
+        "tratamento e filtragem do arquivo exportado (vídeo prometido, não incluído)",
+        "extração pelo Google Maps (vídeo Como funciona o Extrator GMaps)"
+      ]
     },
     {
       "id": "F136_v1JyRY",
-      "titulo": "Visão Geral - Como Funciona o Extrator GMaps"
+      "titulo": "Visão Geral - Como Funciona o Extrator GMaps",
+      "resumo": "Mostra como usar o extrator de empresas do Google Maps: escolher o tipo de extração (lista para prospecção ou base para o portal), definir estado, cidades, bairros e nicho, limitar a quantidade de registros, baixar o arquivo em Excel e comprar créditos. Os créditos são cobrados porque a consulta usa a API do Google.",
+      "cobre": [
+        "escolher entre lista para prospecção e base para o portal",
+        "escolher estado, até cinco cidades, bairros opcionais e nicho",
+        "evitar bairros quando a extração tem mais de uma cidade",
+        "definir quantidade máxima de registros por busca",
+        "baixar a extração em Excel (XLSX), disponível por 7 dias",
+        "apagar colunas do arquivo para deixar só o necessário à prospecção",
+        "comprar pacote de créditos e acompanhar saldo e extratos"
+      ],
+      "telas": [
+        "Extrator Google Maps › Nova extração",
+        "Extrator Google Maps › Extratos",
+        "Extrator Google Maps › Comprar créditos"
+      ],
+      "nao_cobre": [
+        "importação da base para dentro do portal (citada, não mostrada)",
+        "estratégia de uso dos leads (indicada para o vídeo estratégico da área do cliente)",
+        "extrator da Receita Federal (vídeo Ferramentas)",
+        "valores dos pacotes de créditos (não confiáveis na transcrição)"
+      ]
     },
     {
       "id": "R9FCgunNxFE",
-      "titulo": "Como realizar extração Maps - Direto ao ponto"
+      "titulo": "Como realizar extração Maps - Direto ao ponto",
+      "resumo": "Mostra o passo a passo do extrator Google Maps: escolher a finalidade (prospecção ou base para o portal), localização, nicho e limite de registros, e gerar o Excel. O crédito é cobrado pelas empresas encontradas, e o arquivo fica disponível por 7 dias.",
+      "cobre": [
+        "escolher finalidade: prospecção ou base para o portal",
+        "escolher estado e cidades; bairros só quando houver uma cidade",
+        "informar um nicho por extração, ou deixar em branco",
+        "definir a quantidade máxima de registros por busca",
+        "iniciar a extração e baixar o arquivo em Excel",
+        "baixar de novo uma extração feita nos últimos 7 dias",
+        "limpar colunas para usar a base só para prospecção, mantendo telefone e site"
+      ],
+      "telas": [
+        "Extrator Google Maps › Nova extração",
+        "Extrator Google Maps › Extrações"
+      ],
+      "nao_cobre": [
+        "compra de créditos (explicada no vídeo principal do extrator)",
+        "diferença entre o extrator Google Maps e o Dados PJ (só explicada)",
+        "atendimento pelo suporte (só citado)"
+      ]
     },
     {
       "id": "jl7GHmHVJcM",
-      "titulo": "Como extrair lista Maps e Importar no Portal"
+      "titulo": "Como extrair lista Maps e Importar no Portal",
+      "resumo": "Passo a passo para gerar uma lista de empresas com o extrator GMAPS (Google Maps), por cidade e nicho, e importá-la no guia comercial. Mostra como atribuir categoria às entradas que o sistema não reconhece e como desfazer a importação. O vídeo diz que, sem plano pago, a empresa importada não exibe telefone nem galeria.",
+      "cobre": [
+        "gerar lista no extrator GMAPS escolhendo estado, cidade, bairros ou nicho e o limite de crédito",
+        "importar empresas em listar empresas, pelo botão importar do Google Maps, escolhendo o arquivo",
+        "atribuir categoria às entradas que o sistema não reconhece (o sistema sugere as categorias existentes)",
+        "conferir linhas novas e empresas já existentes antes de importar",
+        "desfazer importação para apagar do portal a lista importada"
+      ],
+      "telas": [
+        "Guia comercial › Listar empresas › Importar do Google Maps"
+      ],
+      "nao_cobre": [
+        "uso detalhado do extrator GMAPS (o vídeo manda assistir aos anteriores)",
+        "migração de empresas para plano pago",
+        "valores dos planos"
+      ]
     },
     {
       "id": "3i_JcDTTKtA",
-      "titulo": "Lives"
+      "titulo": "Lives",
+      "resumo": "Mostra a área Lives da área do cliente: como ver o guia das lives, a próxima live, entrar na transmissão no horário e conectar o Google Agenda para receber lembretes e alterações.",
+      "cobre": [
+        "acessar uma live no horário pelo botão acessar live",
+        "adicionar uma live à agenda",
+        "conectar o Google Agenda para receber lembretes de todas as lives",
+        "ver as próximas lives no calendário e na lista",
+        "abrir os detalhes de uma live (tema, dia, horário e assunto)"
+      ],
+      "telas": [
+        "Área do cliente › Lives"
+      ],
+      "nao_cobre": [
+        "conteúdo técnico das lives",
+        "ferramentas da área do cliente (vídeo Ferramentas)",
+        "vídeos de treinamento"
+      ]
     },
     {
       "id": "dbFUi5ENvOg",
-      "titulo": "[Página Inicio] - Visão Geral dos Menus"
+      "titulo": "[Página Inicio] - Visão Geral dos Menus",
+      "resumo": "Apresenta a tela Início da área do cliente e o primeiro passo: iniciar a instalação do portal, que o coloca no ar em três etapas (domínio, conexão DNS e portal no ar). Também percorre o menu lateral e diz onde fica cada área.",
+      "cobre": [
+        "iniciar a instalação do portal pelo botão iniciar instalação",
+        "buscar aula no treinamento por assunto (encontrar conteúdo)",
+        "ver a próxima live e a situação dos pagamentos na tela Início",
+        "acessar o painel administrativo e os links do portal depois de publicado"
+      ],
+      "telas": [
+        "Início",
+        "Menu lateral › Meus negócios",
+        "Menu lateral › Treinamentos",
+        "Menu lateral › Ferramentas",
+        "Menu lateral › Lives",
+        "Menu lateral › Suporte",
+        "Menu lateral › Pagamentos"
+      ],
+      "nao_cobre": [
+        "passo a passo de cada etapa da instalação (cada uma tem vídeo próprio)",
+        "conteúdo detalhado de cada tela do menu (vídeos próprios)"
+      ]
     },
     {
       "id": "oZf-HGbQC9c",
-      "titulo": "Suporte"
+      "titulo": "Suporte",
+      "resumo": "Mostra como pedir ajuda na área do cliente: começar pela IA de atendimento, que responde na hora e monta um passo a passo; se ela não resolver, abrir um chamado com a equipe e acompanhar as respostas. Lembra de nunca enviar senhas ou códigos de acesso.",
+      "cobre": [
+        "fazer pergunta à IA de atendimento e seguir o passo a passo (conseguir ou não conseguir)",
+        "anexar print da tela na conversa com a IA",
+        "iniciar nova conversa com a IA",
+        "abrir novo chamado escolhendo o negócio vinculado e o assunto, com título, mensagem e anexos",
+        "acompanhar chamados pelas situações (em análise, equipe respondeu, aguardando você, resolvido)",
+        "usar ajuda rápida com as dúvidas mais comuns"
+      ],
+      "telas": [
+        "Menu lateral › Suporte",
+        "Suporte › Abrir novo chamado",
+        "Suporte › Seus chamados"
+      ],
+      "nao_cobre": [
+        "passo a passo técnico de conexão de domínio (citado como exemplo, sem tutorial)",
+        "instalação do portal (vídeo Área do cliente Início)"
+      ]
     },
     {
       "id": "2sVAq8AngnY",
-      "titulo": "Ferramentas"
+      "titulo": "Ferramentas",
+      "resumo": "Mostra a área Ferramentas da área do cliente, com os extratores de empresas da Receita Federal e do Google Maps. Explica como entrar com o login da área do cliente, gerar uma lista de empresas, exportar em Excel ou CSV e respeitar as regras de uso.",
+      "cobre": [
+        "abrir a área de ferramentas no menu",
+        "acessar uma ferramenta com o login da área do cliente",
+        "gerar lista de empresas no extrator da Receita Federal por atividade, cidade, porte e tipo de telefone",
+        "exportar a lista em Excel ou CSV",
+        "respeitar o limite de 1 a 3 cidades do estado e de 2 listas por semana",
+        "ver créditos da semana, leads extraídos e histórico de listas",
+        "abrir o treinamento da ferramenta pelo botão ver treinamento"
+      ],
+      "telas": [
+        "Área do cliente › Ferramentas",
+        "Ferramentas › Extrator da Receita Federal › Gerar lista de empresas"
+      ],
+      "nao_cobre": [
+        "uso detalhado do extrator do Google Maps (apenas citado)",
+        "importação em massa de empresas para o portal (citada, não mostrada)",
+        "conteúdo das aulas de cada ferramenta",
+        "lives da área do cliente (vídeo Lives)"
+      ]
     },
     {
       "id": "9-7aT2M-jmk",
-      "titulo": "Minha Plataforma -  Processo de Instalação - Etapa 2 - Apontando DNS"
+      "titulo": "Minha Plataforma -  Processo de Instalação - Etapa 2 - Apontando DNS",
+      "resumo": "Segunda etapa da instalação do portal: trocar os servidores DNS do domínio no registro.br ou na Hostinger pelos dois endereços mostrados na plataforma, e avisar a plataforma em Já configurei. Informa que a propagação leva de algumas horas a até 48 horas.",
+      "cobre": [
+        "copiar os dois servidores DNS mostrados na plataforma",
+        "alterar os servidores DNS do domínio no registro.br",
+        "alterar os servidores DNS do domínio na Hostinger",
+        "apagar os servidores antigos e preencher os dois novos",
+        "confirmar o apontamento clicando em Já configurei"
+      ],
+      "telas": [
+        "Área do cliente › Instalação › Etapa 2 (apontar DNS)"
+      ],
+      "nao_cobre": [
+        "etapa final, com o portal no ar (vídeo seguinte)",
+        "compra ou registro do domínio",
+        "criação de subdomínio (o vídeo manda pedir ajuda ao suporte)",
+        "registradores além de registro.br e Hostinger (orienta pedir ao suporte do registrador)"
+      ]
     },
     {
       "id": "CgrBKTyXSsI",
-      "titulo": "Minha Plataforma -  Processo de Instalação - Etapa 3 - Portal no Ar"
+      "titulo": "Minha Plataforma -  Processo de Instalação - Etapa 3 - Portal no Ar",
+      "resumo": "Última etapa da instalação: acompanhar a propagação do domínio, o certificado de segurança e a montagem do portal até a confirmação de que está no ar. Mostra como entrar no painel com a área do cliente e onde ficam os endereços do portal.",
+      "cobre": [
+        "acompanhar a propagação do DNS até 100%",
+        "confirmar em sim, já está no ar, ou abrir chamado em não, ainda não consigo",
+        "entrar no painel do portal pelo botão entrar com a área do cliente",
+        "acessar o portal pelo botão acessar meu portal",
+        "copiar os endereços do portal e do painel",
+        "consultar o guia de links de páginas de vendas e áreas de login"
+      ],
+      "telas": [
+        "Área do cliente › Instalação › Portal no ar",
+        "Área do cliente › Seus acessos",
+        "Área do cliente › Guia de links"
+      ],
+      "nao_cobre": [
+        "compra e registro do domínio (vídeo Etapa 1)",
+        "troca dos servidores DNS (vídeo Etapa 2)",
+        "treinamento de uso do portal (apenas indicado como próximo passo)"
+      ]
     },
     {
       "id": "DpFk0q7myio",
-      "titulo": "Minha Plataforma - Processo de Instalação - Etapa 1 - Como Registrar um Dominio"
+      "titulo": "Minha Plataforma - Processo de Instalação - Etapa 1 - Como Registrar um Dominio",
+      "resumo": "Primeira etapa da instalação do portal: registrar o domínio no registro.br ou na Hostinger, pagar e informar o endereço na plataforma, com domínio próprio ou subdomínio. Alerta que o domínio não pode ser trocado depois da instalação e que só se continua depois do pagamento.",
+      "cobre": [
+        "pesquisar se um domínio está disponível no registro.br",
+        "registrar domínio pelo período escolhido e informar CPF ou CNPJ do titular",
+        "pesquisar terminações de domínio na Hostinger",
+        "trocar o período de três anos para um ano no carrinho",
+        "informar domínio próprio na plataforma e confirmar a prévia",
+        "marcar a confirmação de que o domínio é seu, está registrado e pago",
+        "escolher subdomínio para não mexer no site que já existe"
+      ],
+      "telas": [
+        "Área do cliente › Instalação › Etapa 1 (registrar domínio)"
+      ],
+      "nao_cobre": [
+        "apontamento dos servidores DNS (vídeo Etapa 2)",
+        "etapa final com o portal no ar (vídeo Etapa 3)",
+        "contratação de hospedagem (o vídeo diz que não é necessária)"
+      ]
     },
     {
       "id": "RjoIdbHZrkQ",
-      "titulo": "Pagamentos"
+      "titulo": "Pagamentos",
+      "resumo": "Mostra a tela Pagamentos, onde o cliente acompanha a reserva territorial (anual) e a mensalidade do portal. Explica os selos de situação, como regularizar uma cobrança em atraso e como ver o histórico e o comprovante. Atraso superior a 5 dias em qualquer cobrança suspende o portal e as ferramentas.",
+      "cobre": [
+        "ver a situação da reserva territorial e da mensalidade",
+        "ver o próximo vencimento de cada cobrança",
+        "regularizar pagamento em atraso pelo botão regularizar pagamento",
+        "filtrar o histórico de cobranças por reserva territorial ou mensalidade",
+        "ver vencimento, valor e situação de cada cobrança",
+        "abrir o comprovante de cobranças pagas (ver comprovante)"
+      ],
+      "telas": [
+        "Pagamentos"
+      ],
+      "nao_cobre": [
+        "valores e condições de contratação dos planos",
+        "instalação e domínio do portal (Meus negócios)"
+      ]
     },
     {
       "id": "ZY0xttnJyzI",
-      "titulo": "Página - Meus Negócios"
+      "titulo": "Página - Meus Negócios",
+      "resumo": "Mostra a tela Meus negócios, onde ficam todos os portais da conta, com a situação de cada um (instalação pendente, em instalação ou no ar). Explica como iniciar a instalação informando o domínio e que atraso de 5 dias na reserva territorial ou na mensalidade suspende o portal e as ferramentas.",
+      "cobre": [
+        "abrir meus negócios e escolher o portal a gerenciar",
+        "informar o domínio do portal",
+        "iniciar a instalação do portal",
+        "acompanhar o que falta na instalação (por exemplo, trocar os name servers)",
+        "abrir o portal e acessar meu negócio (visão geral)",
+        "acompanhar pagamentos de reserva territorial e mensalidade com o próximo vencimento"
+      ],
+      "telas": [
+        "Meus negócios"
+      ],
+      "nao_cobre": [
+        "passo a passo de troca dos name servers",
+        "contratação ou troca de plano",
+        "configuração do conteúdo do portal depois de no ar"
+      ]
     },
     {
       "id": "o-YLH2-8w8I",
-      "titulo": "Página - Visão Geral"
+      "titulo": "Página - Visão Geral",
+      "resumo": "Apresenta a tela Visão geral da área do cliente: situação do portal (pendente, em instalação ou ativo), próximo passo do treinamento e pagamentos, tudo numa tela. Os botões de abrir portal, painel e meus links aparecem conforme o portal é publicado.",
+      "cobre": [
+        "ler a situação do portal (pendente, em instalação ou ativo)",
+        "iniciar a instalação antes da publicação",
+        "continuar o treinamento pelo botão continuar meu start",
+        "ver o próximo vencimento de reserva territorial e mensalidade",
+        "abrir o portal e o painel administrativo depois de publicado",
+        "ver meus links (áreas de login, páginas de vendas e recursos) depois de publicado",
+        "acessar o suporte se precisar de ajuda"
+      ],
+      "telas": [
+        "Menu lateral › Visão geral"
+      ],
+      "nao_cobre": [
+        "passo a passo da instalação (vídeo Área do cliente Início)",
+        "detalhes dos pagamentos (vídeo próprio)"
+      ]
     },
     {
       "id": "CYLv3j1aaNM",
-      "titulo": "Treinamentos - Visão Geral dos Módulos de Treinamento"
+      "titulo": "Treinamentos - Visão Geral dos Módulos de Treinamento",
+      "resumo": "Apresenta a área de Treinamentos do painel: abrir módulos e aulas, marcar aula como concluída, buscar por tema ou filtrar por status, e onde ficam os módulos de configuração, ferramentas, crescimento e bônus. Mostra também o chat de suporte com IA.",
+      "cobre": [
+        "abrir treinamentos e acompanhar o progresso",
+        "abrir um módulo e assistir a uma aula",
+        "marcar aula como concluída",
+        "buscar módulo ou aula por palavra (ex.: bônus, banner)",
+        "filtrar módulos por status (em andamento, não iniciados ou concluídos)",
+        "enviar ao cliente o link da aula certa para tirar uma dúvida"
+      ],
+      "telas": [
+        "Treinamentos",
+        "Treinamentos › Buscar módulo"
+      ],
+      "nao_cobre": [
+        "conteúdo das aulas de estratégia (faturamento, tráfego pago, marketing com IA etc.)",
+        "as ferramentas bônus (Zap Plus, extratores) em detalhe",
+        "rede de parceiros e venda de sites com IA (módulos bônus apenas citados)"
+      ]
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "id": "FwKU_0GF6iU",
+  "titulo": "Tutorial Guia Empresa 04 - Pagina de Servicos",
+  "resumo": "Ensina a criar a página de serviços da empresa no guia comercial: organizar serviços em seções, cadastrar cada serviço com descrição, preço fixo ou em texto, duração, detalhe e ícone, e publicar ou tirar do ar. Cada serviço tem botão de agendar pelo WhatsApp.",
+  "cobre": [
+    "criar seção de serviços (ex.: instalações, manutenção)",
+    "cadastrar serviço com nome e descrição do que está incluído",
+    "informar preço fixo ou preço em texto (ex.: a partir de 150 reais, sobre orçamento)",
+    "informar duração e detalhe extra do serviço",
+    "escolher ícone do serviço pelo nome",
+    "publicar ou tirar do ar um serviço",
+    "editar ou excluir serviço"
+  ],
+  "telas": [
+    "Sua área › Guia comercial › Páginas da sua empresa › Serviços"
+  ],
+  "nao_cobre": [
+    "páginas de equipe, catálogo e cardápio (outros vídeos da série)",
+    "preenchimento da ficha da empresa (vídeo Guia Empresa 02)",
+    "como o atendimento é feito depois do botão agendar"
+  ]
+}

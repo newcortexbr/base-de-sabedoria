@@ -1,0 +1,21 @@
+{
+  "id": "3FZrdVUN_Yk",
+  "titulo": "Radar de Preços  | Como Enviar Preços",
+  "resumo": "Ensina o cidadão a enviar um preço encontrado em supermercado, farmácia ou posto: escolher o tipo de estabelecimento, achar ou cadastrar o estabelecimento, enviar fotos do preço e informar nome e WhatsApp. A equipe do portal confere antes de publicar.",
+  "cobre": [
+    "enviar preço de supermercado, farmácia ou posto",
+    "buscar o estabelecimento pelo nome ou procurar no Google Maps",
+    "cadastrar estabelecimento manualmente com nome, endereço, cidade e bairro",
+    "enviar até cinco fotos de etiqueta ou prateleira, ou um encarte",
+    "girar ou remover foto antes de enviar",
+    "informar nome e WhatsApp e confirmar que é humano"
+  ],
+  "telas": [
+    "Radar de Preços › Enviar preço"
+  ],
+  "nao_cobre": [
+    "consulta de preços já publicados no radar",
+    "cadastro ou edição de estabelecimentos no painel administrativo",
+    "publicação de preços pela equipe do portal"
+  ]
+}
