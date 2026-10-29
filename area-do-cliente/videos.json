@@ -121,38 +121,63 @@
       "id": "R9FCgunNxFE",
       "titulo": "Como realizar extração Maps - Direto ao ponto",
       "resumo": "Mostra o passo a passo do extrator Google Maps: escolher a finalidade (prospecção ou base para o portal), localização, nicho e limite de registros, e gerar o Excel. O crédito é cobrado pelas empresas encontradas, e o arquivo fica disponível por 7 dias.",
+      "perguntas": [
+        "como extrair empresas do Google Maps",
+        "como fazer uma extração no extrator Maps",
+        "como baixar a lista do Google Maps em Excel",
+        "como baixar de novo uma extração",
+        "qual a diferença entre prospecção e base para o portal",
+        "como escolher a cidade da extração",
+        "como limitar a quantidade de empresas extraídas",
+        "como escolher o nicho da extração"
+      ],
       "cobre": [
-        "escolher finalidade: prospecção ou base para o portal",
-        "escolher estado e cidades; bairros só quando houver uma cidade",
-        "informar um nicho por extração, ou deixar em branco",
-        "definir a quantidade máxima de registros por busca",
-        "iniciar a extração e baixar o arquivo em Excel",
-        "baixar de novo uma extração feita nos últimos 7 dias",
-        "limpar colunas para usar a base só para prospecção, mantendo telefone e site"
+        "escolher finalidade prospecção",
+        "escolher finalidade base para o portal",
+        "escolher estado",
+        "escolher cidades",
+        "escolher bairros (só com uma cidade)",
+        "informar nicho",
+        "deixar nicho em branco",
+        "definir quantidade máxima de registros",
+        "iniciar extração",
+        "baixar arquivo em Excel",
+        "baixar de novo extração dos últimos 7 dias",
+        "apagar colunas para deixar só telefone e site"
       ],
       "telas": [
-        "Extrator Google Maps › Nova extração",
+        "Extrator Google Maps › Nova Extração",
         "Extrator Google Maps › Extrações"
       ],
       "nao_cobre": [
-        "compra de créditos (explicada no vídeo principal do extrator)",
-        "diferença entre o extrator Google Maps e o Dados PJ (só explicada)",
-        "atendimento pelo suporte (só citado)"
+        "compra de créditos (vídeo Como Funciona o Extrator GMaps)"
       ]
     },
     {
       "id": "jl7GHmHVJcM",
       "titulo": "Como extrair lista Maps e Importar no Portal",
       "resumo": "Passo a passo para gerar uma lista de empresas com o extrator GMAPS (Google Maps), por cidade e nicho, e importá-la no guia comercial. Mostra como atribuir categoria às entradas que o sistema não reconhece e como desfazer a importação. O vídeo diz que, sem plano pago, a empresa importada não exibe telefone nem galeria.",
+      "perguntas": [
+        "como importar empresas do Google Maps",
+        "como desfazer importação de empresas",
+        "como importar lista de empresas no portal",
+        "como encher o portal de empresas",
+        "como apagar empresas importadas",
+        "o que fazer se a categoria não for reconhecida"
+      ],
       "cobre": [
-        "gerar lista no extrator GMAPS escolhendo estado, cidade, bairros ou nicho e o limite de crédito",
-        "importar empresas em listar empresas, pelo botão importar do Google Maps, escolhendo o arquivo",
-        "atribuir categoria às entradas que o sistema não reconhece (o sistema sugere as categorias existentes)",
-        "conferir linhas novas e empresas já existentes antes de importar",
-        "desfazer importação para apagar do portal a lista importada"
+        "gerar lista no extrator Maps com finalidade base para o portal",
+        "escolher estado, cidade e bairros",
+        "abrir Importar do Google Maps",
+        "escolher o arquivo da lista",
+        "escolher categoria das entradas não reconhecidas",
+        "conferir linhas novas",
+        "conferir empresas já existentes",
+        "importar",
+        "desfazer importação"
       ],
       "telas": [
-        "Guia comercial › Listar empresas › Importar do Google Maps"
+        "Guia Comercial › Listar Empresas › Importar do Google Maps"
       ],
       "nao_cobre": [
         "uso detalhado do extrator GMAPS (o vídeo manda assistir aos anteriores)",
@@ -196,20 +221,32 @@
       "id": "dbFUi5ENvOg",
       "titulo": "[Página Inicio] - Visão Geral dos Menus",
       "resumo": "Apresenta a tela Início da área do cliente e o primeiro passo: iniciar a instalação do portal, que o coloca no ar em três etapas (domínio, conexão DNS e portal no ar). Também percorre o menu lateral e diz onde fica cada área.",
+      "perguntas": [
+        "como iniciar a instalação do portal",
+        "como colocar meu portal no ar",
+        "como achar uma aula de treinamento",
+        "onde vejo a próxima live",
+        "onde vejo meus pagamentos",
+        "onde acesso o painel administrativo do meu portal",
+        "onde ficam os links do meu portal"
+      ],
       "cobre": [
-        "iniciar a instalação do portal pelo botão iniciar instalação",
-        "buscar aula no treinamento por assunto (encontrar conteúdo)",
-        "ver a próxima live e a situação dos pagamentos na tela Início",
-        "acessar o painel administrativo e os links do portal depois de publicado"
+        "ver situação do portal",
+        "clicar em Iniciar instalação",
+        "buscar aula por assunto",
+        "ver a próxima live",
+        "ver situação dos pagamentos",
+        "abrir o painel administrativo depois de publicado",
+        "abrir os links do portal"
       ],
       "telas": [
-        "Início",
-        "Menu lateral › Meus negócios",
-        "Menu lateral › Treinamentos",
-        "Menu lateral › Ferramentas",
-        "Menu lateral › Lives",
-        "Menu lateral › Suporte",
-        "Menu lateral › Pagamentos"
+        "Área do Cliente › Início",
+        "Área do Cliente › Meus Negócios",
+        "Área do Cliente › Treinamentos",
+        "Área do Cliente › Ferramentas",
+        "Área do Cliente › Lives",
+        "Área do Cliente › Suporte",
+        "Área do Cliente › Pagamentos"
       ],
       "nao_cobre": [
         "passo a passo de cada etapa da instalação (cada uma tem vídeo próprio)",
@@ -220,18 +257,34 @@
       "id": "oZf-HGbQC9c",
       "titulo": "Suporte",
       "resumo": "Mostra como pedir ajuda na área do cliente: começar pela IA de atendimento, que responde na hora e monta um passo a passo; se ela não resolver, abrir um chamado com a equipe e acompanhar as respostas. Lembra de nunca enviar senhas ou códigos de acesso.",
+      "perguntas": [
+        "como falar com o suporte",
+        "como abrir um chamado",
+        "como falar com a IA de atendimento",
+        "como enviar print para o suporte",
+        "como ver meus chamados",
+        "como saber se o suporte respondeu",
+        "como começar nova conversa com a IA"
+      ],
       "cobre": [
-        "fazer pergunta à IA de atendimento e seguir o passo a passo (conseguir ou não conseguir)",
-        "anexar print da tela na conversa com a IA",
-        "iniciar nova conversa com a IA",
-        "abrir novo chamado escolhendo o negócio vinculado e o assunto, com título, mensagem e anexos",
-        "acompanhar chamados pelas situações (em análise, equipe respondeu, aguardando você, resolvido)",
-        "usar ajuda rápida com as dúvidas mais comuns"
+        "abrir Suporte",
+        "perguntar à IA",
+        "seguir o passo a passo da IA",
+        "clicar em conseguir",
+        "clicar em não conseguir",
+        "anexar print",
+        "iniciar nova conversa",
+        "abrir novo chamado",
+        "escolher negócio e assunto do chamado",
+        "escrever título e mensagem",
+        "anexar arquivos",
+        "ver situação dos chamados",
+        "usar ajuda rápida"
       ],
       "telas": [
-        "Menu lateral › Suporte",
-        "Suporte › Abrir novo chamado",
-        "Suporte › Seus chamados"
+        "Área do Cliente › Suporte",
+        "Área do Cliente › Suporte › Abrir Novo Chamado",
+        "Área do Cliente › Suporte › Seus Chamados"
       ],
       "nao_cobre": [
         "passo a passo técnico de conexão de domínio (citado como exemplo, sem tutorial)",
@@ -384,16 +437,29 @@
       "id": "RjoIdbHZrkQ",
       "titulo": "Pagamentos",
       "resumo": "Mostra a tela Pagamentos, onde o cliente acompanha a reserva territorial (anual) e a mensalidade do portal. Explica os selos de situação, como regularizar uma cobrança em atraso e como ver o histórico e o comprovante. Atraso superior a 5 dias em qualquer cobrança suspende o portal e as ferramentas.",
+      "perguntas": [
+        "como ver meus pagamentos",
+        "como pagar a mensalidade",
+        "como pagar a reserva territorial",
+        "como ver o vencimento da mensalidade",
+        "como regularizar pagamento em atraso",
+        "onde vejo o comprovante de pagamento",
+        "meu portal foi suspenso",
+        "como ver o histórico de cobranças"
+      ],
       "cobre": [
-        "ver a situação da reserva territorial e da mensalidade",
-        "ver o próximo vencimento de cada cobrança",
-        "regularizar pagamento em atraso pelo botão regularizar pagamento",
-        "filtrar o histórico de cobranças por reserva territorial ou mensalidade",
-        "ver vencimento, valor e situação de cada cobrança",
-        "abrir o comprovante de cobranças pagas (ver comprovante)"
+        "abrir Pagamentos",
+        "ver situação da reserva territorial",
+        "ver situação da mensalidade",
+        "ver próximo vencimento",
+        "regularizar pagamento em atraso",
+        "filtrar histórico por reserva territorial",
+        "filtrar histórico por mensalidade",
+        "ver vencimento, valor e situação da cobrança",
+        "abrir comprovante de cobrança paga"
       ],
       "telas": [
-        "Pagamentos"
+        "Área do Cliente › Pagamentos"
       ],
       "nao_cobre": [
         "valores e condições de contratação dos planos",
@@ -404,16 +470,28 @@
       "id": "ZY0xttnJyzI",
       "titulo": "Página - Meus Negócios",
       "resumo": "Mostra a tela Meus negócios, onde ficam todos os portais da conta, com a situação de cada um (instalação pendente, em instalação ou no ar). Explica como iniciar a instalação informando o domínio e que atraso de 5 dias na reserva territorial ou na mensalidade suspende o portal e as ferramentas.",
+      "perguntas": [
+        "como instalar meu portal",
+        "onde informo o domínio do portal",
+        "onde vejo meus portais",
+        "como abrir meu portal",
+        "por que meu portal foi suspenso",
+        "como ver o que falta na instalação",
+        "como ver o vencimento da mensalidade"
+      ],
       "cobre": [
-        "abrir meus negócios e escolher o portal a gerenciar",
-        "informar o domínio do portal",
-        "iniciar a instalação do portal",
-        "acompanhar o que falta na instalação (por exemplo, trocar os name servers)",
-        "abrir o portal e acessar meu negócio (visão geral)",
-        "acompanhar pagamentos de reserva territorial e mensalidade com o próximo vencimento"
+        "abrir Meus negócios",
+        "escolher o portal",
+        "informar domínio",
+        "iniciar instalação",
+        "ver o que falta na instalação",
+        "abrir o portal",
+        "acessar meu negócio",
+        "ver vencimento da reserva territorial",
+        "ver vencimento da mensalidade"
       ],
       "telas": [
-        "Meus negócios"
+        "Área do Cliente › Meus Negócios"
       ],
       "nao_cobre": [
         "passo a passo de troca dos name servers",
@@ -425,17 +503,27 @@
       "id": "o-YLH2-8w8I",
       "titulo": "Página - Visão Geral",
       "resumo": "Apresenta a tela Visão geral da área do cliente: situação do portal (pendente, em instalação ou ativo), próximo passo do treinamento e pagamentos, tudo numa tela. Os botões de abrir portal, painel e meus links aparecem conforme o portal é publicado.",
+      "perguntas": [
+        "onde vejo a situação do meu portal",
+        "como ver o vencimento da mensalidade",
+        "como continuar o treinamento",
+        "onde ficam meus links",
+        "como abrir o painel do meu portal",
+        "onde peço suporte"
+      ],
       "cobre": [
-        "ler a situação do portal (pendente, em instalação ou ativo)",
-        "iniciar a instalação antes da publicação",
-        "continuar o treinamento pelo botão continuar meu start",
-        "ver o próximo vencimento de reserva territorial e mensalidade",
-        "abrir o portal e o painel administrativo depois de publicado",
-        "ver meus links (áreas de login, páginas de vendas e recursos) depois de publicado",
-        "acessar o suporte se precisar de ajuda"
+        "ver situação do portal",
+        "iniciar instalação",
+        "continuar treinamento",
+        "ver vencimento da reserva territorial",
+        "ver vencimento da mensalidade",
+        "abrir portal",
+        "abrir painel administrativo",
+        "abrir Meus links",
+        "acessar suporte"
       ],
       "telas": [
-        "Menu lateral › Visão geral"
+        "Área do Cliente › Visão Geral"
       ],
       "nao_cobre": [
         "passo a passo da instalação (vídeo Área do cliente Início)",
