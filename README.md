@@ -33,6 +33,13 @@ próximo passo previsto (não feito): carregar `indice.json` num SQLite com FTS5
 - `videos/conteudo/<id>.md`: transcrição = conteúdo do vídeo (**durável**).
 - `videos/legendas/` e `videos/meta/<id>.json`: legenda bruta baixada e metadados do YouTube (título, duração, data, fonte da legenda).
 - `catalogo-videos.md` está superado por `videos/`.
+- `videos/abas.json`: aba da planilha (gid) -> produto da base. Aba nova entra sozinha com `produto` vazio: os vídeos dela são transcritos, mas só entram num catálogo depois que alguém preencher o produto.
+
+### atualização automática
+
+O workflow `atualizar-videos` roda de 5 em 5 h no i7 (runner `vps`) e chama `node scripts/atualizar-videos.mjs`: lê as abas da planilha, acha os ids sem `videos/conteudo/`, baixa só essas legendas, pede o resumo ao Claude (`claude-opus-5-5`), põe o vídeo no `<produto>/videos.json` e, no portal, liga a até 3 artigos do público da aba. Depois roda os conferidores, comita na `main` com `[skip ci]` e `scripts/pr-produtos.sh` abre PR na Área do Cliente (sempre), no Extrator e no Dados PJ (quando o produto deles mudou). O portal lê a base direto no deploy.
+
+Secrets do repo: `ANTHROPIC_API_KEY` (obrigatório) e `PRODUTOS_TOKEN` (PAT com contents e pull requests de escrita em `area-clientes`, `extrator_maps` e `dadospj-backend`; sem ele os PRs são pulados com aviso). Local: `npm ci` e `ANTHROPIC_API_KEY=... node scripts/atualizar-videos.mjs`.
 
 ## tags
 

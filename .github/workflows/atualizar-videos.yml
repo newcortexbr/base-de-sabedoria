@@ -1,0 +1,49 @@
+name: Atualizar vídeos
+
+# De 5 em 5 h no i7: compara a planilha com a base e só processa vídeo novo (scripts/atualizar-videos.mjs).
+# Comita na main com [skip ci] e abre PR no repo de cada produto afetado (scripts/pr-produtos.sh).
+on:
+  schedule:
+    - cron: '17 */5 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: atualizar-videos
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: [self-hosted, ubuntu, newcortex, vps]
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: yt-dlp fixo
+        run: |
+          curl -fsSL -o "$RUNNER_TEMP/yt-dlp" https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp
+          chmod +x "$RUNNER_TEMP/yt-dlp"
+      - run: npm ci --no-audit --no-fund
+      - name: Vídeos novos
+        id: v
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          YTDLP: ${{ runner.temp }}/yt-dlp
+        run: node scripts/atualizar-videos.mjs | tee "$RUNNER_TEMP/saida" && grep '^produtos=' "$RUNNER_TEMP/saida" >> "$GITHUB_OUTPUT"
+      - name: Commit na main
+        run: |
+          git add -A videos portal-da-cidade area-do-cliente extrator-maps dados-pj indice.json
+          git diff --cached --quiet && exit 0
+          git -c user.name='base-de-sabedoria bot' -c user.email='bot@newcortex.com.br' commit -qm 'chore(videos): vídeos novos da planilha [skip ci]'
+          git push -q origin HEAD:main
+      - name: PR nos produtos
+        if: steps.v.outputs.produtos != ''
+        env:
+          GH_TOKEN: ${{ secrets.PRODUTOS_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then echo "::warning::sem PRODUTOS_TOKEN; PRs nos produtos pulados"; exit 0; fi
+          bash scripts/pr-produtos.sh '${{ steps.v.outputs.produtos }}'

@@ -1,0 +1,49 @@
+{
+  "leia-me": "Aba da planilha de vídeos -> produto da base. produto vazio = aba nova ainda sem dono: os vídeos são baixados, mas não entram em nenhum catálogo. publico (só portal-da-cidade) = perfil dos artigos que recebem o vídeo.",
+  "abas": [
+    {
+      "gid": 1014831656,
+      "slug": "painel-admin",
+      "nome": "Painel Admin",
+      "produto": "portal-da-cidade",
+      "publico": "admin"
+    },
+    {
+      "gid": 1923457458,
+      "slug": "area-empresa-parceiro-portal",
+      "nome": "Areado Anunciante e Area Parceiro [Portal]",
+      "produto": "portal-da-cidade",
+      "publico": "cliente"
+    },
+    {
+      "gid": 935621533,
+      "slug": "sistema-dados-pj",
+      "nome": "Sistema Dados Pj",
+      "produto": "dados-pj"
+    },
+    {
+      "gid": 1086361894,
+      "slug": "extrator-google-maps",
+      "nome": "Extrator Google Maps",
+      "produto": "extrator-maps"
+    },
+    {
+      "gid": 615353814,
+      "slug": "claude-videos-basicos-area-do-cliente",
+      "nome": "Vídeos Area do Cliente",
+      "produto": "area-do-cliente"
+    },
+    {
+      "gid": 1344777380,
+      "slug": "conteudos-treinamento-do-franqueado",
+      "nome": "Conteudos Treinamento do Franqueado",
+      "produto": "treinamento-do-franqueado"
+    },
+    {
+      "gid": 646835390,
+      "slug": "paginas-de-vendas",
+      "nome": "Vídeos Páginas de Vendas - Conteúdos",
+      "produto": "vendas"
+    }
+  ]
+}
