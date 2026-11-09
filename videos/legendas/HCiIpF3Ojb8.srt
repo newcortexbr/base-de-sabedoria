@@ -1,0 +1,325 @@
+1
+00:00:00,000 --> 00:00:02,790
+ 
+Cadastrar instituições com IA. A
+
+2
+00:00:02,790 --> 00:00:02,800
+Cadastrar instituições com IA. A
+ 
+
+3
+00:00:02,800 --> 00:00:04,670
+Cadastrar instituições com IA. A
+inteligência artificial pesquisa as
+
+4
+00:00:04,670 --> 00:00:04,680
+inteligência artificial pesquisa as
+ 
+
+5
+00:00:04,680 --> 00:00:06,910
+inteligência artificial pesquisa as
+instituições de caridade da cidade e
+
+6
+00:00:06,910 --> 00:00:06,920
+instituições de caridade da cidade e
+ 
+
+7
+00:00:06,920 --> 00:00:09,550
+instituições de caridade da cidade e
+cria as fichas com descrição, contatos,
+
+8
+00:00:09,550 --> 00:00:09,560
+cria as fichas com descrição, contatos,
+ 
+
+9
+00:00:09,560 --> 00:00:11,390
+cria as fichas com descrição, contatos,
+endereço e foto.
+
+10
+00:00:11,390 --> 00:00:11,400
+endereço e foto.
+ 
+
+11
+00:00:11,400 --> 00:00:13,510
+endereço e foto.
+Antes de começar, é importante conectar
+
+12
+00:00:13,510 --> 00:00:13,520
+Antes de começar, é importante conectar
+ 
+
+13
+00:00:13,520 --> 00:00:15,590
+Antes de começar, é importante conectar
+a sua conta do chat GPT. Em
+
+14
+00:00:15,590 --> 00:00:15,600
+a sua conta do chat GPT. Em
+ 
+
+15
+00:00:15,600 --> 00:00:18,230
+a sua conta do chat GPT. Em
+configurações gerais, clique em entrar
+
+16
+00:00:18,230 --> 00:00:18,240
+configurações gerais, clique em entrar
+ 
+
+17
+00:00:18,240 --> 00:00:20,550
+configurações gerais, clique em entrar
+com o chat GPT e pode ser a conta
+
+18
+00:00:20,550 --> 00:00:20,560
+com o chat GPT e pode ser a conta
+ 
+
+19
+00:00:20,560 --> 00:00:23,750
+com o chat GPT e pode ser a conta
+gratuita. No painel, abra doações e
+
+20
+00:00:23,750 --> 00:00:23,760
+gratuita. No painel, abra doações e
+ 
+
+21
+00:00:23,760 --> 00:00:26,510
+gratuita. No painel, abra doações e
+clique em cadastrar com IA. Escolha a
+
+22
+00:00:26,510 --> 00:00:26,520
+clique em cadastrar com IA. Escolha a
+ 
+
+23
+00:00:26,520 --> 00:00:29,630
+clique em cadastrar com IA. Escolha a
+cidade e clique em buscar sugestões. A
+
+24
+00:00:29,630 --> 00:00:29,640
+cidade e clique em buscar sugestões. A
+ 
+
+25
+00:00:29,640 --> 00:00:31,990
+cidade e clique em buscar sugestões. A
+IA traz as instituições encontradas,
+
+26
+00:00:31,990 --> 00:00:32,000
+IA traz as instituições encontradas,
+ 
+
+27
+00:00:32,000 --> 00:00:34,390
+IA traz as instituições encontradas,
+cada uma com a causa, um resumo e a
+
+28
+00:00:34,390 --> 00:00:34,400
+cada uma com a causa, um resumo e a
+ 
+
+29
+00:00:34,400 --> 00:00:36,870
+cada uma com a causa, um resumo e a
+fonte. As que já estão cadastradas ficam
+
+30
+00:00:36,870 --> 00:00:36,880
+fonte. As que já estão cadastradas ficam
+ 
+
+31
+00:00:36,880 --> 00:00:39,750
+fonte. As que já estão cadastradas ficam
+de fora. Marque as que quer criar. Deixe
+
+32
+00:00:39,750 --> 00:00:39,760
+de fora. Marque as que quer criar. Deixe
+ 
+
+33
+00:00:39,760 --> 00:00:42,270
+de fora. Marque as que quer criar. Deixe
+publicar direto desligado para revisar
+
+34
+00:00:42,270 --> 00:00:42,280
+publicar direto desligado para revisar
+ 
+
+35
+00:00:42,280 --> 00:00:45,230
+publicar direto desligado para revisar
+antes e clique em criar. A IA lê as
+
+36
+00:00:45,230 --> 00:00:45,240
+antes e clique em criar. A IA lê as
+ 
+
+37
+00:00:45,240 --> 00:00:47,550
+antes e clique em criar. A IA lê as
+informações de cada instituição e monta
+
+38
+00:00:47,550 --> 00:00:47,560
+informações de cada instituição e monta
+ 
+
+39
+00:00:47,560 --> 00:00:49,950
+informações de cada instituição e monta
+a ficha. As fichas ficam em rascunho,
+
+40
+00:00:49,950 --> 00:00:49,960
+a ficha. As fichas ficam em rascunho,
+ 
+
+41
+00:00:49,960 --> 00:00:52,830
+a ficha. As fichas ficam em rascunho,
+com descrição, site, redes sociais,
+
+42
+00:00:52,830 --> 00:00:52,840
+com descrição, site, redes sociais,
+ 
+
+43
+00:00:52,840 --> 00:00:56,150
+com descrição, site, redes sociais,
+endereço, mapa e foto. O cartão também
+
+44
+00:00:56,150 --> 00:00:56,160
+endereço, mapa e foto. O cartão também
+ 
+
+45
+00:00:56,160 --> 00:00:58,430
+endereço, mapa e foto. O cartão também
+avisa o que ela não encontrou. Clique em
+
+46
+00:00:58,430 --> 00:00:58,440
+avisa o que ela não encontrou. Clique em
+ 
+
+47
+00:00:58,440 --> 00:01:01,230
+avisa o que ela não encontrou. Clique em
+revisar e publicar. Confira os dados e
+
+48
+00:01:01,230 --> 00:01:01,240
+revisar e publicar. Confira os dados e
+ 
+
+49
+00:01:01,240 --> 00:01:03,830
+revisar e publicar. Confira os dados e
+as fotos, principalmente os contatos.
+
+50
+00:01:03,830 --> 00:01:03,840
+as fotos, principalmente os contatos.
+ 
+
+51
+00:01:03,840 --> 00:01:05,790
+as fotos, principalmente os contatos.
+Quando estiver tudo certo, clique em
+
+52
+00:01:05,790 --> 00:01:05,800
+Quando estiver tudo certo, clique em
+ 
+
+53
+00:01:05,800 --> 00:01:07,950
+Quando estiver tudo certo, clique em
+publicar no site. Também dá para
+
+54
+00:01:07,950 --> 00:01:07,960
+publicar no site. Também dá para
+ 
+
+55
+00:01:07,960 --> 00:01:10,150
+publicar no site. Também dá para
+publicar pela lista de instituições, com
+
+56
+00:01:10,150 --> 00:01:10,160
+publicar pela lista de instituições, com
+ 
+
+57
+00:01:10,160 --> 00:01:12,110
+publicar pela lista de instituições, com
+o botão ao lado de cada uma. E a
+
+58
+00:01:12,110 --> 00:01:12,120
+o botão ao lado de cada uma. E a
+ 
+
+59
+00:01:12,120 --> 00:01:14,230
+o botão ao lado de cada uma. E a
+instituição aparece no site, com a sua
+
+60
+00:01:14,230 --> 00:01:14,240
+instituição aparece no site, com a sua
+ 
+
+61
+00:01:14,240 --> 00:01:16,910
+instituição aparece no site, com a sua
+página completa. Pronto, em poucos
+
+62
+00:01:16,910 --> 00:01:16,920
+página completa. Pronto, em poucos
+ 
+
+63
+00:01:16,920 --> 00:01:19,070
+página completa. Pronto, em poucos
+minutos os projetos sociais da sua
+
+64
+00:01:19,070 --> 00:01:19,080
+minutos os projetos sociais da sua
+ 
+
+65
+00:01:19,080 --> 00:01:22,520
+minutos os projetos sociais da sua
+cidade estão no portal.
+

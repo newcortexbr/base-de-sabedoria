@@ -1,0 +1,395 @@
+1
+00:00:00,080 --> 00:00:02,669
+ 
+O Delivery com IA monta o cardápio de
+
+2
+00:00:02,669 --> 00:00:02,679
+O Delivery com IA monta o cardápio de
+ 
+
+3
+00:00:02,679 --> 00:00:04,430
+O Delivery com IA monta o cardápio de
+entrega de uma empresa em poucos
+
+4
+00:00:04,430 --> 00:00:04,440
+entrega de uma empresa em poucos
+ 
+
+5
+00:00:04,440 --> 00:00:07,070
+entrega de uma empresa em poucos
+minutos. A inteligência artificial lê a
+
+6
+00:00:07,070 --> 00:00:07,080
+minutos. A inteligência artificial lê a
+ 
+
+7
+00:00:07,080 --> 00:00:09,470
+minutos. A inteligência artificial lê a
+foto do cardápio e cadastra todos os
+
+8
+00:00:09,470 --> 00:00:09,480
+foto do cardápio e cadastra todos os
+ 
+
+9
+00:00:09,480 --> 00:00:12,190
+foto do cardápio e cadastra todos os
+produtos. Antes, é importante conectar a
+
+10
+00:00:12,190 --> 00:00:12,200
+produtos. Antes, é importante conectar a
+ 
+
+11
+00:00:12,200 --> 00:00:14,270
+produtos. Antes, é importante conectar a
+conta do chat GPT do portal em
+
+12
+00:00:14,270 --> 00:00:14,280
+conta do chat GPT do portal em
+ 
+
+13
+00:00:14,280 --> 00:00:16,630
+conta do chat GPT do portal em
+configurações gerais e pode ser a conta
+
+14
+00:00:16,630 --> 00:00:16,640
+configurações gerais e pode ser a conta
+ 
+
+15
+00:00:16,640 --> 00:00:19,429
+configurações gerais e pode ser a conta
+gratuita. No menu lateral, abra guia
+
+16
+00:00:19,429 --> 00:00:19,439
+gratuita. No menu lateral, abra guia
+ 
+
+17
+00:00:19,439 --> 00:00:22,109
+gratuita. No menu lateral, abra guia
+comercial e listar empresas e entre na
+
+18
+00:00:22,109 --> 00:00:22,119
+comercial e listar empresas e entre na
+ 
+
+19
+00:00:22,119 --> 00:00:25,109
+comercial e listar empresas e entre na
+empresa. Em conteúdo da ficha, no quadro
+
+20
+00:00:25,109 --> 00:00:25,119
+empresa. Em conteúdo da ficha, no quadro
+ 
+
+21
+00:00:25,119 --> 00:00:27,070
+empresa. Em conteúdo da ficha, no quadro
+cardápio do delivery, clique em
+
+22
+00:00:27,070 --> 00:00:27,080
+cardápio do delivery, clique em
+ 
+
+23
+00:00:27,080 --> 00:00:29,470
+cardápio do delivery, clique em
+gerenciar. Com o cardápio de delivery
+
+24
+00:00:29,470 --> 00:00:29,480
+gerenciar. Com o cardápio de delivery
+ 
+
+25
+00:00:29,480 --> 00:00:32,709
+gerenciar. Com o cardápio de delivery
+ainda vazio, clique em criar com IA.
+
+26
+00:00:32,709 --> 00:00:32,719
+ainda vazio, clique em criar com IA.
+ 
+
+27
+00:00:32,719 --> 00:00:35,389
+ainda vazio, clique em criar com IA.
+Envie a foto, o print ou o PDF do
+
+28
+00:00:35,389 --> 00:00:35,399
+Envie a foto, o print ou o PDF do
+ 
+
+29
+00:00:35,399 --> 00:00:38,270
+Envie a foto, o print ou o PDF do
+cardápio. Podem ser até cinco partes.
+
+30
+00:00:38,270 --> 00:00:38,280
+cardápio. Podem ser até cinco partes.
+ 
+
+31
+00:00:38,280 --> 00:00:41,470
+cardápio. Podem ser até cinco partes.
+Depois, clique em ler cardápio com IA.
+
+32
+00:00:41,470 --> 00:00:41,480
+Depois, clique em ler cardápio com IA.
+ 
+
+33
+00:00:41,480 --> 00:00:43,990
+Depois, clique em ler cardápio com IA.
+Em menos de 1 minuto, a IA organiza as
+
+34
+00:00:43,990 --> 00:00:44,000
+Em menos de 1 minuto, a IA organiza as
+ 
+
+35
+00:00:44,000 --> 00:00:46,830
+Em menos de 1 minuto, a IA organiza as
+sessões, os produtos, as descrições e os
+
+36
+00:00:46,830 --> 00:00:46,840
+sessões, os produtos, as descrições e os
+ 
+
+37
+00:00:46,840 --> 00:00:49,670
+sessões, os produtos, as descrições e os
+preços. Ela só copia o que está escrito.
+
+38
+00:00:49,670 --> 00:00:49,680
+preços. Ela só copia o que está escrito.
+ 
+
+39
+00:00:49,680 --> 00:00:51,590
+preços. Ela só copia o que está escrito.
+Clique em um produto para corrigir o que
+
+40
+00:00:51,590 --> 00:00:51,600
+Clique em um produto para corrigir o que
+ 
+
+41
+00:00:51,600 --> 00:00:54,189
+Clique em um produto para corrigir o que
+precisar e marcar selos. Aqui o
+
+42
+00:00:54,189 --> 00:00:54,199
+precisar e marcar selos. Aqui o
+ 
+
+43
+00:00:54,199 --> 00:00:57,229
+precisar e marcar selos. Aqui o
+combinado Hot ganhou o selo mais pedido.
+
+44
+00:00:57,229 --> 00:00:57,239
+combinado Hot ganhou o selo mais pedido.
+ 
+
+45
+00:00:57,239 --> 00:00:59,869
+combinado Hot ganhou o selo mais pedido.
+As fotos são opcionais. Confira tudo e
+
+46
+00:00:59,869 --> 00:00:59,879
+As fotos são opcionais. Confira tudo e
+ 
+
+47
+00:00:59,879 --> 00:01:02,630
+As fotos são opcionais. Confira tudo e
+clique em publicar cardápio. Pronto, os
+
+48
+00:01:02,630 --> 00:01:02,640
+clique em publicar cardápio. Pronto, os
+ 
+
+49
+00:01:02,640 --> 00:01:04,350
+clique em publicar cardápio. Pronto, os
+produtos já estão no cardápio do
+
+50
+00:01:04,350 --> 00:01:04,360
+produtos já estão no cardápio do
+ 
+
+51
+00:01:04,360 --> 00:01:06,550
+produtos já estão no cardápio do
+delivery. Na página do cardápio de
+
+52
+00:01:06,550 --> 00:01:06,560
+delivery. Na página do cardápio de
+ 
+
+53
+00:01:06,560 --> 00:01:08,910
+delivery. Na página do cardápio de
+delivery, as sessões aparecem à esquerda
+
+54
+00:01:08,910 --> 00:01:08,920
+delivery, as sessões aparecem à esquerda
+ 
+
+55
+00:01:08,920 --> 00:01:11,270
+delivery, as sessões aparecem à esquerda
+com a quantidade de produtos. O selo
+
+56
+00:01:11,270 --> 00:01:11,280
+com a quantidade de produtos. O selo
+ 
+
+57
+00:01:11,280 --> 00:01:14,030
+com a quantidade de produtos. O selo
+mais pedido aparece como destaque. Em
+
+58
+00:01:14,030 --> 00:01:14,040
+mais pedido aparece como destaque. Em
+ 
+
+59
+00:01:14,040 --> 00:01:16,749
+mais pedido aparece como destaque. Em
+editar, você completa cada produto, a
+
+60
+00:01:16,749 --> 00:01:16,759
+editar, você completa cada produto, a
+ 
+
+61
+00:01:16,759 --> 00:01:19,310
+editar, você completa cada produto, a
+foto, se está disponível, o destaque, e
+
+62
+00:01:19,310 --> 00:01:19,320
+foto, se está disponível, o destaque, e
+ 
+
+63
+00:01:19,320 --> 00:01:21,429
+foto, se está disponível, o destaque, e
+os grupos de opções, como tamanhos,
+
+64
+00:01:21,429 --> 00:01:21,439
+os grupos de opções, como tamanhos,
+ 
+
+65
+00:01:21,439 --> 00:01:23,510
+os grupos de opções, como tamanhos,
+adicionais e coberturas.
+
+66
+00:01:23,510 --> 00:01:23,520
+adicionais e coberturas.
+ 
+
+67
+00:01:23,520 --> 00:01:25,870
+adicionais e coberturas.
+No site, a loja de delivery já mostra
+
+68
+00:01:25,870 --> 00:01:25,880
+No site, a loja de delivery já mostra
+ 
+
+69
+00:01:25,880 --> 00:01:28,550
+No site, a loja de delivery já mostra
+tudo, os destaques no topo e os produtos
+
+70
+00:01:28,550 --> 00:01:28,560
+tudo, os destaques no topo e os produtos
+ 
+
+71
+00:01:28,560 --> 00:01:31,030
+tudo, os destaques no topo e os produtos
+separados por sessão. O cliente toca no
+
+72
+00:01:31,030 --> 00:01:31,040
+separados por sessão. O cliente toca no
+ 
+
+73
+00:01:31,040 --> 00:01:33,670
+separados por sessão. O cliente toca no
+produto, escreve uma observação, escolhe
+
+74
+00:01:33,670 --> 00:01:33,680
+produto, escreve uma observação, escolhe
+ 
+
+75
+00:01:33,680 --> 00:01:36,030
+produto, escreve uma observação, escolhe
+a quantidade e adiciona ao pedido.
+
+76
+00:01:36,030 --> 00:01:36,040
+a quantidade e adiciona ao pedido.
+ 
+
+77
+00:01:36,040 --> 00:01:38,310
+a quantidade e adiciona ao pedido.
+Pronto, o delivery está no ar, sem
+
+78
+00:01:38,310 --> 00:01:38,320
+Pronto, o delivery está no ar, sem
+ 
+
+79
+00:01:38,320 --> 00:01:42,399
+Pronto, o delivery está no ar, sem
+precisar cadastrar produto por produto.
+

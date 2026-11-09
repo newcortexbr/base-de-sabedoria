@@ -3253,6 +3253,799 @@
         "recebimento e acompanhamento de pedidos (próximo vídeo)",
         "cardápio digital para consulta nas mesas (vídeo Cardápio)"
       ]
+    },
+    {
+      "id": "yyKEWuoi6rA",
+      "titulo": "Painel - Mostrando Todo Painel [Onboarding do Painel Admin]",
+      "resumo": "Mostra um passeio pelo painel do administrador: tráfego do portal, atalhos de criação, pendências que precisam de atenção e o menu lateral com os grupos Conteúdo, Comercial e Sistema. Explica também o suporte com IA no canto da tela, que responde com base no manual, mostra vídeos, guia passo a passo e abre chamado se não resolver.",
+      "perguntas": [
+        "onde fica cada coisa no painel",
+        "para que serve o painel do administrador",
+        "como ver o site como o visitante vê",
+        "como ver quantas visitas o portal teve",
+        "como baixar o relatório de visitas em PDF",
+        "o que significa a linha tracejada no gráfico",
+        "como criar uma notícia ou empresa rapidamente",
+        "onde vejo o que precisa da minha atenção",
+        "onde ficam os links do portal para divulgar",
+        "onde ficam as aprovações e denúncias",
+        "onde fica o menu de notificações push",
+        "como falar com o suporte",
+        "como pedir ajuda para a IA me mostrar na tela",
+        "como falar com uma pessoa do suporte"
+      ],
+      "cobre": [
+        "ver o portal como visitante",
+        "ler os indicadores de tráfego",
+        "escolher o período do tráfego",
+        "baixar o relatório de tráfego em PDF",
+        "ver as seções e páginas mais acessadas",
+        "usar os atalhos de criação",
+        "ver pendências, faturas vencidas e denúncias",
+        "copiar os links do portal",
+        "localizar os grupos do menu lateral",
+        "abrir o suporte com IA",
+        "pedir o passo a passo na tela",
+        "anexar print da tela ao suporte",
+        "abrir chamado para a equipe de suporte",
+        "enviar sugestão de função"
+      ],
+      "telas": [
+        "Painel",
+        "Meus Links",
+        "Aprovações e Denúncias",
+        "menu lateral: grupos Conteúdo, Comercial e Sistema"
+      ],
+      "nao_cobre": [
+        "detalhes de cada seção do menu (há vídeos próprios de cada uma)",
+        "como criar notícia, empresa, vaga, anúncio ou evento",
+        "como configurar planos, financeiro e clientes",
+        "como configurar notificações push e o assistente de IA"
+      ]
+    },
+    {
+      "id": "9iDOUoNMQ-M",
+      "titulo": "Aprovações / Denuncias",
+      "resumo": "Ensina a controlar o que entra no portal: exigir aprovação antes de publicar, ligar a revisão automática por IA (que aprova ou recusa banners, empresas, vagas, eventos, anúncios, relatos e fotos) e permitir denúncias dos visitantes. Mostra como decidir itens que a IA deixou para aprovação e tratar denúncias. Antes, é preciso conectar a conta do ChatGPT em Configurações gerais (pode ser a gratuita).",
+      "perguntas": [
+        "como aprovar o que os clientes enviam",
+        "como fazer o conteúdo esperar minha aprovação",
+        "como ligar a revisão automática por IA",
+        "por que a IA não está revisando",
+        "como ver o que a IA aprovou ou recusou",
+        "por que um item foi recusado",
+        "como aprovar ou recusar um item manualmente",
+        "como ver as denúncias dos visitantes",
+        "como permitir que visitantes denunciem conteúdo",
+        "como resolver ou ignorar uma denúncia",
+        "como bloquear uma empresa denunciada",
+        "como excluir um item denunciado",
+        "quanto tempo a IA me poupou",
+        "como conectar a conta do ChatGPT"
+      ],
+      "cobre": [
+        "conectar a conta do ChatGPT em Configurações gerais",
+        "exigir aprovação antes de publicar",
+        "ligar a revisão automática por IA",
+        "permitir que visitantes denunciem conteúdo",
+        "acompanhar itens aprovados e recusados pela IA",
+        "ver a última decisão de cada tipo de item",
+        "aprovar ou recusar item pendente",
+        "filtrar denúncias por status e módulo",
+        "abrir o detalhe de uma denúncia",
+        "ignorar denúncia",
+        "excluir item denunciado",
+        "bloquear empresa ou conta"
+      ],
+      "telas": [
+        "Aprovações e Denúncias › Itens para aprovar",
+        "Aprovações e Denúncias › Denúncias",
+        "Configurações › Configurações Gerais › Inteligência Artificial"
+      ],
+      "nao_cobre": [
+        "como o morador envia um relato pela Voz do Povo",
+        "gestão das denúncias da Voz do Povo no menu próprio",
+        "como o recusado corrige e reenvia (apenas citado)",
+        "outras configurações do portal"
+      ]
+    },
+    {
+      "id": "bdUesI-EacY",
+      "titulo": "Noticias com IA",
+      "resumo": "Ensina a gerar notícias com IA de duas formas: criar uma matéria agora, a partir de link, vídeo do YouTube ou prints (até 5 de uma vez), ou cadastrar uma fonte fixa, página de jornal que a IA visita todo dia às 7h e às 18h. A notícia fica em rascunho para revisar e só vai ao ar com foto. Antes, é preciso conectar a conta do ChatGPT em Configurações gerais (pode ser a gratuita).",
+      "perguntas": [
+        "como criar uma notícia com IA",
+        "como fazer a IA escrever uma notícia a partir de um link",
+        "como gerar notícia a partir de print",
+        "como gerar notícia de um vídeo do YouTube",
+        "como cadastrar um jornal para trazer notícias todo dia",
+        "por que a notícia da IA não foi publicada",
+        "por que a notícia precisa de foto",
+        "como revisar e publicar a notícia gerada",
+        "quantas notícias a IA traz por dia",
+        "que link devo colocar na fonte fixa",
+        "como ligar ou desligar uma fonte",
+        "como editar ou excluir uma fonte",
+        "como a IA escolhe a categoria",
+        "como conectar a conta do ChatGPT"
+      ],
+      "cobre": [
+        "conectar a conta do ChatGPT em Configurações gerais",
+        "criar matéria agora a partir de link ou prints",
+        "enviar até cinco matérias de uma vez",
+        "deixar a publicação direta desligada",
+        "gerar a matéria com IA",
+        "revisar e publicar a notícia em rascunho",
+        "conferir título, texto, categoria, foto e SEO",
+        "cadastrar fonte fixa de jornal",
+        "escolher categoria ou deixar a IA escolher",
+        "escolher rascunho ou publicar direto",
+        "acompanhar última visita e matérias do dia",
+        "ligar ou desligar fonte",
+        "editar ou excluir fonte"
+      ],
+      "telas": [
+        "Notícias Automáticas › Notícias com IA",
+        "Notícias › Listar Notícias",
+        "Configurações › Configurações Gerais › Inteligência Artificial"
+      ],
+      "nao_cobre": [
+        "como escrever e cadastrar notícia manualmente",
+        "edição detalhada de SEO e categorias de notícias",
+        "outras fontes automáticas além de Notícias com IA",
+        "direitos autorais do conteúdo trazido de outros portais"
+      ]
+    },
+    {
+      "id": "kqrR8OufzHg",
+      "titulo": "Guia Comercial > Delivery com IA",
+      "resumo": "Ensina a montar o cardápio de delivery de uma empresa com IA: enviar foto, print ou PDF (até 5 partes), deixar a IA ler sessões, produtos, descrições e preços, corrigir e publicar. Mostra também o resultado na loja do site. A IA só copia o que está escrito. Antes, é preciso conectar a conta do ChatGPT em Configurações gerais (pode ser a gratuita).",
+      "perguntas": [
+        "como montar o cardápio de delivery com IA",
+        "como cadastrar os produtos do delivery sem digitar um por um",
+        "como enviar a foto do cardápio",
+        "posso enviar PDF do cardápio",
+        "quantas fotos do cardápio posso enviar",
+        "como corrigir um produto lido pela IA",
+        "como marcar um produto como mais pedido",
+        "preciso colocar foto nos produtos",
+        "como publicar o cardápio de delivery",
+        "como adicionar tamanhos e adicionais ao produto",
+        "como o cliente faz o pedido no delivery",
+        "por que o botão criar com IA não aparece",
+        "como conectar a conta do ChatGPT"
+      ],
+      "cobre": [
+        "conectar a conta do ChatGPT em Configurações gerais",
+        "abrir o cardápio de delivery da empresa",
+        "criar o cardápio com IA",
+        "enviar foto, print ou PDF em até cinco partes",
+        "ler o cardápio com IA",
+        "corrigir produtos e marcar selos",
+        "publicar o cardápio",
+        "editar produto, foto, disponibilidade e destaque",
+        "configurar grupos de opções como tamanhos e adicionais",
+        "ver a loja de delivery no site"
+      ],
+      "telas": [
+        "Guia Comercial › Listar Empresas › (empresa) › Conteúdo da ficha › Cardápio do delivery",
+        "Configurações › Configurações Gerais › Inteligência Artificial"
+      ],
+      "nao_cobre": [
+        "como ativar o delivery na categoria da empresa",
+        "cardápio digital do restaurante sem delivery (vídeo próprio)",
+        "gestão dos pedidos recebidos",
+        "pagamento e entrega"
+      ]
+    },
+    {
+      "id": "EJgCJ-PNpdE",
+      "titulo": "Guia Comercial > Cardápio com IA",
+      "resumo": "Ensina a montar o cardápio digital de um restaurante com IA: enviar foto, print do site ou iFood, ou PDF (até 5 partes), deixar a IA ler e organizar sessões, pratos e preços, corrigir e publicar. Se a empresa já tinha cardápio, é possível adicionar ao existente (recomendado) ou substituir tudo. Antes, é preciso conectar a conta do ChatGPT em Configurações gerais (pode ser a gratuita).",
+      "perguntas": [
+        "como montar o cardápio de um restaurante com IA",
+        "como cadastrar os pratos sem digitar um por um",
+        "como enviar o cardápio por foto",
+        "posso enviar print do iFood",
+        "posso enviar PDF do cardápio",
+        "quantas partes posso enviar",
+        "como corrigir nome, descrição ou preço de um prato",
+        "como colocar preço promocional",
+        "como marcar um prato como mais pedido",
+        "como adicionar foto aos pratos",
+        "o que acontece se a empresa já tem cardápio",
+        "como publicar o cardápio",
+        "como o cliente vê o cardápio pelo QR code",
+        "como conectar a conta do ChatGPT"
+      ],
+      "cobre": [
+        "conectar a conta do ChatGPT em Configurações gerais",
+        "abrir o cardápio da empresa",
+        "criar o cardápio com IA",
+        "enviar foto, print ou PDF em até cinco partes",
+        "ler o cardápio com IA",
+        "enviar foto de cada prato",
+        "corrigir nome, descrição e preço",
+        "colocar preço promocional",
+        "marcar selos como mais pedido",
+        "publicar o cardápio",
+        "adicionar ao cardápio existente ou substituir tudo",
+        "editar pratos depois"
+      ],
+      "telas": [
+        "Guia Comercial › Listar Empresas › (empresa) › Conteúdo da ficha › Cardápio",
+        "Configurações › Configurações Gerais › Inteligência Artificial"
+      ],
+      "nao_cobre": [
+        "como ativar o cardápio na categoria da empresa",
+        "cardápio de delivery com pedidos (vídeo próprio)",
+        "como gerar ou imprimir o QR code (apenas citado)",
+        "cadastro da ficha da empresa"
+      ]
+    },
+    {
+      "id": "RHZCX5t9l8M",
+      "titulo": "Vagas de Emprego > Geral",
+      "resumo": "Mostra a tela de listagem das vagas de emprego do portal: ver todas as vagas com cargo, empresa, área, local, contrato, cliques no WhatsApp e status, buscar e filtrar, mudar o status com um clique, ver insights, editar e excluir. Tudo que está ativo aparece na página de vagas do site. Excluir apaga a vaga de vez, com confirmação.",
+      "perguntas": [
+        "como ver todas as vagas do portal",
+        "como buscar uma vaga pelo cargo",
+        "como filtrar vagas por área",
+        "como filtrar vagas ativas, pausadas ou encerradas",
+        "como pausar uma vaga",
+        "como encerrar uma vaga",
+        "como reativar uma vaga",
+        "como editar uma vaga",
+        "como excluir uma vaga",
+        "como ver o desempenho de uma vaga",
+        "como saber quantos clicaram no WhatsApp da vaga",
+        "como as empresas cadastram as próprias vagas",
+        "como mandar o link de cadastro de vagas pelo WhatsApp",
+        "o que é vaga urgente ou em destaque"
+      ],
+      "cobre": [
+        "abrir a lista de vagas",
+        "copiar o link de cadastro gratuito para empresas",
+        "enviar o link pelo WhatsApp",
+        "ver cargo, empresa, área, local, contrato e cliques",
+        "identificar vagas urgentes e em destaque",
+        "buscar vaga pelo cargo",
+        "filtrar por área e por status",
+        "mudar o status da vaga com um clique",
+        "ver insights da vaga",
+        "editar vaga",
+        "excluir vaga com confirmação"
+      ],
+      "telas": [
+        "Vagas de Emprego › Listar Vagas"
+      ],
+      "nao_cobre": [
+        "como cadastrar uma nova vaga (apenas o atalho é citado)",
+        "gerenciar as áreas de vagas (apenas o atalho é citado)",
+        "buscar vagas com IA (vídeo próprio)",
+        "como o candidato vê e se candidata à vaga"
+      ]
+    },
+    {
+      "id": "LiE5x7SNeNE",
+      "titulo": "Buscar Vagas com IA",
+      "resumo": "Ensina a usar a IA para buscar vagas abertas na cidade e criar as fichas em rascunho: conectar a conta do ChatGPT (pode ser a gratuita), escolher a cidade, marcar as vagas e revisar cada ficha antes de ativar. Como a IA pesquisa na internet, é preciso conferir empresa, dados, salário e link de candidatura antes de publicar.",
+      "perguntas": [
+        "como buscar vagas com IA",
+        "como criar vagas automaticamente",
+        "quantas vagas a IA sugere de uma vez",
+        "de onde a IA tira as vagas",
+        "como revisar as vagas criadas pela IA",
+        "por que as vagas aparecem como pausadas",
+        "como publicar uma vaga criada pela IA",
+        "como marcar todas as vagas sugeridas",
+        "o que é publicar direto",
+        "como funciona o botão candidatar-se da vaga",
+        "por que preciso conferir as vagas da IA",
+        "como conectar o ChatGPT no painel",
+        "precisa de conta paga do ChatGPT para buscar vagas"
+      ],
+      "cobre": [
+        "conectar a conta do ChatGPT em configurações gerais",
+        "abrir a busca de vagas com IA",
+        "escolher a cidade da busca",
+        "buscar vagas",
+        "marcar vagas uma a uma",
+        "marcar todas as vagas",
+        "deixar publicar direto desligado",
+        "criar as fichas das vagas",
+        "editar vaga em rascunho",
+        "conferir empresa, salário e link de candidatura",
+        "mudar o status para ativa",
+        "salvar alterações"
+      ],
+      "telas": [
+        "Vagas de Emprego › Buscar Vagas com IA",
+        "Vagas de Emprego › Listar Vagas",
+        "Configurações › Configurações Gerais › Inteligência Artificial"
+      ],
+      "nao_cobre": [
+        "cadastro manual de uma vaga do zero",
+        "banco de currículos",
+        "planos de vagas das empresas",
+        "configuração técnica do modelo de IA"
+      ]
+    },
+    {
+      "id": "DQX-d19ZEMQ",
+      "titulo": "Banco de Curriculo com IA",
+      "resumo": "Explica de onde vêm os currículos do banco de talentos (a pessoa monta no portal, de graça e sem conta, e autoriza o cadastro) e como usá-lo no painel: buscar, filtrar, abrir o currículo, chamar no WhatsApp ou e-mail, baixar PDF, remover do banco e exportar para Excel. Remover tira o currículo na hora e avisa a pessoa por e-mail.",
+      "perguntas": [
+        "como ver os currículos cadastrados",
+        "como funciona o banco de currículos",
+        "de onde vêm os currículos do banco",
+        "como buscar um currículo por habilidade",
+        "como filtrar currículos por cidade",
+        "como filtrar currículos por escolaridade",
+        "como chamar um candidato no WhatsApp",
+        "como baixar o currículo em PDF",
+        "como exportar os currículos para Excel",
+        "como remover um currículo do banco",
+        "a pessoa é avisada quando o currículo é removido",
+        "como a pessoa monta o currículo no site",
+        "precisa criar conta para montar o currículo",
+        "as empresas podem ver o banco de currículos"
+      ],
+      "cobre": [
+        "abrir o banco de currículos",
+        "ver quantos currículos estão no banco",
+        "buscar por nome, cargo ou habilidade",
+        "filtrar por cargo, cidade e escolaridade",
+        "abrir o currículo completo",
+        "chamar a pessoa no WhatsApp",
+        "mandar e-mail para a pessoa",
+        "baixar o currículo em PDF",
+        "remover currículo do banco",
+        "exportar currículos para Excel",
+        "ver a data de entrada e a autorização da pessoa"
+      ],
+      "telas": [
+        "Vagas de Emprego › Banco de currículos"
+      ],
+      "nao_cobre": [
+        "cadastro e edição das vagas",
+        "buscar vagas com IA",
+        "como a empresa com plano de vagas consulta o banco (apenas citado)",
+        "detalhes de cada etapa do montador de currículo (mostrado só em resumo)"
+      ]
+    },
+    {
+      "id": "5eBncjc18eM",
+      "titulo": "Pontos Turisticos com IA",
+      "resumo": "Ensina a usar a IA para criar pontos turísticos: conectar a conta do ChatGPT (pode ser a gratuita), escolher a cidade, marcar as sugestões e criar. A IA escreve o texto, busca fotos na internet e acha o endereço no mapa; os pontos ficam em rascunho até a revisão e o ativo. As fotos vêm da internet com o site de origem no crédito, então vale conferir tudo.",
+      "perguntas": [
+        "como criar pontos turísticos com IA",
+        "como a IA escolhe os pontos turísticos",
+        "como marcar quais pontos criar",
+        "de onde vêm as fotos dos pontos turísticos",
+        "como revisar um ponto turístico criado pela IA",
+        "por que o ponto turístico ficou em rascunho",
+        "como publicar o ponto turístico no site",
+        "o que é publicar direto",
+        "como conferir o endereço e o horário do ponto",
+        "como o ponto ganha mapa e descrição",
+        "como conectar o ChatGPT no painel",
+        "precisa de ChatGPT pago para criar pontos"
+      ],
+      "cobre": [
+        "conectar a conta do ChatGPT em configurações gerais",
+        "abrir criar pontos com IA",
+        "escolher a cidade",
+        "buscar sugestões de pontos",
+        "marcar os pontos que quer criar",
+        "deixar publicar direto desligado",
+        "criar os pontos",
+        "revisar e publicar um ponto",
+        "conferir foto principal, nome, categoria, descrição e tags",
+        "conferir endereço, horários e galeria",
+        "marcar ativo e salvar alterações"
+      ],
+      "telas": [
+        "Guia Turístico / Eventos › Criar Pontos com IA",
+        "Guia Turístico / Eventos › Pontos Turísticos",
+        "Configurações › Configurações Gerais › Inteligência Artificial"
+      ],
+      "nao_cobre": [
+        "cadastro manual de um ponto turístico",
+        "criação de roteiros",
+        "cadastro de eventos",
+        "troca manual das fotos ou da galeria (não é mostrada)"
+      ]
+    },
+    {
+      "id": "DZBY11ozvNI",
+      "titulo": "Roteiros com IA",
+      "resumo": "Ensina a criar roteiros turísticos com IA por dois caminhos: a partir de um ponto já cadastrado, escolhendo a duração, ou buscando roteiros reais na internet (até 12 opções com a fonte). No primeiro, as outras paradas vêm só dos pontos cadastrados no portal. O roteiro nasce em rascunho e só aparece no site depois de revisar, marcar ativo e salvar.",
+      "perguntas": [
+        "como criar roteiros com IA",
+        "como criar um roteiro a partir de um ponto turístico",
+        "como buscar roteiros na internet",
+        "qual a duração do roteiro que posso escolher",
+        "de onde vêm as paradas do roteiro",
+        "a IA inventa lugares no roteiro",
+        "quantos roteiros a IA traz na busca da internet",
+        "como revisar um roteiro criado pela IA",
+        "por que o roteiro ficou em rascunho",
+        "como publicar o roteiro no site",
+        "o que é publicar direto",
+        "como conectar o ChatGPT no painel"
+      ],
+      "cobre": [
+        "conectar a conta do ChatGPT em configurações gerais",
+        "abrir criar roteiros com IA",
+        "criar roteiro a partir de um ponto cadastrado",
+        "escolher meio-dia, um dia ou dois dias",
+        "deixar publicar direto desligado",
+        "buscar roteiros na internet",
+        "marcar os roteiros que quer criar",
+        "abrir o roteiro para revisar",
+        "conferir textos, capa, galeria e ordem das paradas",
+        "marcar ativo e salvar"
+      ],
+      "telas": [
+        "Guia Turístico / Eventos › Criar Roteiros com IA",
+        "Guia Turístico / Eventos › Roteiros",
+        "Configurações › Configurações Gerais › Inteligência Artificial"
+      ],
+      "nao_cobre": [
+        "cadastro manual de roteiros",
+        "criação de pontos turísticos (vídeo próprio)",
+        "cadastro de eventos",
+        "como o visitante segue o roteiro no site (apenas citado)"
+      ]
+    },
+    {
+      "id": "DuG-WH77BsU",
+      "titulo": "A Voz do Povo > Geral",
+      "resumo": "Explica o canal A Voz do Povo: o morador envia o relato pelo site (texto ou áudio, até anônimo) e no painel a redação vê as denúncias, abre os detalhes e decide: aprovar e publicar no mural, tirar do mural ou gerar notícia com IA. O WhatsApp de quem enviou é só para a redação e nunca aparece no mural.",
+      "perguntas": [
+        "como ver as denúncias recebidas",
+        "como funciona A Voz do Povo",
+        "como o morador faz uma denúncia",
+        "a denúncia pode ser anônima",
+        "como publicar uma denúncia no mural",
+        "como tirar uma denúncia do mural",
+        "como colocar a denúncia em análise",
+        "como arquivar uma denúncia",
+        "como filtrar denúncias por situação",
+        "como ver as fotos e o vídeo da denúncia",
+        "como chamar quem enviou a denúncia no WhatsApp",
+        "o WhatsApp do morador aparece no site",
+        "como editar o título de uma denúncia",
+        "o que significa também me afeta"
+      ],
+      "cobre": [
+        "abrir a lista de denúncias",
+        "filtrar por recebidas, em análise, resolvidas, arquivadas ou todas",
+        "colocar denúncia em análise",
+        "arquivar denúncia",
+        "abrir ver detalhes",
+        "ver relato, fotos, vídeo, local e data",
+        "chamar quem enviou no WhatsApp",
+        "editar o título da denúncia",
+        "aprovar e publicar no mural",
+        "tirar do mural",
+        "entender a situação interna da denúncia"
+      ],
+      "telas": [
+        "A Voz do Povo › Denúncias"
+      ],
+      "nao_cobre": [
+        "transformar a denúncia em notícia com IA (vídeo próprio)",
+        "cadastro de telefones úteis (apenas citado)",
+        "edição das linhas de ônibus (apenas citada)",
+        "passo a passo do morador no site (apenas descrito)"
+      ]
+    },
+    {
+      "id": "SY2cR27a5VM",
+      "titulo": "A Voz do Povo > Denuncias viram Noticias com IA",
+      "resumo": "Ensina a transformar uma denúncia da Voz do Povo em notícia com IA em menos de 1 minuto: conectar a conta do ChatGPT (pode ser a gratuita), abrir ver detalhes da denúncia e gerar a notícia como rascunho (recomendado) ou publicada direto. O nome e o WhatsApp de quem relatou não entram na matéria e a IA não inventa fatos fora do relato.",
+      "perguntas": [
+        "como transformar uma denúncia em notícia",
+        "como gerar notícia com IA a partir de uma denúncia",
+        "quanto tempo leva para gerar a notícia",
+        "o nome de quem denunciou aparece na notícia",
+        "a IA inventa informações na notícia",
+        "devo salvar como rascunho ou publicar direto",
+        "como revisar a notícia gerada",
+        "como publicar a notícia gerada",
+        "como gerar outra versão da notícia",
+        "onde fica o link da notícia gerada",
+        "como conectar o ChatGPT no painel",
+        "precisa de ChatGPT pago para gerar a notícia"
+      ],
+      "cobre": [
+        "conectar a conta do ChatGPT em configurações gerais",
+        "abrir ver detalhes da denúncia",
+        "clicar em gerar notícia com IA",
+        "escolher salvar como rascunho ou publicar direto",
+        "gerar a matéria",
+        "abrir a notícia no editor de notícias para revisar",
+        "publicar a notícia",
+        "ver o link da notícia na denúncia",
+        "gerar outra versão"
+      ],
+      "telas": [
+        "A Voz do Povo › Denúncias › Ver detalhes › O que fazer com esta denúncia",
+        "Configurações › Configurações Gerais › Inteligência Artificial"
+      ],
+      "nao_cobre": [
+        "receber e filtrar denúncias (vídeo A Voz do Povo)",
+        "aprovar e publicar a denúncia no mural",
+        "uso do editor de notícias em detalhe",
+        "cadastro de telefones úteis e linhas de ônibus"
+      ]
+    },
+    {
+      "id": "QtSKTSX258E",
+      "titulo": "Configuraçoes > Conectar Chat GPT",
+      "resumo": "Ensina a conectar a conta do ChatGPT do portal, uma única vez, para liberar as funções com IA do painel: assistente do site, aprovação automática, leitura de fotos do radar e botões criar com IA. Pode ser conta gratuita, sem custo da plataforma; o processo tem um passo prévio de segurança no próprio ChatGPT e, em conta de empresa, pode exigir o administrador da conta.",
+      "perguntas": [
+        "como conectar o ChatGPT ao painel",
+        "por que o painel mostra um aviso de IA desligada",
+        "preciso pagar para conectar o ChatGPT",
+        "posso usar a conta gratuita do ChatGPT",
+        "onde fica a configuração de inteligência artificial",
+        "o que é o código de dispositivo do ChatGPT",
+        "como ativar o login com código de dispositivo",
+        "o botão criar com IA não funciona, o que fazer",
+        "como ver quanto do plano da IA já foi usado",
+        "como testar se a conexão com o ChatGPT continua funcionando",
+        "como trocar a conta do ChatGPT conectada",
+        "como desconectar o ChatGPT",
+        "e se a conta do ChatGPT for de empresa"
+      ],
+      "cobre": [
+        "conectar a conta do ChatGPT ao portal",
+        "chegar à tela pelo botão conectar agora do aviso",
+        "chegar à tela pelo menu Configurações",
+        "ver o passo a passo em oito passos",
+        "ativar login com código de dispositivo no ChatGPT",
+        "entrar com o ChatGPT pelo painel",
+        "digitar ou colar o código na janela da OpenAI",
+        "ver conta, plano e uso dos últimos 30 dias",
+        "testar de novo a conexão",
+        "desconectar a conta"
+      ],
+      "telas": [
+        "Configurações › Configurações Gerais › Inteligência Artificial",
+        "aviso no topo do painel › Conectar agora"
+      ],
+      "nao_cobre": [
+        "como usar cada função com IA depois de conectada",
+        "criar conta no ChatGPT ou contratar plano pago",
+        "cadastrar instituições com IA (vídeo próprio)",
+        "ligar ou desligar o assistente de IA no site (vídeo Assistente de IA)"
+      ]
+    },
+    {
+      "id": "L34LwSBIE_o",
+      "titulo": "Vídeo Externo Página > Gerador de Curriculo",
+      "resumo": "Mostra como o visitante monta um currículo com ajuda de IA no portal, de graça e sem criar conta: reformular um currículo antigo (texto, foto ou PDF) ou criar do zero, uma pergunta por vez, e baixar o PDF. Também apresenta o banco de talentos, onde o currículo pode ser cadastrado para as empresas da região encontrarem a pessoa.",
+      "perguntas": [
+        "como fazer um currículo no portal",
+        "preciso criar conta para fazer o currículo",
+        "o gerador de currículo é grátis",
+        "como melhorar um currículo antigo",
+        "posso enviar foto ou PDF do meu currículo",
+        "como colocar foto no currículo",
+        "que tipo de foto usar no currículo",
+        "o que escrever no objetivo do currículo",
+        "não sei o que escrever no currículo, a IA ajuda",
+        "e se for meu primeiro emprego",
+        "como baixar o currículo em PDF",
+        "como escolher o modelo e a cor do currículo",
+        "o que é o banco de talentos",
+        "como as empresas encontram meu currículo"
+      ],
+      "cobre": [
+        "reformular currículo antigo com IA colando texto, foto ou PDF",
+        "criar currículo do zero",
+        "informar nome, telefone e e-mail",
+        "colocar foto no currículo",
+        "preencher endereço pelo CEP",
+        "melhorar o objetivo com IA",
+        "conversar com a IA para ela escrever o objetivo",
+        "descrever a experiência com cargo e empresa",
+        "pular a experiência no primeiro emprego",
+        "informar escolaridade, habilidades e idiomas com sugestões da IA",
+        "escolher modelo e cor",
+        "baixar o PDF",
+        "cadastrar o currículo no banco de talentos"
+      ],
+      "telas": [
+        "site do portal › Vagas › gerador de currículo (sem login)",
+        "Cadastrar no banco de talentos"
+      ],
+      "nao_cobre": [
+        "como a empresa busca e chama candidatos no banco de currículos (vídeo Tutorial Empresa Banco de Currículos)",
+        "como se candidatar a uma vaga anunciada",
+        "plano de vagas das empresas"
+      ]
+    },
+    {
+      "id": "HCiIpF3Ojb8",
+      "titulo": "Projetos Sociais > Configurações",
+      "resumo": "Ensina o administrador a cadastrar instituições de caridade com IA: escolher a cidade, buscar sugestões, marcar as que quer criar e deixar as fichas como rascunho para revisar e publicar. Exige a conta do ChatGPT conectada e recomenda conferir contatos e fotos antes de publicar, pois a IA avisa o que não encontrou.",
+      "perguntas": [
+        "como cadastrar instituições de caridade com IA",
+        "como a IA encontra as instituições da cidade",
+        "a instituição já cadastrada aparece de novo na busca",
+        "o que é publicar direto",
+        "como revisar a ficha antes de publicar",
+        "por que a ficha ficou em rascunho",
+        "como publicar uma instituição no site",
+        "posso publicar pela lista de instituições",
+        "a IA não encontrou o telefone ou a foto, e agora",
+        "o que a IA preenche na ficha da instituição",
+        "como confiro se os contatos da instituição estão certos",
+        "preciso conectar o ChatGPT para cadastrar com IA"
+      ],
+      "cobre": [
+        "conectar o ChatGPT em Configurações Gerais",
+        "abrir Doações e clicar em cadastrar com IA",
+        "escolher a cidade e buscar sugestões",
+        "ver causa, resumo e fonte de cada sugestão",
+        "marcar as instituições a criar",
+        "manter publicar direto desligado",
+        "criar as fichas em rascunho",
+        "ler o aviso do que a IA não encontrou",
+        "revisar dados e fotos",
+        "publicar no site pela ficha",
+        "publicar pelo botão na lista de instituições"
+      ],
+      "telas": [
+        "Doações › Cadastrar com IA",
+        "Doações › Instituições",
+        "Configurações › Configurações Gerais › Inteligência Artificial"
+      ],
+      "nao_cobre": [
+        "passo a passo da conexão do ChatGPT (vídeo Conectar ChatGPT)",
+        "cadastro manual de instituição sem IA",
+        "como o visitante faz uma doação",
+        "editar campo por campo a ficha da instituição"
+      ]
+    },
+    {
+      "id": "K6R1t4IICiE",
+      "titulo": "Área da Empresa > Vagas > Banco de Curriculos",
+      "resumo": "Do ponto de vista da empresa parceira, mostra como usar o banco de currículos para achar candidatos da cidade sem esperar inscrição na vaga: buscar, filtrar, abrir o currículo completo, baixar o PDF e chamar pelo WhatsApp ou e-mail. Fica liberado só para empresas com plano de vagas ativo.",
+      "perguntas": [
+        "como encontrar candidatos sem anunciar vaga",
+        "o que é o banco de currículos",
+        "preciso de plano para usar o banco de currículos",
+        "como buscar um candidato por cargo",
+        "como filtrar candidatos por cidade",
+        "como filtrar por escolaridade",
+        "como limpar os filtros do banco de currículos",
+        "como ver o currículo completo de um candidato",
+        "como baixar o currículo em PDF",
+        "como chamar o candidato no WhatsApp",
+        "como mandar e-mail para o candidato",
+        "de onde vêm os currículos do banco",
+        "que informações aparecem no cartão do candidato",
+        "por que o banco de currículos não mostra candidatos"
+      ],
+      "cobre": [
+        "abrir Banco de Currículos no menu da conta",
+        "ler a explicação no ponto de interrogação",
+        "buscar por nome, cargo ou habilidade",
+        "filtrar por cargo, cidade e escolaridade",
+        "limpar filtros",
+        "abrir o currículo completo pelo ícone do olho",
+        "baixar o currículo em PDF",
+        "chamar no WhatsApp",
+        "enviar e-mail ao candidato",
+        "voltar para o banco"
+      ],
+      "telas": [
+        "menu da esquerda › Banco de currículos (logo abaixo de Vagas de Emprego)"
+      ],
+      "nao_cobre": [
+        "como anunciar uma vaga e contratar o plano de vagas",
+        "como a pessoa monta o currículo (Gerador de Currículo)",
+        "receber e gerir candidaturas a uma vaga",
+        "mensagens ou modelo de contato com o candidato"
+      ]
+    },
+    {
+      "id": "LtfCy1AgVLc",
+      "titulo": "Área da Empresa > Guia > Delivery com IA",
+      "resumo": "Do ponto de vista da empresa, ensina a montar o cardápio do delivery enviando foto, print ou PDF (até cinco partes) para a IA organizar sessões, produtos, descrições e preços, conferir e publicar. Mostra também a edição de produto e as abas de entrega e pagamento e de área atendida; pedidos de fora da área são recusados.",
+      "perguntas": [
+        "como montar o cardápio do delivery com IA",
+        "como cadastrar produtos do delivery sem digitar um por um",
+        "posso mandar foto do cardápio",
+        "posso enviar PDF do cardápio do delivery",
+        "quantas fotos ou partes posso enviar",
+        "quanto tempo a IA leva para ler o cardápio",
+        "como corrigir um produto lido errado",
+        "como marcar um produto como mais pedido",
+        "como publicar o cardápio sem apagar o que já tenho",
+        "como colocar foto em um produto",
+        "como tirar um produto do ar sem apagar",
+        "onde configuro a taxa de entrega e o pedido mínimo",
+        "como escolher as cidades e bairros que atendo",
+        "como ligar ou desligar o recebimento de pedidos do delivery"
+      ],
+      "cobre": [
+        "abrir Guia Comercial e Páginas da sua empresa",
+        "configurar o cardápio do delivery",
+        "ligar receber pedidos pelo delivery do portal",
+        "enviar foto, print ou PDF em até cinco partes",
+        "ler cardápio com IA",
+        "conferir sessões, produtos, descrições e preços",
+        "corrigir produto ou marcar como mais pedido",
+        "publicar cardápio adicionando ao que já tem",
+        "editar produto: foto, sessão, destaque, tirar do ar",
+        "definir WhatsApp de pedidos, taxa, pedido mínimo, tempo e formas de pagamento",
+        "escolher cidades e bairros atendidos",
+        "ver como o cliente faz o pedido no site"
+      ],
+      "telas": [
+        "Guia Comercial › Páginas da sua empresa › Cardápio do delivery › Configurar",
+        "Configurar delivery › Criar com IA",
+        "Configurar delivery › Entrega e pagamento",
+        "Configurar delivery › Onde entrego"
+      ],
+      "nao_cobre": [
+        "cardápio de restaurante para consulta e QR code (vídeo Cardápio com IA)",
+        "como o administrador libera o delivery para a categoria",
+        "conectar ou pagar o ChatGPT (a IA já vem pronta para a empresa)",
+        "acompanhamento de entregas e pagamento online"
+      ]
+    },
+    {
+      "id": "xPjOf4448-U",
+      "titulo": "Área da Empresa > Guia > Cardápio com IA",
+      "resumo": "Do ponto de vista da empresa, ensina a colocar o cardápio do restaurante no portal enviando foto, print do site ou iFood, ou PDF (até cinco partes); a IA só copia o que está escrito. Mostra conferir, editar prato (preço, promoção, selos), publicar adicionando ao cardápio existente e usar o QR code do cardápio.",
+      "perguntas": [
+        "como colocar o cardápio do restaurante no portal",
+        "como fazer o cardápio com IA",
+        "posso usar foto do cardápio impresso",
+        "posso usar print do iFood",
+        "posso enviar o cardápio em PDF",
+        "quantas páginas do cardápio posso enviar",
+        "a IA inventa pratos ou preços",
+        "quanto tempo demora para ler o cardápio",
+        "como colocar foto nos pratos",
+        "como editar nome, descrição e preço de um prato",
+        "como colocar preço de promoção",
+        "como marcar um prato como mais pedido",
+        "como publicar sem perder o cardápio que já tenho",
+        "onde pego o QR code do cardápio"
+      ],
+      "cobre": [
+        "abrir Guia Comercial e Páginas da sua empresa",
+        "gerenciar o cardápio",
+        "criar com IA",
+        "enviar foto, print ou PDF, uma parte por vez, até cinco partes",
+        "ler cardápio com IA",
+        "conferir pratos por sessão, descrição e preço",
+        "colocar foto em cada prato",
+        "editar nome, descrição e preço",
+        "colocar preço de promoção",
+        "marcar selos como mais pedido",
+        "salvar o prato",
+        "publicar cardápio adicionando ao que já tem",
+        "usar o QR code do cardápio"
+      ],
+      "telas": [
+        "Guia Comercial › Páginas da sua empresa › Cardápio › Gerenciar",
+        "Cardápio › Criar com IA"
+      ],
+      "nao_cobre": [
+        "cardápio do delivery, taxa de entrega e área atendida (vídeo Delivery com IA)",
+        "como o administrador libera o cardápio para a categoria",
+        "editar a ficha geral da empresa",
+        "pedidos online dos clientes"
+      ]
     }
   ]
 }

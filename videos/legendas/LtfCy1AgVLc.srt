@@ -1,0 +1,435 @@
+1
+00:00:00,120 --> 00:00:02,430
+ 
+Com o delivery com IA, você monta o
+
+2
+00:00:02,430 --> 00:00:02,440
+Com o delivery com IA, você monta o
+ 
+
+3
+00:00:02,440 --> 00:00:04,349
+Com o delivery com IA, você monta o
+cardápio da sua loja de delivery em
+
+4
+00:00:04,349 --> 00:00:04,359
+cardápio da sua loja de delivery em
+ 
+
+5
+00:00:04,359 --> 00:00:06,749
+cardápio da sua loja de delivery em
+poucos minutos, manda uma foto e a
+
+6
+00:00:06,749 --> 00:00:06,759
+poucos minutos, manda uma foto e a
+ 
+
+7
+00:00:06,759 --> 00:00:08,549
+poucos minutos, manda uma foto e a
+inteligência artificial cadastra os
+
+8
+00:00:08,549 --> 00:00:08,559
+inteligência artificial cadastra os
+ 
+
+9
+00:00:08,559 --> 00:00:11,350
+inteligência artificial cadastra os
+produtos. Na sua conta, clique em guia
+
+10
+00:00:11,350 --> 00:00:11,360
+produtos. Na sua conta, clique em guia
+ 
+
+11
+00:00:11,360 --> 00:00:13,669
+produtos. Na sua conta, clique em guia
+comercial e desça até páginas da sua
+
+12
+00:00:13,669 --> 00:00:13,679
+comercial e desça até páginas da sua
+ 
+
+13
+00:00:13,679 --> 00:00:16,390
+comercial e desça até páginas da sua
+empresa. No quadro cardápio do delivery,
+
+14
+00:00:16,390 --> 00:00:16,400
+empresa. No quadro cardápio do delivery,
+ 
+
+15
+00:00:16,400 --> 00:00:19,429
+empresa. No quadro cardápio do delivery,
+clique em configurar. Aqui você cuida da
+
+16
+00:00:19,429 --> 00:00:19,439
+clique em configurar. Aqui você cuida da
+ 
+
+17
+00:00:19,439 --> 00:00:22,070
+clique em configurar. Aqui você cuida da
+sua loja de delivery. A chave receber
+
+18
+00:00:22,070 --> 00:00:22,080
+sua loja de delivery. A chave receber
+ 
+
+19
+00:00:22,080 --> 00:00:24,470
+sua loja de delivery. A chave receber
+pedidos pelo delivery do portal mantém o
+
+20
+00:00:24,470 --> 00:00:24,480
+pedidos pelo delivery do portal mantém o
+ 
+
+21
+00:00:24,480 --> 00:00:26,550
+pedidos pelo delivery do portal mantém o
+botão de pedido ligado na página da sua
+
+22
+00:00:26,550 --> 00:00:26,560
+botão de pedido ligado na página da sua
+ 
+
+23
+00:00:26,560 --> 00:00:28,750
+botão de pedido ligado na página da sua
+empresa. Para cadastrar os produtos com
+
+24
+00:00:28,750 --> 00:00:28,760
+empresa. Para cadastrar os produtos com
+ 
+
+25
+00:00:28,760 --> 00:00:32,310
+empresa. Para cadastrar os produtos com
+a IA, clique em criar com IA. Envie a
+
+26
+00:00:32,310 --> 00:00:32,320
+a IA, clique em criar com IA. Envie a
+ 
+
+27
+00:00:32,320 --> 00:00:35,190
+a IA, clique em criar com IA. Envie a
+foto, o print ou o PDF do seu cardápio
+
+28
+00:00:35,190 --> 00:00:35,200
+foto, o print ou o PDF do seu cardápio
+ 
+
+29
+00:00:35,200 --> 00:00:37,750
+foto, o print ou o PDF do seu cardápio
+até cinco partes e clique em ler
+
+30
+00:00:37,750 --> 00:00:37,760
+até cinco partes e clique em ler
+ 
+
+31
+00:00:37,760 --> 00:00:40,910
+até cinco partes e clique em ler
+cardápio com IA. Em menos de 1 minuto, a
+
+32
+00:00:40,910 --> 00:00:40,920
+cardápio com IA. Em menos de 1 minuto, a
+ 
+
+33
+00:00:40,920 --> 00:00:43,430
+cardápio com IA. Em menos de 1 minuto, a
+IA organiza as sessões, os produtos, as
+
+34
+00:00:43,430 --> 00:00:43,440
+IA organiza as sessões, os produtos, as
+ 
+
+35
+00:00:43,440 --> 00:00:46,470
+IA organiza as sessões, os produtos, as
+descrições e os preços. Confira tudo.
+
+36
+00:00:46,470 --> 00:00:46,480
+descrições e os preços. Confira tudo.
+ 
+
+37
+00:00:46,480 --> 00:00:48,510
+descrições e os preços. Confira tudo.
+Clique em um produto para corrigir ou
+
+38
+00:00:48,510 --> 00:00:48,520
+Clique em um produto para corrigir ou
+ 
+
+39
+00:00:48,520 --> 00:00:51,229
+Clique em um produto para corrigir ou
+marcar como mais pedido e depois clique
+
+40
+00:00:51,229 --> 00:00:51,239
+marcar como mais pedido e depois clique
+ 
+
+41
+00:00:51,239 --> 00:00:53,910
+marcar como mais pedido e depois clique
+em publicar cardápio. Se a sua loja já
+
+42
+00:00:53,910 --> 00:00:53,920
+em publicar cardápio. Se a sua loja já
+ 
+
+43
+00:00:53,920 --> 00:00:56,510
+em publicar cardápio. Se a sua loja já
+tinha produtos, deixe marcado adicionar
+
+44
+00:00:56,510 --> 00:00:56,520
+tinha produtos, deixe marcado adicionar
+ 
+
+45
+00:00:56,520 --> 00:00:59,069
+tinha produtos, deixe marcado adicionar
+ao que já tem e clique em publicar.
+
+46
+00:00:59,069 --> 00:00:59,079
+ao que já tem e clique em publicar.
+ 
+
+47
+00:00:59,079 --> 00:01:01,630
+ao que já tem e clique em publicar.
+Pronto, os produtos novos já estão no
+
+48
+00:01:01,630 --> 00:01:01,640
+Pronto, os produtos novos já estão no
+ 
+
+49
+00:01:01,640 --> 00:01:03,709
+Pronto, os produtos novos já estão no
+seu cardápio do delivery. Clique em
+
+50
+00:01:03,709 --> 00:01:03,719
+seu cardápio do delivery. Clique em
+ 
+
+51
+00:01:03,719 --> 00:01:06,149
+seu cardápio do delivery. Clique em
+editar para completar cada produto.
+
+52
+00:01:06,149 --> 00:01:06,159
+editar para completar cada produto.
+ 
+
+53
+00:01:06,159 --> 00:01:08,469
+editar para completar cada produto.
+Coloque uma foto, escolha a sessão,
+
+54
+00:01:08,469 --> 00:01:08,479
+Coloque uma foto, escolha a sessão,
+ 
+
+55
+00:01:08,479 --> 00:01:10,830
+Coloque uma foto, escolha a sessão,
+destaque no cardápio ou tire do ar sem
+
+56
+00:01:10,830 --> 00:01:10,840
+destaque no cardápio ou tire do ar sem
+ 
+
+57
+00:01:10,840 --> 00:01:13,590
+destaque no cardápio ou tire do ar sem
+apagar. Na aba entrega e pagamento,
+
+58
+00:01:13,590 --> 00:01:13,600
+apagar. Na aba entrega e pagamento,
+ 
+
+59
+00:01:13,600 --> 00:01:15,149
+apagar. Na aba entrega e pagamento,
+confira o WhatsApp que recebe os
+
+60
+00:01:15,149 --> 00:01:15,159
+confira o WhatsApp que recebe os
+ 
+
+61
+00:01:15,159 --> 00:01:17,550
+confira o WhatsApp que recebe os
+pedidos, a taxa de entrega, o pedido
+
+62
+00:01:17,550 --> 00:01:17,560
+pedidos, a taxa de entrega, o pedido
+ 
+
+63
+00:01:17,560 --> 00:01:19,950
+pedidos, a taxa de entrega, o pedido
+mínimo, o tempo de entrega e as formas
+
+64
+00:01:19,950 --> 00:01:19,960
+mínimo, o tempo de entrega e as formas
+ 
+
+65
+00:01:19,960 --> 00:01:22,670
+mínimo, o tempo de entrega e as formas
+de pagamento. E em onde entrego, escolha
+
+66
+00:01:22,670 --> 00:01:22,680
+de pagamento. E em onde entrego, escolha
+ 
+
+67
+00:01:22,680 --> 00:01:24,870
+de pagamento. E em onde entrego, escolha
+as cidades e os bairros que você atende.
+
+68
+00:01:24,870 --> 00:01:24,880
+as cidades e os bairros que você atende.
+ 
+
+69
+00:01:24,880 --> 00:01:26,830
+as cidades e os bairros que você atende.
+Pedidos de fora dessas áreas são
+
+70
+00:01:26,830 --> 00:01:26,840
+Pedidos de fora dessas áreas são
+ 
+
+71
+00:01:26,840 --> 00:01:29,670
+Pedidos de fora dessas áreas são
+recusados na hora. No site, a sua loja
+
+72
+00:01:29,670 --> 00:01:29,680
+recusados na hora. No site, a sua loja
+ 
+
+73
+00:01:29,680 --> 00:01:32,030
+recusados na hora. No site, a sua loja
+de delivery já mostra os produtos novos
+
+74
+00:01:32,030 --> 00:01:32,040
+de delivery já mostra os produtos novos
+ 
+
+75
+00:01:32,040 --> 00:01:34,550
+de delivery já mostra os produtos novos
+separados por sessão. O cliente toca no
+
+76
+00:01:34,550 --> 00:01:34,560
+separados por sessão. O cliente toca no
+ 
+
+77
+00:01:34,560 --> 00:01:37,190
+separados por sessão. O cliente toca no
+produto, escreve uma observação, escolhe
+
+78
+00:01:37,190 --> 00:01:37,200
+produto, escreve uma observação, escolhe
+ 
+
+79
+00:01:37,200 --> 00:01:39,469
+produto, escreve uma observação, escolhe
+a quantidade e adiciona o pedido. O
+
+80
+00:01:39,469 --> 00:01:39,479
+a quantidade e adiciona o pedido. O
+ 
+
+81
+00:01:39,479 --> 00:01:42,149
+a quantidade e adiciona o pedido. O
+pedido chega no seu WhatsApp. Pronto,
+
+82
+00:01:42,149 --> 00:01:42,159
+pedido chega no seu WhatsApp. Pronto,
+ 
+
+83
+00:01:42,159 --> 00:01:44,469
+pedido chega no seu WhatsApp. Pronto,
+sua loja de delivery está com o cardápio
+
+84
+00:01:44,469 --> 00:01:44,479
+sua loja de delivery está com o cardápio
+ 
+
+85
+00:01:44,479 --> 00:01:46,590
+sua loja de delivery está com o cardápio
+completo, sem cadastrar produto por
+
+86
+00:01:46,590 --> 00:01:46,600
+completo, sem cadastrar produto por
+ 
+
+87
+00:01:46,600 --> 00:01:48,880
+completo, sem cadastrar produto por
+produto.
+

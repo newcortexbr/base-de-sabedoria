@@ -17,6 +17,7 @@ revisado_em: 2026-10-24
 validacao: docs-e-codigo
 videos:
   - CMEOWthwqtI
+  - DZBY11ozvNI
 ---
 
 ## objetivo

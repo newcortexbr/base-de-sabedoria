@@ -1,0 +1,435 @@
+1
+00:00:00,000 --> 00:00:02,670
+ 
+A voz do povo é o canal do cidadão. O
+
+2
+00:00:02,670 --> 00:00:02,680
+A voz do povo é o canal do cidadão. O
+ 
+
+3
+00:00:02,680 --> 00:00:04,470
+A voz do povo é o canal do cidadão. O
+morador conta o que está acontecendo no
+
+4
+00:00:04,470 --> 00:00:04,480
+morador conta o que está acontecendo no
+ 
+
+5
+00:00:04,480 --> 00:00:06,790
+morador conta o que está acontecendo no
+bairro e você decide o que fazer com
+
+6
+00:00:06,790 --> 00:00:06,800
+bairro e você decide o que fazer com
+ 
+
+7
+00:00:06,800 --> 00:00:09,790
+bairro e você decide o que fazer com
+cada relato. No site, ele clica em fazer
+
+8
+00:00:09,790 --> 00:00:09,800
+cada relato. No site, ele clica em fazer
+ 
+
+9
+00:00:09,800 --> 00:00:12,270
+cada relato. No site, ele clica em fazer
+uma denúncia, escolhe a categoria, conta
+
+10
+00:00:12,270 --> 00:00:12,280
+uma denúncia, escolhe a categoria, conta
+ 
+
+11
+00:00:12,280 --> 00:00:14,630
+uma denúncia, escolhe a categoria, conta
+o que aconteceu por texto ou áudio e
+
+12
+00:00:14,630 --> 00:00:14,640
+o que aconteceu por texto ou áudio e
+ 
+
+13
+00:00:14,640 --> 00:00:17,150
+o que aconteceu por texto ou áudio e
+informa onde e quando. Pode até ser
+
+14
+00:00:17,150 --> 00:00:17,160
+informa onde e quando. Pode até ser
+ 
+
+15
+00:00:17,160 --> 00:00:20,230
+informa onde e quando. Pode até ser
+anônimo. No painel, abra A Voz do Povo e
+
+16
+00:00:20,230 --> 00:00:20,240
+anônimo. No painel, abra A Voz do Povo e
+ 
+
+17
+00:00:20,240 --> 00:00:22,870
+anônimo. No painel, abra A Voz do Povo e
+clique em denúncias. O número no menu
+
+18
+00:00:22,870 --> 00:00:22,880
+clique em denúncias. O número no menu
+ 
+
+19
+00:00:22,880 --> 00:00:25,510
+clique em denúncias. O número no menu
+mostra o que espera sua decisão. A lista
+
+20
+00:00:25,510 --> 00:00:25,520
+mostra o que espera sua decisão. A lista
+ 
+
+21
+00:00:25,520 --> 00:00:27,670
+mostra o que espera sua decisão. A lista
+abre nas denúncias em aberto. Use o
+
+22
+00:00:27,670 --> 00:00:27,680
+abre nas denúncias em aberto. Use o
+ 
+
+23
+00:00:27,680 --> 00:00:29,590
+abre nas denúncias em aberto. Use o
+filtro para ver as recebidas, em
+
+24
+00:00:29,590 --> 00:00:29,600
+filtro para ver as recebidas, em
+ 
+
+25
+00:00:29,600 --> 00:00:32,429
+filtro para ver as recebidas, em
+análise, resolvidas, arquivadas ou
+
+26
+00:00:32,429 --> 00:00:32,439
+análise, resolvidas, arquivadas ou
+ 
+
+27
+00:00:32,439 --> 00:00:35,190
+análise, resolvidas, arquivadas ou
+todas. Cada linha mostra a categoria, o
+
+28
+00:00:35,190 --> 00:00:35,200
+todas. Cada linha mostra a categoria, o
+ 
+
+29
+00:00:35,200 --> 00:00:37,830
+todas. Cada linha mostra a categoria, o
+local, a data e a situação, com os
+
+30
+00:00:37,830 --> 00:00:37,840
+local, a data e a situação, com os
+ 
+
+31
+00:00:37,840 --> 00:00:40,470
+local, a data e a situação, com os
+botões em análise, arquivar e ver
+
+32
+00:00:40,470 --> 00:00:40,480
+botões em análise, arquivar e ver
+ 
+
+33
+00:00:40,480 --> 00:00:42,910
+botões em análise, arquivar e ver
+detalhes. Em ver detalhes, você encontra
+
+34
+00:00:42,910 --> 00:00:42,920
+detalhes. Em ver detalhes, você encontra
+ 
+
+35
+00:00:42,920 --> 00:00:45,790
+detalhes. Em ver detalhes, você encontra
+o relato, as fotos e o vídeo enviados e
+
+36
+00:00:45,790 --> 00:00:45,800
+o relato, as fotos e o vídeo enviados e
+ 
+
+37
+00:00:45,800 --> 00:00:48,350
+o relato, as fotos e o vídeo enviados e
+onde e quando aconteceu. Mais abaixo,
+
+38
+00:00:48,350 --> 00:00:48,360
+onde e quando aconteceu. Mais abaixo,
+ 
+
+39
+00:00:48,360 --> 00:00:50,550
+onde e quando aconteceu. Mais abaixo,
+quem enviou, com o botão chamar no
+
+40
+00:00:50,550 --> 00:00:50,560
+quem enviou, com o botão chamar no
+ 
+
+41
+00:00:50,560 --> 00:00:53,310
+quem enviou, com o botão chamar no
+WhatsApp. O WhatsApp é só para a redação
+
+42
+00:00:53,310 --> 00:00:53,320
+WhatsApp. O WhatsApp é só para a redação
+ 
+
+43
+00:00:53,320 --> 00:00:55,590
+WhatsApp. O WhatsApp é só para a redação
+e nunca aparece no mural. Se quiser,
+
+44
+00:00:55,590 --> 00:00:55,600
+e nunca aparece no mural. Se quiser,
+ 
+
+45
+00:00:55,600 --> 00:00:57,710
+e nunca aparece no mural. Se quiser,
+clique em editar título para deixar o
+
+46
+00:00:57,710 --> 00:00:57,720
+clique em editar título para deixar o
+ 
+
+47
+00:00:57,720 --> 00:01:00,590
+clique em editar título para deixar o
+assunto mais claro. Agora, a decisão.
+
+48
+00:01:00,590 --> 00:01:00,600
+assunto mais claro. Agora, a decisão.
+ 
+
+49
+00:01:00,600 --> 00:01:02,870
+assunto mais claro. Agora, a decisão.
+Em o que fazer com esta denúncia, o
+
+50
+00:01:02,870 --> 00:01:02,880
+Em o que fazer com esta denúncia, o
+ 
+
+51
+00:01:02,880 --> 00:01:05,110
+Em o que fazer com esta denúncia, o
+botão aprovar e publicar no mural
+
+52
+00:01:05,110 --> 00:01:05,120
+botão aprovar e publicar no mural
+ 
+
+53
+00:01:05,120 --> 00:01:07,350
+botão aprovar e publicar no mural
+transforma o relato em um post na página
+
+54
+00:01:07,350 --> 00:01:07,360
+transforma o relato em um post na página
+ 
+
+55
+00:01:07,360 --> 00:01:10,030
+transforma o relato em um post na página
+A Voz do Povo. No site, o post aparece
+
+56
+00:01:10,030 --> 00:01:10,040
+A Voz do Povo. No site, o post aparece
+ 
+
+57
+00:01:10,040 --> 00:01:11,910
+A Voz do Povo. No site, o post aparece
+no mural do bairro, com o nome de quem
+
+58
+00:01:11,910 --> 00:01:11,920
+no mural do bairro, com o nome de quem
+ 
+
+59
+00:01:11,920 --> 00:01:14,390
+no mural do bairro, com o nome de quem
+enviou, o bairro, a categoria e o
+
+60
+00:01:14,390 --> 00:01:14,400
+enviou, o bairro, a categoria e o
+ 
+
+61
+00:01:14,400 --> 00:01:17,230
+enviou, o bairro, a categoria e o
+relato. O visitante abre o cartão, vê as
+
+62
+00:01:17,230 --> 00:01:17,240
+relato. O visitante abre o cartão, vê as
+ 
+
+63
+00:01:17,240 --> 00:01:19,910
+relato. O visitante abre o cartão, vê as
+fotos e pode clicar em também me afeta
+
+64
+00:01:19,910 --> 00:01:19,920
+fotos e pode clicar em também me afeta
+ 
+
+65
+00:01:19,920 --> 00:01:22,790
+fotos e pode clicar em também me afeta
+ou não concordo. Mudou de ideia? O botão
+
+66
+00:01:22,790 --> 00:01:22,800
+ou não concordo. Mudou de ideia? O botão
+ 
+
+67
+00:01:22,800 --> 00:01:24,950
+ou não concordo. Mudou de ideia? O botão
+tirar do mural esconde o post para
+
+68
+00:01:24,950 --> 00:01:24,960
+tirar do mural esconde o post para
+ 
+
+69
+00:01:24,960 --> 00:01:27,990
+tirar do mural esconde o post para
+todos. Na mesma área fica gerar notícia
+
+70
+00:01:27,990 --> 00:01:28,000
+todos. Na mesma área fica gerar notícia
+ 
+
+71
+00:01:28,000 --> 00:01:30,070
+todos. Na mesma área fica gerar notícia
+com IA, que transforma o relato em
+
+72
+00:01:30,070 --> 00:01:30,080
+com IA, que transforma o relato em
+ 
+
+73
+00:01:30,080 --> 00:01:32,790
+com IA, que transforma o relato em
+matéria. Temos um vídeo só sobre isso. A
+
+74
+00:01:32,790 --> 00:01:32,800
+matéria. Temos um vídeo só sobre isso. A
+ 
+
+75
+00:01:32,800 --> 00:01:34,630
+matéria. Temos um vídeo só sobre isso. A
+situação interna serve para a sua
+
+76
+00:01:34,630 --> 00:01:34,640
+situação interna serve para a sua
+ 
+
+77
+00:01:34,640 --> 00:01:37,350
+situação interna serve para a sua
+organização: recebida, em análise,
+
+78
+00:01:37,350 --> 00:01:37,360
+organização: recebida, em análise,
+ 
+
+79
+00:01:37,360 --> 00:01:39,950
+organização: recebida, em análise,
+resolvida ou arquivada. O menu ainda
+
+80
+00:01:39,950 --> 00:01:39,960
+resolvida ou arquivada. O menu ainda
+ 
+
+81
+00:01:39,960 --> 00:01:42,590
+resolvida ou arquivada. O menu ainda
+traz telefones úteis e linhas de ônibus,
+
+82
+00:01:42,590 --> 00:01:42,600
+traz telefones úteis e linhas de ônibus,
+ 
+
+83
+00:01:42,600 --> 00:01:45,150
+traz telefones úteis e linhas de ônibus,
+os serviços da página. Pronto, com A Voz
+
+84
+00:01:45,150 --> 00:01:45,160
+os serviços da página. Pronto, com A Voz
+ 
+
+85
+00:01:45,160 --> 00:01:47,630
+os serviços da página. Pronto, com A Voz
+do Povo, os moradores têm espaço e o seu
+
+86
+00:01:47,630 --> 00:01:47,640
+do Povo, os moradores têm espaço e o seu
+ 
+
+87
+00:01:47,640 --> 00:01:51,720
+do Povo, os moradores têm espaço e o seu
+portal ganha assunto todos os dias.
+

@@ -1,0 +1,555 @@
+1
+00:00:00,000 --> 00:00:01,790
+ 
+Notícias com IA.
+
+2
+00:00:01,790 --> 00:00:01,800
+Notícias com IA.
+ 
+
+3
+00:00:01,800 --> 00:00:03,790
+Notícias com IA.
+Você manda a matéria ou cadastra um
+
+4
+00:00:03,790 --> 00:00:03,800
+Você manda a matéria ou cadastra um
+ 
+
+5
+00:00:03,800 --> 00:00:05,950
+Você manda a matéria ou cadastra um
+jornal e a inteligência artificial
+
+6
+00:00:05,950 --> 00:00:05,960
+jornal e a inteligência artificial
+ 
+
+7
+00:00:05,960 --> 00:00:08,270
+jornal e a inteligência artificial
+escreve a notícia e preenche todos os
+
+8
+00:00:08,270 --> 00:00:08,280
+escreve a notícia e preenche todos os
+ 
+
+9
+00:00:08,280 --> 00:00:09,430
+escreve a notícia e preenche todos os
+campos.
+
+10
+00:00:09,430 --> 00:00:09,440
+campos.
+ 
+
+11
+00:00:09,440 --> 00:00:11,590
+campos.
+Antes de começar, é importante conectar
+
+12
+00:00:11,590 --> 00:00:11,600
+Antes de começar, é importante conectar
+ 
+
+13
+00:00:11,600 --> 00:00:13,550
+Antes de começar, é importante conectar
+a sua conta do chat GPT. Em
+
+14
+00:00:13,550 --> 00:00:13,560
+a sua conta do chat GPT. Em
+ 
+
+15
+00:00:13,560 --> 00:00:16,110
+a sua conta do chat GPT. Em
+configurações gerais, clique em entrar
+
+16
+00:00:16,110 --> 00:00:16,120
+configurações gerais, clique em entrar
+ 
+
+17
+00:00:16,120 --> 00:00:18,310
+configurações gerais, clique em entrar
+com o chat GPT e pode ser a conta
+
+18
+00:00:18,310 --> 00:00:18,320
+com o chat GPT e pode ser a conta
+ 
+
+19
+00:00:18,320 --> 00:00:19,350
+com o chat GPT e pode ser a conta
+gratuita.
+
+20
+00:00:19,350 --> 00:00:19,360
+gratuita.
+ 
+
+21
+00:00:19,360 --> 00:00:22,030
+gratuita.
+No painel, abra notícias automáticas e
+
+22
+00:00:22,030 --> 00:00:22,040
+No painel, abra notícias automáticas e
+ 
+
+23
+00:00:22,040 --> 00:00:24,310
+No painel, abra notícias automáticas e
+clique em notícias com IA.
+
+24
+00:00:24,310 --> 00:00:24,320
+clique em notícias com IA.
+ 
+
+25
+00:00:24,320 --> 00:00:26,350
+clique em notícias com IA.
+Você tem dois caminhos: criar uma
+
+26
+00:00:26,350 --> 00:00:26,360
+Você tem dois caminhos: criar uma
+ 
+
+27
+00:00:26,360 --> 00:00:29,030
+Você tem dois caminhos: criar uma
+matéria agora ou fonte fixa, que
+
+28
+00:00:29,030 --> 00:00:29,040
+matéria agora ou fonte fixa, que
+ 
+
+29
+00:00:29,040 --> 00:00:31,390
+matéria agora ou fonte fixa, que
+funciona sozinha todos os dias.
+
+30
+00:00:31,390 --> 00:00:31,400
+funciona sozinha todos os dias.
+ 
+
+31
+00:00:31,400 --> 00:00:33,590
+funciona sozinha todos os dias.
+Em criar uma matéria agora, colhe o link
+
+32
+00:00:33,590 --> 00:00:33,600
+Em criar uma matéria agora, colhe o link
+ 
+
+33
+00:00:33,600 --> 00:00:35,710
+Em criar uma matéria agora, colhe o link
+de uma notícia de outro portal ou de um
+
+34
+00:00:35,710 --> 00:00:35,720
+de uma notícia de outro portal ou de um
+ 
+
+35
+00:00:35,720 --> 00:00:38,190
+de uma notícia de outro portal ou de um
+vídeo do YouTube ou envie prints da
+
+36
+00:00:38,190 --> 00:00:38,200
+vídeo do YouTube ou envie prints da
+ 
+
+37
+00:00:38,200 --> 00:00:40,630
+vídeo do YouTube ou envie prints da
+matéria, do Instagram, do jornal ou de
+
+38
+00:00:40,630 --> 00:00:40,640
+matéria, do Instagram, do jornal ou de
+ 
+
+39
+00:00:40,640 --> 00:00:42,990
+matéria, do Instagram, do jornal ou de
+um site. Clique em adicionar outra
+
+40
+00:00:42,990 --> 00:00:43,000
+um site. Clique em adicionar outra
+ 
+
+41
+00:00:43,000 --> 00:00:44,990
+um site. Clique em adicionar outra
+matéria para mandar até cinco de uma
+
+42
+00:00:44,990 --> 00:00:45,000
+matéria para mandar até cinco de uma
+ 
+
+43
+00:00:45,000 --> 00:00:48,110
+matéria para mandar até cinco de uma
+vez. Deixe publicar direto desligado
+
+44
+00:00:48,110 --> 00:00:48,120
+vez. Deixe publicar direto desligado
+ 
+
+45
+00:00:48,120 --> 00:00:51,310
+vez. Deixe publicar direto desligado
+para revisar antes e clique em gerar. Em
+
+46
+00:00:51,310 --> 00:00:51,320
+para revisar antes e clique em gerar. Em
+ 
+
+47
+00:00:51,320 --> 00:00:53,950
+para revisar antes e clique em gerar. Em
+instantes, a IA escreve a matéria. Pode
+
+48
+00:00:53,950 --> 00:00:53,960
+instantes, a IA escreve a matéria. Pode
+ 
+
+49
+00:00:53,960 --> 00:00:55,910
+instantes, a IA escreve a matéria. Pode
+até sair da tela. Ela aparece em
+
+50
+00:00:55,910 --> 00:00:55,920
+até sair da tela. Ela aparece em
+ 
+
+51
+00:00:55,920 --> 00:00:58,590
+até sair da tela. Ela aparece em
+notícias quando ficar pronta. Pronto. A
+
+52
+00:00:58,590 --> 00:00:58,600
+notícias quando ficar pronta. Pronto. A
+ 
+
+53
+00:00:58,600 --> 00:01:00,630
+notícias quando ficar pronta. Pronto. A
+notícia fica em rascunho com a foto
+
+54
+00:01:00,630 --> 00:01:00,640
+notícia fica em rascunho com a foto
+ 
+
+55
+00:01:00,640 --> 00:01:03,390
+notícia fica em rascunho com a foto
+original da matéria. Clique em revisar e
+
+56
+00:01:03,390 --> 00:01:03,400
+original da matéria. Clique em revisar e
+ 
+
+57
+00:01:03,400 --> 00:01:06,430
+original da matéria. Clique em revisar e
+publicar. No editor, confira o título, o
+
+58
+00:01:06,430 --> 00:01:06,440
+publicar. No editor, confira o título, o
+ 
+
+59
+00:01:06,440 --> 00:01:09,390
+publicar. No editor, confira o título, o
+subtítulo, a chamada, o texto, a
+
+60
+00:01:09,390 --> 00:01:09,400
+subtítulo, a chamada, o texto, a
+ 
+
+61
+00:01:09,400 --> 00:01:12,430
+subtítulo, a chamada, o texto, a
+categoria, a foto e o SEO. Quando
+
+62
+00:01:12,430 --> 00:01:12,440
+categoria, a foto e o SEO. Quando
+ 
+
+63
+00:01:12,440 --> 00:01:14,790
+categoria, a foto e o SEO. Quando
+estiver tudo certo, mude o status para
+
+64
+00:01:14,790 --> 00:01:14,800
+estiver tudo certo, mude o status para
+ 
+
+65
+00:01:14,800 --> 00:01:17,950
+estiver tudo certo, mude o status para
+publicado e clique em salvar. E lembre,
+
+66
+00:01:17,950 --> 00:01:17,960
+publicado e clique em salvar. E lembre,
+ 
+
+67
+00:01:17,960 --> 00:01:20,990
+publicado e clique em salvar. E lembre,
+notícia da IA só vai ao ar com foto. Se
+
+68
+00:01:20,990 --> 00:01:21,000
+notícia da IA só vai ao ar com foto. Se
+ 
+
+69
+00:01:21,000 --> 00:01:22,990
+notícia da IA só vai ao ar com foto. Se
+ela não achar uma, adicione antes de
+
+70
+00:01:22,990 --> 00:01:23,000
+ela não achar uma, adicione antes de
+ 
+
+71
+00:01:23,000 --> 00:01:25,430
+ela não achar uma, adicione antes de
+publicar. E a notícia aparece no site
+
+72
+00:01:25,430 --> 00:01:25,440
+publicar. E a notícia aparece no site
+ 
+
+73
+00:01:25,440 --> 00:01:27,870
+publicar. E a notícia aparece no site
+como qualquer outra matéria do portal.
+
+74
+00:01:27,870 --> 00:01:27,880
+como qualquer outra matéria do portal.
+ 
+
+75
+00:01:27,880 --> 00:01:30,670
+como qualquer outra matéria do portal.
+Agora, a fonte fixa. Você cadastra a
+
+76
+00:01:30,670 --> 00:01:30,680
+Agora, a fonte fixa. Você cadastra a
+ 
+
+77
+00:01:30,680 --> 00:01:32,950
+Agora, a fonte fixa. Você cadastra a
+página de um jornal e a IA volta lá
+
+78
+00:01:32,950 --> 00:01:32,960
+página de um jornal e a IA volta lá
+ 
+
+79
+00:01:32,960 --> 00:01:36,270
+página de um jornal e a IA volta lá
+todos os dias, às 7:00 e às 18:00. Em
+
+80
+00:01:36,270 --> 00:01:36,280
+todos os dias, às 7:00 e às 18:00. Em
+ 
+
+81
+00:01:36,280 --> 00:01:38,710
+todos os dias, às 7:00 e às 18:00. Em
+cada visita, ela traz até cinco matérias
+
+82
+00:01:38,710 --> 00:01:38,720
+cada visita, ela traz até cinco matérias
+ 
+
+83
+00:01:38,720 --> 00:01:41,990
+cada visita, ela traz até cinco matérias
+novas, no máximo 10 por dia, com foto e
+
+84
+00:01:41,990 --> 00:01:42,000
+novas, no máximo 10 por dia, com foto e
+ 
+
+85
+00:01:42,000 --> 00:01:44,590
+novas, no máximo 10 por dia, com foto e
+crédito da origem. Matéria já trazida
+
+86
+00:01:44,590 --> 00:01:44,600
+crédito da origem. Matéria já trazida
+ 
+
+87
+00:01:44,600 --> 00:01:47,390
+crédito da origem. Matéria já trazida
+nunca volta. Em link da página, colhe a
+
+88
+00:01:47,390 --> 00:01:47,400
+nunca volta. Em link da página, colhe a
+ 
+
+89
+00:01:47,400 --> 00:01:50,030
+nunca volta. Em link da página, colhe a
+seção ou a home do jornal e não o link
+
+90
+00:01:50,030 --> 00:01:50,040
+seção ou a home do jornal e não o link
+ 
+
+91
+00:01:50,040 --> 00:01:52,550
+seção ou a home do jornal e não o link
+de uma matéria. Escolha a categoria ou
+
+92
+00:01:52,550 --> 00:01:52,560
+de uma matéria. Escolha a categoria ou
+ 
+
+93
+00:01:52,560 --> 00:01:54,870
+de uma matéria. Escolha a categoria ou
+deixe a IA escolher. Em ao criar a
+
+94
+00:01:54,870 --> 00:01:54,880
+deixe a IA escolher. Em ao criar a
+ 
+
+95
+00:01:54,880 --> 00:01:57,630
+deixe a IA escolher. Em ao criar a
+notícia, deixe em rascunho para revisar
+
+96
+00:01:57,630 --> 00:01:57,640
+notícia, deixe em rascunho para revisar
+ 
+
+97
+00:01:57,640 --> 00:02:00,482
+notícia, deixe em rascunho para revisar
+ou publique direto. Clique em adicionar
+
+98
+00:02:00,482 --> 00:02:00,492
+ou publique direto. Clique em adicionar
+ 
+
+99
+00:02:00,492 --> 00:02:02,962
+ou publique direto. Clique em adicionar
+fonte. Em fontes cadastradas, você
+
+100
+00:02:02,962 --> 00:02:02,972
+fonte. Em fontes cadastradas, você
+ 
+
+101
+00:02:02,972 --> 00:02:05,162
+fonte. Em fontes cadastradas, você
+acompanha a última visita e quantas
+
+102
+00:02:05,162 --> 00:02:05,172
+acompanha a última visita e quantas
+ 
+
+103
+00:02:05,172 --> 00:02:07,562
+acompanha a última visita e quantas
+matérias vieram hoje. Use a chave para
+
+104
+00:02:07,562 --> 00:02:07,572
+matérias vieram hoje. Use a chave para
+ 
+
+105
+00:02:07,572 --> 00:02:10,322
+matérias vieram hoje. Use a chave para
+ligar ou desligar a fonte e os botões
+
+106
+00:02:10,322 --> 00:02:10,332
+ligar ou desligar a fonte e os botões
+ 
+
+107
+00:02:10,332 --> 00:02:13,202
+ligar ou desligar a fonte e os botões
+editar e excluir para fazer mudanças.
+
+108
+00:02:13,202 --> 00:02:13,212
+editar e excluir para fazer mudanças.
+ 
+
+109
+00:02:13,212 --> 00:02:15,522
+editar e excluir para fazer mudanças.
+Pronto. Com notícias com IA, o seu
+
+110
+00:02:15,522 --> 00:02:15,532
+Pronto. Com notícias com IA, o seu
+ 
+
+111
+00:02:15,532 --> 00:02:19,972
+Pronto. Com notícias com IA, o seu
+portal tem conteúdo novo todos os dias.
+

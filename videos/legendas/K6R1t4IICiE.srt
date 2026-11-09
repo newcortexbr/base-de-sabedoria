@@ -1,0 +1,385 @@
+1
+00:00:00,080 --> 00:00:02,070
+ 
+O banco de currículos mostra as pessoas
+
+2
+00:00:02,070 --> 00:00:02,080
+O banco de currículos mostra as pessoas
+ 
+
+3
+00:00:02,080 --> 00:00:03,949
+O banco de currículos mostra as pessoas
+da sua cidade que estão procurando
+
+4
+00:00:03,949 --> 00:00:03,959
+da sua cidade que estão procurando
+ 
+
+5
+00:00:03,959 --> 00:00:05,829
+da sua cidade que estão procurando
+emprego. Com ele, você encontra
+
+6
+00:00:05,829 --> 00:00:05,839
+emprego. Com ele, você encontra
+ 
+
+7
+00:00:05,839 --> 00:00:08,110
+emprego. Com ele, você encontra
+candidatos sem precisar esperar alguém
+
+8
+00:00:08,110 --> 00:00:08,120
+candidatos sem precisar esperar alguém
+ 
+
+9
+00:00:08,120 --> 00:00:10,110
+candidatos sem precisar esperar alguém
+se inscrever na sua vaga. Ele fica
+
+10
+00:00:10,110 --> 00:00:10,120
+se inscrever na sua vaga. Ele fica
+ 
+
+11
+00:00:10,120 --> 00:00:11,910
+se inscrever na sua vaga. Ele fica
+liberado para empresas com plano de
+
+12
+00:00:11,910 --> 00:00:11,920
+liberado para empresas com plano de
+ 
+
+13
+00:00:11,920 --> 00:00:14,910
+liberado para empresas com plano de
+vagas ativo. Na sua conta, clique em
+
+14
+00:00:14,910 --> 00:00:14,920
+vagas ativo. Na sua conta, clique em
+ 
+
+15
+00:00:14,920 --> 00:00:17,429
+vagas ativo. Na sua conta, clique em
+banco de currículos no menu da esquerda.
+
+16
+00:00:17,429 --> 00:00:17,439
+banco de currículos no menu da esquerda.
+ 
+
+17
+00:00:17,439 --> 00:00:19,470
+banco de currículos no menu da esquerda.
+Quem está aqui montou o currículo no
+
+18
+00:00:19,470 --> 00:00:19,480
+Quem está aqui montou o currículo no
+ 
+
+19
+00:00:19,480 --> 00:00:21,429
+Quem está aqui montou o currículo no
+portal e autorizou que as empresas
+
+20
+00:00:21,429 --> 00:00:21,439
+portal e autorizou que as empresas
+ 
+
+21
+00:00:21,439 --> 00:00:23,790
+portal e autorizou que as empresas
+encontrassem. O ponto de interrogação
+
+22
+00:00:23,790 --> 00:00:23,800
+encontrassem. O ponto de interrogação
+ 
+
+23
+00:00:23,800 --> 00:00:26,070
+encontrassem. O ponto de interrogação
+explica a função em poucas palavras.
+
+24
+00:00:26,070 --> 00:00:26,080
+explica a função em poucas palavras.
+ 
+
+25
+00:00:26,080 --> 00:00:28,630
+explica a função em poucas palavras.
+Cada cartão mostra o nome, o cargo que a
+
+26
+00:00:28,630 --> 00:00:28,640
+Cada cartão mostra o nome, o cargo que a
+ 
+
+27
+00:00:28,640 --> 00:00:30,790
+Cada cartão mostra o nome, o cargo que a
+pessoa procura, onde mora, a
+
+28
+00:00:30,790 --> 00:00:30,800
+pessoa procura, onde mora, a
+ 
+
+29
+00:00:30,800 --> 00:00:33,110
+pessoa procura, onde mora, a
+experiência, a escolaridade e as
+
+30
+00:00:33,110 --> 00:00:33,120
+experiência, a escolaridade e as
+ 
+
+31
+00:00:33,120 --> 00:00:35,350
+experiência, a escolaridade e as
+principais habilidades. Para encontrar
+
+32
+00:00:35,350 --> 00:00:35,360
+principais habilidades. Para encontrar
+ 
+
+33
+00:00:35,360 --> 00:00:37,950
+principais habilidades. Para encontrar
+alguém, digite um nome, um cargo ou uma
+
+34
+00:00:37,950 --> 00:00:37,960
+alguém, digite um nome, um cargo ou uma
+ 
+
+35
+00:00:37,960 --> 00:00:39,990
+alguém, digite um nome, um cargo ou uma
+habilidade na busca. Também dá para
+
+36
+00:00:39,990 --> 00:00:40,000
+habilidade na busca. Também dá para
+ 
+
+37
+00:00:40,000 --> 00:00:42,310
+habilidade na busca. Também dá para
+filtrar por cargo, por cidade e por
+
+38
+00:00:42,310 --> 00:00:42,320
+filtrar por cargo, por cidade e por
+ 
+
+39
+00:00:42,320 --> 00:00:44,709
+filtrar por cargo, por cidade e por
+escolaridade. Para ver a lista completa
+
+40
+00:00:44,709 --> 00:00:44,719
+escolaridade. Para ver a lista completa
+ 
+
+41
+00:00:44,719 --> 00:00:47,709
+escolaridade. Para ver a lista completa
+de novo, clique em limpar filtros. Em
+
+42
+00:00:47,709 --> 00:00:47,719
+de novo, clique em limpar filtros. Em
+ 
+
+43
+00:00:47,719 --> 00:00:50,150
+de novo, clique em limpar filtros. Em
+cada cartão, o olho abre o currículo
+
+44
+00:00:50,150 --> 00:00:50,160
+cada cartão, o olho abre o currículo
+ 
+
+45
+00:00:50,160 --> 00:00:52,590
+cada cartão, o olho abre o currículo
+completo e o botão ao lado baixa o
+
+46
+00:00:52,590 --> 00:00:52,600
+completo e o botão ao lado baixa o
+ 
+
+47
+00:00:52,600 --> 00:00:55,389
+completo e o botão ao lado baixa o
+currículo em PDF. No currículo você vê o
+
+48
+00:00:55,389 --> 00:00:55,399
+currículo em PDF. No currículo você vê o
+ 
+
+49
+00:00:55,399 --> 00:00:57,310
+currículo em PDF. No currículo você vê o
+cargo onde a pessoa mora, a
+
+50
+00:00:57,310 --> 00:00:57,320
+cargo onde a pessoa mora, a
+ 
+
+51
+00:00:57,320 --> 00:00:59,990
+cargo onde a pessoa mora, a
+escolaridade, o tempo de experiência, o
+
+52
+00:00:59,990 --> 00:01:00,000
+escolaridade, o tempo de experiência, o
+ 
+
+53
+00:01:00,000 --> 00:01:02,270
+escolaridade, o tempo de experiência, o
+telefone e o e-mail. Gostou do
+
+54
+00:01:02,270 --> 00:01:02,280
+telefone e o e-mail. Gostou do
+ 
+
+55
+00:01:02,280 --> 00:01:04,869
+telefone e o e-mail. Gostou do
+candidato? Clique em chamar no WhatsApp
+
+56
+00:01:04,869 --> 00:01:04,879
+candidato? Clique em chamar no WhatsApp
+ 
+
+57
+00:01:04,879 --> 00:01:07,510
+candidato? Clique em chamar no WhatsApp
+para conversar na hora ou em enviar
+
+58
+00:01:07,510 --> 00:01:07,520
+para conversar na hora ou em enviar
+ 
+
+59
+00:01:07,520 --> 00:01:10,350
+para conversar na hora ou em enviar
+e-mail. Baixar PDF salva o currículo
+
+60
+00:01:10,350 --> 00:01:10,360
+e-mail. Baixar PDF salva o currículo
+ 
+
+61
+00:01:10,360 --> 00:01:12,990
+e-mail. Baixar PDF salva o currículo
+para você imprimir ou guardar. Ao lado
+
+62
+00:01:12,990 --> 00:01:13,000
+para você imprimir ou guardar. Ao lado
+ 
+
+63
+00:01:13,000 --> 00:01:15,310
+para você imprimir ou guardar. Ao lado
+aparece o currículo completo do jeito
+
+64
+00:01:15,310 --> 00:01:15,320
+aparece o currículo completo do jeito
+ 
+
+65
+00:01:15,320 --> 00:01:17,510
+aparece o currículo completo do jeito
+que a pessoa montou, objetivo,
+
+66
+00:01:17,510 --> 00:01:17,520
+que a pessoa montou, objetivo,
+ 
+
+67
+00:01:17,520 --> 00:01:20,429
+que a pessoa montou, objetivo,
+experiência, formação, habilidades e
+
+68
+00:01:20,429 --> 00:01:20,439
+experiência, formação, habilidades e
+ 
+
+69
+00:01:20,439 --> 00:01:22,990
+experiência, formação, habilidades e
+idiomas. Para olhar outros candidatos,
+
+70
+00:01:22,990 --> 00:01:23,000
+idiomas. Para olhar outros candidatos,
+ 
+
+71
+00:01:23,000 --> 00:01:25,910
+idiomas. Para olhar outros candidatos,
+clique em voltar para o banco. Pronto.
+
+72
+00:01:25,910 --> 00:01:25,920
+clique em voltar para o banco. Pronto.
+ 
+
+73
+00:01:25,920 --> 00:01:27,670
+clique em voltar para o banco. Pronto.
+Agora é só procurar os melhores
+
+74
+00:01:27,670 --> 00:01:27,680
+Agora é só procurar os melhores
+ 
+
+75
+00:01:27,680 --> 00:01:30,230
+Agora é só procurar os melhores
+candidatos da sua cidade e chamar direto
+
+76
+00:01:30,230 --> 00:01:30,240
+candidatos da sua cidade e chamar direto
+ 
+
+77
+00:01:30,240 --> 00:01:33,439
+candidatos da sua cidade e chamar direto
+no WhatsApp.
+

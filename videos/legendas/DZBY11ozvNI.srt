@@ -1,0 +1,365 @@
+1
+00:00:00,000 --> 00:00:02,110
+ 
+Criar roteiros com IA.
+
+2
+00:00:02,110 --> 00:00:02,120
+Criar roteiros com IA.
+ 
+
+3
+00:00:02,120 --> 00:00:03,710
+Criar roteiros com IA.
+A inteligência artificial monta o
+
+4
+00:00:03,710 --> 00:00:03,720
+A inteligência artificial monta o
+ 
+
+5
+00:00:03,720 --> 00:00:06,630
+A inteligência artificial monta o
+roteiro inteiro, com título, descrição,
+
+6
+00:00:06,630 --> 00:00:06,640
+roteiro inteiro, com título, descrição,
+ 
+
+7
+00:00:06,640 --> 00:00:08,830
+roteiro inteiro, com título, descrição,
+paradas e fotos.
+
+8
+00:00:08,830 --> 00:00:08,840
+paradas e fotos.
+ 
+
+9
+00:00:08,840 --> 00:00:10,990
+paradas e fotos.
+Antes de começar, é importante conectar
+
+10
+00:00:10,990 --> 00:00:11,000
+Antes de começar, é importante conectar
+ 
+
+11
+00:00:11,000 --> 00:00:12,990
+Antes de começar, é importante conectar
+a sua conta do chat GPT.
+
+12
+00:00:12,990 --> 00:00:13,000
+a sua conta do chat GPT.
+ 
+
+13
+00:00:13,000 --> 00:00:15,190
+a sua conta do chat GPT.
+Em configurações gerais, clique em
+
+14
+00:00:15,190 --> 00:00:15,200
+Em configurações gerais, clique em
+ 
+
+15
+00:00:15,200 --> 00:00:17,750
+Em configurações gerais, clique em
+entrar com o chat GPT. E pode ser a
+
+16
+00:00:17,750 --> 00:00:17,760
+entrar com o chat GPT. E pode ser a
+ 
+
+17
+00:00:17,760 --> 00:00:20,590
+entrar com o chat GPT. E pode ser a
+conta gratuita. No painel, abra guia
+
+18
+00:00:20,590 --> 00:00:20,600
+conta gratuita. No painel, abra guia
+ 
+
+19
+00:00:20,600 --> 00:00:23,270
+conta gratuita. No painel, abra guia
+turístico e eventos e clique em criar
+
+20
+00:00:23,270 --> 00:00:23,280
+turístico e eventos e clique em criar
+ 
+
+21
+00:00:23,280 --> 00:00:24,790
+turístico e eventos e clique em criar
+roteiros com IA.
+
+22
+00:00:24,790 --> 00:00:24,800
+roteiros com IA.
+ 
+
+23
+00:00:24,800 --> 00:00:26,950
+roteiros com IA.
+Há dois caminhos: a partir de um ponto
+
+24
+00:00:26,950 --> 00:00:26,960
+Há dois caminhos: a partir de um ponto
+ 
+
+25
+00:00:26,960 --> 00:00:29,270
+Há dois caminhos: a partir de um ponto
+já cadastrado ou buscando roteiros na
+
+26
+00:00:29,270 --> 00:00:29,280
+já cadastrado ou buscando roteiros na
+ 
+
+27
+00:00:29,280 --> 00:00:32,030
+já cadastrado ou buscando roteiros na
+internet. No primeiro, escolha um ponto
+
+28
+00:00:32,030 --> 00:00:32,040
+internet. No primeiro, escolha um ponto
+ 
+
+29
+00:00:32,040 --> 00:00:35,150
+internet. No primeiro, escolha um ponto
+e a duração: meio-dia, um dia ou dois
+
+30
+00:00:35,150 --> 00:00:35,160
+e a duração: meio-dia, um dia ou dois
+ 
+
+31
+00:00:35,160 --> 00:00:37,750
+e a duração: meio-dia, um dia ou dois
+dias. A IA monta o roteiro com esse
+
+32
+00:00:37,750 --> 00:00:37,760
+dias. A IA monta o roteiro com esse
+ 
+
+33
+00:00:37,760 --> 00:00:40,110
+dias. A IA monta o roteiro com esse
+ponto como parada principal. As outras
+
+34
+00:00:40,110 --> 00:00:40,120
+ponto como parada principal. As outras
+ 
+
+35
+00:00:40,120 --> 00:00:42,430
+ponto como parada principal. As outras
+paradas vêm só dos pontos cadastrados no
+
+36
+00:00:42,430 --> 00:00:42,440
+paradas vêm só dos pontos cadastrados no
+ 
+
+37
+00:00:42,440 --> 00:00:45,870
+paradas vêm só dos pontos cadastrados no
+portal. Nada é inventado. Deixe publicar
+
+38
+00:00:45,870 --> 00:00:45,880
+portal. Nada é inventado. Deixe publicar
+ 
+
+39
+00:00:45,880 --> 00:00:48,470
+portal. Nada é inventado. Deixe publicar
+direto desligado e clique em criar
+
+40
+00:00:48,470 --> 00:00:48,480
+direto desligado e clique em criar
+ 
+
+41
+00:00:48,480 --> 00:00:51,350
+direto desligado e clique em criar
+roteiro com IA. Pronto. O roteiro nasce
+
+42
+00:00:51,350 --> 00:00:51,360
+roteiro com IA. Pronto. O roteiro nasce
+ 
+
+43
+00:00:51,360 --> 00:00:54,470
+roteiro com IA. Pronto. O roteiro nasce
+em rascunho, com título, selo, duração,
+
+44
+00:00:54,470 --> 00:00:54,480
+em rascunho, com título, selo, duração,
+ 
+
+45
+00:00:54,480 --> 00:00:57,590
+em rascunho, com título, selo, duração,
+início, descrição, paradas, capa e
+
+46
+00:00:57,590 --> 00:00:57,600
+início, descrição, paradas, capa e
+ 
+
+47
+00:00:57,600 --> 00:00:58,670
+início, descrição, paradas, capa e
+galeria.
+
+48
+00:00:58,670 --> 00:00:58,680
+galeria.
+ 
+
+49
+00:00:58,680 --> 00:01:00,750
+galeria.
+No segundo caminho, buscar roteiros na
+
+50
+00:01:00,750 --> 00:01:00,760
+No segundo caminho, buscar roteiros na
+ 
+
+51
+00:01:00,760 --> 00:01:03,270
+No segundo caminho, buscar roteiros na
+internet, a IA pesquisa roteiros reais
+
+52
+00:01:03,270 --> 00:01:03,280
+internet, a IA pesquisa roteiros reais
+ 
+
+53
+00:01:03,280 --> 00:01:06,150
+internet, a IA pesquisa roteiros reais
+do estado todo e traz até 12 opções com
+
+54
+00:01:06,150 --> 00:01:06,160
+do estado todo e traz até 12 opções com
+ 
+
+55
+00:01:06,160 --> 00:01:08,270
+do estado todo e traz até 12 opções com
+a fonte de cada uma. Marque os que
+
+56
+00:01:08,270 --> 00:01:08,280
+a fonte de cada uma. Marque os que
+ 
+
+57
+00:01:08,280 --> 00:01:11,030
+a fonte de cada uma. Marque os que
+quiser e clique em criar. A IA monta
+
+58
+00:01:11,030 --> 00:01:11,040
+quiser e clique em criar. A IA monta
+ 
+
+59
+00:01:11,040 --> 00:01:13,670
+quiser e clique em criar. A IA monta
+cada um deles. Clique em abrir para
+
+60
+00:01:13,670 --> 00:01:13,680
+cada um deles. Clique em abrir para
+ 
+
+61
+00:01:13,680 --> 00:01:16,470
+cada um deles. Clique em abrir para
+revisar. Confira os textos, a capa, a
+
+62
+00:01:16,470 --> 00:01:16,480
+revisar. Confira os textos, a capa, a
+ 
+
+63
+00:01:16,480 --> 00:01:18,870
+revisar. Confira os textos, a capa, a
+galeria e a ordem das paradas. Quando
+
+64
+00:01:18,870 --> 00:01:18,880
+galeria e a ordem das paradas. Quando
+ 
+
+65
+00:01:18,880 --> 00:01:21,550
+galeria e a ordem das paradas. Quando
+estiver tudo certo, marque ativo e
+
+66
+00:01:21,550 --> 00:01:21,560
+estiver tudo certo, marque ativo e
+ 
+
+67
+00:01:21,560 --> 00:01:23,870
+estiver tudo certo, marque ativo e
+clique em salvar. E o roteiro aparece no
+
+68
+00:01:23,870 --> 00:01:23,880
+clique em salvar. E o roteiro aparece no
+ 
+
+69
+00:01:23,880 --> 00:01:25,950
+clique em salvar. E o roteiro aparece no
+site com as paradas para o visitante
+
+70
+00:01:25,950 --> 00:01:25,960
+site com as paradas para o visitante
+ 
+
+71
+00:01:25,960 --> 00:01:28,470
+site com as paradas para o visitante
+seguir. Pronto. Agora o seu portal tem
+
+72
+00:01:28,470 --> 00:01:28,480
+seguir. Pronto. Agora o seu portal tem
+ 
+
+73
+00:01:28,480 --> 00:01:33,400
+seguir. Pronto. Agora o seu portal tem
+roteiros completos, prontos em minutos.
+
