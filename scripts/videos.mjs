@@ -10,15 +10,9 @@ import { fileURLToPath } from 'node:url'
 
 // ---- configuração ----
 const PLANILHA = '1T-8uwGcdqZxnH0W3l86UP6S8v5IeeIX7fwVUuH7f5Uc'
-const ABAS = [ // [slug do snapshot, gid, produto]
-  ['painel-admin', 1014831656, 'portal-da-cidade'],
-  ['area-empresa-parceiro-portal', 1923457458, 'portal-da-cidade'],
-  ['sistema-dados-pj', 935621533, 'dados-pj'],
-  ['extrator-google-maps', 1086361894, 'extrator-maps'],
-  ['claude-videos-basicos-area-do-cliente', 615353814, 'area-do-cliente'],
-  ['conteudos-treinamento-do-franqueado', 1344777380, 'treinamento-do-franqueado'],
-  ['paginas-de-vendas', 646835390, 'vendas'],
-]
+// [slug do snapshot, gid, produto], de videos/abas.json (aba nova entra lá pelo atualizar-videos.mjs).
+const ABAS = JSON.parse(readFileSync(new URL('../videos/abas.json', import.meta.url), 'utf8')).abas
+  .map(a => [a.slug, a.gid, a.produto || 'sem-produto'])
 // Observações apuradas por linha (chave "slug:id_planilha"), herdadas do catálogo de 2026-10-21.
 const OBS = {
   'painel-admin:6': 'coluna Drive aponta a versão antiga JdJr7pXVx98 (fica no catálogo como 2º nos artigos do Guia).',
