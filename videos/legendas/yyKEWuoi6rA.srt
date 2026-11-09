@@ -1,0 +1,785 @@
+1
+00:00:00,000 --> 00:00:02,310
+ 
+Este é o painel do administrador do seu
+
+2
+00:00:02,310 --> 00:00:02,320
+Este é o painel do administrador do seu
+ 
+
+3
+00:00:02,320 --> 00:00:05,110
+Este é o painel do administrador do seu
+portal. Daqui, você controla o conteúdo,
+
+4
+00:00:05,110 --> 00:00:05,120
+portal. Daqui, você controla o conteúdo,
+ 
+
+5
+00:00:05,120 --> 00:00:06,950
+portal. Daqui, você controla o conteúdo,
+os clientes, os planos e as
+
+6
+00:00:06,950 --> 00:00:06,960
+os clientes, os planos e as
+ 
+
+7
+00:00:06,960 --> 00:00:09,630
+os clientes, os planos e as
+configurações do site. Ao entrar, você
+
+8
+00:00:09,630 --> 00:00:09,640
+configurações do site. Ao entrar, você
+ 
+
+9
+00:00:09,640 --> 00:00:11,990
+configurações do site. Ao entrar, você
+cai no painel, a tela inicial, e no
+
+10
+00:00:11,990 --> 00:00:12,000
+cai no painel, a tela inicial, e no
+ 
+
+11
+00:00:12,000 --> 00:00:14,870
+cai no painel, a tela inicial, e no
+canto de cima, o botão ver portal abre o
+
+12
+00:00:14,870 --> 00:00:14,880
+canto de cima, o botão ver portal abre o
+ 
+
+13
+00:00:14,880 --> 00:00:17,910
+canto de cima, o botão ver portal abre o
+site como visitante vê. Em cada tela, o
+
+14
+00:00:17,910 --> 00:00:17,920
+site como visitante vê. Em cada tela, o
+ 
+
+15
+00:00:17,920 --> 00:00:19,990
+site como visitante vê. Em cada tela, o
+banner vídeo explicativo mostra o
+
+16
+00:00:19,990 --> 00:00:20,000
+banner vídeo explicativo mostra o
+ 
+
+17
+00:00:20,000 --> 00:00:22,150
+banner vídeo explicativo mostra o
+tutorial daquela página e o botão de
+
+18
+00:00:22,150 --> 00:00:22,160
+tutorial daquela página e o botão de
+ 
+
+19
+00:00:22,160 --> 00:00:25,230
+tutorial daquela página e o botão de
+interrogação explica cada parte. No topo
+
+20
+00:00:25,230 --> 00:00:25,240
+interrogação explica cada parte. No topo
+ 
+
+21
+00:00:25,240 --> 00:00:27,710
+interrogação explica cada parte. No topo
+fica o tráfego do portal, as visitas ao
+
+22
+00:00:27,710 --> 00:00:27,720
+fica o tráfego do portal, as visitas ao
+ 
+
+23
+00:00:27,720 --> 00:00:29,790
+fica o tráfego do portal, as visitas ao
+site público contadas pelo próprio
+
+24
+00:00:29,790 --> 00:00:29,800
+site público contadas pelo próprio
+ 
+
+25
+00:00:29,800 --> 00:00:32,830
+site público contadas pelo próprio
+portal. Escolha o período, 7 dias, 30
+
+26
+00:00:32,830 --> 00:00:32,840
+portal. Escolha o período, 7 dias, 30
+ 
+
+27
+00:00:32,840 --> 00:00:35,990
+portal. Escolha o período, 7 dias, 30
+dias, este mês ou datas personalizadas e
+
+28
+00:00:35,990 --> 00:00:36,000
+dias, este mês ou datas personalizadas e
+ 
+
+29
+00:00:36,000 --> 00:00:38,470
+dias, este mês ou datas personalizadas e
+baixe o relatório em PDF. Os quatro
+
+30
+00:00:38,470 --> 00:00:38,480
+baixe o relatório em PDF. Os quatro
+ 
+
+31
+00:00:38,480 --> 00:00:40,950
+baixe o relatório em PDF. Os quatro
+quadros mostram os acessos ou páginas
+
+32
+00:00:40,950 --> 00:00:40,960
+quadros mostram os acessos ou páginas
+ 
+
+33
+00:00:40,960 --> 00:00:43,750
+quadros mostram os acessos ou páginas
+vistas, os visitantes, o tempo médio na
+
+34
+00:00:43,750 --> 00:00:43,760
+vistas, os visitantes, o tempo médio na
+ 
+
+35
+00:00:43,760 --> 00:00:46,350
+vistas, os visitantes, o tempo médio na
+página e quantas páginas cada visitante
+
+36
+00:00:46,350 --> 00:00:46,360
+página e quantas páginas cada visitante
+ 
+
+37
+00:00:46,360 --> 00:00:48,750
+página e quantas páginas cada visitante
+vê. A etiqueta compara com o período
+
+38
+00:00:48,750 --> 00:00:48,760
+vê. A etiqueta compara com o período
+ 
+
+39
+00:00:48,760 --> 00:00:51,310
+vê. A etiqueta compara com o período
+anterior. O gráfico mostra os acessos e
+
+40
+00:00:51,310 --> 00:00:51,320
+anterior. O gráfico mostra os acessos e
+ 
+
+41
+00:00:51,320 --> 00:00:53,870
+anterior. O gráfico mostra os acessos e
+os visitantes dia a dia. O dia de hoje
+
+42
+00:00:53,870 --> 00:00:53,880
+os visitantes dia a dia. O dia de hoje
+ 
+
+43
+00:00:53,880 --> 00:00:56,070
+os visitantes dia a dia. O dia de hoje
+ainda está contando, por isso a linha
+
+44
+00:00:56,070 --> 00:00:56,080
+ainda está contando, por isso a linha
+ 
+
+45
+00:00:56,080 --> 00:00:58,750
+ainda está contando, por isso a linha
+fica tracejada. Logo abaixo, as seções
+
+46
+00:00:58,750 --> 00:00:58,760
+fica tracejada. Logo abaixo, as seções
+ 
+
+47
+00:00:58,760 --> 00:01:01,110
+fica tracejada. Logo abaixo, as seções
+mais acessadas do portal e as páginas
+
+48
+00:01:01,110 --> 00:01:01,120
+mais acessadas do portal e as páginas
+ 
+
+49
+00:01:01,120 --> 00:01:03,430
+mais acessadas do portal e as páginas
+mais lidas no período com o tempo médio
+
+50
+00:01:03,430 --> 00:01:03,440
+mais lidas no período com o tempo médio
+ 
+
+51
+00:01:03,440 --> 00:01:05,950
+mais lidas no período com o tempo médio
+de leitura. Em administração do portal
+
+52
+00:01:05,950 --> 00:01:05,960
+de leitura. Em administração do portal
+ 
+
+53
+00:01:05,960 --> 00:01:08,230
+de leitura. Em administração do portal
+ficam os atalhos para criar uma notícia,
+
+54
+00:01:08,230 --> 00:01:08,240
+ficam os atalhos para criar uma notícia,
+ 
+
+55
+00:01:08,240 --> 00:01:11,070
+ficam os atalhos para criar uma notícia,
+uma empresa, uma vaga, um anúncio, um
+
+56
+00:01:11,070 --> 00:01:11,080
+uma empresa, uma vaga, um anúncio, um
+ 
+
+57
+00:01:11,080 --> 00:01:13,390
+uma empresa, uma vaga, um anúncio, um
+evento ou um ponto turístico e os
+
+58
+00:01:13,390 --> 00:01:13,400
+evento ou um ponto turístico e os
+ 
+
+59
+00:01:13,400 --> 00:01:15,670
+evento ou um ponto turístico e os
+números do que está no ar. E em precisa
+
+60
+00:01:15,670 --> 00:01:15,680
+números do que está no ar. E em precisa
+ 
+
+61
+00:01:15,680 --> 00:01:18,110
+números do que está no ar. E em precisa
+da sua atenção ficam as pendências, a
+
+62
+00:01:18,110 --> 00:01:18,120
+da sua atenção ficam as pendências, a
+ 
+
+63
+00:01:18,120 --> 00:01:20,790
+da sua atenção ficam as pendências, a
+fila de aprovação, as faturas vencidas e
+
+64
+00:01:20,790 --> 00:01:20,800
+fila de aprovação, as faturas vencidas e
+ 
+
+65
+00:01:20,800 --> 00:01:23,190
+fila de aprovação, as faturas vencidas e
+as denúncias de moradores. Cada uma tem
+
+66
+00:01:23,190 --> 00:01:23,200
+as denúncias de moradores. Cada uma tem
+ 
+
+67
+00:01:23,200 --> 00:01:25,630
+as denúncias de moradores. Cada uma tem
+um botão que leva direto para resolver.
+
+68
+00:01:25,630 --> 00:01:25,640
+um botão que leva direto para resolver.
+ 
+
+69
+00:01:25,640 --> 00:01:28,350
+um botão que leva direto para resolver.
+Agora, o menu lateral. Em meus links
+
+70
+00:01:28,350 --> 00:01:28,360
+Agora, o menu lateral. Em meus links
+ 
+
+71
+00:01:28,360 --> 00:01:30,550
+Agora, o menu lateral. Em meus links
+estão todos os endereços do portal
+
+72
+00:01:30,550 --> 00:01:30,560
+estão todos os endereços do portal
+ 
+
+73
+00:01:30,560 --> 00:01:33,030
+estão todos os endereços do portal
+prontos para copiar e divulgar. E em
+
+74
+00:01:33,030 --> 00:01:33,040
+prontos para copiar e divulgar. E em
+ 
+
+75
+00:01:33,040 --> 00:01:35,350
+prontos para copiar e divulgar. E em
+aprovações e denúncias, o que clientes e
+
+76
+00:01:35,350 --> 00:01:35,360
+aprovações e denúncias, o que clientes e
+ 
+
+77
+00:01:35,360 --> 00:01:37,390
+aprovações e denúncias, o que clientes e
+moradores enviaram e espera a sua
+
+78
+00:01:37,390 --> 00:01:37,400
+moradores enviaram e espera a sua
+ 
+
+79
+00:01:37,400 --> 00:01:39,830
+moradores enviaram e espera a sua
+decisão. No grupo conteúdo ficam as
+
+80
+00:01:39,830 --> 00:01:39,840
+decisão. No grupo conteúdo ficam as
+ 
+
+81
+00:01:39,840 --> 00:01:42,350
+decisão. No grupo conteúdo ficam as
+seções do site, notícias e notícias
+
+82
+00:01:42,350 --> 00:01:42,360
+seções do site, notícias e notícias
+ 
+
+83
+00:01:42,360 --> 00:01:45,110
+seções do site, notícias e notícias
+automáticas, guia comercial, radar de
+
+84
+00:01:45,110 --> 00:01:45,120
+automáticas, guia comercial, radar de
+ 
+
+85
+00:01:45,120 --> 00:01:48,430
+automáticas, guia comercial, radar de
+preços, vagas de emprego, classificados,
+
+86
+00:01:48,430 --> 00:01:48,440
+preços, vagas de emprego, classificados,
+ 
+
+87
+00:01:48,440 --> 00:01:51,190
+preços, vagas de emprego, classificados,
+guia turístico e eventos e artigos.
+
+88
+00:01:51,190 --> 00:01:51,200
+guia turístico e eventos e artigos.
+ 
+
+89
+00:01:51,200 --> 00:01:53,670
+guia turístico e eventos e artigos.
+Também estão aqui orçamentos online, a
+
+90
+00:01:53,670 --> 00:01:53,680
+Também estão aqui orçamentos online, a
+ 
+
+91
+00:01:53,680 --> 00:01:57,230
+Também estão aqui orçamentos online, a
+voz do povo, sorteios, doações, melhores
+
+92
+00:01:57,230 --> 00:01:57,240
+voz do povo, sorteios, doações, melhores
+ 
+
+93
+00:01:57,240 --> 00:01:59,922
+voz do povo, sorteios, doações, melhores
+da cidade e banners publicitários. No
+
+94
+00:01:59,922 --> 00:01:59,932
+da cidade e banners publicitários. No
+ 
+
+95
+00:01:59,932 --> 00:02:02,682
+da cidade e banners publicitários. No
+grupo comercial, você cuida do negócio:
+
+96
+00:02:02,682 --> 00:02:02,692
+grupo comercial, você cuida do negócio:
+ 
+
+97
+00:02:02,692 --> 00:02:05,642
+grupo comercial, você cuida do negócio:
+meus clientes, financeiro, meus planos e
+
+98
+00:02:05,642 --> 00:02:05,652
+meus clientes, financeiro, meus planos e
+ 
+
+99
+00:02:05,652 --> 00:02:07,882
+meus clientes, financeiro, meus planos e
+parceiros. E em sistema ficam as
+
+100
+00:02:07,882 --> 00:02:07,892
+parceiros. E em sistema ficam as
+ 
+
+101
+00:02:07,892 --> 00:02:10,522
+parceiros. E em sistema ficam as
+notificações push, o assistente de IA do
+
+102
+00:02:10,522 --> 00:02:10,532
+notificações push, o assistente de IA do
+ 
+
+103
+00:02:10,532 --> 00:02:13,202
+notificações push, o assistente de IA do
+site e as configurações do portal. No
+
+104
+00:02:13,202 --> 00:02:13,212
+site e as configurações do portal. No
+ 
+
+105
+00:02:13,212 --> 00:02:15,962
+site e as configurações do portal. No
+rodapé do menu, sugestões de funções,
+
+106
+00:02:15,962 --> 00:02:15,972
+rodapé do menu, sugestões de funções,
+ 
+
+107
+00:02:15,972 --> 00:02:17,402
+rodapé do menu, sugestões de funções,
+para dizer o que está faltando no
+
+108
+00:02:17,402 --> 00:02:17,412
+para dizer o que está faltando no
+ 
+
+109
+00:02:17,412 --> 00:02:19,802
+para dizer o que está faltando no
+portal. E logo abaixo, seus dados de
+
+110
+00:02:19,802 --> 00:02:19,812
+portal. E logo abaixo, seus dados de
+ 
+
+111
+00:02:19,812 --> 00:02:22,202
+portal. E logo abaixo, seus dados de
+acesso e o botão de sair. Ficou com
+
+112
+00:02:22,202 --> 00:02:22,212
+acesso e o botão de sair. Ficou com
+ 
+
+113
+00:02:22,212 --> 00:02:24,602
+acesso e o botão de sair. Ficou com
+dúvida? No canto inferior direito fica o
+
+114
+00:02:24,602 --> 00:02:24,612
+dúvida? No canto inferior direito fica o
+ 
+
+115
+00:02:24,612 --> 00:02:26,602
+dúvida? No canto inferior direito fica o
+suporte do portal com inteligência
+
+116
+00:02:26,602 --> 00:02:26,612
+suporte do portal com inteligência
+ 
+
+117
+00:02:26,612 --> 00:02:29,562
+suporte do portal com inteligência
+artificial. Ali ficam as suas conversas.
+
+118
+00:02:29,562 --> 00:02:29,572
+artificial. Ali ficam as suas conversas.
+ 
+
+119
+00:02:29,572 --> 00:02:31,722
+artificial. Ali ficam as suas conversas.
+Clique em nova conversa e escreva sua
+
+120
+00:02:31,722 --> 00:02:31,732
+Clique em nova conversa e escreva sua
+ 
+
+121
+00:02:31,732 --> 00:02:34,482
+Clique em nova conversa e escreva sua
+pergunta do seu jeito. A IA responde na
+
+122
+00:02:34,482 --> 00:02:34,492
+pergunta do seu jeito. A IA responde na
+ 
+
+123
+00:02:34,492 --> 00:02:36,762
+pergunta do seu jeito. A IA responde na
+hora, com base no manual do portal. E
+
+124
+00:02:36,762 --> 00:02:36,772
+hora, com base no manual do portal. E
+ 
+
+125
+00:02:36,772 --> 00:02:38,562
+hora, com base no manual do portal. E
+quando existe um vídeo tutorial sobre o
+
+126
+00:02:38,562 --> 00:02:38,572
+quando existe um vídeo tutorial sobre o
+ 
+
+127
+00:02:38,572 --> 00:02:40,922
+quando existe um vídeo tutorial sobre o
+assunto, ela já mostra o vídeo. Se
+
+128
+00:02:40,922 --> 00:02:40,932
+assunto, ela já mostra o vídeo. Se
+ 
+
+129
+00:02:40,932 --> 00:02:44,002
+assunto, ela já mostra o vídeo. Se
+preferir, clique em "me mostra na tela".
+
+130
+00:02:44,002 --> 00:02:44,012
+preferir, clique em "me mostra na tela".
+ 
+
+131
+00:02:44,012 --> 00:02:46,522
+preferir, clique em "me mostra na tela".
+Ela guia você passo a passo com a imagem
+
+132
+00:02:46,522 --> 00:02:46,532
+Ela guia você passo a passo com a imagem
+ 
+
+133
+00:02:46,532 --> 00:02:49,122
+Ela guia você passo a passo com a imagem
+da tela. A cada passo, responda:
+
+134
+00:02:49,122 --> 00:02:49,132
+da tela. A cada passo, responda:
+ 
+
+135
+00:02:49,132 --> 00:02:51,482
+da tela. A cada passo, responda:
+"consegui" ou "não consegui".
+
+136
+00:02:51,482 --> 00:02:51,492
+"consegui" ou "não consegui".
+ 
+
+137
+00:02:51,492 --> 00:02:53,722
+"consegui" ou "não consegui".
+Também dá para anexar um print da tela
+
+138
+00:02:53,722 --> 00:02:53,732
+Também dá para anexar um print da tela
+ 
+
+139
+00:02:53,732 --> 00:02:56,682
+Também dá para anexar um print da tela
+pelo botão de imagem. A IA lê o print e
+
+140
+00:02:56,682 --> 00:02:56,692
+pelo botão de imagem. A IA lê o print e
+ 
+
+141
+00:02:56,692 --> 00:02:59,162
+pelo botão de imagem. A IA lê o print e
+explica o que está aparecendo. E se a IA
+
+142
+00:02:59,162 --> 00:02:59,172
+explica o que está aparecendo. E se a IA
+ 
+
+143
+00:02:59,172 --> 00:03:01,282
+explica o que está aparecendo. E se a IA
+não resolver, ou se você pedir para
+
+144
+00:03:01,282 --> 00:03:01,292
+não resolver, ou se você pedir para
+ 
+
+145
+00:03:01,292 --> 00:03:03,242
+não resolver, ou se você pedir para
+falar com uma pessoa, ela abre um
+
+146
+00:03:03,242 --> 00:03:03,252
+falar com uma pessoa, ela abre um
+ 
+
+147
+00:03:03,252 --> 00:03:05,442
+falar com uma pessoa, ela abre um
+chamado para a equipe de suporte. Você
+
+148
+00:03:05,442 --> 00:03:05,452
+chamado para a equipe de suporte. Você
+ 
+
+149
+00:03:05,452 --> 00:03:07,482
+chamado para a equipe de suporte. Você
+acompanha o atendimento pela sua área do
+
+150
+00:03:07,482 --> 00:03:07,492
+acompanha o atendimento pela sua área do
+ 
+
+151
+00:03:07,492 --> 00:03:10,522
+acompanha o atendimento pela sua área do
+cliente. Pronto, agora você já sabe onde
+
+152
+00:03:10,522 --> 00:03:10,532
+cliente. Pronto, agora você já sabe onde
+ 
+
+153
+00:03:10,532 --> 00:03:12,722
+cliente. Pronto, agora você já sabe onde
+encontrar cada coisa no painel. Nos
+
+154
+00:03:12,722 --> 00:03:12,732
+encontrar cada coisa no painel. Nos
+ 
+
+155
+00:03:12,732 --> 00:03:15,042
+encontrar cada coisa no painel. Nos
+vídeos de cada sessão, mostramos tudo em
+
+156
+00:03:15,042 --> 00:03:15,052
+vídeos de cada sessão, mostramos tudo em
+ 
+
+157
+00:03:15,052 --> 00:03:17,652
+vídeos de cada sessão, mostramos tudo em
+detalhes.
+

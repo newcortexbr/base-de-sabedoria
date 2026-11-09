@@ -1,0 +1,605 @@
+1
+00:00:00,000 --> 00:00:01,990
+ 
+Aprovações e denúncias onde você
+
+2
+00:00:01,990 --> 00:00:02,000
+Aprovações e denúncias onde você
+ 
+
+3
+00:00:02,000 --> 00:00:04,690
+Aprovações e denúncias onde você
+controla o que entra no portal. E agora
+
+4
+00:00:04,690 --> 00:00:04,700
+controla o que entra no portal. E agora
+ 
+
+5
+00:00:04,700 --> 00:00:06,690
+controla o que entra no portal. E agora
+a inteligência artificial faz essa
+
+6
+00:00:06,690 --> 00:00:06,700
+a inteligência artificial faz essa
+ 
+
+7
+00:00:06,700 --> 00:00:08,290
+a inteligência artificial faz essa
+análise por você.
+
+8
+00:00:08,290 --> 00:00:08,300
+análise por você.
+ 
+
+9
+00:00:08,300 --> 00:00:10,390
+análise por você.
+Antes de começar, é importante conectar
+
+10
+00:00:10,390 --> 00:00:10,400
+Antes de começar, é importante conectar
+ 
+
+11
+00:00:10,400 --> 00:00:12,390
+Antes de começar, é importante conectar
+a sua conta do chat GPT.
+
+12
+00:00:12,390 --> 00:00:12,400
+a sua conta do chat GPT.
+ 
+
+13
+00:00:12,400 --> 00:00:14,690
+a sua conta do chat GPT.
+Em configurações gerais, clique em
+
+14
+00:00:14,690 --> 00:00:14,700
+Em configurações gerais, clique em
+ 
+
+15
+00:00:14,700 --> 00:00:17,490
+Em configurações gerais, clique em
+entrar com o chat GPT e pode ser a conta
+
+16
+00:00:17,490 --> 00:00:17,500
+entrar com o chat GPT e pode ser a conta
+ 
+
+17
+00:00:17,500 --> 00:00:18,590
+entrar com o chat GPT e pode ser a conta
+gratuita.
+
+18
+00:00:18,590 --> 00:00:18,600
+gratuita.
+ 
+
+19
+00:00:18,600 --> 00:00:20,790
+gratuita.
+No painel, clique em aprovações e
+
+20
+00:00:20,790 --> 00:00:20,800
+No painel, clique em aprovações e
+ 
+
+21
+00:00:20,800 --> 00:00:24,190
+No painel, clique em aprovações e
+denúncias logo abaixo de meus links. Em
+
+22
+00:00:24,190 --> 00:00:24,200
+denúncias logo abaixo de meus links. Em
+ 
+
+23
+00:00:24,200 --> 00:00:26,790
+denúncias logo abaixo de meus links. Em
+como funciona neste portal, exigir minha
+
+24
+00:00:26,790 --> 00:00:26,800
+como funciona neste portal, exigir minha
+ 
+
+25
+00:00:26,800 --> 00:00:29,390
+como funciona neste portal, exigir minha
+aprovação antes de publicar faz tudo que
+
+26
+00:00:29,390 --> 00:00:29,400
+aprovação antes de publicar faz tudo que
+ 
+
+27
+00:00:29,400 --> 00:00:31,690
+aprovação antes de publicar faz tudo que
+os clientes enviam esperar uma decisão
+
+28
+00:00:31,690 --> 00:00:31,700
+os clientes enviam esperar uma decisão
+ 
+
+29
+00:00:31,700 --> 00:00:33,190
+os clientes enviam esperar uma decisão
+antes de ir ao ar.
+
+30
+00:00:33,190 --> 00:00:33,200
+antes de ir ao ar.
+ 
+
+31
+00:00:33,200 --> 00:00:35,990
+antes de ir ao ar.
+Logo abaixo, ligue a revisão automática
+
+32
+00:00:35,990 --> 00:00:36,000
+Logo abaixo, ligue a revisão automática
+ 
+
+33
+00:00:36,000 --> 00:00:39,090
+Logo abaixo, ligue a revisão automática
+por IA. A IA lê os textos e olha as
+
+34
+00:00:39,090 --> 00:00:39,100
+por IA. A IA lê os textos e olha as
+ 
+
+35
+00:00:39,100 --> 00:00:41,490
+por IA. A IA lê os textos e olha as
+imagens de tudo o que chega e verifica
+
+36
+00:00:41,490 --> 00:00:41,500
+imagens de tudo o que chega e verifica
+ 
+
+37
+00:00:41,500 --> 00:00:44,090
+imagens de tudo o que chega e verifica
+se há algo ilegal, violência, golpe,
+
+38
+00:00:44,090 --> 00:00:44,100
+se há algo ilegal, violência, golpe,
+ 
+
+39
+00:00:44,100 --> 00:00:46,690
+se há algo ilegal, violência, golpe,
+nudez ou qualquer coisa que não combine
+
+40
+00:00:46,690 --> 00:00:46,700
+nudez ou qualquer coisa que não combine
+ 
+
+41
+00:00:46,700 --> 00:00:47,790
+nudez ou qualquer coisa que não combine
+com o portal.
+
+42
+00:00:47,790 --> 00:00:47,800
+com o portal.
+ 
+
+43
+00:00:47,800 --> 00:00:49,990
+com o portal.
+E permitir que visitantes denunciem
+
+44
+00:00:49,990 --> 00:00:50,000
+E permitir que visitantes denunciem
+ 
+
+45
+00:00:50,000 --> 00:00:52,790
+E permitir que visitantes denunciem
+conteúdo mostra o botão denunciar nas
+
+46
+00:00:52,790 --> 00:00:52,800
+conteúdo mostra o botão denunciar nas
+ 
+
+47
+00:00:52,800 --> 00:00:55,590
+conteúdo mostra o botão denunciar nas
+páginas de empresa, vaga, classificado e
+
+48
+00:00:55,590 --> 00:00:55,600
+páginas de empresa, vaga, classificado e
+ 
+
+49
+00:00:55,600 --> 00:00:56,590
+páginas de empresa, vaga, classificado e
+evento.
+
+50
+00:00:56,590 --> 00:00:56,600
+evento.
+ 
+
+51
+00:00:56,600 --> 00:00:58,990
+evento.
+Em revisado pela IA, você acompanha o
+
+52
+00:00:58,990 --> 00:00:59,000
+Em revisado pela IA, você acompanha o
+ 
+
+53
+00:00:59,000 --> 00:01:01,590
+Em revisado pela IA, você acompanha o
+trabalho dela, quantos itens ela aprovou
+
+54
+00:01:01,590 --> 00:01:01,600
+trabalho dela, quantos itens ela aprovou
+ 
+
+55
+00:01:01,600 --> 00:01:03,790
+trabalho dela, quantos itens ela aprovou
+e quantos recusou. São banners,
+
+56
+00:01:03,790 --> 00:01:03,800
+e quantos recusou. São banners,
+ 
+
+57
+00:01:03,800 --> 00:01:06,890
+e quantos recusou. São banners,
+empresas, vagas, eventos, anúncios,
+
+58
+00:01:06,890 --> 00:01:06,900
+empresas, vagas, eventos, anúncios,
+ 
+
+59
+00:01:06,900 --> 00:01:09,190
+empresas, vagas, eventos, anúncios,
+relatos da voz do povo e fotos do radar
+
+60
+00:01:09,190 --> 00:01:09,200
+relatos da voz do povo e fotos do radar
+ 
+
+61
+00:01:09,200 --> 00:01:11,990
+relatos da voz do povo e fotos do radar
+de preços. Cada cartão mostra a última
+
+62
+00:01:11,990 --> 00:01:12,000
+de preços. Cada cartão mostra a última
+ 
+
+63
+00:01:12,000 --> 00:01:14,690
+de preços. Cada cartão mostra a última
+decisão. Aqui, por exemplo, ela recusou
+
+64
+00:01:14,690 --> 00:01:14,700
+decisão. Aqui, por exemplo, ela recusou
+ 
+
+65
+00:01:14,700 --> 00:01:17,190
+decisão. Aqui, por exemplo, ela recusou
+um anúncio. Quem é recusado recebe o
+
+66
+00:01:17,190 --> 00:01:17,200
+um anúncio. Quem é recusado recebe o
+ 
+
+67
+00:01:17,200 --> 00:01:19,490
+um anúncio. Quem é recusado recebe o
+motivo por e-mail e pode corrigir e
+
+68
+00:01:19,490 --> 00:01:19,500
+motivo por e-mail e pode corrigir e
+ 
+
+69
+00:01:19,500 --> 00:01:22,090
+motivo por e-mail e pode corrigir e
+enviar de novo. E no fim, quanto tempo
+
+70
+00:01:22,090 --> 00:01:22,100
+enviar de novo. E no fim, quanto tempo
+ 
+
+71
+00:01:22,100 --> 00:01:24,390
+enviar de novo. E no fim, quanto tempo
+de trabalho ela já te poupou. Veja na
+
+72
+00:01:24,390 --> 00:01:24,400
+de trabalho ela já te poupou. Veja na
+ 
+
+73
+00:01:24,400 --> 00:01:26,690
+de trabalho ela já te poupou. Veja na
+prática. Um morador enviou pela voz do
+
+74
+00:01:26,690 --> 00:01:26,700
+prática. Um morador enviou pela voz do
+ 
+
+75
+00:01:26,700 --> 00:01:28,990
+prática. Um morador enviou pela voz do
+povo um relato sobre um poste apagado na
+
+76
+00:01:28,990 --> 00:01:29,000
+povo um relato sobre um poste apagado na
+ 
+
+77
+00:01:29,000 --> 00:01:31,690
+povo um relato sobre um poste apagado na
+rua dele. A IA conferiu, viu que estava
+
+78
+00:01:31,690 --> 00:01:31,700
+rua dele. A IA conferiu, viu que estava
+ 
+
+79
+00:01:31,700 --> 00:01:34,390
+rua dele. A IA conferiu, viu que estava
+tudo certo e já publicou no mural. E o
+
+80
+00:01:34,390 --> 00:01:34,400
+tudo certo e já publicou no mural. E o
+ 
+
+81
+00:01:34,400 --> 00:01:36,890
+tudo certo e já publicou no mural. E o
+relato aparece na página A Voz do Povo
+
+82
+00:01:36,890 --> 00:01:36,900
+relato aparece na página A Voz do Povo
+ 
+
+83
+00:01:36,900 --> 00:01:39,690
+relato aparece na página A Voz do Povo
+para todo mundo ver. Agora, outro envio
+
+84
+00:01:39,690 --> 00:01:39,700
+para todo mundo ver. Agora, outro envio
+ 
+
+85
+00:01:39,700 --> 00:01:42,690
+para todo mundo ver. Agora, outro envio
+anunciava a venda de arma e drogas. A IA
+
+86
+00:01:42,690 --> 00:01:42,700
+anunciava a venda de arma e drogas. A IA
+ 
+
+87
+00:01:42,700 --> 00:01:44,890
+anunciava a venda de arma e drogas. A IA
+recusou na hora. O relato ficou
+
+88
+00:01:44,890 --> 00:01:44,900
+recusou na hora. O relato ficou
+ 
+
+89
+00:01:44,900 --> 00:01:47,490
+recusou na hora. O relato ficou
+arquivado e não foi para o site. Quando
+
+90
+00:01:47,490 --> 00:01:47,500
+arquivado e não foi para o site. Quando
+ 
+
+91
+00:01:47,500 --> 00:01:50,190
+arquivado e não foi para o site. Quando
+o caso é grave ou a IA não tem certeza,
+
+92
+00:01:50,190 --> 00:01:50,200
+o caso é grave ou a IA não tem certeza,
+ 
+
+93
+00:01:50,200 --> 00:01:52,590
+o caso é grave ou a IA não tem certeza,
+o item fica em itens para aprovar,
+
+94
+00:01:52,590 --> 00:01:52,600
+o item fica em itens para aprovar,
+ 
+
+95
+00:01:52,600 --> 00:01:55,690
+o item fica em itens para aprovar,
+esperando você. Abra o detalhe, leia e
+
+96
+00:01:55,690 --> 00:01:55,700
+esperando você. Abra o detalhe, leia e
+ 
+
+97
+00:01:55,700 --> 00:01:58,390
+esperando você. Abra o detalhe, leia e
+clique em aprovar ou recusar.
+
+98
+00:01:58,390 --> 00:01:58,400
+clique em aprovar ou recusar.
+ 
+
+99
+00:01:58,400 --> 00:02:00,882
+clique em aprovar ou recusar.
+Na aba denúncias ficam as reclamações
+
+100
+00:02:00,882 --> 00:02:00,892
+Na aba denúncias ficam as reclamações
+ 
+
+101
+00:02:00,892 --> 00:02:03,282
+Na aba denúncias ficam as reclamações
+visitantes sobre o conteúdo do portal.
+
+102
+00:02:03,282 --> 00:02:03,292
+visitantes sobre o conteúdo do portal.
+ 
+
+103
+00:02:03,292 --> 00:02:05,682
+visitantes sobre o conteúdo do portal.
+Filtre por pendentes, resolvidas ou
+
+104
+00:02:05,682 --> 00:02:05,692
+Filtre por pendentes, resolvidas ou
+ 
+
+105
+00:02:05,692 --> 00:02:08,482
+Filtre por pendentes, resolvidas ou
+ignoradas e por módulo. Abra a denúncia
+
+106
+00:02:08,482 --> 00:02:08,492
+ignoradas e por módulo. Abra a denúncia
+ 
+
+107
+00:02:08,492 --> 00:02:11,182
+ignoradas e por módulo. Abra a denúncia
+para ver o item, o motivo e a descrição
+
+108
+00:02:11,182 --> 00:02:11,192
+para ver o item, o motivo e a descrição
+ 
+
+109
+00:02:11,192 --> 00:02:13,882
+para ver o item, o motivo e a descrição
+de quem denunciou. Depois decida,
+
+110
+00:02:13,882 --> 00:02:13,892
+de quem denunciou. Depois decida,
+ 
+
+111
+00:02:13,892 --> 00:02:16,282
+de quem denunciou. Depois decida,
+ignorar denúncia, excluir item ou
+
+112
+00:02:16,282 --> 00:02:16,292
+ignorar denúncia, excluir item ou
+ 
+
+113
+00:02:16,292 --> 00:02:19,182
+ignorar denúncia, excluir item ou
+bloquear a empresa ou a conta. Toda ação
+
+114
+00:02:19,182 --> 00:02:19,192
+bloquear a empresa ou a conta. Toda ação
+ 
+
+115
+00:02:19,192 --> 00:02:20,882
+bloquear a empresa ou a conta. Toda ação
+pede confirmação.
+
+116
+00:02:20,882 --> 00:02:20,892
+pede confirmação.
+ 
+
+117
+00:02:20,892 --> 00:02:23,082
+pede confirmação.
+Pronto, com a revisão por IA o seu
+
+118
+00:02:23,082 --> 00:02:23,092
+Pronto, com a revisão por IA o seu
+ 
+
+119
+00:02:23,092 --> 00:02:25,882
+Pronto, com a revisão por IA o seu
+portal fica protegido e você só cuida do
+
+120
+00:02:25,882 --> 00:02:25,892
+portal fica protegido e você só cuida do
+ 
+
+121
+00:02:25,892 --> 00:02:29,192
+portal fica protegido e você só cuida do
+que realmente importa.
+

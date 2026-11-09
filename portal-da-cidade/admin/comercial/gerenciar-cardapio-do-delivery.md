@@ -21,6 +21,7 @@ validacao: docs-e-codigo
 videos:
   - 2ShbACG2mHE
   - TgIUmqrRuBY
+  - kqrR8OufzHg
 ---
 
 ## objetivo

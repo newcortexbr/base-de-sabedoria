@@ -1,0 +1,395 @@
+1
+00:00:00,000 --> 00:00:02,110
+ 
+Buscar vagas com IA.
+
+2
+00:00:02,110 --> 00:00:02,120
+Buscar vagas com IA.
+ 
+
+3
+00:00:02,120 --> 00:00:03,950
+Buscar vagas com IA.
+A inteligência artificial procura na
+
+4
+00:00:03,950 --> 00:00:03,960
+A inteligência artificial procura na
+ 
+
+5
+00:00:03,960 --> 00:00:06,670
+A inteligência artificial procura na
+internet as vagas abertas na sua cidade
+
+6
+00:00:06,670 --> 00:00:06,680
+internet as vagas abertas na sua cidade
+ 
+
+7
+00:00:06,680 --> 00:00:08,470
+internet as vagas abertas na sua cidade
+e cria as fichas prontas para você
+
+8
+00:00:08,470 --> 00:00:08,480
+e cria as fichas prontas para você
+ 
+
+9
+00:00:08,480 --> 00:00:09,550
+e cria as fichas prontas para você
+revisar.
+
+10
+00:00:09,550 --> 00:00:09,560
+revisar.
+ 
+
+11
+00:00:09,560 --> 00:00:11,710
+revisar.
+Antes de começar, é importante conectar
+
+12
+00:00:11,710 --> 00:00:11,720
+Antes de começar, é importante conectar
+ 
+
+13
+00:00:11,720 --> 00:00:13,710
+Antes de começar, é importante conectar
+a sua conta do chat GPT. Em
+
+14
+00:00:13,710 --> 00:00:13,720
+a sua conta do chat GPT. Em
+ 
+
+15
+00:00:13,720 --> 00:00:16,350
+a sua conta do chat GPT. Em
+configurações gerais, clique em entrar
+
+16
+00:00:16,350 --> 00:00:16,360
+configurações gerais, clique em entrar
+ 
+
+17
+00:00:16,360 --> 00:00:18,630
+configurações gerais, clique em entrar
+com o chat GPT, que pode ser a conta
+
+18
+00:00:18,630 --> 00:00:18,640
+com o chat GPT, que pode ser a conta
+ 
+
+19
+00:00:18,640 --> 00:00:21,310
+com o chat GPT, que pode ser a conta
+gratuita. No painel, abra vagas de
+
+20
+00:00:21,310 --> 00:00:21,320
+gratuita. No painel, abra vagas de
+ 
+
+21
+00:00:21,320 --> 00:00:24,790
+gratuita. No painel, abra vagas de
+emprego e clique em buscar vagas com IA.
+
+22
+00:00:24,790 --> 00:00:24,800
+emprego e clique em buscar vagas com IA.
+ 
+
+23
+00:00:24,800 --> 00:00:27,070
+emprego e clique em buscar vagas com IA.
+Escolha a cidade e clique em buscar
+
+24
+00:00:27,070 --> 00:00:27,080
+Escolha a cidade e clique em buscar
+ 
+
+25
+00:00:27,080 --> 00:00:28,030
+Escolha a cidade e clique em buscar
+vagas.
+
+26
+00:00:28,030 --> 00:00:28,040
+vagas.
+ 
+
+27
+00:00:28,040 --> 00:00:30,430
+vagas.
+A IA pesquisa na internet e sugere até
+
+28
+00:00:30,430 --> 00:00:30,440
+A IA pesquisa na internet e sugere até
+ 
+
+29
+00:00:30,440 --> 00:00:33,670
+A IA pesquisa na internet e sugere até
+12 vagas abertas nos últimos 30 dias, só
+
+30
+00:00:33,670 --> 00:00:33,680
+12 vagas abertas nos últimos 30 dias, só
+ 
+
+31
+00:00:33,680 --> 00:00:35,750
+12 vagas abertas nos últimos 30 dias, só
+as que tem uma página de origem e são da
+
+32
+00:00:35,750 --> 00:00:35,760
+as que tem uma página de origem e são da
+ 
+
+33
+00:00:35,760 --> 00:00:38,110
+as que tem uma página de origem e são da
+cidade escolhida. Cada cartão mostra o
+
+34
+00:00:38,110 --> 00:00:38,120
+cidade escolhida. Cada cartão mostra o
+ 
+
+35
+00:00:38,120 --> 00:00:40,950
+cidade escolhida. Cada cartão mostra o
+cargo, a empresa, a área, o tipo de
+
+36
+00:00:40,950 --> 00:00:40,960
+cargo, a empresa, a área, o tipo de
+ 
+
+37
+00:00:40,960 --> 00:00:43,750
+cargo, a empresa, a área, o tipo de
+contrato, um resumo e a fonte, com o
+
+38
+00:00:43,750 --> 00:00:43,760
+contrato, um resumo e a fonte, com o
+ 
+
+39
+00:00:43,760 --> 00:00:46,070
+contrato, um resumo e a fonte, com o
+link da página original. Marque as vagas
+
+40
+00:00:46,070 --> 00:00:46,080
+link da página original. Marque as vagas
+ 
+
+41
+00:00:46,080 --> 00:00:48,750
+link da página original. Marque as vagas
+que interessam uma a uma ou use marcar
+
+42
+00:00:48,750 --> 00:00:48,760
+que interessam uma a uma ou use marcar
+ 
+
+43
+00:00:48,760 --> 00:00:51,950
+que interessam uma a uma ou use marcar
+todas. Deixe publicar direto desligado
+
+44
+00:00:51,950 --> 00:00:51,960
+todas. Deixe publicar direto desligado
+ 
+
+45
+00:00:51,960 --> 00:00:54,710
+todas. Deixe publicar direto desligado
+para revisar antes. Depois, clique em
+
+46
+00:00:54,710 --> 00:00:54,720
+para revisar antes. Depois, clique em
+ 
+
+47
+00:00:54,720 --> 00:00:57,950
+para revisar antes. Depois, clique em
+criar. A IA lê a página de cada vaga e
+
+48
+00:00:57,950 --> 00:00:57,960
+criar. A IA lê a página de cada vaga e
+ 
+
+49
+00:00:57,960 --> 00:01:00,670
+criar. A IA lê a página de cada vaga e
+escreve a ficha. Pronto. As vagas ficam
+
+50
+00:01:00,670 --> 00:01:00,680
+escreve a ficha. Pronto. As vagas ficam
+ 
+
+51
+00:01:00,680 --> 00:01:03,350
+escreve a ficha. Pronto. As vagas ficam
+em rascunho, com descrição, requisitos,
+
+52
+00:01:03,350 --> 00:01:03,360
+em rascunho, com descrição, requisitos,
+ 
+
+53
+00:01:03,360 --> 00:01:06,190
+em rascunho, com descrição, requisitos,
+benefícios, salário, carga horária e o
+
+54
+00:01:06,190 --> 00:01:06,200
+benefícios, salário, carga horária e o
+ 
+
+55
+00:01:06,200 --> 00:01:08,870
+benefícios, salário, carga horária e o
+link de candidatura. Agora, em listar
+
+56
+00:01:08,870 --> 00:01:08,880
+link de candidatura. Agora, em listar
+ 
+
+57
+00:01:08,880 --> 00:01:11,230
+link de candidatura. Agora, em listar
+vagas, as vagas novas aparecem como
+
+58
+00:01:11,230 --> 00:01:11,240
+vagas, as vagas novas aparecem como
+ 
+
+59
+00:01:11,240 --> 00:01:14,270
+vagas, as vagas novas aparecem como
+pausadas. Clique em editar. Confira a
+
+60
+00:01:14,270 --> 00:01:14,280
+pausadas. Clique em editar. Confira a
+ 
+
+61
+00:01:14,280 --> 00:01:17,150
+pausadas. Clique em editar. Confira a
+empresa, os dados, o salário e o link de
+
+62
+00:01:17,150 --> 00:01:17,160
+empresa, os dados, o salário e o link de
+ 
+
+63
+00:01:17,160 --> 00:01:19,950
+empresa, os dados, o salário e o link de
+candidatura. A IA pesquisa na internet,
+
+64
+00:01:19,950 --> 00:01:19,960
+candidatura. A IA pesquisa na internet,
+ 
+
+65
+00:01:19,960 --> 00:01:22,310
+candidatura. A IA pesquisa na internet,
+então vale conferir tudo. Quando estiver
+
+66
+00:01:22,310 --> 00:01:22,320
+então vale conferir tudo. Quando estiver
+ 
+
+67
+00:01:22,320 --> 00:01:25,510
+então vale conferir tudo. Quando estiver
+tudo certo, mude o status para ativa e
+
+68
+00:01:25,510 --> 00:01:25,520
+tudo certo, mude o status para ativa e
+ 
+
+69
+00:01:25,520 --> 00:01:28,070
+tudo certo, mude o status para ativa e
+clique em salvar alterações. E a vaga
+
+70
+00:01:28,070 --> 00:01:28,080
+clique em salvar alterações. E a vaga
+ 
+
+71
+00:01:28,080 --> 00:01:29,990
+clique em salvar alterações. E a vaga
+aparece no site, com o botão
+
+72
+00:01:29,990 --> 00:01:30,000
+aparece no site, com o botão
+ 
+
+73
+00:01:30,000 --> 00:01:32,190
+aparece no site, com o botão
+candidatar-se, que leva o candidato para
+
+74
+00:01:32,190 --> 00:01:32,200
+candidatar-se, que leva o candidato para
+ 
+
+75
+00:01:32,200 --> 00:01:34,790
+candidatar-se, que leva o candidato para
+a página da empresa. Pronto. Com a busca
+
+76
+00:01:34,790 --> 00:01:34,800
+a página da empresa. Pronto. Com a busca
+ 
+
+77
+00:01:34,800 --> 00:01:36,830
+a página da empresa. Pronto. Com a busca
+por IA, o seu portal se enche de
+
+78
+00:01:36,830 --> 00:01:36,840
+por IA, o seu portal se enche de
+ 
+
+79
+00:01:36,840 --> 00:01:40,800
+por IA, o seu portal se enche de
+oportunidades em poucos minutos.
+

@@ -1,12 +1,12 @@
 {
- "gerado_em": "2026-10-29",
+ "gerado_em": "2026-11-09",
  "produtos": {
   "area-do-cliente": 92,
   "dados-pj": 14,
   "extrator-maps": 21,
-  "portal-da-cidade": 290
+  "portal-da-cidade": 293
  },
- "total": 417,
+ "total": 420,
  "artigos": [
   {
    "id": "ac-ativar-conta-pelo-convite",
@@ -5411,7 +5411,9 @@
     "acesso negado",
     "senha"
    ],
-   "videos": [],
+   "videos": [
+    "yyKEWuoi6rA"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
    "termos": [
@@ -6048,6 +6050,87 @@
    "caminho": "portal-da-cidade/admin/comercial/ativar-modulos-e-programa-de-parceiros.md"
   },
   {
+   "id": "banco-de-curriculos",
+   "titulo": "banco de currículos: encontrar candidatos, baixar e remover currículos no painel",
+   "objetivo": "Consultar as pessoas da cidade que procuram emprego. Os currículos chegam pela página de vagas do portal: qualquer pessoa monta o currículo de graça, sem criar conta, marca a autorização e clica em `Cadastrar no banco de talentos`; ela recebe um e-mail de confirmação.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "vagas",
+   "aba": "nao-se-aplica",
+   "tipos": [
+    "operacao",
+    "de onde vêm os currículos",
+    "tirar currículo do banco",
+    "exportar currículos para planilha"
+   ],
+   "tags": [
+    "vaga",
+    "cargo",
+    "filtrar",
+    "ver",
+    "whatsapp",
+    "exportar",
+    "planilha",
+    "remover"
+   ],
+   "videos": [
+    "DQX-d19ZEMQ"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-11-09",
+   "termos": [
+    "banco",
+    "curriculos",
+    "encontrar",
+    "candidatos",
+    "baixar",
+    "remover",
+    "painel",
+    "vagas",
+    "aplica",
+    "operacao",
+    "vem",
+    "tirar",
+    "curriculo",
+    "exportar",
+    "planilha",
+    "vaga",
+    "cargo",
+    "filtrar",
+    "ver",
+    "whatsapp",
+    "consultar",
+    "pessoas",
+    "cidade",
+    "procuram",
+    "emprego",
+    "chegam",
+    "pela",
+    "pagina",
+    "portal",
+    "qualquer",
+    "pessoa",
+    "monta",
+    "graca",
+    "sem",
+    "criar",
+    "conta",
+    "marca",
+    "autorizacao",
+    "clica",
+    "cadastrar",
+    "talentos",
+    "ela",
+    "recebe",
+    "mail",
+    "confirmacao"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/comercial/banco-de-curriculos.md"
+  },
+  {
    "id": "bloquear-cliente",
    "titulo": "bloquear ou liberar o acesso de um cliente",
    "objetivo": "aqui você bloqueia ou libera o acesso comercial de um cliente sem apagar seu cadastro.",
@@ -6245,7 +6328,8 @@
     "publicar"
    ],
    "videos": [
-    "ufB3QTKfPsM"
+    "ufB3QTKfPsM",
+    "LiE5x7SNeNE"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",
@@ -8258,7 +8342,8 @@
     "contratante"
    ],
    "videos": [
-    "ufB3QTKfPsM"
+    "ufB3QTKfPsM",
+    "RHZCX5t9l8M"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -8433,7 +8518,8 @@
     "empresa"
    ],
    "videos": [
-    "VV8BxCbIfz4"
+    "VV8BxCbIfz4",
+    "EJgCJ-PNpdE"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",
@@ -8481,7 +8567,8 @@
    ],
    "videos": [
     "2ShbACG2mHE",
-    "TgIUmqrRuBY"
+    "TgIUmqrRuBY",
+    "kqrR8OufzHg"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",
@@ -8997,7 +9084,8 @@
     "contratante"
    ],
    "videos": [
-    "ufB3QTKfPsM"
+    "ufB3QTKfPsM",
+    "RHZCX5t9l8M"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",
@@ -9928,7 +10016,8 @@
    ],
    "videos": [
     "TgIUmqrRuBY",
-    "2ShbACG2mHE"
+    "2ShbACG2mHE",
+    "kqrR8OufzHg"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",
@@ -10060,7 +10149,9 @@
     "status",
     "no ar"
    ],
-   "videos": [],
+   "videos": [
+    "RHZCX5t9l8M"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",
    "termos": [
@@ -11774,7 +11865,8 @@
     "descricao"
    ],
    "videos": [
-    "gAa2NdnitZU"
+    "gAa2NdnitZU",
+    "bdUesI-EacY"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -12879,7 +12971,8 @@
     "foto"
    ],
    "videos": [
-    "QrkL_nJEa-c"
+    "QrkL_nJEa-c",
+    "5eBncjc18eM"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",
@@ -12971,7 +13064,8 @@
     "ponto turistico"
    ],
    "videos": [
-    "CMEOWthwqtI"
+    "CMEOWthwqtI",
+    "DZBY11ozvNI"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -13188,7 +13282,8 @@
     "painel"
    ],
    "videos": [
-    "JYDoZB_vyX8"
+    "JYDoZB_vyX8",
+    "9iDOUoNMQ-M"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",
@@ -13245,7 +13340,9 @@
     "ver",
     "lote"
    ],
-   "videos": [],
+   "videos": [
+    "9iDOUoNMQ-M"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",
    "termos": [
@@ -13302,7 +13399,8 @@
     "painel"
    ],
    "videos": [
-    "0nkWIgiQfwM"
+    "0nkWIgiQfwM",
+    "QtSKTSX258E"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",
@@ -13355,7 +13453,8 @@
     "cobrar"
    ],
    "videos": [
-    "JYDoZB_vyX8"
+    "JYDoZB_vyX8",
+    "9iDOUoNMQ-M"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",
@@ -13493,7 +13592,8 @@
     "whatsapp"
    ],
    "videos": [
-    "grm3bUrPBxM"
+    "grm3bUrPBxM",
+    "HCiIpF3Ojb8"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",
@@ -13562,6 +13662,77 @@
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/admin/portal/cancelar-notificacao-push-agendada.md"
+  },
+  {
+   "id": "conectar-chatgpt",
+   "titulo": "conectar a conta do ChatGPT para ligar as funções com IA",
+   "objetivo": "Conectar a conta do ChatGPT do portal uma vez só, para ligar o assistente do site, a aprovação automática, a leitura de fotos do radar e os botões `Criar com IA`. Pode ser a conta gratuita; a plataforma não cobra nada por isso.",
+   "publico": [
+    "admin"
+   ],
+   "produto": null,
+   "modulo": "configuracoes",
+   "aba": "nao-se-aplica",
+   "tipos": [
+    "configuracao",
+    "botão criar com ia não funciona",
+    "aviso de ia desligada no topo do painel",
+    "ligar a inteligência artificial",
+    "trocar a conta do chatgpt"
+   ],
+   "tags": [
+    "ia",
+    "conectar",
+    "configurar",
+    "assistente",
+    "desativar",
+    "testar"
+   ],
+   "videos": [
+    "QtSKTSX258E"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-11-09",
+   "termos": [
+    "conectar",
+    "conta",
+    "chatgpt",
+    "ligar",
+    "funcoes",
+    "configuracoes",
+    "aplica",
+    "configuracao",
+    "botao",
+    "criar",
+    "funciona",
+    "aviso",
+    "desligada",
+    "topo",
+    "painel",
+    "inteligencia",
+    "artificial",
+    "trocar",
+    "configurar",
+    "assistente",
+    "desativar",
+    "testar",
+    "portal",
+    "vez",
+    "site",
+    "aprovacao",
+    "automatica",
+    "leitura",
+    "fotos",
+    "radar",
+    "botoes",
+    "ser",
+    "gratuita",
+    "plataforma",
+    "cobra",
+    "nada"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/admin/portal/conectar-chatgpt.md"
   },
   {
    "id": "convite-notificacoes-push",
@@ -13670,7 +13841,9 @@
     "automatico",
     "cliente"
    ],
-   "videos": [],
+   "videos": [
+    "9iDOUoNMQ-M"
+   ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",
    "termos": [
@@ -13721,7 +13894,8 @@
     "no ar"
    ],
    "videos": [
-    "JYDoZB_vyX8"
+    "JYDoZB_vyX8",
+    "9iDOUoNMQ-M"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",
@@ -14083,7 +14257,8 @@
     "desfazer"
    ],
    "videos": [
-    "JYDoZB_vyX8"
+    "JYDoZB_vyX8",
+    "9iDOUoNMQ-M"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",
@@ -14166,7 +14341,8 @@
     "status"
    ],
    "videos": [
-    "JYDoZB_vyX8"
+    "JYDoZB_vyX8",
+    "9iDOUoNMQ-M"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",
@@ -14438,7 +14614,8 @@
     "notificacao"
    ],
    "videos": [
-    "jZUtDBYZ8DM"
+    "jZUtDBYZ8DM",
+    "yyKEWuoi6rA"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",
@@ -14899,7 +15076,8 @@
     "painel"
    ],
    "videos": [
-    "JYDoZB_vyX8"
+    "JYDoZB_vyX8",
+    "9iDOUoNMQ-M"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",
@@ -15255,7 +15433,8 @@
     "painel"
    ],
    "videos": [
-    "JYDoZB_vyX8"
+    "JYDoZB_vyX8",
+    "9iDOUoNMQ-M"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",
@@ -15391,7 +15570,8 @@
     "contato"
    ],
    "videos": [
-    "1a0wZmdXDLk"
+    "1a0wZmdXDLk",
+    "DuG-WH77BsU"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-24",
@@ -15435,7 +15615,9 @@
     "relato"
    ],
    "videos": [
-    "1a0wZmdXDLk"
+    "1a0wZmdXDLk",
+    "DuG-WH77BsU",
+    "SY2cR27a5VM"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",
@@ -15479,7 +15661,8 @@
     "painel"
    ],
    "videos": [
-    "1a0wZmdXDLk"
+    "1a0wZmdXDLk",
+    "DuG-WH77BsU"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",
@@ -15802,6 +15985,69 @@
    ],
    "base": "portal-da-cidade",
    "caminho": "portal-da-cidade/cliente/acesso/trocar-senha-cliente.md"
+  },
+  {
+   "id": "cliente-banco-de-curriculos",
+   "titulo": "banco de currículos: encontrar candidatos na área da empresa",
+   "objetivo": "Encontrar candidatos da cidade sem esperar alguém se inscrever na sua vaga. Quem aparece no banco montou o currículo no portal e autorizou que as empresas o encontrassem.",
+   "publico": [
+    "cliente"
+   ],
+   "produto": null,
+   "modulo": "vagas",
+   "aba": "Vagas",
+   "tipos": [
+    "vagas-proprias",
+    "procurar candidato sem anunciar vaga",
+    "não aparece banco de currículos no menu"
+   ],
+   "tags": [
+    "vaga",
+    "cargo",
+    "filtrar",
+    "ver",
+    "whatsapp",
+    "empresa"
+   ],
+   "videos": [
+    "K6R1t4IICiE"
+   ],
+   "status": "rascunho-documental",
+   "revisado_em": "2026-11-09",
+   "termos": [
+    "banco",
+    "curriculos",
+    "encontrar",
+    "candidatos",
+    "area",
+    "empresa",
+    "vagas",
+    "proprias",
+    "procurar",
+    "candidato",
+    "sem",
+    "anunciar",
+    "vaga",
+    "aparece",
+    "menu",
+    "cargo",
+    "filtrar",
+    "ver",
+    "whatsapp",
+    "cidade",
+    "esperar",
+    "alguem",
+    "inscrever",
+    "quem",
+    "montou",
+    "curriculo",
+    "portal",
+    "autorizou",
+    "empresas",
+    "encontrassem"
+   ],
+   "base": "portal-da-cidade",
+   "caminho": "portal-da-cidade/cliente/banco-de-curriculos-da-empresa.md"
   },
   {
    "id": "cliente-cancelar-pedido-delivery",
@@ -16824,7 +17070,8 @@
     "empresa"
    ],
    "videos": [
-    "gmYWNfgX8LM"
+    "gmYWNfgX8LM",
+    "xPjOf4448-U"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",
@@ -16991,7 +17238,8 @@
     "empresa"
    ],
    "videos": [
-    "qpocVX6gjVA"
+    "qpocVX6gjVA",
+    "LtfCy1AgVLc"
    ],
    "status": "rascunho-documental",
    "revisado_em": "2026-10-27",

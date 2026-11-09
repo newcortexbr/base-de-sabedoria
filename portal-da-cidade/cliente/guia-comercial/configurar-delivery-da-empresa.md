@@ -25,6 +25,7 @@ revisado_em: 2026-10-27
 validacao: codigo-e-video
 videos:
   - qpocVX6gjVA
+  - LtfCy1AgVLc
 ---
 
 ## objetivo

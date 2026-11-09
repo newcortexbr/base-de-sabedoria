@@ -1,0 +1,485 @@
+1
+00:00:00,120 --> 00:00:02,389
+ 
+Com o cardápio com IA, você monta o
+
+2
+00:00:02,389 --> 00:00:02,399
+Com o cardápio com IA, você monta o
+ 
+
+3
+00:00:02,399 --> 00:00:04,349
+Com o cardápio com IA, você monta o
+cardápio digital de um restaurante em
+
+4
+00:00:04,349 --> 00:00:04,359
+cardápio digital de um restaurante em
+ 
+
+5
+00:00:04,359 --> 00:00:06,309
+cardápio digital de um restaurante em
+poucos minutos. A inteligência
+
+6
+00:00:06,309 --> 00:00:06,319
+poucos minutos. A inteligência
+ 
+
+7
+00:00:06,319 --> 00:00:08,509
+poucos minutos. A inteligência
+artificial lê a foto do cardápio e
+
+8
+00:00:08,509 --> 00:00:08,519
+artificial lê a foto do cardápio e
+ 
+
+9
+00:00:08,519 --> 00:00:10,990
+artificial lê a foto do cardápio e
+digita tudo. Antes, é importante
+
+10
+00:00:10,990 --> 00:00:11,000
+digita tudo. Antes, é importante
+ 
+
+11
+00:00:11,000 --> 00:00:13,310
+digita tudo. Antes, é importante
+conectar a conta do chat GPT do portal
+
+12
+00:00:13,310 --> 00:00:13,320
+conectar a conta do chat GPT do portal
+ 
+
+13
+00:00:13,320 --> 00:00:15,789
+conectar a conta do chat GPT do portal
+em configurações gerais e pode ser a
+
+14
+00:00:15,789 --> 00:00:15,799
+em configurações gerais e pode ser a
+ 
+
+15
+00:00:15,799 --> 00:00:18,550
+em configurações gerais e pode ser a
+conta gratuita. No menu lateral, abra
+
+16
+00:00:18,550 --> 00:00:18,560
+conta gratuita. No menu lateral, abra
+ 
+
+17
+00:00:18,560 --> 00:00:21,509
+conta gratuita. No menu lateral, abra
+guia comercial e listar empresas. Na
+
+18
+00:00:21,509 --> 00:00:21,519
+guia comercial e listar empresas. Na
+ 
+
+19
+00:00:21,519 --> 00:00:24,390
+guia comercial e listar empresas. Na
+empresa, abra o cardápio. Aqui fica o
+
+20
+00:00:24,390 --> 00:00:24,400
+empresa, abra o cardápio. Aqui fica o
+ 
+
+21
+00:00:24,400 --> 00:00:27,109
+empresa, abra o cardápio. Aqui fica o
+cardápio da empresa. No quadro Monte seu
+
+22
+00:00:27,109 --> 00:00:27,119
+cardápio da empresa. No quadro Monte seu
+ 
+
+23
+00:00:27,119 --> 00:00:29,470
+cardápio da empresa. No quadro Monte seu
+cardápio em poucos minutos, clique em
+
+24
+00:00:29,470 --> 00:00:29,480
+cardápio em poucos minutos, clique em
+ 
+
+25
+00:00:29,480 --> 00:00:32,350
+cardápio em poucos minutos, clique em
+criar com IA. Mande o cardápio como for
+
+26
+00:00:32,350 --> 00:00:32,360
+criar com IA. Mande o cardápio como for
+ 
+
+27
+00:00:32,360 --> 00:00:34,910
+criar com IA. Mande o cardápio como for
+mais fácil. Foto do cardápio impresso,
+
+28
+00:00:34,910 --> 00:00:34,920
+mais fácil. Foto do cardápio impresso,
+ 
+
+29
+00:00:34,920 --> 00:00:38,190
+mais fácil. Foto do cardápio impresso,
+print do site ou do iFood ou um PDF.
+
+30
+00:00:38,190 --> 00:00:38,200
+print do site ou do iFood ou um PDF.
+ 
+
+31
+00:00:38,200 --> 00:00:41,389
+print do site ou do iFood ou um PDF.
+Clique em escolher foto, print ou PDF.
+
+32
+00:00:41,389 --> 00:00:41,399
+Clique em escolher foto, print ou PDF.
+ 
+
+33
+00:00:41,399 --> 00:00:44,110
+Clique em escolher foto, print ou PDF.
+Dá para enviar até cinco partes e aí há
+
+34
+00:00:44,110 --> 00:00:44,120
+Dá para enviar até cinco partes e aí há
+ 
+
+35
+00:00:44,120 --> 00:00:46,270
+Dá para enviar até cinco partes e aí há
+ler todas juntas na ordem em que você
+
+36
+00:00:46,270 --> 00:00:46,280
+ler todas juntas na ordem em que você
+ 
+
+37
+00:00:46,280 --> 00:00:49,229
+ler todas juntas na ordem em que você
+enviar. Depois clique em ler cardápio
+
+38
+00:00:49,229 --> 00:00:49,239
+enviar. Depois clique em ler cardápio
+ 
+
+39
+00:00:49,239 --> 00:00:51,750
+enviar. Depois clique em ler cardápio
+com IA. A leitura leva cerca de um
+
+40
+00:00:51,750 --> 00:00:51,760
+com IA. A leitura leva cerca de um
+ 
+
+41
+00:00:51,760 --> 00:00:54,270
+com IA. A leitura leva cerca de um
+minuto. A Iá só copia o que estiver
+
+42
+00:00:54,270 --> 00:00:54,280
+minuto. A Iá só copia o que estiver
+ 
+
+43
+00:00:54,280 --> 00:00:57,470
+minuto. A Iá só copia o que estiver
+escrito sem inventar nada. Pronto. As
+
+44
+00:00:57,470 --> 00:00:57,480
+escrito sem inventar nada. Pronto. As
+ 
+
+45
+00:00:57,480 --> 00:00:59,910
+escrito sem inventar nada. Pronto. As
+sessões, os pratos, as descrições e os
+
+46
+00:00:59,910 --> 00:00:59,920
+sessões, os pratos, as descrições e os
+ 
+
+47
+00:00:59,920 --> 00:01:02,790
+sessões, os pratos, as descrições e os
+preços aparecem organizados do jeito que
+
+48
+00:01:02,790 --> 00:01:02,800
+preços aparecem organizados do jeito que
+ 
+
+49
+00:01:02,800 --> 00:01:05,509
+preços aparecem organizados do jeito que
+vão ficar no site. Se quiser, envie uma
+
+50
+00:01:05,509 --> 00:01:05,519
+vão ficar no site. Se quiser, envie uma
+ 
+
+51
+00:01:05,519 --> 00:01:08,149
+vão ficar no site. Se quiser, envie uma
+foto de cada prato pelo botão foto. É
+
+52
+00:01:08,149 --> 00:01:08,159
+foto de cada prato pelo botão foto. É
+ 
+
+53
+00:01:08,159 --> 00:01:10,710
+foto de cada prato pelo botão foto. É
+opcional e dá para colocar depois. Para
+
+54
+00:01:10,710 --> 00:01:10,720
+opcional e dá para colocar depois. Para
+ 
+
+55
+00:01:10,720 --> 00:01:12,830
+opcional e dá para colocar depois. Para
+corrigir alguma coisa, clique na linha
+
+56
+00:01:12,830 --> 00:01:12,840
+corrigir alguma coisa, clique na linha
+ 
+
+57
+00:01:12,840 --> 00:01:15,510
+corrigir alguma coisa, clique na linha
+do prato. Você muda o nome, a descrição
+
+58
+00:01:15,510 --> 00:01:15,520
+do prato. Você muda o nome, a descrição
+ 
+
+59
+00:01:15,520 --> 00:01:18,230
+do prato. Você muda o nome, a descrição
+e o preço. Coloca um preço promocional e
+
+60
+00:01:18,230 --> 00:01:18,240
+e o preço. Coloca um preço promocional e
+ 
+
+61
+00:01:18,240 --> 00:01:20,990
+e o preço. Coloca um preço promocional e
+marca selos como mais pedido. Clique em
+
+62
+00:01:20,990 --> 00:01:21,000
+marca selos como mais pedido. Clique em
+ 
+
+63
+00:01:21,000 --> 00:01:23,350
+marca selos como mais pedido. Clique em
+salvar. Quando estiver tudo certo,
+
+64
+00:01:23,350 --> 00:01:23,360
+salvar. Quando estiver tudo certo,
+ 
+
+65
+00:01:23,360 --> 00:01:25,670
+salvar. Quando estiver tudo certo,
+clique em publicar cardápio. Se a
+
+66
+00:01:25,670 --> 00:01:25,680
+clique em publicar cardápio. Se a
+ 
+
+67
+00:01:25,680 --> 00:01:27,710
+clique em publicar cardápio. Se a
+empresa já tinha um cardápio, o painel
+
+68
+00:01:27,710 --> 00:01:27,720
+empresa já tinha um cardápio, o painel
+ 
+
+69
+00:01:27,720 --> 00:01:29,870
+empresa já tinha um cardápio, o painel
+pergunta o que fazer. Adicionar ao que
+
+70
+00:01:29,870 --> 00:01:29,880
+pergunta o que fazer. Adicionar ao que
+ 
+
+71
+00:01:29,880 --> 00:01:31,830
+pergunta o que fazer. Adicionar ao que
+já tem, que é o recomendado, ou
+
+72
+00:01:31,830 --> 00:01:31,840
+já tem, que é o recomendado, ou
+ 
+
+73
+00:01:31,840 --> 00:01:34,389
+já tem, que é o recomendado, ou
+substituir tudo pelo novo. Cardápio
+
+74
+00:01:34,389 --> 00:01:34,399
+substituir tudo pelo novo. Cardápio
+ 
+
+75
+00:01:34,399 --> 00:01:36,749
+substituir tudo pelo novo. Cardápio
+publicado. O painel mostra quantos
+
+76
+00:01:36,749 --> 00:01:36,759
+publicado. O painel mostra quantos
+ 
+
+77
+00:01:36,759 --> 00:01:39,030
+publicado. O painel mostra quantos
+produtos entraram. De volta à página do
+
+78
+00:01:39,030 --> 00:01:39,040
+produtos entraram. De volta à página do
+ 
+
+79
+00:01:39,040 --> 00:01:41,310
+produtos entraram. De volta à página do
+cardápio, as novas sessões aparecem na
+
+80
+00:01:41,310 --> 00:01:41,320
+cardápio, as novas sessões aparecem na
+ 
+
+81
+00:01:41,320 --> 00:01:43,710
+cardápio, as novas sessões aparecem na
+lista e você pode editar cada prato
+
+82
+00:01:43,710 --> 00:01:43,720
+lista e você pode editar cada prato
+ 
+
+83
+00:01:43,720 --> 00:01:46,310
+lista e você pode editar cada prato
+quando quiser. No site, o cliente vê o
+
+84
+00:01:46,310 --> 00:01:46,320
+quando quiser. No site, o cliente vê o
+ 
+
+85
+00:01:46,320 --> 00:01:48,910
+quando quiser. No site, o cliente vê o
+cardápio completo, separado por sessões,
+
+86
+00:01:48,910 --> 00:01:48,920
+cardápio completo, separado por sessões,
+ 
+
+87
+00:01:48,920 --> 00:01:51,550
+cardápio completo, separado por sessões,
+com os selos e os preços. E com o QR
+
+88
+00:01:51,550 --> 00:01:51,560
+com os selos e os preços. E com o QR
+ 
+
+89
+00:01:51,560 --> 00:01:53,990
+com os selos e os preços. E com o QR
+code do cardápio impresso na mesa ou no
+
+90
+00:01:53,990 --> 00:01:54,000
+code do cardápio impresso na mesa ou no
+ 
+
+91
+00:01:54,000 --> 00:01:56,469
+code do cardápio impresso na mesa ou no
+balcão, o cliente abre tudo direto no
+
+92
+00:01:56,469 --> 00:01:56,479
+balcão, o cliente abre tudo direto no
+ 
+
+93
+00:01:56,479 --> 00:01:59,230
+balcão, o cliente abre tudo direto no
+celular. Pronto. Em poucos minutos, o
+
+94
+00:01:59,230 --> 00:01:59,240
+celular. Pronto. Em poucos minutos, o
+ 
+
+95
+00:01:59,240 --> 00:02:01,990
+celular. Pronto. Em poucos minutos, o
+cardápio inteiro está no ar, sem digitar
+
+96
+00:02:01,990 --> 00:02:02,000
+cardápio inteiro está no ar, sem digitar
+ 
+
+97
+00:02:02,000 --> 00:02:04,719
+cardápio inteiro está no ar, sem digitar
+prato por prato.
+

@@ -7,8 +7,8 @@ fonte: [planilha de vídeos](https://docs.google.com/spreadsheets/d/1T-8uwGcdqZx
 
 | aba | produto | linhas | com tópico | com link | publicadas | com legenda | com artigo |
 |---|---|---|---|---|---|---|---|
-| painel-admin | portal-da-cidade | 64 | 64 | 64 | 64 | 64 | 64 |
-| area-empresa-parceiro-portal | portal-da-cidade | 26 | 22 | 22 | 22 | 22 | 22 |
+| painel-admin | portal-da-cidade | 74 | 74 | 74 | 74 | 74 | 73 |
+| area-empresa-parceiro-portal | portal-da-cidade | 29 | 25 | 25 | 25 | 25 | 25 |
 | sistema-dados-pj | dados-pj | 5 | 2 | 2 | 2 | 2 | 2 |
 | extrator-google-maps | extrator-maps | 6 | 3 | 3 | 3 | 3 | 3 |
 | claude-videos-basicos-area-do-cliente | area-do-cliente | 15 | 13 | 11 | 11 | 11 | 11 |
@@ -19,14 +19,14 @@ fonte: [planilha de vídeos](https://docs.google.com/spreadsheets/d/1T-8uwGcdqZx
 
 | produto | linhas | com tópico | com link | publicadas | com legenda | com artigo |
 |---|---|---|---|---|---|---|
-| portal-da-cidade | 90 | 86 | 86 | 86 | 86 | 86 |
+| portal-da-cidade | 103 | 99 | 99 | 99 | 99 | 98 |
 | dados-pj | 5 | 2 | 2 | 2 | 2 | 2 |
 | extrator-maps | 6 | 3 | 3 | 3 | 3 | 3 |
 | area-do-cliente | 15 | 13 | 11 | 11 | 11 | 11 |
 | treinamento-do-franqueado | 16 | 1 | 0 | 0 | 0 | 0 |
 | vendas | 16 | 0 | 0 | 0 | 0 | 0 |
 
-total: 148 linhas, 105 com tópico, 102 com link (102 ids distintos), 102 publicadas, 102 com legenda, 102 com artigo.
+total: 161 linhas, 118 com tópico, 115 com link (115 ids distintos), 115 publicadas, 115 com legenda, 114 com artigo.
 
 ## tópicos sem link
 
@@ -36,5 +36,6 @@ total: 148 linhas, 105 com tópico, 102 com link (102 ids distintos), 102 public
 
 ## links com observação
 
-- painel-admin #5 `wukhVMFEHWg`: coluna Drive aponta a versão antiga JdJr7pXVx98 (fica no catálogo como 2º nos artigos do Guia).
-- painel-admin #6 `jl7GHmHVJcM`: mesmo vídeo da aba extrator-google-maps, linha 3.
+- painel-admin #6 `wukhVMFEHWg`: coluna Drive aponta a versão antiga JdJr7pXVx98 (fica no catálogo como 2º nos artigos do Guia).
+- painel-admin #7 `jl7GHmHVJcM`: mesmo vídeo da aba extrator-google-maps, linha 3.
+- painel-admin #null `L34LwSBIE_o`: publicado, sem artigo vinculado.

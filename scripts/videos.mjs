@@ -21,8 +21,8 @@ const ABAS = [ // [slug do snapshot, gid, produto]
 ]
 // Observações apuradas por linha (chave "slug:id_planilha"), herdadas do catálogo de 2026-10-21.
 const OBS = {
-  'painel-admin:5': 'coluna Drive aponta a versão antiga JdJr7pXVx98 (fica no catálogo como 2º nos artigos do Guia).',
-  'painel-admin:6': 'mesmo vídeo da aba extrator-google-maps, linha 3.',
+  'painel-admin:6': 'coluna Drive aponta a versão antiga JdJr7pXVx98 (fica no catálogo como 2º nos artigos do Guia).',
+  'painel-admin:7': 'mesmo vídeo da aba extrator-google-maps, linha 3.',
   'claude-videos-basicos-area-do-cliente:1': 'sem link: pendente na Área do Cliente.',
 }
 // ----------------------

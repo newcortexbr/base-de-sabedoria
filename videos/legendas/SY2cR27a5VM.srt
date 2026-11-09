@@ -1,0 +1,345 @@
+1
+00:00:00,000 --> 00:00:01,870
+ 
+Com a inteligência artificial, uma
+
+2
+00:00:01,870 --> 00:00:01,880
+Com a inteligência artificial, uma
+ 
+
+3
+00:00:01,880 --> 00:00:04,070
+Com a inteligência artificial, uma
+denúncia da Voz do Povo vira uma notícia
+
+4
+00:00:04,070 --> 00:00:04,080
+denúncia da Voz do Povo vira uma notícia
+ 
+
+5
+00:00:04,080 --> 00:00:06,790
+denúncia da Voz do Povo vira uma notícia
+completa em menos de 1 minuto.
+
+6
+00:00:06,790 --> 00:00:06,800
+completa em menos de 1 minuto.
+ 
+
+7
+00:00:06,800 --> 00:00:08,910
+completa em menos de 1 minuto.
+Antes de começar, é importante conectar
+
+8
+00:00:08,910 --> 00:00:08,920
+Antes de começar, é importante conectar
+ 
+
+9
+00:00:08,920 --> 00:00:10,910
+Antes de começar, é importante conectar
+a sua conta do ChatGPT.
+
+10
+00:00:10,910 --> 00:00:10,920
+a sua conta do ChatGPT.
+ 
+
+11
+00:00:10,920 --> 00:00:13,110
+a sua conta do ChatGPT.
+Em configurações gerais, clique em
+
+12
+00:00:13,110 --> 00:00:13,120
+Em configurações gerais, clique em
+ 
+
+13
+00:00:13,120 --> 00:00:15,870
+Em configurações gerais, clique em
+entrar com o ChatGPT e pode ser a conta
+
+14
+00:00:15,870 --> 00:00:15,880
+entrar com o ChatGPT e pode ser a conta
+ 
+
+15
+00:00:15,880 --> 00:00:16,950
+entrar com o ChatGPT e pode ser a conta
+gratuita.
+
+16
+00:00:16,950 --> 00:00:16,960
+gratuita.
+ 
+
+17
+00:00:16,960 --> 00:00:19,950
+gratuita.
+No painel, abra A Voz do Povo, clique em
+
+18
+00:00:19,950 --> 00:00:19,960
+No painel, abra A Voz do Povo, clique em
+ 
+
+19
+00:00:19,960 --> 00:00:22,550
+No painel, abra A Voz do Povo, clique em
+denúncias e, na denúncia que escolher,
+
+20
+00:00:22,550 --> 00:00:22,560
+denúncias e, na denúncia que escolher,
+ 
+
+21
+00:00:22,560 --> 00:00:24,630
+denúncias e, na denúncia que escolher,
+clique em ver detalhes.
+
+22
+00:00:24,630 --> 00:00:24,640
+clique em ver detalhes.
+ 
+
+23
+00:00:24,640 --> 00:00:27,150
+clique em ver detalhes.
+Em O que fazer com esta denúncia, clique
+
+24
+00:00:27,150 --> 00:00:27,160
+Em O que fazer com esta denúncia, clique
+ 
+
+25
+00:00:27,160 --> 00:00:29,590
+Em O que fazer com esta denúncia, clique
+em gerar notícia com IA.
+
+26
+00:00:29,590 --> 00:00:29,600
+em gerar notícia com IA.
+ 
+
+27
+00:00:29,600 --> 00:00:32,070
+em gerar notícia com IA.
+Escolha como a matéria sai: salvar como
+
+28
+00:00:32,070 --> 00:00:32,080
+Escolha como a matéria sai: salvar como
+ 
+
+29
+00:00:32,080 --> 00:00:34,070
+Escolha como a matéria sai: salvar como
+rascunho para revisar antes, que é o
+
+30
+00:00:34,070 --> 00:00:34,080
+rascunho para revisar antes, que é o
+ 
+
+31
+00:00:34,080 --> 00:00:37,270
+rascunho para revisar antes, que é o
+recomendado, ou publicar direto. O nome
+
+32
+00:00:37,270 --> 00:00:37,280
+recomendado, ou publicar direto. O nome
+ 
+
+33
+00:00:37,280 --> 00:00:39,550
+recomendado, ou publicar direto. O nome
+e o WhatsApp de quem relatou não entram
+
+34
+00:00:39,550 --> 00:00:39,560
+e o WhatsApp de quem relatou não entram
+ 
+
+35
+00:00:39,560 --> 00:00:42,190
+e o WhatsApp de quem relatou não entram
+na matéria e a IA não inventa fatos que
+
+36
+00:00:42,190 --> 00:00:42,200
+na matéria e a IA não inventa fatos que
+ 
+
+37
+00:00:42,200 --> 00:00:44,710
+na matéria e a IA não inventa fatos que
+não estão no relato. Clique em gerar
+
+38
+00:00:44,710 --> 00:00:44,720
+não estão no relato. Clique em gerar
+ 
+
+39
+00:00:44,720 --> 00:00:45,670
+não estão no relato. Clique em gerar
+agora.
+
+40
+00:00:45,670 --> 00:00:45,680
+agora.
+ 
+
+41
+00:00:45,680 --> 00:00:48,150
+agora.
+A IA escreve a matéria e usa as fotos e
+
+42
+00:00:48,150 --> 00:00:48,160
+A IA escreve a matéria e usa as fotos e
+ 
+
+43
+00:00:48,160 --> 00:00:50,390
+A IA escreve a matéria e usa as fotos e
+o vídeo enviados. Leva menos de 1
+
+44
+00:00:50,390 --> 00:00:50,400
+o vídeo enviados. Leva menos de 1
+ 
+
+45
+00:00:50,400 --> 00:00:52,990
+o vídeo enviados. Leva menos de 1
+minuto. Pronto. A notícia está salva
+
+46
+00:00:52,990 --> 00:00:53,000
+minuto. Pronto. A notícia está salva
+ 
+
+47
+00:00:53,000 --> 00:00:55,510
+minuto. Pronto. A notícia está salva
+como rascunho, com título, chamada,
+
+48
+00:00:55,510 --> 00:00:55,520
+como rascunho, com título, chamada,
+ 
+
+49
+00:00:55,520 --> 00:00:58,910
+como rascunho, com título, chamada,
+foto, bairro e SEO preenchidos. Clique
+
+50
+00:00:58,910 --> 00:00:58,920
+foto, bairro e SEO preenchidos. Clique
+ 
+
+51
+00:00:58,920 --> 00:01:00,870
+foto, bairro e SEO preenchidos. Clique
+em abrir para revisar.
+
+52
+00:01:00,870 --> 00:01:00,880
+em abrir para revisar.
+ 
+
+53
+00:01:00,880 --> 00:01:03,150
+em abrir para revisar.
+A matéria abre no editor de notícias
+
+54
+00:01:03,150 --> 00:01:03,160
+A matéria abre no editor de notícias
+ 
+
+55
+00:01:03,160 --> 00:01:04,790
+A matéria abre no editor de notícias
+para você ajustar o que quiser e
+
+56
+00:01:04,790 --> 00:01:04,800
+para você ajustar o que quiser e
+ 
+
+57
+00:01:04,800 --> 00:01:05,830
+para você ajustar o que quiser e
+publicar.
+
+58
+00:01:05,830 --> 00:01:05,840
+publicar.
+ 
+
+59
+00:01:05,840 --> 00:01:07,870
+publicar.
+Publicada, ela aparece no site como
+
+60
+00:01:07,870 --> 00:01:07,880
+Publicada, ela aparece no site como
+ 
+
+61
+00:01:07,880 --> 00:01:10,070
+Publicada, ela aparece no site como
+qualquer outra notícia do portal e, na
+
+62
+00:01:10,070 --> 00:01:10,080
+qualquer outra notícia do portal e, na
+ 
+
+63
+00:01:10,080 --> 00:01:12,590
+qualquer outra notícia do portal e, na
+denúncia, fica o link da notícia gerada.
+
+64
+00:01:12,590 --> 00:01:12,600
+denúncia, fica o link da notícia gerada.
+ 
+
+65
+00:01:12,600 --> 00:01:15,270
+denúncia, fica o link da notícia gerada.
+Se quiser, dá para gerar outra versão.
+
+66
+00:01:15,270 --> 00:01:15,280
+Se quiser, dá para gerar outra versão.
+ 
+
+67
+00:01:15,280 --> 00:01:17,790
+Se quiser, dá para gerar outra versão.
+Pronto. Agora, cada relato pode virar
+
+68
+00:01:17,790 --> 00:01:17,800
+Pronto. Agora, cada relato pode virar
+ 
+
+69
+00:01:17,800 --> 00:01:21,280
+Pronto. Agora, cada relato pode virar
+conteúdo para o seu portal.
+

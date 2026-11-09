@@ -21,6 +21,8 @@ tags:
 status: rascunho-documental
 revisado_em: 2026-10-27
 validacao: docs-e-codigo
+videos:
+  - 9iDOUoNMQ-M
 ---
 
 ## objetivo

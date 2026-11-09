@@ -1,0 +1,325 @@
+1
+00:00:00,000 --> 00:00:02,630
+ 
+Criar pontos turísticos com IA.
+
+2
+00:00:02,630 --> 00:00:02,640
+Criar pontos turísticos com IA.
+ 
+
+3
+00:00:02,640 --> 00:00:04,390
+Criar pontos turísticos com IA.
+A inteligência artificial sugere os
+
+4
+00:00:04,390 --> 00:00:04,400
+A inteligência artificial sugere os
+ 
+
+5
+00:00:04,400 --> 00:00:06,950
+A inteligência artificial sugere os
+lugares mais conhecidos da cidade e cria
+
+6
+00:00:06,950 --> 00:00:06,960
+lugares mais conhecidos da cidade e cria
+ 
+
+7
+00:00:06,960 --> 00:00:10,310
+lugares mais conhecidos da cidade e cria
+os pontos com descrição, mapa e fotos.
+
+8
+00:00:10,310 --> 00:00:10,320
+os pontos com descrição, mapa e fotos.
+ 
+
+9
+00:00:10,320 --> 00:00:12,510
+os pontos com descrição, mapa e fotos.
+Antes de começar, é importante conectar
+
+10
+00:00:12,510 --> 00:00:12,520
+Antes de começar, é importante conectar
+ 
+
+11
+00:00:12,520 --> 00:00:14,510
+Antes de começar, é importante conectar
+a sua conta do chat GPT. Em
+
+12
+00:00:14,510 --> 00:00:14,520
+a sua conta do chat GPT. Em
+ 
+
+13
+00:00:14,520 --> 00:00:17,230
+a sua conta do chat GPT. Em
+configurações gerais, clique em entrar
+
+14
+00:00:17,230 --> 00:00:17,240
+configurações gerais, clique em entrar
+ 
+
+15
+00:00:17,240 --> 00:00:19,550
+configurações gerais, clique em entrar
+com o chat GPT. E pode ser a conta
+
+16
+00:00:19,550 --> 00:00:19,560
+com o chat GPT. E pode ser a conta
+ 
+
+17
+00:00:19,560 --> 00:00:22,830
+com o chat GPT. E pode ser a conta
+gratuita. No painel, abra guia turístico
+
+18
+00:00:22,830 --> 00:00:22,840
+gratuita. No painel, abra guia turístico
+ 
+
+19
+00:00:22,840 --> 00:00:25,510
+gratuita. No painel, abra guia turístico
+e eventos e clique em criar pontos com
+
+20
+00:00:25,510 --> 00:00:25,520
+e eventos e clique em criar pontos com
+ 
+
+21
+00:00:25,520 --> 00:00:26,350
+e eventos e clique em criar pontos com
+IA.
+
+22
+00:00:26,350 --> 00:00:26,360
+IA.
+ 
+
+23
+00:00:26,360 --> 00:00:28,550
+IA.
+Escolha a cidade e clique em buscar
+
+24
+00:00:28,550 --> 00:00:28,560
+Escolha a cidade e clique em buscar
+ 
+
+25
+00:00:28,560 --> 00:00:31,350
+Escolha a cidade e clique em buscar
+sugestões. A IA traz os lugares mais
+
+26
+00:00:31,350 --> 00:00:31,360
+sugestões. A IA traz os lugares mais
+ 
+
+27
+00:00:31,360 --> 00:00:33,910
+sugestões. A IA traz os lugares mais
+conhecidos, cada um com a categoria e um
+
+28
+00:00:33,910 --> 00:00:33,920
+conhecidos, cada um com a categoria e um
+ 
+
+29
+00:00:33,920 --> 00:00:36,550
+conhecidos, cada um com a categoria e um
+resumo. Marque os que quer criar. Deixe
+
+30
+00:00:36,550 --> 00:00:36,560
+resumo. Marque os que quer criar. Deixe
+ 
+
+31
+00:00:36,560 --> 00:00:39,030
+resumo. Marque os que quer criar. Deixe
+publicar direto desligado para revisar
+
+32
+00:00:39,030 --> 00:00:39,040
+publicar direto desligado para revisar
+ 
+
+33
+00:00:39,040 --> 00:00:42,070
+publicar direto desligado para revisar
+antes e clique em criar. A IA escreve o
+
+34
+00:00:42,070 --> 00:00:42,080
+antes e clique em criar. A IA escreve o
+ 
+
+35
+00:00:42,080 --> 00:00:44,470
+antes e clique em criar. A IA escreve o
+texto, busca as fotos na internet e
+
+36
+00:00:44,470 --> 00:00:44,480
+texto, busca as fotos na internet e
+ 
+
+37
+00:00:44,480 --> 00:00:46,750
+texto, busca as fotos na internet e
+encontra o endereço no mapa. Os pontos
+
+38
+00:00:46,750 --> 00:00:46,760
+encontra o endereço no mapa. Os pontos
+ 
+
+39
+00:00:46,760 --> 00:00:49,070
+encontra o endereço no mapa. Os pontos
+ficam em rascunho. Cada cartão mostra a
+
+40
+00:00:49,070 --> 00:00:49,080
+ficam em rascunho. Cada cartão mostra a
+ 
+
+41
+00:00:49,080 --> 00:00:51,630
+ficam em rascunho. Cada cartão mostra a
+capa, as fotos encontradas e tudo que
+
+42
+00:00:51,630 --> 00:00:51,640
+capa, as fotos encontradas e tudo que
+ 
+
+43
+00:00:51,640 --> 00:00:54,150
+capa, as fotos encontradas e tudo que
+foi preenchido. Clique em revisar e
+
+44
+00:00:54,150 --> 00:00:54,160
+foi preenchido. Clique em revisar e
+ 
+
+45
+00:00:54,160 --> 00:00:56,910
+foi preenchido. Clique em revisar e
+publicar. Confira a foto principal, o
+
+46
+00:00:56,910 --> 00:00:56,920
+publicar. Confira a foto principal, o
+ 
+
+47
+00:00:56,920 --> 00:00:59,670
+publicar. Confira a foto principal, o
+nome, a categoria, a descrição e as
+
+48
+00:00:59,670 --> 00:00:59,680
+nome, a categoria, a descrição e as
+ 
+
+49
+00:00:59,680 --> 00:01:02,510
+nome, a categoria, a descrição e as
+tags. Mais abaixo, confira o endereço,
+
+50
+00:01:02,510 --> 00:01:02,520
+tags. Mais abaixo, confira o endereço,
+ 
+
+51
+00:01:02,520 --> 00:01:05,110
+tags. Mais abaixo, confira o endereço,
+os horários e a galeria. As fotos vêm da
+
+52
+00:01:05,110 --> 00:01:05,120
+os horários e a galeria. As fotos vêm da
+ 
+
+53
+00:01:05,120 --> 00:01:07,070
+os horários e a galeria. As fotos vêm da
+internet, com o site de origem no
+
+54
+00:01:07,070 --> 00:01:07,080
+internet, com o site de origem no
+ 
+
+55
+00:01:07,080 --> 00:01:09,470
+internet, com o site de origem no
+crédito. Quando estiver tudo certo,
+
+56
+00:01:09,470 --> 00:01:09,480
+crédito. Quando estiver tudo certo,
+ 
+
+57
+00:01:09,480 --> 00:01:11,830
+crédito. Quando estiver tudo certo,
+marque ativo e clique em salvar
+
+58
+00:01:11,830 --> 00:01:11,840
+marque ativo e clique em salvar
+ 
+
+59
+00:01:11,840 --> 00:01:14,590
+marque ativo e clique em salvar
+alterações. E o ponto aparece no site,
+
+60
+00:01:14,590 --> 00:01:14,600
+alterações. E o ponto aparece no site,
+ 
+
+61
+00:01:14,600 --> 00:01:17,030
+alterações. E o ponto aparece no site,
+pronto para o visitante. Pronto. Em
+
+62
+00:01:17,030 --> 00:01:17,040
+pronto para o visitante. Pronto. Em
+ 
+
+63
+00:01:17,040 --> 00:01:19,150
+pronto para o visitante. Pronto. Em
+poucos cliques, o seu guia turístico
+
+64
+00:01:19,150 --> 00:01:19,160
+poucos cliques, o seu guia turístico
+ 
+
+65
+00:01:19,160 --> 00:01:22,360
+poucos cliques, o seu guia turístico
+ganha lugares novos.
+
